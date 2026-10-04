@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Drawing;
 using System.Drawing.Drawing2D;
 using System.Windows.Forms;
@@ -16,7 +16,8 @@ public class VNButton:Control {
  protected override void OnMouseUp(MouseEventArgs e){base.OnMouseUp(e);if(Enabled&&e.Button==MouseButtons.Left&&ClientRectangle.Contains(e.Location))OnClick(EventArgs.Empty);}
  protected override void OnKeyDown(KeyEventArgs e){base.OnKeyDown(e);if(Enabled&&(e.KeyCode==Keys.Enter||e.KeyCode==Keys.Space)){OnClick(EventArgs.Empty);e.Handled=true;}}
  protected override void OnPaint(PaintEventArgs e){base.OnPaint(e);e.Graphics.SmoothingMode=PixelStyle?SmoothingMode.None:SmoothingMode.AntiAlias;Color c=!Enabled?Color.FromArgb(130,150,154):(hover||Focused||Active)?Color.FromArgb(255,196,132):ForeColor;using(var pen=new Pen(c,2.2f))using(var brush=new SolidBrush(c)){
- if(PixelStyle&&!MenuStyle){using(var p=new Pen(Color.FromArgb(hover||Focused?220:100,150,135,225),2))e.Graphics.DrawRectangle(p,1,1,Width-3,Height-3);}
+ if(Icon==""){CyberChrome.Button(e.Graphics,ClientRectangle,Text,Font,Active,hover||Focused,Enabled);return;}
+ if(PixelStyle&&!MenuStyle)CyberChrome.Panel(e.Graphics,Rectangle.Inflate(ClientRectangle,-1,-1),CyberChrome.Neon);
  if(MenuStyle){GameTheme.Button(e.Graphics,ClientRectangle,Text,Font,false,hover||Focused,Enabled);if(hover||Focused){using(var gold=new SolidBrush(GameTheme.Gold))e.Graphics.FillRectangle(gold,15,Height/2-3,6,6);}return;}
 
  if(Icon==""){TextRenderer.DrawText(e.Graphics,Text,Font,ClientRectangle,c,TextFormatFlags.HorizontalCenter|TextFormatFlags.VerticalCenter|TextFormatFlags.NoPadding);return;}

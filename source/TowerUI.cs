@@ -51,7 +51,7 @@ public partial class Game {
   }else if(r.state=="rest"){
    var card=RogueCard("火堆 · 一次选择","恢复生命，或磨练武器。选择后返回地图。");var heal=RogueButton("休息 · 恢复 "+(int)Math.Ceiling(r.maxHp*.3)+" 生命",()=>{TowerEngine.Rest(p,true);SaveRogue();},300);heal.Enabled=r.hp<r.maxHp;RogueActions(card,heal,RogueButton("磨练 · 本局攻击 +3",()=>{TowerEngine.Rest(p,false);SaveRogue();},300));
   }else if(r.state=="chest"){
-   var card=RogueCard(r.chestKind==2?"稀有宝箱":"遗迹宝箱",r.chestKind==2?"获得 20 金币，并选择一项赋能。":"获得 15 金币。每只宝箱只能领取一次。");card.Controls.Add(RogueButton("打开宝箱",()=>{TowerEngine.Chest(p);SaveRogue();},260));
+   var card=RogueCard(r.chestKind==2?"稀有宝箱":"遗迹宝箱",r.chestKind==2?"获得 20 金币，并选择一项赋能。":"获得 15 金币。每只宝箱只能领取一次。");card.Controls.Add(RogueButton("打开宝箱",OpenTowerChest,260));
   }else if(r.state=="event")RenderTowerEvent(r);
   else if(r.state=="shop")RenderTowerShop(r);
   else if(r.state=="boss-intro"){

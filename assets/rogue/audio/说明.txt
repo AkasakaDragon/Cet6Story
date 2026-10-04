@@ -1,1 +1,2 @@
 ﻿原创音频：forest-loop.wav（40 秒循环背景音乐）、attack.wav（攻击）、hurt.wav（受击）。44.1 kHz / 16 bit / 双声道 PCM WAV，原创编曲与程序合成，无现成歌曲或外部采样。源脚本：配音试听/背单词音频-v1/制作音频.py。
+新增 coin-gain.wav：原创程序合成的金币入账提示音。源码 source/CurrencyAudio.cs；通过 tools/create-monster-audio.ps1 可与怪物音效一起重新生成。按游戏内音效音量播放，余额未增加、重复保存或花费金币时不会触发。

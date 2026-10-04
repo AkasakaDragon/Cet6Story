@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Drawing;
 using System.Drawing.Drawing2D;
 using System.Drawing.Imaging;
@@ -26,7 +26,7 @@ public class TowerMap:Control {
    if(done){using(var pen=new Pen(Color.FromArgb(163,233,184),3)){g.DrawLine(pen,box.Right-12,box.Bottom-6,box.Right-7,box.Bottom-1);g.DrawLine(pen,box.Right-7,box.Bottom-1,box.Right+2,box.Bottom-13);}}
    if(enabled){int x=box.Left-15-(pulse%8<4?0:2),y=box.Top+box.Height/2;using(var brush=new SolidBrush(n.id==hover?Color.White:Color.FromArgb(255,225,139))){g.FillRectangle(brush,x,y-6,3,12);g.FillRectangle(brush,x+3,y-4,3,8);g.FillRectangle(brush,x+6,y-2,3,4);}}
   }
-  var exit=ExitBounds();using(var b=new SolidBrush(Color.FromArgb(215,17,35,35)))g.FillRectangle(b,exit);using(var p=new Pen(Color.FromArgb(231,197,128),2))g.DrawRectangle(p,exit);TextRenderer.DrawText(g,"返回",Font,exit,Color.FromArgb(255,231,177),TextFormatFlags.HorizontalCenter|TextFormatFlags.VerticalCenter);
+  CyberChrome.Button(g,ExitBounds(),"返回",Font,false,false,true);
  }
  public static Rectangle[] FindIconRegions(Image atlas){
   var regions=new Rectangle[8];using(var pixels=new Bitmap(atlas)){int cw=pixels.Width/4,ch=pixels.Height/2;for(int i=0;i<8;i++){int sx=i%4*cw,sy=i/4*ch,left=sx+cw,top=sy+ch,right=sx,bottom=sy;for(int y=sy;y<sy+ch;y+=2)for(int x=sx;x<sx+cw;x+=2)if(pixels.GetPixel(x,y).A>32){left=Math.Min(left,x);top=Math.Min(top,y);right=Math.Max(right,x);bottom=Math.Max(bottom,y);}regions[i]=left>right?new Rectangle(sx,sy,cw,ch):Rectangle.FromLTRB(Math.Max(sx,left-3),Math.Max(sy,top-3),Math.Min(sx+cw,right+4),Math.Min(sy+ch,bottom+4));}}return regions;

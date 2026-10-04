@@ -5,7 +5,7 @@ public sealed class RelicRewardChoice:Control {
  protected override void OnGotFocus(EventArgs e){base.OnGotFocus(e);Invalidate();}protected override void OnLostFocus(EventArgs e){base.OnLostFocus(e);Invalidate();}
  protected override void OnKeyDown(KeyEventArgs e){base.OnKeyDown(e);if(e.KeyCode==Keys.Enter||e.KeyCode==Keys.Space){e.Handled=true;OnClick(EventArgs.Empty);}}
  protected override void OnPaint(PaintEventArgs e){base.OnPaint(e);var g=e.Graphics;g.SmoothingMode=SmoothingMode.AntiAlias;g.InterpolationMode=InterpolationMode.HighQualityBicubic;
-  using(var path=ExpeditionVisuals.Rounded(new RectangleF(3,3,Width-7,Height-7),16))using(var fill=new LinearGradientBrush(new Rectangle(0,0,Width,Height),Color.FromArgb(220,33,51,61),Color.FromArgb(238,12,24,32),90))using(var rim=new Pen(hover||Focused?Color.FromArgb(255,218,147):Color.FromArgb(145,170,146,102),hover||Focused?2:1)){g.FillPath(fill,path);g.DrawPath(rim,path);}
+  CyberChrome.Panel(g,new Rectangle(3,3,Width-7,Height-7),hover||Focused?CyberChrome.Amber:CyberChrome.Neon,false,hover||Focused);
   int diameter=Math.Min(Width-42,(int)(Height*.48));var circle=new Rectangle((Width-diameter)/2,26,diameter,diameter);
   using(var glow=new GraphicsPath()){glow.AddEllipse(circle);using(var brush=new PathGradientBrush(glow)){brush.CenterColor=Color.FromArgb(90,132,192,205);brush.SurroundColors=new[]{Color.FromArgb(0,50,99,115)};g.FillPath(brush,glow);}}
   using(var ring=new Pen(Color.FromArgb(70,214,189,134),1))g.DrawEllipse(ring,circle);

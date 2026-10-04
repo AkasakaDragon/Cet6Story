@@ -79,8 +79,8 @@ public class RogueChoice:VNButton {
 }
 public class RogueCard:FlowLayoutPanel {
  public RogueCard(){DoubleBuffered=true;SetStyle(ControlStyles.SupportsTransparentBackColor,true);BackColor=Color.Transparent;}
- protected override void OnPaintBackground(PaintEventArgs e){base.OnPaintBackground(e);using(var path=ExpeditionVisuals.Rounded(new RectangleF(1,1,Math.Max(1,Width-3),Math.Max(1,Height-3)),16))using(var brush=new SolidBrush(Color.FromArgb(184,17,28,36)))e.Graphics.FillPath(brush,path);}
- protected override void OnPaint(PaintEventArgs e){base.OnPaint(e);using(var path=ExpeditionVisuals.Rounded(new RectangleF(1,1,Math.Max(1,Width-3),Math.Max(1,Height-3)),16))using(var p=new Pen(Color.FromArgb(100,179,164,122),1))e.Graphics.DrawPath(p,path);}
+ protected override void OnPaintBackground(PaintEventArgs e){base.OnPaintBackground(e);CyberChrome.Panel(e.Graphics,new Rectangle(1,1,Width-3,Height-3),CyberChrome.Neon);}
+ protected override void OnPaint(PaintEventArgs e){base.OnPaint(e);}
 
 }
 

@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.IO;
 using System.Linq;
 using System.Drawing;
@@ -13,8 +13,8 @@ public static class GameTheme {
  static string Choose(string desired,string fallback){using(var fonts=new InstalledFontCollection())return fonts.Families.Any(f=>f.Name==desired)?desired:fallback;}
  public static Font Body(float size,FontStyle style=FontStyle.Regular){return new Font(BodyName,size,style);}
  public static Point[] Outline(Rectangle r,int cut){return new[]{new Point(r.Left+cut,r.Top),new Point(r.Right-cut,r.Top),new Point(r.Right-cut,r.Top+cut),new Point(r.Right,r.Top+cut),new Point(r.Right,r.Bottom-cut),new Point(r.Right-cut,r.Bottom-cut),new Point(r.Right-cut,r.Bottom),new Point(r.Left+cut,r.Bottom),new Point(r.Left+cut,r.Bottom-cut),new Point(r.Left,r.Bottom-cut),new Point(r.Left,r.Top+cut),new Point(r.Left+cut,r.Top+cut)};}
- public static void Frame(Graphics g,Rectangle r,Color fill,Color edge,bool corners=true){g.SmoothingMode=SmoothingMode.None;var points=Outline(r,6);using(var b=new SolidBrush(fill))g.FillPolygon(b,points);using(var p=new Pen(edge,2))g.DrawPolygon(p,points);var inset=Rectangle.Inflate(r,-5,-5);if(inset.Width>12&&inset.Height>12)using(var p=new Pen(Violet,1))g.DrawPolygon(p,Outline(inset,3));if(corners)using(var b=new SolidBrush(Gold)){g.FillRectangle(b,r.Left+2,r.Top+2,4,4);g.FillRectangle(b,r.Right-6,r.Top+2,4,4);g.FillRectangle(b,r.Left+2,r.Bottom-6,4,4);g.FillRectangle(b,r.Right-6,r.Bottom-6,4,4);}}
- public static void Button(Graphics g,Rectangle r,string text,Font font,bool primary,bool hover,bool enabled,bool left=false){Color edge=!enabled?Violet:primary?Gold:hover?Cyan:Violet;Color fill=primary&&enabled?(hover?Color.FromArgb(255,218,149):Gold):(hover?Color.FromArgb(35,48,68):Card);Frame(g,Rectangle.Inflate(r,-3,-4),fill,edge,false);TextRenderer.DrawText(g,text,font,Rectangle.Inflate(r,-15,-7),!enabled?Muted:primary?Navy:Ink,TextFormatFlags.VerticalCenter|TextFormatFlags.WordBreak|TextFormatFlags.NoPadding|(left?TextFormatFlags.Left:TextFormatFlags.HorizontalCenter));}
+ public static void Frame(Graphics g,Rectangle r,Color fill,Color edge,bool corners=true){CyberChrome.Panel(g,r,edge);}
+ public static void Button(Graphics g,Rectangle r,string text,Font font,bool primary,bool hover,bool enabled,bool left=false){CyberChrome.Button(g,r,text,font,primary,hover,enabled,left);}
  [DllImport("user32.dll")]static extern bool ReleaseCapture();
  [DllImport("user32.dll")]static extern IntPtr SendMessage(IntPtr h,int msg,IntPtr w,IntPtr l);
  public static void Drag(Form f){ReleaseCapture();SendMessage(f.Handle,0xA1,new IntPtr(2),IntPtr.Zero);}

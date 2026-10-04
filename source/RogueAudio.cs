@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.IO;
 using System.Text;
 using System.Collections.Generic;
@@ -19,10 +19,16 @@ public sealed class RogueAudioMixer:IDisposable {
  [DllImport("winmm.dll")] static extern uint waveOutClose(IntPtr handle);
  class Buffer{public IntPtr data,header;public bool prepared,queued;public readonly short[] output=new short[Samples];}
  class Voice{public short[] clip;public int position;}
- IntPtr device;readonly List<Buffer> buffers=new List<Buffer>();readonly List<Voice> voices=new List<Voice>();readonly short[] music,attack,hurt,purchaseSuccess,purchaseFailed;int position;double gain;volatile bool active,disposed;const int Samples=2048;readonly object audioGate=new object();Thread worker;volatile string audioError;long submittedBuffers;
+ readonly Dictionary<string,short[]> monsterEffects=new Dictionary<string,short[]>();IntPtr device;readonly List<Buffer> buffers=new List<Buffer>();readonly List<Voice> voices=new List<Voice>();readonly short[] music,attack,hurt,purchaseSuccess,purchaseFailed,coinGain,cardHover,cardPlay;int position;double gain;volatile bool active,disposed;const int Samples=2048;readonly object audioGate=new object();Thread worker;volatile string audioError;long submittedBuffers;
  public volatile int MusicVolume=70,EffectsVolume=85;public volatile bool Ducked;public bool Active{get{return active;}}public int ActiveEffects{get{lock(audioGate)return voices.Count;}}public string Error{get{return audioError;}}public long SubmittedBuffers{get{return Interlocked.Read(ref submittedBuffers);}}
  public RogueAudioMixer(string folder){
   music=Read(Path.Combine(folder,"forest-loop.wav"));attack=Read(Path.Combine(folder,"attack.wav"));hurt=Read(Path.Combine(folder,"hurt.wav"));purchaseSuccess=Read(Path.Combine(folder,"purchase-success.wav"));purchaseFailed=Read(Path.Combine(folder,"purchase-failed.wav"));
+  for(int profile=0;profile<MonsterAudio.Profiles.Length;profile++)for(int effect=0;effect<MonsterAudio.Events.Length;effect++){
+   string key=MonsterAudio.Profiles[profile]+"/"+MonsterAudio.Events[effect],path=Path.Combine(folder,"monsters",MonsterAudio.Profiles[profile]+"-"+MonsterAudio.Events[effect]+".wav");
+   monsterEffects[key]=File.Exists(path)?Read(path):MonsterAudio.Build(profile,effect);
+  }
+  cardHover=CardInteractionAudio.Build(false);cardPlay=CardInteractionAudio.Build(true);
+  string coinPath=Path.Combine(folder,"coin-gain.wav");coinGain=File.Exists(coinPath)?Read(coinPath):CurrencyAudio.Build();
   var format=new Format{tag=1,channels=2,rate=44100,bytes=176400,align=4,bits=16};
   if(waveOutOpen(out device,UInt32.MaxValue,ref format,IntPtr.Zero,IntPtr.Zero,0)!=0)throw new Exception("无法打开音频输出设备。");
   try{for(int i=0;i<4;i++){var b=new Buffer{data=Marshal.AllocHGlobal(Samples*2),header=Marshal.AllocHGlobal(Marshal.SizeOf(typeof(Header)))};buffers.Add(b);Marshal.StructureToPtr(new Header{data=b.data,length=Samples*2},b.header,false);if(waveOutPrepareHeader(device,b.header,(uint)Marshal.SizeOf(typeof(Header)))!=0)throw new Exception("无法准备音频缓冲区。");b.prepared=true;}}catch{Dispose();throw;}
@@ -34,6 +40,9 @@ public sealed class RogueAudioMixer:IDisposable {
  public void SetActive(bool value){lock(audioGate){if(disposed||active==value)return;active=value;if(!value){waveOutReset(device);foreach(var b in buffers)b.queued=false;voices.Clear();Ducked=false;gain=0;}}}
  public void Effect(bool damageToPlayer){lock(audioGate){if(!disposed&&active&&EffectsVolume>0){if(voices.Count>=8)voices.RemoveAt(0);voices.Add(new Voice{clip=damageToPlayer?hurt:attack});}}}
 
+ public void MonsterEffect(string key){lock(audioGate){short[] clip;if(!disposed&&active&&EffectsVolume>0&&monsterEffects.TryGetValue(key,out clip)){if(voices.Count>=8)voices.RemoveAt(0);voices.Add(new Voice{clip=clip});}}}
+ public void HandEffect(bool play){lock(audioGate){if(!disposed&&active&&EffectsVolume>0){if(voices.Count>=8)voices.RemoveAt(0);voices.Add(new Voice{clip=play?cardPlay:cardHover});}}}
+ public void CoinEffect(){lock(audioGate){if(!disposed&&active&&EffectsVolume>0){if(voices.Count>=8)voices.RemoveAt(0);voices.Add(new Voice{clip=coinGain});}}}
  public void ShopEffect(bool success){lock(audioGate){if(!disposed&&active&&EffectsVolume>0){if(voices.Count>=8)voices.RemoveAt(0);voices.Add(new Voice{clip=success?purchaseSuccess:purchaseFailed});}}}
  public void Pump(){lock(audioGate)PumpLocked();}
  void PumpLocked(){if(disposed||!active)return;foreach(var b in buffers){var h=(Header)Marshal.PtrToStructure(b.header,typeof(Header));if(b.queued&&(h.flags&1)==0)continue;short[] output=b.output;double target=Math.Max(0,Math.Min(100,MusicVolume))/100.0*(Ducked?.2:1),fx=Math.Max(0,Math.Min(100,EffectsVolume))/100.0;
@@ -45,12 +54,15 @@ public sealed class RogueAudioMixer:IDisposable {
 }
 
 public partial class Game {
- RogueAudioMixer rogueAudio;System.Windows.Forms.Timer rogueAudioClock;bool rogueAudioFailed;DateTime wordDuckUntil;
+ int observedCoins=-1;RogueAudioMixer rogueAudio;System.Windows.Forms.Timer rogueAudioClock;bool rogueAudioFailed;DateTime wordDuckUntil;
  bool RogueAudioPage(){return page=="rogue"||page=="prep-home"||page=="prep-intro"||page=="prep-combat";}
- void InitRogueAudio(){rogueAudioClock=new System.Windows.Forms.Timer{Interval=20};rogueAudioClock.Tick+=(s,e)=>UpdateRogueAudio();rogueAudioClock.Start();}
+ void InitRogueAudio(){observedCoins=save.rogue.coins;rogueAudioClock=new System.Windows.Forms.Timer{Interval=20};rogueAudioClock.Tick+=(s,e)=>UpdateRogueAudio();rogueAudioClock.Start();}
  void UpdateRogueAudio(){if(rogueAudioFailed)return;try{bool enabled=RogueAudioPage()||page=="system-shop";if(rogueAudio==null&&enabled)rogueAudio=new RogueAudioMixer(Path.Combine(root,"assets","rogue","audio"));if(rogueAudio==null)return;if(rogueAudio.Error!=null)throw new Exception(rogueAudio.Error);rogueAudio.MusicVolume=page=="system-shop"?0:save.rogueMusicVolume;rogueAudio.EffectsVolume=save.rogueEffectsVolume;rogueAudio.SetActive(enabled);if(enabled){var mode=new StringBuilder(32);mciSendString("status wordaudio mode",mode,mode.Capacity,IntPtr.Zero);rogueAudio.Ducked=DateTime.UtcNow<wordDuckUntil||mode.ToString().Trim()=="playing"||(speech!=null&&speech.State==SynthesizerState.Speaking);}}catch(Exception ex){rogueAudioFailed=true;if(rogueAudio!=null){rogueAudio.Dispose();rogueAudio=null;}SetStatus("背单词音频不可用："+ex.Message);}}
  void PlayShopPurchase(bool success){if(page!="system-shop")return;UpdateRogueAudio();if(rogueAudio!=null)rogueAudio.ShopEffect(success);}
  void PlayRogueHit(bool hurt){if(!RogueAudioPage())return;UpdateRogueAudio();if(rogueAudio!=null)rogueAudio.Effect(hurt);}
+ void ObserveCoinGain(){int currentCoins=save.rogue.coins;bool gained=observedCoins>=0&&currentCoins>observedCoins;observedCoins=currentCoins;if(gained){UpdateRogueAudio();if(rogueAudio!=null)rogueAudio.CoinEffect();}}
+ void PlayHandSound(bool play){if(!RogueAudioPage())return;UpdateRogueAudio();if(rogueAudio!=null)rogueAudio.HandEffect(play);}
+ void PlayMonsterSound(string key){if(!RogueAudioPage())return;UpdateRogueAudio();if(rogueAudio!=null)rogueAudio.MonsterEffect(key);}
  void CloseRogueAudio(){if(rogueAudioClock!=null)rogueAudioClock.Dispose();if(rogueAudio!=null){rogueAudio.Dispose();rogueAudio=null;}}
  void AddRogueAudioSettings(FlowLayoutPanel panel){foreach(bool music in new[]{true,false}){bool isMusic=music;int initial=music?save.rogueMusicVolume:save.rogueEffectsVolume;string title=music?"背单词背景音乐":"背单词音效";var label=Lab(title+"："+initial+"%",13);panel.Controls.Add(label);var slider=new TrackBar{Minimum=0,Maximum=100,Value=Math.Max(0,Math.Min(100,initial)),Width=450,TickFrequency=10,BackColor=Bg};slider.ValueChanged+=(s,e)=>{if(isMusic)save.rogueMusicVolume=slider.Value;else save.rogueEffectsVolume=slider.Value;label.Text=title+"："+slider.Value+"%";Persist();};panel.Controls.Add(slider);}panel.Controls.Add(Lab("调至 0 可静音；单词发音时背景音乐会自动降低。",10,Muted));}
 }
