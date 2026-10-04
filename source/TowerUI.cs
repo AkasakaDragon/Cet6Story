@@ -39,6 +39,9 @@ public partial class Game {
   if(r.state=="card-reward"){RenderCardRewards(r);return;}
   if(r.state=="reward"){RenderRelicRewards(r);return;}
   if(r.state=="shop"){RenderJourneyShop(r);return;}
+  if(r.state=="chest"){RenderChestEncounter(r);return;}
+  if(r.state=="event"){RenderJourneyEvent(r);return;}
+  if(r.state=="rest"){RenderCampfire(r);return;}
   RoguePage("词域远征 · "+r.mode);rogueBody.Controls.Add(Lab("生命 "+r.hp+" / "+r.maxHp+"  ·  攻击 "+r.attack+"  ·  护甲 "+r.armor+"  ·  金币 "+p.coins+"  ·  连击 "+r.combo,12,Gold));
   if(!String.IsNullOrEmpty(r.vocabularyChapter))rogueBody.Controls.Add(Lab("本节词汇已准备 "+PreparationEngine.Count(p,r.vocabularyChapter,r.pool)+" / "+r.pool.Count,11,Accent));
   bool battle=r.state=="combat"||r.state=="feedback"||r.state=="boss-intro";

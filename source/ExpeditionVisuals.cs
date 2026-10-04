@@ -1,8 +1,8 @@
-using System;using System.Drawing;using System.Drawing.Drawing2D;using System.Windows.Forms;using System.IO;
+﻿using System;using System.Drawing;using System.Drawing.Drawing2D;using System.Windows.Forms;using System.IO;
 
 public static class ExpeditionVisuals {
  public static GraphicsPath Rounded(RectangleF r,float radius){var p=new GraphicsPath();float d=radius*2;p.AddArc(r.X,r.Y,d,d,180,90);p.AddArc(r.Right-d,r.Y,d,d,270,90);p.AddArc(r.Right-d,r.Bottom-d,d,d,0,90);p.AddArc(r.X,r.Bottom-d,d,d,90,90);p.CloseFigure();return p;}
- public static void Background(Graphics g,Image art,Rectangle bounds,int shade){g.Clear(Color.FromArgb(23,32,37));if(art!=null){float scale=Math.Max(bounds.Width/(float)art.Width,bounds.Height/(float)art.Height);float w=art.Width*scale,h=art.Height*scale;g.InterpolationMode=InterpolationMode.HighQualityBicubic;g.DrawImage(art,(bounds.Width-w)/2,(bounds.Height-h)/2,w,h);}using(var brush=new SolidBrush(Color.FromArgb(shade,10,19,25)))g.FillRectangle(brush,bounds);}
+ public static void Background(Graphics g,Image art,Rectangle bounds,int shade,bool pixelArt=false){g.Clear(Color.FromArgb(23,32,37));if(art!=null){float scale=Math.Max(bounds.Width/(float)art.Width,bounds.Height/(float)art.Height);float w=art.Width*scale,h=art.Height*scale;g.InterpolationMode=pixelArt?InterpolationMode.NearestNeighbor:InterpolationMode.HighQualityBicubic;if(pixelArt)g.PixelOffsetMode=PixelOffsetMode.Half;g.DrawImage(art,(bounds.Width-w)/2,(bounds.Height-h)/2,w,h);}using(var brush=new SolidBrush(Color.FromArgb(shade,10,19,25)))g.FillRectangle(brush,bounds);}
  public static void Button(Graphics g,Rectangle r,string text,Font font,bool hover,bool enabled){CyberChrome.Button(g,r,text,font,false,hover,enabled);}
 }
 public class ExpeditionSurface:FlowLayoutPanel {

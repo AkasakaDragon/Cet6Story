@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Drawing;
 using System.Drawing.Drawing2D;
 using System.Windows.Forms;
@@ -25,8 +25,8 @@ public static class CyberChrome {
   g.Restore(state);
  }
  public static void Button(Graphics g,Rectangle bounds,string text,Font font,bool primary,bool hover,bool enabled,bool left=false){
-  bool compact=bounds.Height<38;Color accent=primary?Amber:Neon;Panel(g,Rectangle.Inflate(bounds,-2,-3),accent,true,hover,enabled);
-  var textBounds=Rectangle.Inflate(bounds,-(compact?8:22),-6);var flags=TextFormatFlags.NoPadding|TextFormatFlags.VerticalCenter|TextFormatFlags.WordBreak|(left?TextFormatFlags.Left:TextFormatFlags.HorizontalCenter);
+  bool compact=bounds.Height<38||bounds.Width<110;Color accent=primary?Amber:Neon;Panel(g,Rectangle.Inflate(bounds,-2,-3),accent,true,hover,enabled);
+  var textBounds=Rectangle.Inflate(bounds,-(compact?8:22),-6);var flags=TextFormatFlags.NoPadding|TextFormatFlags.VerticalCenter|(compact?TextFormatFlags.SingleLine:TextFormatFlags.WordBreak)|(left?TextFormatFlags.Left:TextFormatFlags.HorizontalCenter);
   Color ink=!enabled?Color.FromArgb(107,127,139):primary?Color.FromArgb(239,218,172):Color.FromArgb(218,239,239);
   var shadow=textBounds;shadow.Offset(0,1);TextRenderer.DrawText(g,text,font,shadow,Color.FromArgb(5,12,20),flags);TextRenderer.DrawText(g,text,font,textBounds,ink,flags);
   if(hover&&enabled&&bounds.Width>120){using(var pen=new Pen(accent,1.5f)){float y=bounds.Top+bounds.Height/2f;g.DrawLines(pen,new[]{new PointF(bounds.Left+13,y-4),new PointF(bounds.Left+17,y),new PointF(bounds.Left+13,y+4)});g.DrawLines(pen,new[]{new PointF(bounds.Right-13,y-4),new PointF(bounds.Right-17,y),new PointF(bounds.Right-13,y+4)});}}

@@ -1,4 +1,4 @@
-using System;using System.IO;using System.Linq;using System.Drawing;using System.Drawing.Drawing2D;using System.Windows.Forms;
+﻿using System;using System.IO;using System.Linq;using System.Drawing;using System.Drawing.Drawing2D;using System.Windows.Forms;
 public class SupportCardView:Control {
  public SupportCard Card;public Image Atlas,FrameAtlas;public bool Playable=true;public bool Large;public bool Locked;
  public SupportCardView(){SetStyle(ControlStyles.SupportsTransparentBackColor|ControlStyles.UserPaint|ControlStyles.AllPaintingInWmPaint|ControlStyles.OptimizedDoubleBuffer,true);BackColor=Color.Transparent;Size=new Size(130,176);Cursor=Cursors.Hand;Margin=new Padding(5);TabStop=true;AccessibleRole=AccessibleRole.PushButton;}
@@ -89,9 +89,9 @@ public partial class Game {
 
 
 public sealed class CardRewardSurface:Panel {
- public Image Art;
+ public Image Art;public bool PixelArt;
  public CardRewardSurface(){DoubleBuffered=true;ResizeRedraw=true;BackColor=Color.FromArgb(13,25,34);}
- protected override void OnPaintBackground(PaintEventArgs e){ExpeditionVisuals.Background(e.Graphics,Art,ClientRectangle,70);}
+ protected override void OnPaintBackground(PaintEventArgs e){ExpeditionVisuals.Background(e.Graphics,Art,ClientRectangle,70,PixelArt);}
 }
 
 
