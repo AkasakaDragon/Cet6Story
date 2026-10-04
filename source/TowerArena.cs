@@ -1,16 +1,16 @@
-using System;
+﻿using System;
+using System.Diagnostics;
 using System.Drawing;
 using System.Drawing.Drawing2D;
 using System.Drawing.Imaging;
 using System.Windows.Forms;
 
 public class RogueArena:Control {
- public string BannerTitle="词域远征",BannerSubtitle="答题 · 战斗 · 随机赋能";public bool ShowDrone=true;public Image Art,Hero,EnemyArt,Support;public Image[] PistolFrames,ReactionFrames,Effects,SupportFrames;public RogueRun Run;public string Mode="home";public bool Integrated;public int OverlayHeight;public bool AnimateHit;public Action<bool> HitSound;public Action<string> MonsterSound;public Action AnimationCompleted;Timer pulse;int frame;Bitmap backdrop;Image backdropArt;
- public RogueArena(){SetStyle(ControlStyles.UserPaint|ControlStyles.AllPaintingInWmPaint|ControlStyles.OptimizedDoubleBuffer,true);ResizeRedraw=true;pulse=new Timer{Interval=35};pulse.Tick+=(s,e)=>{bool combatAnimation=AnimateHit&&Mode=="feedback"&&Run!=null;bool rewardAnimation=Mode=="loot"||Mode=="reward";if((!combatAnimation&&!rewardAnimation)||frame>=(combatAnimation?52:28)){pulse.Stop();return;}frame++;if(combatAnimation){EmitCombatSounds();if(frame>=52){pulse.Stop();if(AnimationCompleted!=null)AnimationCompleted();}}if(Integrated)Invalidate(new Rectangle(0,0,Width,Math.Max(1,Height-OverlayHeight)),false);else Invalidate();};pulse.Start();}
- public void RestartAnimation(){frame=0;pulse.Stop();if(AnimateHit&&Mode=="feedback"||Mode=="loot"||Mode=="reward")pulse.Start();Invalidate();}
- protected override CreateParams CreateParams{get{var p=base.CreateParams;if(Integrated)p.ExStyle|=0x02000000;return p;}}
+ public string BannerTitle="词域远征",BannerSubtitle="答题 · 战斗 · 随机赋能";public bool ShowDrone=true;public Image Art,Hero,EnemyArt,Support;public Image[] PistolFrames,ReactionFrames,Effects,SupportFrames;public RogueRun Run;public string Mode="home";public bool Integrated;public int OverlayHeight;public bool AnimateHit;public Action<bool> HitSound;public Action<string> MonsterSound;public Action AnimationCompleted;Timer pulse;int frame;Bitmap backdrop;Image backdropArt;readonly Stopwatch animationTime=new Stopwatch();Bitmap enemyNormal,enemyFlash;Image gradedEnemy;int gradedTheme=-1;
+ public RogueArena(){SetStyle(ControlStyles.UserPaint|ControlStyles.AllPaintingInWmPaint|ControlStyles.OptimizedDoubleBuffer,true);ResizeRedraw=true;pulse=new Timer{Interval=16};pulse.Tick+=(s,e)=>{bool combatAnimation=AnimateHit&&Mode=="feedback"&&Run!=null;bool rewardAnimation=Mode=="loot"||Mode=="reward";if((!combatAnimation&&!rewardAnimation)||frame>=(combatAnimation?52:28)){pulse.Stop();return;}int next=Math.Min(combatAnimation?52:28,(int)(animationTime.Elapsed.TotalMilliseconds/35));if(next<=frame)return;while(frame<next){frame++;if(combatAnimation)EmitCombatSounds();}if(combatAnimation){if(frame>=52){pulse.Stop();if(AnimationCompleted!=null)AnimationCompleted();}}if(Integrated)Invalidate(new Rectangle(0,0,Width,Math.Max(1,Height-OverlayHeight)),false);else Invalidate();};animationTime.Start();pulse.Start();}
+ public void RestartAnimation(){frame=0;animationTime.Restart();pulse.Stop();if(AnimateHit&&Mode=="feedback"||Mode=="loot"||Mode=="reward")pulse.Start();Invalidate();}
  protected override void OnPaintBackground(PaintEventArgs e){}
- protected override void Dispose(bool d){if(d){pulse.Dispose();if(backdrop!=null)backdrop.Dispose();}base.Dispose(d);}
+ protected override void Dispose(bool d){if(d){pulse.Dispose();if(backdrop!=null)backdrop.Dispose();ClearEnemyCache();}base.Dispose(d);}
  protected override void OnPaint(PaintEventArgs e){
   var g=e.Graphics;g.InterpolationMode=InterpolationMode.NearestNeighbor;g.PixelOffsetMode=PixelOffsetMode.Half;g.SmoothingMode=SmoothingMode.None;
   if(backdrop==null||backdrop.Width!=Width||backdrop.Height!=Height||backdropArt!=Art){if(backdrop!=null)backdrop.Dispose();backdrop=new Bitmap(Math.Max(1,Width),Math.Max(1,Height));using(var bg=Graphics.FromImage(backdrop)){bg.Clear(Color.FromArgb(18,34,37));bg.InterpolationMode=InterpolationMode.NearestNeighbor;bg.PixelOffsetMode=PixelOffsetMode.Half;if(Art!=null){float scale=Math.Max((float)Width/Art.Width,(float)Height/Art.Height);float w=Art.Width*scale,h=Art.Height*scale;bg.DrawImage(Art,(Width-w)/2,(Height-h)*.62f,w,h);}using(var b=new SolidBrush(Color.FromArgb(35,5,14,18)))bg.FillRectangle(b,0,0,Width,Height);}backdropArt=Art;}
@@ -75,13 +75,16 @@ public class RogueArena:Control {
  // Grade every enemy, including elites and bosses, against the current stage palette.
  void DrawEnemy(Graphics g,Image image,Rectangle bounds,bool flash){
   int theme=Run==null?0:Math.Max(0,Math.Min(2,Run.theme));
+  if(gradedEnemy!=image||gradedTheme!=theme){ClearEnemyCache();gradedEnemy=image;gradedTheme=theme;}
+  var cached=flash?enemyFlash:enemyNormal;if(cached!=null){g.DrawImage(cached,bounds);return;}
   float[] tint=theme==0?new[]{.88f,.94f,.86f}:theme==1?new[]{.84f,.90f,.98f}:new[]{.98f,.86f,.80f};
   const float saturation=.52f;float gray=1-saturation,light=flash?.45f:1f;
   var rows=new float[5][];float[] luminance={.2126f,.7152f,.0722f};
   for(int input=0;input<3;input++){rows[input]=new float[5];for(int output=0;output<3;output++)rows[input][output]=(gray*luminance[input]+(input==output?saturation:0))*tint[output]*light;}
   rows[3]=new[]{0f,0f,0f,1f,0f};rows[4]=flash?new[]{.55f,.45f,.35f,0f,1f}:new[]{.025f,.025f,.025f,0f,1f};
-  using(var attributes=new ImageAttributes()){attributes.SetColorMatrix(new ColorMatrix(rows));g.DrawImage(image,bounds,0,0,image.Width,image.Height,GraphicsUnit.Pixel,attributes);}
+  var result=new Bitmap(image.Width,image.Height,PixelFormat.Format32bppPArgb);using(var target=Graphics.FromImage(result))using(var attributes=new ImageAttributes()){attributes.SetColorMatrix(new ColorMatrix(rows));target.DrawImage(image,new Rectangle(0,0,image.Width,image.Height),0,0,image.Width,image.Height,GraphicsUnit.Pixel,attributes);}if(flash)enemyFlash=result;else enemyNormal=result;g.DrawImage(result,bounds);
  }
+ void ClearEnemyCache(){if(enemyNormal!=null)enemyNormal.Dispose();if(enemyFlash!=null)enemyFlash.Dispose();enemyNormal=enemyFlash=null;}
  static void DrawSprite(Graphics g,Image im,Rectangle r,bool flash){if(!flash){g.DrawImage(im,r);return;}using(var attr=new ImageAttributes()){attr.SetColorMatrix(new ColorMatrix(new float[][]{new[]{.45f,0f,0f,0f,0f},new[]{0f,.45f,0f,0f,0f},new[]{0f,0f,.45f,0f,0f},new[]{0f,0f,0f,1f,0f},new[]{.55f,.45f,.35f,0f,1f}}));g.DrawImage(im,r,0,0,im.Width,im.Height,GraphicsUnit.Pixel,attr);}}
  static void Burst(Graphics g,int x,int y,int age,Color color){using(var b=new SolidBrush(color))for(int i=0;i<12;i++){double a=i*Math.PI/6;int distance=7+age*3;g.FillRectangle(b,x+(int)(Math.Cos(a)*distance),y+(int)(Math.Sin(a)*distance),Math.Max(2,6-age/3),Math.Max(2,6-age/3));}}
  void DrawIntent(Graphics g,int center,int barY){
