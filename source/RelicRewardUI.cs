@@ -1,18 +1,19 @@
-using System;using System.Drawing;using System.Drawing.Drawing2D;using System.Windows.Forms;using System.Collections.Generic;
+﻿using System;using System.Drawing;using System.Drawing.Drawing2D;using System.Windows.Forms;using System.Collections.Generic;
 public sealed class RelicRewardChoice:Control {
- public string RelicId,Title,Description;public Image Art;bool hover;
+ public string RelicId,Title,Description,FooterText;public Image Art;bool hover;
  public RelicRewardChoice(){SetStyle(ControlStyles.SupportsTransparentBackColor|ControlStyles.UserPaint|ControlStyles.AllPaintingInWmPaint|ControlStyles.OptimizedDoubleBuffer|ControlStyles.Selectable,true);BackColor=Color.Transparent;Cursor=Cursors.Hand;TabStop=true;AccessibleRole=AccessibleRole.PushButton;MouseEnter+=(s,e)=>{hover=true;Invalidate();};MouseLeave+=(s,e)=>{hover=false;Invalidate();};}
  protected override void OnGotFocus(EventArgs e){base.OnGotFocus(e);Invalidate();}protected override void OnLostFocus(EventArgs e){base.OnLostFocus(e);Invalidate();}
  protected override void OnKeyDown(KeyEventArgs e){base.OnKeyDown(e);if(e.KeyCode==Keys.Enter||e.KeyCode==Keys.Space){e.Handled=true;OnClick(EventArgs.Empty);}}
  protected override void OnPaint(PaintEventArgs e){base.OnPaint(e);var g=e.Graphics;g.SmoothingMode=SmoothingMode.AntiAlias;g.InterpolationMode=InterpolationMode.HighQualityBicubic;
-  CyberChrome.Panel(g,new Rectangle(3,3,Width-7,Height-7),hover||Focused?CyberChrome.Amber:CyberChrome.Neon,false,hover||Focused);
-  int diameter=Math.Min(Width-42,(int)(Height*.48));var circle=new Rectangle((Width-diameter)/2,26,diameter,diameter);
+  CyberChrome.Panel(g,new Rectangle(3,3,Width-7,Height-7),!Enabled?Color.FromArgb(90,115,122):hover||Focused?CyberChrome.Amber:CyberChrome.Neon,false,Enabled&&(hover||Focused));
+  int diameter=Math.Min(Width-42,(int)(String.IsNullOrEmpty(FooterText)?Height*.48:(Height-130)*.48));var circle=new Rectangle((Width-diameter)/2,26,diameter,diameter);
   using(var glow=new GraphicsPath()){glow.AddEllipse(circle);using(var brush=new PathGradientBrush(glow)){brush.CenterColor=Color.FromArgb(90,132,192,205);brush.SurroundColors=new[]{Color.FromArgb(0,50,99,115)};g.FillPath(brush,glow);}}
   using(var ring=new Pen(Color.FromArgb(70,214,189,134),1))g.DrawEllipse(ring,circle);
   if(Art!=null){float scale=Math.Min((diameter-18f)/Art.Width,(diameter-18f)/Art.Height);float w=Art.Width*scale,h=Art.Height*scale;g.DrawImage(Art,new RectangleF(Width/2f-w/2,circle.Top+diameter/2f-h/2,w,h));}
   int titleY=circle.Bottom+16;using(var f=GameTheme.Body(Width<210?14:17))TextRenderer.DrawText(g,Title,f,new Rectangle(12,titleY,Width-24,32),Color.FromArgb(255,223,161),TextFormatFlags.HorizontalCenter|TextFormatFlags.VerticalCenter|TextFormatFlags.EndEllipsis);
   using(var pen=new Pen(Color.FromArgb(65,212,190,142),1))g.DrawLine(pen,30,titleY+38,Width-30,titleY+38);
-  using(var f=GameTheme.Body(Width<210?10:12))TextRenderer.DrawText(g,Description,f,new Rectangle(18,titleY+49,Width-36,Math.Max(30,Height-titleY-68)),Color.FromArgb(231,236,226),TextFormatFlags.HorizontalCenter|TextFormatFlags.WordBreak|TextFormatFlags.NoPadding);
+  using(var f=GameTheme.Body(Width<210?10:12))TextRenderer.DrawText(g,Description,f,new Rectangle(18,titleY+49,Width-36,Math.Max(String.IsNullOrEmpty(FooterText)?30:44,Height-titleY-68-(String.IsNullOrEmpty(FooterText)?0:42))),Color.FromArgb(231,236,226),TextFormatFlags.HorizontalCenter|TextFormatFlags.WordBreak|TextFormatFlags.NoPadding);
+  if(!String.IsNullOrEmpty(FooterText)){using(var f=GameTheme.Body(Width<210?11:13,FontStyle.Bold))TextRenderer.DrawText(g,FooterText,f,new Rectangle(10,Height-43,Width-20,28),Enabled?GameTheme.Gold:GameTheme.Muted,TextFormatFlags.HorizontalCenter|TextFormatFlags.VerticalCenter|TextFormatFlags.NoPadding);}
  }
 }
 public partial class Game {
