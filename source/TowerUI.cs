@@ -35,7 +35,7 @@ public partial class Game {
   rogueBody.Controls.Add(RogueButton("卡牌图鉴 · 查看解锁",ShowCardCollection,280));RogueCard("玩法","点击亮起的地图节点向上推进；地图只显示路线与节点，悬停可查看用途。\n小怪获得金币与三选一卡牌；精英额外三选一赋能与稀有卡保底；火堆回血或攻击 +3；宝箱领取金币或稀有赋能；问号有五种随机事件。\n每词每日首次无提示答对 +3 金币。使用提示的战斗，战利品减半。金币可在地图商店、成长商店与主线系统商店使用。\n每回合 3 能量；开场 4 张手牌，之后每回合抽 2 张。先出牌再答题，怪物技能提前预告。\n答错的词自动收藏。根据词义选词与语境填空答题时不能播放答案发音。");RogueLayout();
  }
  void RenderRogue(){
-  var p=save.rogue;TowerEngine.Migrate(p);var r=p.ActiveRun;if(r==null){ShowRogueHome();return;}if(r.state=="loot"){TowerEngine.Complete(p);Persist();RenderRogue();return;}if(r.state=="map"){ShowTowerMap(r);return;}if(r.state=="combat"||r.state=="feedback"||r.state=="boss-intro"){RenderFullBattle(r);return;}
+  var p=save.rogue;TowerEngine.Migrate(p);var r=p.ActiveRun;if(RefreshStoryExamples(r))Persist();if(r==null){ShowRogueHome();return;}if(r.state=="loot"){TowerEngine.Complete(p);Persist();RenderRogue();return;}if(r.state=="map"){ShowTowerMap(r);return;}if(r.state=="combat"||r.state=="feedback"||r.state=="boss-intro"){RenderFullBattle(r);return;}
   if(r.state=="card-reward"){RenderCardRewards(r);return;}
   if(r.state=="reward"){RenderRelicRewards(r);return;}
   RoguePage("词域远征 · "+r.mode);rogueBody.Controls.Add(Lab("生命 "+r.hp+" / "+r.maxHp+"  ·  攻击 "+r.attack+"  ·  护甲 "+r.armor+"  ·  金币 "+p.coins+"  ·  连击 "+r.combo,12,Gold));
@@ -70,6 +70,7 @@ public partial class Game {
  }
  void RenderTowerShop(RogueRun r){var card=RogueCard("旅途商店 · 永久金币","当前金币 "+save.rogue.coins+"。本局赋能不能带到主线，每次到店每种商品限购一次。");foreach(string id in new[]{"potion","shield","blade","hint"}){string chosen=id;int price=TowerEngine.SupplyPrice(id);string desc=id=="potion"?"恢复 30 生命":id=="hint"?"提示次数 +1":RogueEngine.RelicName(id)+" · "+RogueEngine.RelicDescription(id);var b=RogueButton(desc+" · "+price+" 金币",()=>{if(TowerEngine.Buy(save.rogue,chosen))SaveRogue();},600,60);b.Enabled=!r.shopBought.Contains(id)&&save.rogue.coins>=price&&(id!="potion"||r.hp<r.maxHp);card.Controls.Add(b);}card.Controls.Add(RogueButton("离开商店 · 返回地图",()=>{TowerEngine.Complete(save.rogue);SaveRogue();},300));}
 }
+
 
 
 

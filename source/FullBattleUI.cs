@@ -26,6 +26,7 @@ public partial class Game {
   }else if(r.state=="combat"){glass.Visible=false;}else if(r.state=="feedback"){
    row.Controls.Add(Lab("本回合反馈",16,Gold));row.Controls.Add(RogueFeedbackIcon(r.question.entry,"speaker"));row.Controls.Add(RogueFeedbackIcon(r.question.entry,"star"));var feedback=Lab(RogueFeedbackText(r),12,TextColor);feedback.BackColor=Color.Transparent;body.Controls.Add(feedback);footer.Controls.Add(RogueButton(r.hp<=0?"查看结果":r.enemyHp<=0?"领取战利品":"下一回合 · Enter",()=>{RogueEngine.Continue(save.rogue);SaveRogue();},200,40));
   }else{row.Controls.Add(Lab("BOSS · 古界守门者",18,Gold));var intro=Lab("守门者已经苏醒。答题发动攻击，护甲与本局赋能继续生效。",12,TextColor);intro.BackColor=Color.Transparent;body.Controls.Add(intro);footer.Controls.Add(RogueButton("挑战守门者",()=>{if(r.state!="boss-intro")return;TowerEngine.StartBattle(r,save.rogue,"boss");SaveRogue();},200,40));}
+  if(r.state=="feedback"&&save.rogue.preparationActive&&current!=null&&PreparationReady(current)){footer.Controls.Add(RogueButton("词汇准备完成 · 进入剧情",ShowStory,240,40));footer.Height=48;}
   AddSupportHand(r,glass,arena);body.BringToFront();AddRelicHud(r,arena);
   Action layout=()=>{if(compact){hud.Height=36;hud.Text="攻击 "+r.attack+" · 护甲 "+r.armor+" · 金币 "+save.rogue.coins+"\n连击 "+r.combo+(r.cardBattle==null?"":" · 护盾 "+r.cardBattle.shield+" · 敌盾 "+r.cardBattle.enemyShield);}int h=r.state=="combat"?Math.Min(compact?220:330,Math.Max(180,arena.Height-100)):Math.Min(270,Math.Max(210,arena.Height*34/100));int popupWidth=Math.Min(760,Math.Max(100,arena.Width-48));glass.Bounds=new Rectangle((arena.Width-popupWidth)/2,Math.Max(65,(arena.Height-h)/2),popupWidth,h);arena.OverlayHeight=0;hud.Width=Math.Max(200,arena.Width-410);int width=Math.Max(180,glass.ClientSize.Width-55);row.MaximumSize=new Size(width,0);foreach(Control child in body.Controls){if(child is Label)((Label)child).MaximumSize=new Size(width,0);}foreach(Control child in row.Controls)if(child is Label)((Label)child).MaximumSize=new Size(Math.Max(140,width-180),0);if(choices!=null)choices.Width=width;if(glass.Visible){glass.PerformLayout();row.PerformLayout();body.PerformLayout();int used=body.Controls.Cast<Control>().Where(c=>c.Visible).Select(c=>c.Bottom+c.Margin.Bottom).DefaultIfEmpty(0).Max();int fitted=Math.Min(Math.Max(140,arena.Height-130),used+glass.Padding.Vertical+(footer.Visible?footer.Height:0)+10);glass.Bounds=new Rectangle((arena.Width-popupWidth)/2,Math.Max(65,(arena.Height-fitted)/2),popupWidth,fitted);glass.PerformLayout();body.PerformLayout();}dropdown.BringToFront();arena.Invalidate();};EventHandler resized=(s,e)=>layout();arena.Resize+=resized;var handCleanup=battleLayoutCleanup;battleLayoutCleanup=()=>{arena.Resize-=resized;if(handCleanup!=null)handCleanup();};layout();
   }
@@ -35,6 +36,8 @@ public class BattleGlassPanel:Panel {
  public BattleGlassPanel(){DoubleBuffered=true;BackColor=Color.Transparent;}
  protected override void OnPaintBackground(PaintEventArgs e){base.OnPaintBackground(e);e.Graphics.SmoothingMode=System.Drawing.Drawing2D.SmoothingMode.AntiAlias;using(var path=ExpeditionVisuals.Rounded(new RectangleF(1,1,Width-3,Height-3),18))using(var b=new SolidBrush(Color.FromArgb(185,11,22,29)))using(var p=new Pen(Color.FromArgb(90,190,172,121),1)){e.Graphics.FillPath(b,path);e.Graphics.DrawPath(p,path);}}
 }
+
+
 
 
 

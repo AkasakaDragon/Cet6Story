@@ -32,7 +32,7 @@ public partial class Game {
  QuizQuestion SegmentQuestion(){return current.inlineQuestions?current.questions.OrderBy(q=>q.afterLine).FirstOrDefault(q=>q.afterLine>=index):null;}
  int SegmentFirst(QuizQuestion q){var prev=current.questions.Where(x=>x.afterLine<q.afterLine).OrderByDescending(x=>x.afterLine).FirstOrDefault();return prev==null?0:prev.afterLine+1;}
  bool SegmentHeard(QuizQuestion q){return Enumerable.Range(SegmentFirst(q),q.afterLine-SegmentFirst(q)+1).All(i=>save.heardLines.Contains(HeardKey(i)));}
- bool SubtitleAllowed(){if(!current.inlineQuestions)return true;var a=Attempt();if(a.review)return true;var q=current.questions.FirstOrDefault(x=>x.afterLine==a.replayAfterLine);return q!=null&&index>=SegmentFirst(q)&&index<=q.afterLine;}
+ bool SubtitleAllowed(){return true;}
  bool ChineseAllowed(){return !current.inlineQuestions||Attempt().review;}
  bool LineHeard(){return !current.inlineQuestions||Attempt().review||save.heardLines.Contains(HeardKey(index));}
  void RecordListening(){if(listeningChapter!=current.id||listeningFrom<0)return;for(int i=listeningFrom;i<=listeningTo;i++)if(!save.heardLines.Contains(HeardKey(i)))save.heardLines.Add(HeardKey(i));if(allPlaying)index=listeningTo;listeningFrom=-1;listeningTo=-1;Persist();UpdateLine();}
