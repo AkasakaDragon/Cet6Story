@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.IO;
 using System.Linq;
 using System.Collections.Generic;
@@ -28,6 +28,15 @@ public partial class Game {
  Image AtlasCell(string path,int columns,int rows,int cell){string key=path+"#"+columns+":"+rows+":"+cell;Image result;if(imageCache.TryGetValue(key,out result))return result;var original=CachedImage(path);int x=cell%columns,y=cell/columns;var rect=new Rectangle(x*original.Width/columns,y*original.Height/rows,(x+1)*original.Width/columns-x*original.Width/columns,(y+1)*original.Height/rows-y*original.Height/rows);var bitmap=new Bitmap(rect.Width,rect.Height);using(var g=Graphics.FromImage(bitmap)){g.InterpolationMode=InterpolationMode.NearestNeighbor;g.DrawImage(original,new Rectangle(Point.Empty,bitmap.Size),rect,GraphicsUnit.Pixel);}imageCache[key]=bitmap;return bitmap;}
  void UpdateStoryVisual(Line line){if(stage==null)return;bool changed=false;if(!String.IsNullOrEmpty(line.scene)){string path=Engine.SafePath(folders[current.id],line.scene);var background=line.sceneSingle?CachedImage(path):AtlasCell(path,3,2,line.sceneCell);if(stage.Art!=background){stage.Art=background;changed=true;}}if(line.pose.HasValue){var actor=stage.Actors.FirstOrDefault(x=>x.Id=="xingyao");if(actor!=null){string[] poses={"urgent","worried","relieved"};var picture=CachedImage(Path.Combine(root,"chapters","art","routes","xingyao-"+poses[Math.Max(0,Math.Min(2,line.pose.Value))]+".png"));if(actor.Image!=picture){actor.Image=picture;changed=true;}}}if(changed)stage.Snap();}
  void PlayStoryFilm(StoryFilm film,Action finish){ClearPage();page="story-cg";var canvas=new StoryQuadCanvas(CachedImage(Path.Combine(root,"assets","story",film.image)),film.captions){Dock=DockStyle.Fill};content.Controls.Add(canvas);bool done=false;Action end=()=>{if(done)return;done=true;finish();};canvas.Completed=end;var skip=new VNButton{Text="跳过 CG",PixelStyle=true,Size=new Size(112,40),Font=GameTheme.Body(11)};canvas.Controls.Add(skip);skip.Click+=(s,e)=>end();Action layout=()=>skip.Location=new Point(canvas.Width-132,12);canvas.Resize+=(s,e)=>layout();layout();var pause=new VNButton{Text="暂停 / 继续",PixelStyle=true,Size=new Size(130,40),Font=GameTheme.Body(11)};canvas.Controls.Add(pause);pause.Click+=(s,e)=>canvas.TogglePause();Action placePause=()=>pause.Location=new Point(16,12);canvas.Resize+=(s,e)=>placePause();placePause();canvas.Start();}
+ void ShowStoryIntroPreview(){
+  var presentation=Presentation();
+  if(presentation==null||presentation.intro==null){ShowStoryMap();SetStatus("本节暂无前置剧情。");return;}
+  string id=current.id;
+  PlayStoryFilm(presentation.intro,()=>{
+   if(current==null||current.id!=id)return;
+   Attempt().introShown=true;Persist();ShowStoryMap();
+  });
+ }
  bool TryStoryIntro(){if(!StoryRoutes.Enhanced(current.id)||Attempt().introShown)return false;var p=Presentation();if(p==null)return false;string id=current.id;PlayStoryFilm(p.intro,()=>{if(current.id!=id)return;Attempt().introShown=true;Persist();ShowStory();});return true;}
  void CompleteNeon(){if(!StoryRoutes.Enhanced(current.id)){CompleteNeonScore();return;}if(Attempt().finished==0){FinishSectionTiming();Persist();}if(Attempt().endingShown){CompleteNeonScore();return;}int correct=current.questions.Count(q=>save.quizAnswers.ContainsKey(InlineKey(q))&&save.quizAnswers[InlineKey(q)]==q.answer);int stars=SectionRules.Stars(correct,current.questions.Count,SectionSeconds()<=SectionLimit());save.sectionStars[current.id]=Math.Max(save.sectionStars.ContainsKey(current.id)?save.sectionStars[current.id]:0,stars);Persist();
   if(stars>=2&&!SelectStoryRoute())return;var presentation=Presentation();var baseFilm=stars<2?presentation.intro:presentation.ending;var film=new StoryFilm{image=baseFilm.image,captions=baseFilm.captions.Select(x=>new StoryCaption{zh=x.zh,en=x.en}).ToList()};string route=StoryRoutes.Route(save,current.id);
