@@ -14,10 +14,10 @@ public partial class Game {
   ClearPage();page="opening-cg";
   string movie=Path.Combine(root,"assets","opening","opening.mp4"),audio=Path.Combine(root,"assets","opening","opening.wav");
   try{
-   var canvas=new OpeningCgCanvas(Path.Combine(root,"tools","ffmpeg","ffmpeg.exe"),movie,AudioDevicePath.Relative(AudioVolume.Prepare(audio,save.volume,root))){Dock=DockStyle.Fill};content.Controls.Add(canvas);
+   var canvas=new OpeningCgCanvas(Path.Combine(root,"tools","ffmpeg","ffmpeg.exe"),movie,AudioDevicePath.Relative(AudioVolume.Prepare(audio,EffectSoundVolume(),root))){Dock=DockStyle.Fill};content.Controls.Add(canvas);
    bool finished=false;Action finish=()=>{if(finished||page!="opening-cg")return;finished=true;if(introduction){save.openingCgPending=false;Persist();ShowStoryMap();}else ShowMain();};canvas.Completed=finish;
    canvas.Failed=message=>{if(page!="opening-cg")return;GameMessage.Show(this,"开场 CG 未能播放："+message,"播放提示");finish();};
-   var skip=new VNButton{Text="跳过 CG",PixelStyle=true,Size=new Size(125,46),Font=new Font(GameTheme.BodyName,12),AccessibleName="跳过开场 CG"};canvas.Controls.Add(skip);Action place=()=>skip.Location=new Point(Math.Max(8,canvas.ClientSize.Width-skip.Width-20),20);canvas.Resize+=(s,e)=>place();place();skip.Click+=(s,e)=>finish();tips.SetToolTip(skip,"跳过后进入主线地图；回看时返回主菜单");canvas.Start();
+   var skip=new VNButton{Text="跳过 CG",PixelStyle=true,Size=new Size(125,46),Font=GameTheme.Body(12),AccessibleName="跳过开场 CG"};canvas.Controls.Add(skip);Action place=()=>skip.Location=new Point(Math.Max(8,canvas.ClientSize.Width-skip.Width-20),20);canvas.Resize+=(s,e)=>place();place();skip.Click+=(s,e)=>finish();tips.SetToolTip(skip,"跳过后进入主线地图；回看时返回主菜单");canvas.Start();
   }catch(Exception ex){GameMessage.Show(this,"开场 CG 未能播放："+ex.Message,"播放提示");if(introduction){save.openingCgPending=false;Persist();ShowStoryMap();}else ShowMain();}
  }
 }
@@ -47,6 +47,6 @@ public class OpeningCgCanvas:Control {
   if(FramesShown>0&&!audioStarted){mciSendString("close openingaudio",null,0,IntPtr.Zero);int error=mciSendString("open \""+audio+"\" type waveaudio alias openingaudio",null,0,IntPtr.Zero);if(error==0)error=mciSendString("play openingaudio",null,0,IntPtr.Zero);if(error!=0){failure="无法播放 CG 音效（错误 "+error+"）。";return;}audioStarted=true;clock.Start();started.Set();}
   if(audioStarted&&clock.Elapsed.TotalSeconds>=duration){notified=true;if(Completed!=null)Completed();}
  }
- protected override void OnPaint(PaintEventArgs e){base.OnPaint(e);if(picture==null||FramesShown==0){TextRenderer.DrawText(e.Graphics,"正在播放开场 CG…",Font,ClientRectangle,Color.White,TextFormatFlags.HorizontalCenter|TextFormatFlags.VerticalCenter);return;}float scale=Math.Min(Width/(float)FrameWidth,Height/(float)FrameHeight);var target=new RectangleF((Width-FrameWidth*scale)/2,(Height-FrameHeight*scale)/2,FrameWidth*scale,FrameHeight*scale);e.Graphics.InterpolationMode=InterpolationMode.NearestNeighbor;e.Graphics.PixelOffsetMode=PixelOffsetMode.Half;e.Graphics.DrawImage(picture,target);}
+ protected override void OnPaint(PaintEventArgs e){base.OnPaint(e);if(picture==null||FramesShown==0){GameTheme.DrawText(e.Graphics,"正在播放开场 CG…",Font,ClientRectangle,Color.White,TextFormatFlags.HorizontalCenter|TextFormatFlags.VerticalCenter);return;}float scale=Math.Min(Width/(float)FrameWidth,Height/(float)FrameHeight);var target=new RectangleF((Width-FrameWidth*scale)/2,(Height-FrameHeight*scale)/2,FrameWidth*scale,FrameHeight*scale);e.Graphics.InterpolationMode=InterpolationMode.NearestNeighbor;e.Graphics.PixelOffsetMode=PixelOffsetMode.Half;e.Graphics.DrawImage(picture,target);}
  protected override void Dispose(bool disposing){if(disposing&&!closed){closed=true;started.Set();if(timer!=null)timer.Dispose();mciSendString("close openingaudio",null,0,IntPtr.Zero);if(decoder!=null){try{if(!decoder.HasExited)decoder.Kill();}catch{}if(worker!=null)worker.Join(1000);decoder.Dispose();}if(worker==null||!worker.IsAlive)started.Dispose();if(picture!=null)picture.Dispose();}base.Dispose(disposing);}
 }

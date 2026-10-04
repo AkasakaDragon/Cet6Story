@@ -10,16 +10,41 @@ public class TowerNode {
 // The generated graph is stored with the run, so reopening never rerolls encounters.
 public static class TowerEngine {
  public const int Floors=8;
- public static bool IsTower(RogueRun r){return r!=null&&(r.mapVersion==2||r.mapVersion==3);}
+ public static bool IsTower(RogueRun r){return r!=null&&(r.mapVersion==2||r.mapVersion==3||r.mapVersion==4||r.mapVersion==5);}
  public static void Initialize(RogueRun r){
   r.mapVersion=3;r.nodes=new List<TowerNode>();var rng=new Random(r.seed);
   string[][] rows={new[]{"combat"},new[]{"combat","event","shop"},new[]{"elite","combat","rest"},new[]{"chest","chest","chest"},new[]{"combat","event","shop"},new[]{"elite","combat","event"},new[]{"rest","rest","rest"},new[]{"boss"}};
   for(int row=0;row<Floors;row++){var kinds=rows[row].OrderBy(x=>rng.Next()).ToArray();for(int i=0;i<kinds.Length;i++)r.nodes.Add(new TowerNode{id="n"+row+"-"+i,row=row,lane=kinds.Length==1?1:i,kind=kinds[i]});}
-  foreach(var node in r.nodes){foreach(var to in r.nodes.Where(n=>n.row==node.row+1&&Math.Abs(n.lane-node.lane)<=1))node.next.Add(to.id);}
+  SparseRoutes(r);
   r.lastNode=null;r.currentNode=null;Routes(r);
  }
+ public static void SparseRoutes(RogueRun r){
+  // Keep the actual travelled edges when upgrading an existing saved expedition.
+  var travelled=new HashSet<string>(r.nodes.SelectMany(n=>n.next.Where(id=>n.visited&&r.nodes.Any(t=>t.id==id&&t.visited)).Select(id=>n.id+":"+id)));
+  foreach(var node in r.nodes)node.next.Clear();
+  var rng=new Random(r.seed^0x51A7);
+  for(int row=0;row<FloorCount(r)-1;row++){
+   var from=r.nodes.Where(n=>n.row==row).OrderBy(n=>n.lane).ToList();var to=r.nodes.Where(n=>n.row==row+1).OrderBy(n=>n.lane).ToList();
+   if(from.Count==3&&to.Count==3){
+    // Each column independently chooses its flank, rather than repeating a fixed pattern.
+    // The seed is saved with this run, so returning to its map cannot reroll routes.
+    int flank=rng.Next(2)==0?0:2;
+    foreach(var node in from){int lane=node.lane==1?flank:node.lane==flank?1:node.lane;node.next.Add(to.First(n=>n.lane==lane).id);}
+    // Occasional second branch still leaves the centre for a side destination.
+    if(rng.Next(2)==0){
+     if(rng.Next(2)==0)from.First(n=>n.lane==1).next.Add(to.First(n=>n.lane==2-flank).id);
+     else from.First(n=>n.lane==2-flank).next.Add(to.First(n=>n.lane==1).id);
+    }
+   }else{
+    foreach(var node in from){var target=to.OrderBy(n=>Math.Abs(n.lane-node.lane)).First();node.next.Add(target.id);}
+    foreach(var target in to)if(!from.Any(n=>n.next.Contains(target.id)))from.OrderBy(n=>Math.Abs(n.lane-target.lane)).First().next.Add(target.id);
+   }
+   foreach(var node in from)foreach(var target in to)if(travelled.Contains(node.id+":"+target.id)&&!node.next.Contains(target.id))node.next.Add(target.id);
+  }
+  r.mapVersion=5;if(r.state=="map")r.routes=Available(r).Select(n=>n.id).ToList();
+ }
  public static void Migrate(RogueProfile p){
-  var r=p.ActiveRun;if(r==null||r.mode=="本节词汇准备"||IsTower(r)||r.state=="ended")return;
+  var r=p.ActiveRun;if(r==null||r.state=="ended")return;if(IsTower(r)){if(r.mapVersion==3||r.mapVersion==4)SparseRoutes(r);return;}if(r.mode=="本节词汇准备")return;
   string state=r.state,enemy=r.enemy;int depth=r.depth;Initialize(r);r.depth=Math.Min(Floors-2,depth);
   foreach(var node in r.nodes.Where(n=>n.row<r.depth&&n.lane==1))node.visited=true;
   r.lastNode=r.nodes.Where(n=>n.row==r.depth-1&&n.lane==1).Select(n=>n.id).FirstOrDefault();

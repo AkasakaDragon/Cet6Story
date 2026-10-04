@@ -9,6 +9,6 @@ public class RogueIcon:Button {
  if(Kind=="speaker"){g.FillPolygon(brush,new[]{new PointF(-12,-4),new PointF(-7,-4),new PointF(0,-10),new PointF(0,10),new PointF(-7,4),new PointF(-12,4)});g.DrawArc(pen,-4,-8,15,16,-60,120);g.DrawArc(pen,-7,-13,25,26,-55,110);}
  else if(Kind=="star"){var points=new PointF[10];for(int i=0;i<10;i++){double angle=-Math.PI/2+i*Math.PI/5;float radius=i%2==0?12:5.3f;points[i]=new PointF((float)Math.Cos(angle)*radius,(float)Math.Sin(angle)*radius);}if(Selected)g.FillPolygon(brush,points);else g.DrawPolygon(pen,points);}
  else{g.DrawEllipse(pen,-7,-12,14,16);g.DrawLine(pen,-4,5,4,5);g.DrawLine(pen,-4,8,4,8);g.DrawLine(pen,-2,11,2,11);g.DrawLine(pen,-2,-4,0,3);g.DrawLine(pen,2,-4,0,3);}}
- g.Restore(saved);if(Kind=="bulb")using(var font=GameTheme.Body(8))TextRenderer.DrawText(g,Count.ToString(),font,new Rectangle(Width-15,Height-15,14,14),color,TextFormatFlags.Right|TextFormatFlags.NoPadding);}
+ g.Restore(saved);if(Kind=="bulb")using(var font=GameTheme.Body(8))GameTheme.DrawText(g,Count.ToString(),font,new Rectangle(Width-15,Height-15,14,14),color,TextFormatFlags.Right|TextFormatFlags.NoPadding);}
 }
 

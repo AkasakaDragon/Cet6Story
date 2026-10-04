@@ -10,10 +10,10 @@ public sealed class RelicRewardChoice:Control {
   using(var glow=new GraphicsPath()){glow.AddEllipse(circle);using(var brush=new PathGradientBrush(glow)){brush.CenterColor=Color.FromArgb(90,132,192,205);brush.SurroundColors=new[]{Color.FromArgb(0,50,99,115)};g.FillPath(brush,glow);}}
   using(var ring=new Pen(Color.FromArgb(70,214,189,134),1))g.DrawEllipse(ring,circle);
   if(Art!=null){float scale=Math.Min((diameter-18f)/Art.Width,(diameter-18f)/Art.Height);float w=Art.Width*scale,h=Art.Height*scale;g.DrawImage(Art,new RectangleF(Width/2f-w/2,circle.Top+diameter/2f-h/2,w,h));}
-  int titleY=circle.Bottom+16;using(var f=GameTheme.Body(Width<210?14:17))TextRenderer.DrawText(g,Title,f,new Rectangle(12,titleY,Width-24,32),Color.FromArgb(255,223,161),TextFormatFlags.HorizontalCenter|TextFormatFlags.VerticalCenter|TextFormatFlags.EndEllipsis);
+  int titleY=circle.Bottom+16;using(var f=GameTheme.Body(Width<210?14:17))GameTheme.DrawText(g,Title,f,new Rectangle(12,titleY,Width-24,32),Color.FromArgb(255,223,161),TextFormatFlags.HorizontalCenter|TextFormatFlags.VerticalCenter|TextFormatFlags.EndEllipsis);
   using(var pen=new Pen(Color.FromArgb(65,212,190,142),1))g.DrawLine(pen,30,titleY+38,Width-30,titleY+38);
-  using(var f=GameTheme.Body(Width<210?10:12))TextRenderer.DrawText(g,Description,f,new Rectangle(18,titleY+49,Width-36,Math.Max(String.IsNullOrEmpty(FooterText)?30:44,Height-titleY-68-(String.IsNullOrEmpty(FooterText)?0:42))),Color.FromArgb(231,236,226),TextFormatFlags.HorizontalCenter|TextFormatFlags.WordBreak|TextFormatFlags.NoPadding);
-  if(!String.IsNullOrEmpty(FooterText)){using(var f=GameTheme.Body(Width<210?11:13,FontStyle.Bold))TextRenderer.DrawText(g,FooterText,f,new Rectangle(10,Height-43,Width-20,28),Enabled?GameTheme.Gold:GameTheme.Muted,TextFormatFlags.HorizontalCenter|TextFormatFlags.VerticalCenter|TextFormatFlags.NoPadding);}
+  using(var f=GameTheme.Body(Width<210?10:12))GameTheme.DrawText(g,Description,f,new Rectangle(18,titleY+49,Width-36,Math.Max(String.IsNullOrEmpty(FooterText)?30:44,Height-titleY-68-(String.IsNullOrEmpty(FooterText)?0:42))),Color.FromArgb(231,236,226),TextFormatFlags.HorizontalCenter|TextFormatFlags.WordBreak|TextFormatFlags.NoPadding);
+  if(!String.IsNullOrEmpty(FooterText)){using(var f=GameTheme.Body(Width<210?11:13,FontStyle.Bold))GameTheme.DrawText(g,FooterText,f,new Rectangle(10,Height-43,Width-20,28),Enabled?GameTheme.Gold:GameTheme.Muted,TextFormatFlags.HorizontalCenter|TextFormatFlags.VerticalCenter|TextFormatFlags.NoPadding);}
  }
 }
 public partial class Game {

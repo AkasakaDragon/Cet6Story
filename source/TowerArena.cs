@@ -44,16 +44,16 @@ public class RogueArena:Control {
     if(Run.cardBattle!=null)DrawIntent(g,(int)(Width*.77f),enemyBarY);
    }
   }
-  if(Run==null){using(var f=new Font(GameTheme.BodyName,20,FontStyle.Bold))TextRenderer.DrawText(g,BannerTitle,f,new Rectangle(Width/3,45,Width*2/3-20,50),Color.FromArgb(255,232,184));TextRenderer.DrawText(g,BannerSubtitle,Font,new Rectangle(Width/3,100,Width*2/3-20,70),Color.FromArgb(223,217,178),TextFormatFlags.WordBreak);}
+  if(Run==null){using(var f=GameTheme.Body(20,FontStyle.Bold))GameTheme.DrawText(g,BannerTitle,f,new Rectangle(Width/3,45,Width*2/3-20,50),Color.FromArgb(255,232,184));GameTheme.DrawText(g,BannerSubtitle,Font,new Rectangle(Width/3,100,Width*2/3-20,70),Color.FromArgb(223,217,178),TextFormatFlags.WordBreak);}
   if(hit&&!animated){float y=Height*.55f;int target=(int)(Width*.77f),start=(int)heroX;
    if(Run.lastDamage>0&&frame<16){int x=start+(target-start)*Math.Min(frame,13)/13;using(var b=new SolidBrush(Color.FromArgb(255,221,114))){g.FillRectangle(b,x-24,y-4,24,8);g.FillRectangle(b,x-38,y-2,12,4);} }
    if(Run.lastDamage>0&&frame>=12&&frame<25){Burst(g,target,(int)y,frame-12,Color.FromArgb(255,216,113));if(frame<21)using(var p=new Pen(Color.FromArgb(255,248,202),6)){g.DrawLine(p,target-26,(int)y+25,target+25,(int)y-26);g.DrawLine(p,target-16,(int)y+30,target+34,(int)y-14);}}
-   using(var f=new Font(GameTheme.LatinName,20,FontStyle.Bold)){if(Run.lastDamage>0&&frame>=12)TextRenderer.DrawText(g,"-"+Run.lastDamage,f,new Rectangle(target-60,(int)y-50-(frame-12)*2,120,45),Color.FromArgb(255,236,148),TextFormatFlags.HorizontalCenter);if(Run.lastReceived>0&&frame>=36)TextRenderer.DrawText(g,"-"+Run.lastReceived,f,new Rectangle(start-55,(int)y-45-(frame-36)*2,110,40),Color.FromArgb(255,151,136),TextFormatFlags.HorizontalCenter);}
+   using(var f=GameTheme.Latin(20,FontStyle.Bold)){if(Run.lastDamage>0&&frame>=12)GameTheme.DrawText(g,"-"+Run.lastDamage,f,new Rectangle(target-60,(int)y-50-(frame-12)*2,120,45),Color.FromArgb(255,236,148),TextFormatFlags.HorizontalCenter);if(Run.lastReceived>0&&frame>=36)GameTheme.DrawText(g,"-"+Run.lastReceived,f,new Rectangle(start-55,(int)y-45-(frame-36)*2,110,40),Color.FromArgb(255,151,136),TextFormatFlags.HorizontalCenter);}
   }
   if(hit&&animated){int sx=heroRect.Left+(int)(heroRect.Width*.91),sy=heroRect.Top+(int)(heroRect.Height*.23),tx=enemyRect.Left+enemyRect.Width/2,ty=enemyRect.Top+enemyRect.Height/2;
    if(Run.lastDamage>0){if(frame>=12&&frame<15)CombatEffect(g,0,sx,sy,Math.Max(36,heroRect.Height/3));if(frame>=13&&frame<17){float t=(frame-13)/3f;CombatEffect(g,1,(int)(sx+(tx-sx)*t),(int)(sy+(ty-sy)*t),Math.Max(45,heroRect.Height/2));}if(frame>=16&&frame<24)CombatEffect(g,2,tx,ty,70+(frame-16)*4);}
    if(Run.lastReceived>0&&frame>=36&&frame<46){int hx=heroRect.Left+heroRect.Width/2,hy=heroRect.Top+heroRect.Height/2;if(Run.armor>0||Run.guardUsed){CombatEffect(g,5,hx+heroRect.Width/3,hy,heroRect.Height);CombatEffect(g,6,hx+heroRect.Width/3,hy,heroRect.Height/2);}else CombatEffect(g,4,hx,hy,Math.Max(55,heroRect.Height/2));}
-   using(var font=new Font(GameTheme.LatinName,20,FontStyle.Bold)){if(Run.lastDamage>0&&frame>=16)TextRenderer.DrawText(g,"-"+Run.lastDamage,font,new Rectangle(tx-55,ty-45-(frame-16)*2,110,40),Color.FromArgb(255,236,148),TextFormatFlags.HorizontalCenter);if(Run.lastReceived>0&&frame>=36)TextRenderer.DrawText(g,"-"+Run.lastReceived,font,new Rectangle(heroRect.Left,heroRect.Top-20-(frame-36)*2,110,40),Color.FromArgb(255,151,136),TextFormatFlags.HorizontalCenter);}
+   using(var font=GameTheme.Latin(20,FontStyle.Bold)){if(Run.lastDamage>0&&frame>=16)GameTheme.DrawText(g,"-"+Run.lastDamage,font,new Rectangle(tx-55,ty-45-(frame-16)*2,110,40),Color.FromArgb(255,236,148),TextFormatFlags.HorizontalCenter);if(Run.lastReceived>0&&frame>=36)GameTheme.DrawText(g,"-"+Run.lastReceived,font,new Rectangle(heroRect.Left,heroRect.Top-20-(frame-36)*2,110,40),Color.FromArgb(255,151,136),TextFormatFlags.HorizontalCenter);}
   }
   if((Mode=="loot"||Mode=="reward")&&frame<28){Color color=Run!=null&&(Run.feedback??"").Contains("恢复")?Color.FromArgb(140,233,162):Color.FromArgb(255,213,106);using(var b=new SolidBrush(color))for(int i=0;i<16;i++){int x=Width/2+(i*47%200)-100,y=(int)(Height*.58f)-frame*3+i%4*13;g.FillRectangle(b,x,y,4,4);}}
   using(var p=new Pen(Color.FromArgb(113,143,113),2))g.DrawRectangle(p,1,1,Math.Max(1,Width-3),Math.Max(1,Height-3));
@@ -98,8 +98,8 @@ public class RogueArena:Control {
    CyberChrome.Panel(g,bounds,CyberChrome.Neon);
    using(var accent=new SolidBrush(Color.FromArgb(194,163,112)))g.FillEllipse(accent,x+14,y+13,6,6);
    string move=Mode=="feedback"?MonsterCombat.Action(Run):MonsterCombat.PlannedAction(Run);string moveLabel=move=="skill-a"?"技能 A":move=="skill-b"?"技能 B":move=="normal"?"普通攻击":"行动意图";
-   TextRenderer.DrawText(g,"第 "+Run.cardBattle.turn+" 回合 · "+moveLabel,titleFont,new Rectangle(x+27,y+7,width-41,20),Color.FromArgb(205,185,146),TextFormatFlags.NoPadding|TextFormatFlags.VerticalCenter);
-   TextRenderer.DrawText(g,detail,font,new Rectangle(x+16,y+31,width-32,detailHeight+3),Color.FromArgb(232,231,218),flags);
+   GameTheme.DrawText(g,"第 "+Run.cardBattle.turn+" 回合 · "+moveLabel,titleFont,new Rectangle(x+27,y+7,width-41,20),Color.FromArgb(205,185,146),TextFormatFlags.NoPadding|TextFormatFlags.VerticalCenter);
+   GameTheme.DrawText(g,detail,font,new Rectangle(x+16,y+31,width-32,detailHeight+3),Color.FromArgb(232,231,218),flags);
    g.Restore(state);
   }
  }
@@ -107,7 +107,7 @@ public class RogueArena:Control {
   x=Math.Max(10,Math.Min(Width-width-10,x));var state=g.Save();g.SmoothingMode=SmoothingMode.AntiAlias;
   var panel=new Rectangle(x,y,width,62);
   CyberChrome.Panel(g,panel,CyberChrome.Neon);
-  using(var font=GameTheme.Body(10,FontStyle.Bold))TextRenderer.DrawText(g,name,font,new Rectangle(x+12,y+7,width-24,21),Color.FromArgb(228,232,221),TextFormatFlags.HorizontalCenter|TextFormatFlags.VerticalCenter|TextFormatFlags.NoPadding|TextFormatFlags.EndEllipsis);
+  using(var font=GameTheme.Body(10,FontStyle.Bold))GameTheme.DrawText(g,name,font,new Rectangle(x+12,y+7,width-24,21),Color.FromArgb(228,232,221),TextFormatFlags.HorizontalCenter|TextFormatFlags.VerticalCenter|TextFormatFlags.NoPadding|TextFormatFlags.EndEllipsis);
   var track=new Rectangle(x+12,y+33,width-24,18);
   using(var path=ExpeditionVisuals.Rounded(track,5)){
    using(var brush=new SolidBrush(Color.FromArgb(38,49,52)))g.FillPath(brush,path);
@@ -117,7 +117,7 @@ public class RogueArena:Control {
    g.Restore(clip);using(var edge=new Pen(Color.FromArgb(80,166,180,169)))g.DrawPath(edge,path);
   }
   string health=Math.Max(0,value)+" / "+Math.Max(1,max);
-  using(var font=GameTheme.Body(9,FontStyle.Bold)){var flags=TextFormatFlags.HorizontalCenter|TextFormatFlags.VerticalCenter|TextFormatFlags.NoPadding;var shadow=track;shadow.Offset(0,1);TextRenderer.DrawText(g,health,font,shadow,Color.FromArgb(15,25,27),flags);TextRenderer.DrawText(g,health,font,track,Color.FromArgb(246,246,232),flags);}
+  using(var font=GameTheme.Body(9,FontStyle.Bold)){var flags=TextFormatFlags.HorizontalCenter|TextFormatFlags.VerticalCenter|TextFormatFlags.NoPadding;var shadow=track;shadow.Offset(0,1);GameTheme.DrawText(g,health,font,shadow,Color.FromArgb(15,25,27),flags);GameTheme.DrawText(g,health,font,track,Color.FromArgb(246,246,232),flags);}
   g.Restore(state);
  }
 }

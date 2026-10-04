@@ -23,7 +23,7 @@ public static class StoryAudioSpeed {
 public partial class Game {
  long storyEndMs; VNButton speedButton;
  long SpeedTime(double seconds){return (long)Math.Round(seconds*1000/save.storySpeed);}
- string StoryAudioFile(){return String.IsNullOrWhiteSpace(current.audio)?"":AudioVolume.Prepare(StoryAudioSpeed.Prepare(Engine.SafePath(folders[current.id],current.audio),save.storySpeed,root),save.volume,root);}
+ string StoryAudioFile(){return String.IsNullOrWhiteSpace(current.audio)?"":AudioVolume.Prepare(StoryAudioSpeed.Prepare(Engine.SafePath(folders[current.id],current.audio),save.storySpeed,root),StorySoundVolume(),root);}
  void AddSpeedControl(FlowLayoutPanel bar){
   speedButton=Mini(save.storySpeed.ToString("0.0#",CultureInfo.InvariantCulture)+"x","","点击切换下一个倍速：0.5x → 1.0x → 1.25x → 1.5x",()=>{double[] rates={.5,1.0,1.25,1.5};int position=Array.IndexOf(rates,save.storySpeed);ChangeStorySpeed(rates[(position+1)%rates.Length]);});speedButton.Width=66;bar.Controls.Add(speedButton);
  }
@@ -32,7 +32,7 @@ public partial class Game {
   bool playing=originalPlaying,paused=pausedAudio;double sourceMs=current.lines[index].start*1000;var position=new StringBuilder(64);long ms;
   if(playing&&mciSendString("status storyaudio position",position,64,IntPtr.Zero)==0&&long.TryParse(position.ToString(),out ms))sourceMs=ms*save.storySpeed;
   double previous=save.storySpeed;string prepared;
-  try{Cursor=Cursors.WaitCursor;prepared=String.IsNullOrWhiteSpace(current.audio)?"":AudioVolume.Prepare(StoryAudioSpeed.Prepare(Engine.SafePath(folders[current.id],current.audio),rate,root),save.volume,root);}
+  try{Cursor=Cursors.WaitCursor;prepared=String.IsNullOrWhiteSpace(current.audio)?"":AudioVolume.Prepare(StoryAudioSpeed.Prepare(Engine.SafePath(folders[current.id],current.audio),rate,root),StorySoundVolume(),root);}
   catch(Exception ex){GameMessage.Show(this,ex.Message,"播放倍速");return;}finally{Cursor=Cursors.Default;}
   // Read the latest position after preparing an imported audio file.
   position.Clear();if(playing&&mciSendString("status storyaudio position",position,64,IntPtr.Zero)==0&&long.TryParse(position.ToString(),out ms))sourceMs=ms*previous;

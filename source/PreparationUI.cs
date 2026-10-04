@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.IO;
 using System.Linq;
 using System.Collections.Generic;
@@ -17,7 +17,7 @@ public partial class Game {
   if(p.prepSession!=null&&!String.IsNullOrEmpty(p.prepChapter)&&TowerEngine.IsTower(p.prepSession))p.preparationRuns[p.prepChapter]=p.prepSession;
   RogueRun run;p.preparationRuns.TryGetValue(current.id,out run);
   if(run==null||run.state=="ended"){
-   var ordinary=p.run;try{run=RogueEngine.NewRun(p,words,"本节词汇准备",Environment.TickCount);run.vocabularyChapter=current.id;}finally{p.run=ordinary;}
+   var ordinary=p.run;try{run=RogueEngine.NewRun(p,words,"本节词汇准备",BitConverter.ToInt32(Guid.NewGuid().ToByteArray(),0));run.vocabularyChapter=current.id;}finally{p.run=ordinary;}
    p.preparationRuns[current.id]=run;
   }
   p.prepChapter=current.id;p.prepSession=run;p.preparationActive=true;save.lastChapter=current.id;save.hasGame=true;Persist();RenderRogue();

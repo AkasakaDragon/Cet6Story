@@ -60,7 +60,7 @@ public sealed class BattleFanHand:Control {
   if(dragged>=0){if(pressed)DrawReleaseGuide(g);Draw(g,dragged,true);DrawTrail(g);}
  }
  void DrawReleaseGuide(Graphics g){float y=Height-CardHeight*.65f;using(var pen=new Pen(Color.FromArgb(playable[dragged]?160:70,CyberChrome.Neon),1.4f)){pen.DashStyle=DashStyle.Dash;g.DrawLine(pen,Math.Max(15,Width/2-170),y,Math.Min(Width-15,Width/2+170),y);}
-  using(var font=GameTheme.Body(10))TextRenderer.DrawText(g,playable[dragged]?"向上拖动 · 松开出牌":"当前无法使用这张牌",font,new Rectangle(0,8,Width,24),playable[dragged]?GameTheme.Cyan:GameTheme.Muted,TextFormatFlags.HorizontalCenter|TextFormatFlags.VerticalCenter);
+  using(var font=GameTheme.Body(10))GameTheme.DrawText(g,playable[dragged]?"向上拖动 · 松开出牌":"当前无法使用这张牌",font,new Rectangle(0,8,Width,24),playable[dragged]?GameTheme.Cyan:GameTheme.Muted,TextFormatFlags.HorizontalCenter|TextFormatFlags.VerticalCenter);
  }
  void DrawTrail(Graphics g){float w=CardHeight*.7f;int count=committing?14:7;for(int i=0;i<count;i++){float x=dragCenter.X+(i%2==0?-1:1)*(w*.36f+i%3*4),y=dragCenter.Y+CardHeight*.35f+i*7;int alpha=committing?Math.Max(0,180-commitFrame*10-i*7):Math.Max(0,130-i*15);using(var pen=new Pen(Color.FromArgb(alpha,CyberChrome.Neon),i%3==0?2:1))g.DrawLine(pen,x,y,x,y+8);}
   if(committing){float radius=18+commitFrame*7;using(var pen=new Pen(Color.FromArgb(Math.Max(0,170-commitFrame*11),CyberChrome.Neon),2))g.DrawEllipse(pen,dragCenter.X-radius,dragCenter.Y-radius*.6f,radius*2,radius*1.2f);}

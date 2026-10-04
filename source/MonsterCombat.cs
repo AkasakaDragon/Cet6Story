@@ -50,7 +50,7 @@ public static class MonsterCombat {
      if(profile==9){Polygon(g,hx,hy,(20+burst*75)*size,color,8,burst);Ring(g,hx,hy,(30+burst*90)*size,color,120);}
     }
     if(profile==7){using(var blade=new Pen(Color.FromArgb(150,color),5*size))g.DrawArc(blade,x-35*size,y-50*size,70*size,100*size,120,130);}
-    if(frame>=36){if(run.cardBattle!=null&&run.cardBattle.lastEvaded){using(var font=GameTheme.Body(11,FontStyle.Bold))TextRenderer.DrawText(g,"闪避",font,new Rectangle((int)hx-45,(int)hy-45-(frame-36)*2,90,28),Color.FromArgb(196,223,211),TextFormatFlags.HorizontalCenter);}
+    if(frame>=36){if(run.cardBattle!=null&&run.cardBattle.lastEvaded){using(var font=GameTheme.Body(11,FontStyle.Bold))GameTheme.DrawText(g,"闪避",font,new Rectangle((int)hx-45,(int)hy-45-(frame-36)*2,90,28),Color.FromArgb(196,223,211),TextFormatFlags.HorizontalCenter);}
      else if(run.lastReceived>0||run.cardBattle!=null&&run.cardBattle.lastBlocked>0){Particles(g,hx,hy,frame-36,color,profile+13,size*power);if(run.cardBattle!=null&&run.cardBattle.lastBlocked>0)Ring(g,hx,hy,hero.Height*.34f,color,150);}
     }
    }

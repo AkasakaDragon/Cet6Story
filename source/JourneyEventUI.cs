@@ -14,8 +14,8 @@ public sealed class JourneyEventChoice:Control {
    int titleHeight=TextRenderer.MeasureText(g,Title,titleFont,new Size(textWidth,Int32.MaxValue),flags).Height;
    int effectHeight=TextRenderer.MeasureText(g,Effect,effectFont,new Size(textWidth,Int32.MaxValue),flags).Height;
    int top=Math.Max(8,(Height-titleHeight-effectHeight-6)/2);
-   TextRenderer.DrawText(g,Title,titleFont,new Rectangle(24,top,textWidth,titleHeight+2),Enabled?GameTheme.Gold:GameTheme.Muted,flags);
-   TextRenderer.DrawText(g,Effect,effectFont,new Rectangle(24,top+titleHeight+6,textWidth,effectHeight+2),Enabled?GameTheme.Ink:GameTheme.Muted,flags);
+   GameTheme.DrawText(g,Title,titleFont,new Rectangle(24,top,textWidth,titleHeight+2),Enabled?GameTheme.Gold:GameTheme.Muted,flags);
+   GameTheme.DrawText(g,Effect,effectFont,new Rectangle(24,top+titleHeight+6,textWidth,effectHeight+2),Enabled?GameTheme.Ink:GameTheme.Muted,flags);
   }
  }
 

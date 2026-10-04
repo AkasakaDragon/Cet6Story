@@ -18,8 +18,8 @@ public sealed class CampfireChoice:Control {
    int h=Math.Max(50,Height-titleHeight-effectHeight-24);var plate=new Rectangle(4,4,Width-9,h-5);
    CyberChrome.Panel(g,plate,Enabled?(hover||Focused?CyberChrome.Amber:Heal?Color.FromArgb(132,188,107):Color.FromArgb(213,137,82)):GameTheme.Muted,false,Enabled&&(hover||Focused));
    if(Atlas!=null){int cell=Atlas.Width/2,side=Math.Min(Width-35,h-15);var rect=new Rectangle((Width-side)/2,8,side,side);g.InterpolationMode=InterpolationMode.NearestNeighbor;g.PixelOffsetMode=PixelOffsetMode.Half;g.DrawImage(Atlas,rect,new Rectangle(Heal?0:cell,0,cell,Atlas.Height),GraphicsUnit.Pixel);if(!Enabled)using(var b=new SolidBrush(Color.FromArgb(140,12,20,25)))g.FillRectangle(b,plate);}
-   TextRenderer.DrawText(g,title,titleFont,new Rectangle(0,h+10,Width,titleHeight),Enabled?GameTheme.Gold:GameTheme.Muted,titleFlags);
-   TextRenderer.DrawText(g,Description,effectFont,new Rectangle(4,h+14+titleHeight,Width-8,effectHeight),Enabled?GameTheme.Ink:GameTheme.Muted,effectFlags);
+   GameTheme.DrawText(g,title,titleFont,new Rectangle(0,h+10,Width,titleHeight),Enabled?GameTheme.Gold:GameTheme.Muted,titleFlags);
+   GameTheme.DrawText(g,Description,effectFont,new Rectangle(4,h+14+titleHeight,Width-8,effectHeight),Enabled?GameTheme.Ink:GameTheme.Muted,effectFlags);
   }
  }
 
