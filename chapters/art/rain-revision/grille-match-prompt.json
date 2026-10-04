@@ -1,0 +1,5 @@
+{
+  "mode": "built-in imagegen",
+  "asset": "passage-sealed.png",
+  "prompt": "Use case: precise-object-edit. Image 1 is EDIT TARGET; Image 2 is reference ONLY for the grille design above its door. Edit ONLY transom above closed steel door in Image1. Match Image2 exact three-part design: central horizontal ventilation louvers in a rectangular dark frame occupy middle half, flanked by diamond-pattern metal wire mesh panels occupying left quarter and right quarter. Dark opaque backing behind all three panels, NO staircase or corridor visible through transom. Scale this three-part grille to fit existing target transom dimensions. Preserve ALL other content of Image1: CLOSED doors, red terminal, actual staircase BELOW door, railings, walls, lighting, camera, pixel art, dimensions. Do not import open doors or city from Image2. No text or characters."
+}

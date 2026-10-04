@@ -1,0 +1,344 @@
+{
+  "unlockLevel": 1,
+  "pixelArt": true,
+  "inlineQuestions": true,
+  "heroActor": "xingyao",
+  "actors": [
+    {
+      "id": "xingyao",
+      "side": "right",
+      "image": "art/neon/xingyao.png",
+      "gender": "female",
+      "voice": "en-US-MichelleNeural"
+    }
+  ],
+  "id": "neon-01-02",
+  "title": "第一卷 · 霓虹失名者 / 第一章 1.2 地下末班车",
+  "description": "原创像素冒险 · 四六级常见词汇与推断练习 · 3 道分段听力题",
+  "source": "原创剧情、原创四六级听力风格题，不是考试原文。",
+  "audio": "audio/neon/02-chapter.wav",
+  "audioLabel": "自然英文神经网络配音：星遥 Michelle / 陆川 Brian / 旁白 Christopher / 系统 Guy · 原创非考试原音",
+  "background": "art/neon/metro-platform.png",
+  "sortOrder": -99,
+  "requiredItem": "jammer",
+  "itemScene": "废弃站台的身份闸机仍在追踪星遥。她能修好列车，却无法同时遮蔽沿线的巡逻信号。万象系统提示：部署信号干扰器，建立一次安全通行窗口。",
+  "ending": "本节行动结果已记录。前往主线地图查看路线，或重新闯关尝试另一种道具选择。",
+  "timeLimitSeconds": 300,
+  "questionNote": "每八句一次听力检查，共三题；首次无字幕，解析在节末显示。",
+  "decisions": [],
+  "lines": [
+    {
+      "speaker": "旁白",
+      "actor": "",
+      "voiceRole": "narrator",
+      "text": "The last train stands beneath the city, its windows dark and its doors locked.",
+      "translation": "末班列车停在城市地下，车窗漆黑，车门紧锁。",
+      "start": 0.0,
+      "end": 5.352,
+      "pose": 1
+    },
+    {
+      "speaker": "陈星遥",
+      "actor": "xingyao",
+      "voiceRole": "xingyao",
+      "text": "This line closed three years ago. The company said it was no longer profitable.",
+      "translation": "这条线路三年前停运。公司说它已经无法盈利。",
+      "start": 5.582,
+      "end": 11.51,
+      "pose": 1
+    },
+    {
+      "speaker": "陆川",
+      "actor": "",
+      "voiceRole": "luc",
+      "text": "Then why are the security gates still connected to the central network?",
+      "translation": "那为什么安检闸机还连着中央网络？",
+      "start": 11.74,
+      "end": 16.108,
+      "pose": 1
+    },
+    {
+      "speaker": "陈星遥",
+      "actor": "xingyao",
+      "voiceRole": "xingyao",
+      "text": "They track movement, not passengers. People without official records still need somewhere to go.",
+      "translation": "它们追踪移动，而不是乘客。没有正式记录的人仍然需要去处。",
+      "start": 16.338,
+      "end": 23.13,
+      "pose": 1
+    },
+    {
+      "speaker": "万象系统",
+      "actor": "",
+      "voiceRole": "system",
+      "text": "Signal jammer deployed. Local surveillance will receive an empty platform image.",
+      "translation": "信号干扰器已部署。本地监控将接收到空站台影像。",
+      "start": 23.36,
+      "end": 29.768,
+      "pose": 1
+    },
+    {
+      "speaker": "陆川",
+      "actor": "",
+      "voiceRole": "luc",
+      "text": "So the cameras cannot identify us. Can we board the train now?",
+      "translation": "所以摄像头无法识别我们。现在能上车了吗？",
+      "start": 29.998,
+      "end": 34.438,
+      "pose": 1
+    },
+    {
+      "speaker": "陈星遥",
+      "actor": "xingyao",
+      "voiceRole": "xingyao",
+      "text": "Not yet. The main battery is damaged, but the emergency supply may still work.",
+      "translation": "还不行。主电池损坏了，不过应急电源可能还可以用。",
+      "start": 34.668,
+      "end": 41.028,
+      "pose": 1
+    },
+    {
+      "speaker": "陆川",
+      "actor": "",
+      "voiceRole": "luc",
+      "text": "You handle the power. I will keep the patrol signal away from this station.",
+      "translation": "你处理电源，我让巡逻信号远离这座车站。",
+      "start": 41.258,
+      "end": 46.034,
+      "pose": 1
+    },
+    {
+      "speaker": "旁白",
+      "actor": "",
+      "voiceRole": "narrator",
+      "text": "Xingyao opens a metal panel. A thin blue light appears beneath her fingers.",
+      "translation": "星遥打开金属面板。她的指尖下亮起细细的蓝光。",
+      "start": 46.264,
+      "end": 52.456,
+      "pose": 0,
+      "scene": "art/routes/scenes.png",
+      "sceneCell": 4
+    },
+    {
+      "speaker": "陈星遥",
+      "actor": "xingyao",
+      "voiceRole": "xingyao",
+      "text": "The emergency battery has enough energy for one journey, provided we reduce the load.",
+      "translation": "应急电池足够跑一趟，前提是减轻负载。",
+      "start": 52.686,
+      "end": 58.278,
+      "pose": 0,
+      "scene": "art/routes/scenes.png",
+      "sceneCell": 4
+    },
+    {
+      "speaker": "陆川",
+      "actor": "",
+      "voiceRole": "luc",
+      "text": "Would turning off the lights help? We do not need the whole carriage illuminated.",
+      "translation": "关灯有用吗？我们不需要照亮整节车厢。",
+      "start": 58.508,
+      "end": 63.812,
+      "pose": 0,
+      "scene": "art/routes/scenes.png",
+      "sceneCell": 4
+    },
+    {
+      "speaker": "陈星遥",
+      "actor": "xingyao",
+      "voiceRole": "xingyao",
+      "text": "Yes, but heating consumes much more power. We should disconnect it first.",
+      "translation": "有用，但供暖消耗的电更多。应该先切断供暖。",
+      "start": 64.042,
+      "end": 70.018,
+      "pose": 0,
+      "scene": "art/routes/scenes.png",
+      "sceneCell": 4
+    },
+    {
+      "speaker": "万象系统",
+      "actor": "",
+      "voiceRole": "system",
+      "text": "Heating disabled. Estimated travel range has increased by forty percent.",
+      "translation": "供暖已关闭。预计行驶距离增加百分之四十。",
+      "start": 70.248,
+      "end": 76.368,
+      "pose": 0,
+      "scene": "art/routes/scenes.png",
+      "sceneCell": 4
+    },
+    {
+      "speaker": "陆川",
+      "actor": "",
+      "voiceRole": "luc",
+      "text": "It will be cold. Take my jacket if you need it.",
+      "translation": "会很冷。如果需要，你可以披上我的外套。",
+      "start": 76.598,
+      "end": 80.078,
+      "pose": 0,
+      "scene": "art/routes/scenes.png",
+      "sceneCell": 4
+    },
+    {
+      "speaker": "陈星遥",
+      "actor": "xingyao",
+      "voiceRole": "xingyao",
+      "text": "Keep it. You have never spent a night underground. I can manage the temperature.",
+      "translation": "自己留着。你没在地下过过夜，我能应付这种温度。",
+      "start": 80.308,
+      "end": 86.836,
+      "pose": 0,
+      "scene": "art/routes/scenes.png",
+      "sceneCell": 4
+    },
+    {
+      "speaker": "旁白",
+      "actor": "",
+      "voiceRole": "narrator",
+      "text": "She looks away, but moves her bag so that there is a seat beside her.",
+      "translation": "她移开目光，却挪开了包，给身边留出一个座位。",
+      "start": 87.066,
+      "end": 91.914,
+      "pose": 0,
+      "scene": "art/routes/scenes.png",
+      "sceneCell": 4
+    },
+    {
+      "speaker": "陈星遥",
+      "actor": "xingyao",
+      "voiceRole": "xingyao",
+      "text": "The shelter is beyond the next junction. We must take the maintenance tunnel.",
+      "translation": "避难所在下一个岔口后面。我们必须走维修隧道。",
+      "start": 92.144,
+      "end": 97.52,
+      "pose": 2,
+      "scene": "art/routes/scenes.png",
+      "sceneCell": 5
+    },
+    {
+      "speaker": "陆川",
+      "actor": "",
+      "voiceRole": "luc",
+      "text": "The public route looks shorter. Why not follow that one?",
+      "translation": "公共线路看起来更短。为什么不走那条？",
+      "start": 97.75,
+      "end": 101.59,
+      "pose": 2,
+      "scene": "art/routes/scenes.png",
+      "sceneCell": 5
+    },
+    {
+      "speaker": "陈星遥",
+      "actor": "xingyao",
+      "voiceRole": "xingyao",
+      "text": "Its final gate checks every passenger against the company database. Your name would be missing.",
+      "translation": "它的最后一道闸机会核对每位乘客的公司数据库记录。那里找不到你的名字。",
+      "start": 101.82,
+      "end": 108.396,
+      "pose": 2,
+      "scene": "art/routes/scenes.png",
+      "sceneCell": 5
+    },
+    {
+      "speaker": "万象系统",
+      "actor": "",
+      "voiceRole": "system",
+      "text": "Alternative route confirmed. The maintenance tunnel has no identity checkpoint.",
+      "translation": "替代路线已确认。维修隧道没有身份检查点。",
+      "start": 108.626,
+      "end": 114.722,
+      "pose": 2,
+      "scene": "art/routes/scenes.png",
+      "sceneCell": 5
+    },
+    {
+      "speaker": "陆川",
+      "actor": "",
+      "voiceRole": "luc",
+      "text": "You knew this route before we met. Have you helped other people escape?",
+      "translation": "在遇见我之前，你就知道这条路。你帮过其他人逃走吗？",
+      "start": 114.952,
+      "end": 119.584,
+      "pose": 2,
+      "scene": "art/routes/scenes.png",
+      "sceneCell": 5
+    },
+    {
+      "speaker": "陈星遥",
+      "actor": "xingyao",
+      "voiceRole": "xingyao",
+      "text": "My father designed these tunnels. He disappeared after questioning the identity system.",
+      "translation": "这些隧道是我父亲设计的。他质疑身份系统后就失踪了。",
+      "start": 119.814,
+      "end": 126.006,
+      "pose": 2,
+      "scene": "art/routes/scenes.png",
+      "sceneCell": 5
+    },
+    {
+      "speaker": "陆川",
+      "actor": "",
+      "voiceRole": "luc",
+      "text": "Then we are not simply hiding. We are going to find out what happened to him.",
+      "translation": "那我们就不只是躲起来。我们要查清他究竟发生了什么。",
+      "start": 126.236,
+      "end": 130.988,
+      "pose": 2,
+      "scene": "art/routes/scenes.png",
+      "sceneCell": 5
+    },
+    {
+      "speaker": "陈星遥",
+      "actor": "xingyao",
+      "voiceRole": "xingyao",
+      "text": "There is an archive near the shelter. If his original reports survived, we may finally have evidence.",
+      "translation": "避难所附近有座档案室。如果他的原始报告还在，我们也许终于能找到证据。",
+      "start": 131.218,
+      "end": 138.418,
+      "pose": 2,
+      "scene": "art/routes/scenes.png",
+      "sceneCell": 5
+    }
+  ],
+  "questions": [
+    {
+      "afterLine": 7,
+      "skill": "原因判断",
+      "prompt": "Why does Xingyao not board the train immediately?",
+      "options": [
+        "The main battery is damaged.",
+        "The platform is too crowded.",
+        "She has lost her ticket.",
+        "The cameras are still identifying them."
+      ],
+      "answer": 0,
+      "explanation": "干扰器已遮蔽摄像头，但星遥接着说主电池损坏，所以仍不能立刻上车。"
+    },
+    {
+      "afterLine": 15,
+      "skill": "细节与优先顺序",
+      "prompt": "What do they disconnect first to save energy?",
+      "options": [
+        "The security cameras.",
+        "The carriage lights.",
+        "The heating system.",
+        "The emergency battery."
+      ],
+      "answer": 2,
+      "explanation": "星遥明确说供暖耗电更多，应该先断开。不要被陆川提出的关灯建议干扰。"
+    },
+    {
+      "afterLine": 23,
+      "skill": "推断与行动目的",
+      "prompt": "Why do they choose the maintenance tunnel?",
+      "options": [
+        "It leads directly to her father.",
+        "It has no identity checkpoint.",
+        "It is the shortest public route.",
+        "It provides more battery power."
+      ],
+      "answer": 1,
+      "explanation": "公共线路末端会核对身份，维修隧道没有身份检查点，适合没有记录的陆川。"
+    }
+  ]
+}

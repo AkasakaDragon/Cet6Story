@@ -1,0 +1,810 @@
+{
+  "neon-01-01": [
+    {
+      "word": "identity",
+      "meaning": "身份",
+      "tier": 1,
+      "example": "The visitor must prove his {identity} before receiving a key.",
+      "exampleZh": "访客必须证明自己的身份才能领取钥匙。"
+    },
+    {
+      "word": "record",
+      "meaning": "记录",
+      "tier": 1,
+      "example": "Keep a written {record} of every payment.",
+      "exampleZh": "以书面形式记录每一笔付款。"
+    },
+    {
+      "word": "security",
+      "meaning": "安全；安保",
+      "tier": 1,
+      "example": "The building has improved its {security} after the incident.",
+      "exampleZh": "事件发生后，这栋楼加强了安保。"
+    },
+    {
+      "word": "patrol",
+      "meaning": "巡逻",
+      "tier": 1,
+      "example": "A night {patrol} checks the streets regularly.",
+      "exampleZh": "夜间巡逻队定期检查街道。"
+    },
+    {
+      "word": "equipment",
+      "meaning": "设备",
+      "tier": 1,
+      "example": "All the laboratory {equipment} must be checked before use.",
+      "exampleZh": "所有实验室设备在使用前都必须检查。"
+    },
+    {
+      "word": "remote",
+      "meaning": "远程的",
+      "tier": 1,
+      "example": "A {remote} connection allows staff to work from home.",
+      "exampleZh": "远程连接使员工能够在家办公。"
+    },
+    {
+      "word": "repair",
+      "meaning": "修复",
+      "tier": 1,
+      "example": "A technician will {repair} the broken printer tomorrow.",
+      "exampleZh": "技术人员明天将修理损坏的打印机。"
+    },
+    {
+      "word": "confirm",
+      "meaning": "确认",
+      "tier": 1,
+      "example": "Please {confirm} your appointment by email.",
+      "exampleZh": "请通过电子邮件确认你的预约。"
+    },
+    {
+      "word": "shelter",
+      "meaning": "避难所",
+      "tier": 1,
+      "example": "The school provided temporary {shelter} after the storm.",
+      "exampleZh": "暴风雨过后，学校提供了临时避难所。"
+    },
+    {
+      "word": "permission",
+      "meaning": "许可",
+      "tier": 1,
+      "example": "Students need {permission} to enter the research room.",
+      "exampleZh": "学生进入研究室需要获得许可。"
+    },
+    {
+      "word": "evidence",
+      "meaning": "证据",
+      "tier": 1,
+      "example": "The committee needs reliable {evidence} before reaching a conclusion.",
+      "exampleZh": "委员会需要可靠的证据才能得出结论。"
+    },
+    {
+      "word": "maintenance",
+      "meaning": "维护；维修",
+      "tier": 1,
+      "example": "Regular {maintenance} keeps the machines operating safely.",
+      "exampleZh": "定期维护能确保机器安全运行。"
+    },
+    {
+      "word": "alternative",
+      "meaning": "替代方案",
+      "tier": 1,
+      "example": "We should consider an {alternative} if the first plan fails.",
+      "exampleZh": "如果第一个计划失败，我们应该考虑替代方案。"
+    },
+    {
+      "word": "terminal",
+      "meaning": "终端",
+      "tier": 1,
+      "example": "The computer {terminal} displays the current timetable.",
+      "exampleZh": "计算机终端显示当前的时刻表。"
+    },
+    {
+      "word": "official",
+      "meaning": "官方的",
+      "tier": 1,
+      "example": "An {official} announcement will explain the new rules.",
+      "exampleZh": "官方公告将解释新的规定。"
+    },
+    {
+      "word": "entrance",
+      "meaning": "入口",
+      "tier": 1,
+      "example": "The main {entrance} is on the north side of the building.",
+      "exampleZh": "主入口位于这栋楼的北侧。"
+    },
+    {
+      "word": "circuit",
+      "meaning": "电路",
+      "tier": 1,
+      "example": "A damaged {circuit} can interrupt the power supply.",
+      "exampleZh": "损坏的电路可能导致供电中断。"
+    },
+    {
+      "word": "restore",
+      "meaning": "恢复",
+      "tier": 1,
+      "example": "The engineer hopes to {restore} the service by noon.",
+      "exampleZh": "工程师希望在中午前恢复服务。"
+    },
+    {
+      "word": "activation",
+      "meaning": "激活",
+      "tier": 1,
+      "example": "The device requires {activation} before its first use.",
+      "exampleZh": "这台设备首次使用前需要激活。"
+    },
+    {
+      "word": "investigation",
+      "meaning": "调查",
+      "tier": 1,
+      "example": "An independent {investigation} will examine the cause of the accident.",
+      "exampleZh": "一项独立调查将查明事故原因。"
+    },
+    {
+      "word": "report",
+      "meaning": "报告",
+      "tier": 1,
+      "example": "The final {report} includes the results of the survey.",
+      "exampleZh": "最终报告包含调查结果。"
+    },
+    {
+      "word": "control",
+      "meaning": "控制",
+      "tier": 1,
+      "example": "The operator can {control} the temperature from this panel.",
+      "exampleZh": "操作员可以通过这个面板控制温度。"
+    },
+    {
+      "word": "available",
+      "meaning": "可用的",
+      "tier": 1,
+      "example": "Several seats are still {available} for the evening class.",
+      "exampleZh": "晚间课程仍有几个名额。"
+    },
+    {
+      "word": "assistance",
+      "meaning": "帮助",
+      "tier": 1,
+      "example": "Please ask the staff for {assistance} if you need it.",
+      "exampleZh": "如果需要帮助，请向工作人员求助。"
+    }
+  ],
+  "neon-01-02": [
+    {
+      "word": "profitable",
+      "meaning": "盈利的",
+      "tier": 1,
+      "example": "Practice the word {profitable} before continuing.",
+      "exampleZh": "继续之前，请练习单词“profitable”。"
+    },
+    {
+      "word": "battery",
+      "meaning": "电池",
+      "tier": 1,
+      "example": "Practice the word {battery} before continuing.",
+      "exampleZh": "继续之前，请练习单词“battery”。"
+    },
+    {
+      "word": "emergency",
+      "meaning": "紧急的",
+      "tier": 1,
+      "example": "Practice the word {emergency} before continuing.",
+      "exampleZh": "继续之前，请练习单词“emergency”。"
+    },
+    {
+      "word": "supply",
+      "meaning": "供给",
+      "tier": 1,
+      "example": "Practice the word {supply} before continuing.",
+      "exampleZh": "继续之前，请练习单词“supply”。"
+    },
+    {
+      "word": "reduce",
+      "meaning": "减少",
+      "tier": 1,
+      "example": "We must {reduce} the amount of plastic waste.",
+      "exampleZh": "我们必须减少塑料垃圾的数量。"
+    },
+    {
+      "word": "load",
+      "meaning": "负载",
+      "tier": 1,
+      "example": "Practice the word {load} before continuing.",
+      "exampleZh": "继续之前，请练习单词“load”。"
+    },
+    {
+      "word": "heating",
+      "meaning": "供暖",
+      "tier": 1,
+      "example": "Practice the word {heating} before continuing.",
+      "exampleZh": "继续之前，请练习单词“heating”。"
+    },
+    {
+      "word": "disconnect",
+      "meaning": "断开",
+      "tier": 1,
+      "example": "Practice the word {disconnect} before continuing.",
+      "exampleZh": "继续之前，请练习单词“disconnect”。"
+    },
+    {
+      "word": "consumes",
+      "meaning": "消耗",
+      "tier": 1,
+      "example": "Practice the word {consumes} before continuing.",
+      "exampleZh": "继续之前，请练习单词“consumes”。"
+    },
+    {
+      "word": "energy",
+      "meaning": "能量",
+      "tier": 1,
+      "example": "Practice the word {energy} before continuing.",
+      "exampleZh": "继续之前，请练习单词“energy”。"
+    },
+    {
+      "word": "carriage",
+      "meaning": "车厢",
+      "tier": 1,
+      "example": "Practice the word {carriage} before continuing.",
+      "exampleZh": "继续之前，请练习单词“carriage”。"
+    },
+    {
+      "word": "illuminated",
+      "meaning": "被照亮的",
+      "tier": 1,
+      "example": "Practice the word {illuminated} before continuing.",
+      "exampleZh": "继续之前，请练习单词“illuminated”。"
+    },
+    {
+      "word": "surveillance",
+      "meaning": "监控",
+      "tier": 1,
+      "example": "Practice the word {surveillance} before continuing.",
+      "exampleZh": "继续之前，请练习单词“surveillance”。"
+    },
+    {
+      "word": "network",
+      "meaning": "网络",
+      "tier": 1,
+      "example": "Practice the word {network} before continuing.",
+      "exampleZh": "继续之前，请练习单词“network”。"
+    },
+    {
+      "word": "movement",
+      "meaning": "移动",
+      "tier": 1,
+      "example": "Practice the word {movement} before continuing.",
+      "exampleZh": "继续之前，请练习单词“movement”。"
+    },
+    {
+      "word": "checkpoint",
+      "meaning": "检查点",
+      "tier": 1,
+      "example": "Practice the word {checkpoint} before continuing.",
+      "exampleZh": "继续之前，请练习单词“checkpoint”。"
+    },
+    {
+      "word": "database",
+      "meaning": "数据库",
+      "tier": 1,
+      "example": "Practice the word {database} before continuing.",
+      "exampleZh": "继续之前，请练习单词“database”。"
+    },
+    {
+      "word": "junction",
+      "meaning": "岔口",
+      "tier": 1,
+      "example": "Practice the word {junction} before continuing.",
+      "exampleZh": "继续之前，请练习单词“junction”。"
+    },
+    {
+      "word": "tunnel",
+      "meaning": "隧道",
+      "tier": 1,
+      "example": "Practice the word {tunnel} before continuing.",
+      "exampleZh": "继续之前，请练习单词“tunnel”。"
+    },
+    {
+      "word": "underground",
+      "meaning": "地下的",
+      "tier": 1,
+      "example": "Practice the word {underground} before continuing.",
+      "exampleZh": "继续之前，请练习单词“underground”。"
+    },
+    {
+      "word": "journey",
+      "meaning": "旅程",
+      "tier": 1,
+      "example": "Practice the word {journey} before continuing.",
+      "exampleZh": "继续之前，请练习单词“journey”。"
+    },
+    {
+      "word": "range",
+      "meaning": "范围",
+      "tier": 1,
+      "example": "Practice the word {range} before continuing.",
+      "exampleZh": "继续之前，请练习单词“range”。"
+    },
+    {
+      "word": "original",
+      "meaning": "原始的",
+      "tier": 1,
+      "example": "Practice the word {original} before continuing.",
+      "exampleZh": "继续之前，请练习单词“original”。"
+    },
+    {
+      "word": "archive",
+      "meaning": "档案",
+      "tier": 1,
+      "example": "Practice the word {archive} before continuing.",
+      "exampleZh": "继续之前，请练习单词“archive”。"
+    }
+  ],
+  "neon-01-03": [
+    {
+      "word": "conclusion",
+      "meaning": "结论",
+      "tier": 2,
+      "example": "Practice the word {conclusion} before continuing.",
+      "exampleZh": "继续之前，请练习单词“conclusion”。"
+    },
+    {
+      "word": "observations",
+      "meaning": "观测",
+      "tier": 2,
+      "example": "Practice the word {observations} before continuing.",
+      "exampleZh": "继续之前，请练习单词“observations”。"
+    },
+    {
+      "word": "complaints",
+      "meaning": "投诉",
+      "tier": 2,
+      "example": "Practice the word {complaints} before continuing.",
+      "exampleZh": "继续之前，请练习单词“complaints”。"
+    },
+    {
+      "word": "consequences",
+      "meaning": "后果",
+      "tier": 2,
+      "example": "Practice the word {consequences} before continuing.",
+      "exampleZh": "继续之前，请练习单词“consequences”。"
+    },
+    {
+      "word": "authenticity",
+      "meaning": "真实性",
+      "tier": 2,
+      "example": "Practice the word {authenticity} before continuing.",
+      "exampleZh": "继续之前，请练习单词“authenticity”。"
+    },
+    {
+      "word": "transaction",
+      "meaning": "事务",
+      "tier": 2,
+      "example": "Practice the word {transaction} before continuing.",
+      "exampleZh": "继续之前，请练习单词“transaction”。"
+    },
+    {
+      "word": "exclude",
+      "meaning": "排除",
+      "tier": 2,
+      "example": "Practice the word {exclude} before continuing.",
+      "exampleZh": "继续之前，请练习单词“exclude”。"
+    },
+    {
+      "word": "duplicates",
+      "meaning": "重复项",
+      "tier": 2,
+      "example": "Practice the word {duplicates} before continuing.",
+      "exampleZh": "继续之前，请练习单词“duplicates”。"
+    },
+    {
+      "word": "distinct",
+      "meaning": "不同的",
+      "tier": 2,
+      "example": "Practice the word {distinct} before continuing.",
+      "exampleZh": "继续之前，请练习单词“distinct”。"
+    },
+    {
+      "word": "residents",
+      "meaning": "居民",
+      "tier": 2,
+      "example": "Practice the word {residents} before continuing.",
+      "exampleZh": "继续之前，请练习单词“residents”。"
+    },
+    {
+      "word": "identification",
+      "meaning": "身份识别",
+      "tier": 2,
+      "example": "Practice the word {identification} before continuing.",
+      "exampleZh": "继续之前，请练习单词“identification”。"
+    },
+    {
+      "word": "housing",
+      "meaning": "住房",
+      "tier": 2,
+      "example": "Practice the word {housing} before continuing.",
+      "exampleZh": "继续之前，请练习单词“housing”。"
+    },
+    {
+      "word": "medical",
+      "meaning": "医疗的",
+      "tier": 2,
+      "example": "Practice the word {medical} before continuing.",
+      "exampleZh": "继续之前，请练习单词“medical”。"
+    },
+    {
+      "word": "external",
+      "meaning": "外部的",
+      "tier": 2,
+      "example": "Practice the word {external} before continuing.",
+      "exampleZh": "继续之前，请练习单词“external”。"
+    },
+    {
+      "word": "rejected",
+      "meaning": "被拒绝的",
+      "tier": 2,
+      "example": "Practice the word {rejected} before continuing.",
+      "exampleZh": "继续之前，请练习单词“rejected”。"
+    },
+    {
+      "word": "independent",
+      "meaning": "独立的",
+      "tier": 2,
+      "example": "Practice the word {independent} before continuing.",
+      "exampleZh": "继续之前，请练习单词“independent”。"
+    },
+    {
+      "word": "signatures",
+      "meaning": "签名",
+      "tier": 2,
+      "example": "Practice the word {signatures} before continuing.",
+      "exampleZh": "继续之前，请练习单词“signatures”。"
+    },
+    {
+      "word": "modification",
+      "meaning": "修改",
+      "tier": 2,
+      "example": "Practice the word {modification} before continuing.",
+      "exampleZh": "继续之前，请练习单词“modification”。"
+    },
+    {
+      "word": "source",
+      "meaning": "来源",
+      "tier": 2,
+      "example": "Practice the word {source} before continuing.",
+      "exampleZh": "继续之前，请练习单词“source”。"
+    },
+    {
+      "word": "publish",
+      "meaning": "公布",
+      "tier": 2,
+      "example": "Practice the word {publish} before continuing.",
+      "exampleZh": "继续之前，请练习单词“publish”。"
+    },
+    {
+      "word": "personal",
+      "meaning": "个人的",
+      "tier": 2,
+      "example": "Practice the word {personal} before continuing.",
+      "exampleZh": "继续之前，请练习单词“personal”。"
+    },
+    {
+      "word": "private",
+      "meaning": "私密的",
+      "tier": 2,
+      "example": "Practice the word {private} before continuing.",
+      "exampleZh": "继续之前，请练习单词“private”。"
+    },
+    {
+      "word": "figures",
+      "meaning": "数字",
+      "tier": 2,
+      "example": "Practice the word {figures} before continuing.",
+      "exampleZh": "继续之前，请练习单词“figures”。"
+    },
+    {
+      "word": "verification",
+      "meaning": "核验",
+      "tier": 2,
+      "example": "Practice the word {verification} before continuing.",
+      "exampleZh": "继续之前，请练习单词“verification”。"
+    }
+  ],
+  "neon-01-04": [
+    {
+      "word": "broadcast",
+      "meaning": "广播",
+      "tier": 2,
+      "example": "Practice the word {broadcast} before continuing.",
+      "exampleZh": "继续之前，请练习单词“broadcast”。"
+    },
+    {
+      "word": "destinations",
+      "meaning": "目的地",
+      "tier": 2,
+      "example": "Practice the word {destinations} before continuing.",
+      "exampleZh": "继续之前，请练习单词“destinations”。"
+    },
+    {
+      "word": "community",
+      "meaning": "社区",
+      "tier": 2,
+      "example": "The local {community} supported the project.",
+      "exampleZh": "当地社区支持了这个项目。"
+    },
+    {
+      "word": "receivers",
+      "meaning": "接收器",
+      "tier": 2,
+      "example": "Practice the word {receivers} before continuing.",
+      "exampleZh": "继续之前，请练习单词“receivers”。"
+    },
+    {
+      "word": "distribute",
+      "meaning": "分发",
+      "tier": 2,
+      "example": "Practice the word {distribute} before continuing.",
+      "exampleZh": "继续之前，请练习单词“distribute”。"
+    },
+    {
+      "word": "protocol",
+      "meaning": "协议",
+      "tier": 2,
+      "example": "Practice the word {protocol} before continuing.",
+      "exampleZh": "继续之前，请练习单词“protocol”。"
+    },
+    {
+      "word": "controller",
+      "meaning": "控制器",
+      "tier": 2,
+      "example": "Practice the word {controller} before continuing.",
+      "exampleZh": "继续之前，请练习单词“controller”。"
+    },
+    {
+      "word": "corrupted",
+      "meaning": "损坏的",
+      "tier": 2,
+      "example": "Practice the word {corrupted} before continuing.",
+      "exampleZh": "继续之前，请练习单词“corrupted”。"
+    },
+    {
+      "word": "transmission",
+      "meaning": "传输",
+      "tier": 2,
+      "example": "Practice the word {transmission} before continuing.",
+      "exampleZh": "继续之前，请练习单词“transmission”。"
+    },
+    {
+      "word": "channel",
+      "meaning": "通道",
+      "tier": 2,
+      "example": "Practice the word {channel} before continuing.",
+      "exampleZh": "继续之前，请练习单词“channel”。"
+    },
+    {
+      "word": "suppress",
+      "meaning": "压制",
+      "tier": 2,
+      "example": "Practice the word {suppress} before continuing.",
+      "exampleZh": "继续之前，请练习单词“suppress”。"
+    },
+    {
+      "word": "automated",
+      "meaning": "自动的",
+      "tier": 2,
+      "example": "Practice the word {automated} before continuing.",
+      "exampleZh": "继续之前，请练习单词“automated”。"
+    },
+    {
+      "word": "instruction",
+      "meaning": "指令",
+      "tier": 2,
+      "example": "Practice the word {instruction} before continuing.",
+      "exampleZh": "继续之前，请练习单词“instruction”。"
+    },
+    {
+      "word": "replacement",
+      "meaning": "替换",
+      "tier": 2,
+      "example": "Practice the word {replacement} before continuing.",
+      "exampleZh": "继续之前，请练习单词“replacement”。"
+    },
+    {
+      "word": "overwrite",
+      "meaning": "覆盖",
+      "tier": 2,
+      "example": "Practice the word {overwrite} before continuing.",
+      "exampleZh": "继续之前，请练习单词“overwrite”。"
+    },
+    {
+      "word": "preserve",
+      "meaning": "保留",
+      "tier": 2,
+      "example": "We should {preserve} important historical records.",
+      "exampleZh": "我们应该保存重要的历史记录。"
+    },
+    {
+      "word": "reversed",
+      "meaning": "被撤销的",
+      "tier": 2,
+      "example": "Practice the word {reversed} before continuing.",
+      "exampleZh": "继续之前，请练习单词“reversed”。"
+    },
+    {
+      "word": "safeguard",
+      "meaning": "保障机制",
+      "tier": 2,
+      "example": "Practice the word {safeguard} before continuing.",
+      "exampleZh": "继续之前，请练习单词“safeguard”。"
+    },
+    {
+      "word": "efficiency",
+      "meaning": "效率",
+      "tier": 2,
+      "example": "Practice the word {efficiency} before continuing.",
+      "exampleZh": "继续之前，请练习单词“efficiency”。"
+    },
+    {
+      "word": "rights",
+      "meaning": "权利",
+      "tier": 2,
+      "example": "Practice the word {rights} before continuing.",
+      "exampleZh": "继续之前，请练习单词“rights”。"
+    },
+    {
+      "word": "inspect",
+      "meaning": "审查",
+      "tier": 2,
+      "example": "Practice the word {inspect} before continuing.",
+      "exampleZh": "继续之前，请练习单词“inspect”。"
+    },
+    {
+      "word": "challenge",
+      "meaning": "质疑",
+      "tier": 2,
+      "example": "Learning a new language is a real {challenge}.",
+      "exampleZh": "学习一门新语言确实是一项挑战。"
+    },
+    {
+      "word": "accountability",
+      "meaning": "问责",
+      "tier": 2,
+      "example": "Practice the word {accountability} before continuing.",
+      "exampleZh": "继续之前，请练习单词“accountability”。"
+    },
+    {
+      "word": "destination",
+      "meaning": "目的地",
+      "tier": 2,
+      "example": "Practice the word {destination} before continuing.",
+      "exampleZh": "继续之前，请练习单词“destination”。"
+    }
+  ],
+  "neon-01-A": [
+    {
+      "word": "distress",
+      "meaning": "危急；求救",
+      "tier": 2,
+      "example": "The radio receives a {distress} signal.",
+      "exampleZh": "无线电接收到求救信号。"
+    },
+    {
+      "word": "clinic",
+      "meaning": "诊所",
+      "tier": 2,
+      "example": "The small {clinic} remains open at night.",
+      "exampleZh": "小诊所在夜间仍然开放。"
+    },
+    {
+      "word": "register",
+      "meaning": "登记",
+      "tier": 2,
+      "example": "Patients cannot {register} without an identity record.",
+      "exampleZh": "没有身份记录的病人无法登记。"
+    },
+    {
+      "word": "emergency",
+      "meaning": "紧急情况",
+      "tier": 2,
+      "example": "The battery is reserved for an {emergency}.",
+      "exampleZh": "这块电池用于紧急情况。"
+    },
+    {
+      "word": "supply",
+      "meaning": "供应；电源",
+      "tier": 2,
+      "example": "The backup {supply} powers the lift.",
+      "exampleZh": "备用电源为升降梯供电。"
+    },
+    {
+      "word": "monitor",
+      "meaning": "监护仪；监测",
+      "tier": 2,
+      "example": "The {monitor} requires a stable battery.",
+      "exampleZh": "监护仪需要稳定的电池。"
+    },
+    {
+      "word": "restore",
+      "meaning": "恢复",
+      "tier": 2,
+      "example": "We must {restore} power before moving patients.",
+      "exampleZh": "转移病人前必须恢复电力。"
+    },
+    {
+      "word": "evacuation",
+      "meaning": "撤离",
+      "tier": 2,
+      "example": "The doctor arranges a safe {evacuation}.",
+      "exampleZh": "医生安排安全撤离。"
+    },
+    {
+      "word": "shortage",
+      "meaning": "短缺",
+      "tier": 2,
+      "example": "There is no {shortage} of medicine.",
+      "exampleZh": "药物并不短缺。"
+    },
+    {
+      "word": "storage",
+      "meaning": "存储",
+      "tier": 2,
+      "example": "The damaged {storage} unit contains important files.",
+      "exampleZh": "损坏的存储装置包含重要文件。"
+    },
+    {
+      "word": "observation",
+      "meaning": "观察；观察记录",
+      "tier": 2,
+      "example": "Each {observation} is based on a real case.",
+      "exampleZh": "每份观察记录都来自真实病例。"
+    },
+    {
+      "word": "rumor",
+      "meaning": "传闻",
+      "tier": 2,
+      "example": "A {rumor} is not reliable evidence.",
+      "exampleZh": "传闻并不是可靠的证据。"
+    },
+    {
+      "word": "privacy",
+      "meaning": "隐私",
+      "tier": 2,
+      "example": "The doctor protects each patient's {privacy}.",
+      "exampleZh": "医生保护每位病人的隐私。"
+    },
+    {
+      "word": "permission",
+      "meaning": "允许；许可",
+      "tier": 2,
+      "example": "We need {permission} before publishing names.",
+      "exampleZh": "公布姓名之前需要获得许可。"
+    },
+    {
+      "word": "preserve",
+      "meaning": "保存；保留",
+      "tier": 2,
+      "example": "A secure copy can {preserve} the records.",
+      "exampleZh": "安全副本可以保留记录。"
+    },
+    {
+      "word": "independent",
+      "meaning": "独立的",
+      "tier": 2,
+      "example": "Keep an {independent} copy of the evidence.",
+      "exampleZh": "保留一份独立的证据副本。"
+    },
+    {
+      "word": "transfer",
+      "meaning": "转移",
+      "tier": 2,
+      "example": "The {transfer} list offers a useful lead.",
+      "exampleZh": "转移名单提供了有用线索。"
+    },
+    {
+      "word": "verify",
+      "meaning": "核实",
+      "tier": 2,
+      "example": "We must {verify} the original report first.",
+      "exampleZh": "我们必须先核实原始报告。"
+    }
+  ]
+}

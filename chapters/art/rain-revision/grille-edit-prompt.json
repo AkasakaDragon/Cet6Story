@@ -1,0 +1,5 @@
+{
+  "mode": "built-in imagegen",
+  "asset": "passage-sealed.png",
+  "prompt": "Use case: precise-object-edit. Input image is exact edit target: pixel-art game background. Change ONLY the rectangular transom above the closed double steel door, underneath the cyan ceiling lamp (roughly x 285-690 y 85-195 of 1672x944 canvas). Remove ALL staircase, interior depth, interior lamp, handrails and view through that transom. Replace entire transom with a single flat dark ventilation grille of evenly spaced horizontal steel slats, opaque dark backing. No stairs visible above door at all. Preserve exact camera, closed steel door, terminal and red lamp, the real stairs BELOW door, railings, walls, pipes, palette, pixel rendering and image dimensions. No added text or characters."
+}

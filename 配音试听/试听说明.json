@@ -1,0 +1,12 @@
+{
+  "text": "Keep your head down. That screen is scanning your face, not showing an advertisement. Help me reach the shelter. I will show you what I found.",
+  "rate": "+0%",
+  "voices": {
+    "01-Michelle-当前": "en-US-MichelleNeural",
+    "02-Jenny": "en-US-JennyNeural",
+    "03-Aria": "en-US-AriaNeural",
+    "04-Ana": "en-US-AnaNeural",
+    "05-Sonia-英式": "en-GB-SoniaNeural"
+  },
+  "purpose": "本地非商业试听；未替换游戏配音"
+}

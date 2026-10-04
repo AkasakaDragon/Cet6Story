@@ -1,0 +1,7 @@
+file 'C:/Users/33370/Documents/Codex/2026-10-02/rug/outputs/Cet6Story-v3.1/剧情概念稿/开场CG/第一段-通宵刷题/第一段CG-通宵刷题-v5-双语无提示音.mp4'
+file 'C:/Users/33370/Documents/Codex/2026-10-02/rug/outputs/Cet6Story-v3.1/剧情概念稿/开场CG/第二段-屏幕异变/第二段CG-屏幕异变-v1.mp4'
+file 'C:/Users/33370/Documents/Codex/2026-10-02/rug/outputs/Cet6Story-v3.1/剧情概念稿/开场CG/第三段-雨夜降落/第三段-雨夜降落-v4.mp4'
+file 'C:/Users/33370/Documents/Codex/2026-10-02/rug/outputs/Cet6Story-v3.1/剧情概念稿/开场CG/第四段-系统觉醒/第四段-系统觉醒-v4.mp4'
+file 'C:/Users/33370/Documents/Codex/2026-10-02/rug/outputs/Cet6Story-v3.1/剧情概念稿/开场CG/第五段-红光扫描/第五段-红光扫描-v4.mp4'
+file 'C:/Users/33370/Documents/Codex/2026-10-02/rug/outputs/Cet6Story-v3.1/剧情概念稿/开场CG/第六段-星遥登场/第六段-星遥登场-v4.mp4'
+file 'C:/Users/33370/Documents/Codex/2026-10-02/rug/outputs/Cet6Story-v3.1/剧情概念稿/开场CG/第七段-暗巷暂避/第七段-暗巷暂避-v4.mp4'

@@ -1,0 +1,137 @@
+[
+  {
+    "chapter": "neon-01-01",
+    "intro": {
+      "image": "rain-intro.png",
+      "captions": [
+        {
+          "zh": "红色扫描光掠过雨巷。两人暂时藏进阴影。",
+          "en": "A red scan crosses the alley. They shelter in the shadows."
+        },
+        {
+          "zh": "官方入口需要身份记录，巡逻正在逼近。",
+          "en": "Official gates require identity records. The patrol is closing in."
+        },
+        {
+          "zh": "系统屏蔽器可以争取一个安全窗口。",
+          "en": "A system shield can provide a brief safe window."
+        },
+        {
+          "zh": "先完成本节词汇准备，再部署道具行动。",
+          "en": "Complete this section's vocabulary preparation before the mission."
+        }
+      ]
+    },
+    "ending": {
+      "image": "rain-end.png",
+      "captions": [
+        {
+          "zh": "钢门开启，追踪暂时被隔绝在外。",
+          "en": "The steel door opens, blocking the pursuit."
+        },
+        {
+          "zh": "陆川第一次用系统支援帮助了星遥。",
+          "en": "Lu Chuan uses system support to help Xingyao."
+        },
+        {
+          "zh": "她说起失名者的调查，随后无线电轻轻闪动。",
+          "en": "She describes her investigation. A radio signal flickers."
+        },
+        {
+          "zh": "两人需要决定是否调查微弱的求救信号。",
+          "en": "They must decide whether to investigate the weak distress signal."
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "neon-01-02",
+    "intro": {
+      "image": "metro-intro.png",
+      "captions": [
+        {
+          "zh": "地下线路停运多年，列车仍停在站台。",
+          "en": "The line closed years ago. An old train remains."
+        },
+        {
+          "zh": "星遥寻找通往庇护所的维护路线。",
+          "en": "Xingyao searches for a maintenance route to the shelter."
+        },
+        {
+          "zh": "监控仍然运行，需要信号干扰器掩护。",
+          "en": "Surveillance is active. A jammer is needed."
+        },
+        {
+          "zh": "先完成本节词汇准备，再处理列车电源。",
+          "en": "Prepare the vocabulary before restoring the train's power."
+        }
+      ]
+    },
+    "ending": {
+      "image": "metro-end.png",
+      "captions": [
+        {
+          "zh": "备用电池启动，列车终于有了回应。",
+          "en": "The emergency battery brings the train to life."
+        },
+        {
+          "zh": "两人登上末班车，暂时离开身份检查区。",
+          "en": "They board the train and leave the checkpoints behind."
+        },
+        {
+          "zh": "星遥提起父亲设计的隧道，以及他的失踪。",
+          "en": "Xingyao speaks of her father's tunnels and disappearance."
+        },
+        {
+          "zh": "列车驶向庇护所，旧档案成为新的目标。",
+          "en": "They head toward the shelter and its old archives."
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "neon-01-A",
+    "intro": {
+      "image": "clinic-intro.png",
+      "captions": [
+        {
+          "zh": "求救信号来自雨巷深处的一家小诊所。",
+          "en": "The distress signal leads to a small clinic."
+        },
+        {
+          "zh": "星遥记得这里帮助过许多失名者。",
+          "en": "Xingyao remembers the clinic helping the nameless."
+        },
+        {
+          "zh": "周医生正在守着剩余电力和病人。",
+          "en": "Doctor Zhou protects his patients with limited power."
+        },
+        {
+          "zh": "先准备本节词汇，再查明诊所的困境。",
+          "en": "Prepare this section's words before investigating the clinic."
+        }
+      ]
+    },
+    "ending": {
+      "image": "clinic-end-record.png",
+      "captions": [
+        {
+          "zh": "诊所的电力和记录都需要保护。",
+          "en": "Both the clinic's power and its records need protection."
+        },
+        {
+          "zh": "系统根据现有装备提供支援方案。",
+          "en": "The system offers support based on available equipment."
+        },
+        {
+          "zh": "医生留下关于转移名单的新线索。",
+          "en": "The doctor provides a lead about a transfer list."
+        },
+        {
+          "zh": "你的道具与行动决定了最终保住什么。",
+          "en": "Your equipment and choices decide what can be preserved."
+        }
+      ]
+    }
+  }
+]

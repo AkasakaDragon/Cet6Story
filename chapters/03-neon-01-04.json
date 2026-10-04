@@ -1,0 +1,288 @@
+{
+  "unlockLevel": 1,
+  "pixelArt": true,
+  "inlineQuestions": true,
+  "heroActor": "xingyao",
+  "actors": [
+    {
+      "id": "xingyao",
+      "side": "right",
+      "image": "art/neon/xingyao.png",
+      "gender": "female",
+      "voice": "en-US-MichelleNeural"
+    }
+  ],
+  "id": "neon-01-04",
+  "title": "第一卷 · 霓虹失名者 / 第一章 1.4 黎明信号",
+  "description": "原创像素冒险 · 四六级常见词汇与推断练习 · 3 道分段听力题",
+  "source": "原创剧情、原创四六级听力风格题，不是考试原文。",
+  "audio": "audio/neon/04-chapter.wav",
+  "audioLabel": "自然英文神经网络配音：星遥 Michelle / 陆川 Brian / 旁白 Christopher / 系统 Guy · 原创非考试原音",
+  "background": "art/neon/broadcast-roof.png",
+  "sortOrder": -97,
+  "requiredItem": "repair",
+  "itemScene": "中央网络随时可能删除证据。屋顶公共广播塔仍有一条独立通信线路，但旧协议已损坏。万象系统提示：协议修复芯片可以重建验证通道，让各社区同时收到可核验的记录。",
+  "ending": "第一卷第一章完成：你与星遥公开独立证据，定向恢复失名居民的身份，保留复核与追责通道。晨光里，她收到父亲仍可能活着的新线索。你选择留下，陪她走向下一段旅程。",
+  "timeLimitSeconds": 300,
+  "questionNote": "每八句一次听力检查，共三题；首次无字幕，解析在节末显示。",
+  "decisions": [],
+  "lines": [
+    {
+      "speaker": "旁白",
+      "actor": "",
+      "voiceRole": "narrator",
+      "text": "Before sunrise, we reach the roof of a silent broadcast station overlooking the lower districts.",
+      "translation": "日出之前，我们来到沉寂广播站的屋顶，俯瞰下层城区。",
+      "start": 0.0,
+      "end": 6.624
+    },
+    {
+      "speaker": "陈星遥",
+      "actor": "xingyao",
+      "voiceRole": "xingyao",
+      "text": "The central network can remove a single upload in seconds. We need several independent destinations.",
+      "translation": "中央网络几秒内就能删除一份上传。我们需要多个独立目的地。",
+      "start": 6.854,
+      "end": 13.958
+    },
+    {
+      "speaker": "陆川",
+      "actor": "",
+      "voiceRole": "luc",
+      "text": "Could the community receivers distribute copies without asking the company for permission?",
+      "translation": "社区接收器能不经过公司批准就分发副本吗？",
+      "start": 14.188,
+      "end": 19.612
+    },
+    {
+      "speaker": "陈星遥",
+      "actor": "xingyao",
+      "voiceRole": "xingyao",
+      "text": "They could, if this tower still supported the original verification protocol. Its controller is corrupted.",
+      "translation": "如果这座塔仍支持原始核验协议，就可以。但控制器已经损坏。",
+      "start": 19.842,
+      "end": 27.306
+    },
+    {
+      "speaker": "万象系统",
+      "actor": "",
+      "voiceRole": "system",
+      "text": "Protocol repair chip installed. Independent transmission channel restored.",
+      "translation": "协议修复芯片已安装。独立传输通道已恢复。",
+      "start": 27.536,
+      "end": 33.68
+    },
+    {
+      "speaker": "陆川",
+      "actor": "",
+      "voiceRole": "luc",
+      "text": "Then send the evidence to the community receivers first. A public copy should not have one point of failure.",
+      "translation": "那先把证据发给社区接收器。公开副本不应该只有一个故障点。",
+      "start": 33.91,
+      "end": 40.918
+    },
+    {
+      "speaker": "陈星遥",
+      "actor": "xingyao",
+      "voiceRole": "xingyao",
+      "text": "Once they hold separate copies, removing the original will no longer suppress the report.",
+      "translation": "一旦各处持有独立副本，删除原始上传也无法压住报告。",
+      "start": 41.148,
+      "end": 46.764
+    },
+    {
+      "speaker": "旁白",
+      "actor": "",
+      "voiceRole": "narrator",
+      "text": "She connects her terminal. Across the sleeping city, small receiver lights begin to blink.",
+      "translation": "她接上终端。沉睡城市里的接收器开始闪烁。",
+      "start": 46.994,
+      "end": 54.026
+    },
+    {
+      "speaker": "万象系统",
+      "actor": "",
+      "voiceRole": "system",
+      "text": "Warning. An automated instruction requests replacement of all existing identity records.",
+      "translation": "警告。自动指令要求替换全部现有身份记录。",
+      "start": 54.256,
+      "end": 61.192
+    },
+    {
+      "speaker": "陈星遥",
+      "actor": "xingyao",
+      "voiceRole": "xingyao",
+      "text": "That would restore the erased names, but it might also overwrite valid records. We cannot risk another disaster.",
+      "translation": "那会恢复被抹去的名字，也可能覆盖有效记录。我们不能再冒一次灾难的风险。",
+      "start": 61.422,
+      "end": 69.438
+    },
+    {
+      "speaker": "陆川",
+      "actor": "",
+      "voiceRole": "luc",
+      "text": "Restore only the entries verified by the independent archive, and preserve a copy of the current database.",
+      "translation": "只恢复经过独立档案核验的条目，并保留当前数据库副本。",
+      "start": 69.668,
+      "end": 76.46
+    },
+    {
+      "speaker": "万象系统",
+      "actor": "",
+      "voiceRole": "system",
+      "text": "Targeted restoration prepared. Every proposed change has a recorded source and can be reversed.",
+      "translation": "定向恢复已准备。每项拟议修改都有来源记录，并可撤销。",
+      "start": 76.69,
+      "end": 83.866
+    },
+    {
+      "speaker": "陈星遥",
+      "actor": "xingyao",
+      "voiceRole": "xingyao",
+      "text": "My father argued for exactly this safeguard. They removed it because review slowed their operations.",
+      "translation": "父亲争取的就是这种保护机制。他们因为审核拖慢运营而移除了它。",
+      "start": 84.096,
+      "end": 91.248
+    },
+    {
+      "speaker": "陆川",
+      "actor": "",
+      "voiceRole": "luc",
+      "text": "Efficiency means little if people lose their rights whenever a machine makes an error.",
+      "translation": "如果机器一出错人们就失去权利，效率就没有多少意义。",
+      "start": 91.478,
+      "end": 96.47
+    },
+    {
+      "speaker": "陈星遥",
+      "actor": "xingyao",
+      "voiceRole": "xingyao",
+      "text": "The residents should be able to inspect and challenge decisions that affect them.",
+      "translation": "居民应该能够查看并质疑影响自己的决定。",
+      "start": 96.7,
+      "end": 101.284
+    },
+    {
+      "speaker": "旁白",
+      "actor": "",
+      "voiceRole": "narrator",
+      "text": "The terminal asks for confirmation. This time, neither of us presses the button without reading.",
+      "translation": "终端要求确认。这一次，我们谁也没有不读内容就按下按钮。",
+      "start": 101.514,
+      "end": 108.426
+    },
+    {
+      "speaker": "万象系统",
+      "actor": "",
+      "voiceRole": "system",
+      "text": "Evidence delivered. Targeted restoration completed. Independent review requests are now available.",
+      "translation": "证据已送达。定向恢复已完成。独立复核申请现已开放。",
+      "start": 108.656,
+      "end": 117.056
+    },
+    {
+      "speaker": "陈星遥",
+      "actor": "xingyao",
+      "voiceRole": "xingyao",
+      "text": "They have their names back. But a restored record cannot return the years they spent excluded.",
+      "translation": "他们拿回了名字。但恢复记录无法归还那些被排除在外的岁月。",
+      "start": 117.286,
+      "end": 123.742
+    },
+    {
+      "speaker": "陆川",
+      "actor": "",
+      "voiceRole": "luc",
+      "text": "No. It gives them a starting point, and the evidence gives them a way to demand accountability.",
+      "translation": "是的。它给了他们一个起点，而证据让他们有办法要求追责。",
+      "start": 123.972,
+      "end": 129.924
+    },
+    {
+      "speaker": "陈星遥",
+      "actor": "xingyao",
+      "voiceRole": "xingyao",
+      "text": "A message from a distant district mentions my father. Someone remembers seeing him after the investigation.",
+      "translation": "远方城区的一条消息提到了父亲。有人记得在调查之后见过他。",
+      "start": 130.154,
+      "end": 137.234
+    },
+    {
+      "speaker": "陆川",
+      "actor": "",
+      "voiceRole": "luc",
+      "text": "Then our next journey has a destination. We can follow that lead after you get some rest.",
+      "translation": "那我们的下一段旅程就有了目的地。等你休息一下，我们就去追这条线索。",
+      "start": 137.464,
+      "end": 143.248
+    },
+    {
+      "speaker": "陈星遥",
+      "actor": "xingyao",
+      "voiceRole": "xingyao",
+      "text": "You keep saying we. You could have used your system to leave this city alone.",
+      "translation": "你一直说“我们”。你本来可以用系统独自离开这座城市。",
+      "start": 143.478,
+      "end": 149.118
+    },
+    {
+      "speaker": "陆川",
+      "actor": "",
+      "voiceRole": "luc",
+      "text": "I was preparing for an exam when I arrived here. Helping you was not on the schedule, but I am staying.",
+      "translation": "来到这里之前，我还在备考。帮你不在原来的计划里，但我会留下。",
+      "start": 149.348,
+      "end": 155.636
+    },
+    {
+      "speaker": "旁白",
+      "actor": "",
+      "voiceRole": "narrator",
+      "text": "She smiles as daylight reaches the tower. For now, the city has remembered its missing names.",
+      "translation": "晨光照上广播塔，她笑了。至少此刻，城市重新记起了那些失落的名字。",
+      "start": 155.866,
+      "end": 163.162
+    }
+  ],
+  "questions": [
+    {
+      "afterLine": 7,
+      "skill": "方案目的",
+      "prompt": "Why do they transmit the evidence to independent community receivers?",
+      "options": [
+        "To prevent one deletion from suppressing the report.",
+        "To make the company approve the evidence.",
+        "To replace every resident's receiver.",
+        "To increase the central network's profits."
+      ],
+      "answer": 0,
+      "explanation": "多个独立目的地保存副本，避免单点删除使证据消失。"
+    },
+    {
+      "afterLine": 15,
+      "skill": "风险控制",
+      "prompt": "Which restoration approach does Lu Chuan propose?",
+      "options": [
+        "Overwriting all records immediately.",
+        "Removing the current database completely.",
+        "Restoring verified entries while keeping a backup.",
+        "Disabling residents' right to request review."
+      ],
+      "answer": 2,
+      "explanation": "定向恢复核验条目，同时备份当前数据库；改变有来源且可撤销。"
+    },
+    {
+      "afterLine": 23,
+      "skill": "综合理解",
+      "prompt": "What is achieved by the end of the chapter?",
+      "options": [
+        "All consequences of exclusion have disappeared.",
+        "Verified identities are restored and a new lead about her father emerges.",
+        "The company has completed an external investigation.",
+        "Lu Chuan returns to his bedroom immediately."
+      ],
+      "answer": 1,
+      "explanation": "身份恢复与父亲的新线索均已明确；失去的岁月没有被弥补，男主也尚未回到现实。"
+    }
+  ]
+}

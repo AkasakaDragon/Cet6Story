@@ -1,0 +1,46 @@
+{
+  "id": "my-listening-01",
+  "title": "我的听力章节",
+  "description": "本地完整材料 · 请替换下面的示例台词",
+  "source": "请填写材料来源",
+  "audio": "",
+  "background": "",
+  "unlockLevel": 1,
+  "lines": [
+    {
+      "speaker": "角色 A",
+      "text": "Replace this example with your first sentence.",
+      "translation": "替换为第一句的译文。",
+      "start": 0,
+      "end": 4,
+      "actor": ""
+    },
+    {
+      "speaker": "角色 B",
+      "text": "Replace this example with your second sentence.",
+      "translation": "替换为第二句的译文。",
+      "start": 4,
+      "end": 8,
+      "actor": ""
+    }
+  ],
+  "decisions": [
+    {
+      "afterLine": 1,
+      "prompt": "按材料内容改写这个剧情选择。afterLine 从 0 开始。",
+      "options": [
+        {
+          "text": "回应一",
+          "trust": 2,
+          "feedback": "回应一的反馈"
+        },
+        {
+          "text": "回应二",
+          "trust": -1,
+          "feedback": "回应二的反馈"
+        }
+      ]
+    }
+  ],
+  "actors": []
+}

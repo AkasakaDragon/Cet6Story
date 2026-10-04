@@ -1,0 +1,23 @@
+# Local player data and generated caches
+/save.json
+/save.json.*
+/.audio-cache/
+/.validation/
+/打包输出/
+/outputs/
+
+# Editor / build temporary files
+.vs/
+bin/
+obj/
+*.tmp
+*.log
+Thumbs.db
+.DS_Store
+
+# Local credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key

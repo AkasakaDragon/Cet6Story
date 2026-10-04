@@ -1,0 +1,288 @@
+{
+  "unlockLevel": 1,
+  "pixelArt": true,
+  "inlineQuestions": true,
+  "heroActor": "xingyao",
+  "actors": [
+    {
+      "id": "xingyao",
+      "side": "right",
+      "image": "art/neon/xingyao.png",
+      "gender": "female",
+      "voice": "en-US-MichelleNeural"
+    }
+  ],
+  "id": "neon-01-03",
+  "title": "第一卷 · 霓虹失名者 / 第一章 1.3 失名档案",
+  "description": "原创像素冒险 · 四六级常见词汇与推断练习 · 3 道分段听力题",
+  "source": "原创剧情、原创四六级听力风格题，不是考试原文。",
+  "audio": "audio/neon/03-chapter.wav",
+  "audioLabel": "自然英文神经网络配音：星遥 Michelle / 陆川 Brian / 旁白 Christopher / 系统 Guy · 原创非考试原音",
+  "background": "art/neon/archive-room.png",
+  "sortOrder": -98,
+  "requiredItem": "scanner",
+  "itemScene": "档案室的公开终端只剩被篡改的摘要。星遥父亲留下的原始报告藏在离线存储层，普通设备无法辨认。万象系统提示：档案扫描器可以恢复记录结构并交叉核验时间戳。",
+  "ending": "档案扫描器恢复了独立证据：身份故障早于实验发生，官方统计严重失实。你坚持先核验、再保护居民隐私，星遥开始把你当作真正的伙伴。",
+  "timeLimitSeconds": 300,
+  "questionNote": "每八句一次听力检查，共三题；首次无字幕，解析在节末显示。",
+  "decisions": [],
+  "lines": [
+    {
+      "speaker": "旁白",
+      "actor": "",
+      "voiceRole": "narrator",
+      "text": "The archive smells of dust and warm circuits. Most of its terminals have been disconnected.",
+      "translation": "档案室里混着灰尘和发热电路的气味。大部分终端都已断开。",
+      "start": 0.0,
+      "end": 6.72
+    },
+    {
+      "speaker": "陈星遥",
+      "actor": "xingyao",
+      "voiceRole": "xingyao",
+      "text": "The public report calls my father careless. It says his experiment caused the identity failures.",
+      "translation": "公开报告称父亲疏忽大意，说他的实验造成了身份故障。",
+      "start": 6.95,
+      "end": 13.862
+    },
+    {
+      "speaker": "陆川",
+      "actor": "",
+      "voiceRole": "luc",
+      "text": "A conclusion is not evidence. We need the observations that supported it.",
+      "translation": "结论不是证据。我们需要支撑它的原始观测。",
+      "start": 14.092,
+      "end": 19.516
+    },
+    {
+      "speaker": "万象系统",
+      "actor": "",
+      "voiceRole": "system",
+      "text": "Archive scanner activated. Recovering an independent copy from offline storage.",
+      "translation": "档案扫描器已激活。正在从离线存储恢复独立副本。",
+      "start": 19.746,
+      "end": 26.346
+    },
+    {
+      "speaker": "陈星遥",
+      "actor": "xingyao",
+      "voiceRole": "xingyao",
+      "text": "Look at the dates. These complaints arrived two weeks before his experiment began.",
+      "translation": "看看日期。这些投诉在他的实验开始前两周就到了。",
+      "start": 26.576,
+      "end": 32.744
+    },
+    {
+      "speaker": "陆川",
+      "actor": "",
+      "voiceRole": "luc",
+      "text": "Then the failures cannot all be consequences of his work. They were already occurring.",
+      "translation": "那故障不可能全是他工作的结果。故障早已在发生。",
+      "start": 32.974,
+      "end": 38.734
+    },
+    {
+      "speaker": "陈星遥",
+      "actor": "xingyao",
+      "voiceRole": "xingyao",
+      "text": "The summary removed that detail. Someone wanted readers to blame him instead of the company.",
+      "translation": "摘要删掉了这个细节。有人想让读者责怪他，而不是公司。",
+      "start": 38.964,
+      "end": 45.204
+    },
+    {
+      "speaker": "陆川",
+      "actor": "",
+      "voiceRole": "luc",
+      "text": "Save the original files. We should not accuse anyone until we can verify their authenticity.",
+      "translation": "保存原始文件。在核实真实性之前，我们不应该指控任何人。",
+      "start": 45.434,
+      "end": 51.674
+    },
+    {
+      "speaker": "万象系统",
+      "actor": "",
+      "voiceRole": "system",
+      "text": "Two sets of records located. Official totals differ from the raw transaction logs.",
+      "translation": "发现两组记录。官方总数与原始事务日志存在差异。",
+      "start": 51.904,
+      "end": 58.456
+    },
+    {
+      "speaker": "陈星遥",
+      "actor": "xingyao",
+      "voiceRole": "xingyao",
+      "text": "The official version lists only twelve people affected. The raw data contains hundreds.",
+      "translation": "官方版本只列出十二名受影响者。原始数据里有几百人。",
+      "start": 58.686,
+      "end": 65.094
+    },
+    {
+      "speaker": "陆川",
+      "actor": "",
+      "voiceRole": "luc",
+      "text": "Could repeated entries explain the difference? We should exclude duplicates before comparing them.",
+      "translation": "重复记录能解释差异吗？比较前应该先排除重复项。",
+      "start": 65.324,
+      "end": 71.78
+    },
+    {
+      "speaker": "万象系统",
+      "actor": "",
+      "voiceRole": "system",
+      "text": "Duplicate entries excluded. Three hundred and eighteen distinct residents lost valid identification.",
+      "translation": "已排除重复记录。三百一十八名不同居民失去了有效身份。",
+      "start": 72.01,
+      "end": 79.522
+    },
+    {
+      "speaker": "陈星遥",
+      "actor": "xingyao",
+      "voiceRole": "xingyao",
+      "text": "So it was not a minor technical fault. Entire families lost access to housing and medical care.",
+      "translation": "所以这不是小技术故障。整个家庭失去了住房和医疗服务。",
+      "start": 79.752,
+      "end": 86.928
+    },
+    {
+      "speaker": "陆川",
+      "actor": "",
+      "voiceRole": "luc",
+      "text": "And reporting a smaller number made the problem seem less serious than it was.",
+      "translation": "而报告较小的数字，让问题显得没有实际那么严重。",
+      "start": 87.158,
+      "end": 91.91
+    },
+    {
+      "speaker": "陈星遥",
+      "actor": "xingyao",
+      "voiceRole": "xingyao",
+      "text": "My father requested an external investigation. The request was rejected without explanation.",
+      "translation": "父亲申请外部调查，却毫无解释地被拒绝了。",
+      "start": 92.14,
+      "end": 98.788
+    },
+    {
+      "speaker": "陆川",
+      "actor": "",
+      "voiceRole": "luc",
+      "text": "Keep that rejection too. It shows the company knew someone had challenged its account.",
+      "translation": "那份拒绝也留着。它表明公司知道有人质疑它的说法。",
+      "start": 99.018,
+      "end": 104.538
+    },
+    {
+      "speaker": "旁白",
+      "actor": "",
+      "voiceRole": "narrator",
+      "text": "A photograph falls from a paper folder. Xingyao catches it before it touches the floor.",
+      "translation": "一张照片从纸质文件夹滑落。星遥在它落地前接住了它。",
+      "start": 104.768,
+      "end": 111.392
+    },
+    {
+      "speaker": "陈星遥",
+      "actor": "xingyao",
+      "voiceRole": "xingyao",
+      "text": "He wrote the storage address on the back. I thought it was just an old family photograph.",
+      "translation": "他把存储地址写在背面。我以为它只是一张旧全家福。",
+      "start": 111.622,
+      "end": 117.838
+    },
+    {
+      "speaker": "陆川",
+      "actor": "",
+      "voiceRole": "luc",
+      "text": "He left a way to check the evidence without relying on the central network.",
+      "translation": "他留下了一种不依赖中央网络的证据核验方法。",
+      "start": 118.068,
+      "end": 122.7
+    },
+    {
+      "speaker": "万象系统",
+      "actor": "",
+      "voiceRole": "system",
+      "text": "Independent signatures match. No modification detected in the recovered source files.",
+      "translation": "独立签名一致。恢复的源文件未发现修改。",
+      "start": 122.93,
+      "end": 129.578
+    },
+    {
+      "speaker": "陈星遥",
+      "actor": "xingyao",
+      "voiceRole": "xingyao",
+      "text": "We should publish everything tonight. People deserve to know why their lives were erased.",
+      "translation": "我们今晚就应该全部公开。人们有权知道自己的生活为什么被抹去。",
+      "start": 129.808,
+      "end": 135.928
+    },
+    {
+      "speaker": "陆川",
+      "actor": "",
+      "voiceRole": "luc",
+      "text": "Yes, but remove personal addresses first. Evidence should protect the residents, not expose them.",
+      "translation": "是的，但要先删掉个人住址。证据应该保护居民，而不是暴露他们。",
+      "start": 136.158,
+      "end": 143.142
+    },
+    {
+      "speaker": "陈星遥",
+      "actor": "xingyao",
+      "voiceRole": "xingyao",
+      "text": "You are right. We can share the figures and verification method while keeping identities private.",
+      "translation": "你说得对。我们可以公开数字与核验方法，同时保护个人身份。",
+      "start": 143.372,
+      "end": 149.9
+    },
+    {
+      "speaker": "旁白",
+      "actor": "",
+      "voiceRole": "narrator",
+      "text": "For the first time, she places the photograph beside my hand instead of hiding it in her coat.",
+      "translation": "她第一次把照片放到我的手边，而不是藏回大衣。",
+      "start": 150.13,
+      "end": 156.106
+    }
+  ],
+  "questions": [
+    {
+      "afterLine": 7,
+      "skill": "时间关系推断",
+      "prompt": "What weakens the official explanation of the failures?",
+      "options": [
+        "The experiment used old equipment.",
+        "Complaints appeared before the experiment began.",
+        "The archive was disconnected yesterday.",
+        "Her father refused to provide a summary."
+      ],
+      "answer": 1,
+      "explanation": "投诉早于实验开始两周，削弱了“实验导致全部故障”的因果解释。"
+    },
+    {
+      "afterLine": 15,
+      "skill": "数据核验",
+      "prompt": "What does the system establish after removing duplicates?",
+      "options": [
+        "Twelve families received medical care.",
+        "The official totals were accurate.",
+        "318 different residents lost valid identification.",
+        "Every transaction in the database was false."
+      ],
+      "answer": 2,
+      "explanation": "排除重复项后仍有318名不同居民失去身份，并非重复记录造成数字差异。"
+    },
+    {
+      "afterLine": 23,
+      "skill": "态度与建议",
+      "prompt": "What does Lu Chuan recommend before publishing the evidence?",
+      "options": [
+        "Restoring the company summary.",
+        "Waiting for the central network to approve it.",
+        "Destroying the original photograph.",
+        "Removing residents' personal addresses."
+      ],
+      "answer": 3,
+      "explanation": "陆川支持公开，但要求先去掉个人住址，避免伤害受影响居民。"
+    }
+  ]
+}

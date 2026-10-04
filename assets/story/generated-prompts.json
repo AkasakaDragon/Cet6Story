@@ -1,0 +1,54 @@
+[
+  {
+    "tag": "world-map",
+    "prompt": "Create a beautiful detailed crisp PIXEL ART overworld city map for this game's main story. Reference1 defines exact pixel cluster size, neon rainy city palette. Bird's-eye/isometric panorama landscape16:9, district roads clearly visible, river/canal winding across city. Compose six memorable landmark areas with spacious separation: lower left rainy old alley; lower middle underground metro entrance/rail yard; left-middle small clinic with warm amber medical cross sign; center-right imposing archive tower; upperright broadcast tower with dawn light; uppermiddle abandoned hidden railway station. Roads plausibly connect alley to metro to archive to broadcast, clinic a side street from alley reconnects to metro, hidden station beside metro spur. Rich indigo navy cyan violet with warm light, hard square pixels no smoothpainting. Pure environmental map only: no characters, UI, labels, letters, numbers, pins, borders or arrows. Landmark positions allow game to overlay clickable nodes."
+  },
+  {
+    "tag": "scene-atlas",
+    "prompt": "Create one landscape PIXEL ART background atlas with EXACT 3 columns by 2 rows, six equal rectangular panels aligned edge to edge, no gutters or border. Each panel aspect16:9. Match reference1 precise crisp pixel clusters and detailed violet/cyan night urban art. All panels EMPTY of people, no UI no readable text. Top-left: narrow wet neon market street security gate. Top-middle: quiet rain drenched clinic exterior with small warm medical cross, partially open door. Top-right: small clinic interior warm lamp, patient bed, oxygen equipment, worktable and medical storage. Bottom-left: abandoned metro ticket hall cyan dead gate terminals and stairs. Bottom-middle: service control room beside train platform with electrical cabinet red warninglamp. Bottom-right: inside old train carriage warm dim lamps, seats, rain onwindows with citylight outside. Consistent fine pixelart, shadows navy not pureblack, no smoothanimepainting."
+  },
+  [
+    "urgent",
+    "determined urgent expression, one arm bent pointing to her side, arm and fingers fully inside frame"
+  ],
+  [
+    "worried",
+    "concerned worried expression, one gloved hand over chest, shoulders slightly forward"
+  ],
+  [
+    "relieved",
+    "relieved warm small smile, holding radio at waist, relaxed shoulders"
+  ],
+  {
+    "tag": "rain-intro",
+    "prompt": "Produce ONE game CG storyboard sheet EXACTLY 2 columns by 2 rows of four equal landscape panels, edge to edge with thin dark pixel dividers. Reading order upperleft upperright lowerleft lowerright. Same detailed square pixel clusters as reference1, no smoothpainting. Same heroine reference2 long silver white hair blue eyes black longcoat purplelining starbrooch headset boots. Male adult universitystudent slim, short blackhair charcoalcrewnecksweatshirt darkpants headphonesaroundneck, normal adultproportions slightly taller than heroine, consistent anatomy and left/right arms. NO words, captions, UI, speech bubbles, numbers. Four sequential story moments: 1 both crouching behind alley wall while red patrol drone scans street beyond; 2 heroine points out security gate across rainlit market; 3 male studies a small cyan shield device held in his RIGHT hand, face thoughtful; 4 both prepare to move together toward gate, heroine determined. Rainy neon night, urgency."
+  },
+  {
+    "tag": "metro-intro",
+    "prompt": "Produce ONE game CG storyboard sheet EXACTLY 2 columns by 2 rows of four equal landscape panels, edge to edge with thin dark pixel dividers. Reading order upperleft upperright lowerleft lowerright. Same detailed square pixel clusters as reference1, no smoothpainting. Same heroine reference2 long silver white hair blue eyes black longcoat purplelining starbrooch headset boots. Male adult universitystudent slim, short blackhair charcoalcrewnecksweatshirt darkpants headphonesaroundneck, normal adultproportions slightly taller than heroine, consistent anatomy and left/right arms. NO words, captions, UI, speech bubbles, numbers. Four sequential story moments: 1 both descend stairs into abandoned undergroundstation, seen fromback; 2 darkoldtrain atplatform heroine checks platformroute; 3 distant red camera abovegate threatens them, male studies compact jammerdevice in right hand; 4 heroine kneels beside electricalcabinet with torch whilemale watches for patrol. Moody cyanmetro amber lamps."
+  },
+  {
+    "tag": "clinic-intro",
+    "prompt": "Produce ONE game CG storyboard sheet EXACTLY 2 columns by 2 rows of four equal landscape panels, edge to edge with thin dark pixel dividers. Reading order upperleft upperright lowerleft lowerright. Same detailed square pixel clusters as reference1, no smoothpainting. Same heroine reference2 long silver white hair blue eyes black longcoat purplelining starbrooch headset boots. Male adult universitystudent slim, short blackhair charcoalcrewnecksweatshirt darkpants headphonesaroundneck, normal adultproportions slightly taller than heroine, consistent anatomy and left/right arms. NO words, captions, UI, speech bubbles, numbers. Four sequential story moments: 1 male and heroine follow amber weak radiosignal throughrain to smallclinic; 2 heroine gently pushes halfopenclinicdoor, worried; 3 insidewarmclinic a middleaged darkhaired male doctor with glasses in whitecoat sits tired beside silentmedical equipment; 4 doctor points at flickeringpowerterminal and small datastorageunit, protagonist and heroine listen withconcern. Do not drawdoctoraschild ordead. Warmamber interior vs blue rainoutside."
+  },
+  {
+    "tag": "rain-end",
+    "prompt": "Create ONE sequential pixel-art CG sheet exactly 2x2 equal landscape panels, upperleft upperright lowerleft lowerright, clean thin pixel dividers, no text no UI. Reference1 gives pixelstyle/environment; reference2 gives heroine long whitehair blueeyes blackcoat purplelining starbrooch headset. Male same slim dark-haired adult charcoal sweatshirt headphonesaroundneck, slightly taller, correct anatomy. Strong crisp square pixels, no smooth anime painting. Four sequential moments after escaping patrol: 1 steel maintenance door slides open withcyanlight, heroine surprised; 2 male and heroine step safelyinside passage as redlightfalls on closeddoorbehind; 3 heroine introduces herself holdingradio whilemale listens; 4 closeup compact cyan handheld receiver with small amber signal, clinic's warm cross visible faraway downstreet. Reveal weak distress signal but do not show already rescuing anyone."
+  },
+  {
+    "tag": "metro-end",
+    "prompt": "Create ONE sequential pixel-art CG sheet exactly 2x2 equal landscape panels, upperleft upperright lowerleft lowerright, clean thin pixel dividers, no text no UI. Reference1 gives pixelstyle/environment; reference2 gives heroine long whitehair blueeyes blackcoat purplelining starbrooch headset. Male same slim dark-haired adult charcoal sweatshirt headphonesaroundneck, slightly taller, correct anatomy. Strong crisp square pixels, no smooth anime painting. Four sequential moments: 1 electricalcabinet comesalive cyan lights, heroine relieved; 2 male and heroine board oldtrain carriage together, simple anatomically correct poses; 3 insidecarriage heroine sits beside male, quiet warm hopefulexpression; 4 train departs into dark tunnel with a branchingtrack and small dim sideplatform in distance. Preserve clothing, no extra coat offered, no labels."
+  },
+  {
+    "tag": "clinic-end-both",
+    "prompt": "Create ONE sequential pixel-art CG sheet exactly 2x2 equal landscape panels, upperleft upperright lowerleft lowerright, clean thin pixel dividers, no text no UI. Reference1 gives pixelstyle/environment; reference2 gives heroine long whitehair blueeyes blackcoat purplelining starbrooch headset. Male same slim dark-haired adult charcoal sweatshirt headphonesaroundneck, slightly taller, correct anatomy. Strong crisp square pixels, no smooth anime painting. Four sequential moments of successful clinic rescue and testimony backup: 1 protagonist connects small repairpack to powercabinet while heroine watches; 2 closeup a small datamemoryunit copying records from now powered terminal, don't draw complexhands; 3 same middleaged darkhaired doctor glasses whitecoat standing safely between male and heroine, grateful, restoredclinic lights behind; 4 trio leaves throughclinic door for safeundergroundpassage, heroine carries secure memorymodule. Warmhopefulamber, doctorconsistentwith reference3. No injury, no death, no text."
+  },
+  {
+    "tag": "clinic-end-rescue",
+    "prompt": "Edit this 2x2 pixel-art CG sheet into the RESCUE ONLY ending. Keep exactly same crisp pixel art style, adult character appearance, white-haired black-coated purple-scarfed heroine with headset and star pin, dark-haired sweatshirt male with headphones, middle-aged doctor with glasses and white coat. Panel 1 male connects repair pack to power cabinet, preserve it. Panel2 replace copying data image with restored warm ceiling light and powered patient monitor, no memory device or copied records. Panel3 doctor grateful and safe standing between protagonists, no memory module. Panel4 doctor evacuates through clinic door together with male and heroine, empty hands or small medical bag, NO memory unit. No text. Preserve anatomy and environmental consistency."
+  },
+  {
+    "tag": "clinic-end-record",
+    "prompt": "Edit this 2x2 pixel-art CG sheet into the RECORD ONLY ending, distinct from rescue. Keep exactly same crisp visible pixel art style, same adult white-haired heroine with black coat purple scarf headset star pin, dark-haired adult male charcoal sweatshirt headphones, middle-aged doctor glasses white coat. Panel1 heroine at dim clinic desk connects a compact secure memory module to damaged terminal using its remaining reserve charge, male beside her. Panel2 close-up secure memory module receiving the anonymous medical list and testimony from dim terminal, no readable text. Panel3 doctor remains INSIDE clinic sitting beside a bed and tending a peacefully resting adult patient under small lamp, protagonists face him gratefully. Panel4 ONLY male and heroine leave clinic carrying memory module; doctor stays behind visible through open door caring for patient. No repair of main cabinet, no restored full room power, doctor does NOT evacuate. Warm amber + cool cyan limited palette, no painted smoothness, no text."
+  }
+]

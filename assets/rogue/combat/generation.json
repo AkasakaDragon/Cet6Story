@@ -1,0 +1,25 @@
+{
+  "mode": "built-in image_gen",
+  "reference": "chapters/art/neon/xingyao.png",
+  "poses": "Use case: identity-preserve. Input image 1 is the exact game heroine identity and pixel-art style reference. Generate a production transparent PNG animation sprite sheet, four columns by two rows, 8 equal 384x512 cells, all full-body same adult woman SAME SIZE, feet on identical baseline and head aligned. All poses face RIGHT toward an enemy, a horizontally mirrored orientation of the reference. Preserve white/silver long hair, blue eyes, headset, black long coat with purple lining, purple high-neck shirt, belt, black trousers and boots, silver star pin. Refined authentic hand-pixelled RPG sprite look with crisp chunky stepped edges and limited palette, no smooth painted anime, no blur. Eight distinct consecutive combat poses left-to-right top then bottom: 1 ready upright hands raised, 2 knees bent preparing dash, 3 leaning forward with arm drawn back, 4 right-facing strong forward punch with front fist extended, 5 forward follow-through coat and hair trailing LEFT, 6 retracting arm recovering, 7 recoiling from a hit from the RIGHT with forearm guarding face, 8 firmly bracing both arms in front to block an attack from the RIGHT. No weapons added, no effects, no background, no ground, no text, no labels, no grid lines. True alpha transparency. Keep feet/body entirely in each cell with generous margins, no overlaps. Strong adult natural anatomy and consistent face/outfit across all frames.",
+  "pistol": "Use case: identity-preserve. Exact reference image is the adult white-haired black-coat heroine. Make one 4-column by 2-row pixel-art full-body sprite sheet, each equal cell 384x512, true TRANSPARENT ALPHA background, NO gray backdrop or gradient. Every sprite faces RIGHT toward opponent. Same character identity, blue eyes, white long hair trailing LEFT, black long coat purple lining, purple highneck shirt, black gloves/trousers/boots, headset and silver star pin. Consistent body size and feet baseline across all cells. Refined crunchy hand-pixelled RPG look, clear square pixels, stepped outlines, limited colors, no smooth vector or painted anime. Animation frames left-to-right: top row 1 ready reaching for holstered compact black pistol, 2 drawing pistol up, 3 two-hand pistol aim to RIGHT arms extended, 4 pistol fires with small vivid cyan-white/orange muzzle flash pointing RIGHT; bottom row 5 recoil pistol slightly up body leaning back, 6 resets steady aim right, 7 lowers pistol after shot while alert, 8 crouched two-hand aiming RIGHT. ONE pistol only, believable compact futuristic pistol, correct two-hand grip, fingers anatomically correct. Keep firearm and muzzle in own cell, no overlapping cells. No floor, no cast shadows, no panels, no labels, no text. Precisely keep white hair and reference clothing design, all sprites same adult proportions. Canvas 1536x1024.",
+  "effects": "Use case: stylized-concept. Production game VFX sprite atlas on genuine transparent ALPHA background, 4 columns by 2 rows, eight evenly spaced separate effects contained inside equal cells. Fine authentic pixel art like a high quality 16/32-bit RPG, clear square pixels and stepped outlines, no smooth gradients. Compatible with white-haired black/purple coat heroine sprite reference. Top row: 1 compact cyan white and orange pistol muzzle flash pointing RIGHT, 2 horizontal cyan-white bullet tracer travelling RIGHT with short pixel sparks, 3 bright gold white star-shaped impact spark with scattering orange square fragments, 4 diagonal sweeping cyan white crescent energy slash pointing RIGHT. Bottom row: 5 red orange enemy-hit flare with angular sparks, 6 blue cyan translucent oval shield with visible hexagonal pixel segments, 7 sharp blue-white shield impact crack and fragments, 8 green teal healing swirl with tiny plus-shaped luminous particles. No text, no numbers, no labels, no grid, no characters, no weapons, no background, no floor, no shadows. Generous empty transparent margins separating cells. One effect per cell. Canvas 1536x1024.",
+  "preview": {
+    "fps": 15,
+    "width": 960,
+    "height": 540,
+    "frames": 144,
+    "actions": [
+      "拔枪",
+      "双手瞄准",
+      "连续射击",
+      "稳定回位",
+      "突进",
+      "能量挥击",
+      "受击",
+      "护盾格挡",
+      "恢复"
+    ],
+    "unusedPistolFrame": 5
+  }
+}

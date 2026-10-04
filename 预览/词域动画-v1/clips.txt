@@ -1,0 +1,6 @@
+file 'shot-0.mp4'
+file 'shot-1.mp4'
+file 'shot-2.mp4'
+file 'shot-3.mp4'
+file 'shot-4.mp4'
+file 'shot-5.mp4'

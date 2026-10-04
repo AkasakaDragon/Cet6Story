@@ -1,0 +1,20 @@
+{
+  "tool": "built-in imagegen",
+  "reference": "chapters/art/neon/rain-alley.png",
+  "hero": "复用chapters/art/neon/xingyao.png，不生成不同画风的新女主",
+  "style": "Same artist and same pixel-art style as reference: visibly coarse crisp square pixel clusters, stepped dark outlines, flat discrete navy indigo purple cyan colors; no smooth painting, photographic texture or 3D. Empty landscape 16:9 background, no people, text, logos or UI; right third reserved for existing heroine, lower quarter for dialogue.",
+  "assets": [
+    {
+      "path": "chapters/art/neon/metro-platform.png",
+      "prompt": "Abandoned underground cyberpunk metro platform at night, train with dark windows on left, track vanishing into central tunnel, cyan signal cabinet, industrial cables and water reflections. Match reference pixel scale and density."
+    },
+    {
+      "path": "chapters/art/neon/archive-room.png",
+      "prompt": "Abandoned municipal archive in underground bunker, server racks left, central desk with cyan terminal and physical paper records, damaged cables, rear metal door, violet overhead light and dust pixel dots. Match reference pixel scale and density."
+    },
+    {
+      "path": "chapters/art/neon/broadcast-roof.png",
+      "prompt": "Old cyberpunk broadcast station rooftop just before sunrise, damaged transmitter and cable cabinet left, radio antenna center-left, dense skyline, navy violet sky with restrained warm dawn strip, damp cyan violet reflections. Keep reference night palette mostly unchanged."
+    }
+  ]
+}

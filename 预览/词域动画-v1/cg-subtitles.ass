@@ -1,0 +1,18 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 960
+PlayResY: 540
+WrapStyle: 0
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Microsoft YaHei,24,&H00FFFFFF,&H000000FF,&H00150B05,&H90000000,0,0,0,0,100,100,1,0,1,2,1,2,40,40,24,1
+Style: Label,Microsoft YaHei,16,&H00EEE2BB,&H000000FF,&H00150B05,&H90000000,0,0,0,0,100,100,1,0,1,1,1,7,22,22,18,1
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:37.00,Label,,0,0,0,,词域远征 · 动态分镜预览
+Dialogue: 1,0:00:00.60,0:00:05.70,Default,,0,0,0,,【万象系统】跨界通道受损。\N词域回收模块已开放。
+Dialogue: 1,0:00:06.40,0:00:12.70,Default,,0,0,0,,散落的信息碎片受到污染，\N正在聚合成失控的残响。
+Dialogue: 1,0:00:13.40,0:00:19.70,Default,,0,0,0,,完成词汇校准，就能稳定解析，\N击破它们的核心。
+Dialogue: 1,0:00:20.40,0:00:25.70,Default,,0,0,0,,回收完成。系统将成果结算为金币，\N存入你的账户。
+Dialogue: 1,0:00:26.40,0:00:31.70,Default,,0,0,0,,【陆川】在这里变强，就能多一分\N把她带出困境的把握。
+Dialogue: 1,0:00:32.40,0:00:36.60,Default,,0,0,0,,词域远征\N回收残响 · 获取金币 · 支援主线

@@ -1,0 +1,359 @@
+{
+  "id": "neon-01-A",
+  "title": "第一卷 · 霓虹失名者 / 隐藏 A 无名诊所",
+  "description": "原创支线 · 电源、隐私与证据核实 · 3 道听力题",
+  "source": "原创情境与原创四六级风格听力题，不是考试原文。",
+  "audio": "audio/neon/clinic.wav",
+  "audioLabel": "原创英文神经网络配音：Michelle / Brian / Christopher / Guy",
+  "background": "art/neon/rain-alley.png",
+  "unlockLevel": 1,
+  "sortOrder": -99,
+  "pixelArt": true,
+  "inlineQuestions": true,
+  "heroActor": "xingyao",
+  "requiredItem": "",
+  "itemScene": "",
+  "ending": "行动结果保存在主线地图；可以重玩选择另一种支援。",
+  "timeLimitSeconds": 300,
+  "actors": [
+    {
+      "id": "xingyao",
+      "side": "right",
+      "image": "art/neon/xingyao.png",
+      "gender": "female",
+      "voice": "en-US-MichelleNeural"
+    }
+  ],
+  "lines": [
+    {
+      "speaker": "旁白",
+      "actor": "",
+      "voiceRole": "narrator",
+      "text": "A weak distress signal leads us to a clinic hidden between two empty shops.",
+      "translation": "微弱的求救信号将我们引向两间空店之间的诊所。",
+      "start": 0.0,
+      "end": 5.472,
+      "scene": "art/routes/scenes.png",
+      "sceneCell": 1,
+      "pose": 1
+    },
+    {
+      "speaker": "陈星遥",
+      "actor": "xingyao",
+      "voiceRole": "xingyao",
+      "text": "This clinic treats people who cannot register at public hospitals.",
+      "translation": "这家诊所收治无法在公立医院登记的人。",
+      "start": 5.702,
+      "end": 10.262,
+      "scene": "art/routes/scenes.png",
+      "sceneCell": 1,
+      "pose": 1
+    },
+    {
+      "speaker": "陆川",
+      "actor": "",
+      "voiceRole": "luc",
+      "text": "The lights are still on. Why has nobody answered the emergency call?",
+      "translation": "灯还亮着，为什么没有人回应求救呼叫？",
+      "start": 10.492,
+      "end": 15.388,
+      "scene": "art/routes/scenes.png",
+      "sceneCell": 1,
+      "pose": 1
+    },
+    {
+      "speaker": "周医生",
+      "actor": "",
+      "voiceRole": "doctor",
+      "text": "The main supply failed an hour ago. We are running on a small battery.",
+      "translation": "主电源一小时前故障了，现在只能依靠小型电池。",
+      "start": 15.618,
+      "end": 21.618,
+      "scene": "art/routes/scenes.png",
+      "sceneCell": 2,
+      "pose": 1
+    },
+    {
+      "speaker": "周医生",
+      "actor": "",
+      "voiceRole": "doctor",
+      "text": "It supports the monitor, but there is not enough energy for the lift.",
+      "translation": "它能支持监护仪，却没有足够的能量驱动升降梯。",
+      "start": 21.848,
+      "end": 26.6,
+      "scene": "art/routes/scenes.png",
+      "sceneCell": 2,
+      "pose": 1
+    },
+    {
+      "speaker": "陈星遥",
+      "actor": "xingyao",
+      "voiceRole": "xingyao",
+      "text": "Your patients cannot use the stairs. We need a safer way to move them.",
+      "translation": "你的病人无法走楼梯，我们需要更安全的转移方式。",
+      "start": 26.83,
+      "end": 32.6141,
+      "scene": "art/routes/scenes.png",
+      "sceneCell": 2,
+      "pose": 1
+    },
+    {
+      "speaker": "周医生",
+      "actor": "",
+      "voiceRole": "doctor",
+      "text": "Exactly. Unless we restore the backup supply, evacuation will be difficult.",
+      "translation": "正是如此。除非恢复备用电源，否则撤离会很困难。",
+      "start": 32.8441,
+      "end": 39.9481,
+      "scene": "art/routes/scenes.png",
+      "sceneCell": 2,
+      "pose": 1
+    },
+    {
+      "speaker": "陆川",
+      "actor": "",
+      "voiceRole": "luc",
+      "text": "Then power is our first problem, rather than a shortage of medicine.",
+      "translation": "所以我们首先要解决电源，而不是药物短缺。",
+      "start": 40.1781,
+      "end": 44.9541,
+      "scene": "art/routes/scenes.png",
+      "sceneCell": 2,
+      "pose": 1
+    },
+    {
+      "speaker": "旁白",
+      "actor": "",
+      "voiceRole": "narrator",
+      "text": "The doctor opens a drawer and shows us a damaged storage unit.",
+      "translation": "医生打开抽屉，向我们展示一个损坏的存储装置。",
+      "start": 45.1841,
+      "end": 49.8161,
+      "scene": "art/routes/scenes.png",
+      "sceneCell": 2,
+      "pose": 1
+    },
+    {
+      "speaker": "周医生",
+      "actor": "",
+      "voiceRole": "doctor",
+      "text": "These records contain the names of people removed from the city database.",
+      "translation": "这些记录包含被城市数据库删除身份的人名。",
+      "start": 50.0461,
+      "end": 55.0381,
+      "scene": "art/routes/scenes.png",
+      "sceneCell": 2,
+      "pose": 1
+    },
+    {
+      "speaker": "陈星遥",
+      "actor": "xingyao",
+      "voiceRole": "xingyao",
+      "text": "Did you collect them while treating the patients?",
+      "translation": "你是在为病人治疗时收集这些资料的吗？",
+      "start": 55.2681,
+      "end": 58.3881,
+      "scene": "art/routes/scenes.png",
+      "sceneCell": 2,
+      "pose": 1
+    },
+    {
+      "speaker": "周医生",
+      "actor": "",
+      "voiceRole": "doctor",
+      "text": "Yes. They are observations from real cases, not rumors from the street.",
+      "translation": "是的，它们来自真实病例的观察，而不是街头传闻。",
+      "start": 58.6181,
+      "end": 65.0501,
+      "scene": "art/routes/scenes.png",
+      "sceneCell": 2,
+      "pose": 1
+    },
+    {
+      "speaker": "陆川",
+      "actor": "",
+      "voiceRole": "luc",
+      "text": "If we copy the files, can we reveal the patients' names in public?",
+      "translation": "如果复制文件，我们能公开病人的姓名吗？",
+      "start": 65.2801,
+      "end": 70.1761,
+      "scene": "art/routes/scenes.png",
+      "sceneCell": 2,
+      "pose": 1
+    },
+    {
+      "speaker": "周医生",
+      "actor": "",
+      "voiceRole": "doctor",
+      "text": "Not without permission. Protect their privacy and remove personal details first.",
+      "translation": "未经允许不能公开。先保护他们的隐私，移除个人细节。",
+      "start": 70.4061,
+      "end": 77.1022,
+      "scene": "art/routes/scenes.png",
+      "sceneCell": 2,
+      "pose": 1
+    },
+    {
+      "speaker": "陈星遥",
+      "actor": "xingyao",
+      "voiceRole": "xingyao",
+      "text": "We can preserve the evidence without exposing the people who trusted you.",
+      "translation": "我们可以保留证据，同时不暴露信任你的人。",
+      "start": 77.3322,
+      "end": 81.9402,
+      "scene": "art/routes/scenes.png",
+      "sceneCell": 2,
+      "pose": 1
+    },
+    {
+      "speaker": "周医生",
+      "actor": "",
+      "voiceRole": "doctor",
+      "text": "That is the responsible approach. An independent backup would also prevent permanent loss.",
+      "translation": "这样才是负责任的做法。独立备份还可以避免永久丢失资料。",
+      "start": 82.1702,
+      "end": 89.2742,
+      "scene": "art/routes/scenes.png",
+      "sceneCell": 2,
+      "pose": 1
+    },
+    {
+      "speaker": "周医生",
+      "actor": "",
+      "voiceRole": "doctor",
+      "text": "A tunnel engineer once helped me maintain this equipment. His surname was Chen.",
+      "translation": "一位隧道工程师曾帮助我维护这些设备，他姓陈。",
+      "start": 89.5042,
+      "end": 95.9362,
+      "scene": "art/routes/scenes.png",
+      "sceneCell": 2,
+      "pose": 0
+    },
+    {
+      "speaker": "陈星遥",
+      "actor": "xingyao",
+      "voiceRole": "xingyao",
+      "text": "My father designed the underground passages. Do you remember where he went?",
+      "translation": "我父亲设计了地下通道，你还记得他去了哪里吗？",
+      "start": 96.1662,
+      "end": 101.9502,
+      "scene": "art/routes/scenes.png",
+      "sceneCell": 2,
+      "pose": 0
+    },
+    {
+      "speaker": "周医生",
+      "actor": "",
+      "voiceRole": "doctor",
+      "text": "He left a transfer list, but I never saw his destination. The original may be in the archive.",
+      "translation": "他留下了一份转移名单，但我没有看到目的地。原件可能在档案馆。",
+      "start": 102.1802,
+      "end": 109.6922,
+      "scene": "art/routes/scenes.png",
+      "sceneCell": 2,
+      "pose": 0
+    },
+    {
+      "speaker": "陆川",
+      "actor": "",
+      "voiceRole": "luc",
+      "text": "So this is a useful lead, but it does not prove that he is still alive.",
+      "translation": "所以这是一条有用的线索，但还不能证明他仍然活着。",
+      "start": 109.9222,
+      "end": 114.9382,
+      "scene": "art/routes/scenes.png",
+      "sceneCell": 2,
+      "pose": 0
+    },
+    {
+      "speaker": "周医生",
+      "actor": "",
+      "voiceRole": "doctor",
+      "text": "Correct. Verify the original before drawing a conclusion.",
+      "translation": "正确。在下结论之前，先核实原件。",
+      "start": 115.1682,
+      "end": 120.6162,
+      "scene": "art/routes/scenes.png",
+      "sceneCell": 2,
+      "pose": 0
+    },
+    {
+      "speaker": "万象系统",
+      "actor": "",
+      "voiceRole": "system",
+      "text": "Support options identified: repair the backup supply, or preserve the witness records.",
+      "translation": "已识别支援方案：修复备用电源，或保留证人记录。",
+      "start": 120.8462,
+      "end": 126.9902,
+      "scene": "art/routes/scenes.png",
+      "sceneCell": 2,
+      "pose": 0
+    },
+    {
+      "speaker": "陈星遥",
+      "actor": "xingyao",
+      "voiceRole": "xingyao",
+      "text": "I want to help the doctor and keep his evidence safe. What can your system do?",
+      "translation": "我想帮助医生，也想保住他的证据。你的系统能做什么？",
+      "start": 127.2202,
+      "end": 133.0763,
+      "scene": "art/routes/scenes.png",
+      "sceneCell": 2,
+      "pose": 2
+    },
+    {
+      "speaker": "陆川",
+      "actor": "",
+      "voiceRole": "luc",
+      "text": "Let us check our equipment. With both tools, we can arrange evacuation and create a secure copy.",
+      "translation": "检查一下装备。如果两件工具都有，我们就能安排撤离并创建安全副本。",
+      "start": 133.3063,
+      "end": 140.0023,
+      "scene": "art/routes/scenes.png",
+      "sceneCell": 2,
+      "pose": 2
+    }
+  ],
+  "questions": [
+    {
+      "afterLine": 7,
+      "skill": "问题与因果",
+      "prompt": "What makes it difficult to evacuate the patients?",
+      "options": [
+        "The clinic has run out of medicine.",
+        "The lift cannot operate on the remaining battery power.",
+        "The patients refuse to leave the clinic.",
+        "The public hospitals have closed permanently."
+      ],
+      "answer": 1,
+      "explanation": "电池能支持监护仪，却不足以驱动升降梯；恢复备用电源才有助于撤离。注意 rather than 排除了药物短缺。"
+    },
+    {
+      "afterLine": 15,
+      "skill": "建议与隐私",
+      "prompt": "What does the doctor recommend before the records are made public?",
+      "options": [
+        "Replacing the observations with rumors.",
+        "Destroying the original files immediately.",
+        "Publishing every patient's name.",
+        "Obtaining permission and removing personal details."
+      ],
+      "answer": 3,
+      "explanation": "医生强调 permission 和 privacy，并要求先移除个人细节。保留证据不等于公开病人身份。"
+    },
+    {
+      "afterLine": 23,
+      "skill": "推断与证据",
+      "prompt": "What can they reasonably conclude about Xingyao's father?",
+      "options": [
+        "The transfer list provides a lead that still needs verification.",
+        "The doctor has confirmed his exact destination.",
+        "He is definitely alive in the clinic.",
+        "He has destroyed all the original reports."
+      ],
+      "answer": 0,
+      "explanation": "医生没有见到目的地，陆川也明确指出现有线索不能证明父亲仍活着。应先核实档案中的原件。"
+    }
+  ],
+  "decisions": []
+}
