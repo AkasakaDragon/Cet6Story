@@ -12,7 +12,7 @@ public partial class Game {
   content.DrawToBitmap(snapshot,new Rectangle(Point.Empty,snapshot.Size));
   var overlay=new NewGameConfirmOverlay(snapshot,Path.Combine(root,"assets","ui","new-game-confirm.png")){Dock=DockStyle.Fill};
   newGameConfirm=overlay;
-  overlay.Confirmed=()=>{newGameConfirm=null;overlay.Dispose();StartNewGame();};
+  overlay.Confirmed=()=>{newGameConfirm=null;overlay.Dispose();NavigateMenu(StartNewGame,"进入新游戏",false);};
   overlay.Cancelled=()=>{newGameConfirm=null;overlay.Dispose();content.Focus();};
   content.Controls.Add(overlay);overlay.BringToFront();overlay.Focus();
  }
