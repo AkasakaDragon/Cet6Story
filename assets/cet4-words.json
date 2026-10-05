@@ -4,7 +4,7 @@
     "word": "a",
     "example": "",
     "tier": 2,
-    "meaning": "n.(A)As 或 A's  安(ampere);(a) art.一;n.字母A /[军] Analog.Digital,模拟/数字 /(=account of) 帐上"
+    "meaning": "art. 一个；一（用于辅音音素前）"
   },
   {
     "exampleZh": "",
@@ -116,7 +116,7 @@
     "word": "academic",
     "example": "",
     "tier": 2,
-    "meaning": "adj.学院的,理论的"
+    "meaning": "adj. 学术的；学业的；学院的；理论的"
   },
   {
     "exampleZh": "",
@@ -158,7 +158,7 @@
     "word": "access",
     "example": "",
     "tier": 2,
-    "meaning": "n.通路,访问,入门vt.存取,接近"
+    "meaning": "n. 进入或使用的权利；通道；访问。vt. 访问；获取"
   },
   {
     "exampleZh": "",
@@ -179,7 +179,7 @@
     "word": "accommodate",
     "example": "",
     "tier": 2,
-    "meaning": "vt.供应,供给,使适应,调节,和解,向...提供,容纳,调和;vi.适应"
+    "meaning": "vt. 容纳；提供住宿；满足；迁就。vi. 适应"
   },
   {
     "exampleZh": "",
@@ -235,7 +235,7 @@
     "word": "account",
     "example": "",
     "tier": 2,
-    "meaning": "n.计算,帐目,说明,估计,理由;vi.说明,总计有,认为,得分;vt.认为"
+    "meaning": "n. 账户；账目；叙述；解释。v. 解释；说明（account for）"
   },
   {
     "exampleZh": "",
@@ -312,7 +312,7 @@
     "word": "acid",
     "example": "",
     "tier": 2,
-    "meaning": "n.酸,<俚>迷幻药;adj.酸的,讽刺的,刻薄的;\"atomicity,consistency,isolation,and durability\" 原子性,一致性,不相关性和持久性"
+    "meaning": "n. 酸。adj. 酸的；尖刻的"
   },
   {
     "exampleZh": "",
@@ -368,7 +368,7 @@
     "word": "act",
     "example": "",
     "tier": 2,
-    "meaning": "n.幕,法案,法令,动作,举动,节目,(戏剧的)幕vi.行动,产生...的效果,担当,表演,假装,表现,见效vt.扮演,装作"
+    "meaning": "v. 行动；表演；起作用。n. 行为；法案；一幕"
   },
   {
     "exampleZh": "",
@@ -452,7 +452,7 @@
     "word": "address",
     "example": "",
     "tier": 2,
-    "meaning": "n.地址,致辞,演讲,说话的技巧vt.向...致辞,演说,写姓名地址,从事,忙于"
+    "meaning": "n. 地址；演讲。vt. 处理；应对；向…讲话；写地址"
   },
   {
     "exampleZh": "",
@@ -473,7 +473,7 @@
     "word": "administration",
     "example": "",
     "tier": 2,
-    "meaning": "/[)n/n.管理,经营,衅]网络管理"
+    "meaning": "n. 管理；行政；政府；施行"
   },
   {
     "exampleZh": "",
@@ -704,7 +704,7 @@
     "word": "agent",
     "example": "",
     "tier": 2,
-    "meaning": "n.代理(商)"
+    "meaning": "n. 代理人；经纪人；作用剂"
   },
   {
     "exampleZh": "",
@@ -753,7 +753,7 @@
     "word": "aid",
     "example": "",
     "tier": 2,
-    "meaning": "n.帮助,援助,帮助者,有帮助的事物;vt.资助,援助,帮助;Association Identifier,相关标识"
+    "meaning": "n. 帮助；援助；辅助工具。v. 帮助；援助"
   },
   {
     "exampleZh": "",
@@ -1208,7 +1208,7 @@
     "word": "anxious",
     "example": "",
     "tier": 2,
-    "meaning": "adj.观念的,担忧的,渴望的,盼望的"
+    "meaning": "adj. 焦虑的；担忧的；渴望的"
   },
   {
     "exampleZh": "",
@@ -1285,7 +1285,7 @@
     "word": "apology",
     "example": "",
     "tier": 2,
-    "meaning": "n.(为某种思想,宗教,哲学等)辩解,道歉"
+    "meaning": "n. 道歉；辩解"
   },
   {
     "exampleZh": "",
@@ -1572,7 +1572,7 @@
     "word": "article",
     "example": "",
     "tier": 2,
-    "meaning": "n.文章,论文,物品,商品,项目,条款v.清楚说出adj.表达清晰的"
+    "meaning": "n. 文章；物品；条款；冠词"
   },
   {
     "exampleZh": "",
@@ -2223,7 +2223,7 @@
     "word": "bar",
     "example": "",
     "tier": 2,
-    "meaning": "n.条,棒(常用作栅栏,扣栓物),横木,酒吧间,栅,障碍物vt.禁止,阻挡,妨碍,把门关住,除...之外,(Bar)律师业 /n.条形/柱形图"
+    "meaning": "n. 酒吧；条；棒；障碍；律师业。vt. 阻挡；禁止"
   },
   {
     "exampleZh": "",
@@ -2384,7 +2384,7 @@
     "word": "be",
     "example": "",
     "tier": 2,
-    "meaning": "prep.是,在,存在 [域] Belgium ,比利时 [军] Base Ejection,弹底喷射 symb [化]铍 Be(beryllium)"
+    "meaning": "v. 是；存在；处于。aux. 用于进行时或被动语态"
   },
   {
     "exampleZh": "",
@@ -2461,7 +2461,7 @@
     "word": "because",
     "example": "",
     "tier": 2,
-    "meaning": "conj.adv.因为"
+    "meaning": "conj. 因为"
   },
   {
     "exampleZh": "",
@@ -2538,7 +2538,7 @@
     "word": "behalf",
     "example": "",
     "tier": 2,
-    "meaning": "n.为,利益"
+    "meaning": "n. 利益；代表（on behalf of：代表；为了）"
   },
   {
     "exampleZh": "",
@@ -2755,7 +2755,7 @@
     "word": "biotechnology",
     "example": "",
     "tier": 2,
-    "meaning": "n.生物工艺学"
+    "meaning": "n. 生物技术"
   },
   {
     "exampleZh": "",
@@ -3014,7 +3014,7 @@
     "word": "boost",
     "example": "",
     "tier": 2,
-    "meaning": "v.推进"
+    "meaning": "v. 促进；提高。n. 增长；推动"
   },
   {
     "exampleZh": "",
@@ -3042,7 +3042,7 @@
     "word": "boring",
     "example": "",
     "tier": 2,
-    "meaning": "n.钻(孔)adj.令人厌烦的"
+    "meaning": "adj. 无聊的；令人厌烦的。n. 钻孔"
   },
   {
     "exampleZh": "",
@@ -3420,7 +3420,7 @@
     "word": "bulb",
     "example": "",
     "tier": 2,
-    "meaning": "n.鳞茎,球形物"
+    "meaning": "n. 灯泡；球茎"
   },
   {
     "exampleZh": "",
@@ -3469,7 +3469,7 @@
     "word": "bureau",
     "example": "",
     "tier": 2,
-    "meaning": "n.办公桌,衣柜 <美>局,办公署"
+    "meaning": "n. 局；署；办公机构；带抽屉的写字台"
   },
   {
     "exampleZh": "",
@@ -3574,7 +3574,7 @@
     "word": "cab",
     "example": "",
     "tier": 2,
-    "meaning": "一种压缩文件格式;n.出租马车,出租汽车,计程车,(机车,卡车,起重机的)司机室,驾驶室vi.乘出租马车"
+    "meaning": "n. 出租车；驾驶室"
   },
   {
     "exampleZh": "",
@@ -4113,7 +4113,7 @@
     "word": "ceremony",
     "example": "",
     "tier": 2,
-    "meaning": "n.典礼,仪式,礼节,报幕员"
+    "meaning": "n. 典礼；仪式；礼节"
   },
   {
     "exampleZh": "",
@@ -4232,7 +4232,7 @@
     "word": "characteristic",
     "example": "",
     "tier": 2,
-    "meaning": "ally//adv.表示特adj.特有的,表示绦缘"
+    "meaning": "n. 特征；特点。adj. 典型的；特有的"
   },
   {
     "exampleZh": "",
@@ -4743,7 +4743,7 @@
     "word": "click",
     "example": "",
     "tier": 2,
-    "meaning": "v.发出滴答声n.滴答声"
+    "meaning": "v. 点击；发出咔嗒声。n. 点击；咔嗒声"
   },
   {
     "exampleZh": "",
@@ -5128,7 +5128,7 @@
     "word": "commitment",
     "example": "",
     "tier": 2,
-    "meaning": "n.委托事项,许诺,承担义务"
+    "meaning": "n. 承诺；投入；责任；义务"
   },
   {
     "exampleZh": "",
@@ -5163,7 +5163,7 @@
     "word": "communication",
     "example": "",
     "tier": 2,
-    "meaning": "n.传达,信息,交通,通讯"
+    "meaning": "n. 沟通；交流；通信"
   },
   {
     "exampleZh": "",
@@ -6143,14 +6143,14 @@
     "word": "corporate",
     "example": "",
     "tier": 2,
-    "meaning": "adj.社团的,法人的,共同的,全体的"
+    "meaning": "adj. 公司的；企业的；法人的；集体的"
   },
   {
     "exampleZh": "",
     "word": "corporation",
     "example": "",
     "tier": 2,
-    "meaning": "n.[律]社团,法人,公司,企业,<美>有限公司,(市,镇的)自治机关,<口>大肚皮"
+    "meaning": "n. 公司；法人；社团"
   },
   {
     "exampleZh": "",
@@ -6171,7 +6171,7 @@
     "word": "correspondence",
     "example": "",
     "tier": 2,
-    "meaning": "/n.函授 principle//n.对 school//n.函授/n.相应,通信,信件/纬"
+    "meaning": "n. 通信；信件；对应；一致"
   },
   {
     "exampleZh": "",
@@ -6514,7 +6514,7 @@
     "word": "critical",
     "example": "",
     "tier": 2,
-    "meaning": "adj.评论的,鉴定的,批评的,危急的,临界的"
+    "meaning": "adj. 至关重要的；批评的；危急的；临界的"
   },
   {
     "exampleZh": "",
@@ -6745,7 +6745,7 @@
     "word": "custom",
     "example": "",
     "tier": 2,
-    "meaning": "n.习惯,风俗,<动词单用>海关,(封建制度下)定期服劳役,缴纳租税,自定义,<偶用作>关税v.定制,承接定做活的"
+    "meaning": "n. 习俗；习惯；（customs）海关。adj. 定制的"
   },
   {
     "exampleZh": "",
@@ -8740,7 +8740,7 @@
     "word": "efficient",
     "example": "",
     "tier": 2,
-    "meaning": "adj.(直接)生效的,有效率的,能干的"
+    "meaning": "adj. 高效率的；高效的；能干的"
   },
   {
     "exampleZh": "",
@@ -9804,7 +9804,7 @@
     "word": "executive",
     "example": "",
     "tier": 2,
-    "meaning": "adj.实行的,执行的,行政的n.执行者,经理主管人员"
+    "meaning": "n. 管理人员；主管。adj. 行政的；执行的"
   },
   {
     "exampleZh": "",
@@ -10112,7 +10112,7 @@
     "word": "facility",
     "example": "",
     "tier": 2,
-    "meaning": "n.容易,简易,灵巧,熟练,便利,敏捷,设备,工具"
+    "meaning": "n. 设施；设备；场所；便利；才能"
   },
   {
     "exampleZh": "",
@@ -10140,7 +10140,7 @@
     "word": "faculty",
     "example": "",
     "tier": 2,
-    "meaning": "n.才能,本领,能力,全体教员,(大学的)系,科,(授予的)权力"
+    "meaning": "n. 全体教员；学院；系；能力；官能"
   },
   {
     "exampleZh": "",
@@ -10175,7 +10175,7 @@
     "word": "fair",
     "example": "",
     "tier": 2,
-    "meaning": "adj.美丽的,女性的,(肤色)白皙的,(头发)金黄的,干净的,公平的,(天气)晴朗的adv.公平地,公正地,直接地,清楚地n.美好的事物,美人,展览会,市集vi.转晴"
+    "meaning": "adj. 公平的；合理的；浅色的；晴朗的。n. 集市；博览会"
   },
   {
     "exampleZh": "",
@@ -12422,7 +12422,7 @@
     "word": "gym",
     "example": "",
     "tier": 2,
-    "meaning": "gymnasium 体育;n.体育馆,体操"
+    "meaning": "n. 健身房；体育馆"
   },
   {
     "exampleZh": "",
@@ -13479,7 +13479,7 @@
     "word": "ice",
     "example": "",
     "tier": 2,
-    "meaning": "n.冰冻食品vt.冰冻,覆以冰vi.结冰 [军] Intenal Combustion Engine,内燃机"
+    "meaning": "n. 冰。v. 结冰；加冰；覆冰"
   },
   {
     "exampleZh": "",
@@ -13514,7 +13514,7 @@
     "word": "identification",
     "example": "",
     "tier": 2,
-    "meaning": "/n.身份证"
+    "meaning": "n. 识别；鉴定；身份证明"
   },
   {
     "exampleZh": "",
@@ -13598,7 +13598,7 @@
     "word": "illusion",
     "example": "",
     "tier": 2,
-    "meaning": "n.幻想"
+    "meaning": "n. 错觉；幻觉；幻想"
   },
   {
     "exampleZh": "",
@@ -13640,7 +13640,7 @@
     "word": "imaginative",
     "example": "",
     "tier": 2,
-    "meaning": "adj.想象的,虚构的"
+    "meaning": "adj. 富有想象力的；有创意的"
   },
   {
     "exampleZh": "",
@@ -13913,7 +13913,7 @@
     "word": "indifferent",
     "example": "",
     "tier": 2,
-    "meaning": "adj.无关紧要的"
+    "meaning": "adj. 冷漠的；不关心的；一般的"
   },
   {
     "exampleZh": "",
@@ -14088,7 +14088,7 @@
     "word": "initiative",
     "example": "",
     "tier": 2,
-    "meaning": "n.主动"
+    "meaning": "n. 主动性；倡议；新方案"
   },
   {
     "exampleZh": "",
@@ -14109,7 +14109,7 @@
     "word": "injury",
     "example": "",
     "tier": 2,
-    "meaning": "n.伤害,侮辱"
+    "meaning": "n. 伤害；损伤；受伤"
   },
   {
     "exampleZh": "",
@@ -14214,7 +14214,7 @@
     "word": "inspire",
     "example": "",
     "tier": 2,
-    "meaning": "vt.吸(气),鼓舞,感动,激发,启示,使生灵感,产生vi.吸入,赋予灵感"
+    "meaning": "vt. 鼓舞；激励；启发；使产生灵感"
   },
   {
     "exampleZh": "",
@@ -14291,14 +14291,14 @@
     "word": "instrument",
     "example": "",
     "tier": 2,
-    "meaning": "n.工具,手段,器械,器具,手段"
+    "meaning": "n. 乐器；仪器；工具；手段"
   },
   {
     "exampleZh": "",
     "word": "instrumental",
     "example": "",
     "tier": 2,
-    "meaning": "adj.仪器的,器械的,乐器的"
+    "meaning": "adj. 起重要作用的；器乐的；仪器的"
   },
   {
     "exampleZh": "",
@@ -14347,7 +14347,7 @@
     "word": "intelligence",
     "example": "",
     "tier": 2,
-    "meaning": "n.智力,聪明,智能"
+    "meaning": "n. 智力；智能；情报"
   },
   {
     "exampleZh": "",
@@ -14466,7 +14466,7 @@
     "word": "internship",
     "example": "",
     "tier": 2,
-    "meaning": "n.<美>实习医师,实习医师期"
+    "meaning": "n. 实习；实习期"
   },
   {
     "exampleZh": "",
@@ -14508,7 +14508,7 @@
     "word": "interview",
     "example": "",
     "tier": 2,
-    "meaning": "vt.接见,会见n.接见,会见"
+    "meaning": "n. 面试；采访。v. 面试；采访"
   },
   {
     "exampleZh": "",
@@ -14634,7 +14634,7 @@
     "word": "involvement",
     "example": "",
     "tier": 2,
-    "meaning": "n.连累,包含"
+    "meaning": "n. 参与；卷入；牵涉"
   },
   {
     "exampleZh": "",
@@ -15166,7 +15166,7 @@
     "word": "language",
     "example": "",
     "tier": 2,
-    "meaning": "n.语言,语言文学,术语,语言表达能力,(运用语言的)方式、能力、风格,[自](机器)代码 /n.语言/国家"
+    "meaning": "n. 语言；术语；表达方式"
   },
   {
     "exampleZh": "",
@@ -15810,7 +15810,7 @@
     "word": "liver",
     "example": "",
     "tier": 2,
-    "meaning": "n.居住者,生活优裕的人,肝脏"
+    "meaning": "n. 肝脏；以某种方式生活的人"
   },
   {
     "exampleZh": "",
@@ -15880,7 +15880,7 @@
     "word": "lock",
     "example": "",
     "tier": 2,
-    "meaning": "n.锁v.锁,锁上,锁住 /n.锁定/解锁"
+    "meaning": "n. 锁；一绺头发。v. 锁上；锁定"
   },
   {
     "exampleZh": "",
@@ -16181,7 +16181,7 @@
     "word": "main",
     "example": "",
     "tier": 2,
-    "meaning": "n.主要部分,体力,力量,大陆,要点,干线adj.主要的,重要的,全力的n.[计] 主群组"
+    "meaning": "adj. 主要的；最重要的。n. 主管道"
   },
   {
     "exampleZh": "",
@@ -16216,7 +16216,7 @@
     "word": "major",
     "example": "",
     "tier": 2,
-    "meaning": "n.<美>[教]主修课,[律]成年人,[乐]大调adj.主修的,成年的,大调的vi.主修"
+    "meaning": "adj. 主要的；重大的。n. 主修专业；少校。vi. 主修"
   },
   {
     "exampleZh": "",
@@ -17140,7 +17140,7 @@
     "word": "moment",
     "example": "",
     "tier": 2,
-    "meaning": "adj.片刻的,瞬间的,力矩的n.瞬间"
+    "meaning": "n. 片刻；时刻；时机；力矩"
   },
   {
     "exampleZh": "",
@@ -17224,7 +17224,7 @@
     "word": "morality",
     "example": "",
     "tier": 2,
-    "meaning": "adj.道德的n.道德"
+    "meaning": "n. 道德；道德准则"
   },
   {
     "exampleZh": "",
@@ -17686,7 +17686,7 @@
     "word": "neighbourhood",
     "example": "",
     "tier": 2,
-    "meaning": "n.邻居关系(美作:neighborhood)"
+    "meaning": "n. 街区；社区；附近"
   },
   {
     "exampleZh": "",
@@ -18099,7 +18099,7 @@
     "word": "nucleus",
     "example": "",
     "tier": 2,
-    "meaning": "[nuclear的复数,见nuclear];n.核子"
+    "meaning": "n. 核心；细胞核；原子核"
   },
   {
     "exampleZh": "",
@@ -19464,7 +19464,7 @@
     "word": "perception",
     "example": "",
     "tier": 2,
-    "meaning": "n.理解 感知,感觉 DPS公司出的数字影像压缩卡"
+    "meaning": "n. 感知；看法；洞察力"
   },
   {
     "exampleZh": "",
@@ -19576,7 +19576,7 @@
     "word": "perspective",
     "example": "",
     "tier": 2,
-    "meaning": "n.透视画法,透视图,远景,前途,观点,看法,观点,观察"
+    "meaning": "n. 视角；观点；前景；透视法"
   },
   {
     "exampleZh": "",
@@ -20451,7 +20451,7 @@
     "word": "practice",
     "example": "",
     "tier": 2,
-    "meaning": "n.实行,实践,实际,惯例,习惯,练习,实习,开业"
+    "meaning": "n. 练习；实践；惯例。v. 练习；实践（美式用法）"
   },
   {
     "exampleZh": "",
@@ -20808,7 +20808,7 @@
     "word": "principal",
     "example": "",
     "tier": 2,
-    "meaning": "n.负责人,首长,校长,主犯,本金adj.主要的,首要的"
+    "meaning": "adj. 主要的；首要的。n. 校长；负责人；本金"
   },
   {
     "exampleZh": "",
@@ -21074,7 +21074,7 @@
     "word": "promote",
     "example": "",
     "tier": 2,
-    "meaning": "vt.促进,发扬,提升,提拔,晋升为 /n.升级/降级"
+    "meaning": "vt. 促进；推广；提升；晋升"
   },
   {
     "exampleZh": "",
@@ -21193,7 +21193,7 @@
     "word": "protect",
     "example": "",
     "tier": 2,
-    "meaning": "vt.保护 /n.保护/解除"
+    "meaning": "vt. 保护；防护"
   },
   {
     "exampleZh": "",
@@ -22684,7 +22684,7 @@
     "word": "resign",
     "example": "",
     "tier": 2,
-    "meaning": "n.辞去(职务)v.辞去,辞职"
+    "meaning": "v. 辞职；放弃；接受或听任（resign oneself to）"
   },
   {
     "exampleZh": "",
@@ -24049,7 +24049,7 @@
     "word": "sentence",
     "example": "",
     "tier": 2,
-    "meaning": "n.句子,判决,宣判,文句vt.宜判,判决"
+    "meaning": "n. 句子；判决。vt. 判刑"
   },
   {
     "exampleZh": "",
@@ -24763,7 +24763,7 @@
     "word": "size",
     "example": "",
     "tier": 2,
-    "meaning": "n.大小,尺寸,(衣服等)尺码vt.依大小排列 /n.大小/移动"
+    "meaning": "n. 大小；尺寸；尺码。vt. 按大小排列"
   },
   {
     "exampleZh": "",
@@ -25848,7 +25848,7 @@
     "word": "stationary",
     "example": "",
     "tier": 2,
-    "meaning": "固定的"
+    "meaning": "adj. 静止的；固定的"
   },
   {
     "exampleZh": "",
@@ -26359,7 +26359,7 @@
     "word": "substantial",
     "example": "",
     "tier": 2,
-    "meaning": "adj.坚固的,实质的,真实的,充实的"
+    "meaning": "adj. 大量的；重大的；实质性的；结实的"
   },
   {
     "exampleZh": "",
@@ -26597,7 +26597,7 @@
     "word": "super",
     "example": "",
     "tier": 2,
-    "meaning": "n.不重要的角色,冗员vt.用冷纱布贴(书背)vi.充当跑龙套的角色adj.上等的,特大的,特级的,十分的,过分的,极好的adv.非常 /n.上标/下标"
+    "meaning": "adj. 极好的；超级的。adv. 非常。n. 主管（非正式用法）"
   },
   {
     "exampleZh": "",
@@ -26772,7 +26772,7 @@
     "word": "suspend",
     "example": "",
     "tier": 2,
-    "meaning": "vt.吊,悬挂v.延缓"
+    "meaning": "v. 暂停；中止；悬挂；停职"
   },
   {
     "exampleZh": "",
@@ -27143,7 +27143,7 @@
     "word": "telecommunication",
     "example": "",
     "tier": 2,
-    "meaning": "/n.电ion satellite//5keIF(E)n/n.电讯信局"
+    "meaning": "n. 电信；远程通信"
   },
   {
     "exampleZh": "",
@@ -27416,7 +27416,7 @@
     "word": "theoretical",
     "example": "",
     "tier": 2,
-    "meaning": "理论的"
+    "meaning": "adj. 理论的；理论上的"
   },
   {
     "exampleZh": "",
@@ -27759,7 +27759,7 @@
     "word": "time",
     "example": "",
     "tier": 2,
-    "meaning": "n.时间,时侯,时机,节拍,期限,次数,时期,比赛限时vt.安排...的时间,记录...的时间,计时,定时vi.打拍子,(...)合拍adj.时间的,记时的,定时的,定期的,分期的 /n.时间/日期"
+    "meaning": "n. 时间；时刻；次数；时期。vt. 计时；安排时间"
   },
   {
     "exampleZh": "",
@@ -28144,7 +28144,7 @@
     "word": "transaction",
     "example": "",
     "tier": 2,
-    "meaning": "n.办理,处理,会报,学报,交易,事务,处理事务"
+    "meaning": "n. 交易；业务；办理"
   },
   {
     "exampleZh": "",
@@ -28221,7 +28221,7 @@
     "word": "transportation",
     "example": "",
     "tier": 2,
-    "meaning": "/n.运)n/n.运输,运送"
+    "meaning": "n. 运输；交通运输"
   },
   {
     "exampleZh": "",
@@ -28634,7 +28634,7 @@
     "word": "undergraduate",
     "example": "",
     "tier": 2,
-    "meaning": "n.大学肄业生,(尚未取得学位的)大学生adj.大学生的"
+    "meaning": "n. 本科生。adj. 本科生的"
   },
   {
     "exampleZh": "",
@@ -29327,7 +29327,7 @@
     "word": "virtual",
     "example": "",
     "tier": 2,
-    "meaning": "adj.虚的,实质的,[物]有效的,事实上的"
+    "meaning": "adj. 虚拟的；实际上的；实质上的"
   },
   {
     "exampleZh": "",
@@ -29978,7 +29978,7 @@
     "word": "whilst",
     "example": "",
     "tier": 2,
-    "meaning": "conj.时时,同时"
+    "meaning": "conj. 当…时；虽然；而"
   },
   {
     "exampleZh": "",
@@ -30097,7 +30097,7 @@
     "word": "width",
     "example": "",
     "tier": 2,
-    "meaning": "n.宽度,宽广,广博,有一定宽度的东西(如一快布料等) /n.宽/高比"
+    "meaning": "n. 宽度；宽广"
   },
   {
     "exampleZh": "",
