@@ -93,11 +93,11 @@ public partial class Game {
 
 
 public sealed class CardRewardSurface:Panel {
- public Image Art;public bool PixelArt;public bool CompositeChildren;
- Bitmap backdrop;Size backdropSize;Image backdropArt;bool backdropPixelArt;
+ public Image Art;public bool PixelArt;public bool CompositeChildren;public int ShadeAlpha=70;
+ Bitmap backdrop;Size backdropSize;Image backdropArt;bool backdropPixelArt;int backdropShadeAlpha;
  public CardRewardSurface(){DoubleBuffered=true;ResizeRedraw=true;BackColor=Color.FromArgb(13,25,34);}
  protected override CreateParams CreateParams {get {var value=base.CreateParams;if(CompositeChildren)value.ExStyle|=0x02000000;return value;}}
- protected override void OnPaintBackground(PaintEventArgs e){if(backdrop==null||backdropSize!=ClientSize||backdropArt!=Art||backdropPixelArt!=PixelArt){if(backdrop!=null)backdrop.Dispose();backdrop=new Bitmap(Math.Max(1,Width),Math.Max(1,Height));using(var g=Graphics.FromImage(backdrop))ExpeditionVisuals.Background(g,Art,new Rectangle(Point.Empty,backdrop.Size),70,PixelArt);backdropSize=ClientSize;backdropArt=Art;backdropPixelArt=PixelArt;}e.Graphics.DrawImageUnscaled(backdrop,0,0);}
+ protected override void OnPaintBackground(PaintEventArgs e){if(backdrop==null||backdropSize!=ClientSize||backdropArt!=Art||backdropPixelArt!=PixelArt||backdropShadeAlpha!=ShadeAlpha){if(backdrop!=null)backdrop.Dispose();backdrop=new Bitmap(Math.Max(1,Width),Math.Max(1,Height));using(var g=Graphics.FromImage(backdrop))ExpeditionVisuals.Background(g,Art,new Rectangle(Point.Empty,backdrop.Size),ShadeAlpha,PixelArt);backdropSize=ClientSize;backdropArt=Art;backdropPixelArt=PixelArt;backdropShadeAlpha=ShadeAlpha;}e.Graphics.DrawImageUnscaled(backdrop,0,0);}
  protected override void Dispose(bool disposing){if(disposing&&backdrop!=null){backdrop.Dispose();backdrop=null;}base.Dispose(disposing);}
 }
 

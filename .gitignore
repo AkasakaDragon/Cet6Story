@@ -5,6 +5,8 @@
 /.validation/
 /打包输出/
 /outputs/
+/output/
+/save.before-*.json
 
 # Editor / build temporary files
 .vs/

@@ -4,7 +4,7 @@ using System.Drawing.Drawing2D;
 using System.Windows.Forms;
 
 public class VNButton:Control {
- public bool PixelStyle=false;public string Icon="";public bool MenuStyle=false;public bool Active=false;bool hover=false;
+ public bool StaticMenuStyle=false;public bool HomeStyle=false;public bool PixelStyle=false;public string Icon="";public bool MenuStyle=false;public bool Active=false;bool hover=false;
  public VNButton(){SetStyle(ControlStyles.SupportsTransparentBackColor|ControlStyles.UserPaint|ControlStyles.AllPaintingInWmPaint|ControlStyles.OptimizedDoubleBuffer,true);SetStyle(ControlStyles.StandardClick,false);BackColor=Color.Transparent;ForeColor=Color.FromArgb(255,230,201);Font=GameTheme.Body(11);TabStop=true;Cursor=Cursors.Hand;AccessibleRole=AccessibleRole.PushButton;Size=new Size(40,40);}
  protected override void OnTextChanged(EventArgs e){base.OnTextChanged(e);Invalidate();}
  public void PerformClick(){if(Enabled)OnClick(EventArgs.Empty);}
@@ -16,6 +16,8 @@ public class VNButton:Control {
  protected override void OnMouseUp(MouseEventArgs e){base.OnMouseUp(e);if(Enabled&&e.Button==MouseButtons.Left&&ClientRectangle.Contains(e.Location))OnClick(EventArgs.Empty);}
  protected override void OnKeyDown(KeyEventArgs e){base.OnKeyDown(e);if(Enabled&&(e.KeyCode==Keys.Enter||e.KeyCode==Keys.Space)){OnClick(EventArgs.Empty);e.Handled=true;}}
  protected override void OnPaint(PaintEventArgs e){base.OnPaint(e);e.Graphics.SmoothingMode=PixelStyle?SmoothingMode.None:SmoothingMode.AntiAlias;Color c=!Enabled?Color.FromArgb(130,150,154):(hover||Focused||Active)?Color.FromArgb(255,196,132):ForeColor;using(var pen=new Pen(c,2.2f))using(var brush=new SolidBrush(c)){
+ if(StaticMenuStyle){if(!Enabled){using(var shade=new SolidBrush(Color.FromArgb(115,12,24,29)))e.Graphics.FillRectangle(shade,ClientRectangle);}else if(hover||Focused){using(var hoverEdge=new Pen(Color.FromArgb(255,229,153),Math.Max(1,Height/24)))e.Graphics.DrawPolygon(hoverEdge,GameTheme.Outline(Rectangle.Inflate(ClientRectangle,-2,-2),Math.Max(2,Height/7)));}return;}
+ if(HomeStyle){HomeMenuArt.Button(e.Graphics,ClientRectangle,Text,Font,hover||Focused,Enabled);return;}
  if(Icon==""){CyberChrome.Button(e.Graphics,ClientRectangle,Text,Font,Active,hover||Focused,Enabled);return;}
  if(PixelStyle&&!MenuStyle)CyberChrome.Panel(e.Graphics,Rectangle.Inflate(ClientRectangle,-1,-1),CyberChrome.Neon);
  if(MenuStyle){GameTheme.Button(e.Graphics,ClientRectangle,Text,Font,false,hover||Focused,Enabled);if(hover||Focused){using(var gold=new SolidBrush(GameTheme.Gold))e.Graphics.FillRectangle(gold,15,Height/2-3,6,6);}return;}
@@ -41,5 +43,3 @@ public class OutlinedLabel:Control {
  protected override void OnTextChanged(EventArgs e){base.OnTextChanged(e);Invalidate();}
  protected override void OnPaint(PaintEventArgs e){base.OnPaint(e);if(String.IsNullOrEmpty(Text))return;GameTheme.DrawText(e.Graphics,Text,Font,new Rectangle(2,3,Math.Max(1,Width-5),Math.Max(1,Height-4)),ForeColor,TextFormatFlags.NoPadding|TextFormatFlags.WordBreak);}
 }
-
-
