@@ -1,4 +1,4 @@
-﻿using System;using System.IO;using System.Linq;using System.Drawing;using System.Drawing.Drawing2D;using System.Windows.Forms;
+using System;using System.IO;using System.Linq;using System.Drawing;using System.Drawing.Drawing2D;using System.Windows.Forms;
 public class SupportCardView:Control {
  public SupportCard Card;public Image Atlas,FrameAtlas;public bool Playable=true;public bool Large;public bool Locked;
  public SupportCardView(){SetStyle(ControlStyles.SupportsTransparentBackColor|ControlStyles.UserPaint|ControlStyles.AllPaintingInWmPaint|ControlStyles.OptimizedDoubleBuffer,true);BackColor=Color.Transparent;Size=new Size(130,176);Cursor=Cursors.Hand;Margin=new Padding(5);TabStop=true;AccessibleRole=AccessibleRole.PushButton;}
@@ -43,15 +43,17 @@ public partial class Game {
  Image SupportAtlas(){return CachedImage(Path.Combine(root,"assets","rogue","cards","illustrations.png"));}
  Image SupportSprite(int cell){if(cell<0)return null;string path=Path.Combine(root,"assets","rogue","cards","support-sprites.png");if(!File.Exists(path))return null;string key="support-sprite:"+cell;Image result;if(imageCache.TryGetValue(key,out result))return result;var atlas=CachedImage(path);int w=atlas.Width/4,h=atlas.Height/2;var bitmap=CombatSprites.Character(atlas,cell,cell<4?32:0);w=bitmap.Width;h=bitmap.Height;int left=w,top=h,right=-1,bottom=-1;for(int y=0;y<h;y++)for(int x=0;x<w;x++)if(bitmap.GetPixel(x,y).A>48){left=Math.Min(left,x);top=Math.Min(top,y);right=Math.Max(right,x);bottom=Math.Max(bottom,y);}if(right>=left){var trimmed=bitmap.Clone(Rectangle.FromLTRB(left,top,right+1,bottom+1),System.Drawing.Imaging.PixelFormat.Format32bppArgb);bitmap.Dispose();bitmap=trimmed;}imageCache[key]=bitmap;return bitmap;}
  Bitmap SupportHandArt(SupportCard card,bool playable){string key="support-hand:"+card.id+":"+playable;Image cached;if(imageCache.TryGetValue(key,out cached))return (Bitmap)cached;var art=new Bitmap(512,768,System.Drawing.Imaging.PixelFormat.Format32bppArgb);using(var view=new SupportCardView{Card=card,Atlas=SupportAtlas(),FrameAtlas=CardFrameAtlas(),Large=true,Playable=playable})using(var g=Graphics.FromImage(art))view.DrawCard(g,512,768);imageCache[key]=art;return art;}
- void AddSupportHand(RogueRun r,Panel glass,Control arena){
+ void AddSupportHand(RogueRun r,Panel glass,Control arena,OutlinedLabel hud){
   var b=r.cardBattle;if(b==null||r.state!="combat"||b.answering)return;
   var hand=new BattleFanHand();arena.Controls.Add(hand);var handArts=new System.Collections.Generic.List<Bitmap>();var handArtKeys=new System.Collections.Generic.List<string>();
   var energy=new BattleEnergyBadge{Remaining=b.energy,Capacity=b.energyCapacity>0?b.energyCapacity:Math.Max(3,b.energy)};arena.Controls.Add(energy);
   var info=new OutlinedLabel{Visible=b.overflow.Count>0,Text="请选择一张手牌弃置",ForeColor=Gold,BackColor=Color.Transparent,Font=GameTheme.Body(10)};arena.Controls.Add(info);
-  var end=RogueButton("结束回合 · Enter",()=>{if(CardBattle.EndTurn(r))SaveRogue();},160,46);end.Enabled=b.overflow.Count==0;arena.Controls.Add(end);
-  for(int i=0;i<Math.Min(8,b.hand.Count);i++){var card=CardBattle.Get(b.hand[i]);bool playable=b.overflow.Count>0||card.cost<=b.energy&&(card.id!="rethink"||b.hand.Count>1);var art=SupportHandArt(card,playable);handArts.Add(art);handArtKeys.Add("support-hand-scaled:"+card.id+":"+playable);hand.AddCard(art,card.name+" · "+card.text,false,playable);}
+  var end=RogueButton("结束回合",()=>{if(CardBattle.EndTurn(r))SaveRogue();},160,46);end.Enabled=b.overflow.Count==0;arena.Controls.Add(end);
+  Action fillHand=()=>{hand.ClearCards();handArts.Clear();handArtKeys.Clear();for(int i=0;i<Math.Min(8,b.hand.Count);i++){var card=CardBattle.Get(b.hand[i]);bool playable=b.overflow.Count>0||card.cost<=b.energy&&(card.id!="rethink"||b.hand.Count>1);var art=SupportHandArt(card,playable);handArts.Add(art);handArtKeys.Add("support-hand-scaled:"+card.id+":"+playable);hand.AddCard(art,card.name+" · "+card.text,false,playable);}};fillHand();hand.RefreshCards=fillHand;
   hand.CachedCard=(index,width,height)=>{string key=handArtKeys[index]+":"+width+":"+height;Image cached;if(imageCache.TryGetValue(key,out cached))return (Bitmap)cached;var scaled=new Bitmap(width,height,System.Drawing.Imaging.PixelFormat.Format32bppPArgb);using(var g=Graphics.FromImage(scaled)){g.InterpolationMode=InterpolationMode.HighQualityBicubic;g.PixelOffsetMode=PixelOffsetMode.HighQuality;g.DrawImage(handArts[index],new Rectangle(0,0,width,height));}imageCache[key]=scaled;return scaled;};
-  hand.TryPlayCard=index=>b.overflow.Count>0?CardBattle.DiscardChoice(r,index):CardBattle.Play(r,index);hand.CardPlayed=SaveRogue;hand.HoverSound=()=>PlayHandSound(false);hand.PlaySound=()=>PlayHandSound(true);
+  hand.TryPlayCard=index=>b.overflow.Count>0?CardBattle.DiscardChoice(r,index):CardBattle.Play(r,index);
+  hand.CardPlayed=()=>{if(arena.IsDisposed||r.state!="combat"||b.answering){SaveRogue();return;}Persist();fillHand();energy.Remaining=b.energy;energy.Capacity=b.energyCapacity>0?b.energyCapacity:Math.Max(3,b.energy);energy.Invalidate();info.Visible=b.overflow.Count>0;end.Enabled=b.overflow.Count==0;((RogueArena)arena).Support=SupportSprite(b.lastCard!=null&&(new[]{"barrier","echo","cover","rescue"}.Contains(b.lastCard))?2:1);hud.Text=arena.Height<560?"攻击 "+r.attack+" · 护甲 "+r.armor+" · 金币 "+save.rogue.coins+"\n连击 "+r.combo+" · 护盾 "+b.shield+" · 敌盾 "+b.enemyShield:"词域远征 · "+r.mode+"\n攻击 "+r.attack+" · 护甲 "+r.armor+" · 金币 "+save.rogue.coins+" · 连击 "+r.combo+(String.IsNullOrEmpty(r.vocabularyChapter)?"":"\n词汇准备 "+PreparationEngine.Count(save.rogue,r.vocabularyChapter,r.pool)+" / "+r.pool.Count)+"\n护盾 "+b.shield+" · 敌盾 "+b.enemyShield+" · 增伤 +"+b.bonus+" / "+b.percent+"%";arena.Invalidate();};
+  hand.HoverSound=()=>PlayHandSound(false);hand.PlaySound=()=>PlayHandSound(true);
   Action layout=()=>{bool compact=arena.Height<560;int cardHeight=compact?190:Math.Min(340,Math.Max(250,(int)(arena.Height*.32)));hand.CardHeight=cardHeight;int side=Math.Min(150,Math.Max(100,arena.Width/6));int height=Math.Min(arena.Height-105,(int)(cardHeight*1.32)+40);int handTop=Math.Min(110,Math.Max(0,arena.Height-250));hand.Bounds=new Rectangle(side,handTop,Math.Max(100,arena.Width-side*2),arena.Height-handTop);int badgeSize=compact?76:100;energy.Bounds=new Rectangle(24,arena.Height-badgeSize-45,badgeSize,badgeSize);info.Bounds=new Rectangle(18,Math.Max(115,arena.Height-height-28),Math.Max(80,arena.Width-200),26);end.Location=new Point(Math.Max(0,arena.Width-175),arena.Height-70);hand.Invalidate();};
   EventHandler resized=(sender,args)=>layout();arena.Resize+=resized;battleLayoutCleanup=()=>arena.Resize-=resized;layout();hand.BringToFront();info.BringToFront();energy.BringToFront();end.BringToFront();
  }
@@ -90,9 +92,12 @@ public partial class Game {
 
 
 public sealed class CardRewardSurface:Panel {
- public Image Art;public bool PixelArt;
+ public Image Art;public bool PixelArt;public bool CompositeChildren;
+ Bitmap backdrop;Size backdropSize;Image backdropArt;bool backdropPixelArt;
  public CardRewardSurface(){DoubleBuffered=true;ResizeRedraw=true;BackColor=Color.FromArgb(13,25,34);}
- protected override void OnPaintBackground(PaintEventArgs e){ExpeditionVisuals.Background(e.Graphics,Art,ClientRectangle,70,PixelArt);}
+ protected override CreateParams CreateParams {get {var value=base.CreateParams;if(CompositeChildren)value.ExStyle|=0x02000000;return value;}}
+ protected override void OnPaintBackground(PaintEventArgs e){if(backdrop==null||backdropSize!=ClientSize||backdropArt!=Art||backdropPixelArt!=PixelArt){if(backdrop!=null)backdrop.Dispose();backdrop=new Bitmap(Math.Max(1,Width),Math.Max(1,Height));using(var g=Graphics.FromImage(backdrop))ExpeditionVisuals.Background(g,Art,new Rectangle(Point.Empty,backdrop.Size),70,PixelArt);backdropSize=ClientSize;backdropArt=Art;backdropPixelArt=PixelArt;}e.Graphics.DrawImageUnscaled(backdrop,0,0);}
+ protected override void Dispose(bool disposing){if(disposing&&backdrop!=null){backdrop.Dispose();backdrop=null;}base.Dispose(disposing);}
 }
 
 

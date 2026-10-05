@@ -72,6 +72,7 @@ public partial class Game {
 }
 
 public class MainMenuPanel:Panel {
+ protected override CreateParams CreateParams{get{var parameters=base.CreateParams;parameters.ExStyle|=0x02000000;return parameters;}}
  public MainMenuPanel(){SetStyle(ControlStyles.SupportsTransparentBackColor|ControlStyles.UserPaint|ControlStyles.OptimizedDoubleBuffer,true);BackColor=Color.Transparent;}
  protected override void OnPaintBackground(PaintEventArgs e){base.OnPaintBackground(e);}
 }

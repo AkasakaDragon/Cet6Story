@@ -1,4 +1,4 @@
-﻿using System;using System.Diagnostics;using System.Drawing;using System.Drawing.Drawing2D;using System.Drawing.Imaging;using System.Collections.Generic;using System.Windows.Forms;
+using System;using System.Diagnostics;using System.Drawing;using System.Drawing.Drawing2D;using System.Drawing.Imaging;using System.Collections.Generic;using System.Windows.Forms;
 // One animated surface keeps card geometry, overlap and hit testing in sync.
 public sealed class BattleFanHand:Control {
  readonly List<Bitmap> cards=new List<Bitmap>();readonly List<bool> owned=new List<bool>();readonly List<bool> playable=new List<bool>();readonly List<string> descriptions=new List<string>();
@@ -6,9 +6,11 @@ public sealed class BattleFanHand:Control {
  readonly Stopwatch commitTime=new Stopwatch();readonly Timer animation=new Timer{Interval=16};float expansion,targetExpansion;int dragged=-1,commitFrame;bool committing,pressed;Point pressPoint,pressOrigin,pointer;PointF dragCenter;
  public int CardHeight=250;public int HoveredIndex{get;private set;}public int CardCount{get{return cards.Count;}}
  public Func<int,int,int,Bitmap> CachedCard;public Action<int> PlayCard;public Func<int,bool> TryPlayCard;public Action CardPlayed,HoverSound,PlaySound;
+ public Action RefreshCards;
  public bool Expanded{get{return targetExpansion>0;}}public bool Dragging{get{return dragged>=0&&pressed;}}
  public BattleFanHand(){HoveredIndex=-1;SetStyle(ControlStyles.SupportsTransparentBackColor|ControlStyles.UserPaint|ControlStyles.AllPaintingInWmPaint|ControlStyles.OptimizedDoubleBuffer|ControlStyles.Selectable,true);BackColor=Color.Transparent;TabStop=true;AccessibleRole=AccessibleRole.List;ResizeRedraw=true;animation.Tick+=(s,e)=>Animate();}
  public void AddCard(Bitmap art,string description,bool ownsImage=true,bool canPlay=true){if(cards.Count>=8)throw new InvalidOperationException("手牌上限为 8 张。");cards.Add(art);owned.Add(ownsImage);playable.Add(canPlay);descriptions.Add(description);Invalidate();}
+ public void ClearCards(){for(int i=0;i<cards.Count;i++)if(owned[i])cards[i].Dispose();cards.Clear();owned.Clear();playable.Clear();descriptions.Clear();ClearRenderCards();if(scene!=null){scene.Dispose();scene=null;}HoveredIndex=-1;dragged=-1;pressed=false;Cursor=Cursors.Default;Invalidate();}
  void ClearRenderCards(){foreach(var image in renderCards.Values)image.Dispose();renderCards.Clear();}
  Bitmap RenderCard(int index,int width,int height){if(CachedCard!=null)return CachedCard(index,width,height);if(renderHeight!=CardHeight){ClearRenderCards();renderHeight=CardHeight;}string key=index+":"+width+":"+height;Bitmap result;if(renderCards.TryGetValue(key,out result))return result;result=new Bitmap(Math.Max(1,width),Math.Max(1,height),PixelFormat.Format32bppPArgb);using(var g=Graphics.FromImage(result)){g.InterpolationMode=InterpolationMode.HighQualityBicubic;g.PixelOffsetMode=PixelOffsetMode.HighQuality;g.DrawImage(cards[index],new Rectangle(0,0,width,height));}renderCards[key]=result;return result;}
  protected override void OnPaintBackground(PaintEventArgs e){
@@ -60,7 +62,7 @@ public sealed class BattleFanHand:Control {
   if(dragged>=0){if(pressed)DrawReleaseGuide(g);Draw(g,dragged,true);DrawTrail(g);}
  }
  void DrawReleaseGuide(Graphics g){float y=Height-CardHeight*.65f;using(var pen=new Pen(Color.FromArgb(playable[dragged]?160:70,CyberChrome.Neon),1.4f)){pen.DashStyle=DashStyle.Dash;g.DrawLine(pen,Math.Max(15,Width/2-170),y,Math.Min(Width-15,Width/2+170),y);}
-  using(var font=GameTheme.Body(10))GameTheme.DrawText(g,playable[dragged]?"向上拖动 · 松开出牌":"当前无法使用这张牌",font,new Rectangle(0,8,Width,24),playable[dragged]?GameTheme.Cyan:GameTheme.Muted,TextFormatFlags.HorizontalCenter|TextFormatFlags.VerticalCenter);
+  if(!playable[dragged])using(var font=GameTheme.Body(10))GameTheme.DrawText(g,"当前无法使用这张牌",font,new Rectangle(0,8,Width,24),GameTheme.Muted,TextFormatFlags.HorizontalCenter|TextFormatFlags.VerticalCenter);
  }
  void DrawTrail(Graphics g){float w=CardHeight*.7f;int count=committing?14:7;for(int i=0;i<count;i++){float x=dragCenter.X+(i%2==0?-1:1)*(w*.36f+i%3*4),y=dragCenter.Y+CardHeight*.35f+i*7;int alpha=committing?Math.Max(0,180-commitFrame*10-i*7):Math.Max(0,130-i*15);using(var pen=new Pen(Color.FromArgb(alpha,CyberChrome.Neon),i%3==0?2:1))g.DrawLine(pen,x,y,x,y+8);}
   if(committing){float radius=18+commitFrame*7;using(var pen=new Pen(Color.FromArgb(Math.Max(0,170-commitFrame*11),CyberChrome.Neon),2))g.DrawEllipse(pen,dragCenter.X-radius,dragCenter.Y-radius*.6f,radius*2,radius*1.2f);}

@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.IO;
 using System.Linq;
 using System.Drawing;
@@ -24,15 +24,9 @@ public partial class Game {
  Image TowerBackground(RogueRun r){return QuietScene(r.theme);}
  void ShowRogueHome(){
   save.rogue.preparationActive=false;
-  TowerEngine.Migrate(save.rogue);RoguePage("词域远征 · 选择你的冒险");var p=save.rogue;
-  rogueBody.Controls.Add(Lab("男主支援 · 女主迎战 · 穿越森林、石殿与熔火峡谷",12,Gold));
-  rogueBody.Controls.Add(Lab("金币 "+p.coins+"  ·  通关 "+p.clears+" 次  ·  正确作答 "+p.correct+" / "+p.answers,13,Gold));
-  if(p.run!=null&&(p.run.mode=="进阶训练"||p.run.mode=="四级训练"||p.run.mode=="六级挑战")){if(p.run.mode=="进阶训练")p.run.mode="四级训练";var imported=TrainingPool(p.run.mode);p.run.pool=imported;}
-  bool busy=p.ActiveRun!=null&&p.ActiveRun.state!="ended";
-  if(busy){var r=p.ActiveRun;var card=RogueCard("继续冒险 · "+r.mode,"已完成 "+r.depth+" / "+TowerEngine.FloorCount(r)+" 节点 · 生命 "+r.hp+" / "+r.maxHp+"。地图、题目、奖励和赋能均会自动保存。");RogueActions(card,RogueButton("继续本局",()=>{Persist();RenderRogue();},240),RogueButton("结束本局",()=>{if(GameMessage.Show(this,"结束当前远征？已获得的金币、词汇准备与学习记录保留。","结束远征",MessageBoxButtons.YesNo)==DialogResult.Yes){RogueEngine.Finish(p,false);SaveRogue();}},240));}
-  var entry=RogueCard("选择训练词库","基础训练保留原词库；四级训练和六级挑战使用导入的核心词汇。每局八层地图，学习进度跨局保存。\n无提示答对选择词义、根据词义选词两种题型，计为已掌握。相同单词共享学习记录。");
-  foreach(string mode in new[]{"基础训练","四级训练","六级挑战"}){string selected=mode;var pool=TrainingPool(mode);int practiced=pool.Count(w=>{RogueMemory m;return p.memory.TryGetValue(w.word,out m)&&(m.correct>0||m.wrong>0);});int mastered=pool.Count(w=>{RogueMemory m;return p.memory.TryGetValue(w.word,out m)&&(m.mask&3)==3;});entry.Controls.Add(Lab(mode+" · 已练习 "+practiced+" / "+pool.Count+" · 已掌握 "+mastered+" / "+pool.Count+"（"+(100.0*mastered/pool.Count).ToString("0.0")+"%）",12,Accent));var b=RogueButton(mode,()=>StartRogue(selected),210);b.Enabled=!busy;entry.Controls.Add(b);}
-  rogueBody.Controls.Add(RogueButton("卡牌图鉴 · 查看解锁",ShowCardCollection,280));RogueCard("玩法","点击亮起的地图节点向上推进；地图只显示路线与节点，悬停可查看用途。\n小怪获得金币与三选一卡牌；精英额外三选一赋能与稀有卡保底；火堆回血或攻击 +3；宝箱领取金币或稀有赋能；问号有五种随机事件。\n每词每日首次无提示答对 +3 金币。使用提示的战斗，战利品减半。金币可在地图商店、成长商店与主线系统商店使用。\n每回合 3 能量；开场 4 张手牌，之后每回合抽 2 张。先出牌再答题，怪物技能提前预告。\n答错的词自动收藏。根据词义选词与语境填空答题时不能播放答案发音。");RogueLayout();
+  TowerEngine.Migrate(save.rogue);var p=save.rogue;
+  if(p.run!=null&&(p.run.mode=="进阶训练"||p.run.mode=="四级训练"||p.run.mode=="六级挑战")){if(p.run.mode=="进阶训练")p.run.mode="四级训练";p.run.pool=TrainingPool(p.run.mode);}
+  RenderRogueLanding();
  }
  void RenderRogue(){
   var p=save.rogue;TowerEngine.Migrate(p);var r=p.ActiveRun;if(RefreshStoryExamples(r))Persist();if(r==null){ShowRogueHome();return;}if(r.state=="loot"){TowerEngine.Complete(p);Persist();RenderRogue();return;}if(r.state=="map"){ShowTowerMap(r);return;}if(r.state=="combat"||r.state=="feedback"||r.state=="boss-intro"){RenderFullBattle(r);return;}
@@ -42,6 +36,7 @@ public partial class Game {
   if(r.state=="chest"){RenderChestEncounter(r);return;}
   if(r.state=="event"){RenderJourneyEvent(r);return;}
   if(r.state=="rest"){RenderCampfire(r);return;}
+  if(r.state=="ended"){RenderRogueEnding(r);return;}
   RoguePage("词域远征 · "+r.mode);rogueBody.Controls.Add(Lab("生命 "+r.hp+" / "+r.maxHp+"  ·  攻击 "+r.attack+"  ·  护甲 "+r.armor+"  ·  金币 "+p.coins+"  ·  连击 "+r.combo,12,Gold));
   if(!String.IsNullOrEmpty(r.vocabularyChapter))rogueBody.Controls.Add(Lab("本节词汇已准备 "+PreparationEngine.Count(p,r.vocabularyChapter,r.pool)+" / "+r.pool.Count,11,Accent));
   bool battle=r.state=="combat"||r.state=="feedback"||r.state=="boss-intro";
@@ -60,14 +55,17 @@ public partial class Game {
   else if(r.state=="shop")RenderTowerShop(r);
   else if(r.state=="boss-intro"){
    var card=RogueCard("BOSS 遭遇 · 古界守门者","遗迹尽头，守门者苏醒。通过词汇作答发动攻击；胜利获得 40–50 金币。\n基础生命 "+TowerEngine.EnemyHealth(r,"boss")+"，答错基础伤害 18；护甲和赋能继续生效。");card.Controls.Add(RogueButton("挑战守门者",()=>{if(r.state!="boss-intro")return;TowerEngine.StartBattle(r,p,"boss");SaveRogue();},300));
-  }else if(r.state=="ended"){
-   var card=RogueCard(r.won?"远征完成 · 击败古界守门者":"远征结束 · 学习成果保留","已完成 "+r.depth+" / "+TowerEngine.FloorCount(r)+" 节点 · 作答 "+r.answered+" 题 · 答对 "+r.correct+" 题\n本局累计获得 "+r.earnedCoins+" 金币（含已消费部分）；当前余额 "+p.coins+"。\n金币、收藏、词汇准备保留。本局的攻击、护甲和赋能结束。");RogueActions(card,RogueButton("返回远征大厅",ShowRogueHome,250),RogueButton("主线系统商店",ShowSystemShop,250),RogueButton("复习错词",ShowWords,220));if(r.wrongWords.Count>0)RogueCard("仍需复习",String.Join(" · ",r.wrongWords));
   }
-  if(p.preparationActive&&r.state=="ended"){var result=rogueBody.Controls.OfType<RogueCard>().First();var enter=RogueButton("进入本节剧情",ShowStory,260);enter.Enabled=PreparationReady(current);if(!enter.Enabled)result.Controls.Add(Lab("本节词汇尚未准备完成。再次远征可继续已有进度。",11,Muted));RogueActions(result,enter,RogueButton("再来一局 · 保留词汇进度",StartPreparation,300),RogueButton("返回主线地图",ShowStoryMap,260));}
 
   AddRelicHud(r);RogueLayout();
  }
- void ShowTowerMap(RogueRun r){ClearPage();page="rogue";rogueArena=null;var map=new TowerMap{Dock=DockStyle.Fill,Art=TowerArt("study-map-desk"),IconAtlas=TowerArt("map-icons"),IconSources=towerMapIconRegions??(towerMapIconRegions=TowerMap.FindIconRegions(TowerArt("map-icons"))),Run=r,Font=GameTheme.Body(11),GoBack=save.rogue.preparationActive?(Action)ShowStoryMap:ShowRogueHome,Selected=id=>{RogueEngine.ChooseRoute(r,id,save.rogue);SaveRogue();}};content.Controls.Add(map);if(save.rogue.preparationActive&&PreparationReady(current)){var enter=new VNButton{Text="词汇准备完成 · 进入剧情",PixelStyle=true,Size=new Size(280,42),Font=GameTheme.Body(11)};map.Controls.Add(enter);enter.Click+=(s,e)=>ShowStory();Action place=()=>enter.Location=new Point(Math.Max(12,(map.Width-enter.Width)/2),12);map.Resize+=(s,e)=>place();place();}AddRelicHud(r,map);map.Focus();}
+ void EnterTowerNode(RogueRun run,string id){
+  if(menuLoading!=null&&!menuLoading.IsDisposed)return;
+  var node=TowerEngine.Available(run).FirstOrDefault(n=>n.id==id);if(node==null)return;
+  Action enter=()=>{RogueEngine.ChooseRoute(run,id,save.rogue);SaveRogue();};
+  if(node.kind=="combat"||node.kind=="elite"||node.kind=="boss")NavigateMenu(enter,"战斗",false);else enter();
+ }
+ void ShowTowerMap(RogueRun r){ClearPage();page="rogue";rogueArena=null;var map=new TowerMap{Dock=DockStyle.Fill,Art=TowerArt("study-map-desk"),IconAtlas=TowerArt("map-icons"),IconSources=towerMapIconRegions??(towerMapIconRegions=TowerMap.FindIconRegions(TowerArt("map-icons"))),Run=r,Font=GameTheme.Body(11),GoBack=save.rogue.preparationActive?(Action)ShowStoryMap:ShowRogueHome,Selected=id=>EnterTowerNode(r,id)};content.Controls.Add(map);if(save.rogue.preparationActive&&PreparationReady(current)){var enter=new VNButton{Text="词汇准备完成 · 进入剧情",PixelStyle=true,Size=new Size(280,42),Font=GameTheme.Body(11)};map.Controls.Add(enter);enter.Click+=(s,e)=>ShowStory();Action place=()=>enter.Location=new Point(Math.Max(12,(map.Width-enter.Width)/2),12);map.Resize+=(s,e)=>place();place();}AddRelicHud(r,map);map.Focus();}
  void RenderTowerFeedback(RogueRun r){var card=RogueCard("本回合反馈",RogueFeedbackText(r));var heading=card.Controls[0];card.Controls.Remove(heading);var row=new FlowLayoutPanel{AutoSize=true,WrapContents=false};heading.Margin=new Padding(6,13,12,6);row.Controls.Add(heading);row.Controls.Add(RogueFeedbackIcon(r.question.entry,"speaker"));row.Controls.Add(RogueFeedbackIcon(r.question.entry,"star"));card.Controls.Add(row);card.Controls.SetChildIndex(row,0);card.Controls.Add(RogueButton(r.hp<=0?"查看结果":r.enemyHp<=0?"领取战利品":"下一回合",()=>{RogueEngine.Continue(save.rogue);SaveRogue();},280));}
  void RenderTowerEvent(RogueRun r){
   var card=RogueCard(TowerEngine.EventTitle(r.eventKind),TowerEngine.EventDescription(r.eventKind));string[] yes={"献祭 · 12 生命换随机赋能","购买治疗 · 15 金币，恢复 35 生命","购买锋刃符石 · 45 金币","解救木灵 · 开始战斗","接受考验 · 开始战斗"},no={"拾取金币 · +8 金币","简单包扎 · 恢复 10 生命","告别商人","留下祝福 · +6 金币","带走回声 · 提示 +1"};var risk=RogueButton(yes[r.eventKind],()=>{if(TowerEngine.Event(save.rogue,true))SaveRogue();},400,64);risk.Enabled=r.eventKind==0?r.hp>12:r.eventKind==1?save.rogue.coins>=15&&r.hp<r.maxHp:r.eventKind==2?save.rogue.coins>=45:true;RogueActions(card,risk,RogueButton(no[r.eventKind],()=>{TowerEngine.Event(save.rogue,false);SaveRogue();},400,64));

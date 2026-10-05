@@ -36,7 +36,8 @@ public partial class Game {
   var chapter=chapters.FirstOrDefault(c=>c.id==save.lastChapter)??chapters.FirstOrDefault();
   if(chapter!=null){var entries=PreparationWords(chapter);var pending=entries.Where(e=>!save.words.Any(w=>String.Equals(w.text,e.word,StringComparison.OrdinalIgnoreCase)&&w.box>=3)).ToList();if(pending.Count==0)pending=entries;if(pending.Count>0){var entry=pending[loadingWordIndex++%pending.Count];word=entry.word;meaning=entry.meaning;}}
   var screen=new MenuLoadingScreen{Destination=destination,Word=word,Meaning=meaning};menuLoading=screen;Controls.Add(screen);screen.BringToFront();
-  screen.Prepare=action;Action release=()=>{if(menuLoading==screen)menuLoading=null;Controls.Remove(screen);screen.Dispose();if(!IsDisposed){content.Focus();UpdateRogueAudio();}};
+  screen.Prepare=()=>{action();if((destination=="背单词"||destination=="战斗"||destination=="继续本局")&&content.Width>0&&content.Height>0){using(var firstFrame=new Bitmap(content.Width,content.Height))content.DrawToBitmap(firstFrame,new Rectangle(Point.Empty,firstFrame.Size));}};
+  Action release=()=>{if(menuLoading==screen)menuLoading=null;Controls.Remove(screen);screen.Dispose();if(!IsDisposed){content.Refresh();content.Focus();UpdateRogueAudio();}};
   screen.Completed=release;screen.Failed=ex=>{release();GameMessage.Show(this,"页面加载失败："+ex.Message,"加载提示");};screen.Start();
  }
 }
