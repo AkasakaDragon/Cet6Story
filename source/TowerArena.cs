@@ -1,16 +1,16 @@
-﻿using System;
+using System;
 using System.Diagnostics;
 using System.Drawing;
 using System.Drawing.Drawing2D;
 using System.Drawing.Imaging;
 using System.Windows.Forms;
 
-public class RogueArena:Control {
+public partial class RogueArena:Control {
  public string BannerTitle="词域远征",BannerSubtitle="答题 · 战斗 · 随机赋能";public bool ShowDrone=true;public Image Art,Hero,EnemyArt,Support;public Image[] PistolFrames,ReactionFrames,Effects,SupportFrames;public RogueRun Run;public string Mode="home";public bool Integrated;public int OverlayHeight;public bool AnimateHit;public Action<bool> HitSound;public Action<string> MonsterSound;public Action AnimationCompleted;Timer pulse;int frame;Bitmap backdrop;Image backdropArt;readonly Stopwatch animationTime=new Stopwatch();Bitmap enemyNormal,enemyFlash;Image gradedEnemy;int gradedTheme=-1;
  public RogueArena(){SetStyle(ControlStyles.UserPaint|ControlStyles.AllPaintingInWmPaint|ControlStyles.OptimizedDoubleBuffer,true);ResizeRedraw=true;pulse=new Timer{Interval=16};pulse.Tick+=(s,e)=>{bool combatAnimation=AnimateHit&&Mode=="feedback"&&Run!=null;bool rewardAnimation=Mode=="loot"||Mode=="reward";if((!combatAnimation&&!rewardAnimation)||frame>=(combatAnimation?52:28)){pulse.Stop();return;}int next=Math.Min(combatAnimation?52:28,(int)(animationTime.Elapsed.TotalMilliseconds/35));if(next<=frame)return;while(frame<next){frame++;if(combatAnimation)EmitCombatSounds();}if(combatAnimation){if(frame>=52){pulse.Stop();if(AnimationCompleted!=null)AnimationCompleted();}}if(Integrated)Invalidate(new Rectangle(0,0,Width,Math.Max(1,Height-OverlayHeight)),false);else Invalidate();};animationTime.Start();pulse.Start();}
  public void RestartAnimation(){frame=0;animationTime.Restart();pulse.Stop();if(AnimateHit&&Mode=="feedback"||Mode=="loot"||Mode=="reward")pulse.Start();Invalidate();}
  protected override void OnPaintBackground(PaintEventArgs e){}
- protected override void Dispose(bool d){if(d){pulse.Dispose();if(backdrop!=null)backdrop.Dispose();ClearEnemyCache();}base.Dispose(d);}
+ protected override void Dispose(bool d){if(d){pulse.Dispose();statusTips.Dispose();if(backdrop!=null)backdrop.Dispose();ClearEnemyCache();}base.Dispose(d);}
  protected override void OnPaint(PaintEventArgs e){
   var g=e.Graphics;g.InterpolationMode=InterpolationMode.NearestNeighbor;g.PixelOffsetMode=PixelOffsetMode.Half;g.SmoothingMode=SmoothingMode.None;
   if(backdrop==null||backdrop.Width!=Width||backdrop.Height!=Height||backdropArt!=Art){if(backdrop!=null)backdrop.Dispose();backdrop=new Bitmap(Math.Max(1,Width),Math.Max(1,Height));using(var bg=Graphics.FromImage(backdrop)){bg.Clear(Color.FromArgb(18,34,37));bg.InterpolationMode=InterpolationMode.NearestNeighbor;bg.PixelOffsetMode=PixelOffsetMode.Half;if(Art!=null){float scale=Math.Max((float)Width/Art.Width,(float)Height/Art.Height);float w=Art.Width*scale,h=Art.Height*scale;bg.DrawImage(Art,(Width-w)/2,(Height-h)*.62f,w,h);}using(var b=new SolidBrush(Color.FromArgb(35,5,14,18)))bg.FillRectangle(b,0,0,Width,Height);}backdropArt=Art;}
@@ -38,10 +38,10 @@ public class RogueArena:Control {
    int barWidth=Math.Max(170,Math.Min(270,Width/5));
    int heroBarY=battle?Math.Max(100,(int)(baseY-Math.Max(heroHeight,supportHeight))-76):10;
    int enemyBarY=Math.Max(100,enemyRect.Top-76);
-   DrawBar(g,battle?(int)heroX-barWidth/2:14,heroBarY,barWidth,Run.hp,Run.maxHp,Color.FromArgb(110,173,145),"双星 · 生命");
+   DrawBar(g,battle?(int)heroX-barWidth/2:14,heroBarY,barWidth,Run.hp,Run.maxHp,Color.FromArgb(110,173,145),"双星 · 生命",false);
    if(battle){
-    DrawBar(g,(int)(Width*.77f)-barWidth/2,enemyBarY,barWidth,Run.enemyHp,Run.enemyMax,Color.FromArgb(189,132,103),TowerEngine.EnemyName(Run));
-    if(Run.cardBattle!=null)DrawIntent(g,(int)(Width*.77f),enemyBarY);
+    DrawBar(g,(int)(Width*.77f)-barWidth/2,enemyBarY,barWidth,Run.enemyHp,Run.enemyMax,Color.FromArgb(189,132,103),TowerEngine.EnemyName(Run),true);
+    if(Run.cardBattle!=null)DrawIntent(g,(int)(Width*.77f),enemyBarY-36);
    }
   }
   if(Run==null){using(var f=GameTheme.Body(20,FontStyle.Bold))GameTheme.DrawText(g,BannerTitle,f,new Rectangle(Width/3,45,Width*2/3-20,50),Color.FromArgb(255,232,184));GameTheme.DrawText(g,BannerSubtitle,Font,new Rectangle(Width/3,100,Width*2/3-20,70),Color.FromArgb(223,217,178),TextFormatFlags.WordBreak);}
@@ -103,18 +103,18 @@ public class RogueArena:Control {
    g.Restore(state);
   }
  }
- void DrawBar(Graphics g,int x,int y,int width,int value,int max,Color color,string name){
+ void DrawBar(Graphics g,int x,int y,int width,int value,int max,Color color,string name,bool enemy){
   x=Math.Max(10,Math.Min(Width-width-10,x));var state=g.Save();g.SmoothingMode=SmoothingMode.AntiAlias;
-  var panel=new Rectangle(x,y,width,62);
+  DrawStatuses(g,x,y-34,width,enemy);var panel=new Rectangle(x,y,width,62);
   CyberChrome.Panel(g,panel,CyberChrome.Neon);
   using(var font=GameTheme.Body(10,FontStyle.Bold))GameTheme.DrawText(g,name,font,new Rectangle(x+12,y+7,width-24,21),Color.FromArgb(228,232,221),TextFormatFlags.HorizontalCenter|TextFormatFlags.VerticalCenter|TextFormatFlags.NoPadding|TextFormatFlags.EndEllipsis);
   var track=new Rectangle(x+12,y+33,width-24,18);
   using(var path=ExpeditionVisuals.Rounded(track,5)){
    using(var brush=new SolidBrush(Color.FromArgb(38,49,52)))g.FillPath(brush,path);
    var clip=g.Save();g.SetClip(path,CombineMode.Intersect);
-   int fill=(int)(track.Width*Math.Min(Math.Max(0,value),(double)Math.Max(1,max))/Math.Max(1,max));
+   int shield=Run!=null&&Run.cardBattle!=null?(enemy?Run.cardBattle.enemyShield:Run.cardBattle.shield):0;int capacity=Math.Max(1,Math.Max(max,value+shield));int fill=(int)(track.Width*Math.Min(Math.Max(0,value),(double)capacity)/capacity);
    if(fill>0){var progress=new Rectangle(track.X,track.Y,fill,track.Height);using(var brush=new LinearGradientBrush(track,Color.FromArgb(Math.Min(255,color.R+25),Math.Min(255,color.G+25),Math.Min(255,color.B+25)),color,90))g.FillRectangle(brush,progress);using(var shine=new Pen(Color.FromArgb(70,255,255,255)))g.DrawLine(shine,track.Left,track.Top+1,track.Left+fill,track.Top+1);}
-   g.Restore(clip);using(var edge=new Pen(Color.FromArgb(80,166,180,169)))g.DrawPath(edge,path);
+   DrawStatusBars(g,track,value,max,enemy);g.Restore(clip);using(var edge=new Pen(Color.FromArgb(80,166,180,169)))g.DrawPath(edge,path);
   }
   string health=Math.Max(0,value)+" / "+Math.Max(1,max);
   using(var font=GameTheme.Body(9,FontStyle.Bold)){var flags=TextFormatFlags.HorizontalCenter|TextFormatFlags.VerticalCenter|TextFormatFlags.NoPadding;var shadow=track;shadow.Offset(0,1);GameTheme.DrawText(g,health,font,shadow,Color.FromArgb(15,25,27),flags);GameTheme.DrawText(g,health,font,track,Color.FromArgb(246,246,232),flags);}

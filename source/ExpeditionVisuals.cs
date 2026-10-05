@@ -1,4 +1,4 @@
-﻿using System;using System.Drawing;using System.Drawing.Drawing2D;using System.Windows.Forms;using System.IO;
+using System;using System.Drawing;using System.Drawing.Drawing2D;using System.Windows.Forms;using System.IO;
 
 public static class ExpeditionVisuals {
  public static GraphicsPath Rounded(RectangleF r,float radius){var p=new GraphicsPath();float d=radius*2;p.AddArc(r.X,r.Y,d,d,180,90);p.AddArc(r.Right-d,r.Y,d,d,270,90);p.AddArc(r.Right-d,r.Bottom-d,d,d,0,90);p.AddArc(r.X,r.Bottom-d,d,d,90,90);p.CloseFigure();return p;}
@@ -6,8 +6,9 @@ public static class ExpeditionVisuals {
  public static void Button(Graphics g,Rectangle r,string text,Font font,bool hover,bool enabled){CyberChrome.Button(g,r,text,font,false,hover,enabled);}
 }
 public class ExpeditionSurface:FlowLayoutPanel {
- public Image Art;Bitmap backdrop;Size backdropSize;
+ public bool FullScrollRedraw;public Image Art;Bitmap backdrop;Size backdropSize;
  public ExpeditionSurface(){DoubleBuffered=true;ResizeRedraw=true;SetStyle(ControlStyles.SupportsTransparentBackColor,true);BackColor=Color.Transparent;}
+ protected override void OnScroll(ScrollEventArgs e){base.OnScroll(e);if(FullScrollRedraw){Invalidate(true);Update();}}
  protected override void OnPaintBackground(PaintEventArgs e){if(backdrop==null||backdropSize!=ClientSize){if(backdrop!=null)backdrop.Dispose();backdrop=new Bitmap(Math.Max(1,Width),Math.Max(1,Height));using(var g=Graphics.FromImage(backdrop))ExpeditionVisuals.Background(g,Art,ClientRectangle,55);backdropSize=ClientSize;}e.Graphics.DrawImageUnscaled(backdrop,0,0);}
  protected override void Dispose(bool disposing){if(disposing&&backdrop!=null)backdrop.Dispose();base.Dispose(disposing);}
 }

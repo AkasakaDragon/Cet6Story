@@ -17,6 +17,11 @@ public static class GameTheme {
  static FontFamily LoadPixelFont(){string path=Path.Combine(AppDomain.CurrentDomain.BaseDirectory,"assets","fonts","fusion-pixel-12px-proportional-zh_hans.ttf");if(!File.Exists(path))return null;try{AddFontResourceEx(path,0x10,IntPtr.Zero);PixelFonts.AddFontFile(path);return PixelFonts.Families[0];}catch{return null;}}
  public static Font Body(float size,FontStyle style=FontStyle.Regular,GraphicsUnit unit=GraphicsUnit.Point){return PixelFamily==null?new Font(BodyName,size,style,unit):new Font(PixelFamily,size,style,unit);}
  public static Font Latin(float size,FontStyle style=FontStyle.Regular,GraphicsUnit unit=GraphicsUnit.Point){return Body(size,style,unit);}
+ public static void DrawPixelString(Graphics g,string text,Font font,Brush ink,RectangleF bounds,StringFormat format){
+  // GDI+ honours the expedition panels' scaling; GDI TextRenderer does not.
+  var hint=g.TextRenderingHint;g.TextRenderingHint=TextRenderingHint.SingleBitPerPixelGridFit;
+  try{var shadow=bounds;shadow.Offset(1,2);using(var dark=new SolidBrush(Color.FromArgb(12,12,18)))g.DrawString(text,font,dark,shadow,format);g.DrawString(text,font,ink,bounds,format);}finally{g.TextRenderingHint=hint;}
+ }
  public static void DrawText(IDeviceContext g,string text,Font font,Rectangle bounds,Color ink,TextFormatFlags flags=TextFormatFlags.Default){flags|=TextFormatFlags.NoPrefix;var shadow=bounds;shadow.Offset(1,2);TextRenderer.DrawText(g,text,font,shadow,Color.FromArgb(12,12,18),flags);TextRenderer.DrawText(g,text,font,bounds,ink,flags);}
  public static Point[] Outline(Rectangle r,int cut){return new[]{new Point(r.Left+cut,r.Top),new Point(r.Right-cut,r.Top),new Point(r.Right-cut,r.Top+cut),new Point(r.Right,r.Top+cut),new Point(r.Right,r.Bottom-cut),new Point(r.Right-cut,r.Bottom-cut),new Point(r.Right-cut,r.Bottom),new Point(r.Left+cut,r.Bottom),new Point(r.Left+cut,r.Bottom-cut),new Point(r.Left,r.Bottom-cut),new Point(r.Left,r.Top+cut),new Point(r.Left+cut,r.Top+cut)};}
  public static void Frame(Graphics g,Rectangle r,Color fill,Color edge,bool corners=true){CyberChrome.Panel(g,r,edge);}

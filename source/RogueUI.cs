@@ -56,6 +56,7 @@ public partial class Game {
    int blocked=r.cardBattle.lastBlocked;var match=System.Text.RegularExpressions.Regex.Match(r.cardBattle.log??"",@"护盾抵挡\s+(\d+)");if(match.Success)int.TryParse(match.Groups[1].Value,out blocked);
    lines[0]+=" · 护盾抵挡 "+blocked;
   }
+  if(r.cardBattle!=null&&r.cardBattle.burnDamage>0)lines.Insert(Math.Min(1,lines.Count),"燃烧结算 · 造成 "+r.cardBattle.burnDamage+" 伤害");
   if(!String.IsNullOrWhiteSpace(zh))lines.Insert(Math.Min(3,lines.Count),"例句译文："+zh);
   return String.Join("\n",lines);
  }
