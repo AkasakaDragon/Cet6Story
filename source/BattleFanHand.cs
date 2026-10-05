@@ -2,7 +2,7 @@ using System;using System.Diagnostics;using System.Drawing;using System.Drawing.
 // One animated surface keeps card geometry, overlap and hit testing in sync.
 public sealed class BattleFanHand:Control {
  readonly List<Bitmap> cards=new List<Bitmap>();readonly List<bool> owned=new List<bool>();readonly List<bool> playable=new List<bool>();readonly List<string> descriptions=new List<string>();
- readonly Dictionary<string,Bitmap> renderCards=new Dictionary<string,Bitmap>();Bitmap scene;int renderHeight;Control sceneParent;Point sceneLocation;
+ readonly Dictionary<string,Bitmap> renderCards=new Dictionary<string,Bitmap>();Bitmap scene;int renderHeight;Control sceneParent;Point sceneLocation;int sceneRevision=-1;
  readonly Stopwatch commitTime=new Stopwatch();readonly Timer animation=new Timer{Interval=16};float expansion,targetExpansion;int dragged=-1,commitFrame;bool committing,pressed;Point pressPoint,pressOrigin,pointer;PointF dragCenter;
  public int CardHeight=250;public int HoveredIndex{get;private set;}public int CardCount{get{return cards.Count;}}
  public Func<int,int,int,Bitmap> CachedCard;public Action<int> PlayCard;public Func<int,bool> TryPlayCard;public Action CardPlayed,HoverSound,PlaySound;
@@ -18,8 +18,8 @@ public sealed class BattleFanHand:Control {
   // excluding all child UI. Transparent WinForms repaint otherwise redraws it
   // for every hover, mouse move and animation tick.
   Size sceneSize=Parent==null?Size:Parent.ClientSize;
-  if(scene==null||scene.Size!=sceneSize||sceneParent!=Parent||sceneLocation!=Location){if(scene!=null)scene.Dispose();scene=new Bitmap(Math.Max(1,sceneSize.Width),Math.Max(1,sceneSize.Height),PixelFormat.Format32bppPArgb);sceneParent=Parent;sceneLocation=Location;using(var g=Graphics.FromImage(scene)){if(Parent!=null){using(var args=new PaintEventArgs(g,new Rectangle(Point.Empty,sceneSize))){InvokePaintBackground(Parent,args);InvokePaint(Parent,args);}}else g.Clear(GameTheme.Navy);}}
-  e.Graphics.DrawImageUnscaled(scene,Parent==null?0:-Left,Parent==null?0:-Top);
+  var arena=Parent as RogueArena;int revision=arena==null?0:arena.SceneRevision;if(scene==null||scene.Size!=sceneSize||sceneParent!=Parent||sceneLocation!=Location){if(scene!=null)scene.Dispose();scene=new Bitmap(Math.Max(1,sceneSize.Width),Math.Max(1,sceneSize.Height),PixelFormat.Format32bppPArgb);sceneParent=Parent;sceneLocation=Location;using(var g=Graphics.FromImage(scene)){if(Parent!=null){using(var args=new PaintEventArgs(g,new Rectangle(Point.Empty,sceneSize))){InvokePaintBackground(Parent,args);InvokePaint(Parent,args);}}else g.Clear(GameTheme.Navy);}}
+  if(sceneRevision!=revision&&Parent!=null){using(var g=Graphics.FromImage(scene))using(var args=new PaintEventArgs(g,new Rectangle(Point.Empty,sceneSize))){InvokePaintBackground(Parent,args);InvokePaint(Parent,args);}sceneRevision=revision;}e.Graphics.DrawImageUnscaled(scene,Parent==null?0:-Left,Parent==null?0:-Top);
  }
  void Expand(bool value){targetExpansion=value?1:0;animation.Start();}
  void Animate(){expansion+=(targetExpansion-expansion)*.24f;if(Math.Abs(expansion-targetExpansion)<.005f)expansion=targetExpansion;if(committing){int next=Math.Min(14,(int)(commitTime.Elapsed.TotalMilliseconds/16));dragCenter.Y-=9*(next-commitFrame);commitFrame=next;KeepDraggedCardVisible();if(commitFrame>=14){animation.Stop();committing=false;dragged=-1;HoveredIndex=-1;Invalidate();if(CardPlayed!=null)CardPlayed();return;}}Invalidate();if(!committing&&!pressed&&expansion==targetExpansion)animation.Stop();}

@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.IO;
 using System.Text;
 using System.Collections.Generic;
@@ -19,6 +19,7 @@ public sealed class RogueAudioMixer:IDisposable {
  [DllImport("winmm.dll")] static extern uint waveOutClose(IntPtr handle);
  class Buffer{public IntPtr data,header;public bool prepared,queued;public readonly short[] output=new short[Samples];}
  class Voice{public short[] clip;public int position;}
+ readonly short[][] castingEffects={CastingAudio.Build(0),CastingAudio.Build(1),CastingAudio.Build(2)};
  readonly Dictionary<string,short[]> monsterEffects=new Dictionary<string,short[]>();IntPtr device;readonly List<Buffer> buffers=new List<Buffer>();readonly List<Voice> voices=new List<Voice>();readonly short[] music,menuMusic,attack,hurt,purchaseSuccess,purchaseFailed,coinGain,cardHover,cardPlay,menuClick;int position;int musicTrack;double gain;volatile bool active,disposed;const int Samples=2048;readonly object audioGate=new object();Thread worker;volatile string audioError;long submittedBuffers;
  public volatile int MasterVolume=100,MusicVolume=70,EffectsVolume=85;public volatile bool Ducked;public bool Active{get{return active;}}public int ActiveEffects{get{lock(audioGate)return voices.Count;}}public string Error{get{return audioError;}}public long SubmittedBuffers{get{return Interlocked.Read(ref submittedBuffers);}}
  public RogueAudioMixer(string folder){
@@ -43,6 +44,7 @@ public sealed class RogueAudioMixer:IDisposable {
  public void Effect(bool damageToPlayer){lock(audioGate){if(!disposed&&active&&EffectsVolume>0&&MasterVolume>0){if(voices.Count>=8)voices.RemoveAt(0);voices.Add(new Voice{clip=damageToPlayer?hurt:attack});}}}
 
  public void MonsterEffect(string key){lock(audioGate){short[] clip;if(!disposed&&active&&EffectsVolume>0&&MasterVolume>0&&monsterEffects.TryGetValue(key,out clip)){if(voices.Count>=8)voices.RemoveAt(0);voices.Add(new Voice{clip=clip});}}}
+ public void CastingEffect(int style){lock(audioGate){if(!disposed&&active&&EffectsVolume>0&&MasterVolume>0){if(voices.Count>=8)voices.RemoveAt(0);voices.Add(new Voice{clip=castingEffects[Math.Max(0,Math.Min(2,style))]});}}}
  public void HandEffect(bool play){lock(audioGate){if(!disposed&&active&&EffectsVolume>0&&MasterVolume>0){if(voices.Count>=8)voices.RemoveAt(0);voices.Add(new Voice{clip=play?cardPlay:cardHover});}}}
  public void MenuClickEffect(){lock(audioGate){if(!disposed&&active&&EffectsVolume>0&&MasterVolume>0){if(voices.Count>=8)voices.RemoveAt(0);voices.Add(new Voice{clip=menuClick});}}}
  public void CoinEffect(){lock(audioGate){if(!disposed&&active&&EffectsVolume>0&&MasterVolume>0){if(voices.Count>=8)voices.RemoveAt(0);voices.Add(new Voice{clip=coinGain});}}}
@@ -65,6 +67,7 @@ public partial class Game {
  void PlayShopPurchase(bool success){if(page!="system-shop")return;UpdateRogueAudio();if(rogueAudio!=null)rogueAudio.ShopEffect(success);}
  void PlayRogueHit(bool hurt){if(!RogueAudioPage())return;UpdateRogueAudio();if(rogueAudio!=null)rogueAudio.Effect(hurt);}
  void ObserveCoinGain(){int currentCoins=save.rogue.coins;bool gained=observedCoins>=0&&currentCoins>observedCoins;observedCoins=currentCoins;if(gained){UpdateRogueAudio();if(rogueAudio!=null)rogueAudio.CoinEffect();}}
+ void PlayCastingSound(int style){if(!RogueAudioPage())return;UpdateRogueAudio();if(rogueAudio!=null)rogueAudio.CastingEffect(style);}
  void PlayHandSound(bool play){if(!RogueAudioPage())return;UpdateRogueAudio();if(rogueAudio!=null)rogueAudio.HandEffect(play);}
  void PlayMonsterSound(string key){if(!RogueAudioPage())return;UpdateRogueAudio();if(rogueAudio!=null)rogueAudio.MonsterEffect(key);}
  void CloseRogueAudio(){if(rogueAudioClock!=null)rogueAudioClock.Dispose();if(rogueAudio!=null){rogueAudio.Dispose();rogueAudio=null;}}

@@ -1,0 +1,9 @@
+using System;
+using System.Drawing;
+using System.Drawing.Imaging;
+
+public static class CastingSprites {
+ // Keep every alpha component, and use the same union bounds for all eight
+ // poses. Fingers, coat tails and boots must survive atlas extraction.
+ public static Image[] Extract(Image atlas){int w=atlas.Width/4,h=atlas.Height/2;var cells=new Bitmap[8];Rectangle bounds=Rectangle.Empty;var cuts=new int[4];using(var scan=new Bitmap(atlas)){for(int col=0;col<4;col++){int best=h,distance=int.MaxValue;for(int y=Math.Max(1,h-80);y<Math.Min(atlas.Height-1,h+80);y++){bool empty=true;for(int x=col*w;x<(col+1)*w;x++)if(scan.GetPixel(x,y).A>=128){empty=false;break;}if(empty&&Math.Abs(y-h)<distance){distance=Math.Abs(y-h);best=y;}}cuts[col]=best;}}for(int i=0;i<8;i++){int split=cuts[i%4],sy=i<4?0:split,sh=i<4?split:atlas.Height-split;var cell=new Bitmap(w,h+80,PixelFormat.Format32bppArgb);using(var g=Graphics.FromImage(cell))g.DrawImage(atlas,new Rectangle(0,h+80-sh,w,sh),new Rectangle(i%4*w,sy,w,sh),GraphicsUnit.Pixel);cells[i]=cell;int l=w,t=cell.Height,r=-1,b=-1;for(int y=0;y<cell.Height;y++)for(int x=0;x<w;x++)if(cell.GetPixel(x,y).A>32){l=Math.Min(l,x);t=Math.Min(t,y);r=Math.Max(r,x);b=Math.Max(b,y);}if(r>=l){var box=Rectangle.FromLTRB(Math.Max(0,l-2),Math.Max(0,t-2),Math.Min(w,r+3),Math.Min(cell.Height,b+3));bounds=bounds.IsEmpty?box:Rectangle.Union(bounds,box);}}if(bounds.IsEmpty)bounds=new Rectangle(0,0,w,h);var result=new Image[8];for(int i=0;i<8;i++){int bottom=-1;for(int y=0;y<cells[i].Height;y++)for(int x=0;x<w;x++)if(cells[i].GetPixel(x,y).A>128)bottom=y;var aligned=new Bitmap(bounds.Width,bounds.Height,PixelFormat.Format32bppArgb);using(var g=Graphics.FromImage(aligned))g.DrawImageUnscaled(cells[i],-bounds.Left,bounds.Height-3-bottom);result[i]=aligned;cells[i].Dispose();}return result;}
+}

@@ -10,7 +10,7 @@ public partial class RogueArena:Control {
  public RogueArena(){SetStyle(ControlStyles.UserPaint|ControlStyles.AllPaintingInWmPaint|ControlStyles.OptimizedDoubleBuffer,true);ResizeRedraw=true;pulse=new Timer{Interval=16};pulse.Tick+=(s,e)=>{bool combatAnimation=AnimateHit&&Mode=="feedback"&&Run!=null;bool rewardAnimation=Mode=="loot"||Mode=="reward";if((!combatAnimation&&!rewardAnimation)||frame>=(combatAnimation?52:28)){pulse.Stop();return;}int next=Math.Min(combatAnimation?52:28,(int)(animationTime.Elapsed.TotalMilliseconds/35));if(next<=frame)return;while(frame<next){frame++;if(combatAnimation)EmitCombatSounds();}if(combatAnimation){if(frame>=52){pulse.Stop();if(AnimationCompleted!=null)AnimationCompleted();}}if(Integrated)Invalidate(new Rectangle(0,0,Width,Math.Max(1,Height-OverlayHeight)),false);else Invalidate();};animationTime.Start();pulse.Start();}
  public void RestartAnimation(){frame=0;animationTime.Restart();pulse.Stop();if(AnimateHit&&Mode=="feedback"||Mode=="loot"||Mode=="reward")pulse.Start();Invalidate();}
  protected override void OnPaintBackground(PaintEventArgs e){}
- protected override void Dispose(bool d){if(d){pulse.Dispose();statusTips.Dispose();if(backdrop!=null)backdrop.Dispose();ClearEnemyCache();}base.Dispose(d);}
+ protected override void Dispose(bool d){if(d){pulse.Dispose();statusTips.Dispose();cardEffectTimer.Dispose();if(backdrop!=null)backdrop.Dispose();ClearEnemyCache();}base.Dispose(d);}
  protected override void OnPaint(PaintEventArgs e){
   var g=e.Graphics;g.InterpolationMode=InterpolationMode.NearestNeighbor;g.PixelOffsetMode=PixelOffsetMode.Half;g.SmoothingMode=SmoothingMode.None;
   if(backdrop==null||backdrop.Width!=Width||backdrop.Height!=Height||backdropArt!=Art){if(backdrop!=null)backdrop.Dispose();backdrop=new Bitmap(Math.Max(1,Width),Math.Max(1,Height));using(var bg=Graphics.FromImage(backdrop)){bg.Clear(Color.FromArgb(18,34,37));bg.InterpolationMode=InterpolationMode.NearestNeighbor;bg.PixelOffsetMode=PixelOffsetMode.Half;if(Art!=null){float scale=Math.Max((float)Width/Art.Width,(float)Height/Art.Height);float w=Art.Width*scale,h=Art.Height*scale;bg.DrawImage(Art,(Width-w)/2,(Height-h)*.62f,w,h);}using(var b=new SolidBrush(Color.FromArgb(35,5,14,18)))bg.FillRectangle(b,0,0,Width,Height);}backdropArt=Art;}
@@ -19,7 +19,7 @@ public partial class RogueArena:Control {
   float heroX=Width*.22f,supportX=Width*.13f,supportHeight=heroHeight*1.05f;
   if(battle&&Support!=null){
    // Reserve room for the widest attack/support pose, so casting never hides either actor.
-   float heroWidth=Math.Max(MaxSpriteWidth(PistolFrames,heroHeight,PistolFrames==null?Hero:null),MaxSpriteWidth(ReactionFrames,heroHeight,null)),supportWidth=MaxSpriteWidth(SupportFrames,supportHeight,Support);
+   float heroWidth=Math.Max(MaxSpriteWidth(PistolFrames,heroHeight,PistolFrames==null?Hero:null),MaxSpriteWidth(ReactionFrames,heroHeight,null)),supportWidth=Math.Max(MaxSpriteWidth(SupportFrames,supportHeight,Support),CastingWidth(supportHeight));
    float gap=Math.Max(12,heroHeight*.06f),available=Width*.43f;
    float fit=Math.Min(1,available/(heroWidth+supportWidth+gap));heroHeight*=fit;supportHeight*=fit;heroWidth*=fit;supportWidth*=fit;
    float left=Math.Max(12,Width*.23f-(heroWidth+supportWidth+gap)/2);
@@ -29,11 +29,11 @@ public partial class RogueArena:Control {
   float lunge=!animated&&hit&&Run.lastDamage>0&&frame<14?(float)Math.Sin(frame/14.0*Math.PI)*24:0;
   var heroRect=SpriteRect(Hero,heroX+lunge,baseY,heroHeight);var enemyRect=SpriteRect(EnemyArt,Width*.77f+(hit&&Run.lastDamage>0&&frame>=12&&frame<22?shake*2:0),baseY,enemyHeight);
   if(battle){DrawGroundShadow(g,heroX,baseY,heroHeight*.36f);DrawGroundShadow(g,Width*.77f,baseY,enemyHeight*.43f);if(Support!=null)DrawGroundShadow(g,supportX,baseY,supportHeight*.30f);}
-  if(battle&&Support!=null){var supportRect=SpriteRect(Support,supportX,baseY,supportHeight);DrawSprite(g,Support,supportRect,false);if(Run.cardBattle!=null&&Run.cardBattle.lastCard!=null){using(var pen=new Pen(Color.FromArgb(170,95,218,244),3)){g.DrawLine(pen,supportRect.Right-10,supportRect.Top+supportRect.Height/3,heroRect.Left+heroRect.Width/2,heroRect.Top+heroRect.Height/2);g.DrawEllipse(pen,heroRect.Left-8,heroRect.Top+heroRect.Height/3,heroRect.Width+16,heroRect.Height*2/3);}}}if(animated&&ShowDrone){int pose=0;if(hit&&Run.lastDamage>0)pose=frame<5?0:frame<9?1:frame<12?2:frame<15?3:frame<21?5:6;Image character=PistolFrames[pose];if(hit&&Run.lastReceived>0&&frame>=36&&frame<45&&ReactionFrames!=null)character=ReactionFrames[Run.armor>0||Run.guardUsed?7:6];heroRect=SpriteRect(character,heroX+(hit&&Run.lastReceived>0&&frame>=36&&frame<42?shake:0),baseY,heroHeight);DrawSprite(g,character,heroRect,hit&&Run.lastReceived>0&&frame>=36&&frame<41);}
+  if(battle&&Support!=null){Image supportPose=CastingPose(Support);var supportRect=SpriteRect(supportPose,supportX+CardStep(),baseY,supportHeight);DrawSprite(g,supportPose,supportRect,false);}if(animated&&ShowDrone){int pose=0;if(hit&&Run.lastDamage>0)pose=frame<5?0:frame<9?1:frame<12?2:frame<15?3:frame<21?5:6;Image character=PistolFrames[pose];if(hit&&Run.lastReceived>0&&frame>=36&&frame<45&&ReactionFrames!=null)character=ReactionFrames[Run.armor>0||Run.guardUsed?7:6];heroRect=SpriteRect(character,heroX+CardStep()+(hit&&Run.lastReceived>0&&frame>=36&&frame<42?shake:0),baseY,heroHeight);DrawSprite(g,character,heroRect,hit&&Run.lastReceived>0&&frame>=36&&frame<41);}
   else if(Hero!=null&&(battle||Run==null)&&ShowDrone){var facing=g.Save();g.TranslateTransform(heroRect.Left+heroRect.Right,0);g.ScaleTransform(-1,1);DrawSprite(g,Hero,heroRect,hit&&Run.lastReceived>0&&frame>=36&&frame<42);g.Restore(facing);}
   if(hit)enemyRect=MonsterCombat.Pose(Run,enemyRect,frame);
   if(battle&&EnemyArt!=null&&!(AnimateHit&&Mode=="feedback"&&Run.enemyHp==0&&frame>24))DrawEnemy(g,EnemyArt,enemyRect,hit&&Run.lastDamage>0&&frame>=(animated?16:12)&&frame<(animated?24:20));
-  if(hit)MonsterCombat.Draw(g,Run,enemyRect,heroRect,frame);
+  if(hit)MonsterCombat.Draw(g,Run,enemyRect,heroRect,frame);if(CardEffectActive)PixelBattleEffects.Casting(g,castingStyle,SpriteRect(CastingPose(Support),supportX,baseY,supportHeight),CardEffectAge);
   if(Run!=null){
    int barWidth=Math.Max(170,Math.Min(270,Width/5));
    int heroBarY=battle?Math.Max(100,(int)(baseY-Math.Max(heroHeight,supportHeight))-76):10;

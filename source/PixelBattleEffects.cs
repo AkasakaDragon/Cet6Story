@@ -1,0 +1,59 @@
+using System;
+using System.Drawing;
+using System.Drawing.Drawing2D;
+
+// Effects are built from snapped pixel blocks, with a wind-up, release and impact.
+public static class PixelBattleEffects {
+ public static void Casting(Graphics g,int style,Rectangle actor,float t){var state=g.Save();g.SmoothingMode=SmoothingMode.None;float cx=actor.Left+actor.Width*.55f,cy=actor.Top+actor.Height*.35f,r=10+Math.Min(1,t*3)*26;Color cyan=Color.FromArgb(96,214,233),purple=Color.FromArgb(184,147,224),gold=Color.FromArgb(229,199,132);if(style==0){float x=actor.Left+actor.Width*.88f,y=actor.Top+actor.Height*.30f;Ring(g,x,y,r,cyan);for(int i=0;i<4;i++){double a=i*Math.PI/2+t*3;Dot(g,x+(float)Math.Cos(a)*r,y+(float)Math.Sin(a)*r,5,gold);}if(t>.5f)Burst(g,x,y,(t-.5f)*1.7f,cyan,2);}else if(style==1){Ring(g,cx,cy,r,purple);Ring(g,cx,cy,r*.65f,cyan);Dot(g,cx-4,cy-4,9,Color.FromArgb(231,229,248));if(t>.55f){Shield(g,cx,cy,22+(t-.55f)*55,cyan);}}else{float x=actor.Left+actor.Width*.60f,y=actor.Top+actor.Height*.12f;Ring(g,x,y,r,gold);for(int i=0;i<6;i++)Dot(g,x+(i-3)*9,y+35-t*55-i%2*8,5,purple);if(t>.5f)Burst(g,x,y,(t-.5f)*1.7f,gold,7);}Ring(g,actor.Left+actor.Width/2,actor.Bottom-5,25+15*(float)Math.Sin(t*Math.PI),style==2?gold:cyan,.25f);g.Restore(state);}
+ static void Dot(Graphics g,float x,float y,int size,Color c){using(var b=new SolidBrush(c))g.FillRectangle(b,(int)x/3*3,(int)y/3*3,size,size);}
+ static void Line(Graphics g,float x,float y,float tx,float ty,int thick,Color c){int steps=Math.Max(1,(int)Math.Max(Math.Abs(tx-x),Math.Abs(ty-y))/3);for(int i=0;i<=steps;i++){float t=i/(float)steps;Dot(g,x+(tx-x)*t,y+(ty-y)*t,thick,c);}}
+ static void Ring(Graphics g,float x,float y,float r,Color c,float squash=1){for(int i=0;i<48;i++){double a=i*Math.PI/24;Dot(g,x+(float)Math.Cos(a)*r,y+(float)Math.Sin(a)*r*squash,4,c);}}
+ static void Burst(Graphics g,float x,float y,float t,Color c,int seed){for(int i=0;i<16;i++){double a=i*2.4+seed;float d=8+t*(30+i%5*8);Dot(g,x+(float)Math.Cos(a)*d,y+(float)Math.Sin(a)*d+t*t*15,Math.Max(3,9-(int)(t*6)),c);}if(t<.3f){Line(g,x-18,y,x+18,y,6,Color.FromArgb(255,239,193));Line(g,x,y-18,x,y+18,6,Color.FromArgb(255,239,193));}}
+ static void Slash(Graphics g,float x,float y,float age,Color c,bool reverse){for(int i=0;i<28;i++){double a=(i/27.0*1.7-.85)*(reverse?-1:1);float r=15+age*55;Dot(g,x+(float)Math.Cos(a)*r,y+(float)Math.Sin(a)*r,Math.Max(3,10-i/5),c);}}
+ static void Shield(Graphics g,float x,float y,float r,Color c){float[] px={0,.75f,.75f,0,-.75f,-.75f},py={-1,-.55f,.55f,1,.55f,-.55f};for(int i=0;i<6;i++)Line(g,x+px[i]*r,y+py[i]*r,x+px[(i+1)%6]*r,y+py[(i+1)%6]*r,5,c);}
+ static void Flame(Graphics g,float x,float y,float age,int seed){Color[] cs={Color.FromArgb(165,69,51),Color.FromArgb(231,121,55),Color.FromArgb(255,207,110)};for(int i=0;i<14;i++){float dx=(i%5-2)*6,dy=-(i*7+age*35)%70;Dot(g,x+dx+(float)Math.Sin(age*9+i+seed)*5,y+dy,6+i%3*3,cs[i%3]);}}
+ public static void Monster(Graphics g,RogueRun r,Rectangle enemy,Rectangle hero,int frame){
+  var saved=g.Save();g.SmoothingMode=SmoothingMode.None;int p=MonsterCombat.Profile(r),family=p<6?p:p==6?0:p==7?2:p==8?5:3;string action=MonsterCombat.Action(r);float ex=enemy.Left+enemy.Width*.45f,ey=enemy.Top+enemy.Height*.45f,hx=hero.Left+hero.Width*.55f,hy=hero.Top+hero.Height*.48f;Color[] palette={Color.FromArgb(133,157,93),Color.FromArgb(177,126,193),Color.FromArgb(179,183,180),Color.FromArgb(112,196,220),Color.FromArgb(235,133,68),Color.FromArgb(211,169,107)};Color c=palette[family];
+  if(r.lastDamage>0&&frame>=16&&frame<24)Burst(g,ex,ey,(frame-16)/8f,c,p);
+  if(action=="none"||frame<22||frame>47){g.Restore(saved);return;}bool skill=action!="normal",big=action=="skill-b";float age=(frame-22)/25f;
+  if(frame<29){float wind=(frame-22)/7f;if(skill){Ring(g,ex,enemy.Bottom-8,18+wind*35,c,.35f);for(int i=0;i<6;i++)Dot(g,ex+(i-3)*15,ey+35-wind*50,5,c);}else Slash(g,ex,ey,wind*.3f,c,true);}
+  if(frame>=28){float t=Math.Min(1,(frame-28)/8f),x=ex+(hx-ex)*t,y=ey+(hy-ey)*t;
+   if(p==9){if(action=="skill-a"){Shield(g,ex,ey,35+age*25,Color.FromArgb(214,182,98));Ring(g,ex,enemy.Bottom-8,65,c,.35f);}else if(big){for(int i=0;i<3;i++){float xx=hx+(i-1)*35;Line(g,xx,hero.Top-45,xx,hy,5,Color.FromArgb(214,180,102));if(frame>=36)Burst(g,xx,hy,(frame-36)/11f,c,i);}}else Slash(g,hx,hy,t,Color.FromArgb(233,194,110),false);}
+   else if(family==0){if(action=="skill-a"){for(int i=0;i<5;i++){float xx=ex+(i-2)*18;Line(g,xx,enemy.Bottom,xx-8,enemy.Bottom-25-t*45,7,c);}}else if(big){for(int i=0;i<4;i++){float xx=hx+(i-2)*22;Line(g,xx,hero.Bottom,xx+12,hero.Bottom-t*105,8,c);Dot(g,xx+12,hero.Bottom-t*105,5,Color.FromArgb(219,209,139));}}else{for(int i=0;i<9;i++){float a=i/8f;Dot(g,ex+(x-ex)*a,ey+(y-ey)*a+(float)Math.Sin(a*5+t*7)*22,8,c);}if(t>=1)Slash(g,hx,hy,age,c,false);}}
+   else if(family==1){int n=skill?7:3;for(int i=0;i<n;i++){double a=i*2.4;float xx=action=="skill-a"?ex+(float)Math.Cos(a)*(30+t*35):x+(float)Math.Cos(a)*16,yy=action=="skill-a"?ey+(float)Math.Sin(a)*40:y+(float)Math.Sin(a)*16;Dot(g,xx-4,yy-4,12,c);Dot(g,xx,yy,4,Color.FromArgb(222,203,227));}if(big&&frame>=36)Burst(g,hx,hy,(frame-36)/11f,c,7);}
+   else if(family==2){if(action=="skill-a"){Shield(g,ex,ey,30+t*12,c);}else if(big){float xx=hx;Line(g,xx,hero.Top-35,xx,hy,14,c);Dot(g,xx-17,hy-10,35,c);if(frame>=36){for(int i=0;i<8;i++)Dot(g,hx+(i-4)*16,hero.Bottom-(float)Math.Sin(i+t)*24,10,c);Ring(g,hx,hero.Bottom,20+(frame-36)*8,c,.3f);}}else{for(int i=0;i<3;i++){Dot(g,x-i*18,y+i*6,13,c);Dot(g,x-i*18,y+i*6,5,Color.FromArgb(232,227,205));}}}
+   else if(family==3){if(action=="skill-a"){for(int i=0;i<3;i++)Ring(g,ex,ey,22+i*14+t*12,c);}else{for(int i=0;i<(big?3:1);i++){Ring(g,x+i*18,y,14+i*4,c);Dot(g,x+i*18-3,y-3,7,Color.FromArgb(213,242,248));}if(t>=1){Slash(g,hx,hy,age,c,true);if(big)Ring(g,hx,hy,30+(frame-36)*5,c);}}}
+   else if(family==4){if(action=="skill-a")Flame(g,ex,enemy.Bottom-12,age,p);else{for(int i=0;i<(big?9:3);i++){float a=i/(big?9f:3f);Flame(g,x+(ex-x)*a,y+(ey-y)*a,age,i);}if(frame>=36)Flame(g,hx,hy+30,age,5);}}
+   else{if(action=="skill-a"){Shield(g,ex,ey,40,c);for(int i=0;i<5;i++)Dot(g,ex+(i-2)*16,ey+i%2*14,8,c);}else{Slash(g,hx,hy,t,c,false);Slash(g,hx-18,hy+12,t,c,true);if(big&&frame>=36){Ring(g,hx,hero.Bottom,20+(frame-36)*7,c,.3f);Burst(g,hx,hy,(frame-36)/11f,c,9);}}}
+   if(frame>=36&&(r.lastReceived>0||r.cardBattle!=null&&r.cardBattle.lastBlocked>0))Burst(g,hx,hy,(frame-36)/11f,c,p);
+   if(frame>=36&&r.cardBattle!=null&&r.cardBattle.lastBlocked>0)Shield(g,hx,hy,hero.Height*.25f,Color.FromArgb(111,202,235));
+   if(frame>=36&&r.cardBattle!=null&&r.cardBattle.lastEvaded)using(var f=GameTheme.Body(11))GameTheme.DrawText(g,"闪避",f,new Rectangle((int)hx-40,(int)hy-50,80,28),Color.FromArgb(196,223,211),System.Windows.Forms.TextFormatFlags.HorizontalCenter);
+  }g.Restore(saved);
+ }
+ public static void Card(Graphics g,string id,Rectangle hero,Rectangle ally,Rectangle enemy,float t){
+  var state=g.Save();g.SmoothingMode=SmoothingMode.None;float hx=hero.Right-hero.Width*.12f,hy=hero.Top+hero.Height*.28f,ex=enemy.Left+enemy.Width*.45f,ey=enemy.Top+enemy.Height*.45f,ax=ally.Right-ally.Width*.15f,ay=ally.Top+ally.Height*.30f;int seed=Array.FindIndex(CardBattle.Cards,c=>c.id==id);float travel=Math.Min(1,Math.Max(0,(t-.2f)/.4f));Color cyan=Color.FromArgb(99,211,238),gold=Color.FromArgb(241,200,111),purple=Color.FromArgb(190,140,226);string type=CardBattle.Get(id).Archetype;
+  if(t<.25f){Ring(g,hx,hy,8+t*65,cyan);Dot(g,hx-3,hy-3,7,gold);}
+  if(id=="guide"){for(int i=0;i<3;i++){float x=hx+25+i*30;Line(g,x,hy+20,x+12,hy+20,3,cyan);Line(g,x+12,hy+20,x+5,hy+13,3,cyan);Line(g,x+12,hy+20,x+5,hy+27,3,cyan);}g.Restore(state);return;}
+  if(id=="focus"){Ring(g,hx,hy,25*(1-t),cyan);Dot(g,hx-4,hy-4,9,Color.White);g.Restore(state);return;}
+  if(id=="rethink"){for(int i=0;i<3;i++){float x=hx+(i-1)*25+(float)Math.Sin(t*5+i)*10,y=hy-30;Line(g,x,y,x+15,y,3,cyan);Line(g,x,y,x,y+24,3,cyan);Line(g,x+15,y,x+15,y+24,3,cyan);Line(g,x,y+24,x+15,y+24,3,cyan);}g.Restore(state);return;}
+  if(id=="cleanse"){for(int i=0;i<9;i++){float x=hx+(i%3-1)*18,y=hy+25-t*90-i/3*12;Line(g,x-4,y,x+4,y,3,Color.FromArgb(190,231,167));Line(g,x,y-4,x,y+4,3,Color.FromArgb(190,231,167));}g.Restore(state);return;}
+  if(id=="charge"){for(int i=0;i<3;i++)Ring(g,ax,ay,Math.Max(4,35+i*8-t*35),gold);g.Restore(state);return;}
+  if(id=="break"){for(int i=0;i<8;i++){double a=i*Math.PI/4;Dot(g,ex+(float)Math.Cos(a)*t*65,ey+(float)Math.Sin(a)*t*50,8,Color.FromArgb(177,184,186));}Slash(g,ex,ey,t,cyan,false);g.Restore(state);return;}
+  if(id=="judgement"){Line(g,hx-10,hy,hx,hy+10,5,cyan);Line(g,hx,hy+10,hx+23,hy-16,5,cyan);g.Restore(state);return;}
+  if(id=="expose"){Line(g,ex-25-t*20,ey-25,ex,ey,5,gold);Line(g,ex,ey,ex+20+t*25,ey+30,5,gold);Line(g,ex-10,ey+30,ex,ey,5,gold);g.Restore(state);return;}
+  if(id=="pursuit")Line(g,hx,hy,ex,ey,3,cyan);
+  if(id=="quick")Line(g,ax,ay,ex,ey,3,gold);
+  if(id=="pierce")Line(g,ax,ay,ex+35,ey,3,cyan);
+  if(id=="double"){Slash(g,ex-25,ey,t,cyan,false);Slash(g,ex+25,ey,t,gold,true);}
+  if(id=="stars"){for(int i=0;i<2;i++){float x=ex+(i==0?-35:35),y=ey-50;Line(g,x-10,y,x+10,y,4,i==0?cyan:purple);Line(g,x,y-10,x,y+10,4,i==0?cyan:purple);}}
+  if(id=="rescue"){for(int i=0;i<5;i++){float x=hx+(i-2)*10;Line(g,hx,hy,x,hy-25-t*45,4,gold);}}
+  if(id=="hottrack")for(int i=0;i<6;i++)Dot(g,hx+(ex-hx)*i/6,hero.Bottom-5-i%2*8,6,gold);
+  if(id=="catalyst"){Line(g,hx-20,hy+15,hx,hy+25,4,purple);Line(g,hx,hy+25,hx+20,hy+15,4,purple);Ring(g,hx,hy-12,12,purple);}
+  if(id=="mark"||id=="scan"||id=="expose"||id=="judgement"){float r=28+(1-t)*25;Ring(g,ex,ey,r,id=="mark"?Color.FromArgb(231,105,107):cyan);Line(g,ex-r-10,ey,ex+r+10,ey,4,cyan);Line(g,ex,ey-r-10,ex,ey+r+10,4,cyan);if(id=="scan")Line(g,hx,hy,ex,ey,3,Color.FromArgb(132,187,153));}
+  else if(id=="barrier"||id=="echo"||id=="cover"||id=="heatguard"||id=="retreat"){Shield(g,hero.Left+hero.Width/2,hero.Top+hero.Height/2,hero.Height*.30f*(.6f+Math.Min(t*3,1)*.4f),id=="heatguard"?gold:cyan);if(id=="echo")Shield(g,ally.Left+ally.Width/2,ally.Top+ally.Height/2,ally.Height*.30f,purple);}
+  else if(type=="燃烧过载"){if(id=="coolant"){for(int i=0;i<6;i++)Dot(g,hx+(i-3)*12,hy-t*50,6,cyan);Ring(g,hx,hy,25,cyan);}else if(id=="detonate"){Ring(g,ex,ey,10+t*100,purple);Burst(g,ex,ey,t,gold,seed);Flame(g,ex,ey+25,t,seed);}else{int n=id=="overjet"?8:id=="fuel"?4:1;for(int i=0;i<n;i++){float x=ax+(ex-ax)*travel-i*12,y=ay+(ey-ay)*travel+i%3*8;Flame(g,x,y,t,seed+i);}if(travel>=1)Burst(g,ex,ey,(t-.6f)/.4f,gold,seed);}}
+  else if(id=="focus"||id=="rethink"||id=="harmony"||id=="cleanse"||id=="rescue"||id=="charge"){Ring(g,hx,hy,18+t*45,id=="cleanse"?Color.FromArgb(180,215,165):purple);for(int i=0;i<5;i++)Dot(g,hx+(i-2)*12,hy+25-t*65,6,gold);if(id=="harmony"||id=="rescue")Line(g,hx,hy,ax,ay,4,gold);}
+  else{int shots=id=="double"||id=="duet"?2:id=="execution"||id=="stars"?3:1;for(int i=0;i<shots;i++){float sx=i%2==0?ax:hx,sy=i%2==0?ay:hy;float x=sx+(ex-sx)*travel,y=sy+(ey-sy)*travel+(i-1)*8;Line(g,x-18,y,x,y,5,i%2==0?gold:cyan);if(travel<1)Dot(g,sx,sy,9,gold);}if(travel>=1){Slash(g,ex,ey,(t-.6f)/.4f,id=="pierce"?cyan:gold,seed%2==0);Burst(g,ex,ey,(t-.6f)/.4f,gold,seed);}if(id=="finale")Line(g,ex,enemy.Top-35,ex,ey,10,purple);}
+  g.Restore(state);
+ }
+}
