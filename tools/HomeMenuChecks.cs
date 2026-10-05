@@ -14,8 +14,9 @@ public static class HomeMenuChecks {
   using(var game=new Game()){
    game.Opacity=0;game.Show();game.Bounds=new Rectangle(0,0,1280,780);Call(game,"ShowMain");Application.DoEvents();
    var stage=(ArtPanel)typeof(Game).GetField("stage",BindingFlags.Instance|BindingFlags.NonPublic).GetValue(game);
-   var buttons=stage.Controls.OfType<VNButton>().ToArray();
-   if(buttons.Length!=6||buttons.Any(b=>!b.StaticMenuStyle))throw new Exception("Static artwork and six actions");
+   var buttons=stage.Controls.OfType<VNButton>().Where(b=>b.StaticMenuStyle).ToArray();
+   var tavern=stage.Controls.OfType<VNButton>().Single(b=>b.Text=="封印酒馆 · 新主线");
+   if(buttons.Length!=6||!tavern.HomeStyle)throw new Exception("Static artwork, original six actions and independent tavern entry");
    var save=typeof(Game).GetField("save",BindingFlags.Instance|BindingFlags.NonPublic).GetValue(game) as Save;
    if(buttons[0].Enabled!=save.hasGame)throw new Exception("Continue enablement");
    Capture(game,Path.Combine(args[0],"home-wide.png"));int builds=stage.SceneBuilds;
@@ -29,6 +30,7 @@ public static class HomeMenuChecks {
    }
    game.Size=new Size(800,500);Application.DoEvents();
    var scene=stage.SceneArtBounds();
+   if(!scene.Contains(tavern.Bounds))throw new Exception("Tavern entry clipped at minimum size");
    for(int i=0;i<buttons.Length;i++){
     var button=buttons[i];if(!scene.Contains(button.Bounds))throw new Exception("Button clipped at minimum size");
     var center=new Point(scene.X+(int)(316*scene.Width/1672.0),scene.Y+(int)((373+i*79)*scene.Height/941.0));

@@ -1,0 +1,557 @@
+{
+  "id": "tavern-prologue",
+  "title": "封印酒馆 · 序幕：第一盏灯",
+  "description": "四幕原创剧情 · 独立新主线 · 字幕自由切换 · 卡牌支援教学",
+  "source": "原创奇幻剧情及四道分段听力理解题，非考试原文。",
+  "audio": "audio/tavern/prologue.wav",
+  "audioLabel": "离线英文角色合成配音 · 原创非考试原音",
+  "background": "art/tavern/dorm-midnight.png",
+  "unlockLevel": 1,
+  "sortOrder": 1000,
+  "pixelArt": true,
+  "inlineQuestions": true,
+  "timeLimitSeconds": 900,
+  "actors": [],
+  "decisions": [],
+  "questions": [
+    {
+      "afterLine": 7,
+      "skill": "人物动机",
+      "prompt": "Why is Lu Chuan still preparing for the exam?",
+      "options": [
+        "He has failed English several times.",
+        "He believes preparation is still necessary.",
+        "His roommate is taking the exam for him.",
+        "He has forgotten the exam date."
+      ],
+      "answer": 1,
+      "explanation": "他明确说满分不等于免考，还要完成最后一篇材料。备考体现认真，而非英语薄弱。"
+    },
+    {
+      "afterLine": 19,
+      "skill": "因果关系",
+      "prompt": "What must Lu Chuan do to strengthen the seal?",
+      "options": [
+        "Buy a legendary sword and leave the town.",
+        "Close the tavern to keep everyone away.",
+        "Bring the crystal back to his dormitory.",
+        "Welcome guests and recover crystal fragments."
+      ],
+      "answer": 3,
+      "explanation": "女神说明：客人相聚提供能量，地下城碎片修复晶石结构。经营和探索缺一不可。"
+    },
+    {
+      "afterLine": 29,
+      "skill": "行为推断",
+      "prompt": "Why does Aelia stand in front of Lu Chuan?",
+      "options": [
+        "She thinks he needs protection.",
+        "She wants him to repair her shield.",
+        "She believes he controls the monster.",
+        "She is asking him to leave the tavern."
+      ],
+      "answer": 0,
+      "explanation": "她看到男主没有武器，把他当作需要保护的普通人，举盾挡在他身前。"
+    },
+    {
+      "afterLine": 43,
+      "skill": "分工与主旨",
+      "prompt": "How do Lu Chuan and Aelia plan to work together?",
+      "options": [
+        "Both will abandon the damaged tavern.",
+        "Aelia will answer every question for him.",
+        "He will restore the tavern, and she will help protect it.",
+        "He will guard the town while she returns to his world."
+      ],
+      "answer": 2,
+      "explanation": "艾莉娅说：你把这里变成归处，我来守护它。两人建立经营与保护的分工。"
+    }
+  ],
+  "lines": [
+    {
+      "speaker": "旁白",
+      "actor": "",
+      "voiceRole": "旁白",
+      "text": "It is past midnight. My desk lamp is the only light still on in the dormitory.",
+      "translation": "已经过了午夜。宿舍里，只有我的台灯还亮着。",
+      "scene": "art/tavern/dorm-midnight.png",
+      "sceneSingle": true,
+      "start": 0,
+      "end": 5.9532
+    },
+    {
+      "speaker": "旁白",
+      "actor": "",
+      "voiceRole": "旁白",
+      "text": "Perfect scores cover the corner of my desk. English has always been my strongest subject.",
+      "translation": "几张满分试卷叠在桌角。英语一直是我最擅长的科目。",
+      "scene": "art/tavern/dorm-midnight.png",
+      "sceneSingle": true,
+      "start": 6.2033,
+      "end": 13.0564
+    },
+    {
+      "speaker": "室友消息",
+      "actor": "",
+      "voiceRole": "室友消息",
+      "text": "You get full marks every time. Why are you still preparing for the CET-6 exam?",
+      "translation": "你每次都考满分，怎么还在准备六级？",
+      "scene": "art/tavern/dorm-midnight.png",
+      "sceneSingle": true,
+      "start": 13.3064,
+      "end": 19.36
+    },
+    {
+      "speaker": "陆川",
+      "actor": "",
+      "voiceRole": "陆川",
+      "text": "A perfect score does not excuse me from the next exam. One last passage, then bed.",
+      "translation": "满分又不是免考。最后一篇，做完就睡。",
+      "scene": "art/tavern/dorm-midnight.png",
+      "sceneSingle": true,
+      "start": 19.61,
+      "end": 26.5137
+    },
+    {
+      "speaker": "旁白",
+      "actor": "",
+      "voiceRole": "旁白",
+      "text": "I check the final sentence. Suddenly, the words blur, and the room begins to tilt.",
+      "translation": "我核对最后一句。突然，文字变得模糊，整个房间仿佛倾斜起来。",
+      "scene": "art/tavern/dorm-midnight.png",
+      "sceneSingle": true,
+      "start": 26.7637,
+      "end": 33.5922
+    },
+    {
+      "speaker": "陆川",
+      "actor": "",
+      "voiceRole": "陆川",
+      "text": "That is strange. I should put the pen down before I fall out of this chair.",
+      "translation": "不对劲。我得先把笔放下，免得从椅子上摔下去。",
+      "scene": "art/tavern/dorm-midnight.png",
+      "sceneSingle": true,
+      "start": 33.8423,
+      "end": 39.311
+    },
+    {
+      "speaker": "旁白",
+      "actor": "",
+      "voiceRole": "旁白",
+      "text": "I reach for the desk, but my fingers meet cold air. A distant bell rings.",
+      "translation": "我伸手扶桌沿，指尖却碰到一片冰凉的空气。远处响起钟声。",
+      "scene": "art/tavern/dorm-midnight.png",
+      "sceneSingle": true,
+      "start": 39.561,
+      "end": 45.6946
+    },
+    {
+      "speaker": "陆川",
+      "actor": "",
+      "voiceRole": "陆川",
+      "text": "This is definitely not my dormitory. And that is definitely not our campus bell.",
+      "translation": "这里绝对不是我的宿舍。那也绝对不是学校的铃声。",
+      "scene": "art/tavern/dorm-midnight.png",
+      "sceneSingle": true,
+      "start": 45.9446,
+      "end": 52.0379
+    },
+    {
+      "speaker": "伊瑟雅",
+      "actor": "",
+      "voiceRole": "伊瑟雅",
+      "text": "Welcome, Lu Chuan. I am Iserya. I need your help to protect another world.",
+      "translation": "欢迎你，陆川。我是伊瑟雅。我需要你帮助守护另一个世界。",
+      "scene": "art/tavern/goddess-sanctuary.png",
+      "sceneSingle": true,
+      "start": 52.2879,
+      "end": 60.4714
+    },
+    {
+      "speaker": "陆川",
+      "actor": "",
+      "voiceRole": "陆川",
+      "text": "A goddess? Then I suppose this is more serious than falling asleep at my desk.",
+      "translation": "女神？看来这比趴在桌上睡着严重多了。",
+      "scene": "art/tavern/goddess-sanctuary.png",
+      "sceneSingle": true,
+      "start": 60.7214,
+      "end": 66.74
+    },
+    {
+      "speaker": "伊瑟雅",
+      "actor": "",
+      "voiceRole": "伊瑟雅",
+      "text": "A demon king is sealed beneath a border town. The seal is weakening.",
+      "translation": "一位魔王被封印在边境小镇地下。如今，封印正在衰弱。",
+      "scene": "art/tavern/goddess-sanctuary.png",
+      "sceneSingle": true,
+      "start": 66.99,
+      "end": 72.5687
+    },
+    {
+      "speaker": "伊瑟雅",
+      "actor": "",
+      "voiceRole": "伊瑟雅",
+      "text": "He cannot escape yet, but his soldiers can cross the cracks and attack our people.",
+      "translation": "他还无法脱身，但他的士兵已经能穿过裂隙，袭击这里的人们。",
+      "scene": "art/tavern/goddess-sanctuary.png",
+      "sceneSingle": true,
+      "start": 72.8187,
+      "end": 78.7922
+    },
+    {
+      "speaker": "陆川",
+      "actor": "",
+      "voiceRole": "陆川",
+      "text": "So you need a hero with a legendary sword?",
+      "translation": "所以，你需要一位拿着传说之剑的勇者？",
+      "scene": "art/tavern/goddess-sanctuary.png",
+      "sceneSingle": true,
+      "start": 79.0423,
+      "end": 82.2463
+    },
+    {
+      "speaker": "伊瑟雅",
+      "actor": "",
+      "voiceRole": "伊瑟雅",
+      "text": "Actually, I need someone who can run a tavern. Its crystal holds the surface seal together.",
+      "translation": "其实，我需要一个能经营酒馆的人。那里的晶石维系着地面封印。",
+      "scene": "art/tavern/goddess-sanctuary.png",
+      "sceneSingle": true,
+      "start": 82.4963,
+      "end": 89.9995
+    },
+    {
+      "speaker": "陆川",
+      "actor": "",
+      "voiceRole": "陆川",
+      "text": "Saving the world now requires experience in hospitality? That was not in my study plan.",
+      "translation": "现在拯救世界还要求餐饮经验？我的复习计划可没这项。",
+      "scene": "art/tavern/goddess-sanctuary.png",
+      "sceneSingle": true,
+      "start": 90.2495,
+      "end": 97.223
+    },
+    {
+      "speaker": "伊瑟雅",
+      "actor": "",
+      "voiceRole": "伊瑟雅",
+      "text": "Repair the tavern, welcome guests, and recover crystal fragments from the dungeon below.",
+      "translation": "修好酒馆，迎接客人，再到下面的地下城找回晶石碎片。",
+      "scene": "art/tavern/goddess-sanctuary.png",
+      "sceneSingle": true,
+      "start": 97.473,
+      "end": 103.4814
+    },
+    {
+      "speaker": "伊瑟雅",
+      "actor": "",
+      "voiceRole": "伊瑟雅",
+      "text": "Their shared warmth will power the crystal. The fragments will repair its broken structure.",
+      "translation": "人们相聚的温暖会为晶石供能，碎片则能修复它破损的结构。",
+      "scene": "art/tavern/goddess-sanctuary.png",
+      "sceneSingle": true,
+      "start": 103.7314,
+      "end": 110.3597
+    },
+    {
+      "speaker": "言契系统",
+      "actor": "",
+      "voiceRole": "言契系统",
+      "text": "Language contract connected. Answer vocabulary questions to activate support cards for your allies.",
+      "translation": "语言契约已连接。回答词汇题，即可为同伴发动支援卡牌。",
+      "scene": "art/tavern/goddess-sanctuary.png",
+      "sceneSingle": true,
+      "start": 110.6098,
+      "end": 118.0128
+    },
+    {
+      "speaker": "陆川",
+      "actor": "",
+      "voiceRole": "陆川",
+      "text": "The instructions make sense. A sword is beyond me, but I can work with these cards.",
+      "translation": "指令我看懂了。用剑我不在行，不过，这些卡牌我能试试。",
+      "scene": "art/tavern/goddess-sanctuary.png",
+      "sceneSingle": true,
+      "start": 118.2628,
+      "end": 124.9362
+    },
+    {
+      "speaker": "伊瑟雅",
+      "actor": "",
+      "voiceRole": "伊瑟雅",
+      "text": "Once the seal is stable, I can open a safe path home. Until then, you will have help.",
+      "translation": "等封印稳定下来，我就能打开安全的归途。在那之前，你也会有同伴。",
+      "scene": "art/tavern/goddess-sanctuary.png",
+      "sceneSingle": true,
+      "start": 125.1862,
+      "end": 132.9447
+    },
+    {
+      "speaker": "旁白",
+      "actor": "",
+      "voiceRole": "旁白",
+      "text": "The light fades. Rain drips through a broken roof onto the floor of an abandoned tavern.",
+      "translation": "光芒消退。雨水穿过破损的屋顶，滴在废弃酒馆的地板上。",
+      "scene": "art/tavern/tavern-ruins.png",
+      "sceneSingle": true,
+      "start": 133.1947,
+      "end": 139.2983
+    },
+    {
+      "speaker": "陆川",
+      "actor": "",
+      "voiceRole": "陆川",
+      "text": "Good news: I own a business. Bad news: the business might collapse before the world does.",
+      "translation": "好消息：我有自己的店了。坏消息：这家店可能比世界先垮。",
+      "scene": "art/tavern/tavern-ruins.png",
+      "sceneSingle": true,
+      "start": 139.5483,
+      "end": 146.8619
+    },
+    {
+      "speaker": "旁白",
+      "actor": "",
+      "voiceRole": "旁白",
+      "text": "A cracked crystal sits behind the counter. Its faint light flickers with every drop of rain.",
+      "translation": "吧台后放着一块开裂的晶石。每滴雨落下，它的微光都会晃动。",
+      "scene": "art/tavern/tavern-ruins.png",
+      "sceneSingle": true,
+      "start": 147.1119,
+      "end": 153.6004
+    },
+    {
+      "speaker": "言契系统",
+      "actor": "",
+      "voiceRole": "言契系统",
+      "text": "Seal core located. Structural damage is severe. Begin with shelter, food, and a working hearth.",
+      "translation": "已定位封印核心。结构损伤严重。请先恢复遮雨、食物与炉火。",
+      "scene": "art/tavern/tavern-ruins.png",
+      "sceneSingle": true,
+      "start": 153.8504,
+      "end": 162.0238
+    },
+    {
+      "speaker": "陆川",
+      "actor": "",
+      "voiceRole": "陆川",
+      "text": "A roof, hot meals, and somewhere to sit. At least the first steps are understandable.",
+      "translation": "能挡雨，有热饭，还有地方坐。至少第一步听起来很明白。",
+      "scene": "art/tavern/tavern-ruins.png",
+      "sceneSingle": true,
+      "start": 162.2738,
+      "end": 168.8973
+    },
+    {
+      "speaker": "旁白",
+      "actor": "",
+      "voiceRole": "旁白",
+      "text": "Something strikes the door. A wounded knight stumbles inside, followed by a creature of dark fire.",
+      "translation": "有什么撞上大门。一名受伤的骑士跌进来，身后跟着一只燃着暗火的魔物。",
+      "scene": "art/tavern/tavern-defense.png",
+      "sceneSingle": true,
+      "start": 169.1473,
+      "end": 176.3706
+    },
+    {
+      "speaker": "艾莉娅",
+      "actor": "",
+      "voiceRole": "艾莉娅",
+      "text": "Get behind me! Stay away from the door, and do not try to fight it!",
+      "translation": "躲到我身后！离门远一点，不要试着和它打！",
+      "scene": "art/tavern/tavern-defense.png",
+      "sceneSingle": true,
+      "start": 176.6206,
+      "end": 182.2443
+    },
+    {
+      "speaker": "旁白",
+      "actor": "",
+      "voiceRole": "旁白",
+      "text": "She sees my empty hands and raises her shield, placing herself between me and the monster.",
+      "translation": "她看见我两手空空，立刻举起盾牌，挡在我和魔物之间。",
+      "scene": "art/tavern/tavern-defense.png",
+      "sceneSingle": true,
+      "start": 182.4943,
+      "end": 188.6978
+    },
+    {
+      "speaker": "陆川",
+      "actor": "",
+      "voiceRole": "陆川",
+      "text": "I cannot use a sword, but I can help. Keep your shield up for a moment.",
+      "translation": "我不会用剑，但我能帮忙。请再举盾撑一会儿。",
+      "scene": "art/tavern/tavern-defense.png",
+      "sceneSingle": true,
+      "start": 188.9478,
+      "end": 194.8264
+    },
+    {
+      "speaker": "艾莉娅",
+      "actor": "",
+      "voiceRole": "艾莉娅",
+      "text": "Then help by staying alive. I will draw its attention away from you.",
+      "translation": "那就先保住自己。我会把它的注意力引开。",
+      "scene": "art/tavern/tavern-defense.png",
+      "sceneSingle": true,
+      "start": 195.0764,
+      "end": 200.2251
+    },
+    {
+      "speaker": "言契系统",
+      "actor": "",
+      "voiceRole": "言契系统",
+      "text": "Ally identified: Aelia, a holy knight. Support link ready. The enemy is gathering dark fire.",
+      "translation": "已识别同伴：圣骑士艾莉娅。支援连接就绪。敌人正在聚集暗火。",
+      "scene": "art/tavern/tavern-defense.png",
+      "sceneSingle": true,
+      "start": 200.4751,
+      "end": 209.2434
+    },
+    {
+      "speaker": "陆川",
+      "actor": "",
+      "voiceRole": "陆川",
+      "text": "I can see its next move. Give me a moment to strengthen your defense.",
+      "translation": "我能看见它下一步的行动。给我一点时间，我来增强你的防御。",
+      "scene": "art/tavern/tavern-defense.png",
+      "sceneSingle": true,
+      "start": 209.4935,
+      "end": 214.8869
+    },
+    {
+      "speaker": "旁白",
+      "actor": "",
+      "voiceRole": "旁白",
+      "text": "Two cards glow before me: a protective barrier and a tactical guide. The contract waits for my answer.",
+      "translation": "两张卡牌在我面前亮起：守护屏障与战术指引。契约等待我的回答。",
+      "scene": "art/tavern/tavern-defense.png",
+      "sceneSingle": true,
+      "start": 215.1369,
+      "end": 222.8152
+    },
+    {
+      "speaker": "艾莉娅",
+      "actor": "",
+      "voiceRole": "艾莉娅",
+      "text": "There is light around my shield. Was that your magic?",
+      "translation": "我的盾牌周围出现了光。这是你的魔法？",
+      "scene": "art/tavern/tavern-defense.png",
+      "sceneSingle": true,
+      "start": 223.0652,
+      "end": 227.4441
+    },
+    {
+      "speaker": "陆川",
+      "actor": "",
+      "voiceRole": "陆川",
+      "text": "Yes. You handle the sword. I will make sure you have the opening you need.",
+      "translation": "是。你来挥剑，我来给你创造机会。",
+      "scene": "art/tavern/tavern-defense.png",
+      "sceneSingle": true,
+      "start": 227.6941,
+      "end": 233.9427
+    },
+    {
+      "speaker": "言契系统",
+      "actor": "",
+      "voiceRole": "言契系统",
+      "text": "Choose your support cards, then answer. Your ally will strike when the contract is complete.",
+      "translation": "选择支援卡牌，再作答。契约完成后，同伴将发动攻击。",
+      "scene": "art/tavern/tavern-defense.png",
+      "sceneSingle": true,
+      "start": 234.1927,
+      "end": 241.0513
+    },
+    {
+      "speaker": "旁白",
+      "actor": "",
+      "voiceRole": "旁白",
+      "text": "Her blade cuts through the dark flame. The creature falls, and the room becomes quiet again.",
+      "translation": "她的剑锋穿过暗火。魔物倒下，屋里终于重新安静。",
+      "scene": "art/tavern/tavern-first-light.png",
+      "sceneSingle": true,
+      "start": 241.3013,
+      "end": 247.9946
+    },
+    {
+      "speaker": "艾莉娅",
+      "actor": "",
+      "voiceRole": "艾莉娅",
+      "text": "I thought you were an ordinary traveler. I am Aelia. Thank you for standing with me.",
+      "translation": "我还以为你是普通旅人。我叫艾莉娅。谢谢你和我一起战斗。",
+      "scene": "art/tavern/tavern-first-light.png",
+      "sceneSingle": true,
+      "start": 248.2447,
+      "end": 255.0281
+    },
+    {
+      "speaker": "陆川",
+      "actor": "",
+      "voiceRole": "陆川",
+      "text": "Lu Chuan. Apparently, I am the new owner. You have seen the state of the place.",
+      "translation": "陆川。看来，我是这里的新老板。这家店的情况，你也看见了。",
+      "scene": "art/tavern/tavern-first-light.png",
+      "sceneSingle": true,
+      "start": 255.2781,
+      "end": 262.3268
+    },
+    {
+      "speaker": "艾莉娅",
+      "actor": "",
+      "voiceRole": "艾莉娅",
+      "text": "Then we should start with the roof. I can guard the tavern while you make it a home.",
+      "translation": "那就先从屋顶开始吧。你把这里变成归处，我来守护它。",
+      "scene": "art/tavern/tavern-first-light.png",
+      "sceneSingle": true,
+      "start": 262.5768,
+      "end": 268.1251
+    },
+    {
+      "speaker": "旁白",
+      "actor": "",
+      "voiceRole": "旁白",
+      "text": "We clear a table and light the old hearth. The crystal answers with a small, steady glow.",
+      "translation": "我们清理出一张桌子，点燃旧炉火。晶石回应了一点微弱而稳定的光。",
+      "scene": "art/tavern/tavern-first-light.png",
+      "sceneSingle": true,
+      "start": 268.3751,
+      "end": 275.0535
+    },
+    {
+      "speaker": "陆川",
+      "actor": "",
+      "voiceRole": "陆川",
+      "text": "Tomorrow, we open for business. Tonight, you can finally put down that shield.",
+      "translation": "明天，我们开始营业。今晚，你终于可以把盾牌放下了。",
+      "scene": "art/tavern/tavern-first-light.png",
+      "sceneSingle": true,
+      "start": 275.3035,
+      "end": 281.977
+    },
+    {
+      "speaker": "艾莉娅",
+      "actor": "",
+      "voiceRole": "艾莉娅",
+      "text": "Only if you promise to wake me when you need help.",
+      "translation": "那你得答应，需要帮助的时候就叫醒我。",
+      "scene": "art/tavern/tavern-first-light.png",
+      "sceneSingle": true,
+      "start": 282.227,
+      "end": 285.4659
+    },
+    {
+      "speaker": "旁白",
+      "actor": "",
+      "voiceRole": "旁白",
+      "text": "Outside, the rain continues. Inside, our first lamp stays lit. A new story has begun.",
+      "translation": "门外，雨还在下。门内，我们的第一盏灯没有熄灭。新的故事开始了。",
+      "scene": "art/tavern/tavern-first-light.png",
+      "sceneSingle": true,
+      "start": 285.7159,
+      "end": 294.1341
+    }
+  ],
+  "ending": "序幕完成。陆川与艾莉娅点亮归灯酒馆；第一章“今天开始营业”将在后续开放。"
+}
