@@ -29,7 +29,7 @@ public partial class Game {
   RenderRogueLanding();
  }
  void RenderRogue(){
-  var p=save.rogue;TowerEngine.Migrate(p);var r=p.ActiveRun;if(RefreshStoryExamples(r))Persist();if(r==null){ShowRogueHome();return;}if(r.state=="loot"){TowerEngine.Complete(p);Persist();RenderRogue();return;}if(r.state=="map"){ShowTowerMap(r);return;}if(r.state=="combat"||r.state=="feedback"||r.state=="boss-intro"){RenderFullBattle(r);return;}
+  var p=save.rogue;TowerEngine.Migrate(p);var r=p.ActiveRun;if(r!=null){const string corrected="adj. 无效的；不合法的；不成立的。n. 病弱者（较少用）";if(r.pool!=null)foreach(var entry in r.pool)if(String.Equals(entry.word,"invalid",StringComparison.OrdinalIgnoreCase))entry.meaning=corrected;if(r.question!=null&&r.question.entry!=null&&String.Equals(r.question.entry.word,"invalid",StringComparison.OrdinalIgnoreCase))r.question.entry.meaning=corrected;}if(RefreshStoryExamples(r))Persist();if(r==null){ShowRogueHome();return;}if(r.state=="loot"){TowerEngine.Complete(p);Persist();RenderRogue();return;}if(r.state=="map"){ShowTowerMap(r);return;}if(r.state=="combat"||r.state=="feedback"||r.state=="boss-intro"){RenderFullBattle(r);return;}
   if(r.state=="card-reward"){RenderCardRewards(r);return;}
   if(r.state=="reward"){RenderRelicRewards(r);return;}
   if(r.state=="shop"){RenderJourneyShop(r);return;}

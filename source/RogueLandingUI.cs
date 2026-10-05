@@ -16,16 +16,16 @@ public partial class Game {
  void RenderRogueLanding(){
   var p=save.rogue;bool busy=p.ActiveRun!=null&&p.ActiveRun.state!="ended";
   // Decode and inspect the artwork before replacing the visible page, so the first frame is complete.
-  var background=RogueUiArt("adventure-crossroads");var frame=RogueUiArt("gothic-adventure-frame");var plaque=RogueUiArt("amethyst-plaque");var buttonArt=RogueUiArt("amethyst-button");
-  RogueOrnateSprite.Prepare(plaque,buttonArt);
+  var background=RogueUiArt("adventure-crossroads");var frame=RogueUiArt("gothic-adventure-frame");var forestFrame=RogueUiArt("forest-adventure-frame");var lavaFrame=RogueUiArt("lava-adventure-frame");var plaque=RogueUiArt("amethyst-plaque");var buttonArt=RogueUiArt("amethyst-button");
+  RogueOrnateSprite.Prepare(plaque,buttonArt,frame,forestFrame,lavaFrame);
   var scene=RogueShowcase(background);
   var title=ShowcaseLabel("词域远征",27,Gold);scene.Controls.Add(title);
   var subtitle=ShowcaseLabel("选择你的冒险  ·  每局八层，学习进度永久保留",12,TextColor);scene.Controls.Add(subtitle);
   var stats=ShowcaseLabel("◆  金币 "+p.coins+"     ◇  通关 "+p.clears+" 次     ✦  正确作答 "+p.correct+" / "+p.answers,11,Accent);scene.Controls.Add(stats);
-  var entries=new RogueAdventureCard[3];string[] modes={"基础训练","四级训练","六级挑战"};string[] notes={"从基础词汇出发","穿越四级词域","迎战六级挑战"};Color[] colors={Color.FromArgb(174,168,207),Color.FromArgb(174,168,207),Color.FromArgb(174,168,207)};
+  var entries=new RogueAdventureCard[3];string[] modes={"基础训练","四级训练","六级挑战"};string[] notes={"从基础词汇出发","穿越四级词域","迎战六级挑战"};Color[] colors={Color.FromArgb(143,183,141),Color.FromArgb(174,168,207),Color.FromArgb(225,142,91)};
   for(int i=0;i<3;i++){
    string mode=modes[i];var pool=TrainingPool(mode);int practiced=0,mastered=0;foreach(var word in pool){RogueMemory m;if(!p.memory.TryGetValue(word.word,out m)||m==null)continue;if(m.correct>0||m.wrong>0)practiced++;if((m.mask&3)==3)mastered++;}
-   var card=new RogueAdventureCard{Mode=mode,Note=notes[i],Index=i+1,Practiced=practiced,Mastered=mastered,Total=pool.Count,Accent=colors[i],Art=frame,Enabled=!busy,Cursor=busy?Cursors.Default:Cursors.Hand,AccessibleName=mode+"，已练习 "+practiced+"，已掌握 "+mastered};
+   var card=new RogueAdventureCard{Mode=mode,Note=notes[i],Index=i+1,Practiced=practiced,Mastered=mastered,Total=pool.Count,Accent=colors[i],Art=i==0?forestFrame:i==2?lavaFrame:frame,Enabled=!busy,Cursor=busy?Cursors.Default:Cursors.Hand,AccessibleName=mode+"，已练习 "+practiced+"，已掌握 "+mastered};
    card.Click+=(s,e)=>StartRogue(mode);scene.Controls.Add(card);entries[i]=card;
   }
   var resume=new RogueShowcasePanel{Visible=busy,Art=plaque};scene.Controls.Add(resume);
