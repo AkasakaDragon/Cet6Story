@@ -6,6 +6,11 @@ public static class CardExpansionChecks {
  static RogueRun Run(string card){return new RogueRun{state="combat",enemy="combat",hp=100,maxHp=100,enemyHp=200,enemyMax=200,question=new RogueQuestion(),cardBattle=new CardBattleState{version=1,turn=1,energy=10,energyCapacity=10,monster="精英",hand=new List<string>{card},draw=new List<string>{"guide","barrier"}}};}
  static RogueRun Play(string id){var r=Run(id);Check(CardBattle.Play(r,0),"play "+id);return r;}
  public static int Main(){try{
+  var timing=Run("guide");var health=new CombatHealthSnapshot(timing);timing.lastDamage=33;timing.lastReceived=8;timing.cardBattle.burnDamage=7;timing.enemyHp=160;timing.hp=92;
+  Check(health.EnemyAt(timing,0)==200&&health.EnemyAt(timing,15)==200,"HP unchanged before projectile impact");
+  Check(health.EnemyAt(timing,16)==167&&health.EnemyAt(timing,43)==167&&health.EnemyAt(timing,44)==160,"impact damage precedes burn damage");
+  Check(health.HeroAt(timing,35)==100&&health.HeroAt(timing,36)==92,"hero damage waits for enemy impact");
+  timing.lastDamage=250;timing.enemyHp=0;timing.cardBattle.burnDamage=0;Check(health.EnemyAt(timing,15)==200&&health.EnemyAt(timing,16)==0,"lethal impact waits and clamps health");
   Check(CardBattle.Cards.Length==32&&CardBattle.Cards.Select(c=>c.id).Distinct().Count()==32,"32 distinct cards");
   var p=new RogueProfile();var starter=Run("guide");starter.cardBattle=null;CardBattle.Start(starter,p);var deck=starter.cardBattle.deck;
   Check(deck.Count==8&&deck.Count(x=>x=="duet")==1&&deck.Count(x=>x=="mark")==1&&deck.Count(x=>x=="guide")==3&&deck.Count(x=>x=="barrier")==3,"starter counts");
