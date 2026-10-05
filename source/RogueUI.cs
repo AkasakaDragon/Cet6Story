@@ -65,7 +65,7 @@ public partial class Game {
   tips.SetToolTip(icon,kind=="speaker"?"播放单词语音":icon.Selected?"已收藏到生词本":"收藏到生词本");
   icon.Click+=(sender,e)=>{if(kind=="speaker")SpeakWord(entry.word);else{ToggleRogueFavorite(entry,icon);}};return icon;
  }
- void AnswerRogue(int selected,string spelling){var r=save.rogue.ActiveRun;if(RogueEngine.Answer(save.rogue,selected,spelling,DateTime.Now)){pendingTowerEffect=true;if(r.question.answered&&r.wrongWords.Contains(r.question.entry.word))CollectRogue(r.question.entry);SaveRogue();}}
+ void AnswerRogue(int selected,string spelling){var r=save.rogue.ActiveRun;var before=r==null?null:new CombatHealthSnapshot(r);if(RogueEngine.Answer(save.rogue,selected,spelling,DateTime.Now)){pendingTowerEffect=true;pendingHealthPresentation=before;if(r.question.answered&&r.wrongWords.Contains(r.question.entry.word))CollectRogue(r.question.entry);SaveRogue();}}
  void ToggleRogueFavorite(RogueEntry entry,RogueIcon icon){bool owned=save.words.Any(w=>w.text.Equals(entry.word,StringComparison.OrdinalIgnoreCase));if(owned){save.words.RemoveAll(w=>w.text.Equals(entry.word,StringComparison.OrdinalIgnoreCase));if(reviewWord!=null&&reviewWord.text.Equals(entry.word,StringComparison.OrdinalIgnoreCase))reviewWord=null;}else CollectRogue(entry);Persist();UpdateStats();icon.Selected=!owned;icon.Invalidate();tips.SetToolTip(icon,icon.Selected?"已收藏 · 再次点击取消":"收藏到生词本");}
  void CollectRogue(RogueEntry entry){if(!save.words.Any(w=>w.text.Equals(entry.word,StringComparison.OrdinalIgnoreCase)))save.words.Add(new Word{text=entry.word,meaning=entry.meaning,example=entry.example.Replace("{"+entry.word+"}",entry.word),box=0,due=DateTime.Today.ToString("yyyy-MM-dd")});}
 }
