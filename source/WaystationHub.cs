@@ -6,24 +6,25 @@ public partial class Game {
   var entries=new[]{
    ShowcaseButton("支线远征",()=>GameMessage.Show(this,"支线任务与副本尚未开放。","支线远征"),190,74),
    ShowcaseButton("主线任务",ShowTavernMainQuest,190,74),
-   ShowcaseButton("前往城镇",()=>GameMessage.Show(this,"城镇将在第一章开放。这里将通往集市与新的相遇。","前往城镇"),190,74),
+   ShowcaseButton("前往城镇",ShowWaystationWorldMap,190,74),
    ShowcaseButton("返回主界面",ShowMain,220,70),
    ShowcaseButton("伙伴房间",()=>GameMessage.Show(this,"伙伴房间尚未开放。","伙伴房间"),190,74)
   };
   var locations=new[]{new Rectangle(465,420,190,74),new Rectangle(1010,495,190,74),new Rectangle(716,510,190,74),new Rectangle(42,34,220,70),new Rectangle(1310,190,190,74)};
   foreach(var entry in entries){entry.GuildStyle=true;entry.LibraryStyle=true;AddWoodMenuHover(entry);scene.Controls.Add(entry);}
-  tips.SetToolTip(entries[0],"公告板 · 支线任务与副本（尚未开放）");tips.SetToolTip(entries[1],"吧台 · 继续主线与重看序幕");tips.SetToolTip(entries[2],"大门 · 前往城镇（第一章开放）");tips.SetToolTip(entries[4],"楼上客房 · 伙伴房间（尚未开放）");
+  tips.SetToolTip(entries[0],"公告板 · 支线任务与副本（尚未开放）");tips.SetToolTip(entries[1],"吧台 · 继续主线与重看序幕");tips.SetToolTip(entries[2],"大门 · 世界地图与主线篇章");tips.SetToolTip(entries[4],"楼上客房 · 伙伴房间（尚未开放）");
   Action layout=()=>{float scale=Math.Max(scene.Width/(float)scene.Art.Width,scene.Height/(float)scene.Art.Height);int ox=(int)Math.Round((scene.Width-scene.Art.Width*scale)/2),oy=(int)Math.Round((scene.Height-scene.Art.Height*scale)/2);for(int i=0;i<entries.Length;i++){var r=locations[i];PlaceShowcase(entries[i],scale,ox,oy,r.X,r.Y,r.Width,r.Height,18);}};
   scene.Resize+=(s,e)=>layout();layout();scene.Focus();
  }
  void ShowTavernMainQuest(){
-  using(var dialog=new GuildWordDialog{Text="主线任务",Width=550,Height=350}){
+  using(var dialog=new GuildWordDialog{Text="主线任务",Width=550,Height=410}){
    dialog.Location=new Point(Left+(Width-dialog.Width)/2,Top+(Height-dialog.Height)/2);
    var panel=new FlowLayoutPanel{Dock=DockStyle.Fill,FlowDirection=FlowDirection.TopDown,WrapContents=false,Padding=new Padding(16),BackColor=dialog.BackColor};dialog.Controls.Add(panel);
    panel.Controls.Add(Lab("序幕：第一盏灯",18,GuildChrome.Ivory));
    Action next=null;
    panel.Controls.Add(Btn(save.completed.Contains(TavernStory.Id)?"回顾序幕":"继续序幕",()=>{next=EnterTavern;dialog.Close();},true));
    panel.Controls.Add(Btn("从头重看序幕",()=>{next=()=>{current=chapters.Find(TavernStory.Is);ResetSection();save.tavernBattle=null;save.storyFlags.Remove(TavernStory.BattleFlag);save.storyFlags.Remove(TavernStory.OpeningFlag);save.storyFlags.Remove(TavernStory.TransferFlag);save.storyFlags.Remove(TavernStory.EntranceFlag);ShowStory();};dialog.Close();}));
+   panel.Controls.Add(Btn("角色技能 · 配置五个携带技能",()=>ShowHeroSkillBook(true)));
    panel.Controls.Add(Lab("第一章：今天开始营业 · 后续开放",11,GuildChrome.Muted));
    dialog.ShowDialog(this);if(next!=null)NavigateMenu(next,"主线任务",false,true);
   }

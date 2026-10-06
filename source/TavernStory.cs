@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.IO;
 using System.Linq;
 using System.Drawing;
@@ -135,7 +135,7 @@ public partial class Game {
  }
  void ShowTavernBattle(){
   if(save.tavernBattle==null)save.tavernBattle=TavernStory.NewBattle(save.rogue);
-  var r=save.tavernBattle;r.cardBattle.monster="荆棘孢子兽";r.mode="封印酒馆 · 支援教学";r.theme=0;Persist();RenderFullBattle(r);
+  var r=save.tavernBattle;r.cardBattle.monster="荆棘孢子兽";r.mode="破败驿站 · 角色技能战斗";r.theme=0;Persist();RenderFullBattle(r);
  }
  bool EndTavernTurn(RogueRun r){
   if(r.cardBattle.turn==1&&(!r.cardBattle.discard.Contains("barrier")||!r.cardBattle.discard.Contains("guide"))){GameMessage.Show(this,"先使用守护屏障与战术指引，再结束回合。","卡牌支援教学");return false;}

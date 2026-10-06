@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Drawing;
 using System.Drawing.Imaging;
 using System.Linq;
@@ -19,7 +19,8 @@ public partial class ArtPanel {
  readonly System.Collections.Generic.Dictionary<string,Bitmap> portraitFrames=new System.Collections.Generic.Dictionary<string,Bitmap>();
  void ClearPortraitFrames(){foreach(var frame in portraitFrames.Values)frame.Dispose();portraitFrames.Clear();}
  void DrawWaystationPortraits(Graphics g){
-  float baseHeight=Math.Min(Math.Max(150,Height-65)*.95f,Width*.29f*1.33f)*.8f*1.2f;
+  // Match the large dialogue portraits across aspect ratios; height drives their scale.
+  float baseHeight=Math.Min(Math.Max(150,Height-52)*.74f,Width*.46f*1.33f);
   foreach(var a in Actors.Where(a=>a.Visible).OrderBy(a=>a.Id==ActiveActor?1:0)){
    float h=baseHeight*a.Scale,w=h*a.Image.Width/a.Image.Height;
    float center=Width*(a.Side=="right"?.82f:.18f);

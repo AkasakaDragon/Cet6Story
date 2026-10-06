@@ -3,6 +3,7 @@
 public partial class Game {
  Action battleLayoutCleanup;
  void RenderFullBattle(RogueRun r){
+  if(r.state=="combat"||r.state=="feedback"||r.partyBattle!=null&&(r.state=="won"||r.state=="lost")){RenderPartyBattle(r);return;}
   bool tavern=Object.ReferenceEquals(r,save.tavernBattle);
   if(battleLayoutCleanup!=null){battleLayoutCleanup();battleLayoutCleanup=null;}
   bool reuse=rogueArena!=null&&!rogueArena.IsDisposed&&rogueArena.Parent==content&&rogueArena.Integrated;
@@ -41,19 +42,3 @@ public class BattleGlassPanel:Panel {
  public BattleGlassPanel(){DoubleBuffered=true;BackColor=Color.Transparent;}
  protected override void OnPaintBackground(PaintEventArgs e){base.OnPaintBackground(e);CyberChrome.Panel(e.Graphics,new Rectangle(1,1,Width-3,Height-3),CyberChrome.Neon);}
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

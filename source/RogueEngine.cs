@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.IO;
 using System.Linq;
 using System.Collections.Generic;
@@ -26,7 +26,7 @@ public class RogueProfile {
  public void Normalize(){if(preparationRuns==null)preparationRuns=new Dictionary<string,RogueRun>();if(preparations==null)preparations=new Dictionary<string,SectionPreparation>();if(legacyStoryAccess==null)legacyStoryAccess=new List<string>();if(storyItems==null)storyItems=new List<string>();if(storyUsed==null)storyUsed=new List<string>();if(upgrades==null)upgrades=new List<string>();if(coinDates==null)coinDates=new Dictionary<string,string>();if(memory==null)memory=new Dictionary<string,RogueMemory>();coins=Math.Max(0,coins);}
 }
 public class RogueRun {
- public CardBattleState cardBattle {get;set;}
+ public List<PartyUnit> partyRoster {get;set;} public PartyCombatState partyBattle {get;set;} public CardBattleState cardBattle {get;set;}
  public int mapVersion {get;set;} public List<TowerNode> nodes {get;set;} public string currentNode {get;set;} public string lastNode {get;set;} public int theme {get;set;} public int eventKind {get;set;} public bool eventBattle {get;set;} public int battleAssists {get;set;} public int battleCoins {get;set;} public bool battlePaid {get;set;} public int lastDamage {get;set;} public int lastReceived {get;set;} public int guard {get;set;} public bool guardUsed {get;set;} public string vocabularyChapter {get;set;} public int chestKind {get;set;}
  public string id {get;set;} public int seed {get;set;} public int serial {get;set;} public string mode {get;set;} public string state {get;set;}
  public int depth {get;set;} public int hp {get;set;} public int maxHp {get;set;} public int attack {get;set;} public int armor {get;set;} public int combo {get;set;} public int comboPower {get;set;} public int heal {get;set;} public int leech {get;set;} public int fortune {get;set;} public int hints {get;set;} public int gold {get;set;}
@@ -66,8 +66,3 @@ public static class RogueEngine {
  public static bool BuySupply(RogueRun r,string id){if(r.state!="shop"||r.shopBought.Contains(id))return false;int price=id=="potion"?15:id=="shield"?25:20;if(r.gold<price||(id=="potion"&&r.hp==r.maxHp))return false;r.gold-=price;r.shopBought.Add(id);if(id=="potion")r.hp=Math.Min(r.maxHp,r.hp+30);else if(id=="shield")ApplyRelic(r,"shield");else r.hints++;return true;}
  public static void Finish(RogueProfile p,bool won){var r=p.ActiveRun;if(r==null||r.settled)return;r.won=won;r.settled=true;r.state="ended";p.bestDepth=Math.Max(p.bestDepth,r.depth);if(won){if(!String.IsNullOrEmpty(r.vocabularyChapter))PreparationEngine.Progress(p,r.vocabularyChapter).cleared=true;p.clears++;if(!TowerEngine.IsTower(r)){p.coins+=20;r.earnedCoins+=20;}}}
 }
-
-
-
-
-
