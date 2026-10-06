@@ -31,6 +31,7 @@ public partial class Game {
   hint.Text=(hero.acted?"本回合已行动":"选择技能，再点击目标或使用右侧选择框。")+"\n"+(skill.Group?"群攻 · 一次答题":"每次行动 · 一次答题");
   var footerLog=new OutlinedLabel{ForeColor=GuildChrome.Muted,Font=GameTheme.Body(9),BackColor=Color.Transparent};arena.Controls.Add(footerLog);footerLog.Text="护盾先吸收伤害 · 答错攻击减半且无附加效果 · 防御答对伤害减半";
   var selector=new FlowLayoutPanel{BackColor=Color.Transparent,WrapContents=false,Height=34};arena.Controls.Add(selector);foreach(var h in b.heroes){int i=b.heroes.IndexOf(h);var choose=PartyButton(h.name+(h.acted?" · 已行动":""),()=>{b.selectedHero=i;b.selectedSkill=null;b.target=null;RefreshPartySelection(r);},125,30);choose.Active=b.selectedHero==i;choose.Enabled=b.phase=="heroes";selector.Controls.Add(choose);}
+  var tutorial=tavern?AddTavernBattleGuide(arena,b):null;
   partySelectionRefresh=()=>{
    hero=b.heroes[b.selectedHero];skill=HeroSkills.Get(hero.id,b.selectedSkill);
    if(skill==null||!hero.skills.Contains(skill.Id)){b.selectedSkill=hero.skills[0];skill=HeroSkills.Get(hero.id,b.selectedSkill);}arena.Skill=skill;
@@ -39,7 +40,7 @@ public partial class Game {
     button.Remaining=hero.cooldowns.ContainsKey(definition.Id)?hero.cooldowns[definition.Id]:0;
     int used=hero.used.ContainsKey(definition.Id)?hero.used[definition.Id]:0;button.UsesLeft=definition.Uses==0?-1:definition.Uses-used;
     button.Enabled=PartyCombat.CanUse(b,hero,definition);button.AccessibleName=definition.Name+" · "+definition.Description;
-    
+
    }
    for(int i=0;i<selector.Controls.Count;i++){var choose=(VNButton)selector.Controls[i];choose.Active=b.selectedHero==i;choose.Invalidate();}
    valid=PartyCombat.Targets(b,hero,skill);if(valid.Count>0&&!valid.Any(u=>u.id==b.target))b.target=valid[0].id;
@@ -47,9 +48,12 @@ public partial class Game {
    target.Text=valid.Count==0?"无可用目标":"目标 · "+valid.First(u=>u.id==b.target).name;target.Enabled=valid.Count>0;
    cast.Enabled=PartyCombat.CanUse(b,hero,skill)&&valid.Count>0;
    hint.Text=(hero.acted?"本回合已行动":"选择技能，再点击目标或使用右侧选择框。")+"\n"+(skill.Group?"群攻 · 一次答题":"每次行动 · 一次答题");
+   if(tutorial!=null) tutorial.Invalidate();
    arena.Invalidate();
   };
+
   Action layout=()=>{
+   if(tutorial!=null){int guideWidth=Math.Min(460,Math.Max(320,arena.Width*42/100));tutorial.Bounds=new Rectangle((arena.Width-guideWidth)/2,64,guideWidth,tutorial.Collapsed?44:154);tutorial.Invalidate();}
    float scale=Math.Min(1.3f,arena.Width/1280f);int h=(int)(238*scale);arena.FooterHeight=h;int top=arena.Height-h;int logicalWidth=(int)(arena.Width/scale);
    int actionWidth=170,actionX=logicalWidth-actionWidth-22;int iconX=logicalWidth*48/100;int iconEnd=actionX-18;int size=Math.Min(78,(iconEnd-iconX-24)/5);
    Func<int,int,int,int,Rectangle> rect=(x,y,w,height)=>new Rectangle((int)(x*scale),top+(int)(y*scale),(int)(w*scale),(int)(height*scale));
@@ -58,6 +62,7 @@ public partial class Game {
    hint.Bounds=rect(iconX,153,iconEnd-iconX,43);hint.Font=GameTheme.Body(10*scale);
    target.Bounds=rect(actionX,38,actionWidth,30);target.Font=GameTheme.Body(11*scale);cast.Bounds=rect(actionX,84,actionWidth,48);end.Bounds=rect(actionX,145,actionWidth,38);cast.Font=GameTheme.Body(11*scale);end.Font=GameTheme.Body(11*scale);
    footerLog.Bounds=rect(iconX,204,logicalWidth-iconX-20,26);footerLog.Font=GameTheme.Body(9*scale);
+   if(tutorial!=null) tutorial.Invalidate();
    arena.Invalidate();
   };EventHandler resize=(s,e)=>layout();arena.Resize+=resize;arena.InterfaceCleanup=()=>arena.Resize-=resize;layout();
   if(b.phase!="heroes")ShowPartyOverlay(r,arena);Persist();UpdateRogueAudio();
@@ -91,6 +96,7 @@ public partial class Game {
    string who=b.phase=="attack-question"?b.heroes.First(x=>x.id==b.pendingHero).name+" · "+HeroSkills.Get(b.pendingHero,b.pendingSkill).Name:b.heroes.First(x=>x.id==b.defenseTargets[b.defenseCursor]).name+" · "+(b.enemyGroup?"群体攻击，第"+(b.defenseCursor+1)+" / "+b.defenseTargets.Count+"题":"单体攻击");
    text.Text=who+"\n"+q.entry.word;for(int i=0;i<4;i++){int answer=i;var choice=PartyButton(((char)('A'+i))+". "+q.options[i],()=>AnswerPartyQuestion(answer),200,44);choice.Font=GameTheme.Body(11);panel.Controls.Add(choice);choices.Add(choice);}
   }else{title.Text=b.outcome=="won"?"战斗胜利":b.outcome=="lost"?"队伍倒下":b.phase=="enemy-feedback"?"怪物行动":"行动结算";text.Text=b.log+(r.question!=null&&r.question.answered?"\n"+r.question.entry.word+" · "+r.question.entry.meaning:"");next=PartyButton(b.outcome=="won"?"继续旅程":b.outcome=="lost"?"重新挑战":"继续 · Enter",ContinuePartyBattle,180,40);panel.Controls.Add(next);}
+
   Action layout=()=>{int width=Math.Min(640,arena.Width-50),height=question?265:250;int available=Math.Max(180,arena.Height-arena.FooterHeight-80);height=Math.Min(height,available);panel.Bounds=new Rectangle((arena.Width-width)/2,Math.Max(72,(arena.Height-arena.FooterHeight-height)/2),width,height);title.Bounds=new Rectangle(22,17,width-44,28);text.Bounds=new Rectangle(22,52,width-44,question?Math.Max(55,height-170):height-112);if(question)for(int i=0;i<4;i++)choices[i].Bounds=new Rectangle(18+(i%2)*(width-36)/2,height-112+(i/2)*49,(width-44)/2,44);else next.Bounds=new Rectangle(width-205,height-53,180,40);panel.BringToFront();};EventHandler resize=(s,e)=>layout();arena.Resize+=resize;var previousCleanup=arena.InterfaceCleanup;arena.InterfaceCleanup=()=>{arena.Resize-=resize;if(previousCleanup!=null)previousCleanup();};layout();
  }
  void ShowPartyBattleMenu(RogueRun r){
@@ -98,7 +104,8 @@ public partial class Game {
    var body=new Panel{Dock=DockStyle.Fill,BackColor=Color.FromArgb(25,53,55)};f.Controls.Add(body);
    var buttons=new[]{PartyButton("角色技能图鉴",()=>ShowHeroSkillBook(false),320,42),PartyButton("保存并返回主界面",()=>{Persist();f.Close();ShowMain();},320,42),PartyButton("继续战斗",()=>f.Close(),320,42)};
    foreach(var button in buttons)body.Controls.Add(button);
-   Action layout=()=>{int width=Math.Min(320,Math.Max(1,body.ClientSize.Width-32));int height=42,gap=12;int top=(body.ClientSize.Height-(height*buttons.Length+gap*(buttons.Length-1)))/2;for(int i=0;i<buttons.Length;i++)buttons[i].Bounds=new Rectangle((body.ClientSize.Width-width)/2,top+i*(height+gap),width,height);};
+
+  Action layout=()=>{int width=Math.Min(320,Math.Max(1,body.ClientSize.Width-32));int height=42,gap=12;int top=(body.ClientSize.Height-(height*buttons.Length+gap*(buttons.Length-1)))/2;for(int i=0;i<buttons.Length;i++)buttons[i].Bounds=new Rectangle((body.ClientSize.Width-width)/2,top+i*(height+gap),width,height);};
    body.Resize+=(sender,e)=>layout();layout();f.ShowDialog(this);
   }
  }

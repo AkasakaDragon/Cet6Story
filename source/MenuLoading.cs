@@ -31,7 +31,7 @@ public sealed class MenuLoadingScreen:Control {
 
 public partial class Game {
  MenuLoadingScreen menuLoading;int loadingWordIndex;bool menuExitPending;
- void NavigateMenu(Action action,string destination,bool exit,bool woodenSound=false){
+ void NavigateMenu(Action action,string destination,bool exit,bool woodenSound=false,Action ready=null){
   if(menuExitPending||menuLoading!=null&&!menuLoading.IsDisposed)return;if(woodenSound)PlayWoodMenuSound(true);else PlayMenuClick();
   // Main-menu navigation already owns an overlay; unwrap these page entries
   // so every other entry point can use the same transition without nesting it.
@@ -46,6 +46,6 @@ public partial class Game {
   var screen=new MenuLoadingScreen{Destination=destination,Word=word,Meaning=meaning};menuLoading=screen;Controls.Add(screen);screen.BringToFront();
   screen.Prepare=()=>{using(var redraw=new BattleRedrawScope(content)){action();content.PerformLayout();if(content.Width>0&&content.Height>0)using(var firstFrame=new Bitmap(content.Width,content.Height))content.DrawToBitmap(firstFrame,new Rectangle(Point.Empty,firstFrame.Size));}screen.BringToFront();};
   Action release=()=>{if(menuLoading==screen)menuLoading=null;using(var redraw=new BattleRedrawScope(this)){content.PerformLayout();content.Refresh();Controls.Remove(screen);screen.Dispose();}if(!IsDisposed){Refresh();content.Focus();UpdateRogueAudio();}};
-  screen.Completed=release;screen.Failed=ex=>{release();GameMessage.Show(this,"页面加载失败："+ex.Message,"加载提示");};screen.Start();
+  screen.Completed=()=>{release();if(!IsDisposed&&ready!=null)ready();};screen.Failed=ex=>{release();GameMessage.Show(this,"页面加载失败："+ex.Message,"加载提示");};screen.Start();
  }
 }

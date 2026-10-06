@@ -143,8 +143,12 @@ public partial class Game {
  }
  void ContinueTavernBattle(){
   var r=save.tavernBattle;if(r.state=="won"){
-   foreach(var line in current.lines.Skip(TavernStory.BattleLine+1))if(!String.IsNullOrEmpty(line.scene))CachedImage(Engine.SafePath(folders[current.id],line.scene));
-   StoryRoutes.Flag(save,TavernStory.BattleFlag);save.tavernBattle=null;index=TavernStory.BattleLine+1;save.positions[current.id]=index;Persist();ShowStory();PlayCurrent();}
+   if(menuLoading!=null&&!menuLoading.IsDisposed)return;
+   NavigateMenu(()=>{
+    foreach(var scene in current.lines.Skip(TavernStory.BattleLine+1).Select(l=>l.scene).Where(p=>!String.IsNullOrEmpty(p)).Distinct())CachedImage(Engine.SafePath(folders[current.id],scene));
+    AudioVolume.Prepare(StoryAudioSpeed.Prepare(Engine.SafePath(folders[current.id],current.audio),save.storySpeed,root),StorySoundVolume(),root);
+    StoryRoutes.Flag(save,TavernStory.BattleFlag);save.tavernBattle=null;index=TavernStory.BattleLine+1;save.positions[current.id]=index;Persist();ShowStory();
+   },"战后对话",false,false,()=>{if(page=="story"&&TavernStory.Is(current)&&index==TavernStory.BattleLine+1)PlayCurrent();});}
   else if(r.state=="lost"){save.tavernBattle=null;ShowTavernBattle();}
   else if(r.state=="feedback"){TavernStory.NextTurn(r);ShowTavernBattle();}
  }
