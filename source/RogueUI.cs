@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Linq;
 using System.IO;
 using System.Drawing;
@@ -10,10 +10,39 @@ public partial class Game {
  List<RogueEntry> cet4Bank,cet6Bank;
  List<RogueEntry> TrainingPool(string mode){if(mode=="基础训练")return RogueBank().Where(w=>w.tier==1).ToList();if(mode=="四级训练"||mode=="进阶训练"){if(cet4Bank==null)cet4Bank=Engine.Json.Deserialize<List<RogueEntry>>(File.ReadAllText(Path.Combine(root,"assets","cet4-words.json")));return cet4Bank;}if(cet6Bank==null)cet6Bank=Engine.Json.Deserialize<List<RogueEntry>>(File.ReadAllText(Path.Combine(root,"assets","cet6-words.json")));return cet6Bank;}
  List<RogueEntry> RogueBank(){if(rogueBank==null)rogueBank=RogueEngine.LoadBank(Path.Combine(root,"assets","rogue-words.tsv"));return rogueBank;}
- VNButton RogueButton(string text,Action action,int width=240,int height=55){var b=new RogueChoice{Text=text,PixelStyle=true,Width=width,Height=height,Margin=new Padding(6),Font=GameTheme.Body(11),ForeColor=TextColor};b.Click+=(sender,e)=>action();return b;}
- void RoguePage(string title){ClearPage();page="rogue";rogueArena=null;var sceneArt=QuietScene(title.Contains("商店")||title.Contains("图鉴")?1:save.rogue.ActiveRun==null?0:save.rogue.ActiveRun.theme);content.BackgroundImage=sceneArt;content.BackgroundImageLayout=ImageLayout.Stretch;var header=new FlowLayoutPanel{Dock=DockStyle.Top,Height=64,Padding=new Padding(16,8,0,0),BackColor=Color.Transparent,WrapContents=false,AutoScroll=true};content.Controls.Add(header);if(save.rogue.preparationActive)header.Controls.Add(RogueButton("返回本节剧情",ShowStory,160,42));header.Controls.Add(RogueButton("远征大厅",ShowRogueHome,135,42));header.Controls.Add(RogueButton("生词本",ShowWords,110,42));header.Controls.Add(RogueButton("系统商店",ShowSystemShop,135,42));header.Controls.Add(RogueButton("返回主界面",ShowMain,150,42));rogueBody=new ExpeditionSurface{Art=sceneArt,Dock=DockStyle.Fill,FlowDirection=FlowDirection.TopDown,WrapContents=false,AutoScroll=true,Padding=new Padding(22,15,22,24),BackColor=Color.Transparent};content.Controls.Add(rogueBody);rogueBody.BringToFront();var h=Lab(title,23,Gold);rogueBody.Controls.Add(h);rogueBody.Resize+=(s,e)=>RogueLayout();}
+ VNButton RogueButton(string text,Action action,int width=240,int height=55){var b=new RogueChoice{GuildStyle=page=="words",Text=text,PixelStyle=true,Width=width,Height=height,Margin=new Padding(6),Font=GameTheme.Body(11),ForeColor=TextColor};b.Click+=(sender,e)=>action();return b;}
+ void RoguePage(string title){
+  ClearPage();page="rogue";rogueArena=null;bool wordbook=title=="生词本";
+  var sceneArt=wordbook?RogueUiArt("wordbook-counter-morning"):title=="卡牌图鉴"?RogueUiArt("card-collection-morning"):QuietScene(title.Contains("商店")||title.Contains("图鉴")?1:save.rogue.ActiveRun==null?0:save.rogue.ActiveRun.theme);
+  content.BackgroundImage=sceneArt;content.BackgroundImageLayout=ImageLayout.Stretch;
+  if(wordbook){BuildWordbookSurface(sceneArt);return;}
+  {
+   var header=new FlowLayoutPanel{Dock=DockStyle.Top,Height=64,Padding=new Padding(16,8,0,0),BackColor=Color.Transparent,WrapContents=false,AutoScroll=true};content.Controls.Add(header);
+   if(save.rogue.preparationActive)header.Controls.Add(RogueButton("返回本节剧情",ShowStory,160,42));
+   header.Controls.Add(RogueButton("远征大厅",ShowRogueHome,135,42));header.Controls.Add(RogueButton("生词本",ShowWords,110,42));header.Controls.Add(RogueButton("系统商店",ShowSystemShop,135,42));header.Controls.Add(RogueButton("返回主界面",ShowMain,150,42));
+  }
+  rogueBody=new ExpeditionSurface{Art=sceneArt,PixelArt=wordbook,AlignToParentBackground=wordbook,FullScrollRedraw=wordbook,ShadeAlpha=wordbook?0:55,Dock=DockStyle.Fill,FlowDirection=FlowDirection.TopDown,WrapContents=false,AutoScroll=true,Padding=new Padding(22,15,22,24),BackColor=Color.Transparent};
+  content.Controls.Add(rogueBody);rogueBody.BringToFront();rogueBody.Controls.Add(Lab(title,23,Gold));rogueBody.Resize+=(s,e)=>RogueLayout();
+ }
  void RogueLayout(){if(rogueBody==null||rogueBody.IsDisposed)return;int width=Math.Max(650,rogueBody.ClientSize.Width-65);foreach(Control c in rogueBody.Controls){if(c is RogueCard||c is RogueArena)c.Width=width;else if(c is Label)c.MaximumSize=new Size(width,0);if(c is RogueCard){var card=(RogueCard)c;card.MaximumSize=new Size(width,0);card.MinimumSize=new Size(width,0);foreach(Control child in card.Controls){if(child is VNButton)child.Width=width-45;else if(child is TableLayoutPanel)child.Width=width-45;else if(child is Label)child.MaximumSize=new Size(width-45,0);else if(child is FlowLayoutPanel)child.MaximumSize=new Size(width-45,0);}}}rogueBody.PerformLayout();}
- RogueCard RogueCard(string title,string description){var card=new RogueCard{Width=Math.Max(650,content.Width-85),AutoSize=true,AutoSizeMode=AutoSizeMode.GrowAndShrink,FlowDirection=FlowDirection.TopDown,WrapContents=false,Padding=new Padding(18),Margin=new Padding(6,7,6,7),BackColor=Color.Transparent};card.Controls.Add(Lab(title,16,Gold));var label=Lab(description,11,Muted);label.MaximumSize=new Size(Math.Max(600,content.Width-140),0);card.Controls.Add(label);rogueBody.Controls.Add(card);card.Resize+=(s,e)=>{foreach(var l in card.Controls.OfType<Label>())l.MaximumSize=new Size(Math.Max(580,card.Width-50),0);};return card;}
+ void BuildWordbookSurface(Image sceneArt){
+  content.BackgroundImage=null;
+  var scene=new CardRewardSurface{Dock=DockStyle.Fill,Art=sceneArt,PixelArt=true,ShadeAlpha=0,CompositeChildren=true};
+  var viewport=new Panel{BackColor=Color.Transparent};
+  var body=new ExpeditionSurface{Art=sceneArt,BackgroundSurface=scene,PixelArt=true,FullScrollRedraw=true,ShadeAlpha=0,FlowDirection=FlowDirection.TopDown,WrapContents=false,AutoScroll=true,Padding=new Padding(22,15,22,24)};
+  rogueBody=body;viewport.Controls.Add(body);scene.Controls.Add(viewport);
+  var back=new RogueShowcaseButton{GuildStyle=true,LibraryStyle=true,Text="返回图书馆",Size=new Size(270,72),Font=GameTheme.Body(15)};
+  AddWoodMenuHover(back);back.Click+=(s,e)=>{PlayWoodMenuSound(true);ShowRogueHome();};scene.Controls.Add(back);content.Controls.Add(scene);
+  Action layout=()=>{
+   back.Location=new Point((scene.ClientSize.Width-back.Width)/2,14);
+   viewport.Bounds=new Rectangle(0,100,scene.ClientSize.Width,Math.Max(1,scene.ClientSize.Height-100));
+   // Clip the native scrollbar outside the viewport, keeping native wheel input.
+   body.Bounds=new Rectangle(0,0,viewport.Width+SystemInformation.VerticalScrollBarWidth,viewport.Height);
+   RogueLayout();
+  };
+  scene.Resize+=(s,e)=>layout();layout();
+ }
+ RogueCard RogueCard(string title,string description){var card=new RogueCard{GuildStyle=page=="words",Width=Math.Max(650,content.Width-85),AutoSize=true,AutoSizeMode=AutoSizeMode.GrowAndShrink,FlowDirection=FlowDirection.TopDown,WrapContents=false,Padding=new Padding(18),Margin=new Padding(6,7,6,7),BackColor=Color.Transparent};card.Controls.Add(Lab(title,16,Gold));var label=Lab(description,11,Muted);label.MaximumSize=new Size(Math.Max(600,content.Width-140),0);card.Controls.Add(label);rogueBody.Controls.Add(card);card.Resize+=(s,e)=>{foreach(var l in card.Controls.OfType<Label>())l.MaximumSize=new Size(Math.Max(580,card.Width-50),0);};return card;}
  void RogueActions(RogueCard card,params Control[] buttons){var row=new FlowLayoutPanel{AutoSize=true,MaximumSize=new Size(Math.Max(600,card.Width-40),0),WrapContents=true,Margin=new Padding(0)};row.Controls.AddRange(buttons);card.Controls.Add(row);}
  Image RogueHero(){return CachedImage(Path.Combine(root,"chapters","art","neon","xingyao.png"));}
  List<RogueEntry> OwnRoguePool(){
@@ -73,15 +102,22 @@ public partial class Game {
 }
 
 public class RogueChoice:VNButton {
- bool over;
+ public bool GuildStyle;bool over;
  protected override void OnMouseEnter(EventArgs e){over=true;base.OnMouseEnter(e);}
  protected override void OnMouseLeave(EventArgs e){over=false;base.OnMouseLeave(e);}
- protected override void OnPaint(PaintEventArgs e){ExpeditionVisuals.Button(e.Graphics,ClientRectangle,Text,Font,over||Focused,Enabled);}
+ protected override void OnPaint(PaintEventArgs e){
+  if(!GuildStyle){ExpeditionVisuals.Button(e.Graphics,ClientRectangle,Text,Font,over||Focused,Enabled);return;}
+  GuildChrome.Draw(e.Graphics,ClientRectangle,over||Focused,Enabled);
+  using(var ink=new SolidBrush(Enabled?GuildChrome.Ivory:GuildChrome.Muted))
+  using(var format=new StringFormat{Alignment=StringAlignment.Center,LineAlignment=StringAlignment.Center})
+   GameTheme.DrawPixelString(e.Graphics,Text,Font,ink,new RectangleF(12,5,Width-24,Height-10),format);
+ }
 
 }
 public class RogueCard:FlowLayoutPanel {
+ public bool GuildStyle;
  public RogueCard(){DoubleBuffered=true;SetStyle(ControlStyles.SupportsTransparentBackColor,true);BackColor=Color.Transparent;}
- protected override void OnPaintBackground(PaintEventArgs e){base.OnPaintBackground(e);CyberChrome.Panel(e.Graphics,new Rectangle(1,1,Width-3,Height-3),CyberChrome.Neon);}
+ protected override void OnPaintBackground(PaintEventArgs e){base.OnPaintBackground(e);if(GuildStyle)GuildChrome.Draw(e.Graphics,ClientRectangle);else CyberChrome.Panel(e.Graphics,new Rectangle(1,1,Width-3,Height-3),CyberChrome.Neon);}
  protected override void OnPaint(PaintEventArgs e){base.OnPaint(e);}
 
 }

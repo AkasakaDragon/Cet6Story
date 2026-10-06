@@ -11,7 +11,7 @@ public static class GuildChrome {
   var r=Rectangle.Inflate(bounds,-3,-3);int cut=Math.Min(12,Math.Max(5,h/7));
   using(var shadow=new SolidBrush(Color.FromArgb(125,9,18,23))){var sr=r;sr.Offset(2,3);g.FillPolygon(shadow,GameTheme.Outline(sr,cut));}
   using(var fill=new SolidBrush(enabled?Color.FromArgb(245,25,53,55):Color.FromArgb(245,34,45,47)))g.FillPolygon(fill,GameTheme.Outline(r,cut));
-  using(var pattern=new SolidBrush(Color.FromArgb(15,154,174,143)))for(int y=14;y<h-12;y+=11)for(int x=14+(y%3)*4;x<w-12;x+=19)g.FillRectangle(pattern,x,y,2,1);
+  using(var pattern=new SolidBrush(Color.FromArgb(15,154,174,143)))for(int y=bounds.Top+14;y<bounds.Bottom-12;y+=11)for(int x=bounds.Left+14+((y-bounds.Top)%3)*4;x<bounds.Right-12;x+=19)g.FillRectangle(pattern,x,y,2,1);
   using(var edge=new Pen(active?Color.FromArgb(255,217,142):Color.FromArgb(164,121,65),2))g.DrawPolygon(edge,GameTheme.Outline(r,cut));
   var inner=Rectangle.Inflate(r,-4,-4);
   using(var line=new Pen(active?Color.FromArgb(248,221,162):Color.FromArgb(104,91,61),1))g.DrawPolygon(line,GameTheme.Outline(inner,Math.Max(3,cut-3)));

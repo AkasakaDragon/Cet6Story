@@ -26,7 +26,7 @@ public partial class Game {
   save.rogue.preparationActive=false;
   TowerEngine.Migrate(save.rogue);var p=save.rogue;
   if(p.run!=null&&(p.run.mode=="进阶训练"||p.run.mode=="四级训练"||p.run.mode=="六级挑战")){if(p.run.mode=="进阶训练")p.run.mode="四级训练";p.run.pool=TrainingPool(p.run.mode);}
-  RenderRogueLanding();
+  RenderRogueLanding(true);
  }
  void RenderRogue(){
   var p=save.rogue;TowerEngine.Migrate(p);var r=p.ActiveRun;if(VocabularyCorrections.Apply(save))Persist();if(RefreshStoryExamples(r))Persist();if(r==null){ShowRogueHome();return;}if(r.state=="loot"){TowerEngine.Complete(p);Persist();RenderRogue();return;}if(r.state=="map"){ShowTowerMap(r);return;}if(r.state=="combat"||r.state=="feedback"||r.state=="boss-intro"){RenderFullBattle(r);return;}

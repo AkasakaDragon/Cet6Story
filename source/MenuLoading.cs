@@ -28,13 +28,14 @@ public sealed class MenuLoadingScreen:Control {
 
 public partial class Game {
  MenuLoadingScreen menuLoading;int loadingWordIndex;bool menuExitPending;
- void NavigateMenu(Action action,string destination,bool exit){
-  if(menuExitPending||menuLoading!=null&&!menuLoading.IsDisposed)return;PlayMenuClick();
+ void NavigateMenu(Action action,string destination,bool exit,bool woodenSound=false){
+  if(menuExitPending||menuLoading!=null&&!menuLoading.IsDisposed)return;if(woodenSound)PlayWoodMenuSound(true);else PlayMenuClick();
   // Main-menu navigation already owns an overlay; unwrap these page entries
   // so every other entry point can use the same transition without nesting it.
   if(action==(Action)ShowWords){action=ShowWordsPage;destination="生词本";}
   else if(action==(Action)ShowCardCollection){action=ShowCardCollectionPage;destination="卡牌图鉴";}
   if(exit){menuExitPending=true;var closeDelay=new Timer{Interval=170};closeDelay.Tick+=(s,e)=>{closeDelay.Dispose();if(!IsDisposed)action();};closeDelay.Start();return;}
+  if(action==(Action)ShowWordsPage){action();content.Refresh();content.Focus();UpdateRogueAudio();return;}
   if(destination=="开始新游戏"&&save.hasGame){action();return;}
   string word="resonance",meaning="n. 共鸣；共振";
   var chapter=chapters.FirstOrDefault(c=>c.id==save.lastChapter)??chapters.FirstOrDefault();

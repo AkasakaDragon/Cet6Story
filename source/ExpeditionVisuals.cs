@@ -6,10 +6,31 @@ public static class ExpeditionVisuals {
  public static void Button(Graphics g,Rectangle r,string text,Font font,bool hover,bool enabled){CyberChrome.Button(g,r,text,font,false,hover,enabled);}
 }
 public class ExpeditionSurface:FlowLayoutPanel {
- public bool FullScrollRedraw;public Image Art;Bitmap backdrop;Size backdropSize;
+ public bool FullScrollRedraw,PixelArt,AlignToParentBackground;public CardRewardSurface BackgroundSurface;public int ShadeAlpha=55;public Image Art;Bitmap backdrop;Size backdropSize;Rectangle backdropBounds;
  public ExpeditionSurface(){DoubleBuffered=true;ResizeRedraw=true;SetStyle(ControlStyles.SupportsTransparentBackColor,true);BackColor=Color.Transparent;}
- protected override void OnScroll(ScrollEventArgs e){base.OnScroll(e);if(FullScrollRedraw){Invalidate(true);Update();}}
- protected override void OnPaintBackground(PaintEventArgs e){if(backdrop==null||backdropSize!=ClientSize){if(backdrop!=null)backdrop.Dispose();backdrop=new Bitmap(Math.Max(1,Width),Math.Max(1,Height));using(var g=Graphics.FromImage(backdrop))ExpeditionVisuals.Background(g,Art,ClientRectangle,55);backdropSize=ClientSize;}e.Graphics.DrawImageUnscaled(backdrop,0,0);}
+ [System.Runtime.InteropServices.DllImport("user32.dll")]static extern bool RedrawWindow(IntPtr window,IntPtr rect,IntPtr region,uint flags);
+ protected override CreateParams CreateParams{get{var value=base.CreateParams;if(FullScrollRedraw)value.ExStyle|=0x02000000;return value;}}
+ protected override void OnScroll(ScrollEventArgs e){base.OnScroll(e);if(FullScrollRedraw)Invalidate(true);}
+ protected override void WndProc(ref Message message){
+  int kind=message.Msg;base.WndProc(ref message);
+  // Native scrolling copies old pixels before moving child windows. Repaint the
+  // entire child tree after that move, so translucent plaques never retain them.
+  if(FullScrollRedraw&&(kind==0x0114||kind==0x0115||kind==0x020A||kind==0x020E)&&!IsDisposed&&IsHandleCreated)
+   RedrawWindow(Handle,IntPtr.Zero,IntPtr.Zero,0x0185);
+ }
+ protected override void OnPaintBackground(PaintEventArgs e){
+  if(BackgroundSurface!=null){var origin=BackgroundSurface.PointToClient(PointToScreen(Point.Empty));BackgroundSurface.DrawBackdrop(e.Graphics,new Rectangle(origin,ClientSize));return;}
+  var imageBounds=AlignToParentBackground&&Parent!=null?new Rectangle(-Left,-Top,Parent.ClientSize.Width,Parent.ClientSize.Height):ClientRectangle;
+  if(backdrop==null||backdropSize!=ClientSize||backdropBounds!=imageBounds){
+   if(backdrop!=null)backdrop.Dispose();backdrop=new Bitmap(Math.Max(1,Width),Math.Max(1,Height));
+   using(var g=Graphics.FromImage(backdrop)){
+    if(AlignToParentBackground){g.Clear(Color.FromArgb(23,32,37));g.InterpolationMode=PixelArt?InterpolationMode.NearestNeighbor:InterpolationMode.HighQualityBicubic;g.PixelOffsetMode=PixelOffsetMode.Half;if(Art!=null)g.DrawImage(Art,imageBounds);}
+    else ExpeditionVisuals.Background(g,Art,ClientRectangle,ShadeAlpha,PixelArt);
+   }
+   backdropSize=ClientSize;backdropBounds=imageBounds;
+  }
+  e.Graphics.DrawImageUnscaled(backdrop,0,0);
+ }
  protected override void Dispose(bool disposing){if(disposing&&backdrop!=null)backdrop.Dispose();base.Dispose(disposing);}
 }
 public partial class Game {

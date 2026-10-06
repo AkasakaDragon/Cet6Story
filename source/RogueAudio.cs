@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.IO;
 using System.Text;
 using System.Collections.Generic;
@@ -19,6 +19,7 @@ public sealed class RogueAudioMixer:IDisposable {
  [DllImport("winmm.dll")] static extern uint waveOutClose(IntPtr handle);
  class Buffer{public IntPtr data,header;public bool prepared,queued;public readonly short[] output=new short[Samples];}
  class Voice{public short[] clip;public int position;}
+ readonly short[] albumPageTurn=PageTurnAudio.Build();
  readonly short[][] castingEffects={CastingAudio.Build(0),CastingAudio.Build(1),CastingAudio.Build(2)};
  readonly Dictionary<string,short[]> monsterEffects=new Dictionary<string,short[]>();IntPtr device;readonly List<Buffer> buffers=new List<Buffer>();readonly List<Voice> voices=new List<Voice>();readonly short[] music,menuMusic,attack,hurt,purchaseSuccess,purchaseFailed,coinGain,cardHover,cardPlay,menuClick;int position;int musicTrack;double gain;volatile bool active,disposed;const int Samples=2048;readonly object audioGate=new object();Thread worker;volatile string audioError;long submittedBuffers;
  public volatile int MasterVolume=100,MusicVolume=70,EffectsVolume=85;public volatile bool Ducked;public bool Active{get{return active;}}public int ActiveEffects{get{lock(audioGate)return voices.Count;}}public string Error{get{return audioError;}}public long SubmittedBuffers{get{return Interlocked.Read(ref submittedBuffers);}}
@@ -47,6 +48,9 @@ public sealed class RogueAudioMixer:IDisposable {
  public void CastingEffect(int style){lock(audioGate){if(!disposed&&active&&EffectsVolume>0&&MasterVolume>0){if(voices.Count>=8)voices.RemoveAt(0);voices.Add(new Voice{clip=castingEffects[Math.Max(0,Math.Min(2,style))]});}}}
  public void HandEffect(bool play){lock(audioGate){if(!disposed&&active&&EffectsVolume>0&&MasterVolume>0){if(voices.Count>=8)voices.RemoveAt(0);voices.Add(new Voice{clip=play?cardPlay:cardHover});}}}
  public void MenuClickEffect(){lock(audioGate){if(!disposed&&active&&EffectsVolume>0&&MasterVolume>0){if(voices.Count>=8)voices.RemoveAt(0);voices.Add(new Voice{clip=menuClick});}}}
+ readonly short[] woodHover=MenuClickAudio.BuildWood(false),woodClick=MenuClickAudio.BuildWood(true);
+ public void WoodMenuEffect(bool click){lock(audioGate){if(!disposed&&active&&EffectsVolume>0&&MasterVolume>0){if(voices.Count>=8)voices.RemoveAt(0);voices.Add(new Voice{clip=click?woodClick:woodHover});}}}
+ public void AlbumPageEffect(){lock(audioGate){if(!disposed&&active&&EffectsVolume>0&&MasterVolume>0){if(voices.Count>=8)voices.RemoveAt(0);voices.Add(new Voice{clip=albumPageTurn});}}}
  public void CoinEffect(){lock(audioGate){if(!disposed&&active&&EffectsVolume>0&&MasterVolume>0){if(voices.Count>=8)voices.RemoveAt(0);voices.Add(new Voice{clip=coinGain});}}}
  public void ShopEffect(bool success){lock(audioGate){if(!disposed&&active&&EffectsVolume>0&&MasterVolume>0){if(voices.Count>=8)voices.RemoveAt(0);voices.Add(new Voice{clip=success?purchaseSuccess:purchaseFailed});}}}
  public void Pump(){lock(audioGate)PumpLocked();}
@@ -62,8 +66,11 @@ public partial class Game {
  int observedCoins=-1;RogueAudioMixer rogueAudio;System.Windows.Forms.Timer rogueAudioClock;bool rogueAudioFailed;DateTime wordDuckUntil;
  bool RogueAudioPage(){return page=="rogue"||page=="prep-home"||page=="prep-intro"||page=="prep-combat"||page=="tavern-battle";}
  void InitRogueAudio(){observedCoins=save.rogue.coins;rogueAudioClock=new System.Windows.Forms.Timer{Interval=20};rogueAudioClock.Tick+=(s,e)=>UpdateRogueAudio();rogueAudioClock.Start();}
- void UpdateRogueAudio(){if(rogueAudioFailed)return;try{bool menu=page=="home"||page=="settings";bool enabled=menu||RogueAudioPage()||page=="system-shop";if(rogueAudio==null&&enabled)rogueAudio=new RogueAudioMixer(Path.Combine(root,"assets","rogue","audio"));if(rogueAudio==null)return;if(rogueAudio.Error!=null)throw new Exception(rogueAudio.Error);rogueAudio.SetMenuMusic(menu);rogueAudio.MasterVolume=MasterSoundVolume();rogueAudio.MusicVolume=page=="system-shop"?0:save.rogueMusicVolume;rogueAudio.EffectsVolume=save.rogueEffectsVolume;rogueAudio.SetActive(enabled);if(enabled){var mode=new StringBuilder(32);mciSendString("status wordaudio mode",mode,mode.Capacity,IntPtr.Zero);rogueAudio.Ducked=DateTime.UtcNow<wordDuckUntil||mode.ToString().Trim()=="playing"||(speech!=null&&speech.State==SynthesizerState.Speaking);}}catch(Exception ex){rogueAudioFailed=true;if(rogueAudio!=null){rogueAudio.Dispose();rogueAudio=null;}SetStatus("游戏音频不可用："+ex.Message);}}
+ void UpdateRogueAudio(){if(rogueAudioFailed)return;try{bool menu=page=="home"||page=="settings";bool enabled=menu||RogueAudioPage()||page=="system-shop"||page=="words"||page=="card-collection";if(rogueAudio==null&&enabled)rogueAudio=new RogueAudioMixer(Path.Combine(root,"assets","rogue","audio"));if(rogueAudio==null)return;if(rogueAudio.Error!=null)throw new Exception(rogueAudio.Error);rogueAudio.SetMenuMusic(menu);rogueAudio.MasterVolume=MasterSoundVolume();rogueAudio.MusicVolume=page=="system-shop"||page=="words"||page=="card-collection"?0:save.rogueMusicVolume;rogueAudio.EffectsVolume=save.rogueEffectsVolume;rogueAudio.SetActive(enabled);if(enabled){var mode=new StringBuilder(32);mciSendString("status wordaudio mode",mode,mode.Capacity,IntPtr.Zero);rogueAudio.Ducked=DateTime.UtcNow<wordDuckUntil||mode.ToString().Trim()=="playing"||(speech!=null&&speech.State==SynthesizerState.Speaking);}}catch(Exception ex){rogueAudioFailed=true;if(rogueAudio!=null){rogueAudio.Dispose();rogueAudio=null;}SetStatus("游戏音频不可用："+ex.Message);}}
  void PlayMenuClick(){UpdateRogueAudio();if(rogueAudio!=null)rogueAudio.MenuClickEffect();}
+ void PlayWoodMenuSound(bool click){UpdateRogueAudio();if(rogueAudio!=null)rogueAudio.WoodMenuEffect(click);}
+ void PlayCardAlbumTurn(){UpdateRogueAudio();if(rogueAudio!=null)rogueAudio.AlbumPageEffect();}
+ void AddWoodMenuHover(Control button){button.MouseEnter+=(sender,e)=>{if(button.Enabled&&(menuLoading==null||menuLoading.IsDisposed))PlayWoodMenuSound(false);};}
  void PlayShopPurchase(bool success){if(page!="system-shop")return;UpdateRogueAudio();if(rogueAudio!=null)rogueAudio.ShopEffect(success);}
  void PlayRogueHit(bool hurt){if(!RogueAudioPage())return;UpdateRogueAudio();if(rogueAudio!=null)rogueAudio.Effect(hurt);}
  void ObserveCoinGain(){int currentCoins=save.rogue.coins;bool gained=observedCoins>=0&&currentCoins>observedCoins;observedCoins=currentCoins;if(gained){UpdateRogueAudio();if(rogueAudio!=null)rogueAudio.CoinEffect();}}

@@ -67,7 +67,18 @@ public partial class Game {
   Action layout=()=>{int gap=18,count=Math.Max(1,cards.Count);int cardHeight=Math.Min(390,Math.Max(150,Math.Min(surface.Height-175,((surface.Width-64-gap*(count-1))/count)*3/2)));int cardWidth=cardHeight*2/3;int textWidth=Math.Max(100,Math.Min(960,surface.Width-48));title.MaximumSize=description.MaximumSize=new Size(textWidth,0);title.Size=title.GetPreferredSize(new Size(textWidth,0));description.Size=description.GetPreferredSize(new Size(textWidth,0));int blockHeight=title.Height+description.Height+cardHeight+44+48;int top=Math.Max(16,(surface.Height-blockHeight)/2);title.Location=new Point((surface.Width-title.Width)/2,top);description.Location=new Point((surface.Width-description.Width)/2,title.Bottom+10);int rowY=description.Bottom+18,total=cards.Count*cardWidth+Math.Max(0,cards.Count-1)*gap;for(int i=0;i<cards.Count;i++)cards[i].Bounds=new Rectangle((surface.Width-total)/2+i*(cardWidth+gap),rowY,cardWidth,cardHeight);skip.Width=Math.Min(280,surface.Width-48);skip.Location=new Point((surface.Width-skip.Width)/2,rowY+cardHeight+18);};surface.Resize+=(sender,args)=>layout();layout();
  }
  void ShowCardCollection(){NavigateMenu(ShowCardCollectionPage,"卡牌图鉴",false);}
- void ShowCardCollectionPage(){CardBattle.Profile(save.rogue);RoguePage("卡牌图鉴");var parent=rogueBody.Parent;parent.Controls.Remove(rogueBody);rogueBody.Dispose();rogueBody=null;var canvas=new CardCollectionCanvas{Dock=DockStyle.Fill,Description="已解锁 "+save.rogue.unlockedCards.Count+" / "+CardBattle.Cards.Length+" · 消耗牌只离开本场战斗，下一场恢复。\n点击卡牌放大，再次点击收起；滚轮翻阅。已解锁在前，未解锁在下。"};parent.Controls.Add(canvas);canvas.BringToFront();canvas.LoadCards(CardBattle.Cards,save.rogue.unlockedCards,SupportAtlas(),CardFrameAtlas());canvas.Focus();}
+ void ShowCardCollectionPage(){
+  CardBattle.Profile(save.rogue);
+  using(var redraw=new BattleRedrawScope(content)){
+   ClearPage();page="card-collection";rogueBody=null;rogueArena=null;
+   var canvas=new CardCollectionCanvas{Dock=DockStyle.Fill,SceneArt=RogueUiArt("card-collection-morning"),PageTurnSound=PlayCardAlbumTurn,ReturnToLibrary=ShowRogueHome,ButtonHoverSound=()=>PlayWoodMenuSound(false),ButtonClickSound=()=>PlayWoodMenuSound(true)};
+   content.Controls.Add(canvas);canvas.LoadCards(CardBattle.Cards,save.rogue.unlockedCards,SupportAtlas(),CardFrameAtlas());
+   content.ResumeLayout(true);content.PerformLayout();content.SuspendLayout();
+   if(content.Width>0&&content.Height>0)using(var first=new Bitmap(content.Width,content.Height))content.DrawToBitmap(first,new Rectangle(Point.Empty,first.Size));
+   canvas.Focus();
+  }
+  UpdateRogueAudio();
+ }
 }
 
 
@@ -97,7 +108,10 @@ public sealed class CardRewardSurface:Panel {
  Bitmap backdrop;Size backdropSize;Image backdropArt;bool backdropPixelArt;int backdropShadeAlpha;
  public CardRewardSurface(){DoubleBuffered=true;ResizeRedraw=true;BackColor=Color.FromArgb(13,25,34);}
  protected override CreateParams CreateParams {get {var value=base.CreateParams;if(CompositeChildren)value.ExStyle|=0x02000000;return value;}}
- protected override void OnPaintBackground(PaintEventArgs e){if(backdrop==null||backdropSize!=ClientSize||backdropArt!=Art||backdropPixelArt!=PixelArt||backdropShadeAlpha!=ShadeAlpha){if(backdrop!=null)backdrop.Dispose();backdrop=new Bitmap(Math.Max(1,Width),Math.Max(1,Height));using(var g=Graphics.FromImage(backdrop))ExpeditionVisuals.Background(g,Art,new Rectangle(Point.Empty,backdrop.Size),ShadeAlpha,PixelArt);backdropSize=ClientSize;backdropArt=Art;backdropPixelArt=PixelArt;backdropShadeAlpha=ShadeAlpha;}e.Graphics.DrawImageUnscaled(backdrop,0,0);}
+ void EnsureBackdrop(){if(backdrop==null||backdropSize!=ClientSize||backdropArt!=Art||backdropPixelArt!=PixelArt||backdropShadeAlpha!=ShadeAlpha){if(backdrop!=null)backdrop.Dispose();backdrop=new Bitmap(Math.Max(1,Width),Math.Max(1,Height));using(var g=Graphics.FromImage(backdrop))ExpeditionVisuals.Background(g,Art,new Rectangle(Point.Empty,backdrop.Size),ShadeAlpha,PixelArt);backdropSize=ClientSize;backdropArt=Art;backdropPixelArt=PixelArt;backdropShadeAlpha=ShadeAlpha;}}
+ // Supply an opaque scene slice so child plaques never depend on native Button transparency.
+ public void DrawBackdrop(Graphics graphics,Rectangle region){EnsureBackdrop();graphics.DrawImageUnscaled(backdrop,-region.Left,-region.Top);}
+ protected override void OnPaintBackground(PaintEventArgs e){EnsureBackdrop();e.Graphics.DrawImageUnscaled(backdrop,0,0);}
  protected override void Dispose(bool disposing){if(disposing&&backdrop!=null){backdrop.Dispose();backdrop=null;}base.Dispose(disposing);}
 }
 
