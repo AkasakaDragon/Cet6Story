@@ -14,9 +14,10 @@ public static class HomeMenuChecks {
   using(var game=new Game()){
    game.Opacity=0;game.Show();game.Bounds=new Rectangle(0,0,1280,780);Call(game,"ShowMain");Application.DoEvents();
    var stage=(ArtPanel)typeof(Game).GetField("stage",BindingFlags.Instance|BindingFlags.NonPublic).GetValue(game);
-   var buttons=stage.Controls.OfType<VNButton>().Where(b=>b.StaticMenuStyle).ToArray();
-   if(buttons.Length!=6||stage.Controls.OfType<VNButton>().Any(b=>b.Text=="封印酒馆 · 新主线"))throw new Exception("Static artwork with six menu actions and no separate tavern entry");
+   var buttons=stage.Controls.OfType<VNButton>().Where(b=>b.HomeStyle).ToArray();
+   if(buttons.Length!=5||stage.Controls.OfType<VNButton>().Any(b=>b.Text=="封印酒馆 · 新主线"))throw new Exception("Static artwork with five menu actions and no separate tavern entry");
    var save=typeof(Game).GetField("save",BindingFlags.Instance|BindingFlags.NonPublic).GetValue(game) as Save;
+   if(!buttons.Select(b=>b.Text).SequenceEqual(new[]{"继续游戏","开始新游戏","成就","设置","退出"}))throw new Exception("Home menu labels");
    if(buttons[0].Enabled!=save.hasGame)throw new Exception("Continue enablement");
    Capture(game,Path.Combine(args[0],"home-wide.png"));int builds=stage.SceneBuilds;
    using(var first=new Bitmap(stage.Width,stage.Height))using(var second=new Bitmap(stage.Width,stage.Height)){
@@ -35,11 +36,12 @@ public static class HomeMenuChecks {
     if(!button.Bounds.Contains(center))throw new Exception("Hit area not aligned to artwork");
    }
    Capture(game,Path.Combine(args[0],"home-small.png"));
-   buttons[4].PerformClick();
+   buttons[3].PerformClick();
    var navigationDeadline=DateTime.UtcNow.AddSeconds(8);while(!stage.IsDisposed&&DateTime.UtcNow<navigationDeadline){Application.DoEvents();System.Threading.Thread.Sleep(20);}
    if(!stage.IsDisposed)throw new Exception("Settings button failed to navigate");
    var page=typeof(Game).GetField("page",BindingFlags.Instance|BindingFlags.NonPublic).GetValue(game) as string;
    if(page!="settings")throw new Exception("Settings destination");
+   Call(game,"ShowAchievements");if((string)typeof(Game).GetField("page",BindingFlags.Instance|BindingFlags.NonPublic).GetValue(game)!="achievements")throw new Exception("Achievements destination");Capture(game,Path.Combine(args[0],"achievements-small.png"));
    // Dispose without closing: avoid persisting preview state to the player's save.
    typeof(Game).GetMethod("CloseRogueAudio",BindingFlags.Instance|BindingFlags.NonPublic).Invoke(game,null);
   }
@@ -49,6 +51,6 @@ public static class HomeMenuChecks {
    reader.BaseStream.Position=44;int peak=0;while(reader.BaseStream.Position<reader.BaseStream.Length)peak=Math.Max(peak,Math.Abs((int)reader.ReadInt16()));
    if(peak<1000||peak>=32767)throw new Exception("Silent or clipped music");
   }
-  Console.WriteLine("PASS: six menu hit areas, continue enablement, wide/minimum layouts, static pixels, cached scene reuse, settings click navigation, stereo music without clipping.");
+  Console.WriteLine("PASS: five menu hit areas, continue enablement, wide/minimum layouts, static pixels, cached scene reuse, settings click navigation, stereo music without clipping.");
  }
 }

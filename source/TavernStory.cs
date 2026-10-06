@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.IO;
 using System.Linq;
 using System.Drawing;
@@ -13,10 +13,19 @@ public static class TavernStory {
  public const int TransferLine=12;
  public const string EntranceFlag="tavern-knight-entrance-seen";
  public const int EntranceLine=17;
- public const int BattleLine=27;
+ public const int BattleLine=24;
  public const string ScriptFlag="tavern-script-without-dorm-v2";
+ public const string WaystationFlag="waystation-prologue-v3";
+ static void MigrateWaystation(Save s){
+  if(s==null||s.storyFlags==null||s.storyFlags.Contains(WaystationFlag))return;
+  if(s.positions.ContainsKey(Id)&&s.positions[Id]>=12)s.positions[Id]=12;
+  s.heardLines.RemoveAll(k=>{int n;return k.StartsWith(Id+"/line/")&&int.TryParse(k.Substring((Id+"/line/").Length),out n)&&n>=12;});
+  SectionAttempt a;if(s.sectionAttempts.TryGetValue(Id,out a)&&a.replayAfterLine>=12)a.replayAfterLine=-1;
+  s.storyFlags.Add(WaystationFlag);
+ }
  public static void Migrate(Save s){
-  if(s==null||s.storyFlags==null||s.storyFlags.Contains(ScriptFlag))return;
+  if(s==null||s.storyFlags==null)return;
+  if(s.storyFlags.Contains(ScriptFlag)){MigrateWaystation(s);return;}
   if(s.positions.ContainsKey(Id))s.positions[Id]=Math.Max(0,s.positions[Id]-8);
   string prefix=Id+"/line/";
   var heard=s.heardLines.Where(k=>k.StartsWith(prefix)).ToList();s.heardLines.RemoveAll(k=>k.StartsWith(prefix));
@@ -24,6 +33,7 @@ public static class TavernStory {
   Shift(s.quizAnswers);Shift(s.answerStarted);Shift(s.answerTimely);
   SectionAttempt attempt;if(s.sectionAttempts.TryGetValue(Id,out attempt)&&attempt.replayAfterLine>=0)attempt.replayAfterLine=attempt.replayAfterLine>=8?attempt.replayAfterLine-8:-1;
   s.storyFlags.Add(ScriptFlag);
+  MigrateWaystation(s);
  }
  static void Shift<T>(Dictionary<string,T> values){
   string prefix=Id+"/q/";var old=values.Where(k=>k.Key.StartsWith(prefix)).ToList();
@@ -58,7 +68,7 @@ public static class TavernStory {
 }
 
 public partial class Game {
- bool TryTavernTransition(){return TryTavernTransfer()||TryKnightEntrance();}
+ bool TryTavernTransition(){return TryTavernTransfer();}
  bool TryKnightEntrance(){if(!TavernStory.Is(current)||index!=TavernStory.EntranceLine||save.storyFlags.Contains(TavernStory.EntranceFlag))return false;ShowKnightEntrance();return true;}
  void ShowKnightEntrance(){
   ClearPage();page="knight-entrance";save.positions[current.id]=index;Persist();bool finished=false;
@@ -99,7 +109,7 @@ public partial class Game {
  void ShowTavernHub(){
   ClearPage();page="tavern-hub";LoadStage(current,false);stage.Novel=true;stage.Art=CachedImage(Path.Combine(root,"chapters","art","tavern","tavern-ruins.png"));stage.Snap();
   var panel=new FlowLayoutPanel{FlowDirection=FlowDirection.TopDown,WrapContents=false,AutoScroll=true,BackColor=Color.FromArgb(235,18,29,33),Size=new Size(460,420),Padding=new Padding(20)};stage.Controls.Add(panel);
-  panel.Controls.Add(Lab("封印酒馆 · 主线章节",23,Gold));panel.Controls.Add(Lab("序幕：第一盏灯",17));panel.Controls.Add(Lab("逐句英文配音 · 四道分段理解题\n中英文字幕分别开关；点击英文单词可查词。\n首次观看也可开中文，答错不影响剧情。",11));
+  panel.Controls.Add(Lab("封印酒馆 · 主线章节",23,Gold));panel.Controls.Add(Lab("序幕：第一盏灯",17));panel.Controls.Add(Lab("逐句英文配音 · 破败驿站初遇\n中英文字幕分别开关；点击英文单词可查词。\n首次观看也可开中文，答错不影响剧情。",11));
   panel.Controls.Add(Btn("继续序幕",EnterTavern,true));panel.Controls.Add(Btn("从头重看序幕",()=>{current=chapters.First(TavernStory.Is);ResetSection();save.tavernBattle=null;save.storyFlags.Remove(TavernStory.BattleFlag);save.storyFlags.Remove(TavernStory.OpeningFlag);save.storyFlags.Remove(TavernStory.TransferFlag);save.storyFlags.Remove(TavernStory.EntranceFlag);ShowStory();}));
   panel.Controls.Add(Lab("第一章：今天开始营业 · 后续开放",12,Muted));panel.Controls.Add(Btn("返回主界面",ShowMain));
   Action place=()=>{panel.Location=new Point(Math.Max(16,(stage.Width-panel.Width)/2),Math.Max(16,(stage.Height-panel.Height)/2));panel.Height=Math.Min(420,stage.Height-32);};stage.Resize+=(s,e)=>place();place();
@@ -107,7 +117,6 @@ public partial class Game {
  bool TryTavernBattle(){
   if(!TavernStory.Is(current)||index!=TavernStory.BattleLine||save.storyFlags.Contains(TavernStory.BattleFlag))return false;
   if(menuLoading!=null&&!menuLoading.IsDisposed)return true;
-  if(!LineHeard()){PlayCurrent();return true;}
   StopAudio();NavigateMenu(ShowTavernBattle,"战斗",false);return true;
  }
  void ShowTavernBattle(){
@@ -119,7 +128,7 @@ public partial class Game {
   return CardBattle.EndTurn(r);
  }
  void ContinueTavernBattle(){
-  var r=save.tavernBattle;if(r.state=="won"){StoryRoutes.Flag(save,TavernStory.BattleFlag);save.tavernBattle=null;index=TavernStory.BattleLine+1;Persist();ShowStory();PlayCurrent();}
+  var r=save.tavernBattle;if(r.state=="won"){StoryRoutes.Flag(save,TavernStory.BattleFlag);save.tavernBattle=null;index=TavernStory.BattleLine;save.positions[current.id]=index;Persist();CompleteTavern();}
   else if(r.state=="lost"){save.tavernBattle=null;ShowTavernBattle();}
   else if(r.state=="feedback"){TavernStory.NextTurn(r);ShowTavernBattle();}
  }
@@ -127,7 +136,7 @@ public partial class Game {
   if(Attempt().finished==0)FinishSectionTiming();int correct=current.questions.Count(q=>save.quizAnswers.ContainsKey(InlineKey(q))&&save.quizAnswers[InlineKey(q)]==q.answer);
   int stars=SectionRules.Stars(correct,current.questions.Count,SectionSeconds()<=SectionLimit());save.sectionStars[current.id]=Math.Max(stars,save.sectionStars.ContainsKey(current.id)?save.sectionStars[current.id]:0);
   bool fresh=!save.completed.Contains(current.id);if(fresh){save.completed.Add(current.id);save.xp+=60;}Persist();
-  ClearPage();page="tavern-ending";var p=PageFlow();p.Controls.Add(Lab("序幕完成 · 第一盏灯",26,Gold));p.Controls.Add(Lab(current.ending,13));p.Controls.Add(Lab("听力 "+correct+" / 4 · "+new string('★',stars)+new string('☆',3-stars)+(fresh?" · 首次完成 +60 XP":" · 完成奖励已领取"),16));p.Controls.Add(Lab("听力成绩用于复习反馈，答错也能完成序幕。酒馆经营与下一章尚未开放。",11,Muted));
+  ClearPage();page="tavern-ending";var p=PageFlow();p.Controls.Add(Lab("序幕完成 · 第一盏灯",26,Gold));p.Controls.Add(Lab(current.ending,13));p.Controls.Add(Lab("听力 "+correct+" / "+current.questions.Count+" · "+new string('★',stars)+new string('☆',3-stars)+(fresh?" · 首次完成 +60 XP":" · 完成奖励已领取"),16));p.Controls.Add(Lab("听力成绩用于复习反馈，答错也能完成序幕。后续章节尚未开放。",11,Muted));
   foreach(var q in current.questions){int selected;string answer=save.quizAnswers.TryGetValue(InlineKey(q),out selected)?((char)('A'+selected)).ToString():"未作答";var text=Lab(q.prompt+"\n你的答案 "+answer+" · 正确答案 "+(char)('A'+q.answer)+"\n"+q.explanation,12);text.MaximumSize=new Size(900,0);p.Controls.Add(text);}
   p.Controls.Add(Btn("整节连续重听",()=>{Attempt().review=true;index=0;ShowStory();ReviewSection();},true));p.Controls.Add(Btn("主线章节",ShowTavernHub));
  }

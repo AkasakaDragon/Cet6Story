@@ -40,7 +40,7 @@ public partial class Game {
   RoguePage("词域远征 · "+r.mode);rogueBody.Controls.Add(Lab("生命 "+r.hp+" / "+r.maxHp+"  ·  攻击 "+r.attack+"  ·  护甲 "+r.armor+"  ·  金币 "+p.coins+"  ·  连击 "+r.combo,12,Gold));
   if(!String.IsNullOrEmpty(r.vocabularyChapter))rogueBody.Controls.Add(Lab("本节词汇已准备 "+PreparationEngine.Count(p,r.vocabularyChapter,r.pool)+" / "+r.pool.Count,11,Accent));
   bool battle=r.state=="combat"||r.state=="feedback"||r.state=="boss-intro";
-  rogueArena=new RogueArena{Art=TowerBackground(r),Hero=RogueHero(),EnemyArt=battle?TowerEnemy(r):null,PistolFrames=CombatFrames("pistol",false),ReactionFrames=CombatFrames("reactions",false),Effects=CombatFrames("effects",true),Run=r,Height=Math.Max(190,Math.Min(300,content.Height*40/100)),Mode=r.state,ShowDrone=battle,HitSound=PlayRogueHit,AnimateHit=pendingTowerEffect};pendingTowerEffect=false;rogueArena.Dispose();rogueArena=null;
+  rogueArena=new RogueArena{Art=TowerBackground(r),Hero=BattleHero(),EnemyArt=battle?TowerEnemy(r):null,PistolFrames=BattleHeroFrames("pistol"),ReactionFrames=BattleHeroFrames("reactions"),Effects=CombatFrames("effects",true),Run=r,Height=Math.Max(190,Math.Min(300,content.Height*40/100)),Mode=r.state,ShowDrone=battle,HitSound=PlayRogueHit,AnimateHit=pendingTowerEffect};pendingTowerEffect=false;rogueArena.Dispose();rogueArena=null;
   if(r.state=="combat")RenderRogueQuestion(r);
   else if(r.state=="feedback")RenderTowerFeedback(r);
   else if(r.state=="card-reward"){RenderCardRewards(r);}else if(r.state=="reward"){

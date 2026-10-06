@@ -16,5 +16,5 @@ public partial class RogueArena {
  float CastingWidth(float height){float width=0;if(CastFrames!=null)foreach(var set in CastFrames)width=Math.Max(width,MaxSpriteWidth(set,height,null));return width;}
 }
 public partial class Game {
- Image[][] LoadCastingFrames(){var result=new Image[3][];for(int style=0;style<3;style++){string file=Path.Combine(root,"assets","rogue","combat","cast-"+style+".png");if(!File.Exists(file))continue;string prefix="casting:"+style+":";Image cached;if(!imageCache.TryGetValue(prefix+0,out cached)){var frames=CastingSprites.Smooth(CastingSprites.Extract(CachedImage(file)));for(int i=0;i<frames.Length;i++)imageCache[prefix+i]=frames[i];}result[style]=new Image[8];for(int i=0;i<8;i++)result[style][i]=imageCache[prefix+i];}return result;}
+ Image[][] LoadCastingFrames(){if(BattleCharacter("hero-female")!=null)return null;var result=new Image[3][];for(int style=0;style<3;style++){string file=Path.Combine(root,"assets","rogue","combat","cast-"+style+".png");if(!File.Exists(file))continue;string prefix="casting:"+style+":";Image cached;if(!imageCache.TryGetValue(prefix+0,out cached)){var frames=CastingSprites.Smooth(CastingSprites.Extract(CachedImage(file)));for(int i=0;i<frames.Length;i++)imageCache[prefix+i]=frames[i];}result[style]=new Image[8];for(int i=0;i<8;i++)result[style][i]=imageCache[prefix+i];}return result;}
 }

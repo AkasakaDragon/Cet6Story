@@ -34,7 +34,7 @@ public partial class Game {
   var quitButton=ShowcaseButton("结束本局",()=>{if(GameMessage.Show(this,"结束当前远征？已获得的金币、词汇准备与学习记录保留。","结束远征",MessageBoxButtons.YesNo)==DialogResult.Yes){RogueEngine.Finish(p,false);SaveRogue();}},132,40);quitButton.GuildStyle=true;resume.Controls.Add(quitButton);
   var infoStrip=new RogueShowcasePanel{GuildStyle=true,Visible=false};scene.Controls.Add(infoStrip);
   var info=ShowcaseLabel("无提示答对两种选择题即可掌握单词  ·  答错的词自动加入生词本",10,GuildChrome.Muted);infoStrip.Controls.Add(info);
-  var nav=new[]{new{Text="玩法说明",Run=(Action)(()=>GameMessage.Show(this,"点击亮起的地图节点向上推进。小怪掉落金币和卡牌；精英额外提供赋能；火堆可回血或强化攻击，宝箱和问号事件也有奖励。\n每词每日首次无提示答对可获得 3 金币。每回合先出牌，再回答单词题。答错的词会自动收藏。","远征玩法"))},new{Text="卡牌图鉴",Run=(Action)ShowCardCollection},new{Text="生词本",Run=(Action)ShowWords},new{Text="系统商店",Run=(Action)ShowSystemShop},new{Text="主界面",Run=(Action)ShowMain}};
+  var nav=new[]{new{Text="玩法说明",Run=(Action)(()=>GameMessage.Show(this,"点击亮起的地图节点向上推进。小怪掉落金币和卡牌；精英额外提供赋能；火堆可回血或强化攻击，宝箱和问号事件也有奖励。\n每词每日首次无提示答对可获得 3 金币。每回合先出牌，再回答单词题。答错的词会自动收藏。","远征玩法"))},new{Text="卡牌图鉴",Run=(Action)ShowCardCollection},new{Text="生词本",Run=(Action)ShowWords},new{Text="主界面",Run=(Action)ShowMain}};
   var buttons=nav.Select(n=>ShowcaseButton(n.Text=="主界面"?"返回图书馆":n.Text,n.Text=="主界面"?(Action)(()=>{PlayWoodMenuSound(true);ShowRogueHome();}):n.Run,112,40)).ToArray();foreach(var b in buttons){b.GuildStyle=true;scene.Controls.Add(b);}
   if(libraryHome){
    // Keep the original training and utility controls available, but hide them on the library home.
@@ -87,7 +87,7 @@ public partial class Game {
   var retained=ShowcaseLabel("金币、收藏与词汇准备已保留；本局攻击、护甲和赋能已结算。",10,Muted);panel.Controls.Add(retained);
   var wrong=ShowcaseLabel(r.wrongWords!=null&&r.wrongWords.Count>0?"待复习  ·  "+String.Join("  /  ",r.wrongWords.Take(8))+(r.wrongWords.Count>8?"  …":""):"本局没有待复习错词",11,r.wrongWords!=null&&r.wrongWords.Count>0?Gold:Accent);panel.Controls.Add(wrong);
   var back=ShowcaseButton("返回远征大厅",ShowRogueHome,174,46);panel.Controls.Add(back);
-  var shop=ShowcaseButton("主线系统商店",ShowSystemShop,174,46);panel.Controls.Add(shop);
+  var shop=ShowcaseButton("成就",ShowAchievements,174,46);panel.Controls.Add(shop);
   var review=ShowcaseButton("复习错词",ShowWords,174,46);panel.Controls.Add(review);
   RogueShowcaseButton enter=null,restart=null,map=null;Label prepNote=null;
   if(prep){enter=ShowcaseButton("进入本节剧情",ShowStory,174,46);enter.Enabled=current!=null&&PreparationReady(current);panel.Controls.Add(enter);restart=ShowcaseButton("再来一局",StartPreparation,174,46);panel.Controls.Add(restart);map=ShowcaseButton("返回主线地图",ShowStoryMap,174,46);panel.Controls.Add(map);prepNote=ShowcaseLabel(enter.Enabled?"本节词汇已准备完成":"本节词汇尚未准备完成，可以再来一局继续积累进度。",10,enter.Enabled?Accent:Muted);panel.Controls.Add(prepNote);}

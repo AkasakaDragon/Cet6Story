@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Drawing;
@@ -13,7 +13,7 @@ public sealed class CardCollectionCanvas:Control {
  readonly Font titleFont=GameTheme.Body(20,FontStyle.Bold);
  HashSet<string> ownedCards;Image atlas,frames;Bitmap backdrop,enlarged,oldSpread,newSpread;
  Size backdropSize;Image backdropArt;int pageIndex,hover=-1,selected=-1,direction;string hoverButton="";
- public Image SceneArt;public string Description;public Action PageTurnSound,ReturnToLibrary,ButtonHoverSound,ButtonClickSound;
+ public Image SceneArt;public string Description;public string ReturnText="返回图书馆";public Action PageTurnSound,ReturnToLibrary,ButtonHoverSound,ButtonClickSound;
  public int PageIndex{get{return pageIndex;}}public int PageCount{get{return Math.Max(1,(cards.Count+7)/8);}}
  public bool IsTurning{get{return oldSpread!=null;}}public int ScrollOffset{get{return pageIndex*8;}}
  public CardCollectionCanvas(){SetStyle(ControlStyles.UserPaint|ControlStyles.AllPaintingInWmPaint|ControlStyles.OptimizedDoubleBuffer|ControlStyles.ResizeRedraw|ControlStyles.Selectable,true);BackColor=GameTheme.Navy;Font=GameTheme.Body(11);TabStop=true;AccessibleName="卡牌图鉴 · 翻页书册";turnTimer.Tick+=(s,e)=>{if(turnClock.ElapsedMilliseconds>=380)FinishTurn();Invalidate();};}
@@ -145,7 +145,7 @@ public sealed class CardCollectionCanvas:Control {
   if(IsTurning)DrawTurningSpread(g);else DrawSpread(g,pageIndex,true);
   var title=new Rectangle((Width-260)/2,Math.Max(16,(int)(Height*.10)),260,60);GuildChrome.Draw(g,title);using(var ink=new SolidBrush(GuildChrome.Ivory))using(var sf=new StringFormat{Alignment=StringAlignment.Center,LineAlignment=StringAlignment.Center})GameTheme.DrawPixelString(g,"卡牌图鉴",titleFont,ink,title,sf);
   GameTheme.DrawText(g,"点击卡牌放大 · 滚轮或左右方向键翻页",Font,new Rectangle(book.Left,book.Top-30,book.Width,24),GuildChrome.Ivory,TextFormatFlags.HorizontalCenter);
-  DrawButton(g,BackBounds,"返回图书馆","back",true,true);DrawButton(g,PreviousBounds,"上一页","previous",pageIndex>0&&!IsTurning);DrawButton(g,NextBounds,"下一页","next",pageIndex<PageCount-1&&!IsTurning);
+  DrawButton(g,BackBounds,ReturnText,"back",true,true);DrawButton(g,PreviousBounds,"上一页","previous",pageIndex>0&&!IsTurning);DrawButton(g,NextBounds,"下一页","next",pageIndex<PageCount-1&&!IsTurning);
   GameTheme.DrawText(g,"第 "+(pageIndex+1)+" / "+PageCount+" 组",Font,new Rectangle(book.Left+125,book.Bottom+18,book.Width-250,24),GuildChrome.Ivory,TextFormatFlags.HorizontalCenter);
   if(enlarged!=null){using(var shade=new SolidBrush(Color.FromArgb(185,8,15,20)))g.FillRectangle(shade,ClientRectangle);int h=Math.Max(1,Math.Min(768,Math.Min(Height-80,(Width-60)*3/2))),w=h*2/3;g.DrawImage(enlarged,new Rectangle((Width-w)/2,(Height-h)/2-10,w,h));GameTheme.DrawText(g,"再次点击或按 Esc 收起",Font,new Rectangle(0,(Height+h)/2+8,Width,28),GuildChrome.Ivory,TextFormatFlags.HorizontalCenter);}
  }

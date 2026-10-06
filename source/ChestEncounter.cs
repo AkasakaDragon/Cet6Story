@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Diagnostics;
 using System.Drawing;
 using System.Drawing.Drawing2D;
@@ -16,8 +16,8 @@ public sealed class ChestEncounter:Control {
  public ChestEncounter(){DoubleBuffered=true;ResizeRedraw=true;TabStop=true;BackColor=GameTheme.Navy;AccessibleRole=AccessibleRole.PushButton;AccessibleName="宝箱，点击或按回车打开";timer.Tick+=(s,e)=>{Invalidate();if(watch.Elapsed.TotalSeconds>1.3)timer.Stop();};}
  void LayoutScene(){int top=(int)(Height*.22),h=Math.Max(100,Math.Min((int)(Height*.57),Height-top-140)),w=Math.Min((int)(Width*.65),h);chestBounds=new Rectangle((Width-w)/2,top,w,h);continueBounds=new Rectangle(Math.Max(12,Width-258),Height-66,230,44);}
  public void Open(){if(opened||Claim==null||!Claim())return;opened=true;AccessibleName="宝箱已打开，按回车继续";watch.Restart();timer.Start();Invalidate();}
- void Proceed(){if(!opened||watch.Elapsed.TotalSeconds<.85||continuing)return;continuing=true;if(Continue!=null)Continue();}
- protected override void OnMouseMove(MouseEventArgs e){base.OnMouseMove(e);LayoutScene();bool next=(!opened&&chestBounds.Contains(e.Location))||(opened&&continueBounds.Contains(e.Location));if(next!=hover){hover=next;Invalidate();}Cursor=next?Cursors.Hand:Cursors.Default;}
+ void Proceed(){if(!opened||watch.Elapsed.TotalSeconds<.85||continuing)return;continuing=true;VNButton.PlayControlSound(this,true);if(Continue!=null)Continue();}
+ protected override void OnMouseMove(MouseEventArgs e){base.OnMouseMove(e);LayoutScene();bool next=(!opened&&chestBounds.Contains(e.Location))||(opened&&continueBounds.Contains(e.Location));if(next!=hover){hover=next;if(next&&opened)VNButton.PlayControlSound(this,false);Invalidate();}Cursor=next?Cursors.Hand:Cursors.Default;}
  protected override void OnMouseLeave(EventArgs e){base.OnMouseLeave(e);hover=false;Invalidate();}
  protected override void OnMouseUp(MouseEventArgs e){base.OnMouseUp(e);if(e.Button!=MouseButtons.Left)return;LayoutScene();if(!opened&&chestBounds.Contains(e.Location))Open();else if(opened&&continueBounds.Contains(e.Location))Proceed();}
  protected override void OnKeyDown(KeyEventArgs e){base.OnKeyDown(e);if(e.KeyCode==Keys.Enter||e.KeyCode==Keys.Space){e.Handled=true;e.SuppressKeyPress=true;if(opened)Proceed();else Open();}}

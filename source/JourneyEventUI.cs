@@ -6,6 +6,8 @@ using System.Windows.Forms;
 public sealed class JourneyEventChoice:Control {
  public string Title,Effect;bool hover;
  public JourneyEventChoice(){SetStyle(ControlStyles.SupportsTransparentBackColor|ControlStyles.UserPaint|ControlStyles.AllPaintingInWmPaint|ControlStyles.OptimizedDoubleBuffer|ControlStyles.Selectable,true);BackColor=Color.Transparent;TabStop=true;Cursor=Cursors.Hand;AccessibleRole=AccessibleRole.PushButton;MouseEnter+=(s,e)=>{hover=true;Invalidate();};MouseLeave+=(s,e)=>{hover=false;Invalidate();};}
+ protected override void OnMouseEnter(EventArgs e){if(Enabled)VNButton.PlayControlSound(this,false);base.OnMouseEnter(e);}
+ protected override void OnClick(EventArgs e){if(Enabled)VNButton.PlayControlSound(this,true);base.OnClick(e);}
  protected override void OnGotFocus(EventArgs e){base.OnGotFocus(e);Invalidate();}protected override void OnLostFocus(EventArgs e){base.OnLostFocus(e);Invalidate();}
  protected override void OnKeyDown(KeyEventArgs e){base.OnKeyDown(e);if(e.KeyCode==Keys.Enter||e.KeyCode==Keys.Space){e.Handled=true;OnClick(EventArgs.Empty);}}
  protected override void OnPaint(PaintEventArgs e){base.OnPaint(e);var g=e.Graphics;CyberChrome.Button(g,new Rectangle(2,2,Width-5,Height-5),"",Font,false,hover||Focused,Enabled);

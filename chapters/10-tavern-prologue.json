@@ -1,17 +1,30 @@
 {
   "id": "tavern-prologue",
   "title": "封印酒馆 · 序幕：第一盏灯",
-  "description": "CG开场 · 三幕原创剧情 · 字幕自由切换 · 卡牌支援教学",
+  "description": "穿越异界 · 破败驿站 · 初遇巡防骑士 · 迎战感染兽",
   "source": "原创奇幻剧情及四道分段听力理解题，非考试原文。",
-  "audio": "audio/tavern/prologue.wav",
-  "audioLabel": "离线英文角色配音 · Brian / Sonia / Michelle / Christopher / Guy",
+  "audio": "audio/tavern/waystation-prologue.wav",
+  "audioLabel": "英文配音 · 穿越前原配音 / 驿站段 Windows 英文合成音",
   "background": "art/tavern/goddess-sanctuary.png",
   "unlockLevel": 1,
   "sortOrder": 1000,
   "pixelArt": true,
   "inlineQuestions": true,
   "timeLimitSeconds": 900,
-  "actors": [],
+  "actors": [
+    {
+      "gender": "male",
+      "image": "art/tavern/luchuan-portrait.png",
+      "id": "luchuan",
+      "side": "left"
+    },
+    {
+      "gender": "female",
+      "image": "art/tavern/aelia-portrait.png",
+      "id": "aelia",
+      "side": "right"
+    }
+  ],
   "decisions": [],
   "questions": [
     {
@@ -39,32 +52,6 @@
       ],
       "answer": 3,
       "explanation": "女神说明：客人相聚提供能量，地下城碎片修复晶石结构。经营和探索缺一不可。"
-    },
-    {
-      "afterLine": 21,
-      "skill": "行为推断",
-      "prompt": "Why does Aelia stand in front of Lu Chuan?",
-      "options": [
-        "She thinks he needs protection.",
-        "She wants him to repair her shield.",
-        "She believes he controls the monster.",
-        "She is asking him to leave the tavern."
-      ],
-      "answer": 0,
-      "explanation": "她看到男主没有武器，把他当作需要保护的普通人，举盾挡在他身前。"
-    },
-    {
-      "afterLine": 35,
-      "skill": "分工与主旨",
-      "prompt": "How do Lu Chuan and Aelia plan to work together?",
-      "options": [
-        "Both will abandon the damaged tavern.",
-        "Aelia will answer every question for him.",
-        "He will restore the tavern, and she will help protect it.",
-        "He will guard the town while she returns to his world."
-      ],
-      "answer": 2,
-      "explanation": "艾莉娅说：你把这里变成归处，我来守护它。两人建立经营与保护的分工。"
     }
   ],
   "lines": [
@@ -203,267 +190,133 @@
     {
       "speaker": "旁白",
       "actor": "",
-      "voiceRole": "旁白",
-      "text": "The light fades. Rain drips through a broken roof onto the floor of an abandoned tavern.",
-      "translation": "光芒消退。雨水穿过破损的屋顶，滴在废弃酒馆的地板上。",
-      "scene": "art/tavern/tavern-ruins.png",
+      "text": "The white light fades. Lu Chuan finds himself inside a ruined waystation. Rain falls through the broken roof.",
+      "translation": "白光散去，陆川发现自己站在一座破损的驿站里。雨水穿过残破的屋顶。",
+      "scene": "art/tavern/waystation-ruined.png",
       "sceneSingle": true,
-      "start": 75.12,
-      "end": 81.696
+      "start": 74.87,
+      "end": 84.61834467120181
     },
     {
       "speaker": "陆川",
-      "actor": "",
-      "voiceRole": "陆川",
-      "text": "Good news: I own a business. Bad news: the business might collapse before the world does.",
-      "translation": "好消息：我有自己的店了。坏消息：这家店可能比世界先垮。",
-      "scene": "art/tavern/tavern-ruins.png",
+      "actor": "luchuan",
+      "text": "Where am I? This place looks abandoned.",
+      "translation": "这是哪里？这里看起来已经荒废了……",
+      "scene": "art/tavern/waystation-ruined.png",
       "sceneSingle": true,
-      "start": 81.946,
-      "end": 88.738
+      "start": 84.61834467120181,
+      "end": 89.04242630385487
     },
     {
       "speaker": "旁白",
       "actor": "",
-      "voiceRole": "旁白",
-      "text": "A cracked crystal sits behind the counter. Its faint light flickers with every drop of rain.",
-      "translation": "吧台后放着一块开裂的晶石。每滴雨落下，它的微光都会晃动。",
-      "scene": "art/tavern/tavern-ruins.png",
+      "text": "A beast crouches in the middle of the hall, gnawing on animal bones. Purple mushrooms cover its back.",
+      "translation": "大厅中央，一头怪物正伏在地上啃食动物骨头。紫色的蘑菇爬满了它的背。",
+      "scene": "art/tavern/waystation-gnawing.png",
       "sceneSingle": true,
-      "start": 88.988,
-      "end": 95.684
-    },
-    {
-      "speaker": "言契系统",
-      "actor": "",
-      "voiceRole": "言契系统",
-      "text": "Seal core located. Structural damage is severe. Begin with shelter, food, and a working hearth.",
-      "translation": "已定位封印核心。结构损伤严重。请先恢复遮雨、食物与炉火。",
-      "scene": "art/tavern/tavern-ruins.png",
-      "sceneSingle": true,
-      "start": 95.934,
-      "end": 104.646
+      "start": 89.04242630385487,
+      "end": 97.3108163265306
     },
     {
       "speaker": "陆川",
-      "actor": "",
-      "voiceRole": "陆川",
-      "text": "A roof, hot meals, and somewhere to sit. At least the first steps are understandable.",
-      "translation": "能挡雨，有热饭，还有地方坐。至少第一步听起来很明白。",
-      "scene": "art/tavern/tavern-ruins.png",
+      "actor": "luchuan",
+      "text": "Do not move. Please do not notice me.",
+      "translation": "不能动……千万别发现我。",
+      "scene": "art/tavern/waystation-gnawing.png",
       "sceneSingle": true,
-      "start": 104.896,
-      "end": 110.608
+      "start": 97.3108163265306,
+      "end": 101.84482993197278
     },
     {
       "speaker": "旁白",
       "actor": "",
-      "voiceRole": "旁白",
-      "text": "Something strikes the door. A wounded knight stumbles inside, followed by a spiny creature covered in purple mushrooms.",
-      "translation": "有什么撞上大门。一名受伤的骑士跌进来，身后追着一只长满紫色蘑菇的荆棘孢子兽。",
-      "scene": "art/tavern/tavern-entrance-spore.png",
+      "text": "Lu Chuan holds his breath. Beyond the doorway, hurried footsteps draw closer through the rain.",
+      "translation": "陆川屏住呼吸，一动也不敢动。门外，急促的脚步声穿过雨幕，越来越近。",
+      "scene": "art/tavern/waystation-gnawing.png",
       "sceneSingle": true,
-      "start": 110.858,
-      "end": 119.354
+      "start": 101.84482993197278,
+      "end": 110.09839002267573
     },
     {
       "speaker": "艾莉娅",
-      "actor": "",
-      "voiceRole": "艾莉娅",
-      "text": "Get behind me! Stay away from the door, and do not try to fight it!",
-      "translation": "躲到我身后！离门远一点，不要试着和它打！",
-      "scene": "art/tavern/tavern-entrance-spore.png",
+      "actor": "aelia",
+      "text": "Stay where you are. Keep your voice down.",
+      "translation": "站在那里别动，压低声音。",
+      "scene": "art/tavern/waystation-gnawing.png",
       "sceneSingle": true,
-      "start": 119.604,
-      "end": 125.124
+      "start": 110.09839002267573,
+      "end": 114.68741496598639
     },
     {
       "speaker": "旁白",
       "actor": "",
-      "voiceRole": "旁白",
-      "text": "She sees my empty hands and raises her shield, placing herself between me and the monster.",
-      "translation": "她看见我两手空空，立刻举起盾牌，挡在我和魔物之间。",
-      "scene": "art/tavern/tavern-entrance-spore.png",
+      "text": "A red-haired knight steps through the doorway, sword drawn. She places herself between Lu Chuan and the beast.",
+      "translation": "一位红发骑士持剑踏进门内，挡在陆川与怪物之间。",
+      "scene": "art/tavern/waystation-gnawing.png",
       "sceneSingle": true,
-      "start": 125.374,
-      "end": 131.566
+      "start": 114.68741496598639,
+      "end": 123.7607029478458
     },
     {
       "speaker": "陆川",
-      "actor": "",
-      "voiceRole": "陆川",
-      "text": "I cannot use a sword, but I can help. Keep your shield up for a moment.",
-      "translation": "我不会用剑，但我能帮忙。请再举盾撑一会儿。",
-      "scene": "art/tavern/tavern-entrance-spore.png",
+      "actor": "luchuan",
+      "text": "Who are you? Did you come for that creature?",
+      "translation": "你是谁？你是来找那只怪物的吗？",
+      "scene": "art/tavern/waystation-gnawing.png",
       "sceneSingle": true,
-      "start": 131.816,
-      "end": 136.832
+      "start": 123.7607029478458,
+      "end": 128.13984126984127
     },
     {
       "speaker": "艾莉娅",
-      "actor": "",
-      "voiceRole": "艾莉娅",
-      "text": "Then help by staying alive. I will draw its attention away from you.",
-      "translation": "那就先保住自己。我会把它的注意力引开。",
-      "scene": "art/tavern/tavern-entrance-spore.png",
+      "actor": "aelia",
+      "text": "I am Aelia, a knight of the border patrol. I came to deal with the beast that destroyed this waystation.",
+      "translation": "我叫艾莉娅，是边境巡防骑士。我来处理这头破坏驿站的怪物。",
+      "scene": "art/tavern/waystation-gnawing.png",
       "sceneSingle": true,
-      "start": 137.082,
-      "end": 142.482
-    },
-    {
-      "speaker": "言契系统",
-      "actor": "",
-      "voiceRole": "言契系统",
-      "text": "Ally identified: Aelia, a holy knight. Support link ready. The spore beast is gathering poisonous spores.",
-      "translation": "已识别同伴：圣骑士艾莉娅。支援连接就绪。荆棘孢子兽正在聚集毒孢子。",
-      "scene": "art/tavern/tavern-defense-spore.png",
-      "sceneSingle": true,
-      "start": 142.732,
-      "end": 151.828
+      "start": 128.13984126984127,
+      "end": 136.28786848072562
     },
     {
       "speaker": "陆川",
-      "actor": "",
-      "voiceRole": "陆川",
-      "text": "I can see its next move. Give me a moment to strengthen your defense.",
-      "translation": "我能看见它下一步的行动。给我一点时间，我来增强你的防御。",
-      "scene": "art/tavern/tavern-defense-spore.png",
+      "actor": "luchuan",
+      "text": "I just appeared here. I have no idea what is happening.",
+      "translation": "我刚刚突然出现在这里，根本不知道发生了什么。",
+      "scene": "art/tavern/waystation-gnawing.png",
       "sceneSingle": true,
-      "start": 152.078,
-      "end": 156.854
+      "start": 136.28786848072562,
+      "end": 141.64174603174604
+    },
+    {
+      "speaker": "艾莉娅",
+      "actor": "aelia",
+      "text": "We can talk later. Stay behind me, and watch its claws.",
+      "translation": "其他事之后再说。站在我身后，小心它的爪子。",
+      "scene": "art/tavern/waystation-gnawing.png",
+      "sceneSingle": true,
+      "start": 141.64174603174604,
+      "end": 147.70555555555555
     },
     {
       "speaker": "旁白",
       "actor": "",
-      "voiceRole": "旁白",
-      "text": "Two cards glow before me: a protective barrier and a tactical guide. The contract waits for my answer.",
-      "translation": "两张卡牌在我面前亮起：守护屏障与战术指引。契约等待我的回答。",
-      "scene": "art/tavern/tavern-defense-spore.png",
+      "text": "The beast drops the bone and raises its head. A low growl breaks the silence. Aelia lifts her shield.",
+      "translation": "怪物丢下骨头，抬起头，低沉的咆哮打破了沉寂。艾莉娅举起盾牌。",
+      "scene": "art/tavern/waystation-gnawing.png",
       "sceneSingle": true,
-      "start": 157.104,
-      "end": 164.976
+      "start": 147.70555555555555,
+      "end": 156.6137641723356
     },
     {
       "speaker": "艾莉娅",
-      "actor": "",
-      "voiceRole": "艾莉娅",
-      "text": "There is light around my shield. Was that your magic?",
-      "translation": "我的盾牌周围出现了光。这是你的魔法？",
-      "scene": "art/tavern/tavern-defense-spore.png",
+      "actor": "aelia",
+      "text": "Prepare for battle.",
+      "translation": "准备战斗吧。",
+      "scene": "art/tavern/waystation-gnawing.png",
       "sceneSingle": true,
-      "start": 165.226,
-      "end": 169.786
-    },
-    {
-      "speaker": "陆川",
-      "actor": "",
-      "voiceRole": "陆川",
-      "text": "Yes. You handle the sword. I will make sure you have the opening you need.",
-      "translation": "是。你来挥剑，我来给你创造机会。",
-      "scene": "art/tavern/tavern-defense-spore.png",
-      "sceneSingle": true,
-      "start": 170.036,
-      "end": 175.028
-    },
-    {
-      "speaker": "言契系统",
-      "actor": "",
-      "voiceRole": "言契系统",
-      "text": "Choose your support cards, then answer. Your ally will strike when the contract is complete.",
-      "translation": "选择支援卡牌，再作答。契约完成后，同伴将发动攻击。",
-      "scene": "art/tavern/tavern-defense-spore.png",
-      "sceneSingle": true,
-      "start": 175.278,
-      "end": 181.902
-    },
-    {
-      "speaker": "旁白",
-      "actor": "",
-      "voiceRole": "旁白",
-      "text": "Her blade cuts through the purple spores. The creature falls, and the room becomes quiet again.",
-      "translation": "她的剑锋穿过紫色孢子。魔物倒下，屋里终于重新安静。",
-      "scene": "art/tavern/tavern-first-light.png",
-      "sceneSingle": true,
-      "start": 182.152,
-      "end": 189.16
-    },
-    {
-      "speaker": "艾莉娅",
-      "actor": "",
-      "voiceRole": "艾莉娅",
-      "text": "I thought you were an ordinary traveler. I am Aelia. Thank you for standing with me.",
-      "translation": "我还以为你是普通旅人。我叫艾莉娅。谢谢你和我一起战斗。",
-      "scene": "art/tavern/tavern-first-light.png",
-      "sceneSingle": true,
-      "start": 189.41,
-      "end": 196.202
-    },
-    {
-      "speaker": "陆川",
-      "actor": "",
-      "voiceRole": "陆川",
-      "text": "Lu Chuan. Apparently, I am the new owner. You have seen the state of the place.",
-      "translation": "陆川。看来，我是这里的新老板。这家店的情况，你也看见了。",
-      "scene": "art/tavern/tavern-first-light.png",
-      "sceneSingle": true,
-      "start": 196.452,
-      "end": 202.068
-    },
-    {
-      "speaker": "艾莉娅",
-      "actor": "",
-      "voiceRole": "艾莉娅",
-      "text": "Then we should start with the roof. I can guard the tavern while you make it a home.",
-      "translation": "那就先从屋顶开始吧。你把这里变成归处，我来守护它。",
-      "scene": "art/tavern/tavern-first-light.png",
-      "sceneSingle": true,
-      "start": 202.318,
-      "end": 207.934
-    },
-    {
-      "speaker": "旁白",
-      "actor": "",
-      "voiceRole": "旁白",
-      "text": "We clear a table and light the old hearth. The crystal answers with a small, steady glow.",
-      "translation": "我们清理出一张桌子，点燃旧炉火。晶石回应了一点微弱而稳定的光。",
-      "scene": "art/tavern/tavern-first-light.png",
-      "sceneSingle": true,
-      "start": 208.184,
-      "end": 215.024
-    },
-    {
-      "speaker": "陆川",
-      "actor": "",
-      "voiceRole": "陆川",
-      "text": "Tomorrow, we open for business. Tonight, you can finally put down that shield.",
-      "translation": "明天，我们开始营业。今晚，你终于可以把盾牌放下了。",
-      "scene": "art/tavern/tavern-first-light.png",
-      "sceneSingle": true,
-      "start": 215.274,
-      "end": 220.41
-    },
-    {
-      "speaker": "艾莉娅",
-      "actor": "",
-      "voiceRole": "艾莉娅",
-      "text": "Only if you promise to wake me when you need help.",
-      "translation": "那你得答应，需要帮助的时候就叫醒我。",
-      "scene": "art/tavern/tavern-first-light.png",
-      "sceneSingle": true,
-      "start": 220.66,
-      "end": 223.996
-    },
-    {
-      "speaker": "旁白",
-      "actor": "",
-      "voiceRole": "旁白",
-      "text": "Outside, the rain continues. Inside, our first lamp stays lit. A new story has begun.",
-      "translation": "门外，雨还在下。门内，我们的第一盏灯没有熄灭。新的故事开始了。",
-      "scene": "art/tavern/tavern-first-light.png",
-      "sceneSingle": true,
-      "start": 224.246,
-      "end": 232.91
+      "start": 156.6137641723356,
+      "end": 158.97294784580498
     }
   ],
-  "ending": "序幕完成。陆川与艾莉娅点亮归灯酒馆；第一章“今天开始营业”将在后续开放。"
+  "ending": "艾莉娅与陆川击退了感染兽。破败驿站暂时安全了，但孢子感染的来源仍有待调查。"
 }

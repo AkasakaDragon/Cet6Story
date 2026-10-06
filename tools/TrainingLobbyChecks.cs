@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Drawing;
 using System.IO;
 using System.Linq;
@@ -162,6 +162,17 @@ public static class TrainingLobbyChecks {
    collection.SetOffset(int.MaxValue);if(collection.PageIndex!=collection.PageCount-1)throw new Exception("Final album spread");
    collection.TurnPage(1);if(collection.IsTurning)throw new Exception("Last leaf limit");
    collection.ReturnToLibrary();Application.DoEvents();if(Scene(game).Controls.OfType<RogueShowcaseButton>().Count(b=>b.Visible)!=4)throw new Exception("Album return to library");
+   test.rogue.run=null;Call(game,"StartRogue","基础训练");Application.DoEvents();
+   var battleRun=test.rogue.ActiveRun;TowerEngine.StartBattle(battleRun,test.rogue,"normal");Call(game,"RenderFullBattle",battleRun);Application.DoEvents();string battleBefore=Engine.Json.Serialize(battleRun);
+   Call(game,"ShowBattleCardCollection",battleRun);
+   var deadline=DateTime.UtcNow.AddSeconds(8);
+   while((string)typeof(Game).GetField("page",Private).GetValue(game)!="card-collection"&&DateTime.UtcNow<deadline){Application.DoEvents();System.Threading.Thread.Sleep(15);}
+   collection=collectionContent.Controls.OfType<CardCollectionCanvas>().Single();
+   if(collection.ReturnText!="返回战斗")throw new Exception("Battle album return label");
+   collection.ReturnToLibrary();Application.DoEvents();
+   if((string)typeof(Game).GetField("page",Private).GetValue(game)!="rogue"||!Object.ReferenceEquals(test.rogue.ActiveRun,battleRun)||Engine.Json.Serialize(battleRun)!=battleBefore)throw new Exception("Album return changed battle state");
+   Call(game,"ShowCardCollectionPage");Application.DoEvents();
+   if(collectionContent.Controls.OfType<CardCollectionCanvas>().Single().ReturnText!="返回图书馆")throw new Exception("Battle return leaked into library album");
    Call(game,"CloseRogueAudio");
   }
   Console.WriteLine("PASS: responsive lobby, live progress unchanged, all three training actions, busy/resume state, navigation home. Player save untouched.");

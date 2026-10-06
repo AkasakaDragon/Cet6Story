@@ -19,7 +19,7 @@ public partial class Game {
   {
    var header=new FlowLayoutPanel{Dock=DockStyle.Top,Height=64,Padding=new Padding(16,8,0,0),BackColor=Color.Transparent,WrapContents=false,AutoScroll=true};content.Controls.Add(header);
    if(save.rogue.preparationActive)header.Controls.Add(RogueButton("返回本节剧情",ShowStory,160,42));
-   header.Controls.Add(RogueButton("远征大厅",ShowRogueHome,135,42));header.Controls.Add(RogueButton("生词本",ShowWords,110,42));header.Controls.Add(RogueButton("系统商店",ShowSystemShop,135,42));header.Controls.Add(RogueButton("返回主界面",ShowMain,150,42));
+   header.Controls.Add(RogueButton("远征大厅",ShowRogueHome,135,42));header.Controls.Add(RogueButton("生词本",ShowWords,110,42));header.Controls.Add(RogueButton("返回主界面",ShowMain,150,42));
   }
   rogueBody=new ExpeditionSurface{Art=sceneArt,PixelArt=wordbook,AlignToParentBackground=wordbook,FullScrollRedraw=wordbook,ShadeAlpha=wordbook?0:55,Dock=DockStyle.Fill,FlowDirection=FlowDirection.TopDown,WrapContents=false,AutoScroll=true,Padding=new Padding(22,15,22,24),BackColor=Color.Transparent};
   content.Controls.Add(rogueBody);rogueBody.BringToFront();rogueBody.Controls.Add(Lab(title,23,Gold));rogueBody.Resize+=(s,e)=>RogueLayout();
@@ -107,7 +107,7 @@ public class RogueChoice:VNButton {
  protected override void OnMouseLeave(EventArgs e){over=false;base.OnMouseLeave(e);}
  protected override void OnPaint(PaintEventArgs e){
   if(!GuildStyle){ExpeditionVisuals.Button(e.Graphics,ClientRectangle,Text,Font,over||Focused,Enabled);return;}
-  GuildChrome.Draw(e.Graphics,ClientRectangle,over||Focused,Enabled);
+  GuildChrome.Draw(e.Graphics,ClientRectangle,false,Enabled);
   using(var ink=new SolidBrush(Enabled?GuildChrome.Ivory:GuildChrome.Muted))
   using(var format=new StringFormat{Alignment=StringAlignment.Center,LineAlignment=StringAlignment.Center})
    GameTheme.DrawPixelString(e.Graphics,Text,Font,ink,new RectangleF(12,5,Width-24,Height-10),format);

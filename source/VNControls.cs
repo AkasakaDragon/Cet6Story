@@ -8,7 +8,10 @@ public class VNButton:Control {
  public VNButton(){SetStyle(ControlStyles.SupportsTransparentBackColor|ControlStyles.UserPaint|ControlStyles.AllPaintingInWmPaint|ControlStyles.OptimizedDoubleBuffer,true);SetStyle(ControlStyles.StandardClick,false);BackColor=Color.Transparent;ForeColor=Color.FromArgb(255,230,201);Font=GameTheme.Body(11);TabStop=true;Cursor=Cursors.Hand;AccessibleRole=AccessibleRole.PushButton;Size=new Size(40,40);}
  protected override void OnTextChanged(EventArgs e){base.OnTextChanged(e);Invalidate();}
  public void PerformClick(){if(Enabled)OnClick(EventArgs.Empty);}
- protected override void OnMouseEnter(EventArgs e){hover=true;Invalidate();base.OnMouseEnter(e);}
+ protected override void OnClick(EventArgs e){if(Enabled&&Icon=="")ButtonSound(true);base.OnClick(e);}
+ void ButtonSound(bool click){PlayControlSound(this,click);}
+ internal static void PlayControlSound(Control control,bool click){Form owner=control.FindForm();while(owner!=null&&!(owner is Game))owner=owner.Owner;var game=owner as Game;if(game!=null)game.PlayWoodMenuSound(click);}
+ protected override void OnMouseEnter(EventArgs e){hover=true;Invalidate();if(Enabled&&Icon=="")ButtonSound(false);base.OnMouseEnter(e);}
  protected override void OnMouseLeave(EventArgs e){hover=false;Invalidate();base.OnMouseLeave(e);}
  protected override void OnEnabledChanged(EventArgs e){base.OnEnabledChanged(e);Invalidate();}
  protected override void OnGotFocus(EventArgs e){base.OnGotFocus(e);Invalidate();}

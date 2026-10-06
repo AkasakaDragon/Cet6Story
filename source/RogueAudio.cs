@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.IO;
 using System.Text;
 using System.Collections.Generic;
@@ -66,9 +66,10 @@ public partial class Game {
  int observedCoins=-1;RogueAudioMixer rogueAudio;System.Windows.Forms.Timer rogueAudioClock;bool rogueAudioFailed;DateTime wordDuckUntil;
  bool RogueAudioPage(){return page=="rogue"||page=="prep-home"||page=="prep-intro"||page=="prep-combat"||page=="tavern-battle";}
  void InitRogueAudio(){observedCoins=save.rogue.coins;rogueAudioClock=new System.Windows.Forms.Timer{Interval=20};rogueAudioClock.Tick+=(s,e)=>UpdateRogueAudio();rogueAudioClock.Start();}
- void UpdateRogueAudio(){if(rogueAudioFailed)return;try{bool menu=page=="home"||page=="settings";bool enabled=menu||RogueAudioPage()||page=="system-shop"||page=="words"||page=="card-collection";if(rogueAudio==null&&enabled)rogueAudio=new RogueAudioMixer(Path.Combine(root,"assets","rogue","audio"));if(rogueAudio==null)return;if(rogueAudio.Error!=null)throw new Exception(rogueAudio.Error);rogueAudio.SetMenuMusic(menu);rogueAudio.MasterVolume=MasterSoundVolume();rogueAudio.MusicVolume=page=="system-shop"||page=="words"||page=="card-collection"?0:save.rogueMusicVolume;rogueAudio.EffectsVolume=save.rogueEffectsVolume;rogueAudio.SetActive(enabled);if(enabled){var mode=new StringBuilder(32);mciSendString("status wordaudio mode",mode,mode.Capacity,IntPtr.Zero);rogueAudio.Ducked=DateTime.UtcNow<wordDuckUntil||mode.ToString().Trim()=="playing"||(speech!=null&&speech.State==SynthesizerState.Speaking);}}catch(Exception ex){rogueAudioFailed=true;if(rogueAudio!=null){rogueAudio.Dispose();rogueAudio=null;}SetStatus("游戏音频不可用："+ex.Message);}}
- void PlayMenuClick(){UpdateRogueAudio();if(rogueAudio!=null)rogueAudio.MenuClickEffect();}
- void PlayWoodMenuSound(bool click){UpdateRogueAudio();if(rogueAudio!=null)rogueAudio.WoodMenuEffect(click);}
+ void UpdateRogueAudio(){if(rogueAudioFailed)return;try{bool menu=page=="home"||page=="settings";bool enabled=DateTime.UtcNow<uiEffectUntil||menu||RogueAudioPage()||page=="system-shop"||page=="words"||page=="card-collection";if(rogueAudio==null&&enabled)rogueAudio=new RogueAudioMixer(Path.Combine(root,"assets","rogue","audio"));if(rogueAudio==null)return;if(rogueAudio.Error!=null)throw new Exception(rogueAudio.Error);rogueAudio.SetMenuMusic(menu);rogueAudio.MasterVolume=MasterSoundVolume();rogueAudio.MusicVolume=!menu&&!RogueAudioPage()?0:save.rogueMusicVolume;rogueAudio.EffectsVolume=save.rogueEffectsVolume;rogueAudio.SetActive(enabled);if(enabled){var mode=new StringBuilder(32);mciSendString("status wordaudio mode",mode,mode.Capacity,IntPtr.Zero);rogueAudio.Ducked=DateTime.UtcNow<wordDuckUntil||mode.ToString().Trim()=="playing"||(speech!=null&&speech.State==SynthesizerState.Speaking);}}catch(Exception ex){rogueAudioFailed=true;if(rogueAudio!=null){rogueAudio.Dispose();rogueAudio=null;}SetStatus("游戏音频不可用："+ex.Message);}}
+ void PlayMenuClick(){PlayWoodMenuSound(true);}
+ DateTime lastWoodHover,lastWoodClick,uiEffectUntil;
+ internal void PlayWoodMenuSound(bool click){if(!click&&menuLoading!=null&&!menuLoading.IsDisposed)return;var now=DateTime.UtcNow;if((now-(click?lastWoodClick:lastWoodHover)).TotalMilliseconds<50)return;if(click)lastWoodClick=now;else lastWoodHover=now;uiEffectUntil=now.AddMilliseconds(250);UpdateRogueAudio();if(rogueAudio!=null)rogueAudio.WoodMenuEffect(click);}
  void PlayCardAlbumTurn(){UpdateRogueAudio();if(rogueAudio!=null)rogueAudio.AlbumPageEffect();}
  void AddWoodMenuHover(Control button){button.MouseEnter+=(sender,e)=>{if(button.Enabled&&(menuLoading==null||menuLoading.IsDisposed))PlayWoodMenuSound(false);};}
  void PlayShopPurchase(bool success){if(page!="system-shop")return;UpdateRogueAudio();if(rogueAudio!=null)rogueAudio.ShopEffect(success);}
