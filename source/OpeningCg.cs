@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.IO;
 using System.Text;
 using System.Diagnostics;
@@ -49,5 +49,5 @@ public class OpeningCgCanvas:Control {
   if(audioStarted&&clock.Elapsed.TotalSeconds>=duration){notified=true;if(Completed!=null)Completed();}
  }
  protected override void OnPaint(PaintEventArgs e){base.OnPaint(e);if(picture==null||FramesShown==0){GameTheme.DrawText(e.Graphics,"正在播放开场 CG…",Font,ClientRectangle,Color.White,TextFormatFlags.HorizontalCenter|TextFormatFlags.VerticalCenter);return;}float scale=FillFrame?Math.Max(Width/(float)FrameWidth,Height/(float)FrameHeight):Math.Min(Width/(float)FrameWidth,Height/(float)FrameHeight);var target=new RectangleF((Width-FrameWidth*scale)/2,(Height-FrameHeight*scale)/2,FrameWidth*scale,FrameHeight*scale);e.Graphics.InterpolationMode=InterpolationMode.NearestNeighbor;e.Graphics.PixelOffsetMode=PixelOffsetMode.Half;e.Graphics.DrawImage(picture,target);}
- protected override void Dispose(bool disposing){if(disposing&&!closed){closed=true;started.Set();if(timer!=null)timer.Dispose();mciSendString("close openingaudio",null,0,IntPtr.Zero);if(decoder!=null){try{if(!decoder.HasExited)decoder.Kill();}catch{}if(worker!=null)worker.Join(1000);decoder.Dispose();}if(worker==null||!worker.IsAlive)started.Dispose();if(picture!=null)picture.Dispose();}base.Dispose(disposing);}
+ protected override void Dispose(bool disposing){if(disposing&&!closed){closed=true;started.Set();if(timer!=null)timer.Dispose();mciSendString("close openingaudio",null,0,IntPtr.Zero);if(decoder!=null){ThreadPool.QueueUserWorkItem(_=>{try{if(!decoder.HasExited)decoder.Kill();}catch{}if(worker!=null)worker.Join(5000);if(worker==null||!worker.IsAlive){decoder.Dispose();started.Dispose();}});}else if(worker==null||!worker.IsAlive)started.Dispose();if(picture!=null)picture.Dispose();}base.Dispose(disposing);}
 }

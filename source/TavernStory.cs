@@ -68,6 +68,26 @@ public static class TavernStory {
 }
 
 public partial class Game {
+ void PreloadTransferAssets(){
+  var paths=current.actors.Select(a=>Engine.SafePath(folders[current.id],a.image)).Concat(new[]{Engine.SafePath(folders[current.id],current.lines[TavernStory.TransferLine].scene)}).Where(p=>!imageCache.ContainsKey(p)).Distinct().ToArray();
+  string audio=Engine.SafePath(folders[current.id],current.audio);double speed=save.storySpeed;int volume=StorySoundVolume();
+  System.Threading.ThreadPool.QueueUserWorkItem(_=>{
+   var loaded=new Dictionary<string,Image>();
+   try{foreach(var path in paths)using(var source=Image.FromFile(path))loaded[path]=new Bitmap(source);
+    AudioVolume.Prepare(StoryAudioSpeed.Prepare(audio,speed,root),volume,root);
+    if(IsDisposed||!IsHandleCreated){foreach(var image in loaded.Values)image.Dispose();return;}
+    BeginInvoke((Action)(()=>{if(IsDisposed){foreach(var image in loaded.Values)image.Dispose();return;}foreach(var pair in loaded){if(imageCache.ContainsKey(pair.Key))pair.Value.Dispose();else imageCache[pair.Key]=pair.Value;}}));
+   }catch{foreach(var image in loaded.Values)image.Dispose();}
+  });
+ }
+ void QueueRepairReveal(){
+  if(!TavernStory.Is(current)||index<25)return;
+  var destination=stage;int line=index;
+  BeginInvoke((Action)(()=>{if(page!="story"||stage!=destination||destination.IsDisposed||index!=line)return;
+   foreach(var old in content.Controls.OfType<WhiteSceneReveal>().ToList())old.Dispose();
+   var reveal=new WhiteSceneReveal{Dock=DockStyle.Fill,DurationMs=line==40?500:300,FadeColor=Color.Black};reveal.CaptureScene(destination);content.Controls.Add(reveal);reveal.BringToFront();reveal.Start();
+  }));
+ }
  bool TryTavernTransition(){return TryTavernTransfer();}
  bool TryKnightEntrance(){if(!TavernStory.Is(current)||index!=TavernStory.EntranceLine||save.storyFlags.Contains(TavernStory.EntranceFlag))return false;ShowKnightEntrance();return true;}
  void ShowKnightEntrance(){
@@ -80,7 +100,8 @@ public partial class Game {
  bool TryTavernTransfer(){if(!TavernStory.Is(current)||index!=TavernStory.TransferLine||save.storyFlags.Contains(TavernStory.TransferFlag))return false;ShowGoddessTransfer();return true;}
  void ShowGoddessTransfer(){
   ClearPage();page="goddess-transfer";save.positions[current.id]=index;Persist();bool finished=false;
-  Action finish=()=>{if(finished||page!="goddess-transfer")return;finished=true;StoryRoutes.Flag(save,TavernStory.TransferFlag);index=TavernStory.TransferLine;save.positions[current.id]=index;Persist();ShowStory();var reveal=new WhiteSceneReveal{Dock=DockStyle.Fill};stage.Controls.Add(reveal);reveal.BringToFront();reveal.Start();PlayCurrent();};
+  PreloadTransferAssets();
+  Action finish=()=>{if(finished||page!="goddess-transfer")return;finished=true;StoryRoutes.Flag(save,TavernStory.TransferFlag);index=TavernStory.TransferLine;save.positions[current.id]=index;Persist();ShowStory();var reveal=new WhiteSceneReveal{Dock=DockStyle.Fill};content.PerformLayout();stage.PerformLayout();reveal.CaptureScene(stage);reveal.Completed=()=>{if(page=="story"&&index==TavernStory.TransferLine)PlayCurrent();};content.Controls.Add(reveal);reveal.BringToFront();reveal.Start();};
   try{
    var folder=Path.Combine(root,"assets","opening","tavern");var canvas=new OpeningCgCanvas(Path.Combine(root,"tools","ffmpeg","ffmpeg.exe"),Path.Combine(folder,"goddess-transfer.mp4"),AudioDevicePath.Relative(AudioVolume.Prepare(Path.Combine(folder,"goddess-transfer.wav"),EffectSoundVolume(),root)),6){Dock=DockStyle.Fill,FillFrame=true};content.Controls.Add(canvas);canvas.Completed=finish;canvas.Failed=message=>{if(page=="goddess-transfer"){GameMessage.Show(this,"传送 CG 未能播放："+message,"播放提示");finish();}};canvas.Start();
   }catch(Exception ex){GameMessage.Show(this,"传送 CG 未能播放："+ex.Message,"播放提示");finish();}
@@ -101,18 +122,11 @@ public partial class Game {
   TavernStory.Migrate(save);
   var chapter=chapters.FirstOrDefault(TavernStory.Is);if(chapter==null){GameMessage.Show(this,"新序幕资源尚未加载，请保留完整 chapters 文件夹。","封印酒馆");return;}
   current=chapter;index=save.positions.ContainsKey(chapter.id)?Math.Max(0,Math.Min(chapter.lines.Count-1,save.positions[chapter.id])):0;
+  if(index==TavernStory.BattleLine&&save.storyFlags.Contains(TavernStory.BattleFlag)&&chapter.lines.Count>TavernStory.BattleLine+1)index=TavernStory.BattleLine+1;
   if(!save.positions.ContainsKey(chapter.id)){englishVisible=save.english=true;translating=save.chinese=true;}
   save.hasGame=true;save.lastChapter=chapter.id;save.positions[chapter.id]=index;save.openingCgPending=false;Persist();
   if(save.tavernBattle!=null&&!save.storyFlags.Contains(TavernStory.BattleFlag)){ShowTavernBattle();return;}
   ShowStory();BeginInvoke((Action)(()=>{if(page=="story"&&TavernStory.Is(current))PlayCurrent();}));
- }
- void ShowTavernHub(){
-  ClearPage();page="tavern-hub";LoadStage(current,false);stage.Novel=true;stage.Art=CachedImage(Path.Combine(root,"chapters","art","tavern","tavern-ruins.png"));stage.Snap();
-  var panel=new FlowLayoutPanel{FlowDirection=FlowDirection.TopDown,WrapContents=false,AutoScroll=true,BackColor=Color.FromArgb(235,18,29,33),Size=new Size(460,420),Padding=new Padding(20)};stage.Controls.Add(panel);
-  panel.Controls.Add(Lab("封印酒馆 · 主线章节",23,Gold));panel.Controls.Add(Lab("序幕：第一盏灯",17));panel.Controls.Add(Lab("逐句英文配音 · 破败驿站初遇\n中英文字幕分别开关；点击英文单词可查词。\n首次观看也可开中文，答错不影响剧情。",11));
-  panel.Controls.Add(Btn("继续序幕",EnterTavern,true));panel.Controls.Add(Btn("从头重看序幕",()=>{current=chapters.First(TavernStory.Is);ResetSection();save.tavernBattle=null;save.storyFlags.Remove(TavernStory.BattleFlag);save.storyFlags.Remove(TavernStory.OpeningFlag);save.storyFlags.Remove(TavernStory.TransferFlag);save.storyFlags.Remove(TavernStory.EntranceFlag);ShowStory();}));
-  panel.Controls.Add(Lab("第一章：今天开始营业 · 后续开放",12,Muted));panel.Controls.Add(Btn("返回主界面",ShowMain));
-  Action place=()=>{panel.Location=new Point(Math.Max(16,(stage.Width-panel.Width)/2),Math.Max(16,(stage.Height-panel.Height)/2));panel.Height=Math.Min(420,stage.Height-32);};stage.Resize+=(s,e)=>place();place();
  }
  bool TryTavernBattle(){
   if(!TavernStory.Is(current)||index!=TavernStory.BattleLine||save.storyFlags.Contains(TavernStory.BattleFlag))return false;
@@ -128,16 +142,17 @@ public partial class Game {
   return CardBattle.EndTurn(r);
  }
  void ContinueTavernBattle(){
-  var r=save.tavernBattle;if(r.state=="won"){StoryRoutes.Flag(save,TavernStory.BattleFlag);save.tavernBattle=null;index=TavernStory.BattleLine;save.positions[current.id]=index;Persist();CompleteTavern();}
+  var r=save.tavernBattle;if(r.state=="won"){
+   foreach(var line in current.lines.Skip(TavernStory.BattleLine+1))if(!String.IsNullOrEmpty(line.scene))CachedImage(Engine.SafePath(folders[current.id],line.scene));
+   StoryRoutes.Flag(save,TavernStory.BattleFlag);save.tavernBattle=null;index=TavernStory.BattleLine+1;save.positions[current.id]=index;Persist();ShowStory();PlayCurrent();}
   else if(r.state=="lost"){save.tavernBattle=null;ShowTavernBattle();}
   else if(r.state=="feedback"){TavernStory.NextTurn(r);ShowTavernBattle();}
  }
  void CompleteTavern(){
+  StoryRoutes.Flag(save,"waystation-basic-repair-complete");
   if(Attempt().finished==0)FinishSectionTiming();int correct=current.questions.Count(q=>save.quizAnswers.ContainsKey(InlineKey(q))&&save.quizAnswers[InlineKey(q)]==q.answer);
   int stars=SectionRules.Stars(correct,current.questions.Count,SectionSeconds()<=SectionLimit());save.sectionStars[current.id]=Math.Max(stars,save.sectionStars.ContainsKey(current.id)?save.sectionStars[current.id]:0);
   bool fresh=!save.completed.Contains(current.id);if(fresh){save.completed.Add(current.id);save.xp+=60;}Persist();
-  ClearPage();page="tavern-ending";var p=PageFlow();p.Controls.Add(Lab("序幕完成 · 第一盏灯",26,Gold));p.Controls.Add(Lab(current.ending,13));p.Controls.Add(Lab("听力 "+correct+" / "+current.questions.Count+" · "+new string('★',stars)+new string('☆',3-stars)+(fresh?" · 首次完成 +60 XP":" · 完成奖励已领取"),16));p.Controls.Add(Lab("听力成绩用于复习反馈，答错也能完成序幕。后续章节尚未开放。",11,Muted));
-  foreach(var q in current.questions){int selected;string answer=save.quizAnswers.TryGetValue(InlineKey(q),out selected)?((char)('A'+selected)).ToString():"未作答";var text=Lab(q.prompt+"\n你的答案 "+answer+" · 正确答案 "+(char)('A'+q.answer)+"\n"+q.explanation,12);text.MaximumSize=new Size(900,0);p.Controls.Add(text);}
-  p.Controls.Add(Btn("整节连续重听",()=>{Attempt().review=true;index=0;ShowStory();ReviewSection();},true));p.Controls.Add(Btn("主线章节",ShowTavernHub));
+  ClearPage();page="tavern-ending";var ending=new PrologueCompletion{Dock=DockStyle.Fill,BackgroundArt=CachedImage(Path.Combine(root,"assets","menu","prologue-completion-town.png")),Chapter=current,Save=save,Correct=correct,Stars=stars,FirstCompletion=fresh,ReturnHome=ShowMain,Chapters=ShowTavernHub,Replay=()=>{Attempt().review=true;index=0;ShowStory();ReviewSection();}};content.Controls.Add(ending);
  }
 }

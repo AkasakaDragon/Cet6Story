@@ -1,10 +1,10 @@
 {
   "id": "tavern-prologue",
   "title": "封印酒馆 · 序幕：第一盏灯",
-  "description": "穿越异界 · 破败驿站 · 初遇巡防骑士 · 迎战感染兽",
+  "description": "穿越异界 · 初遇巡防骑士 · 卡牌支援战斗 · 一起修复驿站",
   "source": "原创奇幻剧情及四道分段听力理解题，非考试原文。",
   "audio": "audio/tavern/waystation-prologue.wav",
-  "audioLabel": "英文配音 · 穿越前原配音 / 驿站段 Windows 英文合成音",
+  "audioLabel": "离线英文角色配音 · Brian / Sonia / Michelle / Christopher / Guy",
   "background": "art/tavern/goddess-sanctuary.png",
   "unlockLevel": 1,
   "sortOrder": 1000,
@@ -194,8 +194,9 @@
       "translation": "白光散去，陆川发现自己站在一座破损的驿站里。雨水穿过残破的屋顶。",
       "scene": "art/tavern/waystation-ruined.png",
       "sceneSingle": true,
-      "start": 74.87,
-      "end": 84.61834467120181
+      "start": 75.12,
+      "end": 84.288,
+      "voiceRole": "旁白"
     },
     {
       "speaker": "陆川",
@@ -204,8 +205,9 @@
       "translation": "这是哪里？这里看起来已经荒废了……",
       "scene": "art/tavern/waystation-ruined.png",
       "sceneSingle": true,
-      "start": 84.61834467120181,
-      "end": 89.04242630385487
+      "start": 84.538,
+      "end": 87.562,
+      "voiceRole": "陆川"
     },
     {
       "speaker": "旁白",
@@ -214,8 +216,9 @@
       "translation": "大厅中央，一头怪物正伏在地上啃食动物骨头。紫色的蘑菇爬满了它的背。",
       "scene": "art/tavern/waystation-gnawing.png",
       "sceneSingle": true,
-      "start": 89.04242630385487,
-      "end": 97.3108163265306
+      "start": 87.812,
+      "end": 95.3,
+      "voiceRole": "旁白"
     },
     {
       "speaker": "陆川",
@@ -224,8 +227,9 @@
       "translation": "不能动……千万别发现我。",
       "scene": "art/tavern/waystation-gnawing.png",
       "sceneSingle": true,
-      "start": 97.3108163265306,
-      "end": 101.84482993197278
+      "start": 95.55,
+      "end": 98.646,
+      "voiceRole": "陆川"
     },
     {
       "speaker": "旁白",
@@ -234,8 +238,9 @@
       "translation": "陆川屏住呼吸，一动也不敢动。门外，急促的脚步声穿过雨幕，越来越近。",
       "scene": "art/tavern/waystation-gnawing.png",
       "sceneSingle": true,
-      "start": 101.84482993197278,
-      "end": 110.09839002267573
+      "start": 98.896,
+      "end": 106.192,
+      "voiceRole": "旁白"
     },
     {
       "speaker": "艾莉娅",
@@ -244,8 +249,9 @@
       "translation": "站在那里别动，压低声音。",
       "scene": "art/tavern/waystation-gnawing.png",
       "sceneSingle": true,
-      "start": 110.09839002267573,
-      "end": 114.68741496598639
+      "start": 106.442,
+      "end": 110.618,
+      "voiceRole": "艾莉娅"
     },
     {
       "speaker": "旁白",
@@ -254,8 +260,9 @@
       "translation": "一位红发骑士持剑踏进门内，挡在陆川与怪物之间。",
       "scene": "art/tavern/waystation-gnawing.png",
       "sceneSingle": true,
-      "start": 114.68741496598639,
-      "end": 123.7607029478458
+      "start": 110.868,
+      "end": 118.932,
+      "voiceRole": "旁白"
     },
     {
       "speaker": "陆川",
@@ -264,8 +271,9 @@
       "translation": "你是谁？你是来找那只怪物的吗？",
       "scene": "art/tavern/waystation-gnawing.png",
       "sceneSingle": true,
-      "start": 123.7607029478458,
-      "end": 128.13984126984127
+      "start": 119.182,
+      "end": 122.158,
+      "voiceRole": "陆川"
     },
     {
       "speaker": "艾莉娅",
@@ -274,8 +282,9 @@
       "translation": "我叫艾莉娅，是边境巡防骑士。我来处理这头破坏驿站的怪物。",
       "scene": "art/tavern/waystation-gnawing.png",
       "sceneSingle": true,
-      "start": 128.13984126984127,
-      "end": 136.28786848072562
+      "start": 122.408,
+      "end": 129.512,
+      "voiceRole": "艾莉娅"
     },
     {
       "speaker": "陆川",
@@ -284,8 +293,9 @@
       "translation": "我刚刚突然出现在这里，根本不知道发生了什么。",
       "scene": "art/tavern/waystation-gnawing.png",
       "sceneSingle": true,
-      "start": 136.28786848072562,
-      "end": 141.64174603174604
+      "start": 129.762,
+      "end": 133.506,
+      "voiceRole": "陆川"
     },
     {
       "speaker": "艾莉娅",
@@ -294,8 +304,9 @@
       "translation": "其他事之后再说。站在我身后，小心它的爪子。",
       "scene": "art/tavern/waystation-gnawing.png",
       "sceneSingle": true,
-      "start": 141.64174603174604,
-      "end": 147.70555555555555
+      "start": 133.756,
+      "end": 139.156,
+      "voiceRole": "艾莉娅"
     },
     {
       "speaker": "旁白",
@@ -304,8 +315,9 @@
       "translation": "怪物丢下骨头，抬起头，低沉的咆哮打破了沉寂。艾莉娅举起盾牌。",
       "scene": "art/tavern/waystation-gnawing.png",
       "sceneSingle": true,
-      "start": 147.70555555555555,
-      "end": 156.6137641723356
+      "start": 139.406,
+      "end": 147.974,
+      "voiceRole": "旁白"
     },
     {
       "speaker": "艾莉娅",
@@ -314,9 +326,230 @@
       "translation": "准备战斗吧。",
       "scene": "art/tavern/waystation-gnawing.png",
       "sceneSingle": true,
-      "start": 156.6137641723356,
-      "end": 158.97294784580498
+      "start": 148.224,
+      "end": 150.24,
+      "voiceRole": "艾莉娅"
+    },
+    {
+      "speaker": "艾莉娅",
+      "voiceRole": "艾莉娅",
+      "actor": "aelia",
+      "text": "It is over. Are you hurt?",
+      "translation": "结束了……你没受伤吧？",
+      "scene": "art/tavern/waystation-repair-0.png",
+      "sceneSingle": true,
+      "start": 150.49,
+      "end": 153.802
+    },
+    {
+      "speaker": "陆川",
+      "voiceRole": "陆川",
+      "actor": "luchuan",
+      "text": "No. I only just noticed that my legs are still shaking.",
+      "translation": "没有。只是现在才发现，我的腿一直在抖。",
+      "scene": "art/tavern/waystation-repair-0.png",
+      "sceneSingle": true,
+      "start": 154.052,
+      "end": 157.94
+    },
+    {
+      "speaker": "艾莉娅",
+      "voiceRole": "艾莉娅",
+      "actor": "aelia",
+      "text": "Thank you. Your barrier stopped its claws from reaching me.",
+      "translation": "谢谢你。刚才那道屏障替我挡住了它的爪子。",
+      "scene": "art/tavern/waystation-repair-0.png",
+      "sceneSingle": true,
+      "start": 158.19,
+      "end": 162.918
+    },
+    {
+      "speaker": "陆川",
+      "voiceRole": "陆川",
+      "actor": "luchuan",
+      "text": "You stood in front of me. I could not just watch.",
+      "translation": "你挡在我前面，我总不能只站着看。",
+      "scene": "art/tavern/waystation-repair-0.png",
+      "sceneSingle": true,
+      "start": 163.168,
+      "end": 166.648
+    },
+    {
+      "speaker": "艾莉娅",
+      "voiceRole": "艾莉娅",
+      "actor": "aelia",
+      "text": "This roof will not keep you dry. You helped me with the beast. Let me help you repair the waystation.",
+      "translation": "这里已经不能遮雨了。你帮我解决了魔物，我也帮你把驿站修起来。",
+      "scene": "art/tavern/waystation-repair-0.png",
+      "sceneSingle": true,
+      "start": 166.898,
+      "end": 174.53
+    },
+    {
+      "speaker": "旁白",
+      "voiceRole": "旁白",
+      "actor": "",
+      "text": "They recover usable boards and support the damaged beam. The first patch keeps the rain away.",
+      "translation": "他们找出还能用的木板，撑住受损的横梁。第一块补板挡住了头顶的雨。",
+      "scene": "art/tavern/waystation-repair-1.png",
+      "sceneSingle": true,
+      "start": 174.78,
+      "end": 181.692
+    },
+    {
+      "speaker": "艾莉娅",
+      "voiceRole": "艾莉娅",
+      "actor": "aelia",
+      "text": "Hold this side. I will secure it. Keep clear of the beam.",
+      "translation": "扶住这一边。我来固定，别站到横梁下面。",
+      "scene": "art/tavern/waystation-repair-1.png",
+      "sceneSingle": true,
+      "start": 181.942,
+      "end": 187.798
+    },
+    {
+      "speaker": "陆川",
+      "voiceRole": "陆川",
+      "actor": "luchuan",
+      "text": "You know how to repair a roof, too?",
+      "translation": "你连修屋顶都会？",
+      "scene": "art/tavern/waystation-repair-1.png",
+      "sceneSingle": true,
+      "start": 188.048,
+      "end": 190.16
+    },
+    {
+      "speaker": "艾莉娅",
+      "voiceRole": "艾莉娅",
+      "actor": "aelia",
+      "text": "On border patrol, finding a place to sleep can be harder than finding an enemy.",
+      "translation": "边境巡防时，找到能睡的屋子比找到敌人还难。",
+      "scene": "art/tavern/waystation-repair-1.png",
+      "sceneSingle": true,
+      "start": 190.41,
+      "end": 195.57
+    },
+    {
+      "speaker": "陆川",
+      "voiceRole": "陆川",
+      "actor": "luchuan",
+      "text": "Then I will pass you the boards. I can start by being a useful helper.",
+      "translation": "那我负责递木板。今天先从合格的帮手做起。",
+      "scene": "art/tavern/waystation-repair-1.png",
+      "sceneSingle": true,
+      "start": 195.82,
+      "end": 200.5
+    },
+    {
+      "speaker": "旁白",
+      "voiceRole": "旁白",
+      "actor": "",
+      "text": "Rain no longer reaches the hall. They clear the rubble and bring old rugs, lamps, and potted plants out of storage.",
+      "translation": "雨终于不再落进大厅。两人清走碎石，把储藏室里的旧地毯、灯具和盆栽搬了出来。",
+      "scene": "art/tavern/waystation-repair-2.png",
+      "sceneSingle": true,
+      "start": 200.75,
+      "end": 209.246
+    },
+    {
+      "speaker": "陆川",
+      "voiceRole": "陆川",
+      "actor": "luchuan",
+      "text": "I thought I would have to figure everything out alone after arriving here.",
+      "translation": "我本来以为，来到这里之后，所有事都得自己想办法。",
+      "scene": "art/tavern/waystation-repair-2.png",
+      "sceneSingle": true,
+      "start": 209.496,
+      "end": 213.576
+    },
+    {
+      "speaker": "艾莉娅",
+      "voiceRole": "艾莉娅",
+      "actor": "aelia",
+      "text": "On the border, no one can manage alone forever.",
+      "translation": "在边境，没人能一直靠自己撑下去。",
+      "scene": "art/tavern/waystation-repair-2.png",
+      "sceneSingle": true,
+      "start": 213.826,
+      "end": 217.402
+    },
+    {
+      "speaker": "陆川",
+      "voiceRole": "陆川",
+      "actor": "luchuan",
+      "text": "When we can welcome guests, I want travelers to have somewhere to rest.",
+      "translation": "等这里能接待客人，我想让路过的人都能有个歇脚的地方。",
+      "scene": "art/tavern/waystation-repair-2.png",
+      "sceneSingle": true,
+      "start": 217.652,
+      "end": 222.212
+    },
+    {
+      "speaker": "艾莉娅",
+      "voiceRole": "艾莉娅",
+      "actor": "aelia",
+      "text": "Then let us light the hearth. A place to return to should be warm.",
+      "translation": "那就先把炉火点起来。归处应该是暖的。",
+      "scene": "art/tavern/waystation-repair-2.png",
+      "sceneSingle": true,
+      "start": 222.462,
+      "end": 227.502
+    },
+    {
+      "speaker": "旁白",
+      "voiceRole": "旁白",
+      "actor": "",
+      "text": "By the time they secure the final board, morning has arrived. Sunlight fills the waystation, and the floor is dry at last.",
+      "translation": "翌日清晨。最后一块木板固定时，天已亮了。晨光照进驿站，昨夜的积水终于退去。",
+      "scene": "art/tavern/waystation-repair-morning.png",
+      "sceneSingle": true,
+      "start": 227.752,
+      "end": 236.68
+    },
+    {
+      "speaker": "陆川",
+      "voiceRole": "陆川",
+      "actor": "luchuan",
+      "text": "We actually fixed it. Last night, I thought it might collapse.",
+      "translation": "真修好了……昨晚这里还像随时会塌。",
+      "scene": "art/tavern/waystation-repair-morning.png",
+      "sceneSingle": true,
+      "start": 236.93,
+      "end": 240.914
+    },
+    {
+      "speaker": "艾莉娅",
+      "voiceRole": "艾莉娅",
+      "actor": "aelia",
+      "text": "The roof and stairs are secure. We can use the hall now and improve the rest gradually.",
+      "translation": "屋顶和楼梯已经稳住，能先使用了。剩下的地方可以慢慢整理。",
+      "scene": "art/tavern/waystation-repair-morning.png",
+      "sceneSingle": true,
+      "start": 241.164,
+      "end": 247.596
+    },
+    {
+      "speaker": "陆川",
+      "voiceRole": "陆川",
+      "actor": "luchuan",
+      "text": "Breakfast is on me. You are our first guest.",
+      "translation": "第一份早餐我请。你可是这里的第一位客人。",
+      "scene": "art/tavern/waystation-repair-morning.png",
+      "sceneSingle": true,
+      "start": 247.846,
+      "end": 251.326
+    },
+    {
+      "speaker": "艾莉娅",
+      "voiceRole": "艾莉娅",
+      "actor": "aelia",
+      "text": "A guest? After working all night, surely I count as your helper.",
+      "translation": "客人？我干了一整夜的活，至少该算你的帮手吧。",
+      "scene": "art/tavern/waystation-repair-morning.png",
+      "sceneSingle": true,
+      "start": 251.576,
+      "end": 257.096
     }
   ],
-  "ending": "艾莉娅与陆川击退了感染兽。破败驿站暂时安全了，但孢子感染的来源仍有待调查。"
+  "ending": "驿站基础修复完成。陆川与艾莉娅一起迎来天亮，经营基础已解锁。第一章“今天开始营业”后续开放。"
 }

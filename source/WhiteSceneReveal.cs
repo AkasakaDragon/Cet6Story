@@ -5,9 +5,13 @@ using System.Windows.Forms;
 
 // Let the final white CG frame clear into the destination without a hard cut.
 public class WhiteSceneReveal:Control {
- readonly Stopwatch clock=new Stopwatch();readonly Timer timer=new Timer{Interval=20};
- public WhiteSceneReveal(){SetStyle(ControlStyles.SupportsTransparentBackColor|ControlStyles.UserPaint|ControlStyles.AllPaintingInWmPaint|ControlStyles.OptimizedDoubleBuffer,true);BackColor=Color.Transparent;timer.Tick+=(s,e)=>{if(clock.Elapsed.TotalMilliseconds>=800)Dispose();else Invalidate();};}
+ readonly Stopwatch clock=new Stopwatch();readonly Timer timer=new Timer{Interval=20};Bitmap scene;
+ public Action Completed;
+ public int DurationMs=800;public Color FadeColor=Color.White;
+ public WhiteSceneReveal(){SetStyle(ControlStyles.UserPaint|ControlStyles.AllPaintingInWmPaint|ControlStyles.OptimizedDoubleBuffer|ControlStyles.Opaque,true);BackColor=Color.White;timer.Tick+=(s,e)=>{if(clock.Elapsed.TotalMilliseconds>=DurationMs){var completed=Completed;Dispose();if(completed!=null)completed();}else Invalidate();};}
+ public void CaptureScene(Control destination){scene=new Bitmap(Math.Max(1,destination.Width),Math.Max(1,destination.Height));destination.DrawToBitmap(scene,new Rectangle(Point.Empty,scene.Size));}
  public void Start(){clock.Start();timer.Start();}
- protected override void OnPaint(PaintEventArgs e){base.OnPaint(e);int alpha=(int)Math.Round(255*Math.Max(0,1-clock.Elapsed.TotalMilliseconds/800));using(var brush=new SolidBrush(Color.FromArgb(alpha,Color.White)))e.Graphics.FillRectangle(brush,ClientRectangle);}
- protected override void Dispose(bool disposing){if(disposing)timer.Dispose();base.Dispose(disposing);}
+ protected override void OnPaintBackground(PaintEventArgs e){}
+ protected override void OnPaint(PaintEventArgs e){if(scene!=null&&scene.Size==ClientSize)e.Graphics.DrawImageUnscaled(scene,0,0);else if(scene!=null)e.Graphics.DrawImage(scene,ClientRectangle);else e.Graphics.Clear(Color.White);int alpha=(int)Math.Round(255*Math.Max(0,1-clock.Elapsed.TotalMilliseconds/DurationMs));using(var brush=new SolidBrush(Color.FromArgb(alpha,FadeColor)))e.Graphics.FillRectangle(brush,ClientRectangle);}
+ protected override void Dispose(bool disposing){if(disposing){timer.Dispose();if(scene!=null){scene.Dispose();scene=null;}}base.Dispose(disposing);}
 }

@@ -10,6 +10,7 @@ WORK=ROOT/'.validation/tavern-neural'
 WORK.mkdir(parents=True,exist_ok=True)
 FF=ROOT/'tools/ffmpeg/ffmpeg.exe'
 chapter=json.loads(CHAPTER.read_text(encoding='utf-8-sig'))
+audio_path=CHAPTER.parent/chapter['audio']
 voices=json.loads((OUT/'voices.json').read_text(encoding='utf-8'))
 async def main():
     proxy=urllib.request.getproxies().get('https')
@@ -18,7 +19,10 @@ async def main():
         if spec['voice'] not in available: raise RuntimeError('Voice unavailable: '+spec['voice'])
     sem=asyncio.Semaphore(3)
     async def render(i,line):
-        spec=voices[line['speaker']]
+        role=line.get('voiceRole') or line['speaker']
+        if role not in voices: raise RuntimeError('Unknown voice role: '+role)
+        line['voiceRole']=role
+        spec=voices[role]
         key=hashlib.sha256(json.dumps([line['text'],spec],sort_keys=True).encode()).hexdigest()[:16]
         mp3=WORK/(str(i)+'-'+key+'.mp3'); wav=mp3.with_suffix('.wav')
         async with sem:
@@ -49,9 +53,9 @@ async def main():
     goddess=voices['伊瑟雅']['voice'].split('-')[2].replace('Neural','')
     chapter['audioLabel']='离线英文角色配音 · Brian / '+goddess+' / Michelle / Christopher / Guy'
     (WORK/'chapter.json').write_text(json.dumps(chapter,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
-    if not (WORK/'original-desktop.wav').exists(): shutil.copy2(OUT/'prologue.wav',WORK/'original-desktop.wav')
+    if not (WORK/('original-'+audio_path.name)).exists(): shutil.copy2(audio_path,WORK/('original-'+audio_path.name))
     if not (WORK/'original-chapter.json').exists(): shutil.copy2(CHAPTER,WORK/'original-chapter.json')
-    shutil.copy2(target,OUT/'prologue.wav');shutil.copy2(WORK/'chapter.json',CHAPTER)
+    shutil.copy2(target,audio_path);shutil.copy2(WORK/'chapter.json',CHAPTER)
     (ROOT/'预览/序幕CG-v1').mkdir(parents=True,exist_ok=True)
     for i,name in [(0,'女神-'+goddess+'-试听.wav'),(1,'男主-Brian-试听.wav')]:
         with wave.open(str(ROOT/'预览/序幕CG-v1'/name),'wb') as writer:
