@@ -4,7 +4,7 @@ $ErrorActionPreference='Stop'
 $taskRoot=[IO.Path]::GetFullPath((Join-Path $PSScriptRoot '..'))
 $taskChecks=Join-Path $taskRoot '.validation/tavern-prologue'
 New-Item -ItemType Directory -Force -Path $taskChecks | Out-Null
-foreach($taskResource in @('assets','chapters')){
+foreach($taskResource in @('assets','chapters','tools')){
  $taskLink=Join-Path $taskChecks $taskResource
  if(-not (Test-Path -LiteralPath $taskLink)){New-Item -ItemType Junction -Path $taskLink -Target (Join-Path $taskRoot $taskResource) | Out-Null}
 }

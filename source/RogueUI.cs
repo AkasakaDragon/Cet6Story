@@ -23,7 +23,7 @@ public partial class Game {
  }
 
  void StartRogue(string mode){if(save.rogue.ActiveRun!=null&&save.rogue.ActiveRun.state!="ended"){SetStatus("已有未结束的远征，请先继续或结束本局。");GameMessage.Show(this,"已有未结束的远征，请先继续或结束本局。","词域远征");return;}var pool=mode=="我的生词本"?OwnRoguePool():TrainingPool(mode);try{RogueEngine.NewRun(save.rogue,pool,mode,BitConverter.ToInt32(Guid.NewGuid().ToByteArray(),0));Persist();RenderRogue();}catch(Exception ex){GameMessage.Show(this,ex.Message,"无法开局");}}
- void SaveRogue(){using(var redraw=new BattleRedrawScope(content)){Persist();RenderRogue();}}
+ void SaveRogue(){using(var redraw=new BattleRedrawScope(content)){Persist();if(page=="tavern-battle")ShowTavernBattle();else RenderRogue();}}
  void RenderRogueQuestion(RogueRun r){RogueEngine.EnsureFirstQuestion(r,save.rogue);var q=r.question;string type=q.kind==0?"选择词义":q.kind==1?"根据词义选词":q.kind==2?"语境填空":"拼写单词";string prompt=q.kind==0?q.entry.word:q.kind==1||q.kind==3?q.entry.meaning:q.entry.example.Replace("{"+q.entry.word+"}","______");var card=RogueCard(type+(q.kind!=3?" · 按 1–4 选择":"")+"   ·   连击 "+r.combo,prompt);card.Controls[1].Font=GameTheme.Latin(q.kind==0?25:17);card.Controls[1].ForeColor=TextColor;
   if(q.assisted)card.Controls.Add(Lab("提示："+q.entry.word+" · "+q.entry.meaning+"（本题不发金币）",12,Gold));
   if(q.kind==3){var input=new TextBox{Width=400,Font=GameTheme.Latin(20),BackColor=Bg,ForeColor=TextColor,BorderStyle=BorderStyle.FixedSingle,Margin=new Padding(8),MaxLength=80};card.Controls.Add(input);Action submit=()=>{if(String.IsNullOrWhiteSpace(input.Text))return;AnswerRogue(-1,input.Text);};card.Controls.Add(RogueButton("确认拼写 · Enter",submit,320));input.KeyDown+=(sender,e)=>{if(e.KeyCode==Keys.Enter){e.SuppressKeyPress=true;submit();}};input.Focus();}
@@ -57,7 +57,7 @@ public partial class Game {
    lines[0]+=" · 护盾抵挡 "+blocked;
   }
   if(r.cardBattle!=null&&r.cardBattle.burnDamage>0)lines.Insert(Math.Min(1,lines.Count),"燃烧结算 · 造成 "+r.cardBattle.burnDamage+" 伤害");
-  if(!String.IsNullOrWhiteSpace(zh))lines.Insert(Math.Min(3,lines.Count),"例句译文："+zh);
+  if(!String.IsNullOrWhiteSpace(zh))lines.Insert(Object.ReferenceEquals(r,save.tavernBattle)?lines.Count:Math.Min(3,lines.Count),"例句译文："+zh);
   return String.Join("\n",lines);
  }
  Control RogueFeedbackIcon(RogueEntry entry,string kind){
@@ -65,7 +65,9 @@ public partial class Game {
   tips.SetToolTip(icon,kind=="speaker"?"播放单词语音":icon.Selected?"已收藏到生词本":"收藏到生词本");
   icon.Click+=(sender,e)=>{if(kind=="speaker")SpeakWord(entry.word);else{ToggleRogueFavorite(entry,icon);}};return icon;
  }
- void AnswerRogue(int selected,string spelling){var r=save.rogue.ActiveRun;var before=r==null?null:new CombatHealthSnapshot(r);if(RogueEngine.Answer(save.rogue,selected,spelling,DateTime.Now)){pendingTowerEffect=true;pendingHealthPresentation=before;if(r.question.answered&&r.wrongWords.Contains(r.question.entry.word))CollectRogue(r.question.entry);SaveRogue();}}
+ void AnswerRogue(int selected,string spelling){if(page=="tavern-battle"){
+ var battle=save.tavernBattle;var snapshot=new CombatHealthSnapshot(battle);if(TavernStory.Answer(battle,selected)){pendingTowerEffect=true;pendingHealthPresentation=snapshot;if(selected!=battle.question.answer)CollectRogue(battle.question.entry);SaveRogue();}return;}
+ var r=save.rogue.ActiveRun;var before=r==null?null:new CombatHealthSnapshot(r);if(RogueEngine.Answer(save.rogue,selected,spelling,DateTime.Now)){pendingTowerEffect=true;pendingHealthPresentation=before;if(r.question.answered&&r.wrongWords.Contains(r.question.entry.word))CollectRogue(r.question.entry);SaveRogue();}}
  void ToggleRogueFavorite(RogueEntry entry,RogueIcon icon){bool owned=save.words.Any(w=>w.text.Equals(entry.word,StringComparison.OrdinalIgnoreCase));if(owned){save.words.RemoveAll(w=>w.text.Equals(entry.word,StringComparison.OrdinalIgnoreCase));if(reviewWord!=null&&reviewWord.text.Equals(entry.word,StringComparison.OrdinalIgnoreCase))reviewWord=null;}else CollectRogue(entry);Persist();UpdateStats();icon.Selected=!owned;icon.Invalidate();tips.SetToolTip(icon,icon.Selected?"已收藏 · 再次点击取消":"收藏到生词本");}
  void CollectRogue(RogueEntry entry){if(!save.words.Any(w=>w.text.Equals(entry.word,StringComparison.OrdinalIgnoreCase)))save.words.Add(new Word{text=entry.word,meaning=entry.meaning,example=entry.example.Replace("{"+entry.word+"}",entry.word),box=0,due=DateTime.Today.ToString("yyyy-MM-dd")});}
 }

@@ -3,18 +3,8 @@ import json
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-scenes = ['dorm-midnight', 'goddess-sanctuary', 'tavern-ruins', 'tavern-defense']
+scenes = ['goddess-sanctuary', 'tavern-ruins', 'tavern-defense']
 segments = [
-[
-('旁白', 'It is past midnight. My desk lamp is the only light still on in the dormitory.', '已经过了午夜。宿舍里，只有我的台灯还亮着。'),
-('旁白', 'Perfect scores cover the corner of my desk. English has always been my strongest subject.', '几张满分试卷叠在桌角。英语一直是我最擅长的科目。'),
-('室友消息', 'You get full marks every time. Why are you still preparing for the CET-6 exam?', '你每次都考满分，怎么还在准备六级？'),
-('陆川', 'A perfect score does not excuse me from the next exam. One last passage, then bed.', '满分又不是免考。最后一篇，做完就睡。'),
-('旁白', 'I check the final sentence. Suddenly, the words blur, and the room begins to tilt.', '我核对最后一句。突然，文字变得模糊，整个房间仿佛倾斜起来。'),
-('陆川', 'That is strange. I should put the pen down before I fall out of this chair.', '不对劲。我得先把笔放下，免得从椅子上摔下去。'),
-('旁白', 'I reach for the desk, but my fingers meet cold air. A distant bell rings.', '我伸手扶桌沿，指尖却碰到一片冰凉的空气。远处响起钟声。'),
-('陆川', 'This is definitely not my dormitory. And that is definitely not our campus bell.', '这里绝对不是我的宿舍。那也绝对不是学校的铃声。'),
-],
 [
 ('伊瑟雅', 'Welcome, Lu Chuan. I am Iserya. I need your help to protect another world.', '欢迎你，陆川。我是伊瑟雅。我需要你帮助守护另一个世界。'),
 ('陆川', 'A goddess? Then I suppose this is more serious than falling asleep at my desk.', '女神？看来这比趴在桌上睡着严重多了。'),
@@ -35,20 +25,20 @@ segments = [
 ('旁白', 'A cracked crystal sits behind the counter. Its faint light flickers with every drop of rain.', '吧台后放着一块开裂的晶石。每滴雨落下，它的微光都会晃动。'),
 ('言契系统', 'Seal core located. Structural damage is severe. Begin with shelter, food, and a working hearth.', '已定位封印核心。结构损伤严重。请先恢复遮雨、食物与炉火。'),
 ('陆川', 'A roof, hot meals, and somewhere to sit. At least the first steps are understandable.', '能挡雨，有热饭，还有地方坐。至少第一步听起来很明白。'),
-('旁白', 'Something strikes the door. A wounded knight stumbles inside, followed by a creature of dark fire.', '有什么撞上大门。一名受伤的骑士跌进来，身后跟着一只燃着暗火的魔物。'),
+('旁白', 'Something strikes the door. A wounded knight stumbles inside, followed by a spiny creature covered in purple mushrooms.', '有什么撞上大门。一名受伤的骑士跌进来，身后追着一只长满紫色蘑菇的荆棘孢子兽。'),
 ('艾莉娅', 'Get behind me! Stay away from the door, and do not try to fight it!', '躲到我身后！离门远一点，不要试着和它打！'),
 ('旁白', 'She sees my empty hands and raises her shield, placing herself between me and the monster.', '她看见我两手空空，立刻举起盾牌，挡在我和魔物之间。'),
 ('陆川', 'I cannot use a sword, but I can help. Keep your shield up for a moment.', '我不会用剑，但我能帮忙。请再举盾撑一会儿。'),
 ('艾莉娅', 'Then help by staying alive. I will draw its attention away from you.', '那就先保住自己。我会把它的注意力引开。'),
 ],
 [
-('言契系统', 'Ally identified: Aelia, a holy knight. Support link ready. The enemy is gathering dark fire.', '已识别同伴：圣骑士艾莉娅。支援连接就绪。敌人正在聚集暗火。'),
+('言契系统', 'Ally identified: Aelia, a holy knight. Support link ready. The spore beast is gathering poisonous spores.', '已识别同伴：圣骑士艾莉娅。支援连接就绪。荆棘孢子兽正在聚集毒孢子。'),
 ('陆川', 'I can see its next move. Give me a moment to strengthen your defense.', '我能看见它下一步的行动。给我一点时间，我来增强你的防御。'),
 ('旁白', 'Two cards glow before me: a protective barrier and a tactical guide. The contract waits for my answer.', '两张卡牌在我面前亮起：守护屏障与战术指引。契约等待我的回答。'),
 ('艾莉娅', 'There is light around my shield. Was that your magic?', '我的盾牌周围出现了光。这是你的魔法？'),
 ('陆川', 'Yes. You handle the sword. I will make sure you have the opening you need.', '是。你来挥剑，我来给你创造机会。'),
 ('言契系统', 'Choose your support cards, then answer. Your ally will strike when the contract is complete.', '选择支援卡牌，再作答。契约完成后，同伴将发动攻击。'),
-('旁白', 'Her blade cuts through the dark flame. The creature falls, and the room becomes quiet again.', '她的剑锋穿过暗火。魔物倒下，屋里终于重新安静。'),
+('旁白', 'Her blade cuts through the purple spores. The creature falls, and the room becomes quiet again.', '她的剑锋穿过紫色孢子。魔物倒下，屋里终于重新安静。'),
 ('艾莉娅', 'I thought you were an ordinary traveler. I am Aelia. Thank you for standing with me.', '我还以为你是普通旅人。我叫艾莉娅。谢谢你和我一起战斗。'),
 ('陆川', 'Lu Chuan. Apparently, I am the new owner. You have seen the state of the place.', '陆川。看来，我是这里的新老板。这家店的情况，你也看见了。'),
 ('艾莉娅', 'Then we should start with the roof. I can guard the tavern while you make it a home.', '那就先从屋顶开始吧。你把这里变成归处，我来守护它。'),
@@ -64,17 +54,19 @@ for scene, segment in zip(scenes, segments):
         lines.append(dict(speaker=speaker, actor='', voiceRole=speaker, text=text, translation=zh,
                           scene=f'art/tavern/{scene}.png', sceneSingle=True, start=0, end=0))
 for index, line in enumerate(lines):
-    if 25 <= index <= 35:
-        line['scene'] = 'art/tavern/tavern-defense.png'
-    elif index >= 36:
+    if 17 <= index <= 21:
+        line['scene'] = 'art/tavern/tavern-entrance-spore.png'
+    elif 22 <= index <= 27:
+        line['scene'] = 'art/tavern/tavern-defense-spore.png'
+    elif index >= 28:
         line['scene'] = 'art/tavern/tavern-first-light.png'
 questions = [
-dict(afterLine=7, skill='人物动机', prompt='Why is Lu Chuan still preparing for the exam?', options=['He has failed English several times.', 'He believes preparation is still necessary.', 'His roommate is taking the exam for him.', 'He has forgotten the exam date.'], answer=1, explanation='他明确说满分不等于免考，还要完成最后一篇材料。备考体现认真，而非英语薄弱。'),
-dict(afterLine=19, skill='因果关系', prompt='What must Lu Chuan do to strengthen the seal?', options=['Buy a legendary sword and leave the town.', 'Close the tavern to keep everyone away.', 'Bring the crystal back to his dormitory.', 'Welcome guests and recover crystal fragments.'], answer=3, explanation='女神说明：客人相聚提供能量，地下城碎片修复晶石结构。经营和探索缺一不可。'),
-dict(afterLine=29, skill='行为推断', prompt='Why does Aelia stand in front of Lu Chuan?', options=['She thinks he needs protection.', 'She wants him to repair her shield.', 'She believes he controls the monster.', 'She is asking him to leave the tavern.'], answer=0, explanation='她看到男主没有武器，把他当作需要保护的普通人，举盾挡在他身前。'),
-dict(afterLine=43, skill='分工与主旨', prompt='How do Lu Chuan and Aelia plan to work together?', options=['Both will abandon the damaged tavern.', 'Aelia will answer every question for him.', 'He will restore the tavern, and she will help protect it.', 'He will guard the town while she returns to his world.'], answer=2, explanation='艾莉娅说：你把这里变成归处，我来守护它。两人建立经营与保护的分工。'),
+dict(afterLine=1, skill='人物身份与动机', prompt='Why does Iserya welcome Lu Chuan?', options=['She needs his help to protect another world.', 'She wants him to finish his exam.', 'She wants him to return to his dormitory.', 'She is asking him to repair her computer.'], answer=0, explanation='女神说明，她需要陆川帮助守护另一个世界。'),
+dict(afterLine=11, skill='因果关系', prompt='What must Lu Chuan do to strengthen the seal?', options=['Buy a legendary sword and leave the town.', 'Close the tavern to keep everyone away.', 'Bring the crystal back to his dormitory.', 'Welcome guests and recover crystal fragments.'], answer=3, explanation='女神说明：客人相聚提供能量，地下城碎片修复晶石结构。经营和探索缺一不可。'),
+dict(afterLine=21, skill='行为推断', prompt='Why does Aelia stand in front of Lu Chuan?', options=['She thinks he needs protection.', 'She wants him to repair her shield.', 'She believes he controls the monster.', 'She is asking him to leave the tavern.'], answer=0, explanation='她看到男主没有武器，把他当作需要保护的普通人，举盾挡在他身前。'),
+dict(afterLine=35, skill='分工与主旨', prompt='How do Lu Chuan and Aelia plan to work together?', options=['Both will abandon the damaged tavern.', 'Aelia will answer every question for him.', 'He will restore the tavern, and she will help protect it.', 'He will guard the town while she returns to his world.'], answer=2, explanation='艾莉娅说：你把这里变成归处，我来守护它。两人建立经营与保护的分工。'),
 ]
-chapter=dict(id='tavern-prologue', title='封印酒馆 · 序幕：第一盏灯', description='四幕原创剧情 · 独立新主线 · 字幕自由切换 · 卡牌支援教学', source='原创奇幻剧情及四道分段听力理解题，非考试原文。', audio='audio/tavern/prologue.wav', audioLabel='离线英文角色合成配音 · 原创非考试原音', background='art/tavern/dorm-midnight.png', unlockLevel=1, sortOrder=1000, pixelArt=True, inlineQuestions=True, timeLimitSeconds=900, actors=[], decisions=[], questions=questions, lines=lines, ending='序幕完成。陆川与艾莉娅点亮归灯酒馆；第一章“今天开始营业”将在后续开放。')
+chapter=dict(id='tavern-prologue', title='封印酒馆 · 序幕：第一盏灯', description='CG开场 · 三幕原创剧情 · 独立新主线 · 字幕自由切换 · 卡牌支援教学', source='原创奇幻剧情及四道分段听力理解题，非考试原文。', audio='audio/tavern/prologue.wav', audioLabel='离线英文角色合成配音 · 原创非考试原音', background='art/tavern/goddess-sanctuary.png', unlockLevel=1, sortOrder=1000, pixelArt=True, inlineQuestions=True, timeLimitSeconds=900, actors=[], decisions=[], questions=questions, lines=lines, ending='序幕完成。陆川与艾莉娅点亮归灯酒馆；第一章“今天开始营业”将在后续开放。')
 target=ROOT/'chapters/10-tavern-prologue.json'
 target.write_text(json.dumps(chapter, ensure_ascii=False, indent=2)+'\n', encoding='utf-8')
 print(f'Authored {len(lines)} lines, {len(questions)} questions: {target}')

@@ -1,4 +1,4 @@
-using System;using System.IO;using System.Linq;using System.Drawing;using System.Drawing.Drawing2D;using System.Windows.Forms;
+﻿using System;using System.IO;using System.Linq;using System.Drawing;using System.Drawing.Drawing2D;using System.Windows.Forms;
 public class SupportCardView:Control {
  public SupportCard Card;public Image Atlas,FrameAtlas;public bool Playable=true;public bool Large;public bool Locked;
  public SupportCardView(){SetStyle(ControlStyles.SupportsTransparentBackColor|ControlStyles.UserPaint|ControlStyles.AllPaintingInWmPaint|ControlStyles.OptimizedDoubleBuffer,true);BackColor=Color.Transparent;Size=new Size(130,176);Cursor=Cursors.Hand;Margin=new Padding(5);TabStop=true;AccessibleRole=AccessibleRole.PushButton;}
@@ -48,7 +48,7 @@ public partial class Game {
   var hand=new BattleFanHand();arena.Controls.Add(hand);hand.MouseMove+=(sender,args)=>((RogueArena)arena).HoverStatus(hand,arena.PointToClient(hand.PointToScreen(args.Location)));hand.MouseLeave+=(sender,args)=>((RogueArena)arena).HoverStatus(hand,new Point(-1,-1));var handArts=new System.Collections.Generic.List<Bitmap>();var handArtKeys=new System.Collections.Generic.List<string>();
   var energy=new BattleEnergyBadge{Remaining=b.energy,Capacity=b.energyCapacity>0?b.energyCapacity:Math.Max(3,b.energy)};arena.Controls.Add(energy);
   var info=new OutlinedLabel{Visible=b.overflow.Count>0,Text="请选择一张手牌弃置",ForeColor=Gold,BackColor=Color.Transparent,Font=GameTheme.Body(10)};arena.Controls.Add(info);
-  var end=RogueButton("结束回合",()=>{if(CardBattle.EndTurn(r))SaveRogue();},160,46);end.Enabled=b.overflow.Count==0;arena.Controls.Add(end);
+  var end=RogueButton("结束回合",()=>{if(Object.ReferenceEquals(r,save.tavernBattle)?EndTavernTurn(r):CardBattle.EndTurn(r))SaveRogue();},160,46);end.Enabled=b.overflow.Count==0;arena.Controls.Add(end);
   Action fillHand=()=>{hand.ClearCards();handArts.Clear();handArtKeys.Clear();for(int i=0;i<Math.Min(8,b.hand.Count);i++){var card=CardBattle.Get(b.hand[i]);bool playable=b.overflow.Count>0||card.cost<=b.energy&&(card.id!="rethink"||b.hand.Count>1);var art=SupportHandArt(card,playable);handArts.Add(art);handArtKeys.Add("support-hand-scaled:"+card.id+":"+playable);hand.AddCard(art,card.name+" · "+card.text,false,playable);}};fillHand();hand.RefreshCards=fillHand;
   hand.CachedCard=(index,width,height)=>{string key=handArtKeys[index]+":"+width+":"+height;Image cached;if(imageCache.TryGetValue(key,out cached))return (Bitmap)cached;var scaled=new Bitmap(width,height,System.Drawing.Imaging.PixelFormat.Format32bppPArgb);using(var g=Graphics.FromImage(scaled)){g.InterpolationMode=InterpolationMode.HighQualityBicubic;g.PixelOffsetMode=PixelOffsetMode.HighQuality;g.DrawImage(handArts[index],new Rectangle(0,0,width,height));}imageCache[key]=scaled;return scaled;};
   hand.TryPlayCard=index=>b.overflow.Count>0?CardBattle.DiscardChoice(r,index):CardBattle.Play(r,index);

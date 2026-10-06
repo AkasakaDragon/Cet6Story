@@ -1,0 +1,49 @@
+{
+  "text": "Welcome, Lu Chuan. I am Iserya. I need your help to protect another world. A demon king is sealed beneath a border town. The seal is weakening.",
+  "rate": "-8%",
+  "pitch": "-2Hz",
+  "samples": [
+    {
+      "number": 1,
+      "voice": "en-US-AriaNeural",
+      "name": "Aria",
+      "file": "1-Aria.wav",
+      "seconds": 13.992
+    },
+    {
+      "number": 2,
+      "voice": "en-US-JennyNeural",
+      "name": "Jenny",
+      "file": "2-Jenny.wav",
+      "seconds": 13.44
+    },
+    {
+      "number": 3,
+      "voice": "en-US-EmmaNeural",
+      "name": "Emma",
+      "file": "3-Emma.wav",
+      "seconds": 10.896
+    },
+    {
+      "number": 4,
+      "voice": "en-US-AvaNeural",
+      "name": "Ava",
+      "file": "4-Ava.wav",
+      "seconds": 11.376
+    },
+    {
+      "number": 5,
+      "voice": "en-GB-SoniaNeural",
+      "name": "Sonia",
+      "file": "5-Sonia.wav",
+      "seconds": 12.312
+    },
+    {
+      "number": 6,
+      "voice": "en-GB-LibbyNeural",
+      "name": "Libby",
+      "file": "6-Libby.wav",
+      "seconds": 14.664
+    }
+  ]
+}
