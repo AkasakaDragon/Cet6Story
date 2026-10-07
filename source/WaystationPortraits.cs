@@ -8,6 +8,7 @@ public partial class Game {
   if(!WaystationChapterOne.Dialogue(current)||stage==null)return;
   bool changed=!stage.WaystationPortraits;stage.WaystationPortraits=true;
   foreach(var a in stage.Actors){bool visible=WaystationChapterOne.Second(current)?(a.Id!="lyse"||(index>=6&&index<34)):WaystationChapterOne.Is(current)?(a.Id!="aelia"||index<28):index>=12&&(a.Id!="aelia"||index>=17),mirror=a.Id=="aelia"||a.Id=="lyse";float scale=a.Id=="luchuan"?1.1f:1f;
+   if(TavernStory.Is(current)){visible=index<12?(a.Id=="luchuan"||a.Id=="iserya"):a.Id!="iserya"&&(a.Id!="aelia"||index>=17);}
    if(a.Visible!=visible||a.Mirror!=mirror||a.Scale!=scale)changed=true;
    if(WaystationChapterOne.Number(current)>=2)visible=true;
    a.Visible=visible;a.Mirror=mirror;a.Scale=scale;

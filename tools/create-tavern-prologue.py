@@ -15,8 +15,8 @@ segments = [
 ('陆川', 'Saving the world now requires experience in hospitality? That was not in my study plan.', '现在拯救世界还要求餐饮经验？我的复习计划可没这项。'),
 ('伊瑟雅', 'Repair the tavern, welcome guests, and recover crystal fragments from the dungeon below.', '修好酒馆，迎接客人，再到下面的地下城找回晶石碎片。'),
 ('伊瑟雅', 'Their shared warmth will power the crystal. The fragments will repair its broken structure.', '人们相聚的温暖会为晶石供能，碎片则能修复它破损的结构。'),
-('言契系统', 'Language contract connected. Answer vocabulary questions to activate support cards for your allies.', '语言契约已连接。回答词汇题，即可为同伴发动支援卡牌。'),
-('陆川', 'The instructions make sense. A sword is beyond me, but I can work with these cards.', '指令我看懂了。用剑我不在行，不过，这些卡牌我能试试。'),
+('言契系统', 'Language contract established. Answer vocabulary questions to cast spells in battle.', '语言契约已建立，回答词汇题，可以施放法术进行战斗。'),
+('陆川', 'I understand the instructions. I am no good with a sword, but I can try learning vocabulary.', '指令我看懂了。用剑我不在行，不过，背单词我可以试试。'),
 ('伊瑟雅', 'Once the seal is stable, I can open a safe path home. Until then, you will have help.', '等封印稳定下来，我就能打开安全的归途。在那之前，你也会有同伴。'),
 ],
 [

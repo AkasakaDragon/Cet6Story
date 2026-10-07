@@ -94,25 +94,25 @@ public partial class Game {
   ClearPage();page="knight-entrance";save.positions[current.id]=index;Persist();bool finished=false;
   Action finish=()=>{if(finished||page!="knight-entrance")return;finished=true;StoryRoutes.Flag(save,TavernStory.EntranceFlag);string heard=current.id+"/line/"+TavernStory.EntranceLine;if(!save.heardLines.Contains(heard))save.heardLines.Add(heard);index=TavernStory.EntranceLine+1;save.positions[current.id]=index;Persist();ShowStory();PlayCurrent();};
   try{
-   var folder=Path.Combine(root,"assets","opening","tavern");var canvas=new OpeningCgCanvas(Path.Combine(root,"tools","ffmpeg","ffmpeg.exe"),Path.Combine(folder,"knight-entrance.mp4"),AudioDevicePath.Relative(AudioVolume.Prepare(Path.Combine(folder,"knight-entrance.wav"),EffectSoundVolume(),root)),12){Dock=DockStyle.Fill,FillFrame=true};content.Controls.Add(canvas);canvas.Completed=finish;canvas.Failed=message=>{if(page=="knight-entrance"){GameMessage.Show(this,"骑士闯入 CG 未能播放："+message,"播放提示");finish();}};canvas.Start();
+   var folder=Path.Combine(root,"assets","opening","tavern");var canvas=new OpeningCgCanvas(Path.Combine(root,"tools","ffmpeg","ffmpeg.exe"),Path.Combine(folder,"knight-entrance.mp4"),AudioDevicePath.Relative(AudioVolume.Prepare(Path.Combine(folder,"knight-entrance.wav"),EffectSoundVolume(),root)),12){Dock=DockStyle.Fill,FillFrame=true};content.Controls.Add(canvas);canvas.Completed=()=>TransitionCgPage(finish);canvas.Failed=message=>{if(page=="knight-entrance"){GameMessage.Show(this,"骑士闯入 CG 未能播放："+message,"播放提示");finish();}};canvas.Start();
   }catch(Exception ex){GameMessage.Show(this,"骑士闯入 CG 未能播放："+ex.Message,"播放提示");finish();}
  }
  bool TryTavernTransfer(){if(!TavernStory.Is(current)||index!=TavernStory.TransferLine||save.storyFlags.Contains(TavernStory.TransferFlag))return false;ShowGoddessTransfer();return true;}
  void ShowGoddessTransfer(){
   ClearPage();page="goddess-transfer";save.positions[current.id]=index;Persist();bool finished=false;
   PreloadTransferAssets();
-  Action finish=()=>{if(finished||page!="goddess-transfer")return;finished=true;StoryRoutes.Flag(save,TavernStory.TransferFlag);index=TavernStory.TransferLine;save.positions[current.id]=index;Persist();ShowStory();var reveal=new WhiteSceneReveal{Dock=DockStyle.Fill};content.PerformLayout();stage.PerformLayout();reveal.CaptureScene(stage);reveal.Completed=()=>{if(page=="story"&&index==TavernStory.TransferLine)PlayCurrent();};content.Controls.Add(reveal);reveal.BringToFront();reveal.Start();};
+  Action finish=()=>{if(finished||page!="goddess-transfer")return;finished=true;StoryRoutes.Flag(save,TavernStory.TransferFlag);index=TavernStory.TransferLine;save.positions[current.id]=index;Persist();ShowStory();};
   try{
-   var folder=Path.Combine(root,"assets","opening","tavern");var canvas=new OpeningCgCanvas(Path.Combine(root,"tools","ffmpeg","ffmpeg.exe"),Path.Combine(folder,"goddess-transfer.mp4"),AudioDevicePath.Relative(AudioVolume.Prepare(Path.Combine(folder,"goddess-transfer.wav"),EffectSoundVolume(),root)),6){Dock=DockStyle.Fill,FillFrame=true};content.Controls.Add(canvas);canvas.Completed=finish;canvas.Failed=message=>{if(page=="goddess-transfer"){GameMessage.Show(this,"传送 CG 未能播放："+message,"播放提示");finish();}};canvas.Start();
+   var folder=Path.Combine(root,"assets","opening","tavern");var canvas=new OpeningCgCanvas(Path.Combine(root,"tools","ffmpeg","ffmpeg.exe"),Path.Combine(folder,"goddess-transfer.mp4"),AudioDevicePath.Relative(AudioVolume.Prepare(Path.Combine(folder,"goddess-transfer.wav"),EffectSoundVolume(),root)),6){Dock=DockStyle.Fill,FillFrame=true};content.Controls.Add(canvas);canvas.Completed=()=>TransitionCgPage(finish);canvas.Failed=message=>{if(page=="goddess-transfer"){GameMessage.Show(this,"传送 CG 未能播放："+message,"播放提示");finish();}};canvas.Start();
   }catch(Exception ex){GameMessage.Show(this,"传送 CG 未能播放："+ex.Message,"播放提示");finish();}
  }
  void ShowTavernOpening(){
   ClearPage();page="tavern-opening";
   bool finished=false;
-  Action finish=()=>{if(finished||page!="tavern-opening")return;finished=true;StoryRoutes.Flag(save,TavernStory.OpeningFlag);index=0;save.positions[current.id]=index;save.lastChapter=current.id;Persist();ShowStory();PlayCurrent();};
+  Action finish=()=>{if(finished||page!="tavern-opening")return;finished=true;StoryRoutes.Flag(save,TavernStory.OpeningFlag);index=0;save.positions[current.id]=index;save.lastChapter=current.id;Persist();RevealOpeningConversation();};
   try{
    var folder=Path.Combine(root,"assets","opening","tavern");
-   var canvas=new OpeningCgCanvas(Path.Combine(root,"tools","ffmpeg","ffmpeg.exe"),Path.Combine(folder,"opening.mp4"),AudioDevicePath.Relative(AudioVolume.Prepare(Path.Combine(folder,"opening.wav"),EffectSoundVolume(),root)),18){Dock=DockStyle.Fill};content.Controls.Add(canvas);
+   var canvas=new OpeningCgCanvas(Path.Combine(root,"tools","ffmpeg","ffmpeg.exe"),Path.Combine(folder,"opening-narrated.mp4"),AudioDevicePath.Relative(AudioVolume.Prepare(Path.Combine(folder,"opening-narrated.wav"),EffectSoundVolume(),root)),Engine.Json.Deserialize<ChapterOneCg>(File.ReadAllText(Path.Combine(folder,"opening-narrated.json"))).seconds){Dock=DockStyle.Fill,SceneCaptionFromSeconds=14,SceneCaption="白光散去，陆川站在云海间的古老神殿中。破碎的金色晶核悬浮在石台上，一位女神正等待着他。\nThe white light fades. Lu Chuan stands in an ancient sanctuary above the clouds, where a goddess awaits beside a shattered golden crystal."};content.Controls.Add(canvas);
    canvas.Completed=finish;canvas.Failed=message=>{if(page!="tavern-opening")return;GameMessage.Show(this,"序幕 CG 未能播放："+message,"播放提示");finish();};
    var skip=new VNButton{Text="跳过 CG",PixelStyle=true,Size=new Size(125,46),Font=GameTheme.Body(12),AccessibleName="跳过酒馆序幕 CG"};canvas.Controls.Add(skip);
    Action place=()=>skip.Location=new Point(Math.Max(8,canvas.Width-skip.Width-20),20);canvas.Resize+=(s,e)=>place();place();skip.Click+=(s,e)=>finish();tips.SetToolTip(skip,"跳过后直接进入女神对话");canvas.Start();
