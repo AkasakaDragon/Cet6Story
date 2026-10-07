@@ -4,7 +4,7 @@
   "description": "莉瑟的提灯与晶石产生共鸣。三人约定结伴调查矿道入口，遇险即撤，不深入未知区域。",
   "source": "原创奇幻剧情与四道分段听力题，非考试原文。",
   "audio": "audio/tavern/chapter-four/story.wav",
-  "audioLabel": "离线固定角色英文配音",
+  "audioLabel": "离线固定角色英文配音 · 莉瑟：MiniMax 温暖少女",
   "background": "art/tavern/waystation-repair-morning.png",
   "unlockLevel": 1,
   "sortOrder": 1040,
@@ -47,7 +47,7 @@
       "scene": "art/tavern/waystation-repair-morning.png",
       "sceneSingle": true,
       "start": 6.106,
-      "end": 13.138
+      "end": 11.206
     },
     {
       "speaker": "陆川",
@@ -57,8 +57,8 @@
       "translation": "座位有，汤也有。晶石不能当赠品，只能隔着吧台看。",
       "scene": "art/tavern/waystation-repair-morning.png",
       "sceneSingle": true,
-      "start": 13.388,
-      "end": 20.084
+      "start": 11.456,
+      "end": 18.152
     },
     {
       "speaker": "莉瑟",
@@ -68,8 +68,8 @@
       "translation": "放心，我不拿走它。我的灯靠近这里时，比在集市安静。",
       "scene": "art/tavern/waystation-repair-morning.png",
       "sceneSingle": true,
-      "start": 20.334,
-      "end": 27.702
+      "start": 18.402,
+      "end": 24.062
     },
     {
       "speaker": "艾莉娅",
@@ -79,8 +79,8 @@
       "translation": "我叫艾莉娅。陆川说你提醒他别独自去矿道，谢谢。",
       "scene": "art/tavern/waystation-repair-morning.png",
       "sceneSingle": true,
-      "start": 27.952,
-      "end": 34.936
+      "start": 24.312,
+      "end": 31.296
     },
     {
       "speaker": "莉瑟",
@@ -90,8 +90,8 @@
       "translation": "莉瑟。今天我只是来借个座位，顺便确认一件事。",
       "scene": "art/tavern/waystation-repair-morning.png",
       "sceneSingle": true,
-      "start": 35.186,
-      "end": 40.754
+      "start": 31.546,
+      "end": 36.006
     },
     {
       "speaker": "旁白",
@@ -101,8 +101,8 @@
       "translation": "一只淡紫光蝶从灯罩边升起，落在晶石裂缝旁，翅膀轻轻合拢。",
       "scene": "art/tavern/waystation-repair-morning.png",
       "sceneSingle": true,
-      "start": 41.004,
-      "end": 48.396
+      "start": 36.256,
+      "end": 43.648
     },
     {
       "speaker": "陆川",
@@ -112,8 +112,8 @@
       "translation": "它停在缺口边上了。你的灯认识这块晶石？",
       "scene": "art/tavern/waystation-repair-morning.png",
       "sceneSingle": true,
-      "start": 48.646,
-      "end": 53.974
+      "start": 43.898,
+      "end": 49.226
     },
     {
       "speaker": "莉瑟",
@@ -123,8 +123,8 @@
       "translation": "它追踪相近的魔力，不能告诉我东西的名字。在北边，它感觉到了另一道回声。",
       "scene": "art/tavern/waystation-repair-morning.png",
       "sceneSingle": true,
-      "start": 54.224,
-      "end": 62.576
+      "start": 49.476,
+      "end": 55.776
     },
     {
       "speaker": "艾莉娅",
@@ -134,8 +134,8 @@
       "translation": "灯柄上的纹章……我曾在王室护送队的旗帜上见过。",
       "scene": "art/tavern/waystation-repair-morning.png",
       "sceneSingle": true,
-      "start": 62.826,
-      "end": 68.058
+      "start": 56.026,
+      "end": 61.258
     },
     {
       "speaker": "莉瑟",
@@ -145,8 +145,8 @@
       "translation": "请先替我保密。我不想让每个人都只听见那个身份，而不听我说什么。",
       "scene": "art/tavern/waystation-repair-morning.png",
       "sceneSingle": true,
-      "start": 68.308,
-      "end": 76.66
+      "start": 61.508,
+      "end": 67.598
     },
     {
       "speaker": "陆川",
@@ -156,8 +156,8 @@
       "translation": "这里先按客人的名字记账。你没有义务用一碗汤换自己的秘密。",
       "scene": "art/tavern/waystation-repair-morning.png",
       "sceneSingle": true,
-      "start": 76.91,
-      "end": 83.63
+      "start": 67.848,
+      "end": 74.568
     },
     {
       "speaker": "莉瑟",
@@ -167,8 +167,8 @@
       "translation": "近三晚，镇北的灯会突然熄灭。熄灭前，我的提灯都指向旧矿道。",
       "scene": "art/tavern/waystation-repair-morning.png",
       "sceneSingle": true,
-      "start": 83.88,
-      "end": 94.368
+      "start": 74.818,
+      "end": 83.268
     },
     {
       "speaker": "艾莉娅",
@@ -178,8 +178,8 @@
       "translation": "守卫今天也报告了陌生脚印。两个线索有关，但还不能证明原因。",
       "scene": "art/tavern/waystation-repair-morning.png",
       "sceneSingle": true,
-      "start": 94.618,
-      "end": 102.082
+      "start": 83.518,
+      "end": 90.982
     },
     {
       "speaker": "陆川",
@@ -189,8 +189,8 @@
       "translation": "如果矿道里有碎片，灯能找到它吗？",
       "scene": "art/tavern/waystation-repair-morning.png",
       "sceneSingle": true,
-      "start": 102.332,
-      "end": 106.412
+      "start": 91.232,
+      "end": 95.312
     },
     {
       "speaker": "莉瑟",
@@ -200,8 +200,8 @@
       "translation": "只能指方向，无法保证道路安全。我自己没有把握进去。",
       "scene": "art/tavern/waystation-repair-morning.png",
       "sceneSingle": true,
-      "start": 106.662,
-      "end": 114.558
+      "start": 95.562,
+      "end": 101.962
     },
     {
       "speaker": "艾莉娅",
@@ -211,8 +211,8 @@
       "translation": "那就结伴，只看入口和第一处岔路。发现危险就撤，不追进深处。",
       "scene": "art/tavern/waystation-repair-morning.png",
       "sceneSingle": true,
-      "start": 114.808,
-      "end": 123.52
+      "start": 102.212,
+      "end": 110.924
     },
     {
       "speaker": "陆川",
@@ -222,8 +222,8 @@
       "translation": "我负责读标记和记录路线。你挡在前面，莉瑟负责照明和寻找回声。",
       "scene": "art/tavern/waystation-repair-morning.png",
       "sceneSingle": true,
-      "start": 123.77,
-      "end": 131.018
+      "start": 111.174,
+      "end": 118.422
     },
     {
       "speaker": "旁白",
@@ -233,8 +233,8 @@
       "translation": "艾莉娅把水袋放在门边，又检查了盾带。陆川取下暂停营业的木牌。",
       "scene": "art/tavern/waystation-repair-morning.png",
       "sceneSingle": true,
-      "start": 131.268,
-      "end": 139.908
+      "start": 118.672,
+      "end": 127.312
     },
     {
       "speaker": "莉瑟",
@@ -244,8 +244,8 @@
       "translation": "我会让镇门值守的人知道我们的路线。如果迟迟不回，他们至少知道去哪里找。",
       "scene": "art/tavern/waystation-repair-morning.png",
       "sceneSingle": true,
-      "start": 140.158,
-      "end": 146.638
+      "start": 127.562,
+      "end": 132.622
     },
     {
       "speaker": "陆川",
@@ -255,8 +255,8 @@
       "translation": "暂停营业，不是关店跑路。回来以后，账本还得接着写。",
       "scene": "art/tavern/waystation-repair-morning.png",
       "sceneSingle": true,
-      "start": 146.888,
-      "end": 153.08
+      "start": 132.872,
+      "end": 139.064
     },
     {
       "speaker": "艾莉娅",
@@ -266,8 +266,8 @@
       "translation": "我们把退路也写清楚。能回来，比走得远更重要。",
       "scene": "art/tavern/waystation-repair-morning.png",
       "sceneSingle": true,
-      "start": 153.33,
-      "end": 159.162
+      "start": 139.314,
+      "end": 145.146
     },
     {
       "speaker": "莉瑟",
@@ -277,8 +277,8 @@
       "translation": "谢谢。有人愿意先听完我的话，比认出纹章更让我安心。",
       "scene": "art/tavern/waystation-repair-morning.png",
       "sceneSingle": true,
-      "start": 159.412,
-      "end": 167.308
+      "start": 145.396,
+      "end": 151.4914
     },
     {
       "speaker": "旁白",
@@ -288,8 +288,8 @@
       "translation": "三人沿石桥走向镇北。提灯照着脚下的路，没有催促任何人加快脚步。",
       "scene": "art/tavern/waystation-repair-morning.png",
       "sceneSingle": true,
-      "start": 167.558,
-      "end": 175.046
+      "start": 151.7414,
+      "end": 159.2294
     }
   ],
   "questions": [

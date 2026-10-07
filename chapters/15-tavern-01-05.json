@@ -4,7 +4,7 @@
   "description": "三人取得第一块修复碎晶，记录异常拖痕后返回。更深处的调查留待准备充分之后。",
   "source": "原创奇幻剧情与四道分段听力题，非考试原文。",
   "audio": "audio/tavern/chapter-five/story.wav",
-  "audioLabel": "离线固定角色英文配音",
+  "audioLabel": "离线固定角色英文配音 · 莉瑟：MiniMax 温暖少女",
   "background": "art/tavern/chapter-one-mine.png",
   "unlockLevel": 1,
   "sortOrder": 1050,
@@ -69,7 +69,7 @@
       "scene": "art/tavern/chapter-one-mine.png",
       "sceneSingle": true,
       "start": 25.134,
-      "end": 32.334
+      "end": 31.014
     },
     {
       "speaker": "艾莉娅",
@@ -79,8 +79,8 @@
       "translation": "西边有风，先看西道。每过一个转角留个标记，塌陷的东道不进。",
       "scene": "art/tavern/chapter-one-mine.png",
       "sceneSingle": true,
-      "start": 32.584,
-      "end": 41.8
+      "start": 31.264,
+      "end": 40.48
     },
     {
       "speaker": "旁白",
@@ -90,8 +90,8 @@
       "translation": "陆川在入口石壁上画下箭头，记录了第一处转角与出口的位置。",
       "scene": "art/tavern/chapter-one-mine.png",
       "sceneSingle": true,
-      "start": 42.05,
-      "end": 48.29
+      "start": 40.73,
+      "end": 46.97
     },
     {
       "speaker": "旁白",
@@ -101,8 +101,8 @@
       "translation": "低矮的影子从废矿车下扑出。艾莉娅举盾，金属撞击声在石壁间回荡。",
       "scene": "art/tavern/chapter-one-mine.png",
       "sceneSingle": true,
-      "start": 48.54,
-      "end": 57.396
+      "start": 47.22,
+      "end": 56.076
     },
     {
       "speaker": "艾莉娅",
@@ -112,8 +112,8 @@
       "translation": "别往后乱跑！左侧空着，陆川，帮我照清它的落点。",
       "scene": "art/tavern/chapter-one-mine.png",
       "sceneSingle": true,
-      "start": 57.646,
-      "end": 65.926
+      "start": 56.326,
+      "end": 64.606
     },
     {
       "speaker": "陆川",
@@ -123,8 +123,8 @@
       "translation": "卡牌上的“牵制”不是攻击。我先限制它移动，你再把它挡开。",
       "scene": "art/tavern/chapter-one-mine.png",
       "sceneSingle": true,
-      "start": 66.176,
-      "end": 73.304
+      "start": 64.856,
+      "end": 71.984
     },
     {
       "speaker": "莉瑟",
@@ -134,8 +134,8 @@
       "translation": "灯放左边，不照你的眼睛。它又要扑了！",
       "scene": "art/tavern/chapter-one-mine.png",
       "sceneSingle": true,
-      "start": 73.554,
-      "end": 80.298
+      "start": 72.234,
+      "end": 77.634
     },
     {
       "speaker": "旁白",
@@ -145,8 +145,8 @@
       "translation": "言契束住怪物的前爪，艾莉娅用盾将它逼回废矿车后。三人重新站稳。",
       "scene": "art/tavern/chapter-one-mine.png",
       "sceneSingle": true,
-      "start": 80.548,
-      "end": 89.284
+      "start": 77.884,
+      "end": 86.62
     },
     {
       "speaker": "艾莉娅",
@@ -156,8 +156,8 @@
       "translation": "够了，不追。它退开了，我们继续看岔路前的石台。",
       "scene": "art/tavern/chapter-one-mine.png",
       "sceneSingle": true,
-      "start": 89.534,
-      "end": 97.694
+      "start": 86.87,
+      "end": 95.03
     },
     {
       "speaker": "陆川",
@@ -167,8 +167,8 @@
       "translation": "这里的拖痕都朝着石台，不像随便路过。它们可能在找同一个东西。",
       "scene": "art/tavern/chapter-one-mine.png",
       "sceneSingle": true,
-      "start": 97.944,
-      "end": 105.384
+      "start": 95.28,
+      "end": 102.72
     },
     {
       "speaker": "莉瑟",
@@ -178,8 +178,8 @@
       "translation": "光蝶停在石缝上了。缝里有一块晶体，颜色和你们吧台上的一样。",
       "scene": "art/tavern/chapter-one-mine.png",
       "sceneSingle": true,
-      "start": 105.634,
-      "end": 114.586
+      "start": 102.97,
+      "end": 109.53
     },
     {
       "speaker": "艾莉娅",
@@ -189,8 +189,8 @@
       "translation": "先别伸手。石台底下还有动静，我来挡住。",
       "scene": "art/tavern/chapter-one-mine.png",
       "sceneSingle": true,
-      "start": 114.836,
-      "end": 121.676
+      "start": 109.78,
+      "end": 116.62
     },
     {
       "speaker": "陆川",
@@ -200,8 +200,8 @@
       "translation": "标记旁边写着“先松扣，再抬盖”。硬拉会把石缝压紧。",
       "scene": "art/tavern/chapter-one-mine.png",
       "sceneSingle": true,
-      "start": 121.926,
-      "end": 128.958
+      "start": 116.87,
+      "end": 123.902
     },
     {
       "speaker": "莉瑟",
@@ -211,8 +211,8 @@
       "translation": "我找到了扣环。按说明来，晶体没有卡住了。",
       "scene": "art/tavern/chapter-one-mine.png",
       "sceneSingle": true,
-      "start": 129.208,
-      "end": 135.232
+      "start": 124.152,
+      "end": 128.582
     },
     {
       "speaker": "旁白",
@@ -222,8 +222,8 @@
       "translation": "莉瑟取出碎晶，用布包好。提灯的光缩成一圈，绕在她掌心。",
       "scene": "art/tavern/chapter-one-mine.png",
       "sceneSingle": true,
-      "start": 135.482,
-      "end": 143.114
+      "start": 128.832,
+      "end": 136.464
     },
     {
       "speaker": "旁白",
@@ -233,8 +233,8 @@
       "translation": "石台下的守卫兽撞向盾面。艾莉娅退半步站稳，陆川再次展开牵制卡。",
       "scene": "art/tavern/chapter-one-mine.png",
       "sceneSingle": true,
-      "start": 143.364,
-      "end": 151.956
+      "start": 136.714,
+      "end": 145.306
     },
     {
       "speaker": "艾莉娅",
@@ -244,8 +244,8 @@
       "translation": "碎片拿到了，沿标记退！我挡最后一下，不需要在这里打到底。",
       "scene": "art/tavern/chapter-one-mine.png",
       "sceneSingle": true,
-      "start": 152.206,
-      "end": 161.398
+      "start": 145.556,
+      "end": 154.748
     },
     {
       "speaker": "陆川",
@@ -255,8 +255,8 @@
       "translation": "原路两处箭头，出口在转角左边。莉瑟先走，我跟着，艾莉娅断后。",
       "scene": "art/tavern/chapter-one-mine.png",
       "sceneSingle": true,
-      "start": 161.648,
-      "end": 170.288
+      "start": 154.998,
+      "end": 163.638
     },
     {
       "speaker": "莉瑟",
@@ -266,8 +266,8 @@
       "translation": "深处还有回声……但我们答应过只看第一处岔路。今天不追了。",
       "scene": "art/tavern/chapter-one-mine.png",
       "sceneSingle": true,
-      "start": 170.538,
-      "end": 178.53
+      "start": 163.888,
+      "end": 170.2813
     },
     {
       "speaker": "艾莉娅",
@@ -277,8 +277,8 @@
       "translation": "回去把拖痕的位置交给守卫。下次来，得有地图和更多准备。",
       "scene": "art/tavern/chapter-one-mine.png",
       "sceneSingle": true,
-      "start": 178.78,
-      "end": 185.236
+      "start": 170.5313,
+      "end": 176.9873
     },
     {
       "speaker": "旁白",
@@ -288,8 +288,8 @@
       "translation": "三人走出铁栏时，夜风吹散了石尘。陆川回头确认，每个人都在。",
       "scene": "art/tavern/chapter-one-mine.png",
       "sceneSingle": true,
-      "start": 185.486,
-      "end": 194.414
+      "start": 177.2373,
+      "end": 186.1653
     }
   ],
   "questions": [

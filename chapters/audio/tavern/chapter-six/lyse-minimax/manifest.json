@@ -1,0 +1,33 @@
+{
+  "voice_id": "Chinese (Mandarin)_Warm_Girl",
+  "language": "English",
+  "source_file": "source.mp3",
+  "source_sha256": "2603446d9d384c5204d30462a38cc320da409b5f13f998656cb82828cda35f22",
+  "alignment": "Local Whisper base.en word timestamps checked against chapter text; boundaries in pauses",
+  "lines": [
+    {
+      "file": "01.wav",
+      "text": "The butterfly no longer circles this gap. At least today, we found the right piece.",
+      "source_start": 0,
+      "source_end": 4.96
+    },
+    {
+      "file": "02.wav",
+      "text": "Clear accounts on day one are more reliable than a fortune. Will you be open tomorrow?",
+      "source_start": 4.96,
+      "source_end": 10.11
+    },
+    {
+      "file": "03.wav",
+      "text": "No. I am sorry. Today I used a name that gave me a little freedom.",
+      "source_start": 10.11,
+      "source_end": 15.43
+    },
+    {
+      "file": "04.wav",
+      "text": "Thank you. Next time, I would still like this seat and a bowl of your soup.",
+      "source_start": 15.43,
+      "source_end": 20.211166666666667
+    }
+  ]
+}

@@ -4,7 +4,7 @@
   "description": "晶石第一道裂痕修复，首次营业完成结算。艾莉娅留下，莉瑟约定再来；陆川得知她的王室身份。",
   "source": "原创奇幻剧情与四道分段听力题，非考试原文。",
   "audio": "audio/tavern/chapter-six/story.wav",
-  "audioLabel": "离线固定角色英文配音",
+  "audioLabel": "离线固定角色英文配音 · 莉瑟：MiniMax 温暖少女",
   "background": "art/tavern/chapter-one-night.png",
   "unlockLevel": 1,
   "sortOrder": 1060,
@@ -91,7 +91,7 @@
       "scene": "art/tavern/chapter-one-night.png",
       "sceneSingle": true,
       "start": 35.594,
-      "end": 42.818
+      "end": 40.554
     },
     {
       "speaker": "陆川",
@@ -101,8 +101,8 @@
       "translation": "接下来是账本。今日营业收了二十四枚铜币，食材成本十八枚。",
       "scene": "art/tavern/chapter-one-night.png",
       "sceneSingle": true,
-      "start": 43.068,
-      "end": 50.052
+      "start": 40.804,
+      "end": 47.788
     },
     {
       "speaker": "艾莉娅",
@@ -112,8 +112,8 @@
       "translation": "那是六枚盈余，不是二十四枚。明天还要进货，别把收入全当能花的钱。",
       "scene": "art/tavern/chapter-one-night.png",
       "sceneSingle": true,
-      "start": 50.302,
-      "end": 58.726
+      "start": 48.038,
+      "end": 56.462
     },
     {
       "speaker": "陆川",
@@ -123,8 +123,8 @@
       "translation": "记下了，成本和收入分开。我还留着采购后剩下的十二枚备用金。",
       "scene": "art/tavern/chapter-one-night.png",
       "sceneSingle": true,
-      "start": 58.976,
-      "end": 66.08
+      "start": 56.712,
+      "end": 63.816
     },
     {
       "speaker": "莉瑟",
@@ -134,8 +134,8 @@
       "translation": "第一天能算清楚，比第一天就赚大钱可靠。你们明天还开门吗？",
       "scene": "art/tavern/chapter-one-night.png",
       "sceneSingle": true,
-      "start": 66.33,
-      "end": 73.434
+      "start": 64.066,
+      "end": 69.216
     },
     {
       "speaker": "陆川",
@@ -145,8 +145,8 @@
       "translation": "开。先保留今天的菜单，不能因为卖完一锅汤就假装自己是大厨。",
       "scene": "art/tavern/chapter-one-night.png",
       "sceneSingle": true,
-      "start": 73.684,
-      "end": 80.02
+      "start": 69.466,
+      "end": 75.802
     },
     {
       "speaker": "艾莉娅",
@@ -156,8 +156,8 @@
       "translation": "也把矿道记录抄一份。明早交给值守官，不把危险只留在我们自己的本子里。",
       "scene": "art/tavern/chapter-one-night.png",
       "sceneSingle": true,
-      "start": 80.27,
-      "end": 88.334
+      "start": 76.052,
+      "end": 84.116
     },
     {
       "speaker": "旁白",
@@ -167,8 +167,8 @@
       "translation": "门外传来车轮声，一位披深色斗篷的侍从在门廊下停住。",
       "scene": "art/tavern/chapter-one-night.png",
       "sceneSingle": true,
-      "start": 88.584,
-      "end": 94.8
+      "start": 84.366,
+      "end": 90.582
     },
     {
       "speaker": "侍从",
@@ -178,8 +178,8 @@
       "translation": "殿下，马车已备好。您让我们等到的时刻已经到了。",
       "scene": "art/tavern/chapter-one-night.png",
       "sceneSingle": true,
-      "start": 95.05,
-      "end": 101.17
+      "start": 90.832,
+      "end": 96.952
     },
     {
       "speaker": "陆川",
@@ -189,8 +189,8 @@
       "translation": "殿下？所以灯柄上的纹章，不是买灯时附送的装饰。",
       "scene": "art/tavern/chapter-one-night.png",
       "sceneSingle": true,
-      "start": 101.42,
-      "end": 106.964
+      "start": 97.202,
+      "end": 102.746
     },
     {
       "speaker": "莉瑟",
@@ -200,8 +200,8 @@
       "translation": "不是。对不起，今天先说了一个能让我自在些的名字。",
       "scene": "art/tavern/chapter-one-night.png",
       "sceneSingle": true,
-      "start": 107.214,
-      "end": 114.582
+      "start": 102.996,
+      "end": 108.316
     },
     {
       "speaker": "陆川",
@@ -211,8 +211,8 @@
       "translation": "你告诉我们的灯和矿道都是真的。名字的另一半，等你想说时再说。",
       "scene": "art/tavern/chapter-one-night.png",
       "sceneSingle": true,
-      "start": 114.832,
-      "end": 121.576
+      "start": 108.566,
+      "end": 115.31
     },
     {
       "speaker": "莉瑟",
@@ -222,8 +222,8 @@
       "translation": "谢谢。下次我还是想坐今天这个位置，喝你们的汤。",
       "scene": "art/tavern/chapter-one-night.png",
       "sceneSingle": true,
-      "start": 121.826,
-      "end": 128.258
+      "start": 115.56,
+      "end": 120.341167
     },
     {
       "speaker": "旁白",
@@ -233,8 +233,8 @@
       "translation": "马车越过石桥。艾莉娅收好最后一只杯子，陆川将门牌翻到打烊的一面。",
       "scene": "art/tavern/chapter-one-night.png",
       "sceneSingle": true,
-      "start": 128.508,
-      "end": 136.86
+      "start": 120.591167,
+      "end": 128.943167
     },
     {
       "speaker": "艾莉娅",
@@ -244,8 +244,8 @@
       "translation": "如果你还需要人守着这里，我明天也在。不是只等屋顶修好的那一天。",
       "scene": "art/tavern/chapter-one-night.png",
       "sceneSingle": true,
-      "start": 137.11,
-      "end": 145.15
+      "start": 129.193167,
+      "end": 137.233167
     },
     {
       "speaker": "陆川",
@@ -255,8 +255,8 @@
       "translation": "需要。明天的分工还是一起商量，今天就先好好休息。",
       "scene": "art/tavern/chapter-one-night.png",
       "sceneSingle": true,
-      "start": 145.4,
-      "end": 150.704
+      "start": 137.483167,
+      "end": 142.787167
     },
     {
       "speaker": "旁白",
@@ -266,8 +266,8 @@
       "translation": "账本里夹着采购单、订单和矿道记录。三张纸，填满了陆川当老板的第一天。",
       "scene": "art/tavern/chapter-one-night.png",
       "sceneSingle": true,
-      "start": 150.954,
-      "end": 159.858
+      "start": 143.037167,
+      "end": 151.941167
     },
     {
       "speaker": "陆川",
@@ -277,8 +277,8 @@
       "translation": "门口那盏灯留着吧。要是有人夜里路过，至少知道这里还有个归处。",
       "scene": "art/tavern/chapter-one-night.png",
       "sceneSingle": true,
-      "start": 160.108,
-      "end": 166.948
+      "start": 152.191167,
+      "end": 159.031167
     },
     {
       "speaker": "旁白",
@@ -288,8 +288,8 @@
       "translation": "地下深处，一道低语穿过黑暗：“那间驿站……又亮起来了。”",
       "scene": "art/tavern/chapter-one-night.png",
       "sceneSingle": true,
-      "start": 167.198,
-      "end": 173.798
+      "start": 159.281167,
+      "end": 165.881167
     }
   ],
   "questions": [

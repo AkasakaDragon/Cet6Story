@@ -8,6 +8,7 @@ using System.Collections.Generic;
 public partial class PartyBattleCanvas:Panel {
  public string ArtRoot;readonly ToolTip statusTip=new ToolTip();readonly List<KeyValuePair<Rectangle,string>> statusHits=new List<KeyValuePair<Rectangle,string>>();string lastStatus;public PartyCombatState Battle;public Image Scene,Male,Female,Enemy;public HeroSkill Skill;public Action<int> HeroSelected;public Action<string> TargetSelected;public int FooterHeight=238;public string Banner="剧情战斗";
  public Action InterfaceCleanup;
+ public bool HasBattleViewport {get{return Width>=320&&Height>=240;}}
  [System.Runtime.InteropServices.DllImport("user32.dll")]static extern IntPtr SendMessage(IntPtr handle,int message,IntPtr wparam,IntPtr lparam);
  public void BeginInterfaceUpdate(){SuspendLayout();if(IsHandleCreated)SendMessage(Handle,0x000B,IntPtr.Zero,IntPtr.Zero);}
  public void EndInterfaceUpdate(){ResumeLayout(true);if(IsHandleCreated)SendMessage(Handle,0x000B,new IntPtr(1),IntPtr.Zero);Invalidate(true);}
@@ -45,7 +46,7 @@ public partial class PartyBattleCanvas:Panel {
 
  }
  protected override void OnPaint(PaintEventArgs e){
-  statusHits.Clear();var g=e.Graphics;g.InterpolationMode=InterpolationMode.NearestNeighbor;g.PixelOffsetMode=PixelOffsetMode.Half;g.SmoothingMode=SmoothingMode.None;
+  statusHits.Clear();if(!HasBattleViewport){HeroBounds=new Rectangle[0];EnemyBounds=new Rectangle[0];return;}var g=e.Graphics;g.InterpolationMode=InterpolationMode.NearestNeighbor;g.PixelOffsetMode=PixelOffsetMode.Half;g.SmoothingMode=SmoothingMode.None;
   var fieldState=g.Save();if(melee!=null&&melee.ScreenShakeStrength>0&&castClock.ElapsedMilliseconds>=melee.HitTiming&&castClock.ElapsedMilliseconds<melee.HitTiming+melee.HitStopDuration){int shake=melee.ScreenShakeStrength*((castClock.ElapsedMilliseconds/16)%2==0?1:-1);g.TranslateTransform(shake,0);}
   if(Scene!=null){float scale=Math.Max(Width/(float)Scene.Width,(Height-FooterHeight)/(float)Scene.Height);float w=Scene.Width*scale,h=Scene.Height*scale;g.DrawImage(Scene,(Width-w)/2,(Height-FooterHeight-h)/2,w,h);}else g.Clear(BackColor);
   using(var shade=new SolidBrush(Color.FromArgb(40,6,17,20)))g.FillRectangle(shade,0,0,Width,Height-FooterHeight);

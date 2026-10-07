@@ -13,7 +13,7 @@ public partial class Game {
  string InlineKey(QuizQuestion q){return current.id+"/q/"+q.afterLine;}
  QuizQuestion PendingInline(){return current.inlineQuestions&&!Attempt().review&&current.questions!=null?current.questions.FirstOrDefault(q=>q.afterLine==index&&!save.quizAnswers.ContainsKey(InlineKey(q))):null;}
  bool ResolveInlineQuestion(){var q=PendingInline();if(q==null)return true;if(questionOpen)return false;questionOpen=true;try{return AskInline(q);}finally{questionOpen=false;if(requestedReplay>=0){int replay=requestedReplay;requestedReplay=-1;ReplayQuestion(current.questions.First(x=>x.afterLine==replay));}}}
- Form PixelDialog(string title,int width,int height){return new PixelFrame{Text=title,Size=new Size(width,height),MinimumSize=new Size(640,480),StartPosition=FormStartPosition.CenterParent,BackColor=Color.FromArgb(14,17,33),ForeColor=TextColor,Font=Font,MinimizeBox=false,MaximizeBox=false};}
+ Form PixelDialog(string title,int width,int height){return new PixelFrame{Text=title,Size=new Size(width,height),MinimumSize=new Size(640,480),StartPosition=FormStartPosition.CenterParent,BackColor=Color.FromArgb(25,53,55),ForeColor=TextColor,Font=Font,MinimizeBox=false,MaximizeBox=false};}
  bool AskInline(QuizQuestion q){using(var f=PixelDialog(current.title+" · 听力检查",920,650)){
   Attempt().replayAfterLine=-1;UpdateLine();string key=InlineKey(q);int number=current.questions.IndexOf(q)+1;var footer=new FlowLayoutPanel{Dock=DockStyle.Bottom,Height=62,Padding=new Padding(14,7,0,0),BackColor=Color.FromArgb(26,27,49),WrapContents=false};f.Controls.Add(footer);
   var body=new FlowLayoutPanel{Dock=DockStyle.Fill,FlowDirection=FlowDirection.TopDown,WrapContents=false,AutoScroll=true,Padding=new Padding(24,20,24,12)};f.Controls.Add(body);body.BringToFront();
@@ -35,11 +35,15 @@ public partial class Game {
 
 public class PixelFrame:Form {
  readonly WindowGlyph close;
- public PixelFrame(){DoubleBuffered=true;FormBorderStyle=FormBorderStyle.None;BackColor=GameTheme.Navy;ForeColor=GameTheme.Ink;Font=GameTheme.Body(12);Padding=new Padding(14,58,14,14);ShowInTaskbar=false;StartPosition=FormStartPosition.CenterParent;
-  close=new WindowGlyph{AccessibleName="关闭窗口"};close.Click+=(sender,e)=>Close();Controls.Add(close);Resize+=(sender,e)=>PlaceClose();PlaceClose();}
+ public PixelFrame(){DoubleBuffered=true;FormBorderStyle=FormBorderStyle.None;BackColor=Color.FromArgb(25,53,55);ForeColor=GameTheme.Ink;Font=GameTheme.Body(12);Padding=new Padding(14,58,14,14);ShowInTaskbar=false;StartPosition=FormStartPosition.CenterParent;
+  close=new WindowGlyph{DialogStyle=true,AccessibleName="关闭窗口"};close.Click+=(sender,e)=>Close();Controls.Add(close);Resize+=(sender,e)=>PlaceClose();PlaceClose();}
  void PlaceClose(){if(close==null)return;close.Location=new Point(Math.Max(0,ClientSize.Width-48),15);close.BringToFront();Invalidate();}
  protected override void OnShown(EventArgs e){base.OnShown(e);var area=Screen.FromControl(Owner??this).WorkingArea;MinimumSize=new Size(Math.Min(MinimumSize.Width,area.Width-24),Math.Min(MinimumSize.Height,area.Height-24));Size=new Size(Math.Min(Width,area.Width-24),Math.Min(Height,area.Height-24));PlaceClose();}
- protected override void OnPaint(PaintEventArgs e){base.OnPaint(e);GameTheme.Frame(e.Graphics,new Rectangle(3,3,ClientSize.Width-7,ClientSize.Height-7),GameTheme.Navy,GameTheme.Cyan);using(var p=new Pen(GameTheme.Violet))e.Graphics.DrawLine(p,22,49,ClientSize.Width-22,49);using(var f=GameTheme.Body(12,FontStyle.Bold))GameTheme.DrawText(e.Graphics,Text,f,new Rectangle(24,15,Math.Max(1,Width-88),30),GameTheme.Gold,TextFormatFlags.VerticalCenter|TextFormatFlags.EndEllipsis);}
+ protected override void OnPaintBackground(PaintEventArgs e){e.Graphics.Clear(Color.FromArgb(25,53,55));GuildChrome.Draw(e.Graphics,new Rectangle(1,1,ClientSize.Width-3,ClientSize.Height-3));}
+ protected override void OnPaint(PaintEventArgs e){base.OnPaint(e);using(var f=GameTheme.Body(12,FontStyle.Bold))GameTheme.DrawText(e.Graphics,Text,f,new Rectangle(24,15,Math.Max(1,Width-88),30),GameTheme.Gold,TextFormatFlags.VerticalCenter|TextFormatFlags.EndEllipsis);}
+ protected override void OnSizeChanged(EventArgs e){base.OnSizeChanged(e);if(ClientSize.Width<18||ClientSize.Height<18)return;using(var path=new System.Drawing.Drawing2D.GraphicsPath()){path.AddPolygon(GameTheme.Outline(new Rectangle(4,4,ClientSize.Width-9,ClientSize.Height-9),12));var old=Region;Region=new Region(path);if(old!=null)old.Dispose();}}
+ protected override void OnControlAdded(ControlEventArgs e){base.OnControlAdded(e);StyleBody(e.Control);}
+ static void StyleBody(Control c){if(c.BackColor==GameTheme.Navy||c.BackColor==GameTheme.Card||c.BackColor==Color.FromArgb(14,17,33))c.BackColor=Color.FromArgb(25,53,55);c.ControlAdded+=(sender,e)=>StyleBody(e.Control);foreach(Control child in c.Controls)StyleBody(child);}
  protected override void WndProc(ref Message m){if(GameTheme.HitTest(this,ref m,true,true))return;base.WndProc(ref m);}
 }
 
