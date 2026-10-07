@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.IO;
 using System.Linq;
 using System.Drawing;
@@ -155,7 +155,7 @@ public partial class Game {
  void CompleteTavern(){
   StoryRoutes.Flag(save,"waystation-basic-repair-complete");
   if(Attempt().finished==0)FinishSectionTiming();int correct=current.questions.Count(q=>save.quizAnswers.ContainsKey(InlineKey(q))&&save.quizAnswers[InlineKey(q)]==q.answer);
-  int stars=SectionRules.Stars(correct,current.questions.Count,SectionSeconds()<=SectionLimit());save.sectionStars[current.id]=Math.Max(stars,save.sectionStars.ContainsKey(current.id)?save.sectionStars[current.id]:0);
+  int stars=SectionStars(correct,current.questions.Count);save.sectionStars[current.id]=Math.Max(stars,save.sectionStars.ContainsKey(current.id)?save.sectionStars[current.id]:0);
   bool fresh=!save.completed.Contains(current.id);if(fresh){save.completed.Add(current.id);save.xp+=60;}Persist();
   ClearPage();page="tavern-ending";var ending=new PrologueCompletion{Dock=DockStyle.Fill,BackgroundArt=CachedImage(Path.Combine(root,"assets","menu","prologue-completion-town.png")),Chapter=current,Save=save,Correct=correct,Stars=stars,FirstCompletion=fresh,ReturnHome=ShowMain,Chapters=ShowTavernHub,Replay=()=>{Attempt().review=true;index=0;ShowStory();ReviewSection();}};content.Controls.Add(ending);
  }

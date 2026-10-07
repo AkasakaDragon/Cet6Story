@@ -1,0 +1,350 @@
+{
+  "id": "tavern-01-04",
+  "title": "第一章：今天开始营业 · 第4节：傍晚：一盏灯的来客",
+  "description": "莉瑟的提灯与晶石产生共鸣。三人约定结伴调查矿道入口，遇险即撤，不深入未知区域。",
+  "source": "原创奇幻剧情与四道分段听力题，非考试原文。",
+  "audio": "audio/tavern/chapter-four/story.wav",
+  "audioLabel": "离线固定角色英文配音",
+  "background": "art/tavern/waystation-repair-morning.png",
+  "unlockLevel": 1,
+  "sortOrder": 1040,
+  "pixelArt": true,
+  "inlineQuestions": true,
+  "timeLimitSeconds": 1200,
+  "actors": [
+    {
+      "id": "luchuan",
+      "gender": "male",
+      "side": "left",
+      "image": "art/tavern/luchuan-portrait.png"
+    },
+    {
+      "id": "lyse",
+      "gender": "female",
+      "side": "right",
+      "image": "art/tavern/lyse-portrait.png"
+    }
+  ],
+  "decisions": [],
+  "lines": [
+    {
+      "speaker": "旁白",
+      "voiceRole": "旁白",
+      "actor": "",
+      "text": "Lyse pauses by the door, looking first at the menu and then at the faintly glowing counter.",
+      "translation": "莉瑟在门边停下，先看了墙上的菜单，再看向亮着微光的吧台。",
+      "scene": "art/tavern/waystation-repair-morning.png",
+      "sceneSingle": true,
+      "start": 0.0,
+      "end": 5.856
+    },
+    {
+      "speaker": "莉瑟",
+      "voiceRole": "莉瑟",
+      "actor": "lyse",
+      "text": "Is the seat you mentioned still free? I would like some hot soup, and a look at that crystal.",
+      "translation": "你说的座位还空着吗？我想喝碗热汤，也想看看那块晶石。",
+      "scene": "art/tavern/waystation-repair-morning.png",
+      "sceneSingle": true,
+      "start": 6.106,
+      "end": 13.138
+    },
+    {
+      "speaker": "陆川",
+      "voiceRole": "陆川",
+      "actor": "luchuan",
+      "text": "We have seats and soup. The crystal is not a free gift, though. You can look from this side of the counter.",
+      "translation": "座位有，汤也有。晶石不能当赠品，只能隔着吧台看。",
+      "scene": "art/tavern/waystation-repair-morning.png",
+      "sceneSingle": true,
+      "start": 13.388,
+      "end": 20.084
+    },
+    {
+      "speaker": "莉瑟",
+      "voiceRole": "莉瑟",
+      "actor": "lyse",
+      "text": "Do not worry, I will not take it. My lantern is calmer here than it was in the market.",
+      "translation": "放心，我不拿走它。我的灯靠近这里时，比在集市安静。",
+      "scene": "art/tavern/waystation-repair-morning.png",
+      "sceneSingle": true,
+      "start": 20.334,
+      "end": 27.702
+    },
+    {
+      "speaker": "艾莉娅",
+      "voiceRole": "艾莉娅",
+      "actor": "aelia",
+      "text": "I am Aelia. Lu Chuan said you warned him not to enter the mine alone. Thank you.",
+      "translation": "我叫艾莉娅。陆川说你提醒他别独自去矿道，谢谢。",
+      "scene": "art/tavern/waystation-repair-morning.png",
+      "sceneSingle": true,
+      "start": 27.952,
+      "end": 34.936
+    },
+    {
+      "speaker": "莉瑟",
+      "voiceRole": "莉瑟",
+      "actor": "lyse",
+      "text": "Lyse. Today I am here for a seat, and to check something.",
+      "translation": "莉瑟。今天我只是来借个座位，顺便确认一件事。",
+      "scene": "art/tavern/waystation-repair-morning.png",
+      "sceneSingle": true,
+      "start": 35.186,
+      "end": 40.754
+    },
+    {
+      "speaker": "旁白",
+      "voiceRole": "旁白",
+      "actor": "",
+      "text": "A pale violet butterfly rises from the lantern and settles beside the crystal's crack, gently folding its wings.",
+      "translation": "一只淡紫光蝶从灯罩边升起，落在晶石裂缝旁，翅膀轻轻合拢。",
+      "scene": "art/tavern/waystation-repair-morning.png",
+      "sceneSingle": true,
+      "start": 41.004,
+      "end": 48.396
+    },
+    {
+      "speaker": "陆川",
+      "voiceRole": "陆川",
+      "actor": "luchuan",
+      "text": "It stopped beside the missing piece. Does your lantern recognize this crystal?",
+      "translation": "它停在缺口边上了。你的灯认识这块晶石？",
+      "scene": "art/tavern/waystation-repair-morning.png",
+      "sceneSingle": true,
+      "start": 48.646,
+      "end": 53.974
+    },
+    {
+      "speaker": "莉瑟",
+      "voiceRole": "莉瑟",
+      "actor": "lyse",
+      "text": "It follows related magic, but cannot tell me an object's name. To the north, it sensed another echo.",
+      "translation": "它追踪相近的魔力，不能告诉我东西的名字。在北边，它感觉到了另一道回声。",
+      "scene": "art/tavern/waystation-repair-morning.png",
+      "sceneSingle": true,
+      "start": 54.224,
+      "end": 62.576
+    },
+    {
+      "speaker": "艾莉娅",
+      "voiceRole": "艾莉娅",
+      "actor": "aelia",
+      "text": "The crest on the handle... I have seen it on the royal escort's banner.",
+      "translation": "灯柄上的纹章……我曾在王室护送队的旗帜上见过。",
+      "scene": "art/tavern/waystation-repair-morning.png",
+      "sceneSingle": true,
+      "start": 62.826,
+      "end": 68.058
+    },
+    {
+      "speaker": "莉瑟",
+      "voiceRole": "莉瑟",
+      "actor": "lyse",
+      "text": "Please keep that to yourself for now. I do not want everyone to hear only my title and ignore what I say.",
+      "translation": "请先替我保密。我不想让每个人都只听见那个身份，而不听我说什么。",
+      "scene": "art/tavern/waystation-repair-morning.png",
+      "sceneSingle": true,
+      "start": 68.308,
+      "end": 76.66
+    },
+    {
+      "speaker": "陆川",
+      "voiceRole": "陆川",
+      "actor": "luchuan",
+      "text": "We write our guests' names in the ledger. A bowl of soup does not oblige you to trade away your secrets.",
+      "translation": "这里先按客人的名字记账。你没有义务用一碗汤换自己的秘密。",
+      "scene": "art/tavern/waystation-repair-morning.png",
+      "sceneSingle": true,
+      "start": 76.91,
+      "end": 83.63
+    },
+    {
+      "speaker": "莉瑟",
+      "voiceRole": "莉瑟",
+      "actor": "lyse",
+      "text": "For the last three nights, lamps in northern town have gone out suddenly. Before each blackout, my lantern pointed toward the old mine.",
+      "translation": "近三晚，镇北的灯会突然熄灭。熄灭前，我的提灯都指向旧矿道。",
+      "scene": "art/tavern/waystation-repair-morning.png",
+      "sceneSingle": true,
+      "start": 83.88,
+      "end": 94.368
+    },
+    {
+      "speaker": "艾莉娅",
+      "voiceRole": "艾莉娅",
+      "actor": "aelia",
+      "text": "The guards reported unfamiliar tracks today too. The clues may be related, but do not prove the cause.",
+      "translation": "守卫今天也报告了陌生脚印。两个线索有关，但还不能证明原因。",
+      "scene": "art/tavern/waystation-repair-morning.png",
+      "sceneSingle": true,
+      "start": 94.618,
+      "end": 102.082
+    },
+    {
+      "speaker": "陆川",
+      "voiceRole": "陆川",
+      "actor": "luchuan",
+      "text": "If there is a fragment in the mine, can the lantern find it?",
+      "translation": "如果矿道里有碎片，灯能找到它吗？",
+      "scene": "art/tavern/waystation-repair-morning.png",
+      "sceneSingle": true,
+      "start": 102.332,
+      "end": 106.412
+    },
+    {
+      "speaker": "莉瑟",
+      "voiceRole": "莉瑟",
+      "actor": "lyse",
+      "text": "It can point the way, but cannot guarantee a safe path. I am not confident about going in alone.",
+      "translation": "只能指方向，无法保证道路安全。我自己没有把握进去。",
+      "scene": "art/tavern/waystation-repair-morning.png",
+      "sceneSingle": true,
+      "start": 106.662,
+      "end": 114.558
+    },
+    {
+      "speaker": "艾莉娅",
+      "voiceRole": "艾莉娅",
+      "actor": "aelia",
+      "text": "Then we go together, only as far as the entrance and first junction. If we find danger, we retreat instead of pursuing it deeper.",
+      "translation": "那就结伴，只看入口和第一处岔路。发现危险就撤，不追进深处。",
+      "scene": "art/tavern/waystation-repair-morning.png",
+      "sceneSingle": true,
+      "start": 114.808,
+      "end": 123.52
+    },
+    {
+      "speaker": "陆川",
+      "voiceRole": "陆川",
+      "actor": "luchuan",
+      "text": "I will read the markings and record our route. You take the front, while Lyse lights the way and follows the echo.",
+      "translation": "我负责读标记和记录路线。你挡在前面，莉瑟负责照明和寻找回声。",
+      "scene": "art/tavern/waystation-repair-morning.png",
+      "sceneSingle": true,
+      "start": 123.77,
+      "end": 131.018
+    },
+    {
+      "speaker": "旁白",
+      "voiceRole": "旁白",
+      "actor": "",
+      "text": "Aelia places a water flask by the door and checks her shield strap. Lu Chuan takes down the sign for a temporary closure.",
+      "translation": "艾莉娅把水袋放在门边，又检查了盾带。陆川取下暂停营业的木牌。",
+      "scene": "art/tavern/waystation-repair-morning.png",
+      "sceneSingle": true,
+      "start": 131.268,
+      "end": 139.908
+    },
+    {
+      "speaker": "莉瑟",
+      "voiceRole": "莉瑟",
+      "actor": "lyse",
+      "text": "I will tell the gate watch our route. If we are late, they will know where to look.",
+      "translation": "我会让镇门值守的人知道我们的路线。如果迟迟不回，他们至少知道去哪里找。",
+      "scene": "art/tavern/waystation-repair-morning.png",
+      "sceneSingle": true,
+      "start": 140.158,
+      "end": 146.638
+    },
+    {
+      "speaker": "陆川",
+      "voiceRole": "陆川",
+      "actor": "luchuan",
+      "text": "A temporary closure, not an escape. We still have accounts to finish when we return.",
+      "translation": "暂停营业，不是关店跑路。回来以后，账本还得接着写。",
+      "scene": "art/tavern/waystation-repair-morning.png",
+      "sceneSingle": true,
+      "start": 146.888,
+      "end": 153.08
+    },
+    {
+      "speaker": "艾莉娅",
+      "voiceRole": "艾莉娅",
+      "actor": "aelia",
+      "text": "Write down our return path too. Coming back matters more than going far.",
+      "translation": "我们把退路也写清楚。能回来，比走得远更重要。",
+      "scene": "art/tavern/waystation-repair-morning.png",
+      "sceneSingle": true,
+      "start": 153.33,
+      "end": 159.162
+    },
+    {
+      "speaker": "莉瑟",
+      "voiceRole": "莉瑟",
+      "actor": "lyse",
+      "text": "Thank you. Knowing that someone will hear me out is more reassuring than having my crest recognized.",
+      "translation": "谢谢。有人愿意先听完我的话，比认出纹章更让我安心。",
+      "scene": "art/tavern/waystation-repair-morning.png",
+      "sceneSingle": true,
+      "start": 159.412,
+      "end": 167.308
+    },
+    {
+      "speaker": "旁白",
+      "voiceRole": "旁白",
+      "actor": "",
+      "text": "The three cross the stone bridge toward the north. The lantern lights their footing without urging anyone to hurry.",
+      "translation": "三人沿石桥走向镇北。提灯照着脚下的路，没有催促任何人加快脚步。",
+      "scene": "art/tavern/waystation-repair-morning.png",
+      "sceneSingle": true,
+      "start": 167.558,
+      "end": 175.046
+    }
+  ],
+  "questions": [
+    {
+      "afterLine": 5,
+      "skill": "来访目的",
+      "prompt": "Why does Lyse visit the waystation?",
+      "options": [
+        "To collect all its earnings.",
+        "To replace the menu.",
+        "To have soup and examine the crystal.",
+        "To recruit every guest."
+      ],
+      "answer": 2,
+      "explanation": "莉瑟说她想喝热汤，也想查看晶石。"
+    },
+    {
+      "afterLine": 11,
+      "skill": "人物态度",
+      "prompt": "How does Lu Chuan respond to Lyse's request for privacy?",
+      "options": [
+        "He respects her choice to keep her identity private.",
+        "He demands her title before serving soup.",
+        "He announces the crest to every guest.",
+        "He refuses to let her stay."
+      ],
+      "answer": 0,
+      "explanation": "陆川尊重莉瑟暂时保密的请求，不要求用秘密换取招待。"
+    },
+    {
+      "afterLine": 17,
+      "skill": "能力限制与行动边界",
+      "prompt": "What do the three agree to do?",
+      "options": [
+        "Follow the lantern anywhere without stopping.",
+        "Send Lyse into the mine alone.",
+        "Wait until the crystal repairs itself.",
+        "Inspect the entrance and first junction, retreating if danger appears."
+      ],
+      "answer": 3,
+      "explanation": "提灯只指方向，不能保证安全；约定只看入口和第一处岔路，遇险撤离。"
+    },
+    {
+      "afterLine": 23,
+      "skill": "应急安排",
+      "prompt": "Why will Lyse tell the gate watch their route?",
+      "options": [
+        "To reserve more soup.",
+        "So the watch knows where to look if they return late.",
+        "To keep Aelia out of town.",
+        "So no one can follow them."
+      ],
+      "answer": 1,
+      "explanation": "告知路线让值守人员在三人未按时返回时有明确搜寻方向。"
+    }
+  ],
+  "ending": "莉瑟的提灯与晶石产生共鸣。三人约定结伴调查矿道入口，遇险即撤，不深入未知区域。"
+}

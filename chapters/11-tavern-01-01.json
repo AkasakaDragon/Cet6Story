@@ -2,7 +2,7 @@
   "id": "tavern-01-01",
   "title": "第一章：今天开始营业 · 第一节：老板的第一天",
   "description": "清晨醒来 · 检查厨房 · 商定菜单与采购 · 启程进城",
-  "source": "原创奇幻剧情及两道分段听力理解题，非考试原文。",
+  "source": "原创奇幻剧情与四道分段听力理解题，非考试原文。",
   "audio": "audio/tavern/chapter-one/morning.wav",
   "audioLabel": "离线英文角色配音 · Brian / Michelle / Christopher",
   "background": "art/tavern/waystation-repair-morning.png",
@@ -373,6 +373,32 @@
       "explanation": "屋顶与楼梯已经修好，但食材、菜单和接待用品仍需准备。"
     },
     {
+      "afterLine": 15,
+      "skill": "菜单选择与原因",
+      "prompt": "Why do they keep the first menu simple?",
+      "options": [
+        "They want to serve dishes they can prepare well.",
+        "Travelers never need hot food.",
+        "All ingredients are free.",
+        "Aelia refuses to use the kitchen."
+      ],
+      "answer": 0,
+      "explanation": "第一天先把热汤、面包、煎蛋三样做好；能实际提供餐食比漂亮的长菜单重要。"
+    },
+    {
+      "afterLine": 21,
+      "skill": "采购优先级",
+      "prompt": "What should Lu Chuan buy before looking at attractive signs?",
+      "options": [
+        "Expensive decorations.",
+        "A new roof.",
+        "Gifts for every traveler.",
+        "The essentials on the shopping list."
+      ],
+      "answer": 3,
+      "explanation": "艾莉娅提醒他保管清单和钱，先买必需品，不被漂亮招牌带走。"
+    },
+    {
       "afterLine": 29,
       "skill": "分工与路线理解",
       "prompt": "What will Lu Chuan do while Aelia prepares the hall?",
@@ -386,5 +412,5 @@
       "explanation": "艾莉娅留下整理桌椅与杯碟；陆川沿大路过石桥，到镇上集市采购，暂不探索北边矿道。"
     }
   ],
-  "ending": "菜单与采购分工已确定。陆川启程前往边境小镇，艾莉娅留在驿站准备大厅。第一章第二节“集市：不愿透露姓名的少女”后续开放。"
+  "ending": "菜单与采购分工已确定。陆川启程前往边境小镇，艾莉娅留在驿站准备大厅。第一章第二节“集市：不愿透露姓名的少女”已开放。"
 }

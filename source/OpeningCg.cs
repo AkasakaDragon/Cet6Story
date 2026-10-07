@@ -29,6 +29,8 @@ public class OpeningCgCanvas:Control {
  Process decoder;Thread worker;System.Windows.Forms.Timer timer;Bitmap picture;bool fresh,audioStarted,notified;volatile bool closed;volatile string failure;string decoderError="";
  public Action Completed;public Action<string> Failed;public int FramesShown{get;private set;}public bool AudioStarted{get{return audioStarted;}}
  public bool FillFrame{get;set;}
+ bool paused;
+ public void SetPaused(bool value){if(closed||paused==value)return;paused=value;if(value){if(timer!=null)timer.Stop();clock.Stop();if(audioStarted)mciSendString("pause openingaudio",null,0,IntPtr.Zero);}else{if(audioStarted){mciSendString("resume openingaudio",null,0,IntPtr.Zero);clock.Start();}if(timer!=null)timer.Start();}}
  [DllImport("winmm.dll",CharSet=CharSet.Auto)] static extern int mciSendString(string command,StringBuilder result,int length,IntPtr callback);
  public OpeningCgCanvas(string decoderPath,string moviePath,string audioPath,double seconds=67){ffmpeg=decoderPath;movie=moviePath;audio=audioPath;duration=seconds;BackColor=Color.Black;DoubleBuffered=true;ResizeRedraw=true;AccessibleName="中英双语开场 CG";}
  public void Start(){
@@ -42,7 +44,7 @@ public class OpeningCgCanvas:Control {
     if(closed)break;lock(gate){Buffer.BlockCopy(frame,0,pending,0,FrameBytes);fresh=true;}if(index==0)started.WaitOne();index++;
    }}catch(Exception ex){if(!closed)failure=ex.Message;}}
  void TickPlayback(){
-  if(closed||notified)return;
+  if(closed||notified||paused)return;
   if(failure!=null){notified=true;if(Failed!=null)Failed(failure);return;}
   lock(gate){if(fresh){var data=picture.LockBits(new Rectangle(0,0,FrameWidth,FrameHeight),ImageLockMode.WriteOnly,PixelFormat.Format24bppRgb);try{Marshal.Copy(pending,0,data.Scan0,FrameBytes);}finally{picture.UnlockBits(data);}fresh=false;FramesShown++;Invalidate();}}
   if(FramesShown>0&&!audioStarted){mciSendString("close openingaudio",null,0,IntPtr.Zero);int error=mciSendString("open \""+audio+"\" type waveaudio alias openingaudio",null,0,IntPtr.Zero);if(error==0)error=mciSendString("play openingaudio",null,0,IntPtr.Zero);if(error!=0){failure="无法播放 CG 音效（错误 "+error+"）。";return;}audioStarted=true;clock.Start();started.Set();}

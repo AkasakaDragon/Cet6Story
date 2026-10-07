@@ -1,0 +1,350 @@
+{
+  "id": "tavern-01-03",
+  "title": "第一章：今天开始营业 · 第3节：午后：第一批客人",
+  "description": "驿站完成首次营业。相聚的客人稳定了晶石的光，修复裂痕仍需寻找碎片。",
+  "source": "原创奇幻剧情与四道分段听力题，非考试原文。",
+  "audio": "audio/tavern/chapter-three/story.wav",
+  "audioLabel": "离线固定角色英文配音",
+  "background": "art/tavern/waystation-repair-morning.png",
+  "unlockLevel": 1,
+  "sortOrder": 1030,
+  "pixelArt": true,
+  "inlineQuestions": true,
+  "timeLimitSeconds": 1200,
+  "actors": [
+    {
+      "id": "luchuan",
+      "gender": "male",
+      "side": "left",
+      "image": "art/tavern/luchuan-portrait.png"
+    },
+    {
+      "id": "aelia",
+      "gender": "female",
+      "side": "right",
+      "image": "art/tavern/aelia-portrait.png"
+    }
+  ],
+  "decisions": [],
+  "lines": [
+    {
+      "speaker": "旁白",
+      "voiceRole": "旁白",
+      "actor": "",
+      "text": "Lu Chuan sets the vegetables on the kitchen table. Aelia takes the list and checks the accounts first.",
+      "translation": "陆川把蔬菜放上厨房桌，艾莉娅接过清单，先核对了账目。",
+      "scene": "art/tavern/waystation-repair-morning.png",
+      "sceneSingle": true,
+      "start": 0.0,
+      "end": 7.344
+    },
+    {
+      "speaker": "陆川",
+      "voiceRole": "陆川",
+      "actor": "luchuan",
+      "text": "I took thirty copper coins and spent eighteen on ingredients. Twelve remain for tomorrow's supplies.",
+      "translation": "带去三十枚铜币，食材花了十八枚。还有十二枚，够留作明天的采购钱。",
+      "scene": "art/tavern/waystation-repair-morning.png",
+      "sceneSingle": true,
+      "start": 7.594,
+      "end": 14.218
+    },
+    {
+      "speaker": "艾莉娅",
+      "voiceRole": "艾莉娅",
+      "actor": "aelia",
+      "text": "Put those twelve aside first. We will count today's earnings after closing.",
+      "translation": "先把这十二枚单独放好。今天挣的钱，打烊后再算。",
+      "scene": "art/tavern/waystation-repair-morning.png",
+      "sceneSingle": true,
+      "start": 14.468,
+      "end": 20.252
+    },
+    {
+      "speaker": "陆川",
+      "voiceRole": "陆川",
+      "actor": "luchuan",
+      "text": "Right. Writing 'innkeeper' beside my name will not make the budget grow.",
+      "translation": "好的。预算不会因为我写了“老板”两个字就自己变多。",
+      "scene": "art/tavern/waystation-repair-morning.png",
+      "sceneSingle": true,
+      "start": 20.502,
+      "end": 25.302
+    },
+    {
+      "speaker": "艾莉娅",
+      "voiceRole": "艾莉娅",
+      "actor": "aelia",
+      "text": "The soup is hot. Keep the three dishes on the menu. Do not promise food we cannot prepare.",
+      "translation": "汤已经热了。菜单还是三样，不接我们做不出来的菜。",
+      "scene": "art/tavern/waystation-repair-morning.png",
+      "sceneSingle": true,
+      "start": 25.552,
+      "end": 33.064
+    },
+    {
+      "speaker": "旁白",
+      "voiceRole": "旁白",
+      "actor": "",
+      "text": "The doorbell rings. A delivery worker brings in flour and eggs, then brushes dust from his sleeves.",
+      "translation": "门口铃响，送货人抬进面粉和鸡蛋，拍了拍袖子上的尘土。",
+      "scene": "art/tavern/waystation-repair-morning.png",
+      "sceneSingle": true,
+      "start": 33.314,
+      "end": 41.066
+    },
+    {
+      "speaker": "送货人",
+      "voiceRole": "送货人",
+      "actor": "",
+      "text": "Here are your supplies. I have another delivery soon. Could I have soup without eggs?",
+      "translation": "货到了。我还要赶下一趟车，能不能来一碗汤，别放鸡蛋？",
+      "scene": "art/tavern/waystation-repair-morning.png",
+      "sceneSingle": true,
+      "start": 41.316,
+      "end": 48.564
+    },
+    {
+      "speaker": "陆川",
+      "voiceRole": "陆川",
+      "actor": "luchuan",
+      "text": "Vegetable soup without eggs. Would you like bread to take away?",
+      "translation": "蔬菜汤，不加鸡蛋。面包需要带走吗？",
+      "scene": "art/tavern/waystation-repair-morning.png",
+      "sceneSingle": true,
+      "start": 48.814,
+      "end": 53.134
+    },
+    {
+      "speaker": "送货人",
+      "voiceRole": "送货人",
+      "actor": "",
+      "text": "Yes, two slices to take away. I will have the soup here. I only have fifteen minutes.",
+      "translation": "对，两片面包带走。汤在这里喝，我只有一刻钟。",
+      "scene": "art/tavern/waystation-repair-morning.png",
+      "sceneSingle": true,
+      "start": 53.384,
+      "end": 61.424
+    },
+    {
+      "speaker": "艾莉娅",
+      "voiceRole": "艾莉娅",
+      "actor": "aelia",
+      "text": "I will pack the bread. Lu Chuan, give him the seat by the door. His cart is just outside.",
+      "translation": "我来装面包。陆川，给他靠门的座位，车就在窗外。",
+      "scene": "art/tavern/waystation-repair-morning.png",
+      "sceneSingle": true,
+      "start": 61.674,
+      "end": 69.546
+    },
+    {
+      "speaker": "陆川",
+      "voiceRole": "陆川",
+      "actor": "luchuan",
+      "text": "Two slices in a bag, soup served hot. Our first order is also a memory test.",
+      "translation": "两片面包装袋，汤趁热端上。原来第一笔订单，还考验记忆力。",
+      "scene": "art/tavern/waystation-repair-morning.png",
+      "sceneSingle": true,
+      "start": 69.796,
+      "end": 75.628
+    },
+    {
+      "speaker": "送货人",
+      "voiceRole": "送货人",
+      "actor": "",
+      "text": "Listening is what matters. Last time, someone heard 'no eggs' as 'two more eggs'.",
+      "translation": "听清楚就好。上次有人把“不要鸡蛋”听成了“再加两个”。",
+      "scene": "art/tavern/waystation-repair-morning.png",
+      "sceneSingle": true,
+      "start": 75.878,
+      "end": 82.91
+    },
+    {
+      "speaker": "旁白",
+      "voiceRole": "旁白",
+      "actor": "",
+      "text": "Before the worker leaves, two patrol guards enter. One helps the other into a chair.",
+      "translation": "送货人离开前，两名巡逻守卫推门进来，其中一人扶着同伴坐下。",
+      "scene": "art/tavern/waystation-repair-morning.png",
+      "sceneSingle": true,
+      "start": 83.16,
+      "end": 89.784
+    },
+    {
+      "speaker": "守卫",
+      "voiceRole": "守卫",
+      "actor": "",
+      "text": "Two portions of bread and one plate of eggs. Give my companion soup first. He missed his meal on patrol.",
+      "translation": "两份面包，一份煎蛋。汤先给我的同伴，他巡逻时没顾上吃饭。",
+      "scene": "art/tavern/waystation-repair-morning.png",
+      "sceneSingle": true,
+      "start": 90.034,
+      "end": 99.226
+    },
+    {
+      "speaker": "陆川",
+      "voiceRole": "陆川",
+      "actor": "luchuan",
+      "text": "Understood, soup first. Have you come back from the north?",
+      "translation": "明白，先上热汤。你们从北边回来？",
+      "scene": "art/tavern/waystation-repair-morning.png",
+      "sceneSingle": true,
+      "start": 99.476,
+      "end": 103.796
+    },
+    {
+      "speaker": "守卫",
+      "voiceRole": "守卫",
+      "actor": "",
+      "text": "Only as far as the barrier outside the mine. The warning sign is still there, but unfamiliar tracks appeared nearby last night.",
+      "translation": "只巡到矿道外的路障。木牌还在，可昨晚附近又出现了陌生脚印。",
+      "scene": "art/tavern/waystation-repair-morning.png",
+      "sceneSingle": true,
+      "start": 104.046,
+      "end": 113.286
+    },
+    {
+      "speaker": "艾莉娅",
+      "voiceRole": "艾莉娅",
+      "actor": "aelia",
+      "text": "Something unusual near the entrance? Then travelers should avoid that shortcut.",
+      "translation": "入口附近有异常？那就别让赶路的人抄近道。",
+      "scene": "art/tavern/waystation-repair-morning.png",
+      "sceneSingle": true,
+      "start": 113.536,
+      "end": 119.344
+    },
+    {
+      "speaker": "守卫",
+      "voiceRole": "守卫",
+      "actor": "",
+      "text": "I have reported it to the officer in town. We have not identified what left the tracks yet.",
+      "translation": "我已把消息交给镇里的值守官。我们还没有确认脚印是什么留下的。",
+      "scene": "art/tavern/waystation-repair-morning.png",
+      "sceneSingle": true,
+      "start": 119.594,
+      "end": 126.314
+    },
+    {
+      "speaker": "旁白",
+      "voiceRole": "旁白",
+      "actor": "",
+      "text": "Spoons clink and conversation fills the hall. A steady glow appears around the crystal behind the counter.",
+      "translation": "大厅里响起碗勺与谈笑声，吧台后的晶石浮出一层稳定的微光。",
+      "scene": "art/tavern/waystation-repair-morning.png",
+      "sceneSingle": true,
+      "start": 126.564,
+      "end": 134.052
+    },
+    {
+      "speaker": "陆川",
+      "voiceRole": "陆川",
+      "actor": "luchuan",
+      "text": "Aelia, the crystal is brighter than this morning. Will more guests repair it completely?",
+      "translation": "艾莉娅，晶石比早上亮了。是不是客人越多，它就能完全修好？",
+      "scene": "art/tavern/waystation-repair-morning.png",
+      "sceneSingle": true,
+      "start": 134.302,
+      "end": 140.374
+    },
+    {
+      "speaker": "言契系统",
+      "voiceRole": "言契系统",
+      "actor": "",
+      "text": "Gathering stabilizes the seal's energy. Fragments restore the crystal's structure. The crack remains.",
+      "translation": "相聚稳定封印的能量，碎片修复晶石的结构。当前裂痕仍然存在。",
+      "scene": "art/tavern/waystation-repair-morning.png",
+      "sceneSingle": true,
+      "start": 140.624,
+      "end": 149.12
+    },
+    {
+      "speaker": "艾莉娅",
+      "voiceRole": "艾莉娅",
+      "actor": "aelia",
+      "text": "Our guests give it energy to shine, but they cannot fill the missing piece. We need both.",
+      "translation": "客人让它有力气发光，却不能替它补上缺口。两件事都要做。",
+      "scene": "art/tavern/waystation-repair-morning.png",
+      "sceneSingle": true,
+      "start": 149.37,
+      "end": 155.97
+    },
+    {
+      "speaker": "陆川",
+      "voiceRole": "陆川",
+      "actor": "luchuan",
+      "text": "Let us serve good soup today. We will decide about the mine when we know more.",
+      "translation": "今天先把热汤做好。调查矿道的事，等知道更多再决定。",
+      "scene": "art/tavern/waystation-repair-morning.png",
+      "sceneSingle": true,
+      "start": 156.22,
+      "end": 161.212
+    },
+    {
+      "speaker": "旁白",
+      "voiceRole": "旁白",
+      "actor": "",
+      "text": "Lu Chuan places the paid orders inside the ledger. The waystation's first day now has a record worth keeping.",
+      "translation": "陆川将已结账的订单夹在账本里。驿站第一次营业，有了可以留下的记录。",
+      "scene": "art/tavern/waystation-repair-morning.png",
+      "sceneSingle": true,
+      "start": 161.462,
+      "end": 169.358
+    }
+  ],
+  "questions": [
+    {
+      "afterLine": 5,
+      "skill": "预算与营业准备",
+      "prompt": "Why does Aelia ask Lu Chuan to set twelve coins aside?",
+      "options": [
+        "To buy a royal gift.",
+        "To pay for tomorrow's supplies.",
+        "To replace the repaired roof.",
+        "To close the tavern immediately."
+      ],
+      "answer": 1,
+      "explanation": "三十枚减去十八枚，剩余十二枚留作次日采购，不提前花掉备用金。"
+    },
+    {
+      "afterLine": 11,
+      "skill": "订单细节",
+      "prompt": "What does the delivery worker order?",
+      "options": [
+        "Egg soup and bread to eat inside.",
+        "Two eggs and no bread.",
+        "Soup without eggs and two slices of bread to take away.",
+        "Cold soup to take away."
+      ],
+      "answer": 2,
+      "explanation": "送货人要不加鸡蛋的汤，在店里喝；两片面包带走。"
+    },
+    {
+      "afterLine": 17,
+      "skill": "信息来源与确定性",
+      "prompt": "What is known about the tracks near the mine?",
+      "options": [
+        "Their source has not been identified yet.",
+        "They were made by the two guards.",
+        "They prove that the road is safe.",
+        "They appeared inside the tavern."
+      ],
+      "answer": 0,
+      "explanation": "守卫已报告陌生脚印，但没有确认来源；不能把线索当成定论。"
+    },
+    {
+      "afterLine": 23,
+      "skill": "封印规则",
+      "prompt": "Why does the crystal still need fragments?",
+      "options": [
+        "Guests have made it weaker.",
+        "The soup is not hot enough.",
+        "The crystal needs a larger counter.",
+        "Gathering supplies energy but does not repair its structure."
+      ],
+      "answer": 3,
+      "explanation": "客人相聚稳定能量，碎片修复结构，二者职责不同。"
+    }
+  ],
+  "ending": "驿站完成首次营业。相聚的客人稳定了晶石的光，修复裂痕仍需寻找碎片。"
+}

@@ -1,0 +1,52 @@
+{
+  "陆川": {
+    "voice": "en-US-BrianNeural",
+    "rate": "+0%",
+    "pitch": "+0Hz"
+  },
+  "伊瑟雅": {
+    "voice": "en-GB-SoniaNeural",
+    "rate": "-8%",
+    "pitch": "-2Hz"
+  },
+  "艾莉娅": {
+    "voice": "en-US-MichelleNeural",
+    "rate": "+0%",
+    "pitch": "+0Hz"
+  },
+  "旁白": {
+    "voice": "en-US-ChristopherNeural",
+    "rate": "+0%",
+    "pitch": "+0Hz"
+  },
+  "言契系统": {
+    "voice": "en-US-GuyNeural",
+    "rate": "+0%",
+    "pitch": "+0Hz"
+  },
+  "室友消息": {
+    "voice": "en-US-ChristopherNeural",
+    "rate": "+0%",
+    "pitch": "+0Hz"
+  },
+  "莉瑟": {
+    "voice": "en-GB-LibbyNeural",
+    "rate": "-4%",
+    "pitch": "-2Hz"
+  },
+  "送货人": {
+    "voice": "en-US-EricNeural",
+    "rate": "+0%",
+    "pitch": "+0Hz"
+  },
+  "守卫": {
+    "voice": "en-US-EricNeural",
+    "rate": "-3%",
+    "pitch": "-3Hz"
+  },
+  "侍从": {
+    "voice": "en-GB-RyanNeural",
+    "rate": "-3%",
+    "pitch": "+0Hz"
+  }
+}

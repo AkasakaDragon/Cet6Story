@@ -1,0 +1,81 @@
+{
+  "voice_id": "Chinese (Mandarin)_Warm_Girl",
+  "language": "English",
+  "source_file": "source.mp3",
+  "source_sha256": "55b1f853ca28e9879d876f1cac96d224bda4e10f0d4c491a2b0951742184432d",
+  "alignment": "Local Whisper base.en word timestamps checked against chapter text",
+  "lines": [
+    {
+      "file": "01.wav",
+      "text": "I need oil that keeps magical light steady. Is this bottle really suitable for a rune lantern?",
+      "source_start": 0,
+      "source_end": 5.66
+    },
+    {
+      "file": "02.wav",
+      "text": "Can you read that old writing? They told me it was only decoration.",
+      "source_start": 5.66,
+      "source_end": 10.11
+    },
+    {
+      "file": "03.wav",
+      "text": "I nearly bought it. Thank you. The instructions are more useful than the wrapping.",
+      "source_start": 10.11,
+      "source_end": 15.51
+    },
+    {
+      "file": "04.wav",
+      "text": "This one says, \"Keeps the wick steady. Keep away from open flames.\" This time the price is not offered as proof.",
+      "source_start": 15.51,
+      "source_end": 23.28
+    },
+    {
+      "file": "05.wav",
+      "text": "You are not a regular here, are you? Yet you read the instructions more carefully than the seller.",
+      "source_start": 23.28,
+      "source_end": 28.83
+    },
+    {
+      "file": "06.wav",
+      "text": "You can call me Lyse. As for the rest... today I am only here to buy lamp oil.",
+      "source_start": 28.83,
+      "source_end": 35.04
+    },
+    {
+      "file": "07.wav",
+      "text": "Salt and vegetables are still on your list. The stall ahead has fresh produce. I can show you.",
+      "source_start": 35.04,
+      "source_end": 41.769999999999996
+    },
+    {
+      "file": "08.wav",
+      "text": "Travelers will appreciate hot soup. More than a long menu, I would like to know if there is a seat.",
+      "source_start": 41.769999999999996,
+      "source_end": 47.980000000000004
+    },
+    {
+      "file": "09.wav",
+      "text": "Beyond the stone bridge, beside the main road. I will remember. If I have time this afternoon, I will visit.",
+      "source_start": 47.980000000000004,
+      "source_end": 55.62
+    },
+    {
+      "file": "10.wav",
+      "text": "No. It sometimes reacts to unstable magic. Has anything changed to the north recently?",
+      "source_start": 55.62,
+      "source_end": 62.07
+    },
+    {
+      "file": "11.wav",
+      "text": "Then listen to her. Someone buying vegetables need not investigate a mine alone.",
+      "source_start": 62.07,
+      "source_end": 67.12
+    },
+    {
+      "file": "12.wav",
+      "text": "Good. Thank you for your help today, Lu Chuan. Keep the direction of that light in mind.",
+      "source_start": 67.12,
+      "source_end": 72.73933333333333
+    }
+  ]
+}

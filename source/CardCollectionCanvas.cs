@@ -55,7 +55,7 @@ public sealed class CardCollectionCanvas:Control {
  protected override void OnPaintBackground(PaintEventArgs e){}
  protected override void OnMouseWheel(MouseEventArgs e){if(selected<0&&e.Delta!=0)TurnPage(e.Delta<0?1:-1);base.OnMouseWheel(e);}
  protected override void OnKeyDown(KeyEventArgs e){
-  if(e.KeyCode==Keys.Escape&&selected>=0){CloseEnlarged();e.Handled=true;return;}
+
   if(e.KeyCode==Keys.Right||e.KeyCode==Keys.Down||e.KeyCode==Keys.PageDown)TurnPage(1);
   else if(e.KeyCode==Keys.Left||e.KeyCode==Keys.Up||e.KeyCode==Keys.PageUp)TurnPage(-1);
   else {base.OnKeyDown(e);return;}e.Handled=true;

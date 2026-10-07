@@ -1,0 +1,350 @@
+{
+  "id": "tavern-01-06",
+  "title": "第一章：今天开始营业 · 第6节：夜晚：第一次打烊",
+  "description": "晶石第一道裂痕修复，首次营业完成结算。艾莉娅留下，莉瑟约定再来；陆川得知她的王室身份。",
+  "source": "原创奇幻剧情与四道分段听力题，非考试原文。",
+  "audio": "audio/tavern/chapter-six/story.wav",
+  "audioLabel": "离线固定角色英文配音",
+  "background": "art/tavern/chapter-one-night.png",
+  "unlockLevel": 1,
+  "sortOrder": 1060,
+  "pixelArt": true,
+  "inlineQuestions": true,
+  "timeLimitSeconds": 1200,
+  "actors": [
+    {
+      "id": "luchuan",
+      "gender": "male",
+      "side": "left",
+      "image": "art/tavern/luchuan-portrait.png"
+    },
+    {
+      "id": "lyse",
+      "gender": "female",
+      "side": "right",
+      "image": "art/tavern/lyse-portrait.png"
+    }
+  ],
+  "decisions": [],
+  "lines": [
+    {
+      "speaker": "旁白",
+      "voiceRole": "旁白",
+      "actor": "",
+      "text": "Lu Chuan washes the stone dust from his hands. Lyse sets the wrapped fragment in the middle of the counter.",
+      "translation": "陆川洗净手上的石尘，莉瑟将包着碎晶的布放在吧台中央。",
+      "scene": "art/tavern/chapter-one-night.png",
+      "sceneSingle": true,
+      "start": 0.0,
+      "end": 7.416
+    },
+    {
+      "speaker": "艾莉娅",
+      "voiceRole": "艾莉娅",
+      "actor": "aelia",
+      "text": "The door is secured and the hearth is low. Now try placing the fragment beside the crack.",
+      "translation": "门锁好了，炉火也压小了。现在试着把碎片放到裂口旁。",
+      "scene": "art/tavern/chapter-one-night.png",
+      "sceneSingle": true,
+      "start": 7.666,
+      "end": 14.17
+    },
+    {
+      "speaker": "陆川",
+      "voiceRole": "陆川",
+      "actor": "luchuan",
+      "text": "The shape matches. It seems to be moving toward the gap on its own.",
+      "translation": "形状刚好能对上。它好像自己在往缺口里靠。",
+      "scene": "art/tavern/chapter-one-night.png",
+      "sceneSingle": true,
+      "start": 14.42,
+      "end": 18.908
+    },
+    {
+      "speaker": "旁白",
+      "voiceRole": "旁白",
+      "actor": "",
+      "text": "The fragment joins the first crack, and light spreads slowly across the surface. Deeper fractures remain clearly visible.",
+      "translation": "碎晶融入第一道裂痕，微光沿着石面慢慢铺开。更深的裂缝仍清晰可见。",
+      "scene": "art/tavern/chapter-one-night.png",
+      "sceneSingle": true,
+      "start": 19.158,
+      "end": 27.798
+    },
+    {
+      "speaker": "言契系统",
+      "voiceRole": "言契系统",
+      "actor": "",
+      "text": "The first structural repair is complete. The seal is becoming stable, but is not fully restored.",
+      "translation": "第一处结构修复完成。封印趋于稳定，尚未完全恢复。",
+      "scene": "art/tavern/chapter-one-night.png",
+      "sceneSingle": true,
+      "start": 28.048,
+      "end": 35.344
+    },
+    {
+      "speaker": "莉瑟",
+      "voiceRole": "莉瑟",
+      "actor": "lyse",
+      "text": "The butterfly no longer circles this gap. At least today, we found the right piece.",
+      "translation": "光蝶不再绕着这个缺口打转了。至少今天，我们找对了一块。",
+      "scene": "art/tavern/chapter-one-night.png",
+      "sceneSingle": true,
+      "start": 35.594,
+      "end": 42.818
+    },
+    {
+      "speaker": "陆川",
+      "voiceRole": "陆川",
+      "actor": "luchuan",
+      "text": "Next, the ledger. Today's sales brought in twenty-four copper coins. Ingredients cost eighteen.",
+      "translation": "接下来是账本。今日营业收了二十四枚铜币，食材成本十八枚。",
+      "scene": "art/tavern/chapter-one-night.png",
+      "sceneSingle": true,
+      "start": 43.068,
+      "end": 50.052
+    },
+    {
+      "speaker": "艾莉娅",
+      "voiceRole": "艾莉娅",
+      "actor": "aelia",
+      "text": "That leaves six in profit, not twenty-four. We need supplies tomorrow, so do not treat all revenue as spending money.",
+      "translation": "那是六枚盈余，不是二十四枚。明天还要进货，别把收入全当能花的钱。",
+      "scene": "art/tavern/chapter-one-night.png",
+      "sceneSingle": true,
+      "start": 50.302,
+      "end": 58.726
+    },
+    {
+      "speaker": "陆川",
+      "voiceRole": "陆川",
+      "actor": "luchuan",
+      "text": "Noted: keep costs and revenue separate. I still have the twelve coins left from our supply budget.",
+      "translation": "记下了，成本和收入分开。我还留着采购后剩下的十二枚备用金。",
+      "scene": "art/tavern/chapter-one-night.png",
+      "sceneSingle": true,
+      "start": 58.976,
+      "end": 66.08
+    },
+    {
+      "speaker": "莉瑟",
+      "voiceRole": "莉瑟",
+      "actor": "lyse",
+      "text": "Clear accounts on day one are more reliable than a fortune. Will you be open tomorrow?",
+      "translation": "第一天能算清楚，比第一天就赚大钱可靠。你们明天还开门吗？",
+      "scene": "art/tavern/chapter-one-night.png",
+      "sceneSingle": true,
+      "start": 66.33,
+      "end": 73.434
+    },
+    {
+      "speaker": "陆川",
+      "voiceRole": "陆川",
+      "actor": "luchuan",
+      "text": "Yes. We will keep today's menu. Selling one pot of soup does not make me a master chef.",
+      "translation": "开。先保留今天的菜单，不能因为卖完一锅汤就假装自己是大厨。",
+      "scene": "art/tavern/chapter-one-night.png",
+      "sceneSingle": true,
+      "start": 73.684,
+      "end": 80.02
+    },
+    {
+      "speaker": "艾莉娅",
+      "voiceRole": "艾莉娅",
+      "actor": "aelia",
+      "text": "Copy the mine notes too. We will give them to the watch officer tomorrow, rather than keeping the danger in our own notebook.",
+      "translation": "也把矿道记录抄一份。明早交给值守官，不把危险只留在我们自己的本子里。",
+      "scene": "art/tavern/chapter-one-night.png",
+      "sceneSingle": true,
+      "start": 80.27,
+      "end": 88.334
+    },
+    {
+      "speaker": "旁白",
+      "voiceRole": "旁白",
+      "actor": "",
+      "text": "Wheels sound outside. An attendant in a dark cloak stops beneath the porch.",
+      "translation": "门外传来车轮声，一位披深色斗篷的侍从在门廊下停住。",
+      "scene": "art/tavern/chapter-one-night.png",
+      "sceneSingle": true,
+      "start": 88.584,
+      "end": 94.8
+    },
+    {
+      "speaker": "侍从",
+      "voiceRole": "侍从",
+      "actor": "",
+      "text": "Your Highness, the carriage is ready. The hour you asked us to wait for has arrived.",
+      "translation": "殿下，马车已备好。您让我们等到的时刻已经到了。",
+      "scene": "art/tavern/chapter-one-night.png",
+      "sceneSingle": true,
+      "start": 95.05,
+      "end": 101.17
+    },
+    {
+      "speaker": "陆川",
+      "voiceRole": "陆川",
+      "actor": "luchuan",
+      "text": "Your Highness? So the crest on the handle was not decoration included with the lamp.",
+      "translation": "殿下？所以灯柄上的纹章，不是买灯时附送的装饰。",
+      "scene": "art/tavern/chapter-one-night.png",
+      "sceneSingle": true,
+      "start": 101.42,
+      "end": 106.964
+    },
+    {
+      "speaker": "莉瑟",
+      "voiceRole": "莉瑟",
+      "actor": "lyse",
+      "text": "No. I am sorry. Today I used a name that gave me a little freedom.",
+      "translation": "不是。对不起，今天先说了一个能让我自在些的名字。",
+      "scene": "art/tavern/chapter-one-night.png",
+      "sceneSingle": true,
+      "start": 107.214,
+      "end": 114.582
+    },
+    {
+      "speaker": "陆川",
+      "voiceRole": "陆川",
+      "actor": "luchuan",
+      "text": "What you told us about the lantern and mine was true. The rest of your name can wait until you want to share it.",
+      "translation": "你告诉我们的灯和矿道都是真的。名字的另一半，等你想说时再说。",
+      "scene": "art/tavern/chapter-one-night.png",
+      "sceneSingle": true,
+      "start": 114.832,
+      "end": 121.576
+    },
+    {
+      "speaker": "莉瑟",
+      "voiceRole": "莉瑟",
+      "actor": "lyse",
+      "text": "Thank you. Next time, I would still like this seat and a bowl of your soup.",
+      "translation": "谢谢。下次我还是想坐今天这个位置，喝你们的汤。",
+      "scene": "art/tavern/chapter-one-night.png",
+      "sceneSingle": true,
+      "start": 121.826,
+      "end": 128.258
+    },
+    {
+      "speaker": "旁白",
+      "voiceRole": "旁白",
+      "actor": "",
+      "text": "The carriage crosses the stone bridge. Aelia puts away the last cup, and Lu Chuan turns the sign to 'closed'.",
+      "translation": "马车越过石桥。艾莉娅收好最后一只杯子，陆川将门牌翻到打烊的一面。",
+      "scene": "art/tavern/chapter-one-night.png",
+      "sceneSingle": true,
+      "start": 128.508,
+      "end": 136.86
+    },
+    {
+      "speaker": "艾莉娅",
+      "voiceRole": "艾莉娅",
+      "actor": "aelia",
+      "text": "If you still need someone to guard this place, I will be here tomorrow too. I was not waiting only for the roof to be repaired.",
+      "translation": "如果你还需要人守着这里，我明天也在。不是只等屋顶修好的那一天。",
+      "scene": "art/tavern/chapter-one-night.png",
+      "sceneSingle": true,
+      "start": 137.11,
+      "end": 145.15
+    },
+    {
+      "speaker": "陆川",
+      "voiceRole": "陆川",
+      "actor": "luchuan",
+      "text": "I do. We will plan tomorrow together. Tonight, let us get some rest.",
+      "translation": "需要。明天的分工还是一起商量，今天就先好好休息。",
+      "scene": "art/tavern/chapter-one-night.png",
+      "sceneSingle": true,
+      "start": 145.4,
+      "end": 150.704
+    },
+    {
+      "speaker": "旁白",
+      "voiceRole": "旁白",
+      "actor": "",
+      "text": "The ledger holds a shopping list, paid orders, and mine notes. Three sheets record Lu Chuan's first day as an innkeeper.",
+      "translation": "账本里夹着采购单、订单和矿道记录。三张纸，填满了陆川当老板的第一天。",
+      "scene": "art/tavern/chapter-one-night.png",
+      "sceneSingle": true,
+      "start": 150.954,
+      "end": 159.858
+    },
+    {
+      "speaker": "陆川",
+      "voiceRole": "陆川",
+      "actor": "luchuan",
+      "text": "Leave the light by the door on. If someone passes at night, they will know there is still a place to return to.",
+      "translation": "门口那盏灯留着吧。要是有人夜里路过，至少知道这里还有个归处。",
+      "scene": "art/tavern/chapter-one-night.png",
+      "sceneSingle": true,
+      "start": 160.108,
+      "end": 166.948
+    },
+    {
+      "speaker": "旁白",
+      "voiceRole": "旁白",
+      "actor": "",
+      "text": "Deep underground, a whisper travels through the darkness: 'That waystation... it is shining again.'",
+      "translation": "地下深处，一道低语穿过黑暗：“那间驿站……又亮起来了。”",
+      "scene": "art/tavern/chapter-one-night.png",
+      "sceneSingle": true,
+      "start": 167.198,
+      "end": 173.798
+    }
+  ],
+  "questions": [
+    {
+      "afterLine": 5,
+      "skill": "修复进度",
+      "prompt": "What changes after the fragment joins the crystal?",
+      "options": [
+        "Every fracture disappears at once.",
+        "The first crack is repaired, but deeper fractures remain.",
+        "The seal loses all its energy.",
+        "The lantern becomes a cooking tool."
+      ],
+      "answer": 1,
+      "explanation": "第一道裂痕修复完成，封印更稳定，但尚未完全恢复。"
+    },
+    {
+      "afterLine": 11,
+      "skill": "账目理解",
+      "prompt": "What is the profit from the day's sales after ingredient costs?",
+      "options": [
+        "Twenty-four copper coins.",
+        "Eighteen copper coins.",
+        "Six copper coins.",
+        "Thirty copper coins."
+      ],
+      "answer": 2,
+      "explanation": "营业收入二十四枚减食材成本十八枚，盈余六枚；备用金不是营业利润。"
+    },
+    {
+      "afterLine": 17,
+      "skill": "身份线索与信任",
+      "prompt": "What reveals Lyse's royal identity to Lu Chuan?",
+      "options": [
+        "Her purchase of vegetables.",
+        "Her refusal to pay for soup.",
+        "A new menu on the wall.",
+        "The attendant addresses her as 'Your Highness'."
+      ],
+      "answer": 3,
+      "explanation": "侍从称她为殿下，陆川由此确认王室身份，并尊重她保留姓名细节。"
+    },
+    {
+      "afterLine": 23,
+      "skill": "章末人物意愿",
+      "prompt": "What does Aelia decide at the end of the day?",
+      "options": [
+        "To remain and help guard the waystation.",
+        "To leave before the next morning.",
+        "To close the mine by herself that night.",
+        "To take Lyse's carriage without asking."
+      ],
+      "answer": 0,
+      "explanation": "艾莉娅明确表示明天也会留下，继续守护驿站。"
+    }
+  ],
+  "ending": "晶石第一道裂痕修复，首次营业完成结算。艾莉娅留下，莉瑟约定再来；陆川得知她的王室身份。"
+}

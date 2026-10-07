@@ -1,0 +1,482 @@
+{
+  "id": "tavern-01-02",
+  "title": "第一章：今天开始营业 · 第二节：集市，不愿透露姓名的少女",
+  "description": "进城采购 · 识破灯油说明 · 初遇莉瑟 · 提灯的异常反应",
+  "source": "原创奇幻剧情与四道分段听力理解题，非考试原文。",
+  "audio": "audio/tavern/chapter-two/market.wav",
+  "audioLabel": "离线英文配音 · 莉瑟：MiniMax 温暖少女 · 其他角色：固定角色配音",
+  "background": "art/tavern/chapter-two-market.png",
+  "unlockLevel": 1,
+  "sortOrder": 1020,
+  "pixelArt": true,
+  "inlineQuestions": true,
+  "timeLimitSeconds": 1200,
+  "actors": [
+    {
+      "id": "luchuan",
+      "gender": "male",
+      "side": "left",
+      "image": "art/tavern/luchuan-portrait.png"
+    },
+    {
+      "id": "lyse",
+      "gender": "female",
+      "side": "right",
+      "image": "art/tavern/lyse-portrait.png"
+    }
+  ],
+  "decisions": [],
+  "lines": [
+    {
+      "speaker": "旁白",
+      "voiceRole": "旁白",
+      "actor": "",
+      "text": "Beyond the town gate, Lu Chuan hears the market calls. Flour comes first on his list, followed by eggs.",
+      "translation": "穿过镇门，陆川听见叫卖声。清单上的第一项是面粉，第二项是鸡蛋。",
+      "scene": "art/tavern/chapter-two-market.png",
+      "sceneSingle": true,
+      "start": 0.0,
+      "end": 8.232
+    },
+    {
+      "speaker": "陆川",
+      "voiceRole": "陆川",
+      "actor": "luchuan",
+      "text": "Essentials first. Aelia's advice comes before any pretty sign.",
+      "translation": "先买必需品。艾莉娅的话，得记在漂亮招牌前面。",
+      "scene": "art/tavern/chapter-two-market.png",
+      "sceneSingle": true,
+      "start": 8.482,
+      "end": 13.282
+    },
+    {
+      "speaker": "摊主",
+      "voiceRole": "摊主",
+      "actor": "",
+      "text": "Flour on the left, eggs in the basket. If you run a shop, I can deliver them to your door.",
+      "translation": "面粉在左边，鸡蛋在篮子里。开店的话，我可以帮你送到门口。",
+      "scene": "art/tavern/chapter-two-market.png",
+      "sceneSingle": true,
+      "start": 13.532,
+      "end": 20.588
+    },
+    {
+      "speaker": "陆川",
+      "voiceRole": "陆川",
+      "actor": "luchuan",
+      "text": "The waystation beyond the stone bridge is opening today. One small bag of flour and twelve eggs, please.",
+      "translation": "石桥外的驿站，今天准备开门。先给我一小袋面粉和十二个鸡蛋。",
+      "scene": "art/tavern/chapter-two-market.png",
+      "sceneSingle": true,
+      "start": 20.838,
+      "end": 28.086
+    },
+    {
+      "speaker": "摊主",
+      "voiceRole": "摊主",
+      "actor": "",
+      "text": "That waystation? Last night I thought it would collapse. Have you repaired the roof?",
+      "translation": "那间驿站？昨晚我还以为它要塌了。你们把屋顶修好了？",
+      "scene": "art/tavern/chapter-two-market.png",
+      "sceneSingle": true,
+      "start": 28.336,
+      "end": 35.248
+    },
+    {
+      "speaker": "陆川",
+      "voiceRole": "陆川",
+      "actor": "luchuan",
+      "text": "We have. Now it is the kitchen's turn. We cannot serve our guests a roof.",
+      "translation": "修好了。现在轮到厨房，不能让客人只吃屋顶。",
+      "scene": "art/tavern/chapter-two-market.png",
+      "sceneSingle": true,
+      "start": 35.498,
+      "end": 40.802
+    },
+    {
+      "speaker": "旁白",
+      "voiceRole": "旁白",
+      "actor": "",
+      "text": "At the next stall, a silver-haired girl stops beside the lamp oil. Her lantern is still lit, but its light is unsteady.",
+      "translation": "隔壁灯油摊前，一位银发少女停下了脚步。她手中的提灯没有熄灭，却忽明忽暗。",
+      "scene": "art/tavern/chapter-two-market.png",
+      "sceneSingle": true,
+      "start": 41.052,
+      "end": 49.764
+    },
+    {
+      "speaker": "莉瑟",
+      "voiceRole": "莉瑟",
+      "actor": "lyse",
+      "text": "I need oil that keeps magical light steady. Is this bottle really suitable for a rune lantern?",
+      "translation": "我要的是稳定魔力的灯油。这个瓶子，真的能用于符文提灯吗？",
+      "scene": "art/tavern/chapter-two-market.png",
+      "sceneSingle": true,
+      "start": 50.014,
+      "end": 55.674
+    },
+    {
+      "speaker": "摊主",
+      "voiceRole": "摊主",
+      "actor": "",
+      "text": "Certainly. There is silver around the neck, and it costs more than ordinary oil.",
+      "translation": "当然。瓶口有银线，价钱也比普通灯油高。",
+      "scene": "art/tavern/chapter-two-market.png",
+      "sceneSingle": true,
+      "start": 55.924,
+      "end": 62.404
+    },
+    {
+      "speaker": "陆川",
+      "voiceRole": "陆川",
+      "actor": "luchuan",
+      "text": "Sorry to interrupt. The note on the bottom seems to say something different.",
+      "translation": "抱歉打断一下。瓶底的说明，似乎说的不是这件事。",
+      "scene": "art/tavern/chapter-two-market.png",
+      "sceneSingle": true,
+      "start": 62.654,
+      "end": 67.718
+    },
+    {
+      "speaker": "莉瑟",
+      "voiceRole": "莉瑟",
+      "actor": "lyse",
+      "text": "Can you read that old writing? They told me it was only decoration.",
+      "translation": "你能读懂这行旧文字？店里的人说它只是装饰。",
+      "scene": "art/tavern/chapter-two-market.png",
+      "sceneSingle": true,
+      "start": 67.968,
+      "end": 72.418
+    },
+    {
+      "speaker": "陆川",
+      "voiceRole": "陆川",
+      "actor": "luchuan",
+      "text": "It says, \"For ordinary lighting only. Not for rune lamps.\" The silver is just decoration.",
+      "translation": "它写着“仅供普通照明，不可用于符文灯具”。银线只是包装。",
+      "scene": "art/tavern/chapter-two-market.png",
+      "sceneSingle": true,
+      "start": 72.668,
+      "end": 79.82
+    },
+    {
+      "speaker": "莉瑟",
+      "voiceRole": "莉瑟",
+      "actor": "lyse",
+      "text": "I nearly bought it. Thank you. The instructions are more useful than the wrapping.",
+      "translation": "我差一点就买下了。谢谢你，说明确实比包装有用。",
+      "scene": "art/tavern/chapter-two-market.png",
+      "sceneSingle": true,
+      "start": 80.07,
+      "end": 85.47
+    },
+    {
+      "speaker": "摊主",
+      "voiceRole": "摊主",
+      "actor": "",
+      "text": "Wait... Perhaps the bottles were mixed during delivery. The real rune oil is on the lower shelf.",
+      "translation": "等等……可能是搬货时混进来的。真正的符文灯油在下面一层。",
+      "scene": "art/tavern/chapter-two-market.png",
+      "sceneSingle": true,
+      "start": 85.72,
+      "end": 93.712
+    },
+    {
+      "speaker": "陆川",
+      "voiceRole": "陆川",
+      "actor": "luchuan",
+      "text": "Then bring out the instructions too. What it can do should be clear before the sale.",
+      "translation": "那就把说明一起拿出来。能做什么，应该先说清楚。",
+      "scene": "art/tavern/chapter-two-market.png",
+      "sceneSingle": true,
+      "start": 93.962,
+      "end": 99.194
+    },
+    {
+      "speaker": "莉瑟",
+      "voiceRole": "莉瑟",
+      "actor": "lyse",
+      "text": "This one says, \"Keeps the wick steady. Keep away from open flames.\" This time the price is not offered as proof.",
+      "translation": "这瓶写着“稳定灯芯，远离明火”。这次没有把价格写成效果。",
+      "scene": "art/tavern/chapter-two-market.png",
+      "sceneSingle": true,
+      "start": 99.444,
+      "end": 107.214
+    },
+    {
+      "speaker": "旁白",
+      "voiceRole": "旁白",
+      "actor": "",
+      "text": "The girl checks the seal before paying. A drop of new oil settles the light inside her lantern.",
+      "translation": "少女核对封口后才付款。新灯油滴入灯芯，提灯的光安静了下来。",
+      "scene": "art/tavern/chapter-two-market.png",
+      "sceneSingle": true,
+      "start": 107.464,
+      "end": 114.664
+    },
+    {
+      "speaker": "莉瑟",
+      "voiceRole": "莉瑟",
+      "actor": "lyse",
+      "text": "You are not a regular here, are you? Yet you read the instructions more carefully than the seller.",
+      "translation": "你不是这里的常客吧？你看说明时，倒比摊主还熟练。",
+      "scene": "art/tavern/chapter-two-market.png",
+      "sceneSingle": true,
+      "start": 114.914,
+      "end": 120.464
+    },
+    {
+      "speaker": "陆川",
+      "voiceRole": "陆川",
+      "actor": "luchuan",
+      "text": "Lu Chuan. I have just taken over the waystation outside the stone bridge. My shopping experience starts today.",
+      "translation": "陆川。刚接手石桥外的驿站，采购经验是今天开始积累的。",
+      "scene": "art/tavern/chapter-two-market.png",
+      "sceneSingle": true,
+      "start": 120.714,
+      "end": 128.106
+    },
+    {
+      "speaker": "莉瑟",
+      "voiceRole": "莉瑟",
+      "actor": "lyse",
+      "text": "You can call me Lyse. As for the rest... today I am only here to buy lamp oil.",
+      "translation": "叫我莉瑟就好。至于其他的……今天我只是来买灯油。",
+      "scene": "art/tavern/chapter-two-market.png",
+      "sceneSingle": true,
+      "start": 128.356,
+      "end": 134.566
+    },
+    {
+      "speaker": "陆川",
+      "voiceRole": "陆川",
+      "actor": "luchuan",
+      "text": "Then today I am simply an innkeeper buying eggs. You need not answer questions beyond the shopping list.",
+      "translation": "那我今天也只是买鸡蛋的老板。你不用回答清单之外的问题。",
+      "scene": "art/tavern/chapter-two-market.png",
+      "sceneSingle": true,
+      "start": 134.816,
+      "end": 141.584
+    },
+    {
+      "speaker": "莉瑟",
+      "voiceRole": "莉瑟",
+      "actor": "lyse",
+      "text": "Salt and vegetables are still on your list. The stall ahead has fresh produce. I can show you.",
+      "translation": "你的清单上，还有盐和蔬菜。前面那家比较新鲜，我带你过去。",
+      "scene": "art/tavern/chapter-two-market.png",
+      "sceneSingle": true,
+      "start": 141.834,
+      "end": 148.564
+    },
+    {
+      "speaker": "旁白",
+      "voiceRole": "旁白",
+      "actor": "",
+      "text": "They cross to the other side of the market. Flour and eggs will be delivered, leaving Lu Chuan with a basket of vegetables.",
+      "translation": "两人走到集市另一侧。面粉和鸡蛋已经约好送货，陆川只需提着蔬菜篮。",
+      "scene": "art/tavern/chapter-two-lantern.png",
+      "sceneSingle": true,
+      "start": 148.814,
+      "end": 157.142
+    },
+    {
+      "speaker": "陆川",
+      "voiceRole": "陆川",
+      "actor": "luchuan",
+      "text": "Hot soup, bread, and eggs. Just those three things on our first menu.",
+      "translation": "热汤、面包、煎蛋。第一天的菜单，暂时就这三样。",
+      "scene": "art/tavern/chapter-two-lantern.png",
+      "sceneSingle": true,
+      "start": 157.392,
+      "end": 162.792
+    },
+    {
+      "speaker": "莉瑟",
+      "voiceRole": "莉瑟",
+      "actor": "lyse",
+      "text": "Travelers will appreciate hot soup. More than a long menu, I would like to know if there is a seat.",
+      "translation": "赶路的人会喜欢热汤。比起一长串菜名，我更想知道有没有地方坐。",
+      "scene": "art/tavern/chapter-two-lantern.png",
+      "sceneSingle": true,
+      "start": 163.042,
+      "end": 169.252
+    },
+    {
+      "speaker": "陆川",
+      "voiceRole": "陆川",
+      "actor": "luchuan",
+      "text": "There is, and the roof no longer leaks. You are welcome to stop by when you pass.",
+      "translation": "有，屋顶也不漏了。你路过时，可以来坐一会儿。",
+      "scene": "art/tavern/chapter-two-lantern.png",
+      "sceneSingle": true,
+      "start": 169.502,
+      "end": 174.758
+    },
+    {
+      "speaker": "莉瑟",
+      "voiceRole": "莉瑟",
+      "actor": "lyse",
+      "text": "Beyond the stone bridge, beside the main road. I will remember. If I have time this afternoon, I will visit.",
+      "translation": "石桥外，大路旁。我记住了。如果下午有空，我去看看。",
+      "scene": "art/tavern/chapter-two-lantern.png",
+      "sceneSingle": true,
+      "start": 175.008,
+      "end": 182.648
+    },
+    {
+      "speaker": "旁白",
+      "voiceRole": "旁白",
+      "actor": "",
+      "text": "Wind lifts Lyse's hair near the gate. A pale violet butterfly passes her lantern, and its light bends briefly toward the north.",
+      "translation": "镇门的风吹起莉瑟的发梢。一只淡紫蝴蝶掠过提灯，灯芯突然向北侧偏了一下。",
+      "scene": "art/tavern/chapter-two-lantern.png",
+      "sceneSingle": true,
+      "start": 182.898,
+      "end": 191.85
+    },
+    {
+      "speaker": "陆川",
+      "voiceRole": "陆川",
+      "actor": "luchuan",
+      "text": "That light just now... That was not the wind, was it?",
+      "translation": "刚才那道光……不是被风吹的吧？",
+      "scene": "art/tavern/chapter-two-lantern.png",
+      "sceneSingle": true,
+      "start": 192.1,
+      "end": 195.868
+    },
+    {
+      "speaker": "莉瑟",
+      "voiceRole": "莉瑟",
+      "actor": "lyse",
+      "text": "No. It sometimes reacts to unstable magic. Has anything changed to the north recently?",
+      "translation": "不是。它有时会对不稳定的魔力产生反应。北边最近有什么变化吗？",
+      "scene": "art/tavern/chapter-two-lantern.png",
+      "sceneSingle": true,
+      "start": 196.118,
+      "end": 202.568
+    },
+    {
+      "speaker": "陆川",
+      "voiceRole": "陆川",
+      "actor": "luchuan",
+      "text": "I only know there is an old mine road there. Aelia told me not to go that way today.",
+      "translation": "我只知道那边有旧矿道。艾莉娅提醒我，今天不要往那里走。",
+      "scene": "art/tavern/chapter-two-lantern.png",
+      "sceneSingle": true,
+      "start": 202.818,
+      "end": 208.242
+    },
+    {
+      "speaker": "莉瑟",
+      "voiceRole": "莉瑟",
+      "actor": "lyse",
+      "text": "Then listen to her. Someone buying vegetables need not investigate a mine alone.",
+      "translation": "那就听她的。买菜的人，没必要独自去调查矿道。",
+      "scene": "art/tavern/chapter-two-lantern.png",
+      "sceneSingle": true,
+      "start": 208.492,
+      "end": 213.542
+    },
+    {
+      "speaker": "陆川",
+      "voiceRole": "陆川",
+      "actor": "luchuan",
+      "text": "I will tell her what happened. First, I will bring the supplies home and open the waystation.",
+      "translation": "我会把这件事告诉她。先把食材送回去，让驿站开门。",
+      "scene": "art/tavern/chapter-two-lantern.png",
+      "sceneSingle": true,
+      "start": 213.792,
+      "end": 219.792
+    },
+    {
+      "speaker": "莉瑟",
+      "voiceRole": "莉瑟",
+      "actor": "lyse",
+      "text": "Good. Thank you for your help today, Lu Chuan. Keep the direction of that light in mind.",
+      "translation": "好。谢谢你今天的帮忙，陆川。也替我留意那盏灯的方向。",
+      "scene": "art/tavern/chapter-two-lantern.png",
+      "sceneSingle": true,
+      "start": 220.042,
+      "end": 225.6613
+    },
+    {
+      "speaker": "旁白",
+      "voiceRole": "旁白",
+      "actor": "",
+      "text": "Lyse disappears into the crowd with her lantern. Lu Chuan heads home with ingredients for the first soup, and one question left unasked.",
+      "translation": "莉瑟收起提灯走进人群。陆川踏上回程，篮子里是第一锅热汤的材料，还有一个没问出口的问题。",
+      "scene": "art/tavern/chapter-one-road.png",
+      "sceneSingle": true,
+      "start": 225.9113,
+      "end": 235.0553
+    },
+    {
+      "speaker": "陆川",
+      "voiceRole": "陆川",
+      "actor": "luchuan",
+      "text": "Open the door first, ask questions later. Today's list finally contains more than eggs.",
+      "translation": "先开门，再问清楚。今天的清单，终于不只剩鸡蛋了。",
+      "scene": "art/tavern/chapter-one-road.png",
+      "sceneSingle": true,
+      "start": 235.3053,
+      "end": 241.3293
+    }
+  ],
+  "questions": [
+    {
+      "afterLine": 5,
+      "skill": "采购数量与送货",
+      "prompt": "What does Lu Chuan ask the seller to supply?",
+      "options": [
+        "A large barrel of oil.",
+        "One small bag of flour and twelve eggs.",
+        "Twelve bags of flour and one egg.",
+        "Only a new roof."
+      ],
+      "answer": 1,
+      "explanation": "陆川先订一小袋面粉和十二个鸡蛋，摊主可送到驿站。"
+    },
+    {
+      "afterLine": 16,
+      "skill": "商品说明与用途",
+      "prompt": "Why does Lu Chuan warn Lyse about the first bottle?",
+      "options": [
+        "It is meant for ordinary lighting, not rune lamps.",
+        "It contains no oil at all.",
+        "Its silver decoration is damaged.",
+        "It is too heavy to carry."
+      ],
+      "answer": 0,
+      "explanation": "瓶底说明明确写着仅供普通照明，不适用于符文灯；银线装饰和更高价格不能证明用途。"
+    },
+    {
+      "afterLine": 27,
+      "skill": "邀请与人物需求",
+      "prompt": "What matters to Lyse more than a long menu?",
+      "options": [
+        "The size of the market.",
+        "An expensive sign.",
+        "A place to sit and some hot soup.",
+        "A room inside the mine."
+      ],
+      "answer": 2,
+      "explanation": "莉瑟说赶路的人会喜欢热汤，比起一长串菜名，她更关心有没有座位。"
+    },
+    {
+      "afterLine": 35,
+      "skill": "异常线索与行动安排",
+      "prompt": "What will Lu Chuan do after seeing the lantern react?",
+      "options": [
+        "Explore the northern mine alone.",
+        "Follow Lyse into the crowd.",
+        "Return with supplies and tell Aelia about the reaction.",
+        "Cancel the opening and return every purchase."
+      ],
+      "answer": 2,
+      "explanation": "先带食材返回驿站，告知艾莉娅提灯的异常，暂不独自进入矿道。"
+    }
+  ],
+  "ending": "采购完成，陆川认识了化名莉瑟的少女。符文提灯指向北侧旧矿道，他决定先返回驿站，与艾莉娅分享线索。"
+}

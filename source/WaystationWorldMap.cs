@@ -1,10 +1,10 @@
-﻿using System;using System.Drawing;using System.Drawing.Drawing2D;using System.IO;using System.Windows.Forms;
+using System;using System.Drawing;using System.Drawing.Drawing2D;using System.IO;using System.Windows.Forms;
 public partial class Game {
  void ShowWaystationWorldMap(){
   ClearPage();page="waystation-map";
   var map=new WaystationWorldMap(CachedImage(Path.Combine(root,"assets","world-map","waystation-map.png")),CachedImage(Path.Combine(root,"assets","world-map","waystation-map-wide.png")));
-  map.ChapterOneOpen=save.completed.Contains(TavernStory.Id);map.ChapterOneCompleted=save.completed.Contains(WaystationChapterOne.Id);map.Dock=DockStyle.Fill;map.Return=ShowTavernHub;
-  map.SelectChapter=i=>{if(i==0)ShowTavernMainQuest();else if(i==1&&map.ChapterOneOpen)EnterChapterOne();else GameMessage.Show(this,"本章尚未开放，请先在驿站准备下一段旅程。",WaystationWorldMap.ChapterNames[i]);};
+  map.ChapterOneOpen=save.completed.Contains(TavernStory.Id);map.ChapterOneCompleted=save.completed.Contains(WaystationChapterOne.Ids[5]);map.Dock=DockStyle.Fill;map.Return=ShowTavernHub;
+  map.SelectChapter=i=>{if(i==0||i==1&&map.ChapterOneOpen)ShowTavernMainQuest();else GameMessage.Show(this,"本章尚未开放，请先在驿站准备下一段旅程。",WaystationWorldMap.ChapterNames[i]);};
   content.Controls.Add(map);map.Focus();
  }
 }
@@ -15,7 +15,7 @@ public sealed class WaystationWorldMap:Control {
  RectangleF view;Rectangle toggle,returnButton,panel;float uiScale;int hover=-1;
  public WaystationWorldMap(Image image,Image mapImage=null){art=image;backdrop=mapImage??image;ChaptersVisible=true;DoubleBuffered=true;ResizeRedraw=true;BackColor=Color.FromArgb(8,24,39);TabStop=true;AccessibleName="世界地图；按 Tab 收起或展开章节，按 Escape 返回驿站";}
  protected override bool IsInputKey(Keys keyData){return keyData==Keys.Tab||base.IsInputKey(keyData);}
- protected override void OnKeyDown(KeyEventArgs e){base.OnKeyDown(e);if(e.KeyCode==Keys.Tab){Toggle();e.Handled=true;}else if(e.KeyCode==Keys.Escape&&Return!=null){Return();e.Handled=true;}}
+ protected override void OnKeyDown(KeyEventArgs e){base.OnKeyDown(e);if(e.KeyCode==Keys.Tab){Toggle();e.Handled=true;}}
  public void Toggle(){ChaptersVisible=!ChaptersVisible;hover=-1;Invalidate();}
  void LayoutMap(){
   uiScale=Math.Min(Width/900f,Height/941f);int pw=(int)Math.Round(394*uiScale);panel=new Rectangle(Width-pw,0,pw,Height);
@@ -30,7 +30,7 @@ public sealed class WaystationWorldMap:Control {
   g.DrawImage(backdrop,view);
   DrawMapLabel(g,.43f,.415f,new RectangleF(604,374,137,40));DrawMapLabel(g,.43f,.46f,new RectangleF(620,414,123,26));DrawMapLabel(g,.59f,.395f,new RectangleF(908,369,130,40));
   DrawOriginal(g,returnButton,new RectangleF(27,24,183,57));
-  if(ChaptersVisible){DrawOriginal(g,panel,new RectangleF(1278,0,394,941));if(ChapterOneOpen){var card=ChapterBounds(1);GuildChrome.Draw(g,card,true);float scale=panel.Height/941f;var title=new Rectangle(card.Left+12,card.Top+8,card.Width-24,card.Height/2);var status=new Rectangle(card.Left+12,card.Top+card.Height/2,card.Width-24,card.Height/2-8);using(var font=GameTheme.Body(Math.Max(8,17*scale),FontStyle.Bold))GameTheme.DrawText(g,ChapterNames[1],font,title,GuildChrome.Ivory,TextFormatFlags.HorizontalCenter|TextFormatFlags.VerticalCenter);using(var font=GameTheme.Body(Math.Max(7,12*scale)))GameTheme.DrawText(g,"第一节 · 老板的第一天 · "+(ChapterOneCompleted?"已完成":"可进入"),font,status,GuildChrome.Gold,TextFormatFlags.HorizontalCenter|TextFormatFlags.VerticalCenter);}}
+  if(ChaptersVisible){DrawOriginal(g,panel,new RectangleF(1278,0,394,941));if(ChapterOneOpen){var card=ChapterBounds(1);GuildChrome.Draw(g,card,true);float scale=panel.Height/941f;var title=new Rectangle(card.Left+12,card.Top+8,card.Width-24,card.Height/2);var status=new Rectangle(card.Left+12,card.Top+card.Height/2,card.Width-24,card.Height/2-8);using(var font=GameTheme.Body(Math.Max(8,17*scale),FontStyle.Bold))GameTheme.DrawText(g,ChapterNames[1],font,title,GuildChrome.Ivory,TextFormatFlags.HorizontalCenter|TextFormatFlags.VerticalCenter);using(var font=GameTheme.Body(Math.Max(7,12*scale)))GameTheme.DrawText(g,"六节剧情 · 每节四题 · "+(ChapterOneCompleted?"已完成":"可进入"),font,status,GuildChrome.Gold,TextFormatFlags.HorizontalCenter|TextFormatFlags.VerticalCenter);}}
   GuildChrome.Draw(g,toggle,true);using(var f=GameTheme.Body(Math.Max(12,20*uiScale),FontStyle.Bold))GameTheme.DrawText(g,ChaptersVisible?"›":"‹",f,toggle,GuildChrome.Gold,TextFormatFlags.HorizontalCenter|TextFormatFlags.VerticalCenter);
   if(hover>=0){Rectangle r=hover==8?toggle:hover==7?returnButton:ChapterBounds(hover);using(var pen=new Pen(Color.FromArgb(210,255,224,140),2))g.DrawRectangle(pen,Rectangle.Inflate(r,-2,-2));}
  } protected override void OnMouseMove(MouseEventArgs e){base.OnMouseMove(e);int h=Hit(e.Location);if(h!=hover){hover=h;Cursor=h<0?Cursors.Default:Cursors.Hand;Invalidate();}}

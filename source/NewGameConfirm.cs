@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.IO;
 using System.Drawing;
 using System.Drawing.Drawing2D;
@@ -47,6 +47,6 @@ public sealed class NewGameConfirmOverlay:Control {
  public void Accept(){if(Confirmed!=null)Confirmed();}
  public void Cancel(){if(Cancelled!=null)Cancelled();}
  public void ActivateSelection(){if(selected==1)Accept();else Cancel();}
- protected override bool ProcessDialogKey(Keys keyData){Keys key=keyData&Keys.KeyCode;if(key==Keys.Tab||key==Keys.Left||key==Keys.Right){selected=1-selected;Invalidate();return true;}if(key==Keys.Enter||key==Keys.Space){ActivateSelection();return true;}if(key==Keys.Escape){Cancel();return true;}return base.ProcessDialogKey(keyData);}
+ protected override bool ProcessDialogKey(Keys keyData){Keys key=keyData&Keys.KeyCode;if(key==Keys.Tab||key==Keys.Left||key==Keys.Right){selected=1-selected;Invalidate();return true;}if(key==Keys.Enter||key==Keys.Space){ActivateSelection();return true;}return base.ProcessDialogKey(keyData);}
  protected override void Dispose(bool disposing){if(disposing){skin.Dispose();backdrop.Dispose();}base.Dispose(disposing);}
 }

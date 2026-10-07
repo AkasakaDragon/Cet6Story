@@ -17,15 +17,16 @@ public partial class Game {
   scene.Resize+=(s,e)=>layout();layout();scene.Focus();
  }
  void ShowTavernMainQuest(){
-  using(var dialog=new GuildWordDialog{Text="主线任务",Width=550,Height=410}){
+  using(var dialog=new GuildWordDialog{Text="主线任务",Width=760,Height=Math.Min(740,Screen.FromControl(this).WorkingArea.Height-32)}){
    dialog.Location=new Point(Left+(Width-dialog.Width)/2,Top+(Height-dialog.Height)/2);
-   var panel=new FlowLayoutPanel{Dock=DockStyle.Fill,FlowDirection=FlowDirection.TopDown,WrapContents=false,Padding=new Padding(16),BackColor=dialog.BackColor};dialog.Controls.Add(panel);
+   var panel=new FlowLayoutPanel{Dock=DockStyle.Fill,AutoScroll=true,FlowDirection=FlowDirection.TopDown,WrapContents=false,Padding=new Padding(16),BackColor=dialog.BackColor};dialog.Controls.Add(panel);
    panel.Controls.Add(Lab("序幕：第一盏灯",18,GuildChrome.Ivory));
    Action next=null;
    panel.Controls.Add(Btn(save.completed.Contains(TavernStory.Id)?"回顾序幕":"继续序幕",()=>{next=EnterTavern;dialog.Close();},true));
    panel.Controls.Add(Btn("从头重看序幕",()=>{next=()=>{current=chapters.Find(TavernStory.Is);ResetSection();save.tavernBattle=null;save.storyFlags.Remove(TavernStory.BattleFlag);save.storyFlags.Remove(TavernStory.OpeningFlag);save.storyFlags.Remove(TavernStory.TransferFlag);save.storyFlags.Remove(TavernStory.EntranceFlag);ShowStory();};dialog.Close();}));
    panel.Controls.Add(Btn("角色技能 · 配置五个携带技能",()=>ShowHeroSkillBook(true)));
-   var first=Btn("第一章第一节 · 老板的第一天",()=>{next=EnterChapterOne;dialog.Close();},true);first.Enabled=save.completed.Contains(TavernStory.Id);panel.Controls.Add(first);panel.Controls.Add(Lab(first.Enabled?"第二节 · 集市：不愿透露姓名的少女（后续开放）":"完成序幕后开放第一章",10,GuildChrome.Muted));
+   var first=Btn("第一章第一节 · 老板的第一天",()=>{next=EnterChapterOne;dialog.Close();},true);first.Enabled=save.completed.Contains(TavernStory.Id);panel.Controls.Add(first);
+   for(int i=1;i<WaystationChapterOne.Ids.Length;i++){string id=WaystationChapterOne.Ids[i];var chapter=chapters.Find(c=>c.id==id);var entry=Btn("第一章第"+new[]{"一","二","三","四","五","六"}[i]+"节 · "+WaystationChapterOne.Names[i],()=>{next=()=>EnterWaystationSection(id);dialog.Close();},true);entry.Width=650;entry.Enabled=chapter!=null&&SectionRules.Unlocked(chapter,chapters,save);panel.Controls.Add(entry);}panel.Controls.Add(Lab("每节四道分段听力题 · 完成后依次开放下一节",10,GuildChrome.Muted));
    dialog.ShowDialog(this);if(next!=null)NavigateMenu(next,"主线任务",false,true);
   }
  }
