@@ -81,7 +81,7 @@ public partial class Game {
   });
  }
  void QueueRepairReveal(){
-  if(!TavernStory.Is(current)||index<25)return;
+  if(!WaystationChapterOne.Is(current)&&(!TavernStory.Is(current)||index<25))return;
   var destination=stage;int line=index;
   BeginInvoke((Action)(()=>{if(page!="story"||stage!=destination||destination.IsDisposed||index!=line)return;
    foreach(var old in content.Controls.OfType<WhiteSceneReveal>().ToList())old.Dispose();

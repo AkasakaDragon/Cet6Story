@@ -7,11 +7,11 @@ public static class SectionRules {
  public const int AnswerSeconds=30;
  public static int Stars(int correct,int total,bool timely){return total>0&&correct==total?(timely?3:2):1;}
  public static bool Unlocked(Chapter chapter,IList<Chapter> chapters,Save save){
-  if(TavernStory.Is(chapter))return true;
+  if(TavernStory.Is(chapter))return true;if(WaystationChapterOne.Is(chapter))return save.completed.Contains(TavernStory.Id);
   if(!chapter.inlineQuestions)return Engine.Level(save.xp)>=Math.Max(1,chapter.unlockLevel);
   StoryRoutes.Normalize(save);
   if(chapter.id=="neon-01-A")return save.storyFlags.Contains("clinic-discovered")&&save.sectionStars.ContainsKey("neon-01-01")&&save.sectionStars["neon-01-01"]>=2;
-  var list=chapters.Where(c=>c.inlineQuestions&&!TavernStory.Is(c)&&!StoryRoutes.Hidden(c.id)).ToList();int i=list.IndexOf(chapter);
+  var list=chapters.Where(c=>c.inlineQuestions&&!WaystationChapterOne.Dialogue(c)&&!StoryRoutes.Hidden(c.id)).ToList();int i=list.IndexOf(chapter);
   return i<=0||(save.sectionStars.ContainsKey(list[i-1].id)&&save.sectionStars[list[i-1].id]>=2);
 
  }
@@ -34,7 +34,7 @@ public partial class Game {
  int SegmentFirst(QuizQuestion q){var prev=current.questions.Where(x=>x.afterLine<q.afterLine).OrderByDescending(x=>x.afterLine).FirstOrDefault();return prev==null?0:prev.afterLine+1;}
  bool SegmentHeard(QuizQuestion q){return Enumerable.Range(SegmentFirst(q),q.afterLine-SegmentFirst(q)+1).All(i=>save.heardLines.Contains(HeardKey(i)));}
  bool SubtitleAllowed(){return true;}
- bool ChineseAllowed(){return TavernStory.Is(current)||!current.inlineQuestions||Attempt().review;}
+ bool ChineseAllowed(){return WaystationChapterOne.Dialogue(current)||!current.inlineQuestions||Attempt().review;}
  bool LineHeard(){return !current.inlineQuestions||Attempt().review||save.heardLines.Contains(HeardKey(index));}
  // Save each completed sentence during continuous playback, rather than waiting
  // for the entire question segment to finish. Unfinished sentences stay locked.

@@ -1,0 +1,390 @@
+{
+  "id": "tavern-01-01",
+  "title": "第一章：今天开始营业 · 第一节：老板的第一天",
+  "description": "清晨醒来 · 检查厨房 · 商定菜单与采购 · 启程进城",
+  "source": "原创奇幻剧情及两道分段听力理解题，非考试原文。",
+  "audio": "audio/tavern/chapter-one/morning.wav",
+  "audioLabel": "离线英文角色配音 · Brian / Michelle / Christopher",
+  "background": "art/tavern/waystation-repair-morning.png",
+  "unlockLevel": 1,
+  "sortOrder": 1010,
+  "pixelArt": true,
+  "inlineQuestions": true,
+  "timeLimitSeconds": 900,
+  "actors": [
+    {
+      "id": "luchuan",
+      "gender": "male",
+      "side": "left",
+      "image": "art/tavern/luchuan-portrait.png"
+    },
+    {
+      "id": "aelia",
+      "gender": "female",
+      "side": "right",
+      "image": "art/tavern/aelia-portrait.png"
+    }
+  ],
+  "decisions": [],
+  "lines": [
+    {
+      "speaker": "旁白",
+      "voiceRole": "旁白",
+      "actor": "",
+      "text": "Morning light falls through the repaired window. The roof is dry, and cups clink downstairs.",
+      "translation": "晨光穿过新补好的窗沿。屋顶不再漏雨，楼下传来杯碟轻碰的声音。",
+      "scene": "art/tavern/waystation-repair-morning.png",
+      "sceneSingle": true,
+      "start": 0.0,
+      "end": 7.056
+    },
+    {
+      "speaker": "艾莉娅",
+      "voiceRole": "艾莉娅",
+      "actor": "aelia",
+      "text": "Lu Chuan, are you awake? Your first day as an innkeeper has begun.",
+      "translation": "陆川，醒了吗？你的第一天老板生活开始了。",
+      "scene": "art/tavern/waystation-repair-morning.png",
+      "sceneSingle": true,
+      "start": 7.306,
+      "end": 12.97
+    },
+    {
+      "speaker": "陆川",
+      "voiceRole": "陆川",
+      "actor": "luchuan",
+      "text": "I am awake. My shoulders still think we are carrying boards.",
+      "translation": "醒了。只是我的肩膀还以为我们在搬木板。",
+      "scene": "art/tavern/waystation-repair-morning.png",
+      "sceneSingle": true,
+      "start": 13.22,
+      "end": 17.372
+    },
+    {
+      "speaker": "艾莉娅",
+      "voiceRole": "艾莉娅",
+      "actor": "aelia",
+      "text": "I checked the beams and stairs. They are secure. Last night was worth the effort.",
+      "translation": "我检查过横梁和楼梯，都很稳。昨晚没有白忙。",
+      "scene": "art/tavern/waystation-repair-morning.png",
+      "sceneSingle": true,
+      "start": 17.622,
+      "end": 24.654
+    },
+    {
+      "speaker": "陆川",
+      "voiceRole": "陆川",
+      "actor": "luchuan",
+      "text": "Good news. The bad news is that the breakfast I promised is still missing.",
+      "translation": "好消息。坏消息是，我答应的早餐好像还没着落。",
+      "scene": "art/tavern/waystation-repair-morning.png",
+      "sceneSingle": true,
+      "start": 24.904,
+      "end": 29.8
+    },
+    {
+      "speaker": "艾莉娅",
+      "voiceRole": "艾莉娅",
+      "actor": "aelia",
+      "text": "We have water, a pot, and a little bread. Opening for guests will take more than that.",
+      "translation": "有水，有锅，也有一点面包。不过，要营业还差得远。",
+      "scene": "art/tavern/waystation-repair-morning.png",
+      "sceneSingle": true,
+      "start": 30.05,
+      "end": 36.458
+    },
+    {
+      "speaker": "陆川",
+      "voiceRole": "陆川",
+      "actor": "luchuan",
+      "text": "So a place to sleep and a tavern ready for business are two different things.",
+      "translation": "原来一间能住的屋子，和一间能开门的酒馆，是两回事。",
+      "scene": "art/tavern/waystation-repair-morning.png",
+      "sceneSingle": true,
+      "start": 36.708,
+      "end": 41.124
+    },
+    {
+      "speaker": "艾莉娅",
+      "voiceRole": "艾莉娅",
+      "actor": "aelia",
+      "text": "Ingredients, a menu, and supplies for our guests. Let us make a list first.",
+      "translation": "食材、菜单，还有招待客人用的东西。我们先列清单。",
+      "scene": "art/tavern/waystation-repair-morning.png",
+      "sceneSingle": true,
+      "start": 41.374,
+      "end": 47.854
+    },
+    {
+      "speaker": "陆川",
+      "voiceRole": "陆川",
+      "actor": "luchuan",
+      "text": "The roof is fixed. Today we can finally think about what goes into the pot.",
+      "translation": "屋顶已经修好，今天总算可以考虑锅里放什么了。",
+      "scene": "art/tavern/waystation-repair-morning.png",
+      "sceneSingle": true,
+      "start": 48.104,
+      "end": 53.312
+    },
+    {
+      "speaker": "艾莉娅",
+      "voiceRole": "艾莉娅",
+      "actor": "aelia",
+      "text": "Have breakfast first. A hungry innkeeper will not take good care of anyone.",
+      "translation": "先把早餐吃了。老板饿着肚子，可招待不好别人。",
+      "scene": "art/tavern/waystation-repair-morning.png",
+      "sceneSingle": true,
+      "start": 53.562,
+      "end": 59.274
+    },
+    {
+      "speaker": "旁白",
+      "voiceRole": "旁白",
+      "actor": "",
+      "text": "They enter the kitchen. The hearth is clean, but most of the pantry shelves are empty.",
+      "translation": "两人来到厨房。炉灶已经清理干净，储藏架上却空了大半。",
+      "scene": "art/tavern/chapter-one-kitchen.png",
+      "sceneSingle": true,
+      "start": 59.524,
+      "end": 65.908
+    },
+    {
+      "speaker": "陆川",
+      "voiceRole": "陆川",
+      "actor": "luchuan",
+      "text": "This cupboard is honest. It tells us exactly what we are missing.",
+      "translation": "这个柜子倒是很诚实，一眼就知道我们缺什么。",
+      "scene": "art/tavern/chapter-one-kitchen.png",
+      "sceneSingle": true,
+      "start": 66.158,
+      "end": 70.598
+    },
+    {
+      "speaker": "艾莉娅",
+      "voiceRole": "艾莉娅",
+      "actor": "aelia",
+      "text": "Buy flour, eggs, and vegetables first. Then get salt and lamp oil.",
+      "translation": "先买面粉、鸡蛋和蔬菜，再补盐和灯油。",
+      "scene": "art/tavern/chapter-one-kitchen.png",
+      "sceneSingle": true,
+      "start": 70.848,
+      "end": 77.28
+    },
+    {
+      "speaker": "陆川",
+      "voiceRole": "陆川",
+      "actor": "luchuan",
+      "text": "Should we keep the menu simple? Hot soup, bread, and a plate of eggs.",
+      "translation": "菜单先做简单一点？热汤、面包，再加一份煎蛋。",
+      "scene": "art/tavern/chapter-one-kitchen.png",
+      "sceneSingle": true,
+      "start": 77.53,
+      "end": 82.162
+    },
+    {
+      "speaker": "艾莉娅",
+      "voiceRole": "艾莉娅",
+      "actor": "aelia",
+      "text": "That suits travelers. What we can serve matters more than a beautiful menu.",
+      "translation": "适合赶路的人。做得到的，比写得漂亮的更重要。",
+      "scene": "art/tavern/chapter-one-kitchen.png",
+      "sceneSingle": true,
+      "start": 82.412,
+      "end": 88.076
+    },
+    {
+      "speaker": "陆川",
+      "voiceRole": "陆川",
+      "actor": "luchuan",
+      "text": "Then no list of ten special dishes. On the first day, we will do three things well.",
+      "translation": "那就不写十种招牌菜了。第一天，先把三样做好。",
+      "scene": "art/tavern/chapter-one-kitchen.png",
+      "sceneSingle": true,
+      "start": 88.326,
+      "end": 93.822
+    },
+    {
+      "speaker": "艾莉娅",
+      "voiceRole": "艾莉娅",
+      "actor": "aelia",
+      "text": "I will arrange the tables and check the cups. You can buy supplies at the town market.",
+      "translation": "我留下整理桌椅，检查杯碟。你去镇上的集市采购。",
+      "scene": "art/tavern/chapter-one-kitchen.png",
+      "sceneSingle": true,
+      "start": 94.072,
+      "end": 100.12
+    },
+    {
+      "speaker": "陆川",
+      "voiceRole": "陆川",
+      "actor": "luchuan",
+      "text": "On my own? I have not even learned all the road signs yet.",
+      "translation": "一个人去？我可能连路牌都还没认全。",
+      "scene": "art/tavern/chapter-one-kitchen.png",
+      "sceneSingle": true,
+      "start": 100.37,
+      "end": 104.354
+    },
+    {
+      "speaker": "艾莉娅",
+      "voiceRole": "艾莉娅",
+      "actor": "aelia",
+      "text": "Follow the main road outside. Cross the stone bridge to reach the town gate. Avoid the mine road to the north.",
+      "translation": "沿着门外的大路走，过石桥就是镇门。别走向北边的矿道。",
+      "scene": "art/tavern/chapter-one-kitchen.png",
+      "sceneSingle": true,
+      "start": 104.604,
+      "end": 113.292
+    },
+    {
+      "speaker": "陆川",
+      "voiceRole": "陆川",
+      "actor": "luchuan",
+      "text": "Main road, stone bridge, town gate. Got it. The mine is not on today's shopping list.",
+      "translation": "大路、石桥、镇门。我记住了。矿道今天不在清单里。",
+      "scene": "art/tavern/chapter-one-kitchen.png",
+      "sceneSingle": true,
+      "start": 113.542,
+      "end": 120.718
+    },
+    {
+      "speaker": "艾莉娅",
+      "voiceRole": "艾莉娅",
+      "actor": "aelia",
+      "text": "Keep the list and money safe. Buy the essentials first, before a pretty sign distracts you.",
+      "translation": "把清单和钱收好。先买必需品，别被漂亮的招牌吸引走。",
+      "scene": "art/tavern/chapter-one-kitchen.png",
+      "sceneSingle": true,
+      "start": 120.968,
+      "end": 127.76
+    },
+    {
+      "speaker": "陆川",
+      "voiceRole": "陆川",
+      "actor": "luchuan",
+      "text": "Do not worry. Reading instructions is my strength. Being an innkeeper is the new part.",
+      "translation": "放心。我擅长看说明，只是还没学会当老板。",
+      "scene": "art/tavern/chapter-one-kitchen.png",
+      "sceneSingle": true,
+      "start": 128.01,
+      "end": 134.37
+    },
+    {
+      "speaker": "旁白",
+      "voiceRole": "旁白",
+      "actor": "",
+      "text": "Lu Chuan slips the shopping list into his satchel. The stone road is dry, and the breeze smells of grass.",
+      "translation": "陆川把采购清单放进挎包。门外的石路已经晒干，风里有青草的气息。",
+      "scene": "art/tavern/chapter-one-road.png",
+      "sceneSingle": true,
+      "start": 134.62,
+      "end": 142.684
+    },
+    {
+      "speaker": "艾莉娅",
+      "voiceRole": "艾莉娅",
+      "actor": "aelia",
+      "text": "If you meet travelers on your way back, tell them we will open soon.",
+      "translation": "回来时，要是看见赶路的人，可以告诉他们这里快开门了。",
+      "scene": "art/tavern/chapter-one-road.png",
+      "sceneSingle": true,
+      "start": 142.934,
+      "end": 147.422
+    },
+    {
+      "speaker": "陆川",
+      "voiceRole": "陆川",
+      "actor": "luchuan",
+      "text": "Last night we only wanted a dry roof. Today we are preparing to welcome guests.",
+      "translation": "昨晚我们只是想找个不漏雨的地方，今天就要招待客人了。",
+      "scene": "art/tavern/chapter-one-road.png",
+      "sceneSingle": true,
+      "start": 147.672,
+      "end": 153.24
+    },
+    {
+      "speaker": "艾莉娅",
+      "voiceRole": "艾莉娅",
+      "actor": "aelia",
+      "text": "We do not have to do everything at once. Start with a seat and hot soup for the first guest.",
+      "translation": "不用一口气做好所有事。先让第一位客人坐下，喝上一碗热汤。",
+      "scene": "art/tavern/chapter-one-road.png",
+      "sceneSingle": true,
+      "start": 153.49,
+      "end": 160.018
+    },
+    {
+      "speaker": "陆川",
+      "voiceRole": "陆川",
+      "actor": "luchuan",
+      "text": "Then I will bring back the ingredients for that soup. The waystation is in your hands.",
+      "translation": "那我去把热汤的材料买回来。驿站就先交给你了。",
+      "scene": "art/tavern/chapter-one-road.png",
+      "sceneSingle": true,
+      "start": 160.268,
+      "end": 165.812
+    },
+    {
+      "speaker": "艾莉娅",
+      "voiceRole": "艾莉娅",
+      "actor": "aelia",
+      "text": "I will be here when you return. Take care on the road.",
+      "translation": "嗯，我在这里等你。路上小心。",
+      "scene": "art/tavern/chapter-one-road.png",
+      "sceneSingle": true,
+      "start": 166.062,
+      "end": 170.598
+    },
+    {
+      "speaker": "旁白",
+      "voiceRole": "旁白",
+      "actor": "",
+      "text": "Aelia returns to the hall. Lu Chuan follows the road toward town. The tavern's first menu is still only a sheet of paper in his bag.",
+      "translation": "艾莉娅回到大厅，陆川沿着石路走向镇门。酒馆的第一份菜单，还只是挎包里的一张纸。",
+      "scene": "art/tavern/chapter-one-road.png",
+      "sceneSingle": true,
+      "start": 170.848,
+      "end": 181.12
+    },
+    {
+      "speaker": "陆川",
+      "voiceRole": "陆川",
+      "actor": "luchuan",
+      "text": "The first step to saving the world... buy some eggs.",
+      "translation": "拯救世界的第一步……先去买鸡蛋。",
+      "scene": "art/tavern/chapter-one-road.png",
+      "sceneSingle": true,
+      "start": 181.37,
+      "end": 185.018
+    }
+  ],
+  "questions": [
+    {
+      "afterLine": 9,
+      "skill": "营业准备与因果关系",
+      "prompt": "Why is the waystation not ready to welcome guests yet?",
+      "options": [
+        "The roof is still leaking.",
+        "They need ingredients, a menu, and supplies.",
+        "Aelia has decided to leave.",
+        "The town gate is closed."
+      ],
+      "answer": 1,
+      "explanation": "屋顶与楼梯已经修好，但食材、菜单和接待用品仍需准备。"
+    },
+    {
+      "afterLine": 29,
+      "skill": "分工与路线理解",
+      "prompt": "What will Lu Chuan do while Aelia prepares the hall?",
+      "options": [
+        "Explore the mine to the north.",
+        "Repair the roof again.",
+        "Follow the main road across the stone bridge to buy supplies.",
+        "Wait upstairs for the first guest."
+      ],
+      "answer": 2,
+      "explanation": "艾莉娅留下整理桌椅与杯碟；陆川沿大路过石桥，到镇上集市采购，暂不探索北边矿道。"
+    }
+  ],
+  "ending": "菜单与采购分工已确定。陆川启程前往边境小镇，艾莉娅留在驿站准备大厅。第一章第二节“集市：不愿透露姓名的少女”后续开放。"
+}

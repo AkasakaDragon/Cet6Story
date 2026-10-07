@@ -5,9 +5,9 @@ using System.Linq;
 
 public partial class Game {
  void UpdateWaystationPortraits(){
-  if(!TavernStory.Is(current)||stage==null)return;
+  if(!WaystationChapterOne.Dialogue(current)||stage==null)return;
   bool changed=!stage.WaystationPortraits;stage.WaystationPortraits=true;
-  foreach(var a in stage.Actors){bool visible=index>=12&&(a.Id!="aelia"||index>=17),mirror=a.Id=="aelia";float scale=a.Id=="luchuan"?1.1f:1f;
+  foreach(var a in stage.Actors){bool visible=WaystationChapterOne.Is(current)?(a.Id!="aelia"||index<28):index>=12&&(a.Id!="aelia"||index>=17),mirror=a.Id=="aelia";float scale=a.Id=="luchuan"?1.1f:1f;
    if(a.Visible!=visible||a.Mirror!=mirror||a.Scale!=scale)changed=true;
    a.Visible=visible;a.Mirror=mirror;a.Scale=scale;
   }

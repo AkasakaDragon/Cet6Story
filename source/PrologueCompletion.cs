@@ -1,6 +1,7 @@
 ﻿using System;using System.Drawing;using System.Drawing.Drawing2D;using System.Linq;using System.Windows.Forms;
 public class PrologueCompletion:Control {
  public Image BackgroundArt;public Chapter Chapter;public Save Save;public int Correct,Stars;public bool FirstCompletion;
+ public string CompletionTitle="序幕完成 · 第一盏灯",CompletionText="驿站基础修复完成。陆川与艾莉娅一起迎来天亮，\n经营基地已解锁。第一章第一节已开放。";
  public Action ReturnHome,Replay,Chapters;
  readonly VNButton home,replay,chapters;readonly Color gold=Color.FromArgb(244,205,99),ivory=Color.FromArgb(247,242,222);
  public PrologueCompletion(){DoubleBuffered=true;ResizeRedraw=true;home=Button("← 返回主界面",()=>ReturnHome());replay=Button("整节连续重听",()=>Replay());chapters=Button("主线章节",()=>Chapters());}
@@ -12,8 +13,8 @@ public class PrologueCompletion:Control {
   float k=Math.Min(Width/1672f,Height/941f);g.TranslateTransform((Width-1672*k)/2,(Height-941*k)/2);g.ScaleTransform(k,k);g.SmoothingMode=SmoothingMode.AntiAlias;
   using(var backdrop=new LinearGradientBrush(new Rectangle(350,106,972,191),Color.Transparent,Color.Transparent,0f)){backdrop.InterpolationColors=new ColorBlend{Colors=new[]{Color.Transparent,Color.FromArgb(185,5,26,30),Color.FromArgb(185,5,26,30),Color.Transparent},Positions=new[]{0f,.15f,.85f,1f}};g.FillRectangle(backdrop,350,106,972,191);}
   using(var pen=new Pen(gold,2))g.DrawLine(pen,530,205,1142,205);
-  DrawText(g,"序幕完成 · 第一盏灯",new RectangleF(370,113,932,90),64,gold,true,true);
-  DrawText(g,"驿站基础修复完成。陆川与艾莉娅一起迎来天亮，\n经营基地已解锁。第一章“今天开始营业”后续开放。",new RectangleF(470,224,732,65),21,ivory,false,true);
+  DrawText(g,CompletionTitle,new RectangleF(370,113,932,90),64,gold,true,true);
+  DrawText(g,CompletionText,new RectangleF(470,224,732,65),21,ivory,false,true);
   Panel(g,new Rectangle(428,303,802,73));DrawText(g,"听力  "+Correct+" / "+Chapter.questions.Count,new RectangleF(464,320,220,40),27,gold,true);
   DrawText(g,new string('★',Stars)+new string('☆',3-Stars),new RectangleF(742,316,170,48),32,gold,true);
   DrawText(g,FirstCompletion?"首次完成  +60 XP":"完成奖励已领取",new RectangleF(935,320,270,40),25,gold,true);
