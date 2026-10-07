@@ -6,26 +6,23 @@ using System.Linq;
 using System.Windows.Forms;
 
 public sealed class MenuLoadingScreen:Control {
- readonly Timer timer=new Timer{Interval=25};readonly Stopwatch time=new Stopwatch();bool prepared,finished;double readyAt;
+ readonly Timer timer=new Timer{Interval=25};readonly Stopwatch time=new Stopwatch();bool prepared,finished;double readyAt;int emblem;static readonly Random emblemRandom=new Random();static int lastEmblem=-1;
  public Action Prepare,Completed;public Action<Exception> Failed;public string Destination,Word,Meaning;
- public MenuLoadingScreen(){Dock=DockStyle.Fill;BackColor=Color.FromArgb(25,53,55);DoubleBuffered=true;SetStyle(ControlStyles.UserPaint|ControlStyles.AllPaintingInWmPaint|ControlStyles.OptimizedDoubleBuffer|ControlStyles.Opaque,true);TabStop=true;AccessibleName="正在加载";timer.Tick+=(s,e)=>TickFrame();}
- public void Start(){time.Restart();timer.Start();Focus();}
+ public MenuLoadingScreen(){Dock=DockStyle.Fill;BackColor=Color.Black;DoubleBuffered=true;SetStyle(ControlStyles.UserPaint|ControlStyles.AllPaintingInWmPaint|ControlStyles.OptimizedDoubleBuffer|ControlStyles.Opaque,true);TabStop=true;AccessibleName="正在加载";timer.Tick+=(s,e)=>TickFrame();}
+ public void Start(){lock(emblemRandom){emblem=emblemRandom.Next(lastEmblem<0?5:4);if(lastEmblem>=0&&emblem>=lastEmblem)emblem++;lastEmblem=emblem;}time.Restart();timer.Start();Focus();}
  void TickFrame(){if(finished)return;if(!prepared&&time.Elapsed.TotalSeconds>=.25){timer.Stop();try{if(Prepare!=null)Prepare();}catch(Exception ex){finished=true;if(Failed!=null)Failed(ex);return;}if(IsDisposed)return;prepared=true;readyAt=time.Elapsed.TotalSeconds;timer.Start();}
   Invalidate();if(prepared&&time.Elapsed.TotalSeconds>=Math.Max(1.35,readyAt+.55)){finished=true;timer.Stop();if(Completed!=null)Completed();}}
- protected override void OnPaint(PaintEventArgs e){base.OnPaint(e);double age=time.Elapsed.TotalSeconds;double progress=prepared?.88+.12*Math.Min(1,(age-readyAt)/.5):Math.Min(.28,age*.8);DrawFrame(e.Graphics,ClientSize,age,progress,Destination,Word,Meaning);}
- public static void DrawFrame(Graphics g,Size size,double age,double progress,string destination,string word,string meaning){
-  if(loadingArt==null){string path=System.IO.Path.Combine(AppDomain.CurrentDomain.BaseDirectory,"assets","menu","loading-town.png");if(System.IO.File.Exists(path))loadingArt=Image.FromFile(path);}
-  g.Clear(Color.FromArgb(25,53,55));g.InterpolationMode=InterpolationMode.NearestNeighbor;g.PixelOffsetMode=PixelOffsetMode.Half;
-  if(loadingArt!=null)g.DrawImage(loadingArt,new Rectangle(Point.Empty,size));
-  float scale=Math.Max(.5f,Math.Min(1.4f,size.Width/1672f));int width=Math.Min(size.Width-40,(int)(440*scale)),height=(int)(76*scale),cx=size.Width/2,top=(int)(size.Height*.54);
-  var plate=new Rectangle(cx-width/2,top,width,height);GuildChrome.Draw(g,plate);
-  using(var font=GameTheme.Body(17*scale,FontStyle.Bold))using(var ink=new SolidBrush(GuildChrome.Ivory))using(var format=new StringFormat{Alignment=StringAlignment.Center,LineAlignment=StringAlignment.Center})GameTheme.DrawPixelString(g,"正在加载 · "+destination,font,ink,plate,format);
-  var bar=new Rectangle(cx-width/2,plate.Bottom+(int)(24*scale),width,Math.Max(14,(int)(28*scale)));GuildChrome.Draw(g,bar);
-  using(var gold=new SolidBrush(Color.FromArgb(242,194,91)))g.FillRectangle(gold,bar.Left+10,bar.Top+7,Math.Max(0,(int)((bar.Width-20)*Math.Max(0,Math.Min(1,progress)))),Math.Max(1,bar.Height-14));
-  using(var font=GameTheme.Body(13*scale))GameTheme.DrawText(g,((int)(progress*100))+"%",font,new Rectangle(bar.Left,bar.Bottom+6,bar.Width,Math.Max(24,(int)(32*scale))),GuildChrome.Ivory,TextFormatFlags.HorizontalCenter|TextFormatFlags.VerticalCenter);
-  int margin=Math.Max(22,size.Width/28);using(var font=GameTheme.Body(14*scale))GameTheme.DrawText(g,(word??"resonance")+"  ·  "+(meaning??"n. 共鸣；共振"),font,new Rectangle(margin,size.Height-margin-55,size.Width-margin*2,55),GuildChrome.Ivory,TextFormatFlags.WordBreak|TextFormatFlags.VerticalCenter);
+ protected override void OnPaint(PaintEventArgs e){base.OnPaint(e);double age=time.Elapsed.TotalSeconds;double progress=prepared?.88+.12*Math.Min(1,(age-readyAt)/.5):Math.Min(.28,age*.8);DrawFrame(e.Graphics,ClientSize,age,progress,Destination,Word,Meaning,emblem);}
+ public static void DrawFrame(Graphics g,Size size,double age,double progress,string destination,string word,string meaning,int emblem=0){
+  g.Clear(Color.Black);g.InterpolationMode=InterpolationMode.NearestNeighbor;g.PixelOffsetMode=PixelOffsetMode.Half;
+  EnsureEmblems();float scale=Math.Max(.5f,Math.Min(1.3f,size.Width/1280f));int cx=size.Width/2,cy=size.Height/2,side=(int)(125*scale);var art=emblems[Math.Max(0,Math.Min(4,emblem))];if(art!=null){float k=side/(float)Math.Max(art.Width,art.Height);int w=(int)(art.Width*k),h=(int)(art.Height*k);g.DrawImage(art,new Rectangle(cx-w/2,cy-h/2-25,w,h));}
+  string text=(destination??"").Contains("战斗")?"正在进入战斗":"正在加载";
+  using(var font=GameTheme.Body(12*scale))GameTheme.DrawText(g,text,font,new Rectangle(cx-200,cy+side/2+5,400,35),Color.FromArgb(216,207,184),TextFormatFlags.HorizontalCenter|TextFormatFlags.VerticalCenter);
+  int dot=Math.Max(4,(int)(6*scale)),gap=dot*3,lit=(int)(age*3)%3;for(int i=0;i<3;i++)using(var ink=new SolidBrush(i==lit?GuildChrome.Gold:Color.FromArgb(67,55,33)))g.FillRectangle(ink,cx-gap+i*gap-dot/2,cy+side/2+52,dot,dot);
  }
- static Image loadingArt;
+ static readonly Bitmap[] emblems=new Bitmap[5];static bool emblemsLoaded;
+ static void EnsureEmblems(){if(emblemsLoaded)return;emblemsLoaded=true;string dir=System.IO.Path.Combine(AppDomain.CurrentDomain.BaseDirectory,"assets","menu","loading");string sheet=System.IO.Path.Combine(dir,"emblems-v1.png"),shield=System.IO.Path.Combine(dir,"shield-preview-v1.png");if(System.IO.File.Exists(sheet))using(var art=new Bitmap(sheet)){int w=art.Width/2,h=art.Height/2;for(int i=0;i<4;i++)emblems[i+1]=TrimEmblem(art,new Rectangle(i%2*w,i/2*h,w,h));}if(System.IO.File.Exists(shield))using(var art=new Bitmap(shield))emblems[0]=TrimEmblem(art,new Rectangle((int)(art.Width*.37),(int)(art.Height*.29),(int)(art.Width*.26),(int)(art.Height*.27)));}
+ static Bitmap TrimEmblem(Bitmap image,Rectangle cell){int left=cell.Right,top=cell.Bottom,right=cell.Left,bottom=cell.Top;for(int y=cell.Top;y<cell.Bottom;y++)for(int x=cell.Left;x<cell.Right;x++){var c=image.GetPixel(x,y);if(c.R<30&&c.G<30&&c.B<30)continue;left=Math.Min(left,x);top=Math.Min(top,y);right=Math.Max(right,x);bottom=Math.Max(bottom,y);}if(right<left)return null;return image.Clone(Rectangle.FromLTRB(left,top,right+1,bottom+1),System.Drawing.Imaging.PixelFormat.Format32bppArgb);}
  protected override void Dispose(bool disposing){if(disposing)timer.Dispose();base.Dispose(disposing);}
 }
 

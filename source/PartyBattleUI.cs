@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.IO;
 using System.Linq;
 using System.Drawing;
@@ -19,7 +19,7 @@ public partial class Game {
   if(r.partyBattle==null)r.partyBattle=PartyCombat.Create(r,save);var b=r.partyBattle;PartyCombat.Sync(r);
   b.selectedHero=Math.Max(0,Math.Min(b.heroes.Count-1,b.selectedHero));var hero=b.heroes[b.selectedHero];var skill=HeroSkills.Get(hero.id,b.selectedSkill);if(skill==null||!hero.skills.Contains(skill.Id)){b.selectedSkill=hero.skills[0];skill=HeroSkills.Get(hero.id,b.selectedSkill);}
   if(b.phase=="attack-question")skill=HeroSkills.Get(b.pendingHero,b.pendingSkill);
-  var arena=reuse?partyCanvas:new PartyBattleCanvas{Dock=DockStyle.Fill,MaleIdle=maleIdle,FemaleIdle=femaleIdle,Battle=b,Scene=r.id==ToxicWoodland.Id?ToxicBattleBackground():TowerBackground(r),Male=BattleCharacter("hero-male"),Female=BattleCharacter("hero-female"),Enemy=TowerEnemy(r),Skill=skill,Banner=r.id==ToxicWoodland.Id?"剧毒林地 · 第"+save.toxicWoodland.steps+" / 10 节点":tavern?"破败驿站 · 初遇感染兽":"词域远征 · 角色技能战斗"};arena.ArtRoot=root;partyCanvas=arena;if(!reuse)content.Controls.Add(arena);arena.Skill=skill;
+  var arena=reuse?partyCanvas:new PartyBattleCanvas{Dock=DockStyle.Fill,MaleIdle=maleIdle,FemaleIdle=femaleIdle,Battle=b,Scene=r.id==ToxicWoodland.Id?ToxicBattleBackground():TowerBackground(r),Male=BattleCharacter("hero-male"),Female=BattleCharacter("hero-female"),Enemy=TowerEnemy(r),Skill=skill,Banner=r.id==ToxicWoodland.Id?"剧毒林地 · 第"+save.toxicWoodland.steps+" / 10 节点":tavern?"破败驿站 · 初遇感染兽":"词域远征 · 角色技能战斗"};arena.ArtRoot=root;arena.MaleActions=CachedImage(Path.Combine(root,"assets","characters","actions","luchuan-actions-v2.png"));arena.FemaleActions=CachedImage(Path.Combine(root,"assets","characters","actions","aelia-actions.png"));partyCanvas=arena;if(!reuse)content.Controls.Add(arena);arena.Skill=skill;
   arena.HeroSelected=i=>{if(b.phase!="heroes"||b.heroes[i].id!=b.active)return;b.selectedHero=i;b.selectedSkill=null;b.target=null;RefreshPartySelection(r);};arena.TargetSelected=id=>{if(b.phase!="heroes")return;b.target=id;RefreshPartySelection(r);};
   var menu=PartyButton("菜单",()=>ShowPartyBattleMenu(r),85,38);menu.Location=new Point(15,14);arena.Controls.Add(menu);
   var skills=new List<HeroSkillButton>();for(int i=0;i<5;i++){var s=HeroSkills.Get(hero.id,hero.skills[i]);int cd=hero.cooldowns.ContainsKey(s.Id)?hero.cooldowns[s.Id]:0;int used=hero.used.ContainsKey(s.Id)?hero.used[s.Id]:0;var button=new HeroSkillButton{Art=HeroSkillImage(hero.id,s.Id),Skill=s,Slot=i+1,Remaining=cd,UsesLeft=s.Uses==0?-1:s.Uses-used,Active=s.Id==b.selectedSkill,CanRelease=PartyCombat.CanUse(b,hero,s),Enabled=b.phase=="heroes",AccessibleName=s.Name+" · "+s.Description,Size=new Size(70,78)};button.Click+=(sender,e)=>{b.selectedSkill=button.Skill.Id;b.target=null;RefreshPartySelection(r);};arena.Controls.Add(button);skills.Add(button);}
@@ -73,13 +73,24 @@ public partial class Game {
   int n=r.partyBattle.questions;var entry=distinct[(int)(((long)(r.seed&0x7fffffff)+n*17L)%distinct.Count)];var options=distinct.Where(x=>x.meaning!=entry.meaning).Skip(n%Math.Max(1,distinct.Count-4)).Take(3).Select(x=>x.meaning).ToList();if(options.Count<3)options=distinct.Where(x=>x.meaning!=entry.meaning).Take(3).Select(x=>x.meaning).ToList();int answer=n%4;options.Insert(answer,entry.meaning);r.question=new RogueQuestion{entry=entry,kind=0,options=options,answer=answer};RogueEngine.RecordWordAppearance(save.rogue,entry.word);
  }
  void PreparePartyQuestion(RogueRun r){if(r.partyBattle.phase=="defense-question"||r.partyBattle.phase=="attack-question")NextPartyQuestion(r);}
+ bool resolvingMelee;
  void AnswerPartyQuestion(int selected){
+  var r=partyRun;if(r==null||r.question==null||r.question.answered||partyCanvas!=null&&partyCanvas.IsCasting)return;var b=r.partyBattle;
+  bool hero=b.phase=="attack-question";bool close=hero?PartyBattleCanvas.IsMelee(b.pendingHero,b.pendingSkill):b.phase=="defense-question"&&PartyBattleCanvas.IsMonsterMelee(b.enemySkill);
+  if(partyCanvas==null){FinishPartyQuestion(selected);return;}
+  var canvas=partyCanvas;string actor=hero?b.pendingHero:b.active,target=hero?b.pendingTarget:b.defenseTargets.FirstOrDefault();
+  Action impact=()=>{canvas.DiscardCastOverlays();resolvingMelee=true;try{FinishPartyQuestion(selected);}finally{resolvingMelee=false;}};
+  if(close)canvas.PlayMeleeAttackSequence(actor,target,hero?b.pendingSkill:b.enemySkill,!hero,selected==r.question.answer,impact,null);
+  else{if(hero)canvas.PlayCast(actor,b.pendingSkill,target,selected==r.question.answer,null);else canvas.PlayMonsterCast(actor,b.defenseTargets,null);canvas.SetCastImpact(impact);}
+  foreach(var panel in canvas.Controls.OfType<BattleGlassPanel>().ToList())canvas.HideCastOverlay(panel);
+ }
+ void FinishPartyQuestion(int selected){
   var r=partyRun;if(r==null||r.partyBattle==null||r.question==null||r.question.answered)return;var b=r.partyBattle;if(b.phase!="attack-question"&&b.phase!="defense-question")return;
-  bool correct=selected==r.question.answer;r.question.answered=true;r.answered++;if(correct)r.correct++;else{r.mistakes++;CollectRogue(r.question.entry);}
-  save.rogue.answers++;if(correct)save.rogue.correct++;RogueMemory memory;if(!save.rogue.memory.TryGetValue(r.question.entry.word,out memory)){memory=new RogueMemory();save.rogue.memory[r.question.entry.word]=memory;}memory.last=DateTime.Today.ToString("yyyy-MM-dd");if(correct){memory.correct++;memory.mask|=1;r.wrongWords.Remove(r.question.entry.word);}else{memory.wrong++;if(!r.wrongWords.Contains(r.question.entry.word))r.wrongWords.Add(r.question.entry.word);}TowerEngine.Learn(save.rogue,r,r.question,correct);if(b.phase=="attack-question")PartyCombat.AttackAnswer(b,correct);else PartyCombat.DefenseAnswer(b,correct);PartyCombat.Sync(r);Persist();RenderPartyBattle(r);if(partyCanvas!=null)partyCanvas.ShowImpact(correct?"答对 · 完整效果":"答错 · 查看本次结算");PlayRogueHit(!correct);
+  var beforeHp=b.enemies.ToDictionary(u=>u.id,u=>u.hp);string enemyCaster=b.active;var enemyTargets=b.defenseTargets.ToList();bool heroCast=b.phase=="attack-question";string caster=b.pendingHero,castSkill=b.pendingSkill,castTarget=b.pendingTarget;bool correct=selected==r.question.answer;r.question.answered=true;r.answered++;if(correct)r.correct++;else{r.mistakes++;CollectRogue(r.question.entry);}
+  save.rogue.answers++;if(correct)save.rogue.correct++;RogueMemory memory;if(!save.rogue.memory.TryGetValue(r.question.entry.word,out memory)){memory=new RogueMemory();save.rogue.memory[r.question.entry.word]=memory;}memory.last=DateTime.Today.ToString("yyyy-MM-dd");if(correct){memory.correct++;memory.mask|=1;r.wrongWords.Remove(r.question.entry.word);}else{memory.wrong++;if(!r.wrongWords.Contains(r.question.entry.word))r.wrongWords.Add(r.question.entry.word);}TowerEngine.Learn(save.rogue,r,r.question,correct);if(b.phase=="attack-question")PartyCombat.AttackAnswer(b,correct);else PartyCombat.DefenseAnswer(b,correct);PartyCombat.Sync(r);Persist();RenderPartyBattle(r);if(resolvingMelee&&partyCanvas!=null){partyCanvas.SetMonsterHits(b.enemies.Where(u=>beforeHp.ContainsKey(u.id)&&u.hp<beforeHp[u.id]).Select(u=>u.id));foreach(var panel in partyCanvas.Controls.OfType<BattleGlassPanel>().ToList())partyCanvas.HideCastOverlay(panel);}else if(partyCanvas!=null){var canvas=partyCanvas;var overlays=canvas.Controls.OfType<BattleGlassPanel>().ToList();Action finished=()=>{if(canvas.IsDisposed||!Object.ReferenceEquals(canvas,partyCanvas))return;foreach(var overlay in overlays)if(!overlay.IsDisposed){overlay.Visible=true;overlay.BringToFront();}};if(heroCast){canvas.PlayCast(caster,castSkill,castTarget,correct,finished);canvas.SetMonsterHits(b.enemies.Where(u=>beforeHp.ContainsKey(u.id)&&u.hp<beforeHp[u.id]).Select(u=>u.id));}else canvas.PlayMonsterCast(enemyCaster,enemyTargets,finished);foreach(var overlay in overlays)canvas.HideCastOverlay(overlay);}if(partyCanvas!=null)partyCanvas.ShowImpact(correct?"答对 · 完整效果":"答错 · 查看本次结算");PlayRogueHit(!correct);
  }
  void ContinuePartyBattle(){
-  var r=partyRun;if(r==null)return;var b=r.partyBattle;
+  var r=partyRun;if(r==null||partyCanvas!=null&&partyCanvas.IsCasting)return;var b=r.partyBattle;
   if(b.outcome=="won"||b.outcome=="lost"){
    if(r.id==ToxicWoodland.Id){FinishToxicBattle();return;}
    if(Object.ReferenceEquals(r,save.tavernBattle)){if(b.outcome=="lost"){save.tavernBattle=null;ShowTavernBattle();}else ContinueTavernBattle();return;}
@@ -111,12 +122,11 @@ public partial class Game {
   }
  }
  void ShowHeroSkillBook(bool editable){
-  using(var f=DialogForm("角色技能 · 每人携带五个",940,690)){
-   var tabs=new TabControl{Dock=DockStyle.Fill};f.Controls.Add(tabs);foreach(string id in new[]{"aelia","luchuan"}){var tab=new TabPage(id=="aelia"?"艾莉娅 · 剑盾骑士":"陆川 · 言契术士"){BackColor=PanelColor,ForeColor=TextColor};tabs.TabPages.Add(tab);var list=new FlowLayoutPanel{Dock=DockStyle.Fill,AutoScroll=true,FlowDirection=FlowDirection.TopDown,WrapContents=false,Padding=new Padding(18)};tab.Controls.Add(list);
-    if(save.heroLoadouts==null)save.heroLoadouts=new Dictionary<string,List<string>>();if(!save.heroLoadouts.ContainsKey(id))save.heroLoadouts[id]=HeroSkills.For(id).Take(5).Select(x=>x.Id).ToList();var selected=HeroSkills.Normalize(id,save.heroLoadouts[id]);save.heroLoadouts[id]=selected.ToList();var summary=Lab(editable?"已携带5个技能。取消一个后，可选择新的已解锁技能；关闭时保存。":"战斗中只能查看；在驿站更换携带技能。",11,Gold);list.Controls.Add(summary);
-    foreach(var s in HeroSkills.For(id)){bool unlocked=HeroSkills.Unlocked(save,id,s.Index);var box=new CheckBox{Text=s.Name+"  [施法 "+String.Join("/",s.CastRanks)+" → "+(s.Target=="enemy"?"敌":"友")+String.Join("/",s.TargetRanks)+"]"+"  ·  "+(unlocked?"已解锁":HeroSkills.UnlockText(s.Index))+"\n"+s.Description,Width=840,Height=64,Font=GameTheme.Body(11),ForeColor=unlocked?TextColor:Muted,Checked=selected.Contains(s.Id),Enabled=editable&&unlocked};box.CheckedChanged+=(sender,e)=>{if(box.Checked&&selected.Count>=5){box.Checked=false;return;}if(box.Checked){if(!selected.Contains(s.Id))selected.Add(s.Id);}else selected.Remove(s.Id);summary.Text="已携带 "+selected.Count+" / 5 · 关闭时必须携带五个技能。";};list.Controls.Add(box);}
-    f.FormClosing+=(sender,e)=>{if(editable&&selected.Count!=5){e.Cancel=true;summary.Text="请为每位角色选择五个技能。";}else if(editable)save.heroLoadouts[id]=selected;};
-   }f.ShowDialog(this);Persist();
+  using(var f=DialogForm("角色技能 · 每人携带五个",1080,790)){
+   var divider=typeof(PixelFrame).GetField("ShowTitleDivider");if(divider!=null)divider.SetValue(f,false);
+   var view=new HeroLoadoutView{Dock=DockStyle.Fill,SaveData=save,Editable=editable,SkillArt=HeroSkillImage,Portrait=id=>BattleCharacter(id=="aelia"?"hero-female":"hero-male")};view.Initialize();f.Controls.Add(view);
+   f.FormClosing+=(sender,e)=>{if(editable&&!view.Complete){e.Cancel=true;view.Notice="请为艾莉娅和陆川各携带五个技能后再关闭。";view.Invalidate();}else if(editable){if(save.heroLoadouts==null)save.heroLoadouts=new Dictionary<string,List<string>>();foreach(var item in view.Loadouts)save.heroLoadouts[item.Key]=item.Value.ToList();}};
+   f.ShowDialog(this);if(editable)Persist();
   }
  }
  void InitPartyBattleKeys(){KeyDown+=(sender,e)=>{if(woodlandChanging||e.Handled||e.Control||e.Alt||partyCanvas==null||partyCanvas.IsDisposed||partyCanvas.Parent!=content||partyRun==null)return;var b=partyRun.partyBattle;if(b==null)return;
@@ -125,10 +135,3 @@ public partial class Game {
   else if(b.phase=="heroes"&&e.KeyCode>=Keys.D1&&e.KeyCode<=Keys.D5){var h=b.heroes[b.selectedHero];b.selectedSkill=h.skills[(int)e.KeyCode-(int)Keys.D1];b.target=null;RefreshPartySelection(partyRun);e.Handled=e.SuppressKeyPress=true;}
  };}
 }
-
-
-
-
-
-
-

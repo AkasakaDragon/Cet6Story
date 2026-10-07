@@ -5,7 +5,7 @@ using System.Drawing.Drawing2D;
 using System.Windows.Forms;
 using System.Collections.Generic;
 
-public class PartyBattleCanvas:Panel {
+public partial class PartyBattleCanvas:Panel {
  public string ArtRoot;readonly ToolTip statusTip=new ToolTip();readonly List<KeyValuePair<Rectangle,string>> statusHits=new List<KeyValuePair<Rectangle,string>>();string lastStatus;public PartyCombatState Battle;public Image Scene,Male,Female,Enemy;public HeroSkill Skill;public Action<int> HeroSelected;public Action<string> TargetSelected;public int FooterHeight=238;public string Banner="剧情战斗";
  public Action InterfaceCleanup;
  [System.Runtime.InteropServices.DllImport("user32.dll")]static extern IntPtr SendMessage(IntPtr handle,int message,IntPtr wparam,IntPtr lparam);
@@ -29,7 +29,7 @@ public class PartyBattleCanvas:Panel {
  }
  int PositionSlot(PartyUnit unit,bool enemy){return enemy?unit.rank-1:4-unit.rank;}
  public void ShowImpact(string text){floatText=text;flash=24;pulse.Start();Invalidate();}
- protected override void Dispose(bool d){if(d){idle.Dispose();pulse.Dispose();statusTip.Dispose();}base.Dispose(d);}
+ protected override void Dispose(bool d){if(d){StopCast();castTimer.Dispose();DisposeActionFrames();if(monsterActions!=null)monsterActions.Dispose();idle.Dispose();pulse.Dispose();statusTip.Dispose();}base.Dispose(d);}
  protected override void OnPaintBackground(PaintEventArgs e){}
  static new void Text(Graphics g,string text,Rectangle r,int size,Color color,bool center=false){using(var f=GameTheme.Body(size))using(var ink=new SolidBrush(color))using(var format=new StringFormat{Alignment=center?StringAlignment.Center:StringAlignment.Near})GameTheme.DrawPixelString(g,text,f,ink,r,format);}
  static Rectangle Sprite(Image image,float cx,float ground,float height){if(image==null)return Rectangle.Empty;float w=height*image.Width/image.Height;return new Rectangle((int)(cx-w/2),(int)(ground-height),(int)w,(int)height);}
@@ -46,6 +46,7 @@ public class PartyBattleCanvas:Panel {
  }
  protected override void OnPaint(PaintEventArgs e){
   statusHits.Clear();var g=e.Graphics;g.InterpolationMode=InterpolationMode.NearestNeighbor;g.PixelOffsetMode=PixelOffsetMode.Half;g.SmoothingMode=SmoothingMode.None;
+  var fieldState=g.Save();if(melee!=null&&melee.ScreenShakeStrength>0&&castClock.ElapsedMilliseconds>=melee.HitTiming&&castClock.ElapsedMilliseconds<melee.HitTiming+melee.HitStopDuration){int shake=melee.ScreenShakeStrength*((castClock.ElapsedMilliseconds/16)%2==0?1:-1);g.TranslateTransform(shake,0);}
   if(Scene!=null){float scale=Math.Max(Width/(float)Scene.Width,(Height-FooterHeight)/(float)Scene.Height);float w=Scene.Width*scale,h=Scene.Height*scale;g.DrawImage(Scene,(Width-w)/2,(Height-FooterHeight-h)/2,w,h);}else g.Clear(BackColor);
   using(var shade=new SolidBrush(Color.FromArgb(40,6,17,20)))g.FillRectangle(shade,0,0,Width,Height-FooterHeight);
   if(Battle==null)return;int floor=Height-FooterHeight-75;int available=Math.Max(80,floor-110);float height=Math.Min(available,Math.Min(340,Width*.25f))*.8f;
@@ -55,10 +56,11 @@ public class PartyBattleCanvas:Panel {
   for(int j=0;j<heroes.Count;j++){var h=heroes[j];int i=Battle.heroes.IndexOf(h);float cx=Width*(.075f+PositionSlot(h,false)*.11f);var image=h.id=="aelia"?Female:Male;var frames=h.id=="aelia"?FemaleIdle:MaleIdle;if(h.hp>0&&frames!=null&&frames.Length>0)image=frames[HeroIdleAnimation.FrameIndex%frames.Length];bool animated=h.hp>0&&frames!=null&&frames.Length>0;var r=animated?Sprite(image,cx,floor+height*50/395f,height*468/395f):Sprite(image,cx,floor,height);HeroBounds[i]=r;
    bool selected=Battle.selectedHero==i;using(var b=new SolidBrush(Color.FromArgb(100,4,12,15)))g.FillEllipse(b,r.Left+r.Width/8,floor-8,r.Width*3/4,15);
    if(selected){Text(g,"▼",new Rectangle((int)cx-14,r.Top-30,30,26),18,GameTheme.Gold,true);}
-   if(image!=null){if(h.hp<=0||h.acted){using(var attr=new System.Drawing.Imaging.ImageAttributes()){attr.SetColorMatrix(new System.Drawing.Imaging.ColorMatrix(new float[][]{new[]{.45f,0f,0f,0f,0f},new[]{0f,.45f,0f,0f,0f},new[]{0f,0f,.45f,0f,0f},new[]{0f,0f,0f,1f,0f},new[]{0f,0f,0f,0f,1f}}));g.DrawImage(image,r,0,0,image.Width,image.Height,GraphicsUnit.Pixel,attr);}}else g.DrawImage(image,r);}
+   Rectangle castBounds;if(DrawCastHero(g,h,cx,floor,height,out castBounds)){HeroBounds[i]=castBounds;}else if(image!=null){if(h.hp<=0||h.acted){using(var attr=new System.Drawing.Imaging.ImageAttributes()){attr.SetColorMatrix(new System.Drawing.Imaging.ColorMatrix(new float[][]{new[]{.45f,0f,0f,0f,0f},new[]{0f,.45f,0f,0f,0f},new[]{0f,0f,.45f,0f,0f},new[]{0f,0f,0f,1f,0f},new[]{0f,0f,0f,0f,1f}}));g.DrawImage(image,r,0,0,image.Width,image.Height,GraphicsUnit.Pixel,attr);}}else g.DrawImage(image,r);}
    Bar(g,h,(int)cx,floor+(int)(Width*.016f)+8,Math.Min(165,(int)(Width*.095f)),false);
   }
-  for(int i=0;i<Battle.enemies.Count;i++){var u=Battle.enemies[i];float cx=Width*(.595f+PositionSlot(u,true)*.11f);var monster=PartyMonsterArt.Get(ArtRoot,u.kind,Enemy);var r=Sprite(monster,cx,floor,height*(u.kind=="boss"?1.2f:1f));if(u.kind!="boss"){int width=Math.Min(r.Width,(int)(Width*.13f));r=new Rectangle((int)(cx-width/2f),r.Y,width,r.Height);}EnemyBounds[i]=r;if(u.hp>0){using(var b=new SolidBrush(Color.FromArgb(100,4,12,15)))g.FillEllipse(b,r.Left+r.Width/8,floor-8,r.Width*3/4,15);if(monster!=null)g.DrawImage(monster,r);if(Battle.target==u.id){Text(g,"▼",new Rectangle((int)cx-14,r.Top-30,30,26),18,GameTheme.Gold,true);}}Bar(g,u,(int)cx,floor+(int)(Width*.016f)+8,Math.Min(215,(int)(Width*.095f)),true);}
+  for(int i=0;i<Battle.enemies.Count;i++){var u=Battle.enemies[i];float cx=Width*(.595f+PositionSlot(u,true)*.11f);var monster=PartyMonsterArt.Get(ArtRoot,u.kind,Enemy);var r=Sprite(monster,cx,u.kind=="boss"?floor:floor+height*.03f/.94f,height*(u.kind=="boss"?1.2f:1f/.94f));if(u.kind=="crab")u.name="苔冠浮灵";EnemyBounds[i]=r;if(u.hp>0||IsCasting&&monsterHits.Contains(u.id)){using(var b=new SolidBrush(Color.FromArgb(100,4,12,15)))g.FillEllipse(b,r.Left+r.Width/8,floor-8,r.Width*3/4,15);if(!DrawMonsterAction(g,u,r)&&monster!=null)g.DrawImage(monster,r);if(Battle.target==u.id){Text(g,"▼",new Rectangle((int)cx-14,r.Top-30,30,26),18,GameTheme.Gold,true);}}Bar(g,u,(int)cx,floor+(int)(Width*.016f)+8,Math.Min(215,(int)(Width*.095f)),true);}
+  DrawCastEffects(g,floor,height);g.Restore(fieldState);
   using(var b=new SolidBrush(Color.FromArgb(210,10,24,27)))g.FillRectangle(b,0,0,Width,66);using(var p=new Pen(GuildChrome.Gold))g.DrawLine(p,0,65,Width,65);
   Text(g,Banner,new Rectangle(115,20,Math.Max(100,Width/3-100),26),14,GameTheme.Gold);Text(g,"第 "+Battle.round+" 回合",new Rectangle(Width/2-90,20,180,30),16,GameTheme.Gold,true);
   var active=Battle.heroes.Concat(Battle.enemies).FirstOrDefault(u=>u.id==Battle.active);string intent=active==null?"":active.name+" · "+(String.IsNullOrEmpty(active.preparation)?(Battle.phase=="defense-question"?PartyCombat.EnemyActionName(Battle.enemySkill)+" · "+Battle.enemyDamage+"伤害":"速度 "+active.speed):"准备中 · 下次行动释放");int intentW=Math.Min(310,Width*35/100);var intentRect=new Rectangle((int)(Width*.79f)-intentW/2,102,intentW,36);GuildChrome.Draw(g,intentRect);Text(g,intent,new Rectangle(intentRect.X+10,intentRect.Y+9,intentW-20,24),Width<1000?8:10,GameTheme.Gold,true);

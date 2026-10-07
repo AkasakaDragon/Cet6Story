@@ -46,8 +46,8 @@ public partial class Game {
     picture.Controls.Add(Lab("字幕",18,Accent));
     var english=new CheckBox{Text="显示英文字幕",Checked=save.english,FlatStyle=FlatStyle.Flat,AutoSize=true,ForeColor=TextColor,Margin=new Padding(8,12,8,8)};
     var chinese=new CheckBox{Text="显示中文字幕",Checked=save.chinese,FlatStyle=FlatStyle.Flat,AutoSize=true,ForeColor=TextColor,Margin=new Padding(8)};picture.Controls.Add(english);picture.Controls.Add(chinese);
-    english.CheckedChanged+=(s,e)=>{save.english=englishVisible=english.Checked;if(page=="story")RecordSectionSubtitles();Persist();};
-    chinese.CheckedChanged+=(s,e)=>{save.chinese=translating=chinese.Checked;if(page=="story")RecordSectionSubtitles();Persist();};
+    bool changingSubtitle=false;english.CheckedChanged+=(s,e)=>{if(changingSubtitle)return;if(!SetStorySubtitle(false,english.Checked)){changingSubtitle=true;english.Checked=save.english;changingSubtitle=false;}};
+    chinese.CheckedChanged+=(s,e)=>{if(changingSubtitle)return;if(!SetStorySubtitle(true,chinese.Checked)){changingSubtitle=true;chinese.Checked=save.chinese;changingSubtitle=false;}};
     var hint=Lab("设置自动保存。ESC 打开或关闭设置；F11 可切换全屏。\n本节开启字幕会计入星级评价。",11,Muted);hint.MaximumSize=new Size(550,0);picture.Controls.Add(hint);foreach(var label in picture.Controls.OfType<Label>()){label.AutoSize=false;label.Size=new Size(dialog.Width-90,label.Text.Contains("\n")?54:34);}
     dialog.ShowDialog(owner!=null&&!owner.IsDisposed?owner:this);
    }

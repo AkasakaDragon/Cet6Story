@@ -1,4 +1,4 @@
-﻿using System;using System.Linq;using System.Drawing;using System.Collections.Generic;
+using System;using System.Linq;using System.Drawing;using System.Collections.Generic;
 public class CombatStatusView {public string Key,Name,Detail;public int Count;public Color Color;public string Pixels;}
 public static class CombatStatusPixels {
  public static List<CombatStatusView> For(PartyUnit u){var list=new List<CombatStatusView>();Action<string,string,int,Color,string,string> add=(k,n,c,color,p,d)=>{if(c>0)list.Add(new CombatStatusView{Key=k,Name=n,Count=c,Color=color,Pixels=p,Detail=d});};
@@ -14,7 +14,8 @@ public static class CombatStatusPixels {
  add("silence","封咒",u.silence,Color.FromArgb(215,137,163),"101111101","禁止增益或施法准备；取消法术准备，不取消物理装填。");
  add("slow","迟缓",u.slow,Color.FromArgb(160,181,208),"111010110","下一回合速度-2。");
  add("marks","符印",u.marks,Color.FromArgb(161,158,234),"010101010","最多3层；用于骑士精准、引爆和封咒；剩余"+u.markTurns+"次自身行动。");
- add("resolve","决意",u.resolve,Color.FromArgb(240,198,97),"101111010","格挡或护盾承伤积累，最多3层；供斩杀、突进和激励使用。");
+ add("curse","咒印",u.runeBoost,Color.FromArgb(159,146,221),"010101010","每累计2次攻击答题成功获得1层，最多3层；与施加给敌人的符印独立。当前攻击答题进度："+u.attackSuccesses+" / 2。");
+ add("resolve","决意",u.resolve,Color.FromArgb(240,198,97),"101111010","格挡或护盾承伤积累；每累计2次防御答题成功额外获得1层，最多3层；供斩杀、突进和激励使用。当前防御答题进度："+u.defenseSuccesses+" / 2。");
  add("shield","护盾",u.shield,Color.FromArgb(112,183,237),"111101010","先吸收直接伤害，最多最大生命40%，持续伤害绕过。");
  add("ready","准备",String.IsNullOrEmpty(u.preparation)?0:1,Color.FromArgb(241,198,126),"111010111",u.kind=="boss"?"剧毒孢潮蓄力中，可用盾击或封咒打断；母株免疫位移。":"下一回合轮到自身释放；打断或被移出3/4号位取消。");
  add("rage","狂暴",u.enraged?1:0,Color.FromArgb(212,133,98),"101111101","母株半血狂暴：攻击+6，速度5；不再收拢菌冠获得格挡。");
@@ -23,7 +24,8 @@ public static class CombatStatusPixels {
 }
 public static class PartyMonsterArt {
  static readonly Dictionary<string,Image> images=new Dictionary<string,Image>();
- public static Image Get(string root,string kind,Image fallback){if(String.IsNullOrEmpty(kind))return fallback;if(kind=="boss"){string boss=System.IO.Path.Combine(root,"assets","dungeons","toxic-woodland","corrupt-crown-boss.png");Image cached;if(images.TryGetValue("boss",out cached))return cached;if(System.IO.File.Exists(boss)){cached=Image.FromFile(boss);images["boss"]=cached;return cached;}return fallback;}Image found;if(images.TryGetValue(kind,out found))return found;string path=System.IO.Path.Combine(root,"assets","monsters","concepts","mushroom-woodland-bestiary-muted-v2.png");if(!System.IO.File.Exists(path))return fallback;int col=kind=="moth"||kind=="crab"?2:0,row=kind=="bard"?1:kind=="cannon"||kind=="crab"?2:0;
- using(var sheet=new Bitmap(path)){int x=col==0?19:835;int y=row==0?85:row==1?464:831;int w=col==0?397:394,h=row==0?314:row==1?308:338;var box=new Rectangle(x*sheet.Width/1254,y*sheet.Height/1254,w*sheet.Width/1254,h*sheet.Height/1254);var sprite=sheet.Clone(box,System.Drawing.Imaging.PixelFormat.Format32bppArgb);var visited=new bool[sprite.Width*sprite.Height];var queue=new Queue<int>();for(int px=0;px<sprite.Width;px++){queue.Enqueue(px);queue.Enqueue((sprite.Height-1)*sprite.Width+px);}for(int py=0;py<sprite.Height;py++){queue.Enqueue(py*sprite.Width);queue.Enqueue(py*sprite.Width+sprite.Width-1);}while(queue.Count>0){int i=queue.Dequeue();if(visited[i])continue;visited[i]=true;int px=i%sprite.Width,py=i/sprite.Width;var c=sprite.GetPixel(px,py);if(!(c.R<65&&c.G<110&&c.B<125&&c.G>c.R+8&&c.B>c.R+8))continue;sprite.SetPixel(px,py,Color.Transparent);if(px>0)queue.Enqueue(i-1);if(px+1<sprite.Width)queue.Enqueue(i+1);if(py>0)queue.Enqueue(i-sprite.Width);if(py+1<sprite.Height)queue.Enqueue(i+sprite.Width);}images[kind]=sprite;return sprite;}
+ public static Image Get(string root,string kind,Image fallback){if(String.IsNullOrEmpty(kind))return fallback;if(kind=="boss"){string boss=System.IO.Path.Combine(root,"assets","dungeons","toxic-woodland","corrupt-crown-boss.png");Image cached;if(images.TryGetValue("boss",out cached))return cached;if(System.IO.File.Exists(boss)){cached=Image.FromFile(boss);images["boss"]=cached;return cached;}return fallback;}Image found;if(images.TryGetValue(kind,out found))return found;string path=System.IO.Path.Combine(root,"assets","monsters","actions","monster-actions-v2.png");if(!System.IO.File.Exists(path))return fallback;
+ int row=kind=="crab"?1:kind=="moth"?2:kind=="bard"?3:kind=="cannon"?4:0;
+ using(var sheet=new Bitmap(path)){found=sheet.Clone(MonsterAnimationArt.Cell(sheet,row,0),System.Drawing.Imaging.PixelFormat.Format32bppArgb);images[kind]=found;return found;}
  }
 }

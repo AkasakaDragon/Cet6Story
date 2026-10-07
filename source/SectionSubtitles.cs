@@ -20,6 +20,13 @@ public partial class Game {
    dialog.ShowDialog(this);if(!chosen){ShowMain();return false;}return true;
   }
  }
+ bool SetStorySubtitle(bool chinese,bool enabled){
+  bool duringSection=current!=null&&(page=="story"||page=="waystation-chapter-cg"||page=="tavern-opening"||page=="goddess-transfer"||page=="knight-entrance");
+  if(duringSection&&enabled){var a=Attempt();int before=SectionRules.Stars(1,1,a.usedChineseSubtitles,a.usedEnglishSubtitles),after=SectionRules.Stars(1,1,a.usedChineseSubtitles||chinese,a.usedEnglishSubtitles||!chinese);
+   if(!a.review&&after<before){bool resume=!pausedAudio&&(originalPlaying||speech!=null&&speech.State==System.Speech.Synthesis.SynthesizerState.Speaking);if(resume)TogglePlay();DialogResult answer;try{answer=GameMessage.Show(inGameSettings!=null&&!inGameSettings.IsDisposed?(IWin32Window)inGameSettings:this,"开启"+(chinese?"中文字幕":"英文字幕")+"后，本节全答对的最高评价将从"+before+"星降为"+after+"星。\n之后关闭字幕也不会恢复本次星级；重新挑战可重新争取。\n是否仍要开启？","开启字幕确认",MessageBoxButtons.YesNo,MessageBoxIcon.Warning);}finally{if(resume&&page=="story"&&pausedAudio)TogglePlay();}if(answer!=DialogResult.Yes)return false;}
+  }
+  if(chinese)save.chinese=translating=enabled;else save.english=englishVisible=enabled;if(duringSection)RecordSectionSubtitles();if(page=="story")UpdateLine();Persist();return true;
+ }
  void RecordSectionSubtitles(){if(current==null)return;var a=Attempt();if(a.review)return;a.chineseSubtitles=translating;a.englishSubtitles=englishVisible;a.usedChineseSubtitles|=translating;a.usedEnglishSubtitles|=englishVisible;}
  int SectionStars(int correct,int total){RecordSectionSubtitles();var a=Attempt();return SectionRules.Stars(correct,total,a.usedChineseSubtitles,a.usedEnglishSubtitles);}
 }
