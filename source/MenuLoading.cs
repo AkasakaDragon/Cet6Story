@@ -30,6 +30,7 @@ public partial class Game {
  MenuLoadingScreen menuLoading;int loadingWordIndex;bool menuExitPending;
  void NavigateMenu(Action action,string destination,bool exit,bool woodenSound=false,Action ready=null){
   if(menuExitPending||menuLoading!=null&&!menuLoading.IsDisposed)return;if(woodenSound)PlayWoodMenuSound(true);else PlayMenuClick();
+  if(action==(Action)ShowSettings||action==(Action)ShowAchievements){action();return;}
   // Main-menu navigation already owns an overlay; unwrap these page entries
   // so every other entry point can use the same transition without nesting it.
   if(action==(Action)ShowWords){action=ShowWordsPage;destination="生词本";}

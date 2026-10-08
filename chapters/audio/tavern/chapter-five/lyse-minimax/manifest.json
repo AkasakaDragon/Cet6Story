@@ -9,37 +9,41 @@
       "file": "01.wav",
       "text": "The lantern leans west. It gives us a direction, but cannot judge the passage for us.",
       "source_start": 0,
-      "source_end": 5.88
+      "source_end": 5.88,
+      "playback_gain_db": 0.08
     },
     {
       "file": "02.wav",
       "text": "I will hold the light to the left, away from your eyes. It is about to leap again!",
       "source_start": 5.88,
-      "source_end": 11.28
+      "source_end": 11.28,
+      "playback_gain_db": -0.42
     },
     {
       "file": "03.wav",
       "text": "The butterfly has stopped over a crack in the rock. There is a crystal inside, the same color as the one on your counter.",
       "source_start": 11.28,
-      "source_end": 17.84
+      "source_end": 17.84,
+      "playback_gain_db": -0.28
     },
     {
       "file": "04.wav",
       "text": "I found the catch. Following the instructions has freed the crystal.",
       "source_start": 17.84,
-      "source_end": 22.27
+      "source_end": 22.27,
+      "playback_gain_db": -0.36
     },
     {
       "file": "05.wav",
       "text": "There is another echo deeper inside... but we agreed to stop at the first junction. We leave it today.",
       "source_start": 22.27,
-      "source_end": 28.663291666666666
+      "source_end": 28.663291666666666,
+      "playback_gain_db": 0.5
     }
   ],
   "volume_match": {
-    "reference": "chapter-two/lyse-minimax",
-    "reference_lufs": -19.09,
-    "gain_db": 3.56,
-    "method": "constant gain, no clipping; duration preserved"
+    "reference": "actual chapter-two market.wav princess lines",
+    "reference_lufs": -15.98,
+    "method": "per-line loudness matching; other roles and duration preserved"
   }
 }

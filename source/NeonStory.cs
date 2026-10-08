@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Linq;
 using System.Drawing;
 using System.Windows.Forms;
@@ -37,7 +37,7 @@ public class PixelFrame:Form {
  readonly WindowGlyph close;
  public PixelFrame(){DoubleBuffered=true;FormBorderStyle=FormBorderStyle.None;BackColor=Color.FromArgb(25,53,55);ForeColor=GameTheme.Ink;Font=GameTheme.Body(12);Padding=new Padding(14,58,14,14);ShowInTaskbar=false;StartPosition=FormStartPosition.CenterParent;
   close=new WindowGlyph{DialogStyle=true,AccessibleName="关闭窗口"};close.Click+=(sender,e)=>Close();Controls.Add(close);Resize+=(sender,e)=>PlaceClose();PlaceClose();}
- void PlaceClose(){if(close==null)return;close.Location=new Point(Math.Max(0,ClientSize.Width-48),15);close.BringToFront();Invalidate();}
+ void PlaceClose(){if(close==null)return;close.BackColor=BackColor;close.Location=new Point(Math.Max(0,ClientSize.Width-48),15);close.BringToFront();Invalidate();}
  protected override void OnShown(EventArgs e){base.OnShown(e);var area=Screen.FromControl(Owner??this).WorkingArea;MinimumSize=new Size(Math.Min(MinimumSize.Width,area.Width-24),Math.Min(MinimumSize.Height,area.Height-24));Size=new Size(Math.Min(Width,area.Width-24),Math.Min(Height,area.Height-24));PlaceClose();}
  protected override void OnPaintBackground(PaintEventArgs e){e.Graphics.Clear(Color.FromArgb(25,53,55));GuildChrome.Draw(e.Graphics,new Rectangle(1,1,ClientSize.Width-3,ClientSize.Height-3));}
  protected override void OnPaint(PaintEventArgs e){base.OnPaint(e);using(var f=GameTheme.Body(12,FontStyle.Bold))GameTheme.DrawText(e.Graphics,Text,f,new Rectangle(24,15,Math.Max(1,Width-88),30),GameTheme.Gold,TextFormatFlags.VerticalCenter|TextFormatFlags.EndEllipsis);}

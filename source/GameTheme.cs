@@ -36,11 +36,11 @@ public static class GameTheme {
 }
 
 public class GameButton:Button {
- public bool Primary;bool over;
+ public bool Primary;public bool SelectionOnly;bool over;
  public GameButton(){FlatStyle=FlatStyle.Flat;SetStyle(ControlStyles.UserPaint|ControlStyles.AllPaintingInWmPaint|ControlStyles.OptimizedDoubleBuffer,true);FlatAppearance.BorderSize=0;Font=GameTheme.Body(12,FontStyle.Bold);Cursor=Cursors.Hand;}
  protected override void OnMouseEnter(EventArgs e){over=true;Invalidate();base.OnMouseEnter(e);}
  protected override void OnMouseLeave(EventArgs e){over=false;Invalidate();base.OnMouseLeave(e);}
- protected override void OnPaint(PaintEventArgs e){e.Graphics.Clear(Parent==null?GameTheme.Navy:Parent.BackColor);GameTheme.Button(e.Graphics,ClientRectangle,Text,Font,Primary,over||Focused,Enabled);}
+ protected override void OnPaint(PaintEventArgs e){e.Graphics.Clear(Parent==null?GameTheme.Navy:Parent.BackColor);GameTheme.Button(e.Graphics,ClientRectangle,Text,Font,Primary,!SelectionOnly&&(over||Focused),Enabled);}
 }
 
 public class WindowGlyph:Control {
@@ -50,7 +50,7 @@ public class WindowGlyph:Control {
  protected override void OnMouseLeave(EventArgs e){over=false;Invalidate();base.OnMouseLeave(e);}
  protected override void OnMouseUp(MouseEventArgs e){base.OnMouseUp(e);if(e.Button==MouseButtons.Left&&ClientRectangle.Contains(e.Location))OnClick(EventArgs.Empty);}
  protected override void OnKeyDown(KeyEventArgs e){base.OnKeyDown(e);if(e.KeyCode==Keys.Enter||e.KeyCode==Keys.Space){OnClick(EventArgs.Empty);e.Handled=true;}}
- protected override void OnPaint(PaintEventArgs e){if(DialogStyle){var g=e.Graphics;g.Clear(Color.FromArgb(25,53,55));GuildChrome.Draw(g,ClientRectangle,over||Focused,true);var ink=over?GuildChrome.Ivory:GuildChrome.Gold;using(var b=new SolidBrush(ink)){int cx=Width/2,cy=Height/2;for(int i=-4;i<=4;i+=2){g.FillRectangle(b,cx+i-1,cy+i-1,3,3);g.FillRectangle(b,cx+i-1,cy-i-1,3,3);}}return;}using(var b=new SolidBrush(over?GameTheme.Card:GameTheme.Navy))e.Graphics.FillRectangle(b,ClientRectangle);using(var p=new Pen(over?GameTheme.Gold:GameTheme.Cyan,3)){if(Kind=="close"){e.Graphics.DrawLine(p,10,8,22,20);e.Graphics.DrawLine(p,22,8,10,20);}else if(Kind=="min")e.Graphics.DrawLine(p,9,20,23,20);else e.Graphics.DrawRectangle(p,9,8,14,13);}}
+ protected override void OnPaint(PaintEventArgs e){if(DialogStyle){var g=e.Graphics;g.Clear(BackColor);GuildChrome.Draw(g,ClientRectangle,over,true);var ink=over?GuildChrome.Ivory:Color.FromArgb(190,157,94);using(var b=new SolidBrush(ink)){int cx=Width/2,cy=Height/2;for(int i=-4;i<=4;i+=2){g.FillRectangle(b,cx+i-1,cy+i-1,3,3);g.FillRectangle(b,cx+i-1,cy-i-1,3,3);}}return;}using(var b=new SolidBrush(over?GameTheme.Card:GameTheme.Navy))e.Graphics.FillRectangle(b,ClientRectangle);using(var p=new Pen(over?GameTheme.Gold:GameTheme.Cyan,3)){if(Kind=="close"){e.Graphics.DrawLine(p,10,8,22,20);e.Graphics.DrawLine(p,22,8,10,20);}else if(Kind=="min")e.Graphics.DrawLine(p,9,20,23,20);else e.Graphics.DrawRectangle(p,9,8,14,13);}}
 }
 
 public sealed class GameLogo:Control {

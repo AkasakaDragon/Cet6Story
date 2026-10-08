@@ -288,7 +288,7 @@
       "scene": "art/tavern/chapter-one-mine-night.png",
       "sceneSingle": true,
       "start": 163.888,
-      "end": 170.2813,
+      "end": 170.281292,
       "timeOfDay": "night"
     },
     {
@@ -299,8 +299,8 @@
       "translation": "回去把拖痕的位置交给守卫。下次来，得有地图和更多准备。",
       "scene": "art/tavern/chapter-one-mine-night.png",
       "sceneSingle": true,
-      "start": 170.5313,
-      "end": 176.9873,
+      "start": 170.531292,
+      "end": 176.987292,
       "timeOfDay": "night"
     },
     {
@@ -311,8 +311,8 @@
       "translation": "三人走出铁栏时，夜风吹散了石尘。陆川回头确认，每个人都在。",
       "scene": "art/tavern/chapter-one-mine-night.png",
       "sceneSingle": true,
-      "start": 177.2373,
-      "end": 186.1653,
+      "start": 177.237292,
+      "end": 186.165292,
       "timeOfDay": "night"
     }
   ],

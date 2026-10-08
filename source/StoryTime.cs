@@ -15,7 +15,7 @@ public static class StoryTime {
  }
  public static void AddBadge(Control parent,string phase){
   string caption=Caption(phase);if(caption.Length==0)return;
-  var badge=new OutlinedLabel{PixelText=true,Text="第一天 · "+caption,Font=GameTheme.Body(12),ForeColor=GameTheme.Gold,BackColor=Color.FromArgb(5,25,30),Location=new Point(22,18),Size=new Size(180,34)};
+  var badge=new OutlinedLabel{PixelText=true,Text="第一天 · "+caption,Font=GameTheme.Body(12),ForeColor=GameTheme.Gold,BackColor=Color.Transparent,Location=new Point(22,18),Size=new Size(180,34)};
   parent.Controls.Add(badge);badge.BringToFront();
  }
 }

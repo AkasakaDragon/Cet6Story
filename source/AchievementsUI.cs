@@ -1,27 +1,19 @@
-using System;
-using System.Linq;
-using System.Drawing;
-using System.Windows.Forms;
-
+using System;using System.Linq;using System.Drawing;using System.Windows.Forms;
 public partial class Game {
  void ShowAchievements(){
-  ClearPage();page="achievements";var body=PageFlow();
-  body.Controls.Add(Lab("成就",26,Gold));
-  body.Controls.Add(Lab("冒险中的每一步，都值得记下。",12,Muted));
   int chaptersDone=save.completed.Distinct().Count(),stars=save.sectionStars.Values.Count(v=>v>=3),heard=save.heardLines.Distinct().Count();
-  var goals=new[]{
-   new{Title="启程",Description="开始你的冒险。",Progress=save.hasGame?1:0,Target=1},
-   new{Title="初章落幕",Description="完成一个剧情章节。",Progress=chaptersDone,Target=1},
-   new{Title="旅途渐深",Description="完成三个剧情章节。",Progress=chaptersDone,Target=3},
-   new{Title="三星答卷",Description="一个章节获得三星评价。",Progress=stars,Target=1},
-   new{Title="侧耳倾听",Description="听完二十句剧情台词。",Progress=heard,Target=20}
-  };
-  body.Controls.Add(Lab("已达成  "+goals.Count(g=>g.Progress>=g.Target)+" / "+goals.Length,14,Accent));
-  foreach(var goal in goals){bool earned=goal.Progress>=goal.Target;var card=new FlowLayoutPanel{AutoSize=true,FlowDirection=FlowDirection.TopDown,WrapContents=false,BackColor=PanelColor,Padding=new Padding(16),Margin=new Padding(6,7,6,7)};
-   card.Controls.Add(Lab((earned?"已达成  ·  ":"未达成  ·  ")+goal.Title,16,earned?Gold:Muted));
-   card.Controls.Add(Lab(goal.Description,12));card.Controls.Add(Lab("进度  "+Math.Min(goal.Progress,goal.Target)+" / "+goal.Target,11,earned?Accent:Muted));body.Controls.Add(card);
+  var goals=new[]{new{Title="启程",Description="开始你的冒险。",Progress=save.hasGame?1:0,Target=1},new{Title="初章落幕",Description="完成一个剧情章节。",Progress=chaptersDone,Target=1},new{Title="旅途渐深",Description="完成三个剧情章节。",Progress=chaptersDone,Target=3},new{Title="三星答卷",Description="一个章节获得三星评价。",Progress=stars,Target=1},new{Title="侧耳倾听",Description="听完二十句剧情台词。",Progress=heard,Target=20}};
+  using(var dialog=new GuildWordDialog{QuestStyle=true,ShowHeader=false,Text="冒险成就",BackColor=Color.FromArgb(6,29,29),Padding=new Padding(30,42,30,30),Size=new Size(Math.Min(940,Screen.FromControl(this).WorkingArea.Width-32),Math.Min(760,Screen.FromControl(this).WorkingArea.Height-32))}){
+   dialog.Location=new Point(Left+(Width-dialog.Width)/2,Top+(Height-dialog.Height)/2);var body=new Panel{Dock=DockStyle.Fill,BackColor=dialog.BackColor};dialog.Controls.Add(body);var title=new OutlinedLabel{Text="冒险成就",Font=GameTheme.Body(25,FontStyle.Bold),ForeColor=GameTheme.Gold,BackColor=Color.Transparent};var total=new OutlinedLabel{Text="已达成  "+goals.Count(g=>g.Progress>=g.Target)+" / "+goals.Length,Font=GameTheme.Body(12),ForeColor=GuildChrome.Ivory,BackColor=Color.Transparent};body.Controls.Add(title);body.Controls.Add(total);var cards=goals.Select((g,i)=>new AchievementPlaque{Heading=g.Title,Description=g.Description,Progress=Math.Min(g.Progress,g.Target),Target=g.Target,Badge=i,AccessibleName=g.Title+" · "+g.Description}).ToArray();foreach(var c in cards)body.Controls.Add(c);
+   int currentPage=0;var previous=Btn("上一页",()=>{});var next=Btn("下一页",()=>{});var number=new OutlinedLabel{Font=GameTheme.Body(11),ForeColor=GuildChrome.Muted,BackColor=Color.Transparent};body.Controls.Add(previous);body.Controls.Add(next);body.Controls.Add(number);
+   Action layout=()=>{int pages=(cards.Length+5)/6;title.Bounds=new Rectangle(14,4,body.Width-28,45);total.Bounds=new Rectangle(16,54,body.Width-32,28);int top=98,gap=14,height=Math.Max(90,(body.Height-top-48-gap*2)/3),width=(body.Width-gap)/2;for(int i=0;i<cards.Length;i++){cards[i].Visible=i/6==currentPage;int slot=i%6;cards[i].Bounds=new Rectangle((slot%2)*(width+gap),top+(slot/2)*(height+gap),width,height);}previous.Visible=next.Visible=pages>1;previous.Bounds=new Rectangle(0,body.Height-36,125,36);next.Bounds=new Rectangle(body.Width-125,body.Height-36,125,36);previous.Enabled=currentPage>0;next.Enabled=currentPage+1<pages;number.Text=(currentPage+1)+" / "+pages;number.Bounds=new Rectangle(body.Width/2-30,body.Height-30,60,25);};previous.Click+=(s,e)=>{if(currentPage>0)currentPage--;layout();};next.Click+=(s,e)=>{if(currentPage+1<(cards.Length+5)/6)currentPage++;layout();};body.Resize+=(s,e)=>layout();layout();dialog.ShowDialog(this);
   }
-  Action layout=()=>{foreach(var card in body.Controls.OfType<FlowLayoutPanel>()){card.MinimumSize=new Size(Math.Max(240,body.ClientSize.Width-65),0);foreach(var label in card.Controls.OfType<Label>())label.MaximumSize=new Size(Math.Max(180,card.MinimumSize.Width-45),0);}};
-  body.Resize+=(s,e)=>layout();layout();
+ }
+}
+public sealed class AchievementPlaque:Control {
+ public string Heading,Description;public int Progress,Target,Badge;
+ public AchievementPlaque(){DoubleBuffered=true;BackColor=Color.FromArgb(6,29,29);}
+ protected override void OnPaint(PaintEventArgs e){var g=e.Graphics;g.Clear(BackColor);bool done=Progress>=Target;QuestChrome.Draw(g,ClientRectangle,done,false,true);Color ink=done?Color.FromArgb(255,223,113):GuildChrome.Muted;int x=45,y=Height/2-16;using(var pen=new Pen(ink,2)){g.DrawPolygon(pen,new[]{new Point(x,y-19),new Point(x+23,y),new Point(x,y+19),new Point(x-23,y)});if(Badge==3){var pts=new PointF[10];for(int i=0;i<10;i++){double a=-Math.PI/2+i*Math.PI/5;int r=i%2==0?12:5;pts[i]=new PointF(x+(float)Math.Cos(a)*r,y+(float)Math.Sin(a)*r);}g.DrawPolygon(pen,pts);}else if(Badge==1||Badge==2){g.DrawRectangle(pen,x-11,y-10,22,20);g.DrawLine(pen,x,y-10,x,y+10);}else if(Badge==4){g.DrawArc(pen,x-11,y-11,22,22,180,180);g.DrawLine(pen,x-11,y,x-11,y+8);g.DrawLine(pen,x+11,y,x+11,y+8);}else{g.DrawLine(pen,x-7,y-10,x-7,y+12);g.DrawLines(pen,new[]{new Point(x-7,y-10),new Point(x+10,y-6),new Point(x-7,y)});}}
+  int left=82,w=Width-left-22;using(var f=GameTheme.Body(15,FontStyle.Bold))GameTheme.DrawText(g,Heading,f,new Rectangle(left,22,w,28),ink,TextFormatFlags.NoPadding|TextFormatFlags.EndEllipsis);using(var f=GameTheme.Body(10))GameTheme.DrawText(g,Description,f,new Rectangle(left,57,w,38),GuildChrome.Ivory,TextFormatFlags.NoPadding|TextFormatFlags.WordBreak);int bottom=Height-39;using(var f=GameTheme.Body(10))GameTheme.DrawText(g,done?"已达成  ✓":"进度  "+Progress+" / "+Target,f,new Rectangle(left,bottom-13,w,22),ink,TextFormatFlags.NoPadding);using(var track=new SolidBrush(Color.FromArgb(30,58,52)))g.FillRectangle(track,left,bottom+12,w,4);using(var fill=new SolidBrush(ink))g.FillRectangle(fill,left,bottom+12,w*Math.Min(Progress,Target)/Math.Max(1,Target),4);
  }
 }

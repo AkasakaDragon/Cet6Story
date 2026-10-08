@@ -131,7 +131,7 @@ public partial class Game {
   }
  }
  void ShowHeroSkillBook(bool editable){
-  using(var f=DialogForm("角色技能 · 每人携带五个",1080,790)){
+  using(var f=new GuildWordDialog{QuestStyle=true,Text="角色技能 · 每人携带五个",Width=1080,Height=790,Padding=new Padding(30,62,30,30),BackColor=Color.FromArgb(6,29,29),StartPosition=FormStartPosition.CenterParent}){
    var divider=typeof(PixelFrame).GetField("ShowTitleDivider");if(divider!=null)divider.SetValue(f,false);
    var view=new HeroLoadoutView{Dock=DockStyle.Fill,SaveData=save,Editable=editable,SkillArt=HeroSkillImage,Portrait=id=>BattleCharacter(id=="aelia"?"hero-female":"hero-male")};view.Initialize();f.Controls.Add(view);
    f.FormClosing+=(sender,e)=>{if(editable&&!view.Complete){e.Cancel=true;view.Notice="请为艾莉娅和陆川各携带五个技能后再关闭。";view.Invalidate();}else if(editable){if(save.heroLoadouts==null)save.heroLoadouts=new Dictionary<string,List<string>>();foreach(var item in view.Loadouts)save.heroLoadouts[item.Key]=item.Value.ToList();}};

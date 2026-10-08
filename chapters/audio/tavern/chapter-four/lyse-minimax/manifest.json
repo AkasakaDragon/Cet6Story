@@ -9,61 +9,69 @@
       "file": "01.wav",
       "text": "Is the seat you mentioned still free? I would like some hot soup, and a look at that crystal.",
       "source_start": 0,
-      "source_end": 5.1
+      "source_end": 5.1,
+      "playback_gain_db": 0.94
     },
     {
       "file": "02.wav",
       "text": "Do not worry, I will not take it. My lantern is calmer here than it was in the market.",
       "source_start": 5.1,
-      "source_end": 10.76
+      "source_end": 10.76,
+      "playback_gain_db": -0.76
     },
     {
       "file": "03.wav",
       "text": "Lyse. Today I am here for a seat, and to check something.",
       "source_start": 10.76,
-      "source_end": 15.22
+      "source_end": 15.22,
+      "playback_gain_db": -0.39
     },
     {
       "file": "04.wav",
       "text": "It follows related magic, but cannot tell me an object's name. To the north, it sensed another echo.",
       "source_start": 15.22,
-      "source_end": 21.52
+      "source_end": 21.52,
+      "playback_gain_db": 0.35
     },
     {
       "file": "05.wav",
       "text": "Please keep that to yourself for now. I do not want everyone to hear only my title and ignore what I say.",
       "source_start": 21.52,
-      "source_end": 27.61
+      "source_end": 27.61,
+      "playback_gain_db": -0.51
     },
     {
       "file": "06.wav",
       "text": "For the last three nights, lamps in northern town have gone out suddenly. Before each blackout, my lantern pointed toward the old mine.",
       "source_start": 27.61,
-      "source_end": 36.06
+      "source_end": 36.06,
+      "playback_gain_db": 0.51
     },
     {
       "file": "07.wav",
       "text": "It can point the way, but cannot guarantee a safe path. I am not confident about going in alone.",
       "source_start": 36.06,
-      "source_end": 42.46
+      "source_end": 42.46,
+      "playback_gain_db": -0.83
     },
     {
       "file": "08.wav",
       "text": "I will tell the gate watch our route. If we are late, they will know where to look.",
       "source_start": 42.46,
-      "source_end": 47.52
+      "source_end": 47.52,
+      "playback_gain_db": 0.19
     },
     {
       "file": "09.wav",
       "text": "Thank you. Knowing that someone will hear me out is more reassuring than having my crest recognized.",
       "source_start": 47.52,
-      "source_end": 53.61541666666667
+      "source_end": 53.61541666666667,
+      "playback_gain_db": 0.27
     }
   ],
   "volume_match": {
-    "reference": "chapter-two/lyse-minimax",
-    "reference_lufs": -19.09,
-    "gain_db": 2.91,
-    "method": "constant gain, no clipping; duration preserved"
+    "reference": "actual chapter-two market.wav princess lines",
+    "reference_lufs": -15.98,
+    "method": "per-line loudness matching; other roles and duration preserved"
   }
 }
