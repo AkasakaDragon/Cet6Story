@@ -6,6 +6,7 @@ public class TavernTimeState {
 }
 public static class TavernTime {
  public static TavernTimeState State(Save save){if(save.tavernTime==null)save.tavernTime=new TavernTimeState();var t=save.tavernTime;if(t.day<1)t.day=1;if(t.phase!=StoryTime.Morning&&t.phase!=StoryTime.Dusk&&t.phase!=StoryTime.Night)t.phase=StoryTime.Morning;if(t.weather!="clear"&&t.weather!="cloudy"&&t.weather!="rain")t.weather="clear";return t;}
+ public static string BackgroundFile(TavernTimeState t){if(t.phase==StoryTime.Morning)return t.weather=="clear"?"hub-morning.png":t.weather=="cloudy"?"tavern-morning-cloudy-v2.png":"tavern-morning-rain-v2.png";return "tavern-"+(t.phase==StoryTime.Dusk?"dusk":"night")+"-"+t.weather+".png";}
  public static string Weather(string value){return value=="rain"?"雨天":value=="cloudy"?"多云":"晴天";}
  public static void Advance(Save save,Random random){var t=State(save);if(t.phase==StoryTime.Morning)t.phase=StoryTime.Dusk;else if(t.phase==StoryTime.Dusk)t.phase=StoryTime.Night;else{t.phase=StoryTime.Morning;t.day++;}t.weather=new[]{"clear","cloudy","rain"}[random.Next(3)];}
  // Relight the existing room and clip weather to its windows and exterior doorway.

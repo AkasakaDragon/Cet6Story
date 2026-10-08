@@ -1,0 +1,2 @@
+using System;using System.IO;using System.Drawing;
+class PreparationWeatherChecks{static void Main(){foreach(var weather in new[]{"clear","rain","cloudy"}){var file=Game.PreparationBackground(weather);using(var image=Image.FromFile(Path.Combine(AppDomain.CurrentDomain.BaseDirectory,"assets/waystation",file))){if(image.Width<1000)throw new Exception("Invalid background");Console.WriteLine(weather+" -> "+file);}}Console.WriteLine("PASS 3 preparation weather assets");}}
