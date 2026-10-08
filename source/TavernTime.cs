@@ -8,7 +8,8 @@ public static class TavernTime {
  public static TavernTimeState State(Save save){if(save.tavernTime==null)save.tavernTime=new TavernTimeState();var t=save.tavernTime;if(t.day<1)t.day=1;if(t.phase!=StoryTime.Morning&&t.phase!=StoryTime.Dusk&&t.phase!=StoryTime.Night)t.phase=StoryTime.Morning;if(t.weather!="clear"&&t.weather!="cloudy"&&t.weather!="rain")t.weather="clear";return t;}
  public static string BackgroundFile(TavernTimeState t){if(t.phase==StoryTime.Morning)return t.weather=="clear"?"hub-morning.png":t.weather=="cloudy"?"tavern-morning-cloudy-v2.png":"tavern-morning-rain-v2.png";return "tavern-"+(t.phase==StoryTime.Dusk?"dusk":"night")+"-"+t.weather+".png";}
  public static string Weather(string value){return value=="rain"?"雨天":value=="cloudy"?"多云":"晴天";}
- public static void Advance(Save save,Random random){var t=State(save);if(t.phase==StoryTime.Morning)t.phase=StoryTime.Dusk;else if(t.phase==StoryTime.Dusk)t.phase=StoryTime.Night;else{t.phase=StoryTime.Morning;t.day++;}t.weather=new[]{"clear","cloudy","rain"}[random.Next(3)];}
+ public static void NextDay(Save save,Random random){var t=State(save);t.day++;t.phase=StoryTime.Morning;t.weather=new[]{"clear","cloudy","rain"}[random.Next(3)];}
+ public static void Advance(Save save,Random random){var t=State(save);if(t.phase==StoryTime.Morning)t.phase=StoryTime.Dusk;else if(t.phase==StoryTime.Dusk)t.phase=StoryTime.Night;else NextDay(save,random);}
  // Relight the existing room and clip weather to its windows and exterior doorway.
  public static Bitmap Backdrop(Image original,TavernTimeState t){var b=new Bitmap(original.Width,original.Height);using(var g=Graphics.FromImage(b)){
   g.DrawImageUnscaled(original,0,0);Color tint=t.phase==StoryTime.Night?Color.FromArgb(92,10,24,57):t.phase==StoryTime.Dusk?Color.FromArgb(40,82,40,49):Color.Transparent;using(var brush=new SolidBrush(tint))g.FillRectangle(brush,0,0,b.Width,b.Height);
@@ -29,7 +30,7 @@ public sealed class TavernClock:Control {
 }
 public partial class Game {
  readonly Random tavernWeatherRandom=new Random();
- void SkipTavernTime(TavernClock clock){if(clock.Animating)return;var t=TavernTime.State(save);string next=t.phase==StoryTime.Morning?"黄昏":t.phase==StoryTime.Dusk?"晚上":"次日早上";if(GameMessage.Show(this,"当前：第"+t.day+"天 · "+StoryTime.Caption(t.phase)+"。\n是否跳过这个时间节点，前往"+next+"？\n屋外天气会重新随机变化。","时间流逝",MessageBoxButtons.YesNo)!=DialogResult.Yes)return;foreach(Control entry in clock.Parent.Controls)entry.Enabled=false;clock.AnimateNext(()=>{TavernTime.Advance(save,tavernWeatherRandom);Persist();ShowTavernHub();});}
+ void SkipTavernTime(TavernClock clock){if(clock.Animating)return;var t=TavernTime.State(save);string next=t.phase==StoryTime.Morning?"黄昏":t.phase==StoryTime.Dusk?"晚上":"次日早上";if(GameMessage.Show(this,"当前：第"+t.day+"天 · "+StoryTime.Caption(t.phase)+"。\n是否跳过这个时间节点，前往"+next+"？\n同一天的天气保持不变，次日早上才会重新确定天气。","时间流逝",MessageBoxButtons.YesNo)!=DialogResult.Yes)return;foreach(Control entry in clock.Parent.Controls)entry.Enabled=false;clock.AnimateNext(()=>{TavernTime.Advance(save,tavernWeatherRandom);Persist();ShowTavernHub();});}
 }
 
 

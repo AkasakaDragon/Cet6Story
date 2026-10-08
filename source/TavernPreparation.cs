@@ -1,7 +1,7 @@
 using System;using System.Drawing;using System.IO;using System.Windows.Forms;
 public partial class Game {
  void ConfirmTavernPreparation(){
-
+  if(TavernTime.State(save).phase!=StoryTime.Night){GameMessage.Show(this,"酒馆只在晚上开放。","酒馆营业");return;}
   using(var dialog=new GuildWordDialog{Text="营业准备",Width=Math.Min(620,ClientSize.Width-40),Height=300}){
    dialog.Location=new Point(Left+(Width-dialog.Width)/2,Top+(Height-dialog.Height)/2);
    var text=new OutlinedLabel{Dock=DockStyle.Fill,Text="是否立刻进行营业准备？\n\n营业结束后，时间将跳至第二天早上。",Font=GameTheme.Body(15),ForeColor=GuildChrome.Ivory,Padding=new Padding(22)};dialog.Controls.Add(text);
@@ -21,5 +21,5 @@ public partial class Game {
   Action layout=()=>{back.Size=new Size(Math.Min(200,Math.Max(130,scene.Width/7)),Math.Min(64,Math.Max(44,scene.Height/12)));back.Location=new Point(24,24);};scene.Resize+=(s,e)=>layout();layout();AddPreparationHotspot(scene,"今日菜单",ShowPreparationMenu,.84f,.57f);AddPreparationHotspot(scene,"检查食材",ShowPreparationKitchen,.92f,.46f);AddPreparationHotspot(scene,"开始营业",ShowTavernBusiness,.45f,.40f);AddPreparationHotspot(scene,"人员管理",ShowPreparationStaff,.665f,.53f);scene.Focus();
  }
  void ShowPreparationStaff(){using(var dialog=new GuildWordDialog{Text="人员管理",Width=Math.Min(620,ClientSize.Width-40),Height=380}){dialog.Location=new Point(Left+(Width-dialog.Width)/2,Top+(Height-dialog.Height)/2);var text=new OutlinedLabel{Dock=DockStyle.Fill,Font=GameTheme.Body(15),ForeColor=GuildChrome.Ivory,Padding=new Padding(24),Text="今晚的工作分工\n\n陆川：厨房烹饪\n莉瑟：吧台记账、记录订单\n艾莉娅：从厨房传菜\n\n大家换上方便工作的衣服，准备迎接客人。"};dialog.Controls.Add(text);dialog.ShowDialog(this);}}
- void EndTavernBusinessDay(){var time=TavernTime.State(save);time.day++;time.phase=StoryTime.Morning;time.weather=new[]{"clear","cloudy","rain"}[tavernWeatherRandom.Next(3)];Persist();GameMessage.Show(this,"营业结束，已进入第"+time.day+"天早上。\n本次经营收益已保存。","营业结束");ShowTavernHub();}
+ void EndTavernBusinessDay(){TavernTime.NextDay(save,tavernWeatherRandom);var time=TavernTime.State(save);Persist();GameMessage.Show(this,"营业结束，已进入第"+time.day+"天早上。\n本次经营收益已保存。","营业结束");ShowTavernHub();}
 }
