@@ -3,7 +3,7 @@ public partial class Game {
  const string SubtitleStarRule="全答对：★；全答对且未开中文：★★；全答对且未开中英：★★★。未全答对无星。";
  bool ChooseSectionSubtitles(){
   var attempt=Attempt();if(attempt.review)return true;if(attempt.subtitlesChosen){if(attempt.chineseSubtitles.HasValue)save.chinese=translating=attempt.chineseSubtitles.Value;if(attempt.englishSubtitles.HasValue)save.english=englishVisible=attempt.englishSubtitles.Value;return true;}
-  using(var dialog=new GuildWordDialog{Text="本节字幕与挑战模式",Width=700,Height=420}){
+  using(var dialog=new GuildWordDialog{QuestStyle=true,BackColor=Color.FromArgb(6,29,29),Padding=new Padding(30,58,30,30),Text="本节字幕与挑战模式",Width=700,Height=450}){
    dialog.Location=new Point(Left+(Width-dialog.Width)/2,Top+(Height-dialog.Height)/2);
    var body=new FlowLayoutPanel{Dock=DockStyle.Fill,FlowDirection=FlowDirection.TopDown,WrapContents=false,Padding=new Padding(20),BackColor=dialog.BackColor};dialog.Controls.Add(body);
    var heading=Lab(current.title,18,Gold);heading.MaximumSize=new Size(620,0);body.Controls.Add(heading);var rules=Lab(SubtitleStarRule+"\n本节中途开启字幕也会计入评价；重听不扣星。",11);rules.MaximumSize=new Size(620,0);body.Controls.Add(rules);
@@ -16,8 +16,10 @@ public partial class Game {
    body.Controls.Add(Btn("中英文字幕 · 全对可得一星",()=>select(true,true),true));
    body.Controls.Add(Btn("仅英文字幕 · 全对可得两星",()=>select(false,true)));
    body.Controls.Add(Btn("关闭中英文字幕 · 全对可得三星",()=>select(false,false)));
+   foreach(var button in body.Controls.OfType<Button>()){button.AutoSize=false;button.Size=new Size(590,46);button.Margin=new Padding(0,6,0,6);}
+   Action alignOptions=()=>{int width=Math.Max(1,body.ClientSize.Width-body.Padding.Horizontal);foreach(var button in body.Controls.OfType<Button>())button.Width=width;heading.MaximumSize=new Size(width,0);rules.MaximumSize=new Size(width,0);};body.Resize+=(s,e)=>alignOptions();alignOptions();
    if(attempt.started>0){var old=Lab("旧版未完成进度缺少字幕记录：本次最高一星。重新挑战可争取三星。",10,Muted);old.MaximumSize=new Size(620,0);body.Controls.Add(old);}
-   dialog.ShowDialog(this);if(!chosen){ShowMain();return false;}return true;
+   dialog.ShowDialog(this);if(!chosen){if(WaystationChapterOne.Dialogue(current)){mainQuestSections=WaystationChapterOne.Is(current);Action returnToList=()=>{if(IsDisposed)return;ShowWaystationWorldMap();ShowTavernMainQuest();};if(menuLoading!=null&&!menuLoading.IsDisposed){var wait=new Timer{Interval=50};wait.Tick+=(s,e)=>{if(IsDisposed){wait.Dispose();return;}if(menuLoading!=null&&!menuLoading.IsDisposed)return;wait.Stop();wait.Dispose();returnToList();};wait.Start();}else returnToList();}else ShowChapters();return false;}return true;
   }
  }
  bool SetStorySubtitle(bool chinese,bool enabled){

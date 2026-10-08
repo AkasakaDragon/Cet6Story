@@ -175,7 +175,7 @@
       "hidePortraits": true,
       "timeOfDay": "night",
       "start": 94.566,
-      "end": 107.262
+      "end": 104.156
     },
     {
       "speaker": "陆川",
@@ -187,8 +187,8 @@
       "sceneSingle": true,
       "hidePortraits": true,
       "timeOfDay": "night",
-      "start": 107.512,
-      "end": 124.624
+      "start": 104.406,
+      "end": 117.582
     },
     {
       "speaker": "莉瑟",
@@ -200,8 +200,8 @@
       "sceneSingle": true,
       "hidePortraits": true,
       "timeOfDay": "night",
-      "start": 124.874,
-      "end": 138.866
+      "start": 117.832,
+      "end": 127.542
     },
     {
       "speaker": "艾莉娅",
@@ -213,8 +213,8 @@
       "sceneSingle": true,
       "hidePortraits": true,
       "timeOfDay": "night",
-      "start": 139.116,
-      "end": 151.524
+      "start": 127.792,
+      "end": 138.832
     },
     {
       "speaker": "艾莉娅",
@@ -226,8 +226,8 @@
       "sceneSingle": true,
       "hidePortraits": true,
       "timeOfDay": "night",
-      "start": 151.774,
-      "end": 163.702
+      "start": 139.082,
+      "end": 151.01
     },
     {
       "speaker": "莉瑟",
@@ -239,8 +239,8 @@
       "sceneSingle": true,
       "hidePortraits": true,
       "timeOfDay": "night",
-      "start": 163.952,
-      "end": 175.52
+      "start": 151.26,
+      "end": 159.8345
     },
     {
       "speaker": "陆川",
@@ -252,8 +252,8 @@
       "sceneSingle": true,
       "hidePortraits": true,
       "timeOfDay": "night",
-      "start": 175.77,
-      "end": 191.178
+      "start": 160.0845,
+      "end": 171.6045
     },
     {
       "speaker": "旁白",
@@ -263,8 +263,8 @@
       "translation": "陆川洗净手，艾莉娅重新热好汤。莉瑟点亮桌灯，门牌第一次翻到营业的一面。",
       "scene": "art/tavern/chapter-one-night.png",
       "sceneSingle": true,
-      "start": 191.428,
-      "end": 200.932,
+      "start": 171.8545,
+      "end": 181.3585,
       "timeOfDay": "night"
     },
     {
@@ -275,8 +275,8 @@
       "translation": "送货人收工后回来，两名巡逻守卫随后进门。准备好的四张圆桌终于迎来了客人。",
       "scene": "art/tavern/chapter-one-night.png",
       "sceneSingle": true,
-      "start": 201.182,
-      "end": 210.638,
+      "start": 181.6085,
+      "end": 191.0645,
       "timeOfDay": "night"
     },
     {
@@ -287,8 +287,8 @@
       "translation": "一碗不加鸡蛋的汤，两片面包带走。我记得你说过，准备好了才开门。",
       "scene": "art/tavern/chapter-one-night.png",
       "sceneSingle": true,
-      "start": 210.888,
-      "end": 219.528,
+      "start": 191.3145,
+      "end": 199.9545,
       "timeOfDay": "night"
     },
     {
@@ -299,8 +299,8 @@
       "translation": "汤不加鸡蛋，面包打包。今晚是第一次营业，谢谢你愿意来。",
       "scene": "art/tavern/chapter-one-night.png",
       "sceneSingle": true,
-      "start": 219.778,
-      "end": 225.85,
+      "start": 200.2045,
+      "end": 206.2765,
       "timeOfDay": "night"
     },
     {
@@ -311,8 +311,8 @@
       "translation": "我来装面包，你先端汤。门口和厨房的通道都留空，照我们试过的顺序来。",
       "scene": "art/tavern/chapter-one-night.png",
       "sceneSingle": true,
-      "start": 226.1,
-      "end": 234.116,
+      "start": 206.5265,
+      "end": 214.5425,
       "timeOfDay": "night"
     },
     {
@@ -323,8 +323,8 @@
       "translation": "碗勺声和谈笑声渐渐填满大厅。晶石的微光稳定下来，但没有新的裂缝自行消失。",
       "scene": "art/tavern/chapter-one-night.png",
       "sceneSingle": true,
-      "start": 234.366,
-      "end": 243.126,
+      "start": 214.7925,
+      "end": 223.5525,
       "timeOfDay": "night"
     },
     {
@@ -335,8 +335,8 @@
       "translation": "接下来是账本。今日营业收了二十四枚铜币，食材成本十八枚。",
       "scene": "art/tavern/chapter-one-night.png",
       "sceneSingle": true,
-      "start": 243.376,
-      "end": 250.36,
+      "start": 223.8025,
+      "end": 230.7865,
       "timeOfDay": "night"
     },
     {
@@ -347,8 +347,8 @@
       "translation": "那是六枚盈余，不是二十四枚。明天还要进货，别把收入全当能花的钱。",
       "scene": "art/tavern/chapter-one-night.png",
       "sceneSingle": true,
-      "start": 250.61,
-      "end": 259.034,
+      "start": 231.0365,
+      "end": 239.4605,
       "timeOfDay": "night"
     },
     {
@@ -359,8 +359,8 @@
       "translation": "记下了，成本和收入分开。我还留着采购后剩下的十二枚备用金。",
       "scene": "art/tavern/chapter-one-night.png",
       "sceneSingle": true,
-      "start": 259.284,
-      "end": 266.388,
+      "start": 239.7105,
+      "end": 246.8145,
       "timeOfDay": "night"
     },
     {
@@ -371,8 +371,8 @@
       "translation": "第一天能算清楚，比第一天就赚大钱可靠。你们明天还开门吗？",
       "scene": "art/tavern/chapter-one-night.png",
       "sceneSingle": true,
-      "start": 266.638,
-      "end": 271.788,
+      "start": 247.0645,
+      "end": 252.2145,
       "timeOfDay": "night"
     },
     {
@@ -383,8 +383,8 @@
       "translation": "开。先保留今天的菜单，不能因为卖完一锅汤就假装自己是大厨。",
       "scene": "art/tavern/chapter-one-night.png",
       "sceneSingle": true,
-      "start": 272.038,
-      "end": 278.374,
+      "start": 252.4645,
+      "end": 258.8005,
       "timeOfDay": "night"
     },
     {
@@ -395,8 +395,8 @@
       "translation": "也把矿道记录抄一份。明早交给值守官，不把危险只留在我们自己的本子里。",
       "scene": "art/tavern/chapter-one-night.png",
       "sceneSingle": true,
-      "start": 278.624,
-      "end": 286.688,
+      "start": 259.0505,
+      "end": 267.1145,
       "timeOfDay": "night"
     },
     {
@@ -407,8 +407,8 @@
       "translation": "门外传来车轮声，一位披深色斗篷的侍从在门廊下停住。",
       "scene": "art/tavern/chapter-one-night.png",
       "sceneSingle": true,
-      "start": 286.938,
-      "end": 293.154,
+      "start": 267.3645,
+      "end": 273.5805,
       "timeOfDay": "night"
     },
     {
@@ -419,8 +419,8 @@
       "translation": "殿下，马车已备好。您让我们等到的时刻已经到了。",
       "scene": "art/tavern/chapter-one-night.png",
       "sceneSingle": true,
-      "start": 293.404,
-      "end": 299.524,
+      "start": 273.8305,
+      "end": 279.9505,
       "timeOfDay": "night"
     },
     {
@@ -431,8 +431,8 @@
       "translation": "殿下？所以灯柄上的纹章，不是买灯时附送的装饰。",
       "scene": "art/tavern/chapter-one-night.png",
       "sceneSingle": true,
-      "start": 299.774,
-      "end": 305.318,
+      "start": 280.2005,
+      "end": 285.7445,
       "timeOfDay": "night"
     },
     {
@@ -443,8 +443,8 @@
       "translation": "不是。对不起，今天先说了一个能让我自在些的名字。",
       "scene": "art/tavern/chapter-one-night.png",
       "sceneSingle": true,
-      "start": 305.568,
-      "end": 310.888,
+      "start": 285.9945,
+      "end": 291.3145,
       "timeOfDay": "night"
     },
     {
@@ -455,8 +455,8 @@
       "translation": "你告诉我们的灯和矿道都是真的。名字的另一半，等你想说时再说。",
       "scene": "art/tavern/chapter-one-night.png",
       "sceneSingle": true,
-      "start": 311.138,
-      "end": 317.882,
+      "start": 291.5645,
+      "end": 298.3085,
       "timeOfDay": "night"
     },
     {
@@ -467,8 +467,8 @@
       "translation": "谢谢。下次我还是想坐今天这个位置，喝你们的汤。",
       "scene": "art/tavern/chapter-one-night.png",
       "sceneSingle": true,
-      "start": 318.132,
-      "end": 322.91316666666665,
+      "start": 298.5585,
+      "end": 303.339667,
       "timeOfDay": "night"
     },
     {
@@ -479,8 +479,8 @@
       "translation": "马车越过石桥。艾莉娅收好最后一只杯子，陆川将门牌翻到打烊的一面。",
       "scene": "art/tavern/chapter-one-night.png",
       "sceneSingle": true,
-      "start": 323.16316666666665,
-      "end": 331.5151666666667,
+      "start": 303.589667,
+      "end": 311.941667,
       "timeOfDay": "night"
     },
     {
@@ -491,8 +491,8 @@
       "translation": "如果你还需要人守着这里，我明天也在。不是只等屋顶修好的那一天。",
       "scene": "art/tavern/chapter-one-night.png",
       "sceneSingle": true,
-      "start": 331.7651666666667,
-      "end": 339.80516666666665,
+      "start": 312.191667,
+      "end": 320.231667,
       "timeOfDay": "night"
     },
     {
@@ -503,8 +503,8 @@
       "translation": "需要。明天的分工还是一起商量，今天就先好好休息。",
       "scene": "art/tavern/chapter-one-night.png",
       "sceneSingle": true,
-      "start": 340.05516666666665,
-      "end": 345.3591666666667,
+      "start": 320.481667,
+      "end": 325.785667,
       "timeOfDay": "night"
     },
     {
@@ -515,8 +515,8 @@
       "translation": "账本里夹着采购单、第一批订单和矿道记录。直到这一晚，驿站才真正完成第一次营业。",
       "scene": "art/tavern/chapter-one-night.png",
       "sceneSingle": true,
-      "start": 345.6091666666667,
-      "end": 355.06516666666664,
+      "start": 326.035667,
+      "end": 335.491667,
       "timeOfDay": "night"
     },
     {
@@ -527,8 +527,8 @@
       "translation": "门口那盏灯留着吧。要是有人夜里路过，至少知道这里还有个归处。",
       "scene": "art/tavern/chapter-one-night.png",
       "sceneSingle": true,
-      "start": 355.31516666666664,
-      "end": 362.1551666666667,
+      "start": 335.741667,
+      "end": 342.581667,
       "timeOfDay": "night"
     },
     {
@@ -539,8 +539,8 @@
       "translation": "地下深处，一道低语穿过黑暗：“那间驿站……又亮起来了。”",
       "scene": "art/tavern/chapter-one-night.png",
       "sceneSingle": true,
-      "start": 362.4051666666667,
-      "end": 369.00516666666664,
+      "start": 342.831667,
+      "end": 349.431667,
       "timeOfDay": "night"
     }
   ],

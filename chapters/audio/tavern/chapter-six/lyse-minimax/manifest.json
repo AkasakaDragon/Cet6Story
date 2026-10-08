@@ -9,25 +9,58 @@
       "file": "01.wav",
       "text": "The butterfly no longer circles this gap. At least today, we found the right piece.",
       "source_start": 0,
-      "source_end": 4.96
+      "source_end": 4.96,
+      "playback_gain_db": 5.89
     },
     {
+      "text": "I understand too. Bringing travelers together also helps keep the town safe. I would like to help tonight, and we can continue investigating the crystal afterward.",
+      "source_file": "additional-source.mp3",
+      "source_start": 0,
+      "source_end": 9.59,
       "file": "02.wav",
+      "playback_gain_db": -2.53
+    },
+    {
+      "text": "I will record orders at the bar: the table number, portions, special requests, and whether the food is to go. Then I will pass each order to the kitchen.",
+      "source_file": "additional-source.mp3",
+      "source_start": 9.59,
+      "source_end": 19.3,
+      "file": "03.wav",
+      "playback_gain_db": -1.13
+    },
+    {
+      "text": "Understood. I will record each order carefully. When it gets busy, I can help pack the bread, but I will not leave an unchecked order behind.",
+      "source_file": "additional-source.mp3",
+      "source_start": 19.3,
+      "source_end": 27.8745,
+      "file": "04.wav",
+      "playback_gain_db": -1.02
+    },
+    {
+      "file": "05.wav",
       "text": "Clear accounts on day one are more reliable than a fortune. Will you be open tomorrow?",
       "source_start": 4.96,
-      "source_end": 10.11
+      "source_end": 10.11,
+      "playback_gain_db": 3.99
     },
     {
-      "file": "03.wav",
+      "file": "06.wav",
       "text": "No. I am sorry. Today I used a name that gave me a little freedom.",
       "source_start": 10.11,
-      "source_end": 15.43
+      "source_end": 15.43,
+      "playback_gain_db": 3.91
     },
     {
-      "file": "04.wav",
+      "file": "07.wav",
       "text": "Thank you. Next time, I would still like this seat and a bowl of your soup.",
       "source_start": 15.43,
-      "source_end": 20.211166666666667
+      "source_end": 20.211166666666667,
+      "playback_gain_db": 6.24
     }
-  ]
+  ],
+  "volume_match": {
+    "reference": "actual chapter-two market.wav princess lines",
+    "reference_lufs": -15.98,
+    "method": "per-line loudness matching; other roles and duration preserved"
+  }
 }

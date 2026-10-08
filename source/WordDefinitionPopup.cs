@@ -21,11 +21,11 @@ public class WordDefinitionPopup:Form {
 }
 public class WordDefinitionIcon:RogueIcon {
  protected override void OnPaintBackground(PaintEventArgs e){e.Graphics.Clear(WordDefinitionPopup.Paper);}
- protected override void OnPaint(PaintEventArgs e){var g=e.Graphics;g.Clear(WordDefinitionPopup.Paper);g.SmoothingMode=SmoothingMode.AntiAlias;var ink=Enabled?WordDefinitionPopup.Ink:WordDefinitionPopup.SoftInk;
+ protected override void OnPaint(PaintEventArgs e){var g=e.Graphics;g.Clear(WordDefinitionPopup.Paper);g.SmoothingMode=SmoothingMode.AntiAlias;var ink=!Enabled?WordDefinitionPopup.SoftInk:Kind=="star"&&Selected?Color.FromArgb(255,225,64):WordDefinitionPopup.Ink;
   using(var pen=new Pen(ink,1.8f)){
    if(Kind=="speaker"){var points=new[]{new Point(10,18),new Point(16,18),new Point(23,12),new Point(23,32),new Point(16,26),new Point(10,26)};g.DrawPolygon(pen,points);g.DrawArc(pen,19,14,13,16,-65,130);g.DrawArc(pen,19,9,20,26,-65,130);}
-   else{var points=new PointF[10];for(int i=0;i<10;i++){double angle=-Math.PI/2+i*Math.PI/5;double radius=i%2==0?14:6;points[i]=new PointF(22+(float)(Math.Cos(angle)*radius),22+(float)(Math.Sin(angle)*radius));}if(Selected)using(var fill=new SolidBrush(Color.FromArgb(53,80,73)))g.FillPolygon(fill,points);g.DrawPolygon(pen,points);}
+   else{var points=new PointF[10];for(int i=0;i<10;i++){double angle=-Math.PI/2+i*Math.PI/5;double radius=i%2==0?14:6;points[i]=new PointF(22+(float)(Math.Cos(angle)*radius),22+(float)(Math.Sin(angle)*radius));}if(Selected)using(var fill=new SolidBrush(ink))g.FillPolygon(fill,points);g.DrawPolygon(pen,points);}
   }
-  if(Focused)ControlPaint.DrawFocusRectangle(g,new Rectangle(3,3,Width-6,Height-6),ink,WordDefinitionPopup.Paper);
+
  }
 }

@@ -1,0 +1,9 @@
+using System;using System.Drawing;using System.Windows.Forms;
+public sealed class MainQuestCard:Button {
+ public string Heading,Detail;public bool Complete,Current,Locked;bool hover;
+ public MainQuestCard(){SetStyle(ControlStyles.UserPaint|ControlStyles.AllPaintingInWmPaint|ControlStyles.OptimizedDoubleBuffer,true);FlatStyle=FlatStyle.Flat;FlatAppearance.BorderSize=0;BackColor=Color.FromArgb(6,29,29);Cursor=Cursors.Hand;}
+ protected override void OnMouseEnter(EventArgs e){if(Enabled)VNButton.PlayControlSound(this,false);hover=true;Invalidate();base.OnMouseEnter(e);}protected override void OnMouseLeave(EventArgs e){hover=false;Invalidate();base.OnMouseLeave(e);}
+ protected override void OnPaint(PaintEventArgs e){var g=e.Graphics;g.Clear(BackColor);QuestChrome.Draw(g,ClientRectangle,Current||hover&&!Locked,Complete,true,!Locked&&!Current);Color ink=Locked?GuildChrome.Muted:GuildChrome.Ivory;int cy=Height/2;using(var pen=new Pen(Complete?Color.FromArgb(255,225,64):ink,2)){if(Locked){g.DrawArc(pen,24,cy-15,14,17,180,180);g.DrawRectangle(pen,22,cy-4,18,16);g.DrawLine(pen,31,cy+1,31,cy+7);}else{g.DrawPolygon(pen,new[]{new Point(31,cy-13),new Point(44,cy),new Point(31,cy+13),new Point(18,cy)});if(Complete)g.DrawLines(pen,new[]{new Point(25,cy),new Point(30,cy+5),new Point(38,cy-5)});}}
+ int textTop=Math.Max(7,(Height-48)/2);float size=Width<560?12:15;using(var font=GameTheme.Body(size,FontStyle.Bold))GameTheme.DrawText(g,Heading,font,new Rectangle(60,textTop,Width-78,28),ink,TextFormatFlags.VerticalCenter|TextFormatFlags.EndEllipsis|TextFormatFlags.NoPadding);using(var font=GameTheme.Body(10))GameTheme.DrawText(g,Detail,font,new Rectangle(60,textTop+28,Width-78,20),Complete||Current?Color.FromArgb(245,214,123):GuildChrome.Muted,TextFormatFlags.VerticalCenter|TextFormatFlags.EndEllipsis|TextFormatFlags.NoPadding);
+ }
+}
