@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Drawing;
 using System.IO;
 using System.Windows.Forms;
@@ -25,17 +25,15 @@ public partial class Game {
    "Then shall I save you some breakfast tomorrow?",
    "Please do. You're wiping the tables, though. Don't leave them all to me again.",
    "Lu Chuan picks up the cloth as Aelia folds the notes. Unanswered questions and a trusted partner give her a reason to stay. The lamp by the door is still burning."};
-  var surface=new Panel{Dock=DockStyle.Fill,BackColor=Color.Black};content.Controls.Add(surface);
-  var picture=new PictureBox{SizeMode=PictureBoxSizeMode.Zoom,BackColor=Color.Black};surface.Controls.Add(picture);
-  var box=new Panel{Height=210,Padding=new Padding(28,16,28,12),BackColor=Color.FromArgb(8,25,31)};surface.Controls.Add(box);box.BringToFront();
-  Action layout=()=>{int top=Math.Max(0,surface.ClientSize.Height-210);picture.SetBounds(0,0,surface.ClientSize.Width,top);box.SetBounds(0,top,surface.ClientSize.Width,210);box.BringToFront();};surface.Resize+=(s,e)=>layout();layout();
-  var controls=new FlowLayoutPanel{Dock=DockStyle.Bottom,Height=48,FlowDirection=FlowDirection.RightToLeft};box.Controls.Add(controls);
-  var text=new Label{Dock=DockStyle.Fill,ForeColor=Color.FromArgb(240,225,190),Font=GameTheme.Body(15),TextAlign=ContentAlignment.MiddleLeft};box.Controls.Add(text);text.BringToFront();
-  var next=new VNButton{Text="点击继续",PixelStyle=true,Size=new Size(150,42),Font=GameTheme.Body(12)};
-  var previous=new VNButton{Text="上一句",PixelStyle=true,Size=new Size(120,42),Font=GameTheme.Body(12)};controls.Controls.Add(next);controls.Controls.Add(previous);
-  int line=0;
-  Action update=()=>{var nextImage=CachedImage(Path.Combine(root,"chapters","art","tavern",line<4?"chapter-one-stay-investigation.png":"chapter-one-stay-partners.png"));if(picture.Image!=null&&picture.Image!=nextImage)BeginStoryBackgroundBlackout();picture.Image=nextImage;text.Text="【"+speakers[line]+"】\n"+en[line]+"\n"+zh[line];previous.Enabled=line>0;next.Text=line==zh.Length-1?"完成第一章":"点击继续";};
-  Action advance=()=>{if(page!="waystation-stay-epilogue")return;if(line<zh.Length-1){line++;update();}else{Attempt().endingShown=true;Persist();CompleteChapterOne();}};
-  next.Click+=(s,e)=>advance();previous.Click+=(s,e)=>{if(line>0){line--;update();}};picture.Click+=(s,e)=>advance();text.Click+=(s,e)=>advance();update();
+  stayOriginalChapter=current;stayOriginalIndex=index;
+  stayDialogueChapter=new Chapter{id=current.id,title="第一章第六节 · 打烊对话",timeOfDay="night",pixelArt=true,inlineQuestions=false,
+   background="art/tavern/chapter-one-stay-closeup.png",audio="audio/tavern/chapter-six/stay.wav",audioLabel="离线固定角色英文配音",questions=new System.Collections.Generic.List<QuizQuestion>(),decisions=new System.Collections.Generic.List<Decision>(),
+   actors=new System.Collections.Generic.List<Actor>{new Actor{id="luchuan",gender="male"},new Actor{id="aelia",gender="female"}},lines=new System.Collections.Generic.List<Line>()};
+  var timing=Engine.Json.Deserialize<System.Collections.Generic.List<Line>>(File.ReadAllText(Engine.SafePath(folders[current.id],"audio/tavern/chapter-six/stay.json")));
+  for(int i=0;i<zh.Length;i++)stayDialogueChapter.lines.Add(new Line{speaker=speakers[i],actor=speakers[i]=="陆川"?"luchuan":speakers[i]=="艾莉娅"?"aelia":"",text=en[i],translation=zh[i],start=timing[i].start,end=timing[i].end,scene=stayDialogueChapter.background,sceneSingle=true,timeOfDay="night"});
+  current=stayDialogueChapter;index=0;ShowStory();
  }
+ Chapter stayDialogueChapter,stayOriginalChapter;int stayOriginalIndex;
+ bool IsStayDialogue(){return current!=null&&Object.ReferenceEquals(current,stayDialogueChapter);}
+ void CompleteStayDialogue(){StopAudio();current=stayOriginalChapter;index=stayOriginalIndex;stayDialogueChapter=null;Attempt().endingShown=true;Persist();CompleteChapterOne();}
 }

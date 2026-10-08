@@ -2,20 +2,22 @@ using System;using System.Drawing;using System.IO;using System.Windows.Forms;
 public partial class Game {
  void ShowTavernHub(){
   ClearPage();page="tavern-hub";rogueArena=null;
-  var scene=new CardRewardSurface{Dock=DockStyle.Fill,Art=CachedImage(Path.Combine(root,"assets","waystation","hub-morning.png")),AutoScroll=false,CompositeChildren=true};content.Controls.Add(scene);
+  var time=TavernTime.State(save);string weatherArt=time.weather=="clear"?"hub-morning.png":"hub-"+time.weather+".png";var backdrop=TavernTime.Backdrop(CachedImage(Path.Combine(root,"assets","waystation",weatherArt)),time);
+  var scene=new CardRewardSurface{Dock=DockStyle.Fill,Art=backdrop,PixelArt=true,AutoScroll=false,CompositeChildren=true};scene.Disposed+=(s,e)=>backdrop.Dispose();content.Controls.Add(scene);
+  var clock=new TavernClock{Art=CachedImage(Path.Combine(root,"assets","ui","tavern-time-clock-dial.png")),Time=time};clock.Click+=(s,e)=>SkipTavernTime(clock);scene.Controls.Add(clock);tips.SetToolTip(clock,"点击跳过当前时段 · 早上 → 黄昏 → 晚上 → 次日早上");
   var entries=new[]{
    ShowcaseButton("支线远征",ShowToxicWoodlandEntry,190,74),
-   ShowcaseButton("主线任务",ShowTavernMainQuest,190,74),
+   ShowcaseButton("酒馆经营",ShowTavernBusiness,190,74),
    ShowcaseButton("前往城镇",ShowWaystationWorldMap,190,74),
    ShowcaseButton("返回主界面",ShowMain,220,70),
-   ShowcaseButton("酒馆经营",ShowTavernBusiness,190,74),
    ShowcaseButton("伙伴房间",()=>GameMessage.Show(this,"伙伴房间尚未开放。","伙伴房间"),190,74)
   };
-  var locations=new[]{new Rectangle(465,420,190,74),new Rectangle(1010,495,190,74),new Rectangle(716,510,190,74),new Rectangle(42,34,220,70),new Rectangle(770,350,190,74),new Rectangle(1310,190,190,74)};
+  var locations=new[]{new Rectangle(465,420,190,74),new Rectangle(1010,495,190,74),new Rectangle(716,510,190,74),new Rectangle(42,34,220,70),new Rectangle(1310,190,190,74)};
   foreach(var entry in entries){entry.GuildStyle=true;entry.LibraryStyle=true;AddWoodMenuHover(entry);scene.Controls.Add(entry);}
-  tips.SetToolTip(entries[0],"公告板 · 剧毒林地：十节点路线远征");tips.SetToolTip(entries[1],"吧台 · 继续主线与重看序幕");tips.SetToolTip(entries[2],"大门 · 世界地图与主线篇章");tips.SetToolTip(entries[4],"第一章全部完成后开放 · 咒语学习 / 咒语识别");tips.SetToolTip(entries[5],"楼上客房 · 伙伴房间（尚未开放）");
+  tips.SetToolTip(entries[0],"公告板 · 剧毒林地：十节点路线远征");tips.SetToolTip(entries[1],"吧台 · 第一章全部完成后开放咒语学习 / 咒语识别");tips.SetToolTip(entries[2],"大门 · 世界地图与主线篇章");tips.SetToolTip(entries[4],"楼上客房 · 伙伴房间（尚未开放）");
   Action layout=()=>{float scale=Math.Max(scene.Width/(float)scene.Art.Width,scene.Height/(float)scene.Art.Height);int ox=(int)Math.Round((scene.Width-scene.Art.Width*scale)/2),oy=(int)Math.Round((scene.Height-scene.Art.Height*scale)/2);for(int i=0;i<entries.Length;i++){var r=locations[i];PlaceShowcase(entries[i],scale,ox,oy,r.X,r.Y,r.Width,r.Height,18);}};
-  scene.Resize+=(s,e)=>layout();layout();scene.Focus();
+  Action clockLayout=()=>{int side=Math.Max(100,Math.Min(190,Math.Min(scene.Width/5,scene.Height/4)));clock.Size=new Size(side+40,side+42);clock.Location=new Point(scene.Width-clock.Width-18,scene.Height-clock.Height-14);clock.BringToFront();};
+  scene.Resize+=(s,e)=>{layout();clockLayout();};layout();clockLayout();scene.Focus();
  }
  void ShowTavernMainQuest(){
   using(var dialog=new GuildWordDialog{Text="主线任务",Width=760,Height=Math.Min(740,Screen.FromControl(this).WorkingArea.Height-32)}){

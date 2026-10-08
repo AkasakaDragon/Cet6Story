@@ -11,7 +11,7 @@ public partial class Game {
  void TransitionCgPage(Action build){
   // Build and capture the entire dialogue page before permitting a screen repaint.
   // The outgoing CG ends at opaque black; the incoming page starts at the same black.
-  OpeningRedrawMessage(Handle,0x000B,IntPtr.Zero,IntPtr.Zero);
+  OpeningRedrawMessage(content.Handle,0x000B,IntPtr.Zero,IntPtr.Zero);
   SuspendLayout();content.SuspendLayout();
   try{
    buildingCgDestination=true;
@@ -26,7 +26,7 @@ public partial class Game {
    reveal.Start();
   }finally{
    content.ResumeLayout(true);ResumeLayout(true);
-   OpeningRedrawMessage(Handle,0x000B,new IntPtr(1),IntPtr.Zero);
+   OpeningRedrawMessage(content.Handle,0x000B,new IntPtr(1),IntPtr.Zero);
    Invalidate(true);Update();
   }
  }

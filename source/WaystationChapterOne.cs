@@ -3,7 +3,7 @@ public static class WaystationChapterOne {
  public const string Id="tavern-01-01";
  public const string SecondId="tavern-01-02";
  public static readonly string[] Ids={Id,SecondId,"tavern-01-03","tavern-01-04","tavern-01-05","tavern-01-06"};
- public static readonly string[] Names={"老板的第一天","集市：不愿透露姓名的少女","午后：第一批客人","傍晚：一盏灯的来客","旧矿道：第一次主动出发","夜晚：第一次打烊"};
+ public static readonly string[] Names={"老板的第一天","集市：不愿透露姓名的少女","黄昏：开门前的准备","黄昏：一盏灯的来客","旧矿道：第一次主动出发","夜晚：第一次营业"};
  public static readonly string[] Media={"chapter-one","chapter-two","chapter-three","chapter-four","chapter-five","chapter-six"};
  public static int Number(Chapter c){return c==null?-1:Array.IndexOf(Ids,c.id);}
  public static bool Second(Chapter c){return c!=null&&c.id==SecondId;}
@@ -20,7 +20,7 @@ public partial class Game {
   Action finish=()=>{if(finished||page!="waystation-chapter-cg"||!WaystationChapterOne.Is(current))return;finished=true;if(intro){Attempt().introShown=true;Persist();ShowStory();}else if(WaystationChapterOne.Number(current)==5){ShowChapterOneStayEpilogue();}else{Attempt().endingShown=true;CompleteChapterOne();}};
   try{var canvas=new OpeningCgCanvas(Path.Combine(root,"tools","ffmpeg","ffmpeg.exe"),Path.Combine(root,"assets","opening","tavern",section+"-"+kind+".mp4"),AudioDevicePath.Relative(AudioVolume.Prepare(Path.Combine(folder,kind+".wav"),EffectSoundVolume(),root)),spec.seconds){Dock=DockStyle.Fill,FillFrame=true};content.Controls.Add(canvas);canvas.Completed=()=>TransitionCgPage(finish);canvas.Failed=message=>{GameMessage.Show(this,"章节 CG 播放失败："+message);finish();};
    if(save.english||save.chinese){var captions=new OutlinedLabel{Text=(save.english?spec.en+"\n":"")+(save.chinese?spec.zh:""),Font=GameTheme.Body(16),ForeColor=Color.White,BackColor=Color.FromArgb(190,5,22,30),Height=110,Dock=DockStyle.Bottom};canvas.Controls.Add(captions);}
-   var skip=new VNButton{Text="跳过 CG",PixelStyle=true,Size=new Size(125,46),Font=GameTheme.Body(12)};canvas.Controls.Add(skip);Action place=()=>skip.Location=new Point(Math.Max(8,canvas.Width-145),20);canvas.Resize+=(s,e)=>place();place();skip.Click+=(s,e)=>TransitionCgPage(finish);canvas.Start();
+   var skip=new VNButton{Text="跳过 CG",PixelStyle=true,Size=new Size(125,46),Font=GameTheme.Body(12)};canvas.Controls.Add(skip);Action place=()=>skip.Location=new Point(Math.Max(8,canvas.Width-145),20);canvas.Resize+=(s,e)=>place();place();skip.Click+=(s,e)=>TransitionCgPage(finish);StoryTime.AddBadge(canvas,spec.timeOfDay??current.timeOfDay);canvas.Start();
   }catch(Exception ex){GameMessage.Show(this,"章节 CG 播放失败："+ex.Message);finish();}
  }
  void CompleteChapterOne(){
@@ -29,5 +29,4 @@ public partial class Game {
   content.Controls.Add(new PrologueCompletion{Dock=DockStyle.Fill,BackgroundArt=CachedImage(Engine.SafePath(folders[current.id],current.lines.Last().scene)),Chapter=current,Save=save,Correct=correct,Stars=stars,FirstCompletion=fresh,CompletionTitle="第"+(number+1)+"节完成 · "+WaystationChapterOne.Names[number],CompletionText=current.ending+"\n"+(number<5?"下一节“"+WaystationChapterOne.Names[number+1]+"”已解锁。":"第一章完成 · 今天，驿站终于迎来了客人。"),ReturnHome=ShowMain,Chapters=ShowTavernMainQuest,Replay=()=>{Attempt().review=true;index=0;ShowStory();ReviewSection();}});
  }
 }
-public class ChapterOneCg {public string zh{get;set;}public string en{get;set;}public double seconds{get;set;}}
-
+public class ChapterOneCg {public string timeOfDay{get;set;}public string zh{get;set;}public string en{get;set;}public double seconds{get;set;}}

@@ -2,11 +2,13 @@
   "intro": {
     "zh": "石桥尽头，集市已经热闹起来。陆川带着清单，走进第一次采购的早晨。",
     "en": "Beyond the stone bridge, the market is already awake. Lu Chuan enters town with a shopping list and a tavern to prepare.",
-    "seconds": 9.962
+    "seconds": 9.962,
+    "timeOfDay": "morning"
   },
   "outro": {
     "zh": "食材已经买齐，少女的名字却仍是谜。陆川沿石桥回去，记住了提灯指向的方向。",
     "en": "The supplies are ready, but the girl remains a mystery. Lu Chuan heads back across the bridge, remembering where her lantern pointed.",
-    "seconds": 10.178
+    "seconds": 10.178,
+    "timeOfDay": "morning"
   }
 }

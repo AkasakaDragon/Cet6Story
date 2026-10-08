@@ -36,7 +36,8 @@
       "scene": "art/tavern/waystation-repair-morning.png",
       "sceneSingle": true,
       "start": 0.0,
-      "end": 7.056
+      "end": 7.056,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "艾莉娅",
@@ -47,7 +48,8 @@
       "scene": "art/tavern/waystation-repair-morning.png",
       "sceneSingle": true,
       "start": 7.306,
-      "end": 12.97
+      "end": 12.97,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "陆川",
@@ -58,7 +60,8 @@
       "scene": "art/tavern/waystation-repair-morning.png",
       "sceneSingle": true,
       "start": 13.22,
-      "end": 17.372
+      "end": 17.372,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "艾莉娅",
@@ -69,7 +72,8 @@
       "scene": "art/tavern/waystation-repair-morning.png",
       "sceneSingle": true,
       "start": 17.622,
-      "end": 24.654
+      "end": 24.654,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "陆川",
@@ -80,7 +84,8 @@
       "scene": "art/tavern/waystation-repair-morning.png",
       "sceneSingle": true,
       "start": 24.904,
-      "end": 29.8
+      "end": 29.8,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "艾莉娅",
@@ -91,7 +96,8 @@
       "scene": "art/tavern/waystation-repair-morning.png",
       "sceneSingle": true,
       "start": 30.05,
-      "end": 36.458
+      "end": 36.458,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "陆川",
@@ -102,7 +108,8 @@
       "scene": "art/tavern/waystation-repair-morning.png",
       "sceneSingle": true,
       "start": 36.708,
-      "end": 41.124
+      "end": 41.124,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "艾莉娅",
@@ -113,7 +120,8 @@
       "scene": "art/tavern/waystation-repair-morning.png",
       "sceneSingle": true,
       "start": 41.374,
-      "end": 47.854
+      "end": 47.854,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "陆川",
@@ -124,7 +132,8 @@
       "scene": "art/tavern/waystation-repair-morning.png",
       "sceneSingle": true,
       "start": 48.104,
-      "end": 53.312
+      "end": 53.312,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "艾莉娅",
@@ -135,7 +144,8 @@
       "scene": "art/tavern/waystation-repair-morning.png",
       "sceneSingle": true,
       "start": 53.562,
-      "end": 59.274
+      "end": 59.274,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "旁白",
@@ -146,7 +156,8 @@
       "scene": "art/tavern/chapter-one-kitchen.png",
       "sceneSingle": true,
       "start": 59.524,
-      "end": 65.908
+      "end": 65.908,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "陆川",
@@ -157,7 +168,8 @@
       "scene": "art/tavern/chapter-one-kitchen.png",
       "sceneSingle": true,
       "start": 66.158,
-      "end": 70.598
+      "end": 70.598,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "艾莉娅",
@@ -168,7 +180,8 @@
       "scene": "art/tavern/chapter-one-kitchen.png",
       "sceneSingle": true,
       "start": 70.848,
-      "end": 77.28
+      "end": 77.28,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "陆川",
@@ -179,7 +192,8 @@
       "scene": "art/tavern/chapter-one-kitchen.png",
       "sceneSingle": true,
       "start": 77.53,
-      "end": 82.162
+      "end": 82.162,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "艾莉娅",
@@ -190,7 +204,8 @@
       "scene": "art/tavern/chapter-one-kitchen.png",
       "sceneSingle": true,
       "start": 82.412,
-      "end": 88.076
+      "end": 88.076,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "陆川",
@@ -201,7 +216,8 @@
       "scene": "art/tavern/chapter-one-kitchen.png",
       "sceneSingle": true,
       "start": 88.326,
-      "end": 93.822
+      "end": 93.822,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "艾莉娅",
@@ -212,7 +228,8 @@
       "scene": "art/tavern/chapter-one-kitchen.png",
       "sceneSingle": true,
       "start": 94.072,
-      "end": 100.12
+      "end": 100.12,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "陆川",
@@ -223,7 +240,8 @@
       "scene": "art/tavern/chapter-one-kitchen.png",
       "sceneSingle": true,
       "start": 100.37,
-      "end": 104.354
+      "end": 104.354,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "艾莉娅",
@@ -234,7 +252,8 @@
       "scene": "art/tavern/chapter-one-kitchen.png",
       "sceneSingle": true,
       "start": 104.604,
-      "end": 113.292
+      "end": 113.292,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "陆川",
@@ -245,7 +264,8 @@
       "scene": "art/tavern/chapter-one-kitchen.png",
       "sceneSingle": true,
       "start": 113.542,
-      "end": 120.718
+      "end": 120.718,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "艾莉娅",
@@ -256,7 +276,8 @@
       "scene": "art/tavern/chapter-one-kitchen.png",
       "sceneSingle": true,
       "start": 120.968,
-      "end": 127.76
+      "end": 127.76,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "陆川",
@@ -267,7 +288,8 @@
       "scene": "art/tavern/chapter-one-kitchen.png",
       "sceneSingle": true,
       "start": 128.01,
-      "end": 134.37
+      "end": 134.37,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "旁白",
@@ -278,7 +300,8 @@
       "scene": "art/tavern/chapter-one-road.png",
       "sceneSingle": true,
       "start": 134.62,
-      "end": 142.684
+      "end": 142.684,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "艾莉娅",
@@ -289,7 +312,8 @@
       "scene": "art/tavern/chapter-one-road.png",
       "sceneSingle": true,
       "start": 142.934,
-      "end": 147.422
+      "end": 147.422,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "陆川",
@@ -300,7 +324,8 @@
       "scene": "art/tavern/chapter-one-road.png",
       "sceneSingle": true,
       "start": 147.672,
-      "end": 153.24
+      "end": 153.24,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "艾莉娅",
@@ -311,7 +336,8 @@
       "scene": "art/tavern/chapter-one-road.png",
       "sceneSingle": true,
       "start": 153.49,
-      "end": 160.018
+      "end": 160.018,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "陆川",
@@ -322,7 +348,8 @@
       "scene": "art/tavern/chapter-one-road.png",
       "sceneSingle": true,
       "start": 160.268,
-      "end": 165.812
+      "end": 165.812,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "艾莉娅",
@@ -333,7 +360,8 @@
       "scene": "art/tavern/chapter-one-road.png",
       "sceneSingle": true,
       "start": 166.062,
-      "end": 170.598
+      "end": 170.598,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "旁白",
@@ -344,7 +372,8 @@
       "scene": "art/tavern/chapter-one-road.png",
       "sceneSingle": true,
       "start": 170.848,
-      "end": 181.12
+      "end": 181.12,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "陆川",
@@ -355,7 +384,8 @@
       "scene": "art/tavern/chapter-one-road.png",
       "sceneSingle": true,
       "start": 181.37,
-      "end": 185.018
+      "end": 185.018,
+      "timeOfDay": "morning"
     }
   ],
   "questions": [
@@ -412,5 +442,6 @@
       "explanation": "艾莉娅留下整理桌椅与杯碟；陆川沿大路过石桥，到镇上集市采购，暂不探索北边矿道。"
     }
   ],
-  "ending": "菜单与采购分工已确定。陆川启程前往边境小镇，艾莉娅留在驿站准备大厅。第一章第二节“集市：不愿透露姓名的少女”已开放。"
+  "ending": "菜单与采购分工已确定。陆川启程前往边境小镇，艾莉娅留在驿站准备大厅。第一章第二节“集市：不愿透露姓名的少女”已开放。",
+  "timeOfDay": "morning"
 }

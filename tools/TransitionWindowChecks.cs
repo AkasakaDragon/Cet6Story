@@ -1,0 +1,5 @@
+using System;using System.Reflection;using System.Runtime.InteropServices;using System.Windows.Forms;
+class TransitionWindowChecks{
+ [DllImport("user32.dll")]static extern bool IsWindowVisible(IntPtr h);
+ [STAThread]static void Main(){using(var game=new Game()){game.Show();Application.DoEvents();var f=BindingFlags.Instance|BindingFlags.NonPublic;var content=(Control)typeof(Game).GetField("content",f).GetValue(game);var redraw=typeof(Game).GetMethod("OpeningRedrawMessage",BindingFlags.Static|BindingFlags.NonPublic);for(int i=0;i<20;i++){redraw.Invoke(null,new object[]{content.Handle,0xB,IntPtr.Zero,IntPtr.Zero});if(!IsWindowVisible(game.Handle))throw new Exception("Top level window became hidden");redraw.Invoke(null,new object[]{content.Handle,0xB,new IntPtr(1),IntPtr.Zero});}typeof(Game).GetMethod("TransitionCgPage",f).Invoke(game,new object[]{(Action)(()=>{if(!IsWindowVisible(game.Handle))throw new Exception("Hidden during scene build");})});if(!IsWindowVisible(game.Handle))throw new Exception("Hidden after transition");Console.WriteLine("PASS: top level remains visible across 20 redraw cycles and scene transition");}}
+}

@@ -14,12 +14,12 @@ public partial class Game {
   BeginInvoke((Action)(()=>{
    if(reveal.IsDisposed)return;
    if(IsDisposed||page!=destination){reveal.Dispose();return;}
-   OpeningRedrawMessage(Handle,0x000B,IntPtr.Zero,IntPtr.Zero);
+   OpeningRedrawMessage(content.Handle,0x000B,IntPtr.Zero,IntPtr.Zero);
    try{
     reveal.Visible=false;content.PerformLayout();
     reveal.CaptureScene(content);reveal.Visible=true;reveal.BringToFront();reveal.Start();
    }finally{
-    OpeningRedrawMessage(Handle,0x000B,new IntPtr(1),IntPtr.Zero);Invalidate(true);Update();
+    OpeningRedrawMessage(content.Handle,0x000B,new IntPtr(1),IntPtr.Zero);Invalidate(true);Update();
    }
   }));
  }

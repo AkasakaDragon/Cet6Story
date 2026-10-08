@@ -36,7 +36,8 @@
       "scene": "art/tavern/chapter-two-market.png",
       "sceneSingle": true,
       "start": 0.0,
-      "end": 8.232
+      "end": 8.232,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "陆川",
@@ -47,7 +48,8 @@
       "scene": "art/tavern/chapter-two-market.png",
       "sceneSingle": true,
       "start": 8.482,
-      "end": 13.282
+      "end": 13.282,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "摊主",
@@ -58,7 +60,8 @@
       "scene": "art/tavern/chapter-two-market.png",
       "sceneSingle": true,
       "start": 13.532,
-      "end": 20.588
+      "end": 20.588,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "陆川",
@@ -69,7 +72,8 @@
       "scene": "art/tavern/chapter-two-market.png",
       "sceneSingle": true,
       "start": 20.838,
-      "end": 28.086
+      "end": 28.086,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "摊主",
@@ -80,7 +84,8 @@
       "scene": "art/tavern/chapter-two-market.png",
       "sceneSingle": true,
       "start": 28.336,
-      "end": 35.248
+      "end": 35.248,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "陆川",
@@ -91,7 +96,8 @@
       "scene": "art/tavern/chapter-two-market.png",
       "sceneSingle": true,
       "start": 35.498,
-      "end": 40.802
+      "end": 40.802,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "旁白",
@@ -102,7 +108,8 @@
       "scene": "art/tavern/chapter-two-market.png",
       "sceneSingle": true,
       "start": 41.052,
-      "end": 49.764
+      "end": 49.764,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "莉瑟",
@@ -113,7 +120,8 @@
       "scene": "art/tavern/chapter-two-market.png",
       "sceneSingle": true,
       "start": 50.014,
-      "end": 55.674
+      "end": 55.674,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "摊主",
@@ -124,7 +132,8 @@
       "scene": "art/tavern/chapter-two-market.png",
       "sceneSingle": true,
       "start": 55.924,
-      "end": 62.404
+      "end": 62.404,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "陆川",
@@ -135,7 +144,8 @@
       "scene": "art/tavern/chapter-two-market.png",
       "sceneSingle": true,
       "start": 62.654,
-      "end": 67.718
+      "end": 67.718,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "莉瑟",
@@ -146,7 +156,8 @@
       "scene": "art/tavern/chapter-two-market.png",
       "sceneSingle": true,
       "start": 67.968,
-      "end": 72.418
+      "end": 72.418,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "陆川",
@@ -157,7 +168,8 @@
       "scene": "art/tavern/chapter-two-market.png",
       "sceneSingle": true,
       "start": 72.668,
-      "end": 79.82
+      "end": 79.82,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "莉瑟",
@@ -168,7 +180,8 @@
       "scene": "art/tavern/chapter-two-market.png",
       "sceneSingle": true,
       "start": 80.07,
-      "end": 85.47
+      "end": 85.47,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "摊主",
@@ -179,7 +192,8 @@
       "scene": "art/tavern/chapter-two-market.png",
       "sceneSingle": true,
       "start": 85.72,
-      "end": 93.712
+      "end": 93.712,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "陆川",
@@ -190,7 +204,8 @@
       "scene": "art/tavern/chapter-two-market.png",
       "sceneSingle": true,
       "start": 93.962,
-      "end": 99.194
+      "end": 99.194,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "莉瑟",
@@ -201,7 +216,8 @@
       "scene": "art/tavern/chapter-two-market.png",
       "sceneSingle": true,
       "start": 99.444,
-      "end": 107.214
+      "end": 107.214,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "旁白",
@@ -212,7 +228,8 @@
       "scene": "art/tavern/chapter-two-market.png",
       "sceneSingle": true,
       "start": 107.464,
-      "end": 114.664
+      "end": 114.664,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "莉瑟",
@@ -223,7 +240,8 @@
       "scene": "art/tavern/chapter-two-market.png",
       "sceneSingle": true,
       "start": 114.914,
-      "end": 120.464
+      "end": 120.464,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "陆川",
@@ -234,7 +252,8 @@
       "scene": "art/tavern/chapter-two-market.png",
       "sceneSingle": true,
       "start": 120.714,
-      "end": 128.106
+      "end": 128.106,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "莉瑟",
@@ -245,7 +264,8 @@
       "scene": "art/tavern/chapter-two-market.png",
       "sceneSingle": true,
       "start": 128.356,
-      "end": 134.566
+      "end": 134.566,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "陆川",
@@ -256,7 +276,8 @@
       "scene": "art/tavern/chapter-two-market.png",
       "sceneSingle": true,
       "start": 134.816,
-      "end": 141.584
+      "end": 141.584,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "莉瑟",
@@ -267,7 +288,8 @@
       "scene": "art/tavern/chapter-two-market.png",
       "sceneSingle": true,
       "start": 141.834,
-      "end": 148.564
+      "end": 148.564,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "旁白",
@@ -278,7 +300,8 @@
       "scene": "art/tavern/chapter-two-lantern.png",
       "sceneSingle": true,
       "start": 148.814,
-      "end": 157.142
+      "end": 157.142,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "陆川",
@@ -289,7 +312,8 @@
       "scene": "art/tavern/chapter-two-lantern.png",
       "sceneSingle": true,
       "start": 157.392,
-      "end": 162.792
+      "end": 162.792,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "莉瑟",
@@ -300,7 +324,8 @@
       "scene": "art/tavern/chapter-two-lantern.png",
       "sceneSingle": true,
       "start": 163.042,
-      "end": 169.252
+      "end": 169.252,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "陆川",
@@ -311,7 +336,8 @@
       "scene": "art/tavern/chapter-two-lantern.png",
       "sceneSingle": true,
       "start": 169.502,
-      "end": 174.758
+      "end": 174.758,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "莉瑟",
@@ -322,7 +348,8 @@
       "scene": "art/tavern/chapter-two-lantern.png",
       "sceneSingle": true,
       "start": 175.008,
-      "end": 182.648
+      "end": 182.648,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "旁白",
@@ -333,7 +360,8 @@
       "scene": "art/tavern/chapter-two-lantern.png",
       "sceneSingle": true,
       "start": 182.898,
-      "end": 191.85
+      "end": 191.85,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "陆川",
@@ -344,7 +372,8 @@
       "scene": "art/tavern/chapter-two-lantern.png",
       "sceneSingle": true,
       "start": 192.1,
-      "end": 195.868
+      "end": 195.868,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "莉瑟",
@@ -355,7 +384,8 @@
       "scene": "art/tavern/chapter-two-lantern.png",
       "sceneSingle": true,
       "start": 196.118,
-      "end": 202.568
+      "end": 202.568,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "陆川",
@@ -366,7 +396,8 @@
       "scene": "art/tavern/chapter-two-lantern.png",
       "sceneSingle": true,
       "start": 202.818,
-      "end": 208.242
+      "end": 208.242,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "莉瑟",
@@ -377,7 +408,8 @@
       "scene": "art/tavern/chapter-two-lantern.png",
       "sceneSingle": true,
       "start": 208.492,
-      "end": 213.542
+      "end": 213.542,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "陆川",
@@ -388,7 +420,8 @@
       "scene": "art/tavern/chapter-two-lantern.png",
       "sceneSingle": true,
       "start": 213.792,
-      "end": 219.792
+      "end": 219.792,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "莉瑟",
@@ -399,7 +432,8 @@
       "scene": "art/tavern/chapter-two-lantern.png",
       "sceneSingle": true,
       "start": 220.042,
-      "end": 225.6613
+      "end": 225.6613,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "旁白",
@@ -410,7 +444,8 @@
       "scene": "art/tavern/chapter-one-road.png",
       "sceneSingle": true,
       "start": 225.9113,
-      "end": 235.0553
+      "end": 235.0553,
+      "timeOfDay": "morning"
     },
     {
       "speaker": "陆川",
@@ -421,7 +456,8 @@
       "scene": "art/tavern/chapter-one-road.png",
       "sceneSingle": true,
       "start": 235.3053,
-      "end": 241.3293
+      "end": 241.3293,
+      "timeOfDay": "morning"
     }
   ],
   "questions": [
@@ -478,5 +514,6 @@
       "explanation": "先带食材返回驿站，告知艾莉娅提灯的异常，暂不独自进入矿道。"
     }
   ],
-  "ending": "采购完成，陆川认识了化名莉瑟的少女。符文提灯指向北侧旧矿道，他决定先返回驿站，与艾莉娅分享线索。"
+  "ending": "采购完成，陆川认识了化名莉瑟的少女。符文提灯指向北侧旧矿道，他决定先返回驿站，与艾莉娅分享线索。",
+  "timeOfDay": "morning"
 }

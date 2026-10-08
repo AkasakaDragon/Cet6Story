@@ -1,12 +1,14 @@
 {
   "intro": {
-    "zh": "午后的驿站，第一份菜单挂上了墙。门外，送货车停了下来。",
-    "en": "The first menu hangs on the wall. Outside the waystation, a delivery cart comes to a stop.",
-    "seconds": 8.282
+    "zh": "黄昏的驿站还未开门。食材送到了，空白的菜单和采购单一起放在桌上。",
+    "en": "The waystation is not open yet. The supplies have arrived, and a blank menu lies beside the shopping list.",
+    "seconds": 9.17,
+    "timeOfDay": "dusk"
   },
   "outro": {
-    "zh": "第一天的账目留下了小小的盈余。晶石亮起，但裂痕仍在。",
-    "en": "The first accounts show a modest profit. The crystal shines, but its crack remains.",
-    "seconds": 7.97
+    "zh": "菜单与分工已经确定，门牌仍写着尚未营业。晶石的裂痕提醒他们，准备还没有结束。",
+    "en": "The menu and duties are agreed, but the sign still says not yet open. The cracked crystal reminds them that their preparations are not complete.",
+    "seconds": 10.682,
+    "timeOfDay": "dusk"
   }
 }
