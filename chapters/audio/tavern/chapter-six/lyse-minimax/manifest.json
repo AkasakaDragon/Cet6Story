@@ -29,5 +29,11 @@
       "source_start": 15.43,
       "source_end": 20.211166666666667
     }
-  ]
+  ],
+  "volume_match": {
+    "reference": "chapter-two/lyse-minimax",
+    "reference_lufs": -19.09,
+    "gain_db": 3.45,
+    "method": "constant gain, no clipping; duration preserved"
+  }
 }
