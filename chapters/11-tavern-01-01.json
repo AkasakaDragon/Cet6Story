@@ -4,7 +4,7 @@
   "description": "清晨醒来 · 检查厨房 · 商定菜单与采购 · 启程进城",
   "source": "原创奇幻剧情与四道分段听力理解题，非考试原文。",
   "audio": "audio/tavern/chapter-one/morning.wav",
-  "audioLabel": "离线英文角色配音 · Brian / Michelle / Christopher",
+  "audioLabel": "离线英文角色配音 · 独立场景环境音",
   "background": "art/tavern/waystation-repair-morning.png",
   "unlockLevel": 1,
   "sortOrder": 1010,

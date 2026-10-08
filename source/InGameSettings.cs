@@ -1,4 +1,4 @@
-using System;using System.Drawing;using System.Linq;using System.Windows.Forms;
+﻿using System;using System.Drawing;using System.Linq;using System.Windows.Forms;
 
 public partial class Game {
  Form inGameSettings;
@@ -20,7 +20,10 @@ public partial class Game {
  void ShowInGameSettings(Form owner){
   if(inGameSettings!=null&&!inGameSettings.IsDisposed){inGameSettings.Close();return;}
   string previousPage=page;int previousLine=index;bool wasTiming=sectionWatch.IsRunning;
-  bool resumeVoice=!pausedAudio&&(originalPlaying||speech!=null&&speech.State==System.Speech.Synthesis.SynthesizerState.Speaking);
+  bool resumeVoice=page=="story"&&!pausedAudio&&(originalPlaying||speech!=null&&activePrompt!=null&&speech.State==System.Speech.Synthesis.SynthesizerState.Speaking);
+  bool resumeWordSpeech=!resumeVoice&&speech!=null&&speech.State==System.Speech.Synthesis.SynthesizerState.Speaking;
+  if(resumeWordSpeech)speech.Pause();
+  var battleCanvas=partyCanvas;if(battleCanvas!=null&&!battleCanvas.IsDisposed)battleCanvas.SetCastPaused(true);
   if(resumeVoice)TogglePlay();PauseSectionTiming();
   var movies=Descendants(this).OfType<OpeningCgCanvas>().Where(c=>!c.IsDisposed).ToList();foreach(var movie in movies)movie.SetPaused(true);
   bool exit=false,returnHome=false;Form dialog=null;EventHandler reposition=null;
@@ -55,6 +58,8 @@ public partial class Game {
    }
   }finally{
    if(reposition!=null)Resize-=reposition;inGameSettings=null;
+   if(battleCanvas!=null&&!battleCanvas.IsDisposed)battleCanvas.SetCastPaused(false);
+   if(resumeWordSpeech&&speech!=null&&speech.State==System.Speech.Synthesis.SynthesizerState.Paused)speech.Resume();
    if(!IsDisposed&&!Disposing){Persist();if(!exit&&!returnHome){foreach(var movie in movies)if(!movie.IsDisposed)movie.SetPaused(false);if(page==previousPage&&index==previousLine){if(page=="story")UpdateLine();if(wasTiming)ResumeSectionTiming();if(resumeVoice&&pausedAudio)TogglePlay();}}}
   }
   if(returnHome&&!IsDisposed){StopAudio();PauseSectionTiming();ShowMain();}

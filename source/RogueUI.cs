@@ -62,7 +62,7 @@ public partial class Game {
   if(q.kind==0||q.kind==3){var hear=new RogueIcon{Kind="speaker",AccessibleName="听单词"};hear.Click+=(sender,e)=>{if(r.state=="combat"&&r.question==q)SpeakWord(q.entry.word);};tips.SetToolTip(hear,"播放单词发音");wordRow.Controls.Add(hear);}
   var star=new RogueIcon{Kind="star",Selected=save.words.Any(w=>w.text.Equals(q.entry.word,StringComparison.OrdinalIgnoreCase)),AccessibleName="收藏单词"};star.Click+=(sender,e)=>{ToggleRogueFavorite(q.entry,star);};tips.SetToolTip(star,star.Selected?"已收藏到生词本":"收藏到生词本");wordRow.Controls.Add(star);
   var hint=new RogueIcon{Kind="bulb",Count=r.hints,Enabled=r.hints>0&&!q.assisted,AccessibleName="提示"};hint.Click+=(sender,e)=>{if(RogueEngine.Hint(r))SaveRogue();};tips.SetToolTip(hint,q.assisted?"本题已使用提示":"提示 · 剩余 "+r.hints+" 次");wordRow.Controls.Add(hint);card.Controls.Add(wordRow);card.Controls.SetChildIndex(wordRow,1);
-  string key=r.id+":"+r.answered;if((q.kind==0||q.kind==3)&&rogueSpokenQuestion!=key){rogueSpokenQuestion=key;BeginInvoke((Action)(()=>{if(!wordRow.IsDisposed&&(page=="rogue"||page=="prep-combat")&&r.state=="combat"&&r.question==q)SpeakWord(q.entry.word);}));}}
+  string key=r.id+":"+r.answered;if((q.kind==0)&&rogueSpokenQuestion!=key){rogueSpokenQuestion=key;BeginInvoke((Action)(()=>{if(!wordRow.IsDisposed&&(page=="rogue"||page=="prep-combat")&&r.state=="combat"&&r.question==q)SpeakWord(q.entry.word);}));}}
 
 
 

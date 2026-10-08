@@ -1,4 +1,4 @@
-using System;using System.Collections.Generic;using System.Linq;using System.Drawing;using System.Drawing.Drawing2D;using System.Windows.Forms;using System.Diagnostics;
+﻿using System;using System.Collections.Generic;using System.Linq;using System.Drawing;using System.Drawing.Drawing2D;using System.Windows.Forms;using System.Diagnostics;
 
 public partial class PartyBattleCanvas {
  public Image MaleActions,FemaleActions;
@@ -9,6 +9,9 @@ public partial class PartyBattleCanvas {
  int CastFoot(Image image,string hero,int row,int frame,int w,int h){string key=hero+":"+row+":"+frame;int foot;if(castFeet.TryGetValue(key,out foot))return foot;var bitmap=image as Bitmap;foot=h-3;if(bitmap!=null)for(int y=h-1;y>h*3/5;y--){int count=0;for(int x=w/5;x<w*17/20;x++){var c=bitmap.GetPixel(frame*w+x,row*h+y);if(c.A>180&&c.G<180&&c.B<180)count++;}if(count>=5){foot=y+1;break;}}castFeet[key]=foot;return foot;}
  int CastHead(Image image,string hero,int row,int w,int h){string key=hero+":head:"+row;int head;if(castFeet.TryGetValue(key,out head))return head;head=h/10;var b=image as Bitmap;if(b!=null)for(int y=0;y<h/2;y++){int n=0;for(int x=w/3;x<w*2/3;x++){var c=b.GetPixel(x,row*h+y);if(c.A>180&&c.R<180&&c.G<140&&c.B<150)n++;}if(n>=5){head=y;break;}}castFeet[key]=head;return head;}
  Action castHit;bool castHitResolved;
+ public void PrepareHeroCastRows(){PrepareHeroCast("aelia","guard");PrepareHeroCast("aelia","__warm_support");PrepareHeroCast("aelia","__warm_attack",0);}
+ public void PrepareHeroCast(string hero,string skill,int forcedRow=-1){if(hero!="aelia")return;var sheet=FemaleMatchedActions();if(sheet==null)return;var definition=HeroSkills.Get(hero,skill);int row=skill=="guard"||skill=="screen"||skill=="counter"?2:definition!=null&&definition.Damage>0?0:1;if(forcedRow>=0)row=forcedRow;int w=sheet.Width/8,h=sheet.Height/3;using(var preview=new Bitmap(1,1))using(var g=Graphics.FromImage(preview))for(int frame=0;frame<8;frame++){var cell=new Rectangle(frame*w,row*h,w,h);DrawIsolatedAction(g,sheet,cell,new Rectangle(0,0,1,1),hero+":"+row+":"+frame,row==0);CastFoot(sheet,hero,row,frame,w,h);}CastHead(sheet,hero,row,w,h);}
+ public void AfterCurrentCast(Action finished){if(!IsCasting){finished();return;}var previous=castFinished;castFinished=()=>{if(previous!=null)previous();finished();};}
  public void SetCastImpact(Action impact){castHit=impact;castHitResolved=false;}
  public float CastVisualAge{get{float age=castClock.ElapsedMilliseconds;if(melee!=null)return age;return age<CastHitTime?age:age-Math.Min(70,age-CastHitTime);}}
  public int CastDuration{get{return !monsterCasting&&castHero=="luchuan"?1650:1450;}}
@@ -22,14 +25,16 @@ public partial class PartyBattleCanvas {
  public void DiscardCastOverlays(){foreach(var overlay in castOverlays)if(!overlay.IsDisposed)overlay.Dispose();castOverlays.Clear();}
  public void HideCastOverlay(Control overlay){Controls.Remove(overlay);castOverlays.Add(overlay);}
  string castHero,castTarget,castSkill;int castRow;bool castCorrect;Action castFinished;
- public bool IsCasting {get{return castClock.IsRunning;}}
+ bool castPaused;
+ public bool IsCasting {get{return castClock.IsRunning||castPaused;}}
+ public void SetCastPaused(bool paused){if(paused){if(!castClock.IsRunning)return;castPaused=true;castTimer.Stop();castClock.Stop();}else if(castPaused){castPaused=false;castClock.Start();castTimer.Start();}}
  public void PlayCast(string hero,string skill,string target,bool correct,Action finished){
   StopCast();castHero=hero;castTarget=target;castSkill=skill;castCorrect=correct;
   var definition=HeroSkills.Get(hero,skill);castRow=skill=="guard"||skill=="screen"||skill=="counter"?2:definition!=null&&definition.Damage>0?0:1;
   castFinished=finished;castTimer.Tick+=CastTick;castClock.Restart();castTimer.Start();Invalidate();
  }
  void CastTick(object sender,EventArgs e){if(melee!=null&&!melee.Resolved&&castClock.ElapsedMilliseconds>=melee.HitTiming){melee.Resolved=true;var hit=melee.Hit;if(hit!=null)hit();}if(melee==null&&castHit!=null&&!castHitResolved&&castClock.ElapsedMilliseconds>=CastHitTime){castHitResolved=true;castHit();}Invalidate();if(castClock.ElapsedMilliseconds<(melee==null?CastDuration+70:melee.Duration))return;var done=castFinished;StopCast();if(done!=null&&!IsDisposed)done();}
- void StopCast(){foreach(var overlay in castOverlays)if(!overlay.IsDisposed){Controls.Add(overlay);overlay.Visible=true;overlay.BringToFront();}castOverlays.Clear();castTimer.Stop();castTimer.Tick-=CastTick;castClock.Reset();castHit=null;castHitResolved=false;melee=null;castHero=castTarget=null;monsterCasting=false;monsterHits.Clear();castFinished=null;}
+ void StopCast(){foreach(var overlay in castOverlays)if(!overlay.IsDisposed){Controls.Add(overlay);overlay.Visible=true;overlay.BringToFront();}castOverlays.Clear();castTimer.Stop();castTimer.Tick-=CastTick;castClock.Reset();castPaused=false;castHit=null;castHitResolved=false;melee=null;castHero=castTarget=null;monsterCasting=false;monsterHits.Clear();castFinished=null;}
  bool DrawCastHero(Graphics g,PartyUnit hero,float center,int floor,float bodyHeight,out Rectangle bounds){
   bounds=Rectangle.Empty;if(!IsCasting||hero.id!=castHero)return false;var sheet=hero.id=="aelia"?FemaleMatchedActions():MaleActions;if(sheet==null)return false;
   if(melee!=null)center=melee.Position(CastVisualAge);int frame=melee==null?TimedHeroFrame(CastVisualAge):melee.HeroFrame(CastVisualAge);if(hero.id=="luchuan")frame=MaleCastFrame(CastVisualAge,castRow);int w=sheet.Width/8,h=sheet.Height/3;

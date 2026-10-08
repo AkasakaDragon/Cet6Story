@@ -10,9 +10,11 @@ public class RogueMemory {
  public int appearances {get;set;} public int mask {get;set;} public int correct {get;set;} public int wrong {get;set;} public string last {get;set;}
 }
 public class RogueQuestion {
+ public string spellingDraft {get;set;}
  public RogueEntry entry {get;set;} public int kind {get;set;} public List<string> options {get;set;} public int answer {get;set;} public bool assisted {get;set;} public bool answered {get;set;}
 }
 public class RogueProfile {
+ public ExpeditionLearning expeditionLearning {get;set;}
  public List<string> unlockedCards {get;set;} public Dictionary<string,int> monsterKills {get;set;} public int smallKills {get;set;} public int eliteKills {get;set;}
  [System.Web.Script.Serialization.ScriptIgnore] public bool preparationActive {get;set;}
  [System.Web.Script.Serialization.ScriptIgnore] public RogueRun ActiveRun {get{return preparationActive?prepSession:run;}}

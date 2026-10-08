@@ -1,10 +1,10 @@
-using System;using System.Drawing;using System.Drawing.Drawing2D;using System.IO;using System.Windows.Forms;
+﻿using System;using System.Drawing;using System.Drawing.Drawing2D;using System.IO;using System.Windows.Forms;
 public partial class Game {
  void ShowWaystationWorldMap(){
   ClearPage();page="waystation-map";
   var map=new WaystationWorldMap(CachedImage(Path.Combine(root,"assets","world-map","waystation-map.png")),CachedImage(Path.Combine(root,"assets","world-map","waystation-map-wide.png")));
   map.ChapterOneOpen=save.completed.Contains(TavernStory.Id);map.ChapterOneCompleted=save.completed.Contains(WaystationChapterOne.Ids[5]);map.Dock=DockStyle.Fill;map.Return=ShowTavernHub;
-  map.SelectChapter=i=>{if(i==0||i==1&&map.ChapterOneOpen)ShowTavernMainQuest();else GameMessage.Show(this,"本章尚未开放，请先在驿站准备下一段旅程。",WaystationWorldMap.ChapterNames[i]);};
+  map.SelectChapter=i=>{if(i==0)NavigateMenu(EnterTavern,"序幕 · 第一盏灯",false,true);else if(i==1&&map.ChapterOneOpen)ShowTavernMainQuest();else GameMessage.Show(this,"本章尚未开放，请先在驿站准备下一段旅程。",WaystationWorldMap.ChapterNames[i]);};
   content.Controls.Add(map);map.Focus();
  }
 }

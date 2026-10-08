@@ -1,0 +1,25 @@
+{
+  "source": "morning.wav",
+  "output": "morning-scene-ambience.wav",
+  "method": "locally synthesized scene ambience; dialogue remains unchanged",
+  "scenes": [
+    {
+      "scene": "清晨酒馆：仅一次远处杯碟声",
+      "start": 0,
+      "end": 59.524,
+      "rms_db": null
+    },
+    {
+      "scene": "厨房：无环境底噪",
+      "start": 59.524,
+      "end": 134.62,
+      "rms_db": null
+    },
+    {
+      "scene": "石路：树叶风声、稀疏鸟鸣",
+      "start": 134.62,
+      "end": 185.268,
+      "rms_db": -48.5
+    }
+  ]
+}
