@@ -1,4 +1,4 @@
-using System;using System.Drawing;using System.IO;using System.Windows.Forms;
+﻿using System;using System.Drawing;using System.IO;using System.Windows.Forms;
 public partial class Game {
  void ConfirmTavernPreparation(){
   if(TavernTime.State(save).phase!=StoryTime.Night){GameMessage.Show(this,"酒馆只在晚上开放。","酒馆营业");return;}
@@ -18,8 +18,9 @@ public partial class Game {
   ClearPage();page="tavern-preparation";
   var scene=new CardRewardSurface{Dock=DockStyle.Fill,Art=CachedImage(Path.Combine(root,"assets","waystation",file)),PixelArt=true,AutoScroll=false,CompositeChildren=true};content.Controls.Add(scene);
   var back=ShowcaseButton("返回酒馆",ShowTavernHub,200,64);back.GuildStyle=true;back.LibraryStyle=true;AddWoodMenuHover(back);scene.Controls.Add(back);
-  Action layout=()=>{back.Size=new Size(Math.Min(200,Math.Max(130,scene.Width/7)),Math.Min(64,Math.Max(44,scene.Height/12)));back.Location=new Point(24,24);};scene.Resize+=(s,e)=>layout();layout();AddPreparationHotspot(scene,"今日菜单",ShowPreparationMenu,.84f,.57f);AddPreparationHotspot(scene,"检查食材",ShowPreparationKitchen,.92f,.46f);AddPreparationHotspot(scene,"开始营业",ShowTavernBusiness,.45f,.40f);AddPreparationHotspot(scene,"人员管理",ShowPreparationStaff,.665f,.53f);scene.Focus();
+  Action layout=()=>{back.Size=new Size(Math.Min(200,Math.Max(130,scene.Width/7)),Math.Min(64,Math.Max(44,scene.Height/12)));back.Location=new Point(24,24);SetPreparationButtonFont(back,scene);};scene.Resize+=(s,e)=>layout();layout();AddPreparationHotspot(scene,"今日菜单",ShowPreparationMenu,.84f,.57f);AddPreparationHotspot(scene,"检查食材",ShowPreparationKitchen,.92f,.46f);AddPreparationHotspot(scene,"开始营业",ShowTavernBusiness,.45f,.40f);AddPreparationHotspot(scene,"人员管理",ShowPreparationStaff,.665f,.53f);scene.Focus();
  }
+ void SetPreparationButtonFont(Control button,Control scene){var surface=scene as CardRewardSurface;float scale=surface!=null&&surface.Art!=null?Math.Max(scene.Width/(float)surface.Art.Width,scene.Height/(float)surface.Art.Height):1;float size=Math.Max(6,18*scale);if(Math.Abs(button.Font.Size-size)>.1f){var previous=button.Font;button.Font=GameTheme.Body(size,previous.Style);previous.Dispose();}}
  void ShowPreparationStaff(){using(var dialog=new GuildWordDialog{Text="人员管理",Width=Math.Min(620,ClientSize.Width-40),Height=380}){dialog.Location=new Point(Left+(Width-dialog.Width)/2,Top+(Height-dialog.Height)/2);var text=new OutlinedLabel{Dock=DockStyle.Fill,Font=GameTheme.Body(15),ForeColor=GuildChrome.Ivory,Padding=new Padding(24),Text="今晚的工作分工\n\n陆川：厨房烹饪\n莉瑟：吧台记账、记录订单\n艾莉娅：从厨房传菜\n\n大家换上方便工作的衣服，准备迎接客人。"};dialog.Controls.Add(text);dialog.ShowDialog(this);}}
  void EndTavernBusinessDay(){TavernTime.NextDay(save,tavernWeatherRandom);var time=TavernTime.State(save);Persist();GameMessage.Show(this,"营业结束，已进入第"+time.day+"天早上。\n本次经营收益已保存。","营业结束");ShowTavernHub();}
 }

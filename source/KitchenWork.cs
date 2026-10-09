@@ -7,7 +7,7 @@ using System.IO;
 using System.Windows.Forms;
 
 public class KitchenWorkState {
- public RogueQuestion cutQuestion{get;set;}public RogueQuestion cookQuestion{get;set;}public RogueQuestion Question(string kind){return kind=="cut"?cutQuestion:cookQuestion;}public void SetQuestion(string kind,RogueQuestion question){if(kind=="cut")cutQuestion=question;else cookQuestion=question;} public string wordMode{get;set;}public List<RogueEntry> cutWords{get;set;}public List<RogueEntry> cookWords{get;set;}public List<string> recentWords{get;set;}public string cutDraft{get;set;}public string cookDraft{get;set;}public List<RogueEntry> Words(string kind){return kind=="cut"?cutWords:cookWords;} public string held{get;set;}public string cooking{get;set;}public bool boardLoaded{get;set;}public int cut{get;set;}public int heat{get;set;}public int served{get;set;}
+ public bool cutCorrect{get;set;}public bool cookCorrect{get;set;}public bool Correct(string kind){return kind=="cut"?cutCorrect:cookCorrect;}public void SetCorrect(string kind,bool value){if(kind=="cut")cutCorrect=value;else cookCorrect=value;} public string cutFeedback{get;set;}public string cookFeedback{get;set;}public string Feedback(string kind){return kind=="cut"?cutFeedback:cookFeedback;}public void SetFeedback(string kind,string value){if(kind=="cut")cutFeedback=value;else cookFeedback=value;} public RogueQuestion cutQuestion{get;set;}public RogueQuestion cookQuestion{get;set;}public RogueQuestion Question(string kind){return kind=="cut"?cutQuestion:cookQuestion;}public void SetQuestion(string kind,RogueQuestion question){if(kind=="cut")cutQuestion=question;else cookQuestion=question;} public string wordMode{get;set;}public List<RogueEntry> cutWords{get;set;}public List<RogueEntry> cookWords{get;set;}public List<string> recentWords{get;set;}public string cutDraft{get;set;}public string cookDraft{get;set;}public List<RogueEntry> Words(string kind){return kind=="cut"?cutWords:cookWords;} public string held{get;set;}public string cooking{get;set;}public bool boardLoaded{get;set;}public int cut{get;set;}public int heat{get;set;}public int served{get;set;}
  public KitchenWorkState(){held="";cooking="";wordMode="四六级混合";recentWords=new List<string>();}
  public bool TakeCarrot(){if(!String.IsNullOrEmpty(held)||boardLoaded||!String.IsNullOrEmpty(cooking))return false;held="raw";return true;}
  public bool Start(string station){if(station=="cut"){if(boardLoaded)return true;if(held!="raw")return false;held="";boardLoaded=true;cut=0;return true;}if(cooking==station)return true;if(!String.IsNullOrEmpty(cooking)||held!="chopped")return false;held="";cooking=station;heat=0;return true;}
@@ -46,51 +46,58 @@ public partial class Game {
    var favorite=new RogueIcon{Kind="star",Size=new Size(32,32),AccessibleName="收藏单词",BackColor=body.BackColor};upper.Controls.Add(favorite);
    var status=new OutlinedLabel{ForeColor=GuildChrome.Gold,Font=GameTheme.Body(11)};upper.Controls.Add(status);
    var input=new TextBox{Font=GameTheme.Latin(18),BackColor=Color.FromArgb(34,68,65),ForeColor=GuildChrome.Ivory,BorderStyle=BorderStyle.FixedSingle,ImeMode=ImeMode.Disable,MaxLength=100,AccessibleName="输入英文拼写"};upper.Controls.Add(input);
+   var definition=new OutlinedLabel{Font=GameTheme.Body(14),ForeColor=GuildChrome.Ivory,Visible=false};upper.Controls.Add(definition);
    var scene=new KitchenProcessView(root,kind,state);body.Controls.Add(scene);
-   bool busy=false;int ticks=0;RogueQuestion question=null;var animation=new Timer{Interval=35};var choices=new List<VNButton>();VNButton submit=null;Action layout=null;Action refresh=null;Action<int> answer=null;
-   hear.Click+=(sender,e)=>{if(!busy&&question!=null&&question.kind>=0&&question.kind!=1)SpeakWord(question.entry.word);};
+   bool busy=false;bool feedback=false;int ticks=0;RogueQuestion question=null;var animation=new Timer{Interval=35};var choices=new List<VNButton>();VNButton submit=null;Action layout=null;Action refresh=null;Action<int> answer=null;
+   hear.Click+=(sender,e)=>{if(!busy&&question!=null&&question.kind>=0&&(feedback||question.kind!=1))SpeakWord(question.entry.word);};
    favorite.Click+=(sender,e)=>{if(!busy&&question!=null&&question.kind>=0)ToggleRogueFavorite(question.entry,favorite);};
    refresh=()=>{
     int step=state.Progress(kind);question=step<3?state.Question(kind):null;
     if(step<3&&question==null){question=ExpeditionVocabulary.Next(save.rogue,KitchenBank(),DateTime.Today);state.SetQuestion(kind,question);state.Words(kind)[step]=question.entry;Persist();}
-    bool word=question!=null&&question.kind>=0;
-    prompt.Font=word&&question.kind==0?GameTheme.Latin(18):GameTheme.Body(16);
-    prompt.Text=step==3?"处理成功 · 胡萝卜":!word?"今日词汇练习完成":question.kind==0?question.entry.word:ExpeditionVocabulary.Meaning(question.entry);
+    feedback=question!=null&&question.answered;bool word=question!=null&&question.kind>=0;
+    prompt.Font=word&&(feedback||question.kind==0)?GameTheme.Latin(18):GameTheme.Body(16);
+    prompt.Text=step==3?"处理成功 · 胡萝卜":!word?"今日词汇练习完成":feedback||question.kind==0?question.entry.word:ExpeditionVocabulary.Meaning(question.entry);
     status.Text=step==3?"本次加工完成 · 可拿取食材":"第 "+(step+1)+" / 3 题 · "+(!word?"继续加工":question.kind==0?"选择中文释义":question.kind==1?"选择英文单词":"拼写英文单词")+" · "+KitchenWords.Stages(kind)[step]+(word?"\n"+ExpeditionVocabulary.Status(save.rogue,question,DateTime.Today):"");
-    hear.Visible=word&&question.kind!=1;favorite.Visible=word;hear.Enabled=favorite.Enabled=!busy;
+    if(feedback)status.Text=(state.Correct(kind)?"回答正确 · ":"回答错误 · ")+state.Feedback(kind)+"\n"+(state.Correct(kind)?"确认单词后，点击继续完成当前加工。":"记住正确单词，点击继续换下一题。");definition.Visible=feedback&&word;definition.Text=word?ExpeditionVocabulary.Meaning(question.entry):"";
+    hear.Visible=word&&(feedback||question.kind!=1);favorite.Visible=word;hear.Enabled=favorite.Enabled=!busy;
     if(word){favorite.Selected=save.words.Any(w=>w.text.Equals(question.entry.word,StringComparison.OrdinalIgnoreCase));favorite.Invalidate();tips.SetToolTip(favorite,favorite.Selected?"已收藏 · 再次点击取消":"收藏到生词本");}
-    input.Visible=word&&question.kind==3;submit.Visible=step==3||!word||question.kind==3;submit.Text=step==3?"拿取处理好的胡萝卜":!word?"继续加工":"确认拼写（Enter）";
+    input.Visible=!feedback&&word&&question.kind==3;submit.Visible=feedback||step==3||!word||question.kind==3;submit.Text=feedback?(state.Correct(kind)?"继续加工（Enter）":"下一单词（Enter）"):step==3?"拿取处理好的胡萝卜":!word?"继续加工":"确认拼写（Enter）";
     input.Text=question==null?"":question.spellingDraft??"";
-    for(int i=0;i<choices.Count;i++){bool showChoice=word&&question.kind<3;choices[i].Visible=showChoice;choices[i].Enabled=!busy;if(showChoice)choices[i].Text=((char)('A'+i))+". "+question.options[i];}
+    for(int i=0;i<choices.Count;i++){bool showChoice=!feedback&&word&&question.kind<3;choices[i].Visible=showChoice;choices[i].Enabled=!busy;if(showChoice)choices[i].Text=((char)('A'+i))+". "+question.options[i];}
     if(layout!=null)layout();
    };
    answer=selected=>{
     if(busy)return;
     if(state.Progress(kind)==3){if(state.Pickup(kind)){Persist();dialog.Close();}return;}
+    if(feedback){
+     if(!state.Correct(kind)){state.SetQuestion(kind,null);state.SetFeedback(kind,null);Persist();refresh();if(input.Visible)input.Focus();return;}
+     if(!state.Answer(kind,question.entry.word))return;
+     state.SetQuestion(kind,null);state.SetFeedback(kind,null);Persist();busy=true;feedback=false;submit.Enabled=input.Enabled=hear.Enabled=favorite.Enabled=false;foreach(var choice in choices)choice.Enabled=false;
+     ticks=0;scene.Animating=true;scene.Motion=0;status.Text="正在加工 · "+KitchenWords.Stages(kind)[state.Progress(kind)];animation.Start();return;
+    }
+    if(question.kind>=0)ExpeditionVocabulary.Progress(save.rogue,question.entry.word,DateTime.Today).lastQuestion=ExpeditionVocabulary.Profile(save.rogue).serial;
     bool correct=ExpeditionVocabulary.Correct(question,selected,input.Text);
-    if(!correct){status.Text="回答不正确，请重试"+(question.kind==3?" · 首字母 "+question.entry.word[0]:"");ExpeditionVocabulary.Answer(save.rogue,question,false,DateTime.Today);Persist();if(input.Visible){input.SelectAll();input.Focus();}return;}
-    if(!state.Answer(kind,question.entry.word))return;
+    if(!correct){state.SetFeedback(kind,ExpeditionVocabulary.Answer(save.rogue,question,false,DateTime.Today));state.SetCorrect(kind,false);question.answered=true;Persist();refresh();return;}
     string learning=question.kind<0?"今日没有待学或到期词汇":ExpeditionVocabulary.Answer(save.rogue,question,true,DateTime.Today);
     if(question.kind>=0){TavernBusiness.Begin(save,"words");TavernBusiness.Reward(save,"word:"+question.entry.word,true);}
-    state.SetQuestion(kind,null);Persist();busy=true;submit.Enabled=input.Enabled=hear.Enabled=favorite.Enabled=false;foreach(var choice in choices)choice.Enabled=false;
-    ticks=0;scene.Animating=true;scene.Motion=0;status.Text="回答正确 · "+KitchenWords.Stages(kind)[state.Progress(kind)]+"\n"+learning;animation.Start();
+    state.SetCorrect(kind,true);question.answered=true;state.SetFeedback(kind,learning);Persist();refresh();
    };
    submit=PartyButton("确认拼写（Enter）",()=>answer(-1),250,46);upper.Controls.Add(submit);
    for(int i=0;i<4;i++){int selected=i;var button=PartyButton("",()=>answer(selected),240,44);button.Font=GameTheme.Body(12);choices.Add(button);upper.Controls.Add(button);}
    layout=()=>{
     int w=body.Width;int pw=Math.Min(Math.Max(1,w-116),TextRenderer.MeasureText(prompt.Text,prompt.Font,Size.Empty,TextFormatFlags.NoPadding).Width+8);
     int ph=56;
-    prompt.Bounds=new Rectangle(18,8,pw,ph);int iconY=prompt.Top+(ph-32)/2;hear.Bounds=new Rectangle(prompt.Right+4,iconY,32,32);favorite.Bounds=new Rectangle((question!=null&&question.kind>=0&&question.kind!=1?hear.Right:prompt.Right)+4,iconY,32,32);
+    prompt.Bounds=new Rectangle(18,8,pw,ph);int iconY=prompt.Top+(ph-32)/2;hear.Bounds=new Rectangle(prompt.Right+4,iconY,32,32);favorite.Bounds=new Rectangle((question!=null&&question.kind>=0&&(feedback||question.kind!=1)?hear.Right:prompt.Right)+4,iconY,32,32);
     status.Bounds=new Rectangle(18,prompt.Bottom+4,Math.Max(1,w-36),52);int y=status.Bottom+8;int needed=244;
     upper.Bounds=new Rectangle(0,0,w,needed);scene.Bounds=new Rectangle(0,needed,w,Math.Max(1,body.Height-needed));
-    int bw=Math.Min(260,Math.Max(140,w/3));int inputY=y+25;submit.Bounds=new Rectangle(w-bw-18,inputY,bw,46);input.Bounds=new Rectangle(18,inputY+3,Math.Max(60,w-bw-54),42);
+    int bw=Math.Min(260,Math.Max(140,w/3));int inputY=y+25;submit.Bounds=new Rectangle(w-bw-18,inputY,bw,46);input.Bounds=new Rectangle(18,inputY+3,Math.Max(60,w-bw-54),42);definition.Bounds=new Rectangle(18,y,Math.Max(60,w-bw-54),104);
     for(int i=0;i<choices.Count;i++)choices[i].Bounds=new Rectangle(18+(i%2)*(w-30)/2,y+(i/2)*50,(w-42)/2,44);
    };
    body.Resize+=(sender,e)=>layout();refresh();
    input.TextChanged+=(sender,e)=>{if(question!=null&&question.kind==3){question.spellingDraft=input.Text;if(kind=="cut")state.cutDraft=input.Text;else state.cookDraft=input.Text;}};
    input.KeyDown+=(sender,e)=>{if(e.KeyCode==Keys.Enter){e.SuppressKeyPress=true;answer(-1);}};
    animation.Tick+=(sender,e)=>{scene.Motion=++ticks/34f;scene.Invalidate();if(ticks>=34){animation.Stop();scene.Animating=false;busy=false;submit.Enabled=input.Enabled=true;refresh();if(input.Visible)input.Focus();}};
-   dialog.KeyDown+=(sender,e)=>{if(e.KeyCode==Keys.Escape)dialog.Close();else if(!busy&&question!=null&&question.kind>=0&&question.kind<3&&e.KeyCode>=Keys.D1&&e.KeyCode<=Keys.D4){e.Handled=e.SuppressKeyPress=true;answer((int)e.KeyCode-(int)Keys.D1);}};
+   dialog.KeyDown+=(sender,e)=>{if(e.KeyCode==Keys.Escape)dialog.Close();else if(feedback&&e.KeyCode==Keys.Enter){e.Handled=e.SuppressKeyPress=true;answer(-1);}else if(!busy&&!feedback&&question!=null&&question.kind>=0&&question.kind<3&&e.KeyCode>=Keys.D1&&e.KeyCode<=Keys.D4){e.Handled=e.SuppressKeyPress=true;answer((int)e.KeyCode-(int)Keys.D1);}};
    dialog.Shown+=(sender,e)=>{if(input.Visible)input.Focus();};try{dialog.ShowDialog(this);}finally{Persist();animation.Dispose();scene.Dispose();if(refreshKitchenProgress!=null)refreshKitchenProgress();}
   }
  }
