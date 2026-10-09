@@ -1,0 +1,1771 @@
+{
+  "id": "cet6-2020_09_1",
+  "title": "2020年9月 第1套",
+  "level": 6,
+  "source_url": "https://www.cettong.cn/library/cet6/2020_09_1",
+  "material_source": "https://117.72.200.49/#/library",
+  "audio": "assets/tavern/listening/real-exams/cettong/cet6/2020/2020_09_1.exampace-playback.mp3",
+  "caption_kind": "published_material_with_auxiliary_timing_and_translation",
+  "caption_models": [
+    "Systran/faster-whisper-base.en",
+    "Sams200/opus-mt-en-zh"
+  ],
+  "lines": [
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You are a professor of physics at the University of Oxford.",
+      "translation": "你是牛津大学物理学教授",
+      "start": 36.433,
+      "end": 40.786
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You're a senior advisor at the European Organization for Nuclear Research.",
+      "translation": "你是欧洲核研究组织的高级顾问",
+      "start": 40.786,
+      "end": 45.139
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You also seem to tour the globe tirelessly, giving talks.",
+      "translation": "你似乎也不知疲倦地游览全球 进行会谈",
+      "start": 45.139,
+      "end": 49.097
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And in addition, you have your own weekly TV show on science.",
+      "translation": "此外,你还有你自己的每周电视节目 关于科学。",
+      "start": 49.097,
+      "end": 53.846
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Where do you get the energy?",
+      "translation": "你从哪里得到能量的?",
+      "start": 53.846,
+      "end": 56.22
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Oh, well, I just love what I do.",
+      "translation": "哦，是这样，我就是热爱自己所做的事情。",
+      "start": 56.22,
+      "end": 58.7,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'm extremely fortunate to have this life, doing what I love doing.",
+      "translation": "我非常幸运，能够过着这样的生活，做自己喜欢做的事。",
+      "start": 59.32,
+      "end": 63.46,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Professor, what exactly is your goal?",
+      "translation": "教授，您的目标究竟是什么？",
+      "start": 63.98,
+      "end": 66.74,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Why do you do all of these?",
+      "translation": "您为什么要做这一切？",
+      "start": 67.3,
+      "end": 69.68,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Well, as you said, I do have different things going on.",
+      "translation": "嗯，正如您所说，我确实同时在做不同的事情。",
+      "start": 69.68,
+      "end": 73.14,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But these, I think, can be divided into two groups: the education of science and the further understanding of science.",
+      "translation": "但我认为，这些事情可以分为两类：科学教育和进一步理解科学。",
+      "start": 73.38,
+      "end": 80.92,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Don't these two things get in the way of each other?",
+      "translation": "这两件事不会互相妨碍吗？",
+      "start": 81.66,
+      "end": 84.62,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What I mean is, doesn't giving lectures take time away from the lab?",
+      "translation": "我的意思是，发表演讲不会占用您在实验室里的时间吗？",
+      "start": 84.98,
+      "end": 89.61,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Not really, no.",
+      "translation": "不会，确实不会。",
+      "start": 90.23,
+      "end": 91.27,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I love teaching, and I don't mind spending more time doing that now than in the past.",
+      "translation": "我喜欢教学，而且现在比过去多花些时间做这件事，我也不介意。",
+      "start": 91.97,
+      "end": 96.69,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Also, what I will say is that teaching a subject helps me comprehend it better myself.",
+      "translation": "另外，我想说的是，教授一门学科有助于我自己更好地理解它。",
+      "start": 97.45,
+      "end": 102.79,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I find that it furthers my own knowledge when I have to explain something clearly, when I have to aid others in understanding it, and when I have to answer questions about it.",
+      "translation": "当我必须清楚地解释某件事、帮助别人理解它，以及回答有关它的问题时，我发现自己的知识也会因此得到拓展。",
+      "start": 103.65,
+      "end": 113.63,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Teaching at a high level can be very stimulating for anyone, no matter how much expertise they may already have in the field they are instructing.",
+      "translation": "无论一个人在所教授的领域中已经有多么丰富的专业知识，高水平的教学都能对他产生很大的启发。",
+      "start": 114.19,
+      "end": 122.59,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Are there any scientific breakthroughs that you see on the near horizon, a significant discovery or invention we can expect soon?",
+      "translation": "您认为近期会出现什么科学突破吗？比如我们很快就能期待的重大​​发现或发明？",
+      "start": 123.11,
+      "end": 131.45,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The world is always conducting science, and there are constantly new things being discovered.",
+      "translation": "世界各地一直都在进行科学研究，不断有新事物被发现。",
+      "start": 132.19,
+      "end": 137.31,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In fact, right now we have too much data sitting in computers.",
+      "translation": "事实上，我们现在有太多数据堆积在电脑里了。",
+      "start": 138.29,
+      "end": 141.97,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "For example, we have thousands of photos of planet Mars taken by telescopes that nobody has ever seen.",
+      "translation": "比如，望远镜拍摄了数千张火星的照片，却从来没有人看过。",
+      "start": 142.87,
+      "end": 148.97,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We have them, yet nobody has had time to look at them with their own eyes, let alone analyze them.",
+      "translation": "照片是有的，但还没有人有时间亲眼查看，更不用说分析它们了。",
+      "start": 149.67,
+      "end": 156.17,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions 1-4 are based on the conversation you have just heard.",
+      "translation": "问题1 -4是基于你刚才听到的谈话",
+      "start": 157.74,
+      "end": 161.78
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "1.",
+      "translation": "1. 国家",
+      "start": 163.02,
+      "end": 163.5
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Why does the woman say she can be so energetic?",
+      "translation": "为什么女人说她能这么精力充沛?",
+      "start": 163.88,
+      "end": 166.64
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "2.",
+      "translation": "2. 目标",
+      "start": 180.51,
+      "end": 181.19
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What has the woman been engaged in?",
+      "translation": "该妇女从事了哪些工作?",
+      "start": 181.92,
+      "end": 184.14
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 3.",
+      "translation": "问题3",
+      "start": 197.61,
+      "end": 198.45
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the woman say about the benefit teaching brings to her?",
+      "translation": "女方对教学给女方带来的福利有何看法?",
+      "start": 199.31,
+      "end": 203.05
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question four How does the woman say new scientific breakthroughs can be made possible?",
+      "translation": "问题四 如何让女性说 新的科学突破 成为可能?",
+      "start": 216.39,
+      "end": 222.32
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Conversation two Do you think dreams have special meanings?",
+      "translation": "你觉得梦有特殊的意义吗?",
+      "start": 235.6,
+      "end": 237.9
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Do you think dreams have special meanings?",
+      "translation": "你觉得梦有特殊的含义吗？",
+      "start": 237.9,
+      "end": 239.88,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "No, I don't think they do.",
+      "translation": "不，我不这么认为。",
+      "start": 240.44,
+      "end": 242.18,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I don't either.",
+      "translation": "我也不这么认为。",
+      "start": 242.18,
+      "end": 243.54,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But some people do.",
+      "translation": "不过有些人确实这么想。",
+      "start": 243.54,
+      "end": 245.16,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I would say people who believe that dreams have special meanings are superstitious, especially nowadays.",
+      "translation": "我会说，相信梦有特殊含义的人很迷信，尤其是在如今这个时代。",
+      "start": 245.16,
+      "end": 251.24,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In the past, during the times of ancient Egypt, Greece or China, people used to believe that dreams could foresee the future.",
+      "translation": "过去，在古埃及、古希腊或古代中国，人们曾经相信梦能够预示未来。",
+      "start": 251.24,
+      "end": 259.97,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But today, with all the scientific knowledge that we have, I think it's much harder to believe in these sorts of things.",
+      "translation": "但如今，凭借我们所拥有的各种科学知识，我认为人们更难相信这类事情了。",
+      "start": 260.65,
+      "end": 267.77,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "My grandmother is superstitious, and she thinks dreams can predict the future.",
+      "translation": "我祖母迷信,她认为梦想可以预测未来。",
+      "start": 268.39,
+      "end": 272.97
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Once she dreamed that the flight she was due to take the following day crashed.",
+      "translation": "她梦见第二天她将搭乘的航班坠毁。",
+      "start": 273.85,
+      "end": 277.71
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Can you guess what she did?",
+      "translation": "你猜她做了什么?",
+      "start": 278.79,
+      "end": 279.69
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "She didn't take that flight.",
+      "translation": "她没搭那班飞机",
+      "start": 280.33,
+      "end": 281.51
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "She didn't even bother to go to the airport the following day.",
+      "translation": "第二天她甚至都没去机场",
+      "start": 282.09,
+      "end": 284.91
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Instead, she took the same flight but a week later.",
+      "translation": "相反,她坐同一班飞机,但一周后。",
+      "start": 285.65,
+      "end": 288.41
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And everything was fine, of course.",
+      "translation": "一切都很好,当然。",
+      "start": 289.13,
+      "end": 290.63
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "No plane ever crashed.",
+      "translation": "没有飞机坠毁过",
+      "start": 291.29,
+      "end": 292.37
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "How funny!",
+      "translation": "真有意思！",
+      "start": 293.11,
+      "end": 293.85,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Did you know that flying is actually safer than any other mode of transport?",
+      "translation": "你知道乘飞机其实比其他任何交通方式都安全吗？",
+      "start": 294.67,
+      "end": 298.71,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's been statistically proven.",
+      "translation": "这在统计数据上已经得到了证明。",
+      "start": 299.45,
+      "end": 301.09,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "People can be so irrational sometimes.",
+      "translation": "人有时候真的会很不理性。",
+      "start": 301.63,
+      "end": 303.59,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Yes, absolutely.",
+      "translation": "是的，完全正确。",
+      "start": 304.31,
+      "end": 305.45,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But even if we think they are ridiculous, emotions can be just as powerful as rational thinking.",
+      "translation": "不过，即使我们觉得这些想法很荒谬，情感也可以和理性思维一样强大。",
+      "start": 306.21,
+      "end": 311.13,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Exactly.",
+      "translation": "没错。",
+      "start": 311.66,
+      "end": 312.24,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "People do all sorts of crazy things because of their irrational feelings.",
+      "translation": "人们会因为不理性的情感而做出各种疯狂的事情。",
+      "start": 312.78,
+      "end": 316.58,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But in fact, some psychologists believe that our dreams are the result of our emotions and memories from that day.",
+      "translation": "但事实上，一些心理学家认为，我们的梦是那一天的情感和记忆所产生的结果。",
+      "start": 317.14,
+      "end": 323.74,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I think it was Sigmund Freud who said that children's dreams were usually simple representations of their wishes, things they wished would happen.",
+      "translation": "我记得是西格蒙德·弗洛伊德说过，儿童的梦通常是他们愿望的简单呈现，也就是他们希望发生的事情。",
+      "start": 324.54,
+      "end": 333.08,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But in adults, dreams are much more complicated reflections of their more sophisticated sentiments.",
+      "translation": "但对成年人来说，梦则是他们更复杂、更成熟的情感的复杂反映。",
+      "start": 333.7,
+      "end": 339.64,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Isn't it interesting how psychologists try to understand using the scientific method something as bizarre as dreams?",
+      "translation": "心理学家试图用科学方法去理解像梦这样奇怪的事物，难道不是很有意思吗？",
+      "start": 340.62,
+      "end": 347.62,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Psychology is like the rational study of irrational feelings.",
+      "translation": "心理学就像是对非理性情感进行的理性研究。",
+      "start": 348.32,
+      "end": 352.06,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions 5 to 8 are based on the conversation you have just heard.",
+      "translation": "问题5到8是基于你刚才听到的谈话",
+      "start": 353.66,
+      "end": 357.48
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 5.",
+      "translation": "问题5",
+      "start": 358.83,
+      "end": 359.57
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What do both speakers think of dreams?",
+      "translation": "两位发言者对梦想有何看法?",
+      "start": 360.02,
+      "end": 362.54
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 6.",
+      "translation": "问题6",
+      "start": 376.35,
+      "end": 376.99
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Why didn't the woman's grandmother take her scheduled flight?",
+      "translation": "为什么那女人的祖母不搭她的航班?",
+      "start": 377.65,
+      "end": 381.03
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "7.",
+      "translation": "7 个",
+      "start": 394.74,
+      "end": 395.34
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the woman say about people's emotions?",
+      "translation": "女人对人们的情绪怎么说?",
+      "start": 396.11,
+      "end": 399.05
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 8.",
+      "translation": "问题8",
+      "start": 412.34,
+      "end": 413.06
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What did psychologist, Sigmund Freud, say about adult's dreams?",
+      "translation": "心理学家西格蒙德·弗洛伊德 怎么说成人梦想?",
+      "start": 414.03,
+      "end": 418.05
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Section B, directions.",
+      "translation": "B节,方向。",
+      "start": 431.67,
+      "end": 432.93
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In this section you will hear two passages.",
+      "translation": "在本节中,你们将听到两段。",
+      "start": 434.09,
+      "end": 436.11
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "At the end of each passage you will hear three or four questions.",
+      "translation": "在每一段的结尾 你会听到三个或四个问题",
+      "start": 437.13,
+      "end": 440.45
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Both the passage and the questions will be spoken only once.",
+      "translation": "发言的通过和提问将只讲一次。",
+      "start": 441.49,
+      "end": 444.85
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "After you hear a question, you must choose the best answer from the four choices.",
+      "translation": "在听到一个问题后,你必须从四个选择中选择最好的答案。",
+      "start": 446.07,
+      "end": 450.35
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "marked A, B, C, and D.",
+      "translation": "标记A、B、C和D。",
+      "start": 450.81,
+      "end": 453.47
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Then marked the corresponding letter on answer sheet one with a single line through the center.",
+      "translation": "然后在答题单上用一条线标出相应的字母,通过中心。",
+      "start": 454.45,
+      "end": 459.15
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Passage one.",
+      "translation": "一号通道",
+      "start": 460.36,
+      "end": 461.16
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "While some scientists explore the surface of Antarctica,",
+      "translation": "有些科学家在探索南极洲表面时",
+      "start": 461.98,
+      "end": 465.2
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Scientists first discovered Lake Vostok in the 1970s by using radio waves that penetrate the ice.",
+      "translation": "20世纪70年代，科学家首次利用能够穿透冰层的无线电波发现了沃斯托克湖。",
+      "start": 472.28,
+      "end": 479.34,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Since then, they have used sound waves and even satellites to map this massive body of water.",
+      "translation": "此后，他们又利用声波，甚至卫星，对这片巨大的水体进行了测绘。",
+      "start": 479.99,
+      "end": 486.21,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "How does the water in Lake Vostok remain liquid beneath an ice sheet?",
+      "translation": "沃斯托克湖的水为何能在冰盖下保持液态？",
+      "start": 487.01,
+      "end": 491.29,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "\"The thick glacier above acts like an insulating blanket and keeps the water from freezing,\" says Martin Siegert, a glaciologist from the University of Wales.",
+      "translation": "“上方厚厚的冰川就像一条隔热毯，防止湖水结冰，”威尔士大学的冰川学家马丁·西格特说。",
+      "start": 492.07,
+      "end": 501.43,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In addition, geothermal heat from deep within the earth may warm the hidden lake.",
+      "translation": "此外，来自地球深处的地热也可能使这个隐秘的湖泊保持温暖。",
+      "start": 502.31,
+      "end": 507.47,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The scientists suspect that micro-organisms may be living in Lake Vostok, closed off from the outside world for more than 2 million years.",
+      "translation": "科学家怀疑，沃斯托克湖中可能存在微生物，而这个湖泊已与外界隔绝了超过200万年。",
+      "start": 508.14,
+      "end": 517.42,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Anything found there will be totally alien to what's on the surface of the earth, says Siegert.",
+      "translation": "西格特说，在那里发现的任何东西都将与地球表面的事物完全不同。",
+      "start": 518.04,
+      "end": 524.06,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Scientists are trying to find a way to drill into the ice and draw water samples without causing contamination.",
+      "translation": "科学家正在设法钻入冰层并抽取水样，同时避免造成污染。",
+      "start": 524.06,
+      "end": 530.44,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Again, robots might be the solution.",
+      "translation": "机器人或许又能成为解决方案。",
+      "start": 531.64,
+      "end": 534.22,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "If all goes as planned, a drill-shaped robot will melt through the surface ice.",
+      "translation": "如果一切按计划进行，一台钻头形状的机器人将融穿表层冰层。",
+      "start": 535.06,
+      "end": 540.5,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "When it reaches the lake, it will release another robot that can swim in the lake, take pictures, and look for signs of life.",
+      "translation": "当它抵达湖泊时，会释放出另一台能够在湖中游动、拍摄照片并寻找生命迹象的机器人。",
+      "start": 541.3,
+      "end": 548.9,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The scientists hope their discoveries will shed light on life in outer space, which might exist in similar dark and airless conditions.",
+      "translation": "科学家希望他们的发现能够为外太空的生命提供线索，因为那里可能存在处于类似黑暗且无空气环境中的生命。",
+      "start": 549.78,
+      "end": 558.18,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Recently, close-up pictures of Jupiter's moon, Europa, show signs of water beneath its icy surface.",
+      "translation": "最近，木星的卫星 Europa 的特写照片显示，其冰封表面下方可能有水。",
+      "start": 559.58,
+      "end": 565.92,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Once tested in Antarctica, robots could be sent to Europa to search for life there too.",
+      "translation": "机器人一旦在南极洲完成测试，就可以被派往 Europa，在那里寻找生命。",
+      "start": 566.59,
+      "end": 572.43,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Passage 2 The idea to study the American Indian tribe, Tara Humaras, came to James Copeland in 1984,",
+      "translation": "2 研究美洲印第安人部落Tara Humaras的想法 1984年来到詹姆斯·科普兰",
+      "start": 633.68,
+      "end": 636.033
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The idea to study the American Indian tribe Tarahumaras came to James Copeland in 1984 when he discovered that very little research had been done on their language.",
+      "translation": "研究美国印第安部落Tarahumaras的想法 1984年来到詹姆斯·科普兰, 那时他发现 几乎没有研究他们的语言。",
+      "start": 636.033,
+      "end": 647.46
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "He contacted a tribe member through a social worker who worked with the tribesmen in Mexico.",
+      "translation": "他通过一名社会工作者与一个部落成员联系,该社会工作者在墨西哥与部落成员合作。",
+      "start": 648.59,
+      "end": 653.43
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "At first, the tribe member, named Gonzalez, was very reluctant to cooperate.",
+      "translation": "起初,部落成员Gonzalez非常不愿意合作。",
+      "start": 654.67,
+      "end": 659.21
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "He told Copeland that no amount of money could buy his language.",
+      "translation": "他告诉科普兰,任何钱都买不到他的语言。",
+      "start": 660.07,
+      "end": 663.41
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But after Copeland explained to him what he intended to do with his research and how it would benefit the Tarahumaras, Gonzalez agreed to help.",
+      "translation": "冈萨雷斯同意给予帮助。",
+      "start": 664.04,
+      "end": 672.76
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "He took Copeland to his village and served as an intermediary.",
+      "translation": "他将科普兰带到他的村庄,充当中间人。",
+      "start": 673.68,
+      "end": 676.7
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Copeland says, \"Thanks to him, the Tarahumaras understood what our mission was and started trusting us.\"",
+      "translation": "科普兰说,“多亏了他, 塔拉胡马拉人理解我们的使命, 开始信任我们。”",
+      "start": 678.1,
+      "end": 684.64
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Entering the world of the Tarahumaras has been a laborious project for Copeland.",
+      "translation": "对科普兰来说，进入塔拉乌马拉人的世界是一个艰苦的项目。",
+      "start": 685.9,
+      "end": 690.58,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "To reach their homeland he must drive two and a half days from Houston, Texas.",
+      "translation": "为了到达他们的家园，他必须从得克萨斯州休斯敦驾车两天半。",
+      "start": 691.21,
+      "end": 695.97,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "He loads up his vehicle with goods that the tribesmen can't easily get, and gives the goods to them as a gesture of friendship.",
+      "translation": "他把部落成员不容易获得的物资装满车辆，并将这些物资送给他们，以示友好。",
+      "start": 696.77,
+      "end": 703.71,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The Tarahumaras, who don't believe in accumulating wealth, take the food and share it among themselves.",
+      "translation": "塔拉乌马拉人不相信积累财富，他们收下食物，并在彼此之间分享。",
+      "start": 704.67,
+      "end": 710.61,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "For Copeland, the experience has not only been academically satisfying, but also has enriched his life in several ways.",
+      "translation": "对于科普兰来说,这种经验不仅在学术上令人满意,而且还以几种方式丰富了他的生活。",
+      "start": 711.74,
+      "end": 719.04
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "\"I see people rejecting technology and living a very hard, traditional life, which offers me another notion about the meaning of progress in the western tradition,\" he says.",
+      "translation": "“我看到人们拒绝科技, 过着非常艰苦的传统生活,",
+      "start": 720.11,
+      "end": 730.65
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "\"I experience the simplicity of living in nature that I would otherwise only be able to read about.",
+      "translation": "我经历着自然的简单生活, 否则我只能读懂。",
+      "start": 731.79,
+      "end": 736.91
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I see a lot of beauty in their sense of sharing and concern for each other.\"",
+      "translation": "我从他们互相分享和关心的感情里 看到了很多美。”",
+      "start": 737.45,
+      "end": 741.57
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Why did James Copeland want to study the American Indian tribe Tara Humaris?",
+      "translation": "为什么詹姆斯·科普兰想研究 美国印第安人部落塔拉·胡马里斯?",
+      "start": 749.84,
+      "end": 755.22
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 13.",
+      "translation": "问题13。",
+      "start": 768.61,
+      "end": 769.63
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "How did Gonzalez help James Copeland?",
+      "translation": "冈萨雷斯如何帮助詹姆斯·科普兰?",
+      "start": 770.53,
+      "end": 773.63
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 14.",
+      "translation": "问题14。",
+      "start": 786.87,
+      "end": 787.95
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the speaker say about James Copeland's trip to the Tara Humaris village?",
+      "translation": "发言人对James Copeland去Tara Humaris村旅行有何看法?",
+      "start": 788.79,
+      "end": 793.43
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 15.",
+      "translation": "问题15。",
+      "start": 806.97,
+      "end": 807.77
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What impresses James Copeland about the Tara Humaris tribe?",
+      "translation": "是什么让詹姆斯·科普兰 印象深刻的塔拉·胡马里斯部落?",
+      "start": 808.27,
+      "end": 813.01
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Section C.",
+      "translation": "C节。",
+      "start": 826.6,
+      "end": 827.4
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In this section, you will hear three recordings of lectures or talks, followed by three or four questions.",
+      "translation": "在本节中,各位将听取三场讲座或会谈录音,然后是三四个问题。",
+      "start": 829.1,
+      "end": 835.64
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The recordings will be played only once.",
+      "translation": "录音只播放一次。",
+      "start": 836.44,
+      "end": 838.42
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "After you hear a question, you must choose the best answer from the four choices marked A, B,",
+      "translation": "在听到一个问题后,你必须从四个选择中选择最好的答案,四个选择标注A,B,",
+      "start": 839.24,
+      "end": 845.1
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "C, and D.",
+      "translation": "C,和D., 和D., 和D.",
+      "start": 845.7,
+      "end": 846.6
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "mark the corresponding letter on answer sheet one with a single line through the center.",
+      "translation": "在答题单单行的答题表一中标出相应的字母。",
+      "start": 847.5,
+      "end": 852.32
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What is a radical?",
+      "translation": "什么是激进派？",
+      "start": 855.233,
+      "end": 856.71,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It seems today that people are terrified of the term, particularly of having the label attached to them.",
+      "translation": "如今，人们似乎对“激进”这个词感到恐惧，尤其害怕被贴上这样的标签。",
+      "start": 856.71,
+      "end": 863.03,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Accusing individuals or groups of being radical often serves to silence them into submission, thereby maintaining the existing state of affairs, and, more important, preserving the power of a select minority who are mostly wealthy white males in western society.",
+      "translation": "指责个人或群体激进，往往是为了迫使他们沉默并顺从，从而维护现状，更重要的是，维护西方社会中一个少数群体的权力，而这个群体主要由富有的白人男性组成。",
+      "start": 863.83,
+      "end": 882.65,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Feminism is a perfect example of this phenomenon.",
+      "translation": "女权主义就是这一现象的一个典型例子。",
+      "start": 883.3,
+      "end": 886.46,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The women's movement has been plagued by stereotypes, misrepresentations by the media, and accusations of man-hating and radicalism, when the basic foundation of feminism is simply that women deserve equal rights in all facets of life.",
+      "translation": "妇女运动一直饱受刻板印象、媒体的歪曲报道以及仇视男性和激进主义等指责的困扰，而女权主义的基本立场其实很简单：女性在生活的各个方面都应享有平等权利。",
+      "start": 887.22,
+      "end": 903.66,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "When faced with the threat of being labelled radical, women back down from their worthy calls and consequently participate in their own oppression.",
+      "translation": "当面临被贴上激进标签的威胁时，女性会放弃自己正当的诉求，因而参与到对自身的压迫之中。",
+      "start": 904.5,
+      "end": 914.18,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It has gotten to the point that many women are afraid to call themselves feminists because of the stigma attached to the word.",
+      "translation": "事情已经发展到这样的地步：许多女性因为“女权主义者”一词所带的污名，而不敢称自己为女权主义者。",
+      "start": 915.12,
+      "end": 922.54,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "If people refuse to be controlled and intimidated by stigmas, the stigmas lose all their power.",
+      "translation": "如果人们拒绝受污名的控制和恐吓，污名就会失去全部力量。",
+      "start": 923.18,
+      "end": 929.86,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Without fear on which they feed, such stigmas can only die.",
+      "translation": "没有恐惧作为滋养，这样的污名只能消亡。",
+      "start": 930.5,
+      "end": 934.64,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "To me, a radical is simply someone who rebels against the norm or advocates a change in the existing state of affairs.",
+      "translation": "在我看来，激进派不过是反抗常规或主张改变现状的人。",
+      "start": 935.46,
+      "end": 943.22,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "On close inspection, it becomes clear that the norm is constantly evolving and therefore is not a constant entity.",
+      "translation": "仔细考察便会发现，常规一直在不断演变，因此并不是一个恒定不变的事物。",
+      "start": 944.12,
+      "end": 952.38,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So why then is deviation from the present situation such a threat when the state of affairs itself is unstable and subject to relentless transformation?",
+      "translation": "那么，既然现状本身不稳定且不断发生变化，偏离当前状况为何会构成如此大的威胁呢？",
+      "start": 953.16,
+      "end": 963.24,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It all goes back to maintaining the power of those who have it and preventing the right of those who don't.",
+      "translation": "这一切都归结于维护掌权者的权力，以及阻止无权者获得权利。",
+      "start": 964.43,
+      "end": 971.05,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In fact, when we look at the word \"radical\" in a historical context, nearly every figure we now hold up as a hero was considered a radical in his or her time.",
+      "translation": "事实上，当我们从历史背景来看“激进”一词时，几乎每一位如今被我们视为英雄的人物，在其所处的时代都曾被认为是激进派。",
+      "start": 971.71,
+      "end": 983.89,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Radicals are people who effect change.",
+      "translation": "激进派是推动变革的人。",
+      "start": 984.59,
+      "end": 986.79,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They are the people about whom history is written.",
+      "translation": "他们是历史书写其事迹的人。",
+      "start": 987.73,
+      "end": 990.23,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Abolitionists were radicals; civil rights activists were radicals; even the founders of our country in their fight to win independence from England were radicals.",
+      "translation": "废奴主义者是激进派；民权活动家是激进派；甚至我们国家的创建者们在争取脱离英国、赢得独立的斗争中也是激进派。",
+      "start": 991.52,
+      "end": 1001.57,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Their presence in history has changed the way our society functions, mainly by shifting the balance of power that previously existed.",
+      "translation": "他们在历史上的存在改变了我们社会的运行方式，主要是改变了原有的权力平衡。",
+      "start": 1002.57,
+      "end": 1011.71,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Of course, there are some radicals who've made a negative impact on humanity, but undeniably, there would simply be no progress without radicals.",
+      "translation": "当然，也有一些激进派对人类产生了负面影响，但不可否认，如果没有激进派，就根本不会有进步。",
+      "start": 1012.49,
+      "end": 1022.35,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That being said, next time someone calls me a radical, I will accept that label with pride.",
+      "translation": "话虽如此，下一次有人称我为激进派时，我会自豪地接受这个标签。",
+      "start": 1023.37,
+      "end": 1029.6,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We are very susceptible to the influence of the people around us.",
+      "translation": "我们非常容易受到周围人的影响。",
+      "start": 1092.37,
+      "end": 1096.69,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "For instance, you may have known somebody who has gone overseas for a year or so and has returned with an accent, perhaps.",
+      "translation": "例如，你可能认识这样一个人：他出国待了一年左右，回来时或许已经带上了口音。",
+      "start": 1097.07,
+      "end": 1104.77,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We become part of our immediate environment.",
+      "translation": "我们会成为身边环境的一部分。",
+      "start": 1105.89,
+      "end": 1108.11,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "None of us are immune to the influences of our own world, and let us not kid ourselves that we are untouched by the things and the people in our life.",
+      "translation": "没有人能够不受自己所处世界的影响，所以不要自欺欺人，以为我们不会受到生活中的事物和人的影响。",
+      "start": 1109.01,
+      "end": 1117.91,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Fred goes off to his new job at a factory.",
+      "translation": "Fred去工厂做新工作了",
+      "start": 1118.8,
+      "end": 1121.48
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Fred takes his 10-minute coffee break, but the other workers take half an hour.",
+      "translation": "Fred休息了10分钟的咖啡 但其他工人休息半小时",
+      "start": 1122.21,
+      "end": 1127.13
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Fred says, \"What's the matter with you guys?\" Two weeks later, Fred is taking 20-minute breaks.",
+      "translation": "Fred说\"你们怎么了?\" 两周后 Fred休息了20分钟",
+      "start": 1127.71,
+      "end": 1134.09
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "A month later, Fred takes his half hour.",
+      "translation": "一个月后 弗雷德要半小时",
+      "start": 1135.19,
+      "end": 1137.89
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Fred is saying, \"If you can't beat them, join them.",
+      "translation": "弗莱德在说 如果你打不赢他们 加入他们吧",
+      "start": 1138.57,
+      "end": 1141.57
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Why should I work any harder than the next guy?\"",
+      "translation": "为何我要比下个男人更努力工作呢?\"",
+      "start": 1142.33,
+      "end": 1144.65
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The fascinating thing about being human is that generally we are unaware that there are changes taking place in our mentality.",
+      "translation": "人类最令人着迷的一点在于，通常我们并没有意识到自己的心态正在发生变化。",
+      "start": 1145.68,
+      "end": 1152.53,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It is like returning to the city smog after some weeks in the fresh air—only then do we realize that we have become accustomed to the nasty smells.",
+      "translation": "这就像在新鲜空气中待了几个星期后重新回到城市的烟雾中，只有在那时我们才会意识到，自己已经习惯了那些难闻的气味。",
+      "start": 1153.7,
+      "end": 1162.88,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Mix with critical people and we learn to criticize; mix with happy people and we learn about happiness.",
+      "translation": "和爱挑剔的人相处，我们就会学会批评；和快乐的人相处，我们就会学会了解幸福。",
+      "start": 1164.07,
+      "end": 1170.71,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What this means is that we need to decide what we want from life and then choose our company accordingly.",
+      "translation": "这意味着我们需要从生活中决定我们想要什么,然后据此选择我们的公司。",
+      "start": 1171.61,
+      "end": 1177.72
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You may well say, \"That is going to take some effort.",
+      "translation": "你可以说,“那需要一些努力。",
+      "start": 1179.06,
+      "end": 1181.72
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It may not be comfortable.",
+      "translation": "可能不太舒服 可能有点不舒服",
+      "start": 1182.38,
+      "end": 1183.3
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I may offend some of my present company.\" Right, but it is your life.",
+      "translation": "我可能会冒犯我现在的一些公司。”对,但这是你的生活。",
+      "start": 1184.08,
+      "end": 1188.54
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Fred may say, \"I'm always broke, frequently depressed.",
+      "translation": "佛瑞德可能会说,\"我总是破产,经常沮丧\"",
+      "start": 1189.72,
+      "end": 1192.84
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'm going nowhere and I never do anything exciting.\" Then we discover that Fred's best friends are always broke, frequently depressed, going nowhere and wishing that life was more exciting.",
+      "translation": "我无处可去,我从不做任何令人兴奋的事。” 然后我们发现弗雷德最好的朋友总是破产, 经常沮丧,无处可去,希望生活更刺激。",
+      "start": 1193.58,
+      "end": 1205.47
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This is not a coincidence.",
+      "translation": "这不是巧合。",
+      "start": 1206.45,
+      "end": 1207.49
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Nor is it our business to stand in judgment of Fred.",
+      "translation": "也不应该评判弗莱德",
+      "start": 1208.59,
+      "end": 1211.49
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "However, if Fred ever wants to improve his quality of life, the first thing he'll need to do is recognize what has been going on all these years.",
+      "translation": "然而,如果弗雷德想提高生活质量 他首先要做的就是 认识这些年来发生的事情",
+      "start": 1212.29,
+      "end": 1220.97
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's no surprise that doctors as a profession suffer a lot of ill health because they spend their lives around sick people.",
+      "translation": "医生这个职业的人健康状况普遍较差，并不令人意外，因为他们一生都在与病人相处。",
+      "start": 1222.0,
+      "end": 1228.86,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Psychiatrists have a higher incidence of suicide in their profession for related reasons.",
+      "translation": "精神科医生的职业自杀率更高，原因与此相关。",
+      "start": 1229.86,
+      "end": 1234.92,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Traditionally, 9 out of 10 children whose parents smoke, smoke themselves.",
+      "translation": "传统上，父母吸烟的孩子中，十个有九个也会吸烟。",
+      "start": 1235.81,
+      "end": 1240.37,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Obesity is in part an environmental problem.",
+      "translation": "肥胖在一定程度上是一个环境问题。",
+      "start": 1241.25,
+      "end": 1244.49,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Successful people have successful friends.",
+      "translation": "成功人士身边也都是成功人士。",
+      "start": 1245.17,
+      "end": 1247.55,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And so the story goes on.",
+      "translation": "这样的例子还有很多。",
+      "start": 1248.23,
+      "end": 1249.77,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "as human beings.",
+      "translation": "作为人。",
+      "start": 1261.16,
+      "end": 1262.16
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "20.",
+      "translation": "20. 20个",
+      "start": 1276.07,
+      "end": 1276.61
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the speaker say Fred should do first to improve his quality of life?",
+      "translation": "发言者说Fred应该首先做些什么来提高他的生活质量?",
+      "start": 1277.68,
+      "end": 1282.62
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 21.",
+      "translation": "问题21",
+      "start": 1295.97,
+      "end": 1296.79
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the speaker say about psychiatrists?",
+      "translation": "演讲者对心理医生怎么说?",
+      "start": 1297.51,
+      "end": 1300.01
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Recording 3.",
+      "translation": "记录3。",
+      "start": 1313.71,
+      "end": 1314.53
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Virtually every American can recognize a dollar bill at a mere glance.",
+      "translation": "几乎每个美国人只需一眼就能认出一张美元钞票。",
+      "start": 1315.28,
+      "end": 1319.64,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Many can identify it by its sound or texture.",
+      "translation": "许多人甚至能凭声音或质感辨认出它。",
+      "start": 1320.56,
+      "end": 1323.72,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But few people indeed can accurately describe the world's most powerful, important currency.",
+      "translation": "然而，真正能够准确描述这种世界上最强大、最重要的货币的人确实寥寥无几。",
+      "start": 1324.7,
+      "end": 1331.38,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The American dollar bill is colored with black ink on one side and green on the other; the exact composition of the paper and ink is a closely guarded government secret.",
+      "translation": "美元钞票一面用黑色油墨印刷，另一面用绿色油墨印刷；纸张和油墨的确切成分是政府严密保守的秘密。",
+      "start": 1332.59,
+      "end": 1344.49,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Despite its weighty importance, the dollar bill actually weighs little.",
+      "translation": "尽管美元钞票意义重大，但它实际上很轻。",
+      "start": 1345.27,
+      "end": 1350.35,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It requires nearly 500 bills to tip the scales at a pound.",
+      "translation": "将近500张钞票才有一磅重。",
+      "start": 1351.09,
+      "end": 1355.77,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Not only is the dollar bill lightweight, but it also has a brief life span.",
+      "translation": "美元钞票不仅重量轻，而且使用寿命也很短。",
+      "start": 1356.44,
+      "end": 1363.2,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Few dollar bills survive longer than 18 months.",
+      "translation": "很少有美元钞票能保存超过18个月。",
+      "start": 1363.2,
+      "end": 1367.14,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The word \"dollar\" is taken from the German word \"thaler,\" the name for the world's most important currency in the 16th century.",
+      "translation": "“dollar”一词源自德语单词“thaler”，后者是16世纪世界上最重要的货币的名称。",
+      "start": 1368.51,
+      "end": 1375.59,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The thaler was a silver coin first minted in 1518 under the reign of Charles V, Emperor of Germany.",
+      "translation": "塔勒是一种银币，于1518年在德国皇帝查理五世统治时期首次铸造。",
+      "start": 1376.35,
+      "end": 1383.77,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The concept of paper money is a relatively recent innovation in the history of American currency.",
+      "translation": "纸币的概念在美国货币史上是一项相对较新的创新。",
+      "start": 1384.25,
+      "end": 1390.17,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "When the Constitution was signed, people had little regard for paper money because of its steadily decreasing value during the colonial era.",
+      "translation": "宪法签署时，人们对纸币并不看重，因为纸币在殖民时期的价值一直在下降。",
+      "start": 1391.23,
+      "end": 1399.11,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Because of this lack of faith, the new American government minted only coins for common currency.",
+      "translation": "由于缺乏信任，新成立的美国政府只铸造硬币作为通用货币。",
+      "start": 1399.91,
+      "end": 1405.09,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Interest-bearing bank notes were issued at the same time, but their purpose was limited to providing money for urgent government crises, such as American involvement in the War of 1812.",
+      "translation": "与此同时，政府也发行了计息的银行券，但其用途仅限于为紧急的政府危机提供资金，例如美国参与1812年战争。",
+      "start": 1405.09,
+      "end": 1418.93,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The first noninterest-bearing paper currency was authorized by Congress in 1862, at the height of the Civil War.",
+      "translation": "1862年内战最激烈的时期，国会批准发行了第一种不计息的纸币。",
+      "start": 1419.89,
+      "end": 1427.71,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "At this point, citizens' old fears of devalued paper currency had calmed, and the dollar bill was born.",
+      "translation": "此时，公民对于纸币贬值的旧有担忧已经平息，美元钞票由此诞生。",
+      "start": 1428.33,
+      "end": 1435.07,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The new green colored paper money quickly earned the nickname \"greenback.\"",
+      "translation": "这种新发行的绿色纸币很快获得了“绿背钞”的绰号。",
+      "start": 1435.89,
+      "end": 1440.18,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Today, the American dollar bill is a product of the Federal Reserve, and is issued from the twelve Federal Reserve banks around the United States.",
+      "translation": "如今，美元钞票由联邦储备系统发行，并由遍布美国的12家联邦储备银行发行。",
+      "start": 1440.86,
+      "end": 1450.02,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The government keeps a steady supply of approximately two billion bills in circulation at all times.",
+      "translation": "政府始终维持着大约20亿张钞票的流通量。",
+      "start": 1450.74,
+      "end": 1457.52,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Controversy continues to surround the true value of the dollar bill.",
+      "translation": "关于美元钞票实际价值的争议一直存在。",
+      "start": 1458.55,
+      "end": 1462.57,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "American history has seen generations of politicians argue in favor of a gold standard for American currency.",
+      "translation": "美国历史上，一代又一代的政治家都曾主张美国货币实行金本位制。",
+      "start": 1463.19,
+      "end": 1470.36,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "However, for the present, the American dollar bill holds the value that is printed on it, and little more.",
+      "translation": "然而，就目前而言，美元钞票的价值就是印在上面的面值，仅此而已。",
+      "start": 1471.14,
+      "end": 1477.46,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The only other guarantee on the bill is a Federal Reserve pledge as a confirmation in the form of government securities.",
+      "translation": "钞票上的唯一其他保障，是联邦储备系统以政府证券形式作出的保证，作为确认。",
+      "start": 1478.18,
+      "end": 1485.24,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 23.",
+      "translation": "问题23。",
+      "start": 1510.86,
+      "end": 1511.84
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the speaker say about the exact composition of the American dollar bill?",
+      "translation": "发言者对美元债券的确切构成有何看法?",
+      "start": 1512.6,
+      "end": 1517.48
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "24.",
+      "translation": "24. 24个",
+      "start": 1530.9,
+      "end": 1531.62
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Why did the new American government mint only coins for common currency?",
+      "translation": "为什么美国政府只用硬币来换取共同货币?",
+      "start": 1532.5,
+      "end": 1537.26
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "25.",
+      "translation": "25个",
+      "start": 1551.01,
+      "end": 1552.01
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What have generations of American politicians argued for?",
+      "translation": "几代美国政客都争吵什么?",
+      "start": 1552.59,
+      "end": 1556.57
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This is the end of listening comprehension.",
+      "translation": "听觉理解的结束",
+      "start": 1569.63,
+      "end": 1571.93
+    }
+  ],
+  "translation_sources": [
+    "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/",
+    "Sams200/opus-mt-en-zh (unmatched sentences only)"
+  ]
+}

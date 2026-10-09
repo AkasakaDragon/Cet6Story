@@ -1,0 +1,1734 @@
+{
+  "id": "cet4-2022_09_1",
+  "title": "2022年9月 第1套",
+  "level": 4,
+  "source_url": "https://www.cettong.cn/library/cet4/2022_09_1",
+  "material_source": "https://117.72.200.49/#/library",
+  "audio": "assets/tavern/listening/real-exams/cettong/cet4/2022/2022_09_1.exampace-playback.mp3",
+  "caption_kind": "published_material_with_auxiliary_timing_and_translation",
+  "caption_models": [
+    "Systran/faster-whisper-base.en",
+    "Sams200/opus-mt-en-zh"
+  ],
+  "lines": [
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "White meat, such as chicken, may raise blood cholesterol levels as much as red meat does.",
+      "translation": "白肉，如鸡肉，可能会像红肉一样升高血液胆固醇水平。",
+      "start": 40.01,
+      "end": 45.89,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This finding surprised researchers, who admitted they didn't expect that eating white meat would lead to higher blood cholesterol levels.",
+      "translation": "这一发现令研究人员感到意外，他们承认没有预料到食用白肉会导致血液胆固醇水平升高。",
+      "start": 46.57,
+      "end": 54.09,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In the study, researchers looked at 113 healthy people.",
+      "translation": "在这项研究中,研究人员观察了113名健康人。",
+      "start": 54.99,
+      "end": 59.25,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The participants ate three different diets.",
+      "translation": "参与者食用了三种不同的饮食。",
+      "start": 59.63,
+      "end": 61.81,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "These were a red meat diet which is primarily beef, a white meat diet which is mostly chicken and turkey, and a vegetarian protein diet.",
+      "translation": "这些饮食分别是主要以牛肉为主的红肉饮食、主要以鸡肉和火鸡肉为主的白肉饮食，以及素食蛋白饮食。",
+      "start": 62.73,
+      "end": 71.61,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Each diet period was four weeks.",
+      "translation": "每个饮食周期为四周。",
+      "start": 72.41,
+      "end": 74.51,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Between the diet periods, participants had a break, during which they ate their regular foods.",
+      "translation": "在饮食周期之间，参与者有一个休息期，期间他们食用常规食物。",
+      "start": 75.71,
+      "end": 81.17,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In addition, participants had blood tests at the start and finish of each new diet.",
+      "translation": "此外，参与者在每个新饮食开始和结束时都进行了血液检测。",
+      "start": 82.13,
+      "end": 87.89,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The results showed that white and red meat diets had the same effects on blood cholesterol levels.",
+      "translation": "结果显示，白肉和红肉饮食对血液胆固醇水平有相同的影响。",
+      "start": 88.31,
+      "end": 94.63,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Further, both diets increased blood cholesterol levels compared with the diet built on vegetarian protein sources.",
+      "translation": "此外，与基于素食蛋白来源的饮食相比，这两种饮食都增加了血液胆固醇水平。",
+      "start": 95.11,
+      "end": 102.39,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The team acknowledged that it is possible that white meat is better for our health than red meat despite their findings.",
+      "translation": "该团队承认，尽管有他们的研究结果，白肉对我们的健康可能比红肉更好。",
+      "start": 103.47,
+      "end": 110.63,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This is because other effects of red meat consumption could contribute to heart disease independent of cholesterol.",
+      "translation": "这是因为食用红肉的其他影响可能会独立于胆固醇而导致心脏病。",
+      "start": 111.45,
+      "end": 118.41,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Their main recommendations are that people eat less of both kinds of meat and more vegetarian protein.",
+      "translation": "他们的主要建议是人们减少食用这两种肉类，多摄入素食蛋白。",
+      "start": 119.45,
+      "end": 126.43,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "At around half past nine this morning, a trailer attached to a lorry turned over at the crossing of High Street and Milton.",
+      "translation": "今早9点半左右 一辆挂在一辆卡车上的拖车 在高街和米尔顿交叉口翻转",
+      "start": 172.81,
+      "end": 181.57
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Hundreds of frozen turkeys were spilled all over the road.",
+      "translation": "数百只冷冻火鸡散落在路面上。",
+      "start": 182.55,
+      "end": 186.55,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It is reported that nobody was hurt in the incident, but police said it may affect traffic and Christmas dinners.",
+      "translation": "据报道,此次事故中无人受伤,但警方表示这可能会影响交通和圣诞晚餐。",
+      "start": 187.6,
+      "end": 195.5,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "With just one week to go before Christmas, there are worries that local supermarket supplies of this holiday favorite may be affected.",
+      "translation": "距离圣诞节仅剩一周时间,人们担心当地超市这一节日热门食品的供应可能会受到影响。",
+      "start": 196.44,
+      "end": 205.46,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "A police spokeswoman said that officers were currently in attendance at the scene.",
+      "translation": "一名警方女发言人表示,警员目前正在现场处置。",
+      "start": 206.54,
+      "end": 211.46,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "She stated that the driver of the lorry had been arrested on suspicion of dangerous driving.",
+      "translation": "她说,卡车司机已因涉嫌危险驾驶被逮捕。",
+      "start": 212.38,
+      "end": 217.72,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The crossing on High Street is a well-known accident blackspot.",
+      "translation": "High Street的这个十字路口是一个众所周知的交通事故多发点。",
+      "start": 219.05,
+      "end": 223.68,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This year alone, there have been seven traffic accidents at this location.",
+      "translation": "仅今年一年,该路口就发生了七起交通事故。",
+      "start": 223.68,
+      "end": 228.52,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Thankfully, none of these accidents have resulted in serious injury.",
+      "translation": "幸运的是,这些事故均未造成重伤。",
+      "start": 229.55,
+      "end": 267.9,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "India launched its helicopter taxi service on Monday, promising to ferry customers the 40 miles between Bangalore's Electronic City tech hub and the International Airport terminal in 15 minutes.",
+      "translation": "印度于周一推出了直升机出租车服务,承诺在15分钟内将客户从班加罗尔的Electronic City科技中心送至国际机场航站楼,全程40英里。",
+      "start": 284.566,
+      "end": 299.05,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Customers can book their helicopter ride through a mobile app.",
+      "translation": "客户可以通过移动应用程序预订直升机行程。",
+      "start": 299.97,
+      "end": 303.99,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The service, which claims to be the first of its kind in India, offers only one route, but Bangalore airport will add more once it gets approval.",
+      "translation": "该服务自称是印度首创,目前仅提供一条航线,但班加罗尔机场表示一旦获得批准将增加更多航线。",
+      "start": 304.97,
+      "end": 314.75,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Helicopter taxi is not an affordable option for many travelers.",
+      "translation": "直升机出租车对许多旅行者来说不是负担得起的选择。",
+      "start": 315.91,
+      "end": 319.83
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "A car ride for the same journey costs less than half as much.",
+      "translation": "同一旅程的乘车费用不到一半。",
+      "start": 320.57,
+      "end": 324.65
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But Bangalore airport says it is a competitive alternative to a car ride for tech executives in a hurry.",
+      "translation": "但班加罗尔机场表示,",
+      "start": 325.59,
+      "end": 332.99
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "\"A large number of high-class travelers, including CEOs, have to spend more than three hours by road to get there and that is a loss of time,\" a Bangalore airport spokesperson said.",
+      "translation": "班加罗尔机场发言人说:「许多高档旅客, 包括首席执行官在内,",
+      "start": 334.08,
+      "end": 347.34
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "\"This is not a low cost option, but it is an option,\" she added.",
+      "translation": "她补充说,“这不是一种低成本的选择,但是一种选择”。",
+      "start": 348.01,
+      "end": 352.72
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The helicopters ferried around eight customers to the airport on their first day.",
+      "translation": "直升机在机场的第一天搭乘了大约8名顾客。",
+      "start": 353.72,
+      "end": 358.24
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The company that owns and operates the service is called Thumby Aviation.",
+      "translation": "拥有和经营这项服务的公司称为“缩略语航空公司”。",
+      "start": 359.16,
+      "end": 363.56
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It previously specialized in private charter flights for government officials.",
+      "translation": "它以前专门为政府官员提供私人包机。",
+      "start": 364.76,
+      "end": 368.78
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What is Bangalore Airport trying to do about the helicopter taxi service?",
+      "translation": "班加罗尔机场对直升机出租车服务有何打算?",
+      "start": 377.15,
+      "end": 381.99
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 6.",
+      "translation": "问题6",
+      "start": 396.89,
+      "end": 397.77
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What do we learn from the news report about the helicopter taxi ride?",
+      "translation": "我们从关于直升机出租车的新闻报道中了解到什么?",
+      "start": 398.51,
+      "end": 402.79
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 7.",
+      "translation": "问题7",
+      "start": 417.68,
+      "end": 418.6
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Who are the targeted customers of the helicopter taxi service?",
+      "translation": "直升机出租车服务的目标客户是谁?",
+      "start": 419.04,
+      "end": 423.5
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Section B.",
+      "translation": "B节。",
+      "start": 438.53,
+      "end": 439.23
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Directions In this section you will hear two long conversations at the end of each conversation",
+      "translation": "在本节中,每次谈话结束时,你们将听到两次长长的谈话",
+      "start": 439.85,
+      "end": 446.73
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You will hear four questions.",
+      "translation": "你会听到四个问题",
+      "start": 447.32,
+      "end": 448.84
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Both the conversation and the questions will be spoken only once.",
+      "translation": "谈话和问题只谈一次",
+      "start": 449.66,
+      "end": 453.56
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "After you hear a question, you must choose the best answer from the four choices marked A, B, C, and D.",
+      "translation": "在听到一个问题后,你必须从四个选择中选择最好的答案,这四个选择分别是A、B、C和D。",
+      "start": 454.48,
+      "end": 462.5
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "mark the corresponding letter on answer sheet one with a single line through the center.",
+      "translation": "在答题单单行的答题表一中标出相应的字母。",
+      "start": 463.44,
+      "end": 468.74
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Hi,",
+      "translation": "嗨 嗨 嗨 嗨 嗨 嗨 嗨 Hi, Hi, Hi,",
+      "start": 470.0,
+      "end": 470.34
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I wish to buy some cheese for a barbecue this weekend.",
+      "translation": "我想买一些奶酪 为这个周末的烧烤。",
+      "start": 472.02,
+      "end": 472.366
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Hi, I wish to buy some cheese for a barbecue this weekend.",
+      "translation": "你好,我想买些奶酪,这周末烧烤用。",
+      "start": 472.366,
+      "end": 476.12,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What kind would you like?",
+      "translation": "您想要什么种类的?",
+      "start": 476.68,
+      "end": 477.82,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Sorry, I don't know much about cheese.",
+      "translation": "不好意思,我对奶酪不太了解。",
+      "start": 478.24,
+      "end": 480.58,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What type do you think would be suitable for a barbecue?",
+      "translation": "您觉得哪种适合烧烤呢?",
+      "start": 481.38,
+      "end": 484.24,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That's easy!",
+      "translation": "很简单!",
+      "start": 485.02,
+      "end": 485.82
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "For a barbecue, you could have any cheese you want.",
+      "translation": "烧烤的时候,你想吃什么奶酪都可以",
+      "start": 486.6,
+      "end": 489.86
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I imagine there will be different foods and people will just help themselves and eat at their own pace, right?",
+      "translation": "我想会有不同的食物, 人们会只是自助 和吃自己的节奏,对不对?",
+      "start": 490.6,
+      "end": 497.18
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Yes, exactly.",
+      "translation": "对,没错。",
+      "start": 497.66,
+      "end": 498.86,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It will be very casual.",
+      "translation": "会很随意的。",
+      "start": 499.68,
+      "end": 500.76,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We will just be a small group of friends gathering together at Washington Park.",
+      "translation": "就是一小群朋友在Washington Park聚一聚。",
+      "start": 501.46,
+      "end": 506.08,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "There will be around 20 of us, including children.",
+      "translation": "大概20个人左右,包括孩子。",
+      "start": 506.57,
+      "end": 509.93,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Great!",
+      "translation": "太好了!",
+      "start": 510.45,
+      "end": 510.99
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So you could have different types of cheese.",
+      "translation": "这样你就可以有不同种类的奶酪",
+      "start": 511.53,
+      "end": 513.59
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "How much would you like to spend?",
+      "translation": "你想花多少钱?",
+      "start": 514.47,
+      "end": 515.95
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Not very much.",
+      "translation": "不想花太多。",
+      "start": 516.55,
+      "end": 517.61,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Let's say $30.",
+      "translation": "就算30美元吧。",
+      "start": 518.27,
+      "end": 519.65,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I would suggest having at least one soft cheese and one hard cheese.",
+      "translation": "我建议至少买一种软奶酪和一种硬奶酪。",
+      "start": 520.51,
+      "end": 525.39,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That will offer you a good variety to suit different people's tastes.",
+      "translation": "这样品种丰富,能满足不同人的口味。",
+      "start": 526.07,
+      "end": 529.77,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That sounds good.",
+      "translation": "听起来不错。",
+      "start": 530.67,
+      "end": 531.63,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What's the difference between a soft cheese and a hard cheese?",
+      "translation": "软奶酪和硬奶酪有什么区别呢?",
+      "start": 532.1,
+      "end": 536.02,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Well, it depends.",
+      "translation": "嗯,这要看情况。",
+      "start": 536.6,
+      "end": 537.78,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But generally speaking, soft cheeses are creamy and go well with sweet things like honey and jam.",
+      "translation": "但一般来说,软奶酪是奶油状的,跟蜂蜜、果酱这些甜食很配。",
+      "start": 538.62,
+      "end": 545.8,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I would suggest something like this Spanish goat cheese.",
+      "translation": "我建议买这种西班牙山羊奶酪。",
+      "start": 546.7,
+      "end": 549.6,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's only $15, a very good price.",
+      "translation": "只要15美元,价格很实惠。",
+      "start": 550.24,
+      "end": 553.52,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You can spread it on bread with a knife, and then add a tiny bit of honey on top.",
+      "translation": "您可以用刀把它抹在面包上,然后在上面加一点点蜂蜜。",
+      "start": 554.42,
+      "end": 560.08,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's delicious.",
+      "translation": "非常好吃。",
+      "start": 560.72,
+      "end": 561.36,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Children love it.",
+      "translation": "孩子们都爱吃。",
+      "start": 562.09,
+      "end": 563.27,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Okay, great.",
+      "translation": "好的,很棒。",
+      "start": 563.83,
+      "end": 564.79,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What about a hard cheese?",
+      "translation": "那硬奶酪呢?",
+      "start": 565.41,
+      "end": 566.79,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Yes, for hard cheese, I would recommend this Italian one here.",
+      "translation": "对,硬奶酪的话,我推荐这款意大利的。",
+      "start": 567.43,
+      "end": 572.07,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It has a very strong smell and a dry flavor.",
+      "translation": "它味道很浓,口感偏干。",
+      "start": 572.65,
+      "end": 575.87,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You can cut it into thin slices and eat it on its own.",
+      "translation": "您可以把它切成薄片直接吃。",
+      "start": 576.51,
+      "end": 580.13,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's $16.",
+      "translation": "16美元。",
+      "start": 580.75,
+      "end": 581.67,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Okay, I'll take both.",
+      "translation": "好的,两种我都要了。",
+      "start": 582.53,
+      "end": 584.11,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Thank you for your help.",
+      "translation": "谢谢您的帮助。",
+      "start": 584.87,
+      "end": 585.89,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions eight to 11 are based on the conversation you have just heard.",
+      "translation": "问题8到11 是基于你刚才听到的谈话",
+      "start": 586.8,
+      "end": 591.5
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 8.",
+      "translation": "问题8",
+      "start": 592.4,
+      "end": 593.5
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the woman plan to do for the weekend?",
+      "translation": "这个女人周末打算做什么?",
+      "start": 594.16,
+      "end": 596.6
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 9.",
+      "translation": "问题9",
+      "start": 611.6,
+      "end": 612.28
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the man suggest the woman do?",
+      "translation": "男人建议女人怎么做?",
+      "start": 612.8,
+      "end": 615.18
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 10.",
+      "translation": "问题10。",
+      "start": 630.02,
+      "end": 630.84
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the man say about Spanish goat cheese?",
+      "translation": "那人怎么说西班牙山羊奶酪?",
+      "start": 631.44,
+      "end": 634.2
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "11.",
+      "translation": "11. 十一号",
+      "start": 649.51,
+      "end": 650.09
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What is the woman going to do at the end of the conversation?",
+      "translation": "谈话结束时那个女人会怎么做?",
+      "start": 650.87,
+      "end": 654.35
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Our school is replacing printed textbooks with e-textbooks next semester.",
+      "translation": "我们学校下学期要用电子教材取代纸质教材了。",
+      "start": 669.04,
+      "end": 671.6,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Our school is replacing printed textbooks with e-textbooks next semester.",
+      "translation": "我们学校下学期要用电子教材取代纸质教材了。",
+      "start": 671.6,
+      "end": 676.72,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I can't wait.",
+      "translation": "我等不及了。",
+      "start": 677.29,
+      "end": 678.25,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Really?",
+      "translation": "真的吗?",
+      "start": 678.81,
+      "end": 679.33
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What about the cost, not only buying all those tablets, but the software and electronic infrastructure that goes with it, not to mention retraining all the teachers and administration staff?",
+      "translation": "成本如何? 不仅购买所有这些平板电脑, 软件和电子基础设施, 更不用提所有教师和行政人员的再培训?",
+      "start": 679.99,
+      "end": 692.59
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Sure, the initial expenditure will be high, but much lower afterwards.",
+      "translation": "当然,初期支出会很高,但之后就低多了。",
+      "start": 693.05,
+      "end": 698.15,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Besides that, tablet prices continue to drop and are becoming increasingly affordable.",
+      "translation": "而且,平板电脑价格持续下降,越来越实惠了。",
+      "start": 699.19,
+      "end": 704.35,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Anyway, tablets help students learn up to 80% faster.",
+      "translation": "不管怎样,平板电脑能帮助学生的学习速度提高80%。",
+      "start": 705.39,
+      "end": 708.95,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Not necessarily.",
+      "translation": "不一定。",
+      "start": 709.77,
+      "end": 710.53,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Tablets have too many distractions.",
+      "translation": "平板电脑有太多干扰因素。",
+      "start": 711.41,
+      "end": 713.49,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Students may pay attention to apps, games and websites instead of their teachers.",
+      "translation": "学生可能会把注意力放在应用程序、游戏和网站上,而不是听老师讲课。",
+      "start": 714.53,
+      "end": 720.33,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In fact, research suggests that people who read printed text comprehend more, remember more and learn 30% more than those who read digital text.",
+      "translation": "事实上,研究表明,阅读纸质文本的人比阅读电子文本的人理解得更多,记住得更多,学到的东西多30%。",
+      "start": 721.23,
+      "end": 732.49,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Yes.",
+      "translation": "是的。",
+      "start": 732.94,
+      "end": 733.5,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But tablets contain many technological features that are not found in printed textbooks.",
+      "translation": "但平板电脑包含许多纸质教材没有的技术功能。",
+      "start": 733.9,
+      "end": 739.88,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Think about it.",
+      "translation": "想想看。",
+      "start": 740.68,
+      "end": 741.52,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Students are able to highlight and edit text, write notes and search for information much more quickly than they can with printed textbooks.",
+      "translation": "学生能够高亮和编辑文本,写笔记,搜索信息,这些都比用纸质教材快得多。",
+      "start": 742.22,
+      "end": 751.74,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And what about all those trees that are cut down to make printed books?",
+      "translation": "还有那些为了制作纸质书而被砍伐的树木呢?",
+      "start": 752.66,
+      "end": 756.92,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Actually, manufacturing tablets is environmentally destructive and dangerous to human health.",
+      "translation": "实际上,制造平板电脑对环境的破坏性很大,而且对人类健康有危害。",
+      "start": 757.72,
+      "end": 764.57,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The health impacts from making one electronic reader are 70 times greater than those from making a single printed book.",
+      "translation": "制造一台电子阅读器对健康的影响是制造一本纸质书的70倍。",
+      "start": 765.41,
+      "end": 774.17,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "A lot of minerals are extracted from the earth to make electronic readers.",
+      "translation": "制造电子阅读器需要从地球上开采大量矿物。",
+      "start": 775.06,
+      "end": 779.24,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It does far more damage to the environment.",
+      "translation": "对环境的破坏要大得多。",
+      "start": 780.06,
+      "end": 782.64,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Yes.",
+      "translation": "是的。",
+      "start": 783.22,
+      "end": 783.8,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But the software for electronic readers can be updated instantly without the need for buying a whole lot of new books.",
+      "translation": "但是电子阅读器的软件可以即时更新,不需要购买一大堆新书。",
+      "start": 783.84,
+      "end": 792.06,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That's better for the environment.",
+      "translation": "这样对环境更好。",
+      "start": 792.65,
+      "end": 794.43,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But the core curriculum doesn't change that much.",
+      "translation": "但核心课程变化并不大。",
+      "start": 795.21,
+      "end": 798.35,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Printed textbooks that are not brand new, still contain the basic relevant information of core subjects.",
+      "translation": "不是全新的纸质教材仍然包含核心科目的基本相关信息。",
+      "start": 799.39,
+      "end": 806.15,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Well, I'm looking forward to the change.",
+      "translation": "嗯,我很期待这个改变。",
+      "start": 807.03,
+      "end": 809.35,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'll stick with my printed books.",
+      "translation": "我还是坚持用我的纸质书。",
+      "start": 810.01,
+      "end": 811.85,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions 12 to 15 are based on the conversation you have just heard.",
+      "translation": "问题12到15 是基于你刚才听到的谈话",
+      "start": 813.23,
+      "end": 818.29
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 12.",
+      "translation": "问题12。",
+      "start": 819.33,
+      "end": 820.13
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the woman say about using e-textbooks?",
+      "translation": "女性对使用电子教科书有何看法?",
+      "start": 820.61,
+      "end": 823.89
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 13.",
+      "translation": "问题13。",
+      "start": 838.92,
+      "end": 839.78
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "According to the man, how can the use of tablets benefit students?",
+      "translation": "据该名男子说,使用平板电脑如何使学生受益?",
+      "start": 840.63,
+      "end": 845.43
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 14.",
+      "translation": "问题14。",
+      "start": 859.96,
+      "end": 861.3
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the woman say about students using tablets?",
+      "translation": "女性对使用平板电脑的学生有何看法?",
+      "start": 861.84,
+      "end": 865.28
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 15.",
+      "translation": "问题15。",
+      "start": 880.28,
+      "end": 881.3
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the woman say about making electronic readers?",
+      "translation": "女性对电子读者有何看法?",
+      "start": 882.02,
+      "end": 884.92
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "C.",
+      "translation": "C. 中 国 家",
+      "start": 900.27,
+      "end": 900.79
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Directions.",
+      "translation": "方向",
+      "start": 901.57,
+      "end": 901.89
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In this section, you will hear three passages.",
+      "translation": "在本节中,你们将听到三个段落。",
+      "start": 903.07,
+      "end": 905.77
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "At the end of each passage,",
+      "translation": "在每个通道的尽头",
+      "start": 906.48,
+      "end": 908.04
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "you will hear three or four questions.",
+      "translation": "你会听到三四个问题。",
+      "start": 908.66,
+      "end": 910.72
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Both the passage and the questions will be spoken only once.",
+      "translation": "发言的通过和提问将只讲一次。",
+      "start": 911.42,
+      "end": 915.28
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "After you hear a question, you must choose the best answer from the four choices marked A, C, and D.",
+      "translation": "在听到一个问题后,你必须从四个选择中选择最好的答案,即A、C和D。",
+      "start": 916.08,
+      "end": 923.98
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "mark the corresponding letter on answer sheet one with a single line through the center.",
+      "translation": "在答题单单行的答题表一中标出相应的字母。",
+      "start": 924.86,
+      "end": 930.26
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In social psychology, the term \"person perception\" refers to the mental processes that we use to form impressions of other people.",
+      "translation": "在社会心理学中，\"人物知觉\"这一术语指的是我们用来形成对他人印象的心理过程。",
+      "start": 933.4,
+      "end": 942.72,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It includes not just how we form these impressions, but the conclusions we make about other people based on our impressions.",
+      "translation": "它不仅包括我们如何形成这些印象，还包括我们基于印象对他人做出的结论。",
+      "start": 943.5,
+      "end": 951.68,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Consider how often you make this kind of judgment every day.",
+      "translation": "想想你每天做出这种判断的频率有多高。",
+      "start": 952.83,
+      "end": 957.01,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "When you meet with a new coworker, you immediately begin to develop an initial impression of this person.",
+      "translation": "当你遇到一位新同事时，你会立即开始对这个人形成初步印象。",
+      "start": 957.59,
+      "end": 963.65,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "When you visit the grocery store, you might draw conclusions about the cashier who checks you out.",
+      "translation": "当你去杂货店时，你可能会对为你结账的收银员得出一些结论。",
+      "start": 964.19,
+      "end": 969.89,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Obviously, person perception is a very subjective process that can be affected by a number of variables, including the characteristics of the person you are observing, the context of the situation, your own personal traits, and your past experiences.",
+      "translation": "显然，人物知觉是一个非常主观的过程，可能会受到许多变量的影响，包括你所观察的人的特征、情境的背景、你自己的个人特质以及你过去的经历。",
+      "start": 970.81,
+      "end": 987.97,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "One of the techniques we use in person perception is social categorization.",
+      "translation": "我们在人物知觉中使用的技巧之一是社会分类。",
+      "start": 989.17,
+      "end": 993.75,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In this process, we mentally categorize people into different groups based on common characteristics.",
+      "translation": "在这个过程中，我们根据共同特征在心理上将人们归入不同的群体。",
+      "start": 994.59,
+      "end": 1000.93,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Problems with this technique include the fact that it can lead to errors and prejudice.",
+      "translation": "这种技巧的问题包括它可能导致错误和偏见。",
+      "start": 1002.38,
+      "end": 1007.2,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Imagine that you are getting on a bus.",
+      "translation": "想象一下你正在上公交车。",
+      "start": 1008.26,
+      "end": 1009.88,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "There are only two seats available.",
+      "translation": "只有两个座位可用。",
+      "start": 1010.5,
+      "end": 1012.02,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "One is next to a small, elderly woman; the other is next to a muscular, fierce-looking man.",
+      "translation": "一个挨着一位身材矮小的老年妇女；另一个挨着一位肌肉发达、面容凶狠的男子。",
+      "start": 1013.02,
+      "end": 1019.1,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You sit next to the elderly woman, who unfortunately turns out to be quite skilled at picking pockets.",
+      "translation": "你坐在老年妇女旁边，不幸的是她原来非常擅长扒窃。",
+      "start": 1019.98,
+      "end": 1026.16,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Because of social categorization, you immediately judge the woman as harmless, and the man as threatening, leading to the loss of your wallet.",
+      "translation": "由于社会分类，你立即判断这位妇女是无害的，而那位男子是有威胁的，这导致了你钱包的丢失。",
+      "start": 1027.5,
+      "end": 1036.7,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions 16 to 18 are based on the passage you have just heard.",
+      "translation": "问题16至18是根据你刚才听到的段落提出的。",
+      "start": 1037.88,
+      "end": 1042.62
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "16.",
+      "translation": "16岁。",
+      "start": 1043.92,
+      "end": 1044.38
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the passage say we tend to do every day?",
+      "translation": "通道上说我们每天都会做什么?",
+      "start": 1045.4,
+      "end": 1048.44
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 17.",
+      "translation": "问题17。",
+      "start": 1063.28,
+      "end": 1064.1
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What do we learn about person perception from this passage?",
+      "translation": "我们从这段话中 了解什么人的感觉?",
+      "start": 1064.88,
+      "end": 1069.06
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 18 What is the problem with using social categorization in person perception?",
+      "translation": "问题18:在人的看法中使用社会分类有什么问题?",
+      "start": 1083.94,
+      "end": 1090.7
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Passage 2 Despite smartphones and social media, young people today are as socially competent as those from the previous generation At least this is what a new study suggests for the study",
+      "translation": "2 尽管有智能手机和社交媒体,但如今的年轻人与前一代青年一样具有社会能力,至少这是新研究报告为研究提出的一个建议。",
+      "start": 1105.73,
+      "end": 1107.666
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Despite smartphones and social media, young people today are as socially competent as those from the previous generation.",
+      "translation": "尽管有智能手机和社交媒体,今天的年轻人在社交能力方面与上一代人一样出色。",
+      "start": 1107.666,
+      "end": 1115.48,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "At least this is what a new study suggests.",
+      "translation": "至少这是一项新研究所表明的。",
+      "start": 1115.48,
+      "end": 1118.98,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "For the study, researchers compared teacher and parent evaluations of American children who started kindergarten in 1998, with those who began school in 2010.",
+      "translation": "在这项研究中,研究人员比较了教师和家长对1998年开始上幼儿园的美国儿童与2010年入学儿童的评价。",
+      "start": 1118.98,
+      "end": 1131.54,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The former group entered kindergarten when mobile phones were luxuries.",
+      "translation": "前一组儿童入园时,移动电话还是奢侈品。",
+      "start": 1132.48,
+      "end": 1136.38,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The latter group started school when mobile devices were widespread.",
+      "translation": "后一组儿童入学时,移动设备已经普及。",
+      "start": 1137.22,
+      "end": 1141.02,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Results showed both groups of children were rated similarly on important social skills.",
+      "translation": "结果显示,两组儿童在重要社交技能方面的评分相似。",
+      "start": 1142.63,
+      "end": 1147.89,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "These included their ability to form and maintain friendships and get along with people who are different.",
+      "translation": "这些技能包括建立和维持友谊的能力,以及与不同的人相处的能力。",
+      "start": 1148.51,
+      "end": 1154.39,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They were also rated similarly on self-control, such as the ability to regulate their temper.",
+      "translation": "他们在自我控制方面的评分也相似,比如控制脾气的能力。",
+      "start": 1154.93,
+      "end": 1160.93,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In virtually every comparison made, ratings of social skills either remain constant or improved for the children born later.",
+      "translation": "在几乎所有的比较中,晚出生儿童的社交技能评分要么保持不变,要么有所提高。",
+      "start": 1161.93,
+      "end": 1170.43,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "There was one exception: Social skills were slightly lower for children who accessed online games and social networking sites many times a day.",
+      "translation": "有一个例外:每天多次访问网络游戏和社交网站的儿童,其社交技能略低。",
+      "start": 1171.27,
+      "end": 1181.34,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Adults are worried when technological change starts to undermine traditional relationships, particularly the parent-child relationship.",
+      "translation": "当技术变革开始削弱传统关系,特别是亲子关系时,成年人会感到担忧。",
+      "start": 1182.0,
+      "end": 1190.66,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The introduction of telephones, automobiles and radio all led to moral panic among adults of the time, because the technology allowed children to enjoy more freedom.",
+      "translation": "电话、汽车和广播的引入都曾在当时的成年人中引发道德恐慌,因为这些技术让儿童享有更多自由。",
+      "start": 1191.46,
+      "end": 1203.16,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Fears over screen-based technology represent the most recent panic in response to technological change.",
+      "translation": "对屏幕技术的恐惧是对技术变革做出反应的最新恐慌。",
+      "start": 1204.18,
+      "end": 1211.03,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But overall, the study found little evidence that time spent on screens was hurting social skills for most children.",
+      "translation": "但总体而言,该研究发现几乎没有证据表明,对大多数儿童来说,花在屏幕上的时间损害了社交技能。",
+      "start": 1211.93,
+      "end": 1220.01,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 20 What did the study find about children who accessed social networking sites many times a day?",
+      "translation": "问题20 研究报告对每天多次访问社交网站的儿童有何发现?",
+      "start": 1250.13,
+      "end": 1258.72
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 21 What is adults worry about technological change?",
+      "translation": "问题21. 成人对技术变革有什么担心?",
+      "start": 1273.56,
+      "end": 1279.02
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Passage 3 It's easy to spend all day searching for inspiration.",
+      "translation": "通过3号路口 很容易花一整天时间寻找灵感",
+      "start": 1294.5,
+      "end": 1296.5
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's easy to spend all day searching for inspiration.",
+      "translation": "人们很容易花一整天时间寻找灵感。",
+      "start": 1296.5,
+      "end": 1299.71,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You can find incredible videos, articles and news stories about the success of others.",
+      "translation": "你可以找到关于他人成功的精彩视频、文章和新闻报道。",
+      "start": 1300.49,
+      "end": 1306.67,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The problem is that consuming the success and ideas of others is passive inspiration.",
+      "translation": "问题在于,消费他人的成功和想法是被动的灵感。",
+      "start": 1307.44,
+      "end": 1312.78,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Every time you read an article or listen to an interview, you're practicing passive inspiration.",
+      "translation": "每次你阅读一篇文章或收听一次采访,你都在实践被动灵感。",
+      "start": 1313.98,
+      "end": 1319.38,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You might learn something, but you don't actually have to do anything.",
+      "translation": "你可能会学到一些东西,但你实际上不必做任何事情。",
+      "start": 1320.32,
+      "end": 1323.94,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Hearing about other people's success isn't the same as creating your own.",
+      "translation": "听说他人的成功并不等同于创造你自己的成功。",
+      "start": 1324.98,
+      "end": 1329.2,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Instead, it is through the process of active inspiration—the act of creating things, applying new ideas to our goals, and making mistakes that we discover who we are and what is important to us.",
+      "translation": "相反,正是通过主动灵感的过程——创造事物、将新想法应用于我们的目标、犯错误的行动——我们才发现自己是谁以及什么对我们重要。",
+      "start": 1330.19,
+      "end": 1344.11,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Furthermore, active inspiration is what results in long-term passion and enthusiasm.",
+      "translation": "此外,主动灵感会带来长期的热情和激情。",
+      "start": 1344.9,
+      "end": 1350.56,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Watching someone else's success might leave you feeling excited for a few minutes.",
+      "translation": "观看他人的成功可能会让你兴奋几分钟。",
+      "start": 1351.84,
+      "end": 1356.74,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "However, taking action and applying a new idea to your life will inspire you more than anything someone else can say.",
+      "translation": "然而,采取行动并将新想法应用到你的生活中,会比他人所说的任何话都更能激励你。",
+      "start": 1357.64,
+      "end": 1365.68,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Learning and listening can help you think about things in a different way.",
+      "translation": "学习和倾听可以帮助你以不同的方式思考问题。",
+      "start": 1366.76,
+      "end": 1370.7,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But creating, producing, and experimenting is what drives you forward.",
+      "translation": "但创造、生产和实验才是推动你前进的动力。",
+      "start": 1371.3,
+      "end": 1376.64,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Passive inspiration can give you ideas, but active inspiration will give you power.",
+      "translation": "被动灵感可以给你想法,但主动灵感会给你力量。",
+      "start": 1377.5,
+      "end": 1383.68,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Too often we spend our lives consuming the world around us instead of creating it.",
+      "translation": "我们常常把生活花在消费周围的世界而不是创造它上面。",
+      "start": 1384.82,
+      "end": 1390.08,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And what matters is the power your actions have to inspire you.",
+      "translation": "而重要的是你的行动激励你的力量。",
+      "start": 1390.61,
+      "end": 1394.59,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The best inspiration comes from the application of ideas, not the consumption of them.",
+      "translation": "最好的灵感来自想法的应用,而非对它们的消费。",
+      "start": 1395.39,
+      "end": 1400.83,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions 22 to 25 are based on the passage you have just heard.",
+      "translation": "问题22至25是基于你刚才听到的段落。",
+      "start": 1401.86,
+      "end": 1406.86
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "22.",
+      "translation": "22. 妇女 22",
+      "start": 1408.24,
+      "end": 1408.94
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "does the speaker say about inspiration from consuming others' ideas and success stories?",
+      "translation": "发言者是否说过,从消耗他人的想法和成功故事中汲取灵感?",
+      "start": 1410.16,
+      "end": 1416.62
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "23.",
+      "translation": "23 号",
+      "start": 1431.95,
+      "end": 1432.53
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What do we learn from the passage about active inspiration?",
+      "translation": "我们从关于积极灵感的段落中学到什么?",
+      "start": 1433.39,
+      "end": 1437.09
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 24.",
+      "translation": "问题24。",
+      "start": 1452.19,
+      "end": 1453.01
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the passage say passive inspiration can do?",
+      "translation": "句子上写着 消极的灵感能做什么?",
+      "start": 1454.16,
+      "end": 1457.7
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 25.",
+      "translation": "问题25。",
+      "start": 1472.72,
+      "end": 1473.76
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Where does the best inspiration come from according to the passage?",
+      "translation": "最好的灵感来自何方?",
+      "start": 1474.62,
+      "end": 1479.02
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That's the end of listening comprehension.",
+      "translation": "听觉理解到此结束",
+      "start": 1493.86,
+      "end": 1496.54
+    }
+  ],
+  "translation_sources": [
+    "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/",
+    "Sams200/opus-mt-en-zh (unmatched sentences only)"
+  ]
+}

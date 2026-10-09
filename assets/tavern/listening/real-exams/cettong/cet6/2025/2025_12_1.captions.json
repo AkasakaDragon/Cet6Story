@@ -1,0 +1,1621 @@
+{
+  "id": "cet6-2025_12_1",
+  "title": "2025年12月 第1套",
+  "level": 6,
+  "source_url": "https://www.cettong.cn/library/cet6/2025_12_1",
+  "material_source": "https://117.72.200.49/#/library",
+  "audio": "assets/tavern/listening/real-exams/cettong/cet6/2025/2025_12_1.mp3",
+  "caption_kind": "published_material_with_auxiliary_timing_and_translation",
+  "caption_models": [
+    "Systran/faster-whisper-base.en",
+    "Sams200/opus-mt-en-zh"
+  ],
+  "lines": [
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Today's special guest is Lord Blackwell, one of our country's most experienced and distinguished career diplomats.",
+      "translation": "今天的特别嘉宾是布莱克威尔勋爵，他是我国最具经验、最杰出的职业外交官之一。",
+      "start": 37.9,
+      "end": 53.64,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Our audience will be most interested in learning about a career in the foreign service.",
+      "translation": "我们的听众一定会非常想了解外交部门的职业生涯。",
+      "start": 53.64,
+      "end": 59.92,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "However, before we talk about that, I'd like to ask you about the current developments hitting the news today regarding the Republic of Winopia.",
+      "translation": "不过，在谈这个之前，我想问问您今天新闻中有关Winopia共和国的最新事态发展。",
+      "start": 59.92,
+      "end": 61.81,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What can you tell us?",
+      "translation": "您能告诉我们些什么吗？",
+      "start": 62.57,
+      "end": 63.67,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'm afraid I don't know much beyond what we've all seen on the news.",
+      "translation": "恐怕除了我们都在新闻中看到的内容之外，我也不太了解。",
+      "start": 64.27,
+      "end": 67.73,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It looks like the government of Winopia seems to be undergoing some sort of crisis of legitimacy, and an interim administration has been transitionally established until a head of state is agreed on.",
+      "translation": "看起来，Winopia政府似乎正经历某种合法性危机，目前已经临时成立了一个过渡政府，直到各方就国家元首人选达成一致。",
+      "start": 68.33,
+      "end": 79.99,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But my career work has mostly focused around the continental spheres of Europe and the Americas, and thus I've never been involved with Winopian relations.",
+      "translation": "不过，我的职业生涯主要集中在欧洲和美洲大陆地区，因此从未参与过与Winopia有关的外交事务。",
+      "start": 80.55,
+      "end": 89.99,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's for this reason that I don't know anything on this matter beyond what we can all read in the newspapers.",
+      "translation": "正因为如此，关于这件事，除了我们都能在报纸上读到的内容之外，我一无所知。",
+      "start": 90.95,
+      "end": 96.35,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Oh, I see.",
+      "translation": "哦，我明白了。",
+      "start": 96.97,
+      "end": 97.65,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Nevertheless, be rest assured that our expert envoys at our consulate there will be closely monitoring the situation, and I expect our bilateral relations with that country will not be affected.",
+      "translation": "不过请放心，我们驻那里的领事馆中的专家特使会密切关注事态发展，我预计我们与该国的双边关系不会受到影响。",
+      "start": 98.27,
+      "end": 110.43,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So how does one get a career in foreign relations?",
+      "translation": "那么，一个人要怎样才能从事外交事务呢？",
+      "start": 111.01,
+      "end": 114.15,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "There are many different paths one can take.",
+      "translation": "可以选择的道路有很多。",
+      "start": 114.81,
+      "end": 117.21,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "All diplomats have their own story.",
+      "translation": "每位外交官都有自己的经历。",
+      "start": 117.63,
+      "end": 119.49,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But in my case, I got a degree in electrical engineering followed by six years' service in the air force.",
+      "translation": "不过就我而言，我先取得了电气工程学位，随后在空军服役了六年。",
+      "start": 119.97,
+      "end": 126.25,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Then I went to law school, and upon obtaining a degree in international law, I joined the diplomatic corps where I have been for 22 years.",
+      "translation": "之后我进入法学院学习，取得国际法学位后加入了外交使团，到现在已经22年了。",
+      "start": 127.09,
+      "end": 134.65,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What would you say are the key skills one needs for the job?",
+      "translation": "您认为从事这份工作需要哪些关键技能？",
+      "start": 135.19,
+      "end": 139.01,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "There are so many.",
+      "translation": "需要的技能很多。",
+      "start": 139.65,
+      "end": 140.65,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Being a hard worker and a good student is important.",
+      "translation": "勤奋工作、成绩优秀都很重要。",
+      "start": 141.35,
+      "end": 143.71,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You never stop learning.",
+      "translation": "学习永无止境。",
+      "start": 144.31,
+      "end": 145.15,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In addition, a diplomat needs to be very articulate in their discourse and rhetoric.",
+      "translation": "此外，外交官在表达和修辞方面必须非常清晰、善于表达。",
+      "start": 145.83,
+      "end": 149.95,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Whether it is defusing attention or enacting policy, people and communication skills are vital.",
+      "translation": "无论是化解紧张局势还是落实政策，人际交往能力和沟通能力都至关重要。",
+      "start": 150.87,
+      "end": 156.33,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions 1-4 are based on the conversation you have just heard.",
+      "translation": "问题1 -4是基于你刚才听到的谈话",
+      "start": 157.69,
+      "end": 161.41
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "1.",
+      "translation": "1. 国家",
+      "start": 162.35,
+      "end": 162.83
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What do we learn about the man from the conversation?",
+      "translation": "我们从谈话中了解到什么?",
+      "start": 163.21,
+      "end": 165.63
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "2.",
+      "translation": "2. 目标",
+      "start": 179.6,
+      "end": 180.22
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the man say the government of Winoppia is probably undergoing?",
+      "translation": "维诺皮亚政府可能正在经历什么?",
+      "start": 180.68,
+      "end": 184.34
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "3.",
+      "translation": "3 个",
+      "start": 198.45,
+      "end": 199.05
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "According to the man, how does one get a career in foreign relations?",
+      "translation": "男人说, 一个人如何在对外关系中找到职业?",
+      "start": 199.37,
+      "end": 203.25
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question four, what do the speakers mainly discuss by the end of the conversation?",
+      "translation": "问题四,发言者在对话结束时主要讨论什么?",
+      "start": 217.04,
+      "end": 221.74
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Conversation two.",
+      "translation": "对话二",
+      "start": 235.33,
+      "end": 236.57
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's getting late and we're both displaying signs of weariness.",
+      "translation": "M：天不早了，而且我们俩都显出疲态了。",
+      "start": 237.63,
+      "end": 241.27,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I think we should call it a day and meet again tomorrow morning.",
+      "translation": "我觉得我们今天就到这里，明天早上再见吧。",
+      "start": 241.99,
+      "end": 244.79,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Oh, come on, Jeff.",
+      "translation": "W：哦，别这样，Jeff。",
+      "start": 245.23,
+      "end": 246.09,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We are so close!",
+      "translation": "我们就快完成了！",
+      "start": 246.41,
+      "end": 247.47,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Don't you think we are almost done?",
+      "translation": "你不觉得我们已经接近尾声了吗？",
+      "start": 247.79,
+      "end": 249.23,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Let's do two more hours, please.",
+      "translation": "再做两个小时吧，求你了。",
+      "start": 249.71,
+      "end": 251.43,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "One hour, then I'm going home.",
+      "translation": "M：那就一小时，之后我就回家。",
+      "start": 252.35,
+      "end": 254.21,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "OK, fine.",
+      "translation": "W：好吧，行。",
+      "start": 254.21,
+      "end": 255.29,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I think we are making good progress, and that with a few more amendments, we will be all done.",
+      "translation": "我觉得我们进展不错，再修改几处就全部完成了。",
+      "start": 255.79,
+      "end": 261.57,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'm sure looking forward to it.",
+      "translation": "我很期待它出现",
+      "start": 262.23,
+      "end": 263.77
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'm so tired of this project.",
+      "translation": "我厌倦了这个项目。",
+      "start": 264.23,
+      "end": 265.65
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Don't get me wrong.",
+      "translation": "别误会我",
+      "start": 266.35,
+      "end": 266.95
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's a great professional opportunity for me and a milestone for the company, but it's just been so long.",
+      "translation": "对我来说,这是一个伟大的专业机会 也是公司的一个里程碑, 但它只是那么久。",
+      "start": 267.47,
+      "end": 273.81
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Yeah.",
+      "translation": "W：是啊。",
+      "start": 274.43,
+      "end": 274.71,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Two months working on nothing but the same contract is a little tough.",
+      "translation": "连续两个月只处理同一份合同，确实有点难熬。",
+      "start": 275.07,
+      "end": 278.95,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Nevertheless, I think that with a bit of luck, we'll be done by next week.",
+      "translation": "不过，我觉得如果运气好，我们下周就能完成。",
+      "start": 279.37,
+      "end": 283.63,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Ha, you must be delusional.",
+      "translation": "M：哈，你一定是妄想了。",
+      "start": 284.06,
+      "end": 286.1,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You don't think so?",
+      "translation": "W：你不这么认为吗？",
+      "start": 286.74,
+      "end": 287.64,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "No chance.",
+      "translation": "M：没可能。",
+      "start": 288.04,
+      "end": 288.7,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Sections 4, 5, 8 and 9 still have to be aligned to the new framework.",
+      "translation": "第4、5、8和9部分还得按照新的框架进行统一调整。",
+      "start": 289.74,
+      "end": 294.08,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Then we need to proofread the whole thing and make sure all selling points are watertight.",
+      "translation": "然后我们还要通读全文，确保所有卖点都无懈可击。",
+      "start": 294.94,
+      "end": 299.88,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But that will all take no more than a couple of days.",
+      "translation": "W：但这些加起来最多也就需要几天。",
+      "start": 300.38,
+      "end": 303.08,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I wasn't finished.",
+      "translation": "M：我还没说完。",
+      "start": 303.62,
+      "end": 304.48,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "When we are done with it and send it upstairs, what do you think will happen?",
+      "translation": "等我们完成后把它提交上去，你觉得会发生什么？",
+      "start": 305.22,
+      "end": 308.9,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What?",
+      "translation": "W：什么？",
+      "start": 309.28,
+      "end": 309.6,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They'll argue about it for like a month.",
+      "translation": "M：他们会为这事争论大概一个月。",
+      "start": 310.1,
+      "end": 312.22,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "There's always going to be the odd board member who intervenes and demands rectifications be made.",
+      "translation": "总会有个别董事插手，要求进行修改。",
+      "start": 312.7,
+      "end": 317.46,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They might think they're being helpful, but in reality they're being obstructive and hampering progress.",
+      "translation": "他们可能以为自己是在帮忙，但实际上他们是在阻挠，拖慢进度。",
+      "start": 318.16,
+      "end": 322.78,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Oh, Jeff, you're too preoccupied and cynical.",
+      "translation": "W：哦，Jeff，你太忧心忡忡，也太愤世嫉俗了。",
+      "start": 322.78,
+      "end": 325.616,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It won't be anywhere as bad as that.",
+      "translation": "事情不会糟到那个地步的。",
+      "start": 325.616,
+      "end": 328.857,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You'll see, the entire managerial hierarchy wants to see this project implemented as soon as possible, and the board, too, is virtually unanimous in its support.",
+      "translation": "你等着看吧，整个管理层都希望这个项目尽快实施，董事会也几乎一致支持。",
+      "start": 328.857,
+      "end": 339.39,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Go on then, let's stop there and meet up again same time tomorrow.",
+      "translation": "那就这样吧，我们今天先到这里，明天同一时间再见。",
+      "start": 339.39,
+      "end": 342.93,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Section B, directions.",
+      "translation": "B节,方向。",
+      "start": 420.88,
+      "end": 422.88
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In this section you will hear two passages.",
+      "translation": "在本节中,你们将听到两段。",
+      "start": 423.98,
+      "end": 426.0
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "At the end of each passage you will hear three or four questions.",
+      "translation": "在每一段的结尾 你会听到三个或四个问题",
+      "start": 426.84,
+      "end": 430.76
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Both the passage and the questions will be spoken only once.",
+      "translation": "发言的通过和提问将只讲一次。",
+      "start": 431.52,
+      "end": 435.16
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "you hear a question,",
+      "translation": "你听到一个问题,",
+      "start": 436.08,
+      "end": 437.04
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "must choose the best answer from the four choices marked A, B, C and D.",
+      "translation": "必须选择四个选择的最佳答案,即A、B、C和D。",
+      "start": 437.68,
+      "end": 443.52
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "mark the corresponding letter on answer sheet one with a single line through the center.",
+      "translation": "在答题单单行的答题表一中标出相应的字母。",
+      "start": 444.36,
+      "end": 449.46
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "1.",
+      "translation": "1. 国家",
+      "start": 450.29,
+      "end": 450.77
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "One thing I've learned in a quarter century of management is that there are ample grey areas in human behaviour,",
+      "translation": "我在管理四分之一世纪学到的一件事 就是人类行为中有很多灰色区域",
+      "start": 451.85,
+      "end": 458.41
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "When two people have different versions of the same event, it can be hard to know whom to believe.",
+      "translation": "当两个人对同一事件有不同的版本时, 很难知道谁相信。",
+      "start": 464.91,
+      "end": 470.31
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "One such circumstance always comes back to me.",
+      "translation": "我总是会想起这样的情况。",
+      "start": 471.21,
+      "end": 473.61
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It happened years ago, and it's a measure of the forgettable nature of the conflict that I no longer even recall what the dispute was about, but I definitely recall the resolution.",
+      "translation": "它发生在多年前, 这是一种可以忘记的冲突性质的衡量标准 我甚至不记得什么是争端, 但我肯定记得决议。",
+      "start": 474.19,
+      "end": 484.39
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Two talented young executives, one of whom I was managing, had vastly different accounts of the same event, and it seemed likely we'd never get to the truth.",
+      "translation": "两位有才华的年轻高管 其中一个是我管理的 在同一场事件上 有着完全不同的描述 似乎我们永远也找不到真相",
+      "start": 485.69,
+      "end": 494.97
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We reached the deadlock, and the manager of the other individual said, \"Here's something I learned from an excellent manager I once worked for.",
+      "translation": "我们陷入了僵局, 另一人的经理说, “这是我从一位出色的经理那里学到的, 我曾经为他工作过。",
+      "start": 495.67,
+      "end": 503.55
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "He used to say, 'When in doubt, assume positive intent.'\" And just like that, we had a path forward.",
+      "translation": "他常说,“当有疑问时, 假设积极的意图。\" 和同样的,我们有一个前进的道路。",
+      "start": 504.01,
+      "end": 511.03
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "My counterpart and I agreed we might never ascertain the actual facts of the matter; quite likely there were elements of truth in both employees' stories.",
+      "translation": "我和我的对应方都同意,我们可能永远无法确定此事的真实事实;这两名雇员的故事很可能都含有事实要素。",
+      "start": 511.94,
+      "end": 521.58
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We agreed to monitor their actions and relationship going forward, but to intervene no further.",
+      "translation": "我们同意监测他们的行动和关系,但不再干预。",
+      "start": 522.57,
+      "end": 527.65
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We assumed the best about both of them and moved on.",
+      "translation": "我以他们两人的优美称谓他们俩,我已往前看。",
+      "start": 528.49,
+      "end": 530.91
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The result was that we were able to put the conflict behind us.",
+      "translation": "结果是,我们能够摆脱冲突。",
+      "start": 531.91,
+      "end": 535.09
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In fact, their problems didn't recur.",
+      "translation": "事实上,他们的问题没有再发生。",
+      "start": 535.51,
+      "end": 537.67
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Over the years, this general approach has proved useful.",
+      "translation": "多年来,这种普遍做法证明是有用的。",
+      "start": 538.22,
+      "end": 541.12
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Whenever the truth is obscure, assuming positive intent and agreeing to move on can be a constructive decision.",
+      "translation": "每当真相模糊不清时,假定积极的意图并同意向前迈进,就可是一项建设性的决定。",
+      "start": 541.92,
+      "end": 548.56
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What did the speaker and his counterpart do when the two employees gave different accounts of the same event?",
+      "translation": "当两名雇员对同一事件作了不同的说明时,发言者及其对应人员做了哪些工作?",
+      "start": 592.41,
+      "end": 598.37
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "For some Americans, going out to dinner is a treat planned and budgeted for.",
+      "translation": "对一些美国人来说 出去吃晚饭是计划好和预算好的",
+      "start": 612.0,
+      "end": 614.044
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "For some Americans, going out to dinner is a treat, planned and budgeted for.",
+      "translation": "对一些美国人来说,出去吃晚饭是一件好事,是计划好的,是预算好的。",
+      "start": 614.044,
+      "end": 618.5
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "For others, it's just a daily occurrence.",
+      "translation": "对其他人来说,这只是日常事件。",
+      "start": 619.34,
+      "end": 621.46
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And that second group of people is becoming the majority as the number of Americans who enjoy cooking is declining.",
+      "translation": "第二组人正成为多数, 因为享受烹饪的美国人数量正在下降。",
+      "start": 622.62,
+      "end": 628.62
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In the early 2000s, researcher Eddie Yoon conducted a survey to ascertain Americans' attitudes to cooking.",
+      "translation": "2000年代初期,研究员Eddie Yoon进行了一项调查,以确定美国人对烹饪的态度。",
+      "start": 630.34,
+      "end": 637.55
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The survey found that 15% of Americans loved to cook, 50% said they hated to cook and 35% reported mixed feelings.",
+      "translation": "调查发现,15%的美国人喜欢烹饪,50%的人说他们讨厌烹饪,35%的人报告有好坏。",
+      "start": 638.51,
+      "end": 648.71
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "When Yoon conducted the same survey 15 years later, only 10% of respondents reported a love of cooking, 45% said they hated it and 45% had mixed feelings.",
+      "translation": "15年后, 约恩也进行了同样的调查, 只有10%的受访者表示热爱烹饪, 45%的受访者表示讨厌烹饪,",
+      "start": 649.94,
+      "end": 663.3
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Yoon asserts cooking is akin to sewing.",
+      "translation": "Yoon声称烹饪与缝纫相似。",
+      "start": 664.18,
+      "end": 667.06
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "As recently as the early 20th century, many Americans sewed their own clothing.",
+      "translation": "就在20世纪初 许多美国人缝了衣服",
+      "start": 667.94,
+      "end": 672.66
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Today, the vast majority of Americans buy clothing; only a tiny minority still sew, and they do it mainly as a hobby.",
+      "translation": "今天,绝大多数美国人买衣服;只有一小部分人仍在缝纫,他们这样做主要是作为一种爱好。",
+      "start": 673.62,
+      "end": 681.86
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Yoon believes the number of home cooks will diminish in a similar fashion.",
+      "translation": "Yoon认为家用厨师的数量也会以同样的方式减少。",
+      "start": 682.81,
+      "end": 687.05
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Currently, the average American household spends over $3,000 per year on dining out.",
+      "translation": "目前,美国家庭平均每年用餐时间超过3 000美元。",
+      "start": 688.67,
+      "end": 694.59
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "However, what people save in convenience, they lose in cash.",
+      "translation": "然而,人们为了方便而节省了多少,却损失了现金。",
+      "start": 695.04,
+      "end": 699.1
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Take buying lunch on workdays for example.",
+      "translation": "例如,在工作日购买午餐。",
+      "start": 700.16,
+      "end": 702.56
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "People spend, on average, $10 per meal when they buy lunch.",
+      "translation": "人们在购买午餐时平均每餐10美元。",
+      "start": 703.5,
+      "end": 707.24
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Making your own lunch, meanwhile, will cost less.",
+      "translation": "同时,你自己做午餐的费用会更低。",
+      "start": 708.08,
+      "end": 710.48
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "One survey found people only spend on average $6.30 when they bring lunch prepared at home.",
+      "translation": "一项调查发现,人们在家准备午餐时,平均只花6.30美元。",
+      "start": 711.48,
+      "end": 717.86
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Americans' growing aversion to spending time in the kitchen signifies a host of challenges for the grocery industry.",
+      "translation": "美国人越来越厌恶在厨房里花时间, 这表明杂货业面临许多挑战。",
+      "start": 718.77,
+      "end": 725.85
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's likely to detrimentally impact family finances as well.",
+      "translation": "可能会对家庭财务造成有害影响",
+      "start": 726.61,
+      "end": 730.35
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions 12-15 are based on the passage you have just heard.",
+      "translation": "问题12 -15是基于你刚才听到的段落",
+      "start": 731.67,
+      "end": 735.45
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "12.",
+      "translation": "12. 十二、结 论",
+      "start": 736.39,
+      "end": 736.85
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What do an increasing number of Americans do according to the passage?",
+      "translation": "越来越多的美国人根据通道做了些什么?",
+      "start": 737.75,
+      "end": 741.07
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "13.",
+      "translation": "13 号",
+      "start": 754.82,
+      "end": 755.36
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does Eddie Eun think cooking is akin to?",
+      "translation": "艾迪恩觉得做饭和什么相似?",
+      "start": 756.16,
+      "end": 758.84
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 14.",
+      "translation": "问题14。",
+      "start": 772.33,
+      "end": 772.95
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What will Americans be able to do by making their own lunch?",
+      "translation": "美国人自己做午餐能做什么?",
+      "start": 773.49,
+      "end": 776.77
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 15.",
+      "translation": "问题15。",
+      "start": 790.07,
+      "end": 790.71
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the passage say signifies host of challenges for America's grocery industry?",
+      "translation": "美国杂货业面临诸多挑战,",
+      "start": 791.51,
+      "end": 796.43
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Section C.",
+      "translation": "C节。",
+      "start": 809.97,
+      "end": 810.73
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In this section, you will hear three recordings of lectures or talks, followed by three or four questions.",
+      "translation": "在本节中,各位将听取三场讲座或会谈录音,然后是三四个问题。",
+      "start": 812.75,
+      "end": 818.39
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The recordings will be played only once.",
+      "translation": "录音只播放一次。",
+      "start": 819.19,
+      "end": 820.91
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "After you hear a question, you must choose the best answer from the four choices marked A, B, C and D.",
+      "translation": "在听到一个问题后,你必须从四个选择中选择最好的答案,这四个选择分别是A、B、C和D。",
+      "start": 821.83,
+      "end": 827.85
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "then mark the corresponding letter on answer sheet 1 with a single line through the center.",
+      "translation": "然后在答题表1上用单行横穿中心标出相应的字母。",
+      "start": 828.31,
+      "end": 833.45
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Recording 1 Every year of the more than 2.5 billion bags checked onto flights worldwide, 26 million go missing.",
+      "translation": "每年记录1, 全世界超过25亿袋的航班, 2600万袋失踪。",
+      "start": 834.64,
+      "end": 836.62
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Every year, of the more than 2.5 billion bags checked onto flights worldwide, 26 million go missing — and of that 26 million, 1 million never make it back to their original owner.",
+      "translation": "每年，在全球航班上办理托运的超过25亿件行李中，有2600万件会丢失；而在这2600万件中，有100万件永远无法回到原主人的手中。",
+      "start": 836.62,
+      "end": 849.78,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Bad weather and flight delays, miscoded destination tags and some people simply forgetting to pick up one of their bags are a few of the reasons.",
+      "translation": "恶劣天气和航班延误、目的地标签编码错误，以及有人单纯忘记取走自己的某件行李，都是造成这种情况的部分原因。",
+      "start": 850.53,
+      "end": 858.45,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But the number-one reason a bag ends up lost is that it has no ID tag, and airlines don't know to whom it belongs.",
+      "translation": "但行李最终丢失的首要原因是没有身份标签，航空公司不知道它属于谁。",
+      "start": 859.06,
+      "end": 866.6,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Transferring baggage from check-in to departure gates to arrival gates to baggage claim is a delicate piece of timing.",
+      "translation": "将行李从报到到到关口到抵达关口的出入境口,转至行李报销手续是一个微妙的时机。",
+      "start": 867.82,
+      "end": 874.3
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "If the system moves too slowly, the bags won't make connecting flights.",
+      "translation": "如果系统动作太慢 包包就不会连通航班",
+      "start": 875.14,
+      "end": 879.16
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "If it's too fast, the bags may make the connection but the passengers might miss the flight.",
+      "translation": "如果太快的话 行李可能连接上 但乘客可能会错过航班",
+      "start": 880.02,
+      "end": 885.1
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Each airport has its own way of allotting how much time a bag needs to move in transit.",
+      "translation": "每个机场都有自己的方式来分配一个袋子在过境时需要多少时间。",
+      "start": 885.71,
+      "end": 890.63
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Some airports have sophisticated automated systems, including scanners that read baggage labels, destination-coded vehicles that load and unload the bags without stopping, and sorting machines that route baggage to the appropriate gate.",
+      "translation": "一些机场拥有先进的自动化系统,包括阅读行李标签的扫描仪、不停下就装载和卸下行李的目的地编码车辆,以及将行李运到适当大门的分类机器。",
+      "start": 891.78,
+      "end": 906.12
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Even so, all that technology may not save your baggage tag from being torn off on the conveyor belt, making you the owner of a bag with no name.",
+      "translation": "即便如此,所有这些技术都无法拯救你的行李标签,以免被撕掉在传送带上,使你成为无名袋的主人。",
+      "start": 907.0,
+      "end": 916.02
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Once a bag goes missing and the passenger files a claim, the bag is declared \"mishandled\" by the carrier.",
+      "translation": "行李一旦丢失，乘客提交索赔后，承运方就会将其认定为“处置不当”。",
+      "start": 917.42,
+      "end": 923.2,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Mishandled refers to bags that have been delayed, lost, stolen or damaged.",
+      "translation": "“处置不当”是指行李延误、丢失、被盗或受损。",
+      "start": 924.06,
+      "end": 928.94,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Most delayed bags are only one flight behind their owners and can be delivered within 24 hours.",
+      "translation": "大多数延误的行李只比主人晚一个航班，能够在24小时内送达。",
+      "start": 930.16,
+      "end": 935.8,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The other bags are examined by airline employees for clues to their ownership and destination.",
+      "translation": "其他行李则由航空公司员工检查，以寻找有关其所有者和目的地的线索。",
+      "start": 936.58,
+      "end": 941.76,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "If the mystery is solved, those bags are returned to their owners within four or five days.",
+      "translation": "如果谜团得以解开，这些行李会在四五天内归还给主人。",
+      "start": 942.84,
+      "end": 947.77,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Bags with no destination code or identification tag are shipped to a central warehouse, and undergo a comprehensive baggage tracing process over the next 90 days.",
+      "translation": "没有目的地编码或身份标签的行李会被运往一个中央仓库，并在接下来的90天内接受全面的行李追踪调查。",
+      "start": 948.84,
+      "end": 959.52,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Airlines inventory their mishandled baggage, and many use a database to match the contents with owners' descriptions.",
+      "translation": "航空公司会对处置不当的行李进行登记，许多航空公司还会使用数据库，将行李内容与所有者的描述进行匹配。",
+      "start": 961.02,
+      "end": 967.2,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It takes about three months to go from \"missing in action\" to \"irretrievably lost\".",
+      "translation": "从“失联”到“无法追回的遗失”，大约需要三个月。",
+      "start": 968.22,
+      "end": 972.54,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Once that happens, the bags are donated to charity, sold at auction, or purchased by a company which sells them to the public.",
+      "translation": "一旦被认定为无法追回，这些行李就会捐给慈善机构、被拍卖，或由一家将其出售给公众的公司买走。",
+      "start": 973.36,
+      "end": 981.05,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So never pack anything of real value in your checked baggage.",
+      "translation": "所以，千万不要把任何真正有价值的东西放在托运行李中。",
+      "start": 981.87,
+      "end": 985.61,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And make sure your name is on the bag, along with your phone number, so an agent can contact you.",
+      "translation": "同时要确保行李上写有你的姓名和电话号码，这样工作人员就能联系到你。",
+      "start": 985.61,
+      "end": 998.4,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What may happen to your baggage even when there are sophisticated automated systems?",
+      "translation": "即使有先进的自动化系统,你的行李也会怎么样?",
+      "start": 1017.66,
+      "end": 1022.3
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 18.",
+      "translation": "问题18。",
+      "start": 1035.76,
+      "end": 1036.54
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the speaker advise us to do at the end of the talk?",
+      "translation": "发言者建议我们在谈话结束时做什么?",
+      "start": 1037.46,
+      "end": 1040.38
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Recording 2.",
+      "translation": "记录2。",
+      "start": 1053.85,
+      "end": 1054.69
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You've probably been with someone who ignored you while interacting with his or her smartphone,",
+      "translation": "你可能和一个人在一起 一个人在和他(她)的智能手机互动时 无视你",
+      "start": 1056.18,
+      "end": 1060.94
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And you've probably engaged in this behavior yourself.",
+      "translation": "你可能自己也干过这种事",
+      "start": 1061.74,
+      "end": 1064.38
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In a recent survey, nine out of ten respondents said they'd used their smartphone during their most recent social activity.",
+      "translation": "在最近的一次调查中,每十个受访者中就有九个人说,他们在最近的社会活动中使用了智能手机。",
+      "start": 1065.49,
+      "end": 1072.71
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "There's also evidence that this behavior is socially harmful.",
+      "translation": "还有证据表明,这种行为对社会有害",
+      "start": 1073.64,
+      "end": 1076.9
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It can leave people less satisfied with their face-to-face interactions.",
+      "translation": "这可能使人们对其面对面的互动不那么满意。",
+      "start": 1077.74,
+      "end": 1081.18
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And it can generate feelings of resentment and jealousy.",
+      "translation": "它能产生怨恨和嫉妒的感觉",
+      "start": 1082.32,
+      "end": 1085.2
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Now, the Journal of Applied Social Psychology has published a new study exploring the reasons for these effects.",
+      "translation": "现在,《应用社会心理学杂志》发表了一项新的研究报告,探讨这些影响的原因。",
+      "start": 1087.06,
+      "end": 1093.6
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The study included 128 mostly female student participants.",
+      "translation": "这项研究包括128名学生参与者，其中大多数为女性。",
+      "start": 1095.14,
+      "end": 1099.28,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The participants watched a three-minute animation in which two cartoon figures interacted and engaged in a conversation.",
+      "translation": "参与者观看了一段三分钟的动画，动画中两个卡通人物进行互动并交谈。",
+      "start": 1100.5,
+      "end": 1107.17,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The conversation couldn't be heard but could be detected through mouth movements.",
+      "translation": "对话内容听不见，但可以通过嘴部动作辨别出来。",
+      "start": 1108.4,
+      "end": 1112.5,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Participants had to imagine themselves as the closest figure in the video and then make judgments about the conversations and how they felt about their conversation partners.",
+      "translation": "参与者必须设想自己就是视频中距离观众较近的那个人物，然后对对话作出判断，并评价自己对交谈对象的感受。",
+      "start": 1114.01,
+      "end": 1123.49,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In one version of the experiment, the phone of the participants' conversation partner remained unused on the table throughout the conversation.",
+      "translation": "在实验的一种情境中，参与者的交谈对象始终没有使用放在桌上的手机。",
+      "start": 1125.2,
+      "end": 1132.84,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In another version, their partner's attention was quickly drawn to something on their phone and they spent the rest of the time interacting with their phone.",
+      "translation": "另一种情境中，交谈对象很快被手机上的某件事吸引，剩下的时间一直与手机互动。",
+      "start": 1133.74,
+      "end": 1141.92,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "A third version involved the participants' partner alternating between periods of interaction with their phone and periods where they ignored their phone.",
+      "translation": "第三种情境中，参与者的交谈对象在使用手机互动和不理会手机之间交替进行。",
+      "start": 1142.7,
+      "end": 1151.7,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "If you've experienced a similar situation, you probably won't be surprised by the results of the experiments.",
+      "translation": "如果你曾经历过类似情况，实验结果大概不会让你感到意外。",
+      "start": 1152.77,
+      "end": 1158.93,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The participants had a negative view of phone use during social interactions.",
+      "translation": "参与者对社交互动中的手机使用持负面看法。",
+      "start": 1159.85,
+      "end": 1164.19,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The more it was present, the worse they considered both the quality of the interaction and the quality of the relationship.",
+      "translation": "手机使用出现得越多，他们认为互动质量和关系质量就越差。",
+      "start": 1165.07,
+      "end": 1171.99,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The researchers believed that focusing on one's phone instead of the person one is with has this effect because it's seen as a form of social exclusion.",
+      "translation": "研究人员认为，把注意力放在手机上而不是身边的人身上之所以会产生这种影响，是因为这种行为被视为一种社会排斥形式。",
+      "start": 1173.52,
+      "end": 1182.58,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They assert that the behavior is analogous to when people have no choice but to eat alone in the school cafeteria.",
+      "translation": "他们断言，这种行为类似于人们别无选择、只能独自在学校食堂吃饭的情形。",
+      "start": 1184.15,
+      "end": 1190.11,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The twist is that this exclusion occurs while sharing a physical encounter and having a conversation.",
+      "translation": "不同之处在于，这种排斥发生在双方共享同一场面对面接触并进行交谈的过程中。",
+      "start": 1191.74,
+      "end": 1197.54,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Researchers found that the behavior had adverse effects on participants' sense of belonging, need for meaning and self-esteem.",
+      "translation": "研究人员发现，这种行为对参与者的归属感、意义需求和自尊都产生了不利影响。",
+      "start": 1199.0,
+      "end": 1208.17,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "These negative effects are similar to those caused by traditional forms of social exclusion.",
+      "translation": "这些负面影响与传统社会排斥形式所造成的影响相似。",
+      "start": 1208.17,
+      "end": 1213.29,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The new findings are important because they elaborate our understanding of a subtle but common aspect of our daily experience.",
+      "translation": "这些新发现十分重要，因为它们加深了我们对日常体验中一种微妙却普遍存在的现象的理解。",
+      "start": 1214.15,
+      "end": 1221.49,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This common behavior can create vicious cycles of detachment even as we try to connect with others.",
+      "translation": "即使我们努力与他人建立联系，这种常见行为也可能造成疏离感不断加剧的恶性循环。",
+      "start": 1222.51,
+      "end": 1228.21,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "How did the participants in the new study respond regarding phone use during social interactions?",
+      "translation": "新研究的参与者如何在社会互动期间对电话使用做出回应?",
+      "start": 1256.06,
+      "end": 1261.24
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 21 What does the speaker say can result from the common behaviour of using phones during face-to-face conversations?",
+      "translation": "问题21. 发言者说,在面对面交谈中使用电话的常见行为会产生什么结果?",
+      "start": 1275.02,
+      "end": 1282.44
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Recording 3 More and more people travel for a variety of reasons.",
+      "translation": "记录3 越来越多的人出于各种原因旅行。",
+      "start": 1296.63,
+      "end": 1298.396
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "More and more people travel for a variety of reasons.",
+      "translation": "越来越多的人出于各种原因旅行。",
+      "start": 1298.396,
+      "end": 1301.42,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Many are tourists, but many venture forth on personal or professional business.",
+      "translation": "许多人是游客，但也有许多人因个人事务或公务外出。",
+      "start": 1302.14,
+      "end": 1306.48,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Whatever the reason for traveling, a common complaint of travelers is the impersonal accommodations they find.",
+      "translation": "不论出于何种旅行原因，旅行者普遍抱怨的一点是，他们所住的住宿场所缺乏个性。",
+      "start": 1307.48,
+      "end": 1313.43,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "After spending five consecutive nights in five similar hotels, the business traveler may find it difficult to remember what happened from day to day, or even what towns were visited, and the tourist may get the mistaken impression that all cities are pretty much the same, at least as far as decoration, food and service are concerned.",
+      "translation": "商务旅行者连续五晚住在五家相似的酒店后，可能会难以记清每天发生了什么，甚至记不住去过哪些城镇；而游客则可能产生一种错误印象，认为所有城市都大同小异，至少在装潢、食物和服务方面是如此。",
+      "start": 1314.35,
+      "end": 1334.29,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "To combat this sense of impersonal sameness, travelers are taking advantage of in-home hospitality or Bed and Breakfast arrangements.",
+      "translation": "为了消除这种千篇一律、缺乏个性的感受，旅行者开始利用家庭式接待或提供住宿加早餐的安排。",
+      "start": 1336.5,
+      "end": 1343.99,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "B&Bs, I mean, Bed and Breakfast arrangements are private homes which offer lodging and breakfast in a very personalized, friendly setting.",
+      "translation": "我所说的B&B，就是住宿加早餐安排，指的是私人住宅在十分个性化且友好的环境中提供住宿和早餐。",
+      "start": 1343.99,
+      "end": 1353.45,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "For decades, B&Bs have been the classic way to visit Europe, especially the British Isles.",
+      "translation": "几十年来，B&B一直是游览欧洲，尤其是英伦群岛的经典方式。",
+      "start": 1354.99,
+      "end": 1359.51,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And in fact, they are not really a new idea in America.",
+      "translation": "事实上，这在美国也并不是什么新鲜事。",
+      "start": 1360.13,
+      "end": 1362.97,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The tradition dates back to colonial times when inns were few and far between, and the weary traveler had to depend on the kindness of strangers for a meal and a bed.",
+      "translation": "这一传统可以追溯到殖民时期，那时旅店十分稀少，疲惫的旅行者不得不依靠陌生人的善意来获得一顿饭和一张床。",
+      "start": 1363.87,
+      "end": 1372.97,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But the revival of B&Bs as desirable accommodations is a fairly recent phenomenon.",
+      "translation": "不过，B&B作为理想住宿方式的复兴，是相当近期的现象。",
+      "start": 1373.98,
+      "end": 1378.48,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "If the idea of operating a B&B arouses your interest, there are several factors to consider before plunging into this business.",
+      "translation": "如果经营B&B公司的想法引起你的兴趣,那么在投入这一业务之前,有几个因素需要考虑。",
+      "start": 1380.21,
+      "end": 1386.93
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The first consideration is your property, not only the building itself, but the location.",
+      "translation": "首先考虑的是你的财产 不仅是大楼本身 还有地点",
+      "start": 1387.87,
+      "end": 1392.31
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "If you live near a famous historical site or in a popular destination, such as New York City or Washington, D.C., your home can be fairly simple, yet still do well as a B&B.",
+      "translation": "如果你住在著名历史遗址附近或住在纽约市或华盛顿特区等流行的目的地,你的家可以相当简单,但还是做得很好。",
+      "start": 1393.25,
+      "end": 1405.56
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "On the other hand, if your home is architecturally unique or has facilities for the traveler, such as a private entrance, private bath or swimming pool, people may be willing to go some distance to reach you.",
+      "translation": "另一方面,如果房屋在建筑上是独一无二的,或拥有私人入口、私人浴室或游泳池等旅行者设施,人们可能愿意走一段距离与你联系。",
+      "start": 1405.56,
+      "end": 1417.52
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Another important factor is the lifestyle of you and your family.",
+      "translation": "另一个重要因素是你和你的家庭的生活方式。",
+      "start": 1418.53,
+      "end": 1422.53
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You must take into account whether all members of the family truly enjoy visitors, want to repeatedly discuss local sites and activities, and have the time and energy to handle the additional cooking, cleaning, laundry and the bookkeeping involved.",
+      "translation": "你必须考虑到家庭所有成员是否都真正享受到访客,是否愿意反复讨论当地的场所和活动,是否有时间和精力处理额外的烹饪、清洁、洗衣和有关的簿记。",
+      "start": 1423.25,
+      "end": 1437.63
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The final consideration is a financial one, potential B&B hosts must be realistic about opportunities for income.",
+      "translation": "最后考虑是财务问题,潜在的基准和基准东道方必须现实地对待收入机会。",
+      "start": 1439.09,
+      "end": 1446.27
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "While B&Bs usually have low initial costs, experts estimate it would take at least five rooms rented regularly for the host to earn a living from B&B.",
+      "translation": "虽然基准和基准通常初始成本较低,但专家估计,至少需要为东道方定期租用5个房间才能从基准和基准中谋生。",
+      "start": 1447.27,
+      "end": 1526.412
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That's the end of listening comprehension.",
+      "translation": "听觉理解到此结束",
+      "start": 1539.95,
+      "end": 1541.79
+    }
+  ],
+  "translation_sources": [
+    "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/",
+    "Sams200/opus-mt-en-zh (unmatched sentences only)"
+  ]
+}

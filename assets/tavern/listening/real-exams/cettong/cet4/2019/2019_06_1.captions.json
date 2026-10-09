@@ -1,0 +1,1094 @@
+{
+  "id": "cet4-2019_06_1",
+  "title": "2019年6月 第1套",
+  "level": 4,
+  "source_url": "https://www.cettong.cn/library/cet4/2019_06_1",
+  "material_source": "https://117.72.200.49/#/library",
+  "audio": "assets/tavern/listening/real-exams/cettong/cet4/2019/2019_06_1.exampace-playback.mp3",
+  "caption_kind": "published_material_with_auxiliary_timing_and_translation",
+  "caption_models": [
+    "Systran/faster-whisper-base.en",
+    "Sams200/opus-mt-en-zh"
+  ],
+  "lines": [
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "A 9-year-old Central California boy braved strong currents and cold water to swim from San Francisco to Alcatraz Island and back.",
+      "translation": "加州中部一名9岁男孩勇敢地在强水流和冰冷的海水中游泳，从旧金山游到恶魔岛再游回来。",
+      "start": 45.39,
+      "end": 54.81,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "A California television station in Fresno reported Tuesday that James Savage set a record as the youngest swimmer to make the journey to the former prison.",
+      "translation": "加州Fresno的一家电视台周二报道称，James Savage创下了完成这段前往这座前监狱旅程的最年轻游泳者纪录。",
+      "start": 56.49,
+      "end": 66.92,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The TV station reported that by completing the swim, the fourth-grade student from Los Banos broke a record previously held by a 10-year-old boy.",
+      "translation": "该电视台报道称，通过完成这次游泳，这名来自Los Banos的四年级学生打破了此前由一名10岁男孩保持的纪录。",
+      "start": 68.49,
+      "end": 79.01,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "James said that waves in the San Francisco Bay hitting him in the face 30 minutes into his swim made him want to give up.",
+      "translation": "James说，在他游泳30分钟后，旧金山湾的海浪拍打他的脸，让他想要放弃。",
+      "start": 80.51,
+      "end": 89.35,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "His father said he had offered his son $100 as a reward; to encourage his struggling son, he doubled it to $200.",
+      "translation": "他的父亲说，他曾向儿子提供100美元作为奖励；为了鼓励苦苦挣扎的儿子，他把奖金翻倍到200美元。",
+      "start": 90.22,
+      "end": 100.01,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "James pushed forward, making it to Alcatraz Island and back in a little more than two hours.",
+      "translation": "James奋力前进，在两个多小时内游到恶魔岛并返回。",
+      "start": 101.53,
+      "end": 108.05,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Alcatraz is over a mile from the mainland.",
+      "translation": "恶魔岛距离大陆超过一英里。",
+      "start": 109.13,
+      "end": 111.87,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "News report 2 On the 1st of January, new regulations will come into effect which eliminate an annual leave bonus for people who put off marrying until the age of 23 for women",
+      "translation": "2 1月1日,新的条例将生效,取消了对推迟结婚直至妇女23岁者的年假奖金。",
+      "start": 157.5,
+      "end": 159.966
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "On the 1st of January, new regulations will come into effect which eliminate an annual leave bonus for people who put off marrying until the age of 23 for women, and 25 for men, the South China Morning Post reports.",
+      "translation": "据《南华早报》报道,1月1日起新规定将生效,取消对推迟到女性23岁、男性25岁结婚的人员的年假奖励。",
+      "start": 159.966,
+      "end": 176.76,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The holiday bonus was designed to encourage young people to delay getting married in line with China's one-child policy.",
+      "translation": "这项假期奖励旨在鼓励年轻人推迟结婚以符合中国的独生子女政策。",
+      "start": 178.7,
+      "end": 186.7,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But with that policy now being abolished, this holiday incentive is no longer necessary, the government says.",
+      "translation": "但政府表示,随着该政策现已废止,这一假期激励措施不再必要。",
+      "start": 188.16,
+      "end": 195.24,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In Shanghai, a young couple at a marriage registration office told the paper that they decided to register their marriage as soon as possible to take advantage of the existing policy, because an extra holiday was a big deal for them.",
+      "translation": "在上海,一对在婚姻登记处的年轻夫妇告诉该报,他们决定尽快登记结婚以利用现行政策,因为额外假期对他们来说是件大事。",
+      "start": 196.66,
+      "end": 213.35,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In Beijing, one registration office had about 300 couples seeking to get married the day after the changes were announced, rather than the usual number of between 70 and 80.",
+      "translation": "在北京,一家登记处在变更宣布后的第二天有约300对夫妇寻求结婚登记,而非通常的70到80对。",
+      "start": 214.44,
+      "end": 228.3,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But one lawyer tells the paper that the changes still have to be adopted by local governments and these procedures take time.",
+      "translation": "但一位律师告诉该报,这些变更仍需由地方政府采纳,这些程序需要时间。",
+      "start": 229.2,
+      "end": 238.22,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So people who are rushing to register for marriage can relax.",
+      "translation": "因此急于登记结婚的人们可以放松。",
+      "start": 239.03,
+      "end": 271.09,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "News Report 3.",
+      "translation": "《新闻报告3》。",
+      "start": 288.14,
+      "end": 289.36
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Everyone loves a good house party,",
+      "translation": "每个人都喜欢一个好家庭聚会,",
+      "start": 290.87,
+      "end": 292.89
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Now, however, a New Zealand-based start-up company aims to bring messy homes—and even splitting headaches—back to normal.",
+      "translation": "然而,现在一家设在新西兰的开办公司旨在将混乱的房屋——甚至把头痛分解——恢复正常。",
+      "start": 298.12,
+      "end": 307.3
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The properly-named start-up Morning-After Maids was launched about a month ago in Auckland by roommates Rebecca Foley and Catherine Ashurst.",
+      "translation": "大约一个月前,室友Rebecca Foley和Catherine Ashurst在奥克兰发起了一个名称适当的 \" 少女后早起启动 \" 活动。",
+      "start": 309.0,
+      "end": 320.03
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Aside from cleaning-up, the two will also cook breakfast and even get coffee and painkillers for recovering merrymakers.",
+      "translation": "除了清理外,两人还将做早餐,甚至为康复的曲棍球手购买咖啡和止痛药。",
+      "start": 320.03,
+      "end": 329.35
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Although they are both gainfully employed, they fit cleaning jobs into their nights and weekends, which is when their service is in most demand anyway.",
+      "translation": "虽然她们都从事有酬工作,但她们适合在夜间和周末从事清洁工作,也就是她们服务的需求最大的时候。",
+      "start": 329.35,
+      "end": 338.91
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Besides being flooded with requests from across the country, Foley and Ashurst have also received requests from the U.S.",
+      "translation": "福里和阿舒斯特也收到来自美国的请求。",
+      "start": 340.86,
+      "end": 349.23
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "and Canada to provide services there.",
+      "translation": "加拿大将在那里提供服务。",
+      "start": 349.23,
+      "end": 351.99
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They are reportedly meeting with lawyers to see how best to take the business forward.",
+      "translation": "据报道,他们正在会见律师,以探讨如何最好地推动这一业务。",
+      "start": 353.22,
+      "end": 358.64
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "to",
+      "translation": "至",
+      "start": 421.85,
+      "end": 448.05
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "C and D.",
+      "translation": "C和D。",
+      "start": 448.22,
+      "end": 449.54
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Then mark the corresponding letter on answer sheet one with a single line through the center.",
+      "translation": "然后在答题单上用一条线标出相应的字母,通过中心。",
+      "start": 450.5,
+      "end": 456.54
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Conversation one.",
+      "translation": "交谈之一。",
+      "start": 457.73,
+      "end": 458.87
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Kyle, how did your driver's theory exam go?",
+      "translation": "Kyle 你的驾驶员的理论测试怎么样?",
+      "start": 459.94,
+      "end": 463.56
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It was yesterday, right?",
+      "translation": "是昨天,对吧?",
+      "start": 464.04,
+      "end": 465.32
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Yes.",
+      "translation": "是的。",
+      "start": 465.78,
+      "end": 466.44,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I prepared as much as I could, but I was so nervous since it was my second try.",
+      "translation": "我尽可能做了准备,但我还是很紧张,因为这是我第二次考了。",
+      "start": 467.14,
+      "end": 472.36,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The people who worked at the test center were very kind, though.",
+      "translation": "不过考试中心的工作人员都很友善。",
+      "start": 473.29,
+      "end": 476.93,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We had a little conversation which calmed me down a bit, and that was just what I needed.",
+      "translation": "我们聊了一会儿,这让我平静了一些,这正是我需要的。",
+      "start": 477.42,
+      "end": 483.16,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Then, after the exam, they printed out my result, but I was afraid to open it until I was outside.",
+      "translation": "然后,考试结束后,他们打印出了我的成绩,但我不敢打开,直到走到外面才看。",
+      "start": 484.06,
+      "end": 491.08,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It was such a relief to pass.",
+      "translation": "通过考试真是让我松了一口气。",
+      "start": 492.22,
+      "end": 494.0,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Congratulations!",
+      "translation": "恭喜你！",
+      "start": 494.74,
+      "end": 495.34,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I knew you could do it!",
+      "translation": "我就知道你办得到!",
+      "start": 495.8,
+      "end": 497.5
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I guess you underestimated how difficult it would be the first time, didn't you?",
+      "translation": "我猜你低估了第一次会有多难 不是吗?",
+      "start": 498.1,
+      "end": 503.44
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I hear a lot of people make that mistake and go in underprepared, but good job in passing the second time.",
+      "translation": "我听到很多人犯错 准备不足 但第二次成功成功",
+      "start": 503.98,
+      "end": 512.48
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'm so proud of you.",
+      "translation": "我为你感到骄傲",
+      "start": 512.82,
+      "end": 514.16
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Now, all you have to do next is your road test.",
+      "translation": "现在,你接下来要做的就是 测试道路",
+      "start": 514.56,
+      "end": 517.92
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Have you had any lessons yet?",
+      "translation": "你上过课吗?",
+      "start": 518.6,
+      "end": 520.14
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Yes, thanks.",
+      "translation": "上过了,谢谢。",
+      "start": 520.99,
+      "end": 522.09,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'm so happy to be actually on the road now.",
+      "translation": "我很高兴现在终于能上路了。",
+      "start": 522.97,
+      "end": 525.67,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I've only had two driving lessons so far, and my instructor is very understanding.",
+      "translation": "到目前为止我只上了两节驾驶课,我的教练很体贴。",
+      "start": 526.58,
+      "end": 531.54,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So I'm really enjoying it.",
+      "translation": "所以我真的很享受。",
+      "start": 532.92,
+      "end": 534.89,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And I can't wait for my next session, although the lessons are rather expensive, £20 an hour.",
+      "translation": "我等不及下一节课了,虽然课程相当贵,每小时20英镑。",
+      "start": 535.29,
+      "end": 542.43,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And the instructor says I'll need about 30 to 40 lessons in total.",
+      "translation": "教练说我总共需要大约30到40节课。",
+      "start": 542.81,
+      "end": 547.13,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That's what—six to eight hundred pounds.",
+      "translation": "那就是——六百到八百英镑。",
+      "start": 548.36,
+      "end": 550.86,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So this time I'll need to make a lot more effort and hopefully will be successful the first time.",
+      "translation": "所以这次我需要付出更多努力,希望能第一次就成功。",
+      "start": 551.78,
+      "end": 558.46,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Well, good luck.",
+      "translation": "嗯,祝你好运。",
+      "start": 558.92,
+      "end": 559.9,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Conversation 2.",
+      "translation": "对话2。",
+      "start": 640.77,
+      "end": 642.23
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Emma, I got accepted to the University of Leeds.",
+      "translation": "Emma，我被利兹大学录取了。",
+      "start": 642.93,
+      "end": 646.19,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Since you're going to university in England, do you know how much it is for international students to study there?",
+      "translation": "既然你要去英国上大学，你知道国际学生在那里学习要花多少钱吗？",
+      "start": 646.96,
+      "end": 653.74,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Congratulations!",
+      "translation": "恭喜你！",
+      "start": 654.1,
+      "end": 654.78,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Yes, I believe for international students, you'll have to pay around £13,000 a year.",
+      "translation": "是的，我记得国际学生每年要付大约13,000英镑。",
+      "start": 655.88,
+      "end": 663.66,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's just a bit more than the local students.",
+      "translation": "这只比本地学生多一点。",
+      "start": 664.26,
+      "end": 666.64,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Okay, so that's about $17,000 for the tuition and fees.",
+      "translation": "好的，那学费和杂费大概是17,000美元。",
+      "start": 667.63,
+      "end": 672.97,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Anyway, I'm only going to be there for a year, doing my master's.",
+      "translation": "不管怎样，我只会在那里待一年，读硕士。",
+      "start": 674.64,
+      "end": 678.48,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So it's pretty good.",
+      "translation": "所以挺不错的。",
+      "start": 679.04,
+      "end": 680.02,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "If I stayed in the U.S., it'd take two years and cost at least $50,000 in tuition alone.",
+      "translation": "如果我留在美国，要读两年，光学费就至少要50,000美元。",
+      "start": 681.0,
+      "end": 687.68,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Also, I have a good chance of winning a scholarship at Leeds, which would be pretty awesome, the benefits of being a music genius.",
+      "translation": "而且，我在利兹很有机会拿到奖学金，那就太棒了，这就是音乐天才的好处。",
+      "start": 689.04,
+      "end": 697.7,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Yeah, I heard you're a talented piano player.",
+      "translation": "是啊，我听说你是个很有才华的钢琴演奏者。",
+      "start": 698.42,
+      "end": 701.62,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So you're doing a postgraduate degree now?",
+      "translation": "所以你现在在读研究生学位？",
+      "start": 702.2,
+      "end": 705.34,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'm still in my last year, graduating next June.",
+      "translation": "我还在读最后一年，明年六月毕业。",
+      "start": 705.77,
+      "end": 709.39,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Finally, I'll be done with my studies, and could go on to earning loads of money.",
+      "translation": "终于要完成学业了，可以去挣大钱了。",
+      "start": 710.28,
+      "end": 715.64,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Are you still planning on being a teacher?",
+      "translation": "你还打算当老师吗？",
+      "start": 716.53,
+      "end": 718.55,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "No money in that job then.",
+      "translation": "那份工作可没什么钱赚。",
+      "start": 719.55,
+      "end": 720.93,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You'd be surprised.",
+      "translation": "你会惊讶的。",
+      "start": 721.33,
+      "end": 722.23,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'm still going to be a teacher.",
+      "translation": "我还是要当老师。",
+      "start": 723.23,
+      "end": 724.79,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But the plan is to work at an international school overseas, after I get a year or so of the experience in England.",
+      "translation": "但计划是在英国获得一年左右的经验后，去海外的国际学校工作。",
+      "start": 725.45,
+      "end": 732.45,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's better pay, and I get to travel, which reminds me I'm late for my class and I've got some documents I need to print out first.",
+      "translation": "薪水更高，而且我还能旅行，这提醒我上课要迟到了，我还有些文件需要先打印出来。",
+      "start": 733.14,
+      "end": 742.44,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'd better run.",
+      "translation": "我得赶紧走了。",
+      "start": 742.44,
+      "end": 743.78,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Section C Directions In this section you will hear three passages.",
+      "translation": "C节方向 在本节 你会听到三个段落。",
+      "start": 825.84,
+      "end": 831.78
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "At the end of each passage you will hear three or four questions.",
+      "translation": "在每一段的结尾 你会听到三个或四个问题",
+      "start": 832.46,
+      "end": 837.0
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Both the passage and the questions will be spoken only once.",
+      "translation": "发言的通过和提问将只讲一次。",
+      "start": 837.74,
+      "end": 841.94
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "After you hear a question",
+      "translation": "在听到一个问题后",
+      "start": 843.18,
+      "end": 844.6
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You must choose the best answer from the four choices marked A, B, C,",
+      "translation": "您必须从四个选项中选择最好的答案, 四个选项标为 A, B, C,",
+      "start": 845.02,
+      "end": 851.28
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "and D.",
+      "translation": "和D。",
+      "start": 851.88,
+      "end": 852.22
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "mark the corresponding letter on answer sheet one with a single line through the center.",
+      "translation": "在答题单单行的答题表一中标出相应的字母。",
+      "start": 853.46,
+      "end": 859.08
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Scientists have identified thousands of known ant species around the world—and only a few of them bug humans.",
+      "translation": "科学家已经查明了世界各地数千种已知的蚂蚁物种——其中只有少数是虫虫人类。",
+      "start": 862.5,
+      "end": 872.56
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Most ants live in the woods or out in nature.",
+      "translation": "大部分蚂蚁都生活在树林里 或者自然界之外",
+      "start": 872.56,
+      "end": 876.0
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "There, they keep other creatures in check, distribute seeds, and clean dead and decaying materials from the ground.",
+      "translation": "在那里,他们检查其他生物,分发种子,从地面上清除死亡和腐烂的物质。",
+      "start": 876.8,
+      "end": 885.12
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "A very small percentage of ants do harm to humans.",
+      "translation": "极少数蚂蚁伤害人类",
+      "start": 886.39,
+      "end": 890.35
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But those are incredibly challenging to control.",
+      "translation": "但这些是难以控制的 挑战。",
+      "start": 891.09,
+      "end": 894.17
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They are small enough to easily slip inside your house, live in colonies that number in the tens of thousands to the hundreds of thousands, and reproduce quickly.",
+      "translation": "他们小到足以轻易溜进你家 住在数以万计的殖民地 成百上千万的殖民地 迅速繁殖",
+      "start": 894.87,
+      "end": 906.46
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That makes them good at getting in, and hard to kick out.",
+      "translation": "这使得他们擅长进入, 很难踢出。",
+      "start": 907.8,
+      "end": 911.88
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Once they settle in, these insects start affecting your home.",
+      "translation": "一旦他们安顿下来 这些昆虫开始影响你的家",
+      "start": 912.75,
+      "end": 917.23
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In addition to biting ants, other species can cause different kinds of damage.",
+      "translation": "除了咬蚂蚁之外,其他物种还可能造成不同种类的损害。",
+      "start": 918.36,
+      "end": 923.38
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Some, like carpenter ants, can undermine a home's structure, while others interfere with electrical units.",
+      "translation": "有些,如木匠蚂蚁,可能会破坏家庭结构,而另一些则会干扰电力装置。",
+      "start": 924.28,
+      "end": 932.79
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Unfortunately, our homes are very attractive to ants, because they provide everything the colony needs to survive, such as food, water, and shelter.",
+      "translation": "不幸的是,我们的家园对蚂蚁非常有吸引力,因为它们提供殖民地生存所需的一切,如食物、水和住所。",
+      "start": 934.21,
+      "end": 945.41
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So how can we prevent ants from getting into our homes?",
+      "translation": "那么,我们如何防止蚂蚁进入我们的家园呢?",
+      "start": 946.71,
+      "end": 949.95
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Most important of all, avoid giving ants any access to food, particularly sugary food, because ants have a sweet tooth.",
+      "translation": "最重要的是,避免让蚂蚁获得食物,特别是糖性食物,因为蚂蚁有甜食。",
+      "start": 951.27,
+      "end": 961.2
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We also need to clean up spills as soon as they occur and store food in airtight containers.",
+      "translation": "我们还需要尽快清除溢漏,并将食物储存在密封的容器中。",
+      "start": 962.26,
+      "end": 968.64
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Even garbage attracts ants, so empty your trash as often as possible, and store your outside garbage in a lidded can, well away from doors and windows.",
+      "translation": "甚至垃圾也会吸引蚂蚁, 尽可能经常地清空垃圾, 将垃圾存放在盖子的罐子里, 远离门窗。",
+      "start": 969.84,
+      "end": 981.96
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "2.",
+      "translation": "2. 目标",
+      "start": 1046.53,
+      "end": 1047.01
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "My research focus is on what happens to our immune system as we age.",
+      "translation": "我的研究重点是 我们的免疫系统会怎样 当我们衰老时",
+      "start": 1048.41,
+      "end": 1053.15
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So the job of the immune system is to fight infections.",
+      "translation": "所以免疫系统的工作就是防治感染。",
+      "start": 1053.96,
+      "end": 1057.44
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It also protects us from viruses and from auto-immune diseases.",
+      "translation": "它还保护我们免受病毒和自发免疫疾病之害。",
+      "start": 1058.36,
+      "end": 1062.36
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We know that as we get older, it's easier for us to get infections.",
+      "translation": "我们知道,随着我们长大,我们更容易感染。",
+      "start": 1063.76,
+      "end": 1068.34
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So, older adults have more chances of falling ill.",
+      "translation": "所以,老年人生病的可能性更大。",
+      "start": 1069.74,
+      "end": 1072.88
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This is evidence that our immune system really doesn't function so well when we age.",
+      "translation": "证明我们的免疫系统 衰老时运行不那么好",
+      "start": 1074.2,
+      "end": 1079.28
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In most of our work when we're looking at older adults who've got an illness, we always have to have health controls.",
+      "translation": "多数工作都是在看年长者生病时 总是要有健康控制",
+      "start": 1080.27,
+      "end": 1087.57
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So we work very closely with a great group of volunteers called \"The 1,000 Elders.\" These volunteers are all 65 or over but in good health.",
+      "translation": "所以,我们和一群叫“一千年长者”的志愿者密切合作。 这些志愿者都65岁或以上,但身体健康。",
+      "start": 1089.09,
+      "end": 1099.76
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They come to the university to provide us with blood samples, to be interviewed and to help us carry out a whole range of research.",
+      "translation": "他们来到大学为我们提供血液样本 接受采访 帮助我们进行一系列的研究",
+      "start": 1100.8,
+      "end": 1108.66
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The real impact of our research is going to be on health in old age.",
+      "translation": "我们研究的真正影响 将是对老年人的健康。",
+      "start": 1110.18,
+      "end": 1114.7
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "At the moment we're living much longer, life expectancy is increasing at two years for every decade.",
+      "translation": "在我们寿命更长的时候, 预期寿命每十年增加两年。",
+      "start": 1116.04,
+      "end": 1123.35
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That means an extra five hours a day.",
+      "translation": "这意味着每天增加5小时。",
+      "start": 1124.28,
+      "end": 1126.98
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I want to make sure that older adults are still able to enjoy their old age and that they're not spending time in hospital with infections, feeling unwell and being generally weak.",
+      "translation": "我想确保老年人仍然能够享受他们的老年生活, 并且他们不会在医院里度过时间, 与感染、不舒服和普遍虚弱。",
+      "start": 1128.54,
+      "end": 1140.52
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We want people to be healthy even when they are old.",
+      "translation": "我们希望人们健康,即使他们老了。",
+      "start": 1141.42,
+      "end": 1145.54
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Passage 3 When",
+      "translation": "3号通行证时",
+      "start": 1211.63,
+      "end": 1213.91
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "When Ted Komada started teaching 14 years ago at Killip Elementary, he didn't know how to manage a classroom and was struggling to connect with students.",
+      "translation": "14年前Ted Komada开始在Killip小学教书时 他不知道如何管理教室 并且努力与学生沟通",
+      "start": 1214.666,
+      "end": 1226.64
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "He noticed a couple of days after school that a group of kids would get together to play chess.",
+      "translation": "他发现一帮孩子会一起下棋,",
+      "start": 1227.76,
+      "end": 1233.78
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "\"I know how to play chess.",
+      "translation": "\"我知道怎么下棋\"",
+      "start": 1234.85,
+      "end": 1236.67
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Let me go and show these kids how to do it,\" he said.",
+      "translation": "让我去教这些孩子怎么做,",
+      "start": 1237.45,
+      "end": 1240.59
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Now Komada coaches the school's chess team.",
+      "translation": "现在科马达教学校的象棋队",
+      "start": 1241.78,
+      "end": 1244.78
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The whole program started as a safe place for kids to come after school.",
+      "translation": "整个计划是作为孩子们放学后安全的地方开始的。",
+      "start": 1245.83,
+      "end": 1250.47
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And this week dozens of those students are getting ready to head out to Nashville Tennessee, to compete with about 5,000 other young people at the SuperNationals of chess.",
+      "translation": "本周,几十名学生准备前往纳什维尔田纳西, 与象棋超级国民党的大约5 000名其他年轻人竞争。",
+      "start": 1251.46,
+      "end": 1264.16
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The competition only happens every four years and the last time the team went, they won the third place in the nation.",
+      "translation": "比赛每四年才举行一次 球队最后一次出赛 他们赢得了全国第三名",
+      "start": 1265.67,
+      "end": 1273.49
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Komada says chess gives him, and his students, control.",
+      "translation": "科马达说象棋能让他和他的学生 控制局面",
+      "start": 1273.49,
+      "end": 1278.66
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The school has the highest number of kids from low-income families.",
+      "translation": "学校中低收入家庭儿童人数最多。",
+      "start": 1280.33,
+      "end": 1284.49
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Police frequent the area day and night, as two months ago, a young man was shot just down the street.",
+      "translation": "警方日夜不停地在这一地区活动。 两个月前,一名年轻人在街上被枪杀。",
+      "start": 1285.25,
+      "end": 1292.49
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Komada likes to teach his students that they should think about their move before they do it.",
+      "translation": "科马达喜欢教学生, 让他们在行动前先想一想,",
+      "start": 1292.49,
+      "end": 1299.3
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The lessons prove valuable outside the classroom as well.",
+      "translation": "课堂外的教训也证明是有价值的。",
+      "start": 1299.85,
+      "end": 1303.65
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Many parents see these lessons translate into the real world.",
+      "translation": "许多父母看到这些教训转化为现实世界。",
+      "start": 1305.02,
+      "end": 1308.58
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Students are more likely to think about their actions and see whether they will lead to trouble.",
+      "translation": "学生更可能思考自己的行动,",
+      "start": 1309.45,
+      "end": 1315.29
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This is the end of listening comprehension.",
+      "translation": "听觉理解的结束",
+      "start": 1402.92,
+      "end": 1405.4
+    }
+  ],
+  "translation_sources": [
+    "https://english-exam.lazynote.cn/cet4/sections/listening/2019-06-1/",
+    "Sams200/opus-mt-en-zh (unmatched sentences only)"
+  ]
+}

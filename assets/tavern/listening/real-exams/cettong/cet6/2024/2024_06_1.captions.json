@@ -1,0 +1,1661 @@
+{
+  "id": "cet6-2024_06_1",
+  "title": "2024年6月 第1套",
+  "level": 6,
+  "source_url": "https://www.cettong.cn/library/cet6/2024_06_1",
+  "material_source": "https://117.72.200.49/#/library",
+  "audio": "assets/tavern/listening/real-exams/cettong/cet6/2024/2024_06_1.mp3",
+  "caption_kind": "published_material_with_auxiliary_timing_and_translation",
+  "caption_models": [
+    "Systran/faster-whisper-base.en",
+    "Sams200/opus-mt-en-zh"
+  ],
+  "lines": [
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Thank you for meeting with me, Stephen, at such short notice.",
+      "translation": "谢谢你在这么短的时间内抽空见我，Stephen。",
+      "start": 35.9,
+      "end": 37.042,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Not a problem, Margaret.",
+      "translation": "没问题，Margaret。",
+      "start": 37.042,
+      "end": 37.457,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Now, please give me some good news.",
+      "translation": "现在，请告诉我一些好消息。",
+      "start": 37.457,
+      "end": 38.183,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Have you agreed to my last proposal?",
+      "translation": "你同意我上次的提议了吗？",
+      "start": 38.183,
+      "end": 38.91,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I have, indeed.",
+      "translation": "确实同意了。",
+      "start": 38.91,
+      "end": 39.221,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And I wish to sign the agreement pending one small change to be made to the contract.",
+      "translation": "我希望签署协议，前提是对合同做一处小改动。",
+      "start": 39.221,
+      "end": 59.63,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Are you sure you want to make a sponsorship deal for your clients, or not?",
+      "translation": "你到底确定要为你的客户达成一项赞助协议，还是不想？",
+      "start": 59.63,
+      "end": 63.13,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I ask this, because, frankly, some people at my end are running out of patience.",
+      "translation": "我之所以这样问，是因为坦率地说，我这边有些人已经快失去耐心了。",
+      "start": 63.95,
+      "end": 68.29,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I understand your concerns.",
+      "translation": "我理解你的担忧。",
+      "start": 68.77,
+      "end": 70.13,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But as I'm sure you understand, we hold our clients' best interests to be of the utmost concern.",
+      "translation": "不过，我相信你也明白，我们最关心的是客户的最大利益。",
+      "start": 70.37,
+      "end": 76.41,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We therefore comb through the fine details of all contracts, rest assured, we all appreciate your firm's patience.",
+      "translation": "因此，我们会仔细审阅所有合同的细节，请放心，我们都很感谢贵公司的耐心。",
+      "start": 77.35,
+      "end": 84.11,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "OK, fine.",
+      "translation": "好吧，没问题。",
+      "start": 84.11,
+      "end": 86.01,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So what change do you wish to make?",
+      "translation": "那么你想做什么改动？",
+      "start": 86.83,
+      "end": 88.63,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Essentially, we would like the new deal to exclude the Middle East.",
+      "translation": "基本上，我们希望新协议不包括中东地区。",
+      "start": 89.34,
+      "end": 93.16,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That's all.",
+      "translation": "就这些。",
+      "start": 93.74,
+      "end": 94.1,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The Middle East?",
+      "translation": "中东地区？",
+      "start": 94.82,
+      "end": 95.58,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Why?",
+      "translation": "M：为什么？",
+      "start": 96.08,
+      "end": 96.2,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "My client has a couple of other prospective marketing deals from companies in the Middle East.",
+      "translation": "我的客户还收到几家中东公司的其他潜在营销合作邀约。",
+      "start": 96.78,
+      "end": 101.9,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Those offers, should they materialize, would exclusively employ my client's image in the Middle East only.",
+      "translation": "如果这些邀约最终落实，对方将只在中东地区使用我客户的形象。",
+      "start": 102.46,
+      "end": 108.68,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Therefore, in order to avoid any conflict, we would need to ensure that both marketing campaigns do not overlap geographically.",
+      "translation": "因此，为了避免任何冲突，我们需要确保这两项营销活动在地域上不会重叠。",
+      "start": 109.62,
+      "end": 117.38,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What business sector in the Middle East are we talking about here?",
+      "translation": "你说的中东业务具体属于哪个行业？",
+      "start": 118.24,
+      "end": 121.94,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Real estate.",
+      "translation": "房地产。",
+      "start": 122.42,
+      "end": 123.04,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Well, that should be okay then.",
+      "translation": "那应该没问题。",
+      "start": 123.82,
+      "end": 125.9,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So long as the product is very different from our food and beverage market, there should be no conflict of interest.",
+      "translation": "只要产品与我们的食品和饮料市场有很大不同，就不应存在利益冲突。",
+      "start": 126.46,
+      "end": 132.26,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Nevertheless, I will have to run this through my people.",
+      "translation": "不过，我还是得把这件事拿去和我的团队确认一下。",
+      "start": 133.12,
+      "end": 136.08,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I don't foresee any problem, though.",
+      "translation": "但我预计不会有什么问题。",
+      "start": 136.72,
+      "end": 138.82,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The Middle East is a negligible market for us, but I still need to check this with a couple of departments.",
+      "translation": "中东对我们来说是个微不足道的市场，不过我仍然需要和几个部门核实一下。",
+      "start": 139.52,
+      "end": 144.86,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions 1-4 are based on the conversation you have just heard.",
+      "translation": "问题1 -4是基于你刚才听到的谈话",
+      "start": 146.22,
+      "end": 150.4
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "1.",
+      "translation": "1. 国家",
+      "start": 151.6,
+      "end": 152.2
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the woman say she will do?",
+      "translation": "那女人说她会怎么做?",
+      "start": 152.78,
+      "end": 154.72
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 2.",
+      "translation": "问题2",
+      "start": 168.23,
+      "end": 169.07
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the man say about some people he represents?",
+      "translation": "这个人对他所代表的人怎么说?",
+      "start": 169.49,
+      "end": 172.27
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 3.",
+      "translation": "问题3",
+      "start": 186.41,
+      "end": 187.15
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What reason does the woman give for the New Deal to exclude the Middle East?",
+      "translation": "为何该女性对新政提出排除中东的理由?",
+      "start": 187.61,
+      "end": 192.11
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 4.",
+      "translation": "问题4",
+      "start": 205.78,
+      "end": 206.56
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the man say about the Middle East?",
+      "translation": "他对中东怎么说?",
+      "start": 207.0,
+      "end": 209.38
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Conversation 2.",
+      "translation": "对话2。",
+      "start": 222.8,
+      "end": 223.94
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Next, we have a special science-related news story.",
+      "translation": "接下来,我们有一个与科学有关的特别新闻故事。",
+      "start": 224.94,
+      "end": 229.1
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Paula Hancocks at the Denver Observatory.",
+      "translation": "宝拉汉考克斯在丹佛天文台",
+      "start": 230.04,
+      "end": 232.36
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Paula, what is the big story over there?",
+      "translation": "宝拉,那边有什么大新闻?",
+      "start": 233.44,
+      "end": 235.86
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Hi, John.",
+      "translation": "W：你好，John。",
+      "start": 236.58,
+      "end": 237.36,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Yes, all the astronomers on site here are very excited.",
+      "translation": "是的，这里的所有天文学家都非常兴奋。",
+      "start": 237.98,
+      "end": 241.32,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In fact, space enthusiasts all across North America and the rest of the Northern Hemisphere will be congregating on mountain tops tonight to watch the night's sky.",
+      "translation": "事实上，整个北美以及北半球其他地区的太空爱好者今晚都会聚集到山顶，观看夜空。",
+      "start": 242.44,
+      "end": 252.22,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Why?",
+      "translation": "M：为什么？",
+      "start": 253.2,
+      "end": 253.76,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What's the big event?",
+      "translation": "有什么重大事件？",
+      "start": 254.34,
+      "end": 255.12,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Is there an eclipse happening soon?",
+      "translation": "很快要发生日食了吗？",
+      "start": 255.79,
+      "end": 257.37,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Tonight, the Earth will come into close proximity with the Oppenheimer comet.",
+      "translation": "W：今晚，地球将与 Oppenheimer 彗星近距离接近。",
+      "start": 257.99,
+      "end": 263.37,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It is the closest our planet has been to such a phenomenon in over 100 years.",
+      "translation": "这是100多年来我们的星球距离此类现象最近的一次。",
+      "start": 263.37,
+      "end": 267.75,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "For this reason, it is expected that thousands of people will gaze up at the sky tonight in order to see this formidable object.",
+      "translation": "因此，预计今晚会有数千人仰望天空，观看这个令人震撼的天体。",
+      "start": 268.51,
+      "end": 276.73,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "How far away is this comet?",
+      "translation": "M：这颗彗星距离我们有多远？",
+      "start": 277.57,
+      "end": 280.42,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Will people be able to see it with the naked eye?",
+      "translation": "人们用肉眼能看到它吗？",
+      "start": 280.42,
+      "end": 282.34,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The Oppenheimer comet will still be millions of miles away, on the edge of our galaxy.",
+      "translation": "W：Oppenheimer 彗星仍会位于数百万英里之外，在我们银河系的边缘。",
+      "start": 282.89,
+      "end": 287.65,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But nevertheless, this is a relatively close distance, close enough for people to observe in good detail through a telescope.",
+      "translation": "不过，这仍然算是相对较近的距离，近到人们可以通过望远镜清楚地观测它。",
+      "start": 288.53,
+      "end": 295.93,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "People will only see a blur without one.",
+      "translation": "没有望远镜的话，人们只能看到一团模糊的影像。",
+      "start": 297.01,
+      "end": 299.33,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "However, that does not mean one needs professional equipment.",
+      "translation": "不过，这并不意味着必须使用专业设备。",
+      "start": 300.13,
+      "end": 303.23,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Even the most ordinary of telescopes should be conducive for people to observe and wonder at this flying object.",
+      "translation": "即使是最普通的望远镜，也足以让人们观测并惊叹于这个飞行中的天体。",
+      "start": 304.23,
+      "end": 310.61,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Many of our viewers will be wondering how they too can take part in this once-in-a-lifetime event.",
+      "translation": "M：我们的许多观众都会想知道，他们怎样才能参与这场一生难遇的活动。",
+      "start": 311.48,
+      "end": 317.56,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Where will this comet be in the sky?",
+      "translation": "这颗彗星会出现在天空的什么位置？",
+      "start": 317.56,
+      "end": 320.18,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "How can people find it?",
+      "translation": "人们该如何找到它？",
+      "start": 321.0,
+      "end": 322.18,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The comet will be almost exactly due north, at 60 degrees above the equator.",
+      "translation": "W：这颗彗星几乎正好位于正北方，在赤道上方60度的位置。",
+      "start": 322.98,
+      "end": 328.38,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "However, finding the comet is indeed very tricky.",
+      "translation": "不过，找到这颗彗星确实非常困难。",
+      "start": 329.12,
+      "end": 332.4,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And scientists here have told me there are plenty of phone apps that will facilitate this.",
+      "translation": "这里的科学家告诉我，有很多手机应用可以帮助大家定位。",
+      "start": 333.06,
+      "end": 337.62,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "How fantastic!",
+      "translation": "M：太棒了！",
+      "start": 338.4,
+      "end": 338.88,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Thank you, Paula, for the information.",
+      "translation": "Paula，感谢你提供这些信息。",
+      "start": 339.81,
+      "end": 405.29,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What do scientists at the Denver Observatory advise amateurs do to facilitate their observation?",
+      "translation": "丹佛天文台的科学家们建议业余爱好者做哪些工作来方便他们的观察?",
+      "start": 406.17,
+      "end": 412.69
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "C and D.",
+      "translation": "C和D。",
+      "start": 448.7,
+      "end": 450.06
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "mark the corresponding letter on answer sheet 1 with a single line through the center.",
+      "translation": "将答题表1中对应的字母标上,在中间一条线上划勾。",
+      "start": 451.02,
+      "end": 456.6
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Dietary guidelines form the basis for nutrition advice and regulations around the world.",
+      "translation": "膳食指南构成了世界各地营养建议和相关法规的基础。",
+      "start": 458.866,
+      "end": 465.961,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "While there is strong scientific consensus around most existing guidelines, one question has recently stirred debate: should consumers be warned to avoid ultra-processed foods?",
+      "translation": "尽管现有大多数指南背后都有强有力的科学共识，但最近有一个问题引发了争议：是否应当提醒消费者避免食用超加工食品？",
+      "start": 465.961,
+      "end": 479.06,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Two papers published today in the American Journal of Clinical Nutrition outline the case for and against using the concept of ultra-processed foods to help inform dietary guidelines beyond conventional food classification systems.",
+      "translation": "今天发表在《美国临床营养学杂志》上的两篇论文，分别阐述了支持和反对使用“超加工食品”这一概念的理由，以帮助在传统食品分类体系之外进一步制定膳食指南。",
+      "start": 479.06,
+      "end": 494.58,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The authors, Carlos Monteiro of the University of São Paulo and Arne Astrup of Novo Nordisk Foundation, will discuss the issue in a live virtual debate August 14th during NUTRITION 2024 LIVE ONLINE.",
+      "translation": "论文作者、圣保罗大学的Carlos Monteiro和Novo Nordisk Foundation的Arne Astrup，将于8月14日在NUTRITION 2024 LIVE ONLINE期间举行的线上直播辩论中讨论这一问题。",
+      "start": 495.48,
+      "end": 511.48,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The debate centers around a system developed by Monteiro and colleagues that classifies foods by their degree of industrial processing, ranging from unprocessed to ultra-processed.",
+      "translation": "这场辩论围绕Monteiro及其同事制定的一套体系展开，该体系根据食品的工业加工程度对其进行分类，范围从未加工食品到超加工食品。",
+      "start": 512.85,
+      "end": 525.81,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The system defines ultra-processed foods as those made using sequences of processes that extract substances from foods and alter them with chemicals in order to formulate the final product.",
+      "translation": "该体系将超加工食品定义为：通过一系列加工步骤制成的食品，在这些步骤中，先从食品中提取物质，再使用化学品对其进行改变，以配制出最终产品。",
+      "start": 525.81,
+      "end": 538.68,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Ultra-processed foods are characteristically designed to be cheap, tasty, and convenient; examples include soft drinks and candy, packaged snacks and pastries, ready-to-heat products, and reconstituted meat products.",
+      "translation": "超加工食品通常被设计成价格低廉、美味可口且方便食用；其中包括软饮料和糖果、包装零食和糕点、即热食品以及再制肉制品等。",
+      "start": 538.68,
+      "end": 555.62,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Studies have linked consumption of ultra-processed foods—which are packed high in salt, sugar, and fat—with weight gain and an increased risk of chronic diseases, even after adjusting for the amount of salt, sugar, and fat in the diet.",
+      "translation": "研究表明，食用超加工食品会导致体重增加并提高患慢性疾病的风险；这类食品含有大量盐、糖和脂肪，即使在对膳食中盐、糖和脂肪的含量进行调整后，这些关联仍然存在。",
+      "start": 556.56,
+      "end": 572.02,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "While the mechanisms behind these associations are not fully understood, Monteiro argues that the existing evidence is sufficient to justify discouraging consumption of ultra-processed foods in dietary recommendations and government policies.",
+      "translation": "尽管这些关联背后的机制尚未被完全理解，Monteiro认为，现有证据已经足以支持在膳食建议和政府政策中劝阻人们食用超加工食品。",
+      "start": 572.78,
+      "end": 588.02,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 9 What question is said to have recently stirred debate?",
+      "translation": "问题9:据说最近引起辩论的问题是什么?",
+      "start": 594.28,
+      "end": 599.08
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 10 How does the system developed by Monteiro and colleagues classify foods?",
+      "translation": "问题10 蒙泰罗和同事开发的系统如何对食物进行分类?",
+      "start": 612.81,
+      "end": 618.88
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 11 What is consumption of ultra-processed foods linked with according to studies?",
+      "translation": "问题11:根据研究,超处理食品的消费与哪些有关?",
+      "start": 633.58,
+      "end": 640.24
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Passage 2 Believe it or not, human creativity benefits from constraints According to psychologists",
+      "translation": "传说2 信不信由你 人类的创造力 得益于各种限制 心理学家说",
+      "start": 653.99,
+      "end": 654.69
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Believe it or not, human creativity benefits from constraints.",
+      "translation": "信不信由你，限制有益于人类的创造力。",
+      "start": 654.69,
+      "end": 659.76,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "According to psychologists, when you have less to work with, you actually begin to see the world differently.",
+      "translation": "心理学家认为，当你可利用的资源较少时，你实际上会开始以不同的方式看待世界。",
+      "start": 659.76,
+      "end": 666.39,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "With constraints, you dedicate your mental energy to acting more resourcefully.",
+      "translation": "有了限制，你会将 mental energy 投入到更具资源性地采取行动上。",
+      "start": 667.49,
+      "end": 672.33,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "When challenged, you figure out new ways to be better.",
+      "translation": "面对挑战时，你会想出新的方法，让自己做得更好。",
+      "start": 673.23,
+      "end": 676.29,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The most successful creative people know that constraints give their minds the impetus to leap higher.",
+      "translation": "最成功的创意人士知道，限制会促使他们的思维跃得更高。",
+      "start": 677.87,
+      "end": 684.11,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "People who invent new products are not limited by what they don't have or can't do.",
+      "translation": "发明新产品的人不会受到自己没有什么或不能做什么的限制。",
+      "start": 685.15,
+      "end": 690.77,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They leverage their limitations to push themselves even further.",
+      "translation": "他们利用自身的局限，推动自己更进一步。",
+      "start": 691.34,
+      "end": 695.54,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Many products and services are created because the founders saw a limitation in what they use.",
+      "translation": "许多产品和服务之所以诞生，是因为创始人发现自己所使用的产品或服务存在局限。",
+      "start": 696.43,
+      "end": 702.53,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They created innovation based on what was not working for them at the moment.",
+      "translation": "他们根据当时对自己不起作用的地方创造了创新。",
+      "start": 703.17,
+      "end": 707.95,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Innovation is a creative person's response to limitation.",
+      "translation": "创新是创意人士对局限的回应。",
+      "start": 708.71,
+      "end": 712.63,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In a 2015 study which examined how thinking about scarcity or abundance influences how creatively people use their resources, Ravi Mehta at the University of Illinois and Meng Zhu at Johns Hopkins University found that people simply have no incentive to use what's available to them in novel ways.",
+      "translation": "在一项于2015年开展的研究中，伊利诺伊大学的Ravi Mehta和约翰斯·霍普金斯大学的Meng Zhu考察了对稀缺或富足的思考如何影响人们创造性地使用资源，并发现人们根本没有动力以新颖的方式利用手头的资源。",
+      "start": 713.93,
+      "end": 735.15,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "When people face scarcity, they give themselves the freedom to use resources in less conventional ways because they have to.",
+      "translation": "当人们面临资源稀缺时，他们会迫使自己以不那么传统的方式使用资源，因为他们不得不这样做。",
+      "start": 735.83,
+      "end": 744.21,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Obstacles can broaden your perception and open up your thinking processes.",
+      "translation": "障碍可以拓宽你的认知，并开启你的思维过程。",
+      "start": 745.21,
+      "end": 749.89,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Consistent constraints help you improve at connecting unrelated ideas and concepts.",
+      "translation": "持续存在的限制有助于你提高将不相关的想法和概念联系起来的能力。",
+      "start": 750.89,
+      "end": 756.43,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Marissa Mayer, former vice president for search products and user experience at Google, once wrote in a publication on Bloomberg, \"Constraints shape and focus problems and provide clear challenges to overcome; Creativity thrives best when constrained.\"",
+      "translation": "谷歌前搜索产品和用户体验副总裁Marissa Mayer曾在彭博社的一篇刊物中写道：“限制能够塑造问题、聚焦问题，并提供有待克服的明确挑战；创造力在受到限制时最能蓬勃发展。”",
+      "start": 757.81,
+      "end": 775.57,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 15.",
+      "translation": "问题15。",
+      "start": 838.13,
+      "end": 839.13
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What did Marissa Meyer once write concerning creativity?",
+      "translation": "玛丽莎·迈耶曾经写过什么关于创造力的作品?",
+      "start": 839.63,
+      "end": 842.79
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Section C.",
+      "translation": "C节。",
+      "start": 856.87,
+      "end": 857.69
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In this section you will hear three recordings of lectures or talks followed by three or four questions.",
+      "translation": "在本节中,你们将听取三场演讲或会谈录音,然后是三四个问题。",
+      "start": 859.63,
+      "end": 865.13
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The recordings will be played only once.",
+      "translation": "录音只播放一次。",
+      "start": 865.81,
+      "end": 867.57
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "you hear a question, you must choose the best answer from the four choices marked A, B, C and D.",
+      "translation": "听到一个问题,你必须从四个选择中选择最好的答案 四个选择标注A、B、C和D",
+      "start": 868.39,
+      "end": 874.69
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "mark the corresponding letter on answer sheet one with a single line through the center.",
+      "translation": "在答题单单行的答题表一中标出相应的字母。",
+      "start": 875.41,
+      "end": 880.01
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Recording 1.",
+      "translation": "记录1。",
+      "start": 881.07,
+      "end": 882.15
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Different people use different strategies for managing conflicts.",
+      "translation": "不同的人使用不同的战略来管理冲突。",
+      "start": 883.08,
+      "end": 886.52
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "These strategies are learned in childhood.",
+      "translation": "这些战略都是在童年时期学习的。",
+      "start": 887.58,
+      "end": 889.14
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Usually, we are not aware of how we act in conflict situations.",
+      "translation": "通常,我们不知道我们在冲突局势中如何行动。",
+      "start": 890.34,
+      "end": 893.58
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We just do whatever seems to come naturally.",
+      "translation": "我们只是做一切 似乎自然而然的事情",
+      "start": 894.68,
+      "end": 896.8
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But we do have a personal strategy, and because it is learned, we can always change it by learning new and more effective ways of managing conflicts.",
+      "translation": "但是,我们确实有个人战略,而且由于已经学习到,我们总是可以通过学习新的和更有效的冲突管理方法来改变这种战略。",
+      "start": 898.18,
+      "end": 906.32
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "When you get involved in a conflict, there are two major concerns you have to take into account: achieving your personal goals and keeping a good relationship with the other person.",
+      "translation": "当您卷入冲突时,需要考虑两个主要问题:实现个人目标,与他人保持良好关系。",
+      "start": 907.38,
+      "end": 918.22
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "How important your personal goals are and how important the relationship is to you affect how you act in a conflict.",
+      "translation": "你的个人目标有多重要 和你的关系有多重要 影响你如何在冲突中行动",
+      "start": 919.4,
+      "end": 926.38
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Given these two concerns, five styles of managing conflicts can be identified.",
+      "translation": "鉴于这两个关切,可以确定管理冲突的五种方式。",
+      "start": 927.48,
+      "end": 932.12
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The turtle.",
+      "translation": "龟型。",
+      "start": 934.83,
+      "end": 935.19,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Turtles withdraw into their shells to avoid conflicts.",
+      "translation": "乌龟会缩进壳里以避免冲突。",
+      "start": 936.67,
+      "end": 938.85,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They give up their personal goals and relationships.",
+      "translation": "它们放弃个人目标和人际关系。",
+      "start": 939.63,
+      "end": 942.13,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They believe it is easier to withdraw from a conflict than to face it.",
+      "translation": "它们认为，与其面对冲突，不如退出冲突更容易。",
+      "start": 943.07,
+      "end": 946.97,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The shark.",
+      "translation": "鲨鱼",
+      "start": 949.09,
+      "end": 949.47
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Sharks try to overpower opponents by forcing them to accept their solution to the conflict.",
+      "translation": "鲨鱼试图通过迫使对手接受冲突解决方案来战胜对手。",
+      "start": 949.6,
+      "end": 955.98
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They seek to achieve their goals at all costs.",
+      "translation": "他们不惜一切代价谋求实现其目标。",
+      "start": 957.09,
+      "end": 959.69
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Sharks assume that conflicts are settled by one person winning and one person losing.",
+      "translation": "鲨鱼假设冲突由一人赢、一人输解决。",
+      "start": 960.99,
+      "end": 965.73
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Winning gives sharks a sense of pride and achievement.",
+      "translation": "胜利让鲨鱼有一种自豪感和成就感",
+      "start": 966.71,
+      "end": 969.65
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Losing gives them a sense of weakness, inadequacy, and failure.",
+      "translation": "输掉给他们一种软弱、不足和失败的感觉。",
+      "start": 970.42,
+      "end": 974.56
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The teddy bear.",
+      "translation": "泰迪熊型。",
+      "start": 977.1,
+      "end": 977.58,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Teddy bears want to be accepted and liked by other people.",
+      "translation": "泰迪熊希望得到他人的接纳和喜爱。",
+      "start": 977.58,
+      "end": 981.5,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They think that conflict should be avoided in favor of harmony, and believe that conflicts cannot be discussed without damaging relationships.",
+      "translation": "它们认为，为了保持和谐，应当避免冲突，并相信讨论冲突会损害人际关系。",
+      "start": 982.18,
+      "end": 989.84,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They give up their goals to preserve the relationship.",
+      "translation": "它们放弃自己的目标，以维护这段关系。",
+      "start": 990.95,
+      "end": 993.45,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The fox.",
+      "translation": "狐狸型。",
+      "start": 995.99,
+      "end": 996.49,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Foxes are moderately concerned with their own goals and about their relationships with other people.",
+      "translation": "狐狸对自身目标以及与他人的关系都抱有适度的关注。",
+      "start": 996.49,
+      "end": 1002.84,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They give up part of their goals and persuade the other person in a conflict to give up part of his goals.",
+      "translation": "它们放弃一部分自己的目标，并说服冲突中的对方也放弃一部分目标。",
+      "start": 1004.02,
+      "end": 1009.1,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They seek a solution to conflicts where both sides gain something.",
+      "translation": "它们寻求一种能让双方都获得一些利益的冲突解决方案。",
+      "start": 1010.2,
+      "end": 1013.72,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The owl.",
+      "translation": "猫头鹰型。",
+      "start": 1016.08,
+      "end": 1016.42,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Owls view conflicts as problems to be solved.",
+      "translation": "猫头鹰把冲突视为需要解决的问题。",
+      "start": 1017.88,
+      "end": 1020.02,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They see conflicts as improving relationships by reducing tension between two people.",
+      "translation": "它们认为，冲突能够通过减少两个人之间的紧张关系来改善人际关系。",
+      "start": 1020.8,
+      "end": 1025.66,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They try to begin a discussion that identifies the conflict as a problem.",
+      "translation": "它们试图展开讨论，将冲突界定为一个问题。",
+      "start": 1026.41,
+      "end": 1030.27,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "By seeking solutions that satisfy both themselves and the other person, owls maintain the relationship.",
+      "translation": "通过寻求既能满足自己又能满足对方的解决方案，猫头鹰得以维持这段关系。",
+      "start": 1031.18,
+      "end": 1038.1,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Owls are not satisfied until a solution is found that achieves their own goals and the other person's goals, and they are not satisfied until the tensions and negative feelings have been fully resolved.",
+      "translation": "在找到既能实现自己的目标、又能实现对方目标的解决方案之前，猫头鹰不会感到满意；在紧张情绪和负面感受得到彻底解决之前，它们也不会感到满意。",
+      "start": 1039.15,
+      "end": 1051.25,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Why does the speaker say strategies for managing conflicts can always be changed?",
+      "translation": "为什么发言者说管理冲突的战略总是可以改变的?",
+      "start": 1059.34,
+      "end": 1064.22
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 17.",
+      "translation": "问题17。",
+      "start": 1077.99,
+      "end": 1078.81
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What is said to affect the way one acts in a conflict?",
+      "translation": "如何看待冲突时的行为?",
+      "start": 1079.71,
+      "end": 1082.89
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 18.",
+      "translation": "问题18。",
+      "start": 1096.87,
+      "end": 1097.51
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Of the five styles the speaker discusses,",
+      "translation": "在演讲人讨论的五种风格中",
+      "start": 1098.11,
+      "end": 1100.33
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "which views conflicts as problems to be solved?",
+      "translation": "哪些人认为冲突是需要解决的问题?",
+      "start": 1100.99,
+      "end": 1103.81
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "2.",
+      "translation": "2. 目标",
+      "start": 1117.93,
+      "end": 1118.37
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The genetic code of all 1.5 million known species of animals and plants living on earth will be mapped to help save species from extinction and boost human health.",
+      "translation": "地球上现存的全部150万种已知动植物的遗传密码将被测序，以帮助拯救濒临灭绝的物种并促进人类健康。",
+      "start": 1119.49,
+      "end": 1130.09,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Scientists hope that cracking the genetic code of plants and animals could help uncover new treatments for infectious diseases, slow aging, improve crops in agriculture, and create new bio-materials.",
+      "translation": "科学家希望，破解动植物的遗传密码能够帮助发现传染病的新疗法、延缓衰老、改良农业作物，并创造新的生物材料。",
+      "start": 1131.37,
+      "end": 1145.83,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In Britain, organizations including the Natural History Museum, the Royal Botanic Gardens at Kew and the Wellcome Sanger Institute have joined forces to sequence Britain's 66,000 species of animals and plants.",
+      "translation": "在英国，包括自然历史博物馆、邱园皇家植物园和Wellcome Sanger研究所在内的多个组织已经联合起来，为英国的6.6万种动植物进行基因测序。",
+      "start": 1146.9,
+      "end": 1161.0,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Dubbed the Darwin Tree of Life Project, it is expected to take 10 years and cost £100 million.",
+      "translation": "该项目被称为“达尔文生命之树项目”，预计将耗时10年，耗资1亿英镑。",
+      "start": 1162.46,
+      "end": 1168.22,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Once completed, all the information will be publicly available to researchers.",
+      "translation": "项目完成后，所有信息都将向研究人员公开。",
+      "start": 1169.38,
+      "end": 1173.48,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Many scientists believe that earth has now entered the sixth mass extinction, with humans creating a toxic mix of habitat loss, pollution and climate change, which has already led to the loss of at least 77 species of mammals and 140 types of birds since 1500.",
+      "translation": "许多科学家认为，地球如今已经进入第六次大灭绝时期，人类造成的栖息地丧失、污染和气候变化的有害结合，已经导致自1500年以来至少77种哺乳动物和140种鸟类灭绝。",
+      "start": 1174.32,
+      "end": 1191.95,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It is the biggest loss of species since the dinosaurs were wiped out 66 million years ago.",
+      "translation": "这是自6600万年前恐龙灭绝以来最大规模的物种损失。",
+      "start": 1193.61,
+      "end": 1198.75,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Scientists say that sequencing every species will revolutionise the understanding of biology and evolution, bolster efforts to conserve as well as protect and restore biodiversity.",
+      "translation": "科学家表示，对每一个物种进行测序将彻底改变人们对生物学和进化的认识，加强保护以及维护和恢复生物多样性的努力。",
+      "start": 1199.67,
+      "end": 1210.53,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Dr.",
+      "translation": "自然历史博物馆生命科学部负责人蒂姆·利特尔伍德博士说：“无论你对食物还是疾病感兴趣，地球上每一种生物如何适应其环境的历史，都记录在它的遗传构成中。",
+      "start": 1212.3,
+      "end": 1212.58,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Tim Littlewood, head of Life Sciences Department at the Natural History Museum, said, \"Whether you are interested in food or disease, the history of how every organism on the planet has adapted to its environment is recorded in its genetic makeup.",
+      "translation": "你如何利用这些信息，取决于你理解它的能力。",
+      "start": 1212.94,
+      "end": 1227.46,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "How you then harness that is dependent on your ability to understand it.",
+      "translation": "我们将运用现代方法，真正清晰地了解现在和过去。",
+      "start": 1228.5,
+      "end": 1232.68,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We will be using modern methods to get a really good window on the present and the past.",
+      "translation": "当然，了解过去也能为未来提供一个预测模型。",
+      "start": 1233.42,
+      "end": 1238.92,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And of course, a window on the past gives you a prospective model on the future.\"",
+      "translation": "”",
+      "start": 1239.58,
+      "end": 1244.36,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Sir Jim Smith, Director of Science at Wellcome, said, \"Try as I might, I can't think of a more exciting, more relevant, more timely or more internationally inspirational project.",
+      "translation": "威康科学主任吉姆·史密斯爵士说, “尽管我可能想,但我想不出一个更令人振奋、更相关、更及时或更具有国际启发性的项目。",
+      "start": 1245.48,
+      "end": 1271.177
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Since 1970, humanity has wiped out 60 percent of animal populations.",
+      "translation": "自1970年以来,人类已经消灭了60%的动物群。",
+      "start": 1271.177,
+      "end": 1272.011
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "About 23,000 of 80,000 species surveyed are approaching extinction.",
+      "translation": "在调查的80 000种物种中,约有23 000种濒临灭绝。",
+      "start": 1272.011,
+      "end": 1272.693
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We are in the midst of the sixth great extinction event of life on our planet, which not only threatens wildlife species, but also imperils the global food supply.",
+      "translation": "我们正处在地球上生命的第六大灭绝事件之中,这不仅威胁到野生动物物种,而且危及全球粮食供应。",
+      "start": 1272.693,
+      "end": 1281.9
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "As scientists, we all realise we desperately need to catalogue life on our fragile planet now.",
+      "translation": "作为科学家,我们都意识到 我们现在迫切需要 将脆弱的星球上的生命编目",
+      "start": 1282.92,
+      "end": 1288.74
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I think we're making history.\"",
+      "translation": "我认为我们在创造历史。”",
+      "start": 1289.5,
+      "end": 1290.98
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What do scientists hope to do by cracking the genetic code of plants and animals?",
+      "translation": "科学家们希望通过破解动植物的基因密码来做什么?",
+      "start": 1299.98,
+      "end": 1304.82
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 20.",
+      "translation": "问题20。",
+      "start": 1318.56,
+      "end": 1319.3
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What do many scientists believe with regard to Earth?",
+      "translation": "许多科学家对地球相信什么?",
+      "start": 1319.98,
+      "end": 1322.84
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 21.",
+      "translation": "问题21",
+      "start": 1336.64,
+      "end": 1337.44
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "How does Sir Jim Smith, Director of Science at Welcome,",
+      "translation": "吉姆·史密斯爵士,欢迎欢迎来到",
+      "start": 1338.16,
+      "end": 1341.6
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "describe the Darwin Tree of Life project?",
+      "translation": "描述达尔文生命树项目?",
+      "start": 1342.26,
+      "end": 1344.56
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Recording 3.",
+      "translation": "记录3。",
+      "start": 1358.45,
+      "end": 1359.23
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "John Donne, the English poet, wrote in the 17th century, \"No man is an island, entire of itself; every man is a piece of the continent, a part of the main.\" Now, a British academic has claimed that human individuality is indeed just an illusion, because societies are far more interconnected at a mental, physical, and cultural level than people realise.",
+      "translation": "17世纪英国诗人约翰·唐尼写道 : “ 无人是岛屿,是整个岛;每个人都是大陆的一部分,是大陆的一部分。 ”现在,一位英国学者声称,人类个性确实只是一种幻觉,因为社会在精神、生理和文化层面的联系远比人们所意识到的要多。",
+      "start": 1360.95,
+      "end": 1386.86
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In his new book, The Self Delusion, Professor Tom Oliver, a researcher in the Ecology and Evolution group at the University of Reading, argues there is no such thing as \"self\", and not even our bodies are truly \"us\".",
+      "translation": "他的新书《自我幻觉》中, 阅读大学生态和进化小组的研究员汤姆·奥利弗教授(Tom Oliver)指出,",
+      "start": 1386.86,
+      "end": 1401.33
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Just as Copernicus realised the Earth is not the centre of the universe, Professor Oliver said society urgently needs a Copernican-like revolution to understand people are not detached beings but rather part of one connected identity.",
+      "translation": "正如哥白尼意识到地球不是宇宙的中心, 奥利佛教授说社会迫切需要一场类似哥白尼的革命, 来理解人们不是分离的生物, 而是一个连接特性的一部分。",
+      "start": 1402.82,
+      "end": 1418.66
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "\"A significant milestone in the cultural evolution of human minds was the acceptance that the Earth is not the centre of the universe, the so-called Copernican Revolution,\" he writes.",
+      "translation": "“人类思想文化进化的一个重要里程碑是人们承认地球不是宇宙的中心,",
+      "start": 1419.44,
+      "end": 1430.6
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "\"However, we have one more big myth to dispose of: that we exist as independent selves at the centre of a subjective universe.",
+      "translation": "\"然而,我们还有一个更大的神话要处理: 我们作为独立个体存在于一个主观宇宙的中心。",
+      "start": 1431.91,
+      "end": 1440.03
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You may feel as if you are an independent individual, acting autonomously in the world; that you have an unchanging inner self that persists throughout your lifetime, acting as a central anchor-point with the world changing around you.",
+      "translation": "你可能觉得自己是一个独立的个体,在世界上自主行动;你有一个不变的内心自我,在你的一生中一直存在,作为世界在你周围变化的中心点。",
+      "start": 1441.11,
+      "end": 1455.11
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This is the illusion I seek to tackle.",
+      "translation": "这是我想要解决的幻觉",
+      "start": 1455.85,
+      "end": 1457.79
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We are intimately connected to the world around us.\"",
+      "translation": "我们与周围的世界紧密相连。”",
+      "start": 1458.65,
+      "end": 1461.39
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Professor Oliver argues there are around 37 trillion cells in the body but most have a lifespan of just a few days or weeks, so the material \"us\" is constantly changing.",
+      "translation": "奥利弗教授认为身体里大约有37万亿个细胞 但大多数的寿命只有几天或几周 所以物质“我们”在不断变化",
+      "start": 1462.35,
+      "end": 1474.25
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In fact, there is no part of your body that has existed for more than 10 years.",
+      "translation": "事实上,你身体中没有任何部分 已经存在了10多年",
+      "start": 1475.52,
+      "end": 1479.92
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "\"Since our bodies are essentially made anew every few weeks, the material in them alone is clearly insufficient to explain the persistent thread of an identity.\"",
+      "translation": "\"因为我们的身体基本上每隔几周就更新一次, 单凭它们的材料显然不足以解释 身份的持久线条\"",
+      "start": 1481.41,
+      "end": 1491.49
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Professor Oliver claims that individualism is actually bad for society, and only by realising we are part of a bigger entity can we solve pressing environmental and societal problems.",
+      "translation": "奥利弗教授声称个人主义实际上对社会有害, 只有实现我们是一个更大的实体的一部分, 我们才能解决紧迫的环境和社会问题。",
+      "start": 1492.27,
+      "end": 1503.97
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Through selfish over-consumption we are destroying the natural world and using non-renewable resources at an accelerating rate.",
+      "translation": "通过自私的过度消费,我们正在破坏自然世界,并以更快的速度使用不可再生资源。",
+      "start": 1505.13,
+      "end": 1513.25
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "\"We are at a critical crossroads as a species where we must rapidly reform our mindsets and behaviour to act in less selfish ways,\" he said.",
+      "translation": "他说:「作为一个物种, 我们正处在一个关键的十字路口, 我们必须迅速改变心态与行为,",
+      "start": 1514.26,
+      "end": 1523.6
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "\"So let's open our eyes to the hidden connections all around us.\"",
+      "translation": "\"让我们睁开眼睛 看着周围的隐蔽联系\"",
+      "start": 1524.18,
+      "end": 1528.46
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 22.",
+      "translation": "问题22。",
+      "start": 1534.93,
+      "end": 1536.01
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What is indeed just an illusion according to Professor Tom Oliver?",
+      "translation": "汤姆·奥利弗教授所描述的 究竟什么是幻觉?",
+      "start": 1536.65,
+      "end": 1540.49
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 23.",
+      "translation": "问题23。",
+      "start": 1553.9,
+      "end": 1554.7
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does Professor Tom Oliver think of the idea that we exist as independent selves at the center of a subjective universe?",
+      "translation": "汤姆·奥利弗教授认为 我们作为独立个体 存在于主观宇宙中心的想法是什么?",
+      "start": 1555.5,
+      "end": 1562.66
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 24.",
+      "translation": "问题24。",
+      "start": 1576.03,
+      "end": 1576.77
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Why does Professor Tom Oliver claim that the material us is constantly changing?",
+      "translation": "为什么汤姆·奥利弗教授声称 我们的物质在不断改变?",
+      "start": 1577.45,
+      "end": 1582.65
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 25.",
+      "translation": "问题25。",
+      "start": 1595.96,
+      "end": 1596.78
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "How can we solve pressing environmental and societal problems",
+      "translation": "如何解决紧迫的环境和社会问题",
+      "start": 1597.3,
+      "end": 1601.0
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "according to Professor Tom Oliver.",
+      "translation": "根据汤姆·奥利弗教授的说法。",
+      "start": 1601.5,
+      "end": 1603.36
+    }
+  ],
+  "translation_sources": [
+    "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/",
+    "Sams200/opus-mt-en-zh (unmatched sentences only)"
+  ]
+}

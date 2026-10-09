@@ -1,0 +1,1810 @@
+{
+  "id": "cet6-2023_06_1",
+  "title": "2023年6月 第1套",
+  "level": 6,
+  "source_url": "https://www.cettong.cn/library/cet6/2023_06_1",
+  "material_source": "https://117.72.200.49/#/library",
+  "audio": "assets/tavern/listening/real-exams/cettong/cet6/2023/2023_06_1.exampace-playback.mp3",
+  "caption_kind": "published_material_with_auxiliary_timing_and_translation",
+  "caption_models": [
+    "Systran/faster-whisper-base.en",
+    "Sams200/opus-mt-en-zh"
+  ],
+  "lines": [
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Hylally, has the new apartment.",
+      "translation": "Hylly,有新公寓。",
+      "start": 36.84,
+      "end": 37.133
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Hi, Lily, how's the new apartment?",
+      "translation": "嗨，莉莉，新公寓怎么样？",
+      "start": 37.133,
+      "end": 38.84,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's okay.",
+      "translation": "还行吧。",
+      "start": 39.48,
+      "end": 40.06,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What?",
+      "translation": "什么？",
+      "start": 40.58,
+      "end": 41.04,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "How can it be just okay when last week you were thrilled about the place and kept posting photos of it online?",
+      "translation": "上周你还对这个地方兴奋不已，还不停地把照片发到网上，怎么现在只能说还行？",
+      "start": 41.84,
+      "end": 48.5,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Well, last week when I moved in, the apartment seemed cozy, just the right size for one person.",
+      "translation": "嗯，我上周搬进去的时候，觉得公寓很温馨，对一个人来说大小正合适。",
+      "start": 49.18,
+      "end": 55.28,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But now it just seems tiny, shabby and solitary.",
+      "translation": "但现在我只觉得它又小又破旧，还很孤单。",
+      "start": 56.02,
+      "end": 59.71,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Ah, that's the problem.",
+      "translation": "啊，问题就在这儿。",
+      "start": 60.67,
+      "end": 62.81,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You miss your roommates from university, don't you?",
+      "translation": "你想念大学时的室友了，对吧？",
+      "start": 63.43,
+      "end": 66.13,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'm going to sound like an idiot, because I used to complain to you all the time about how crowded our dormitory room was, and about all the things they did to irritate me, like watching movies late at night without headphones, or talking loudly early in the morning.",
+      "translation": "我这么说听起来可能像个傻瓜，因为我以前总是向你抱怨我们的宿舍有多拥挤，还抱怨他们做的那些让我恼火的事，比如深夜不戴耳机看电影，或者一大早大声说话。",
+      "start": 66.51,
+      "end": 82.07,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But now I miss them terribly.",
+      "translation": "可现在我特别想念他们。",
+      "start": 82.81,
+      "end": 84.27,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Of course you do.",
+      "translation": "你当然知道",
+      "start": 85.15,
+      "end": 86.15
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That's perfectly normal.",
+      "translation": "这很正常",
+      "start": 86.53,
+      "end": 87.43
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "When I got my first place I remember thinking I couldn't wait to live by myself and get away from my juvenile roommates and all their annoying habits.",
+      "translation": "当我得到我的第一位 我还记得想 我迫不及待地 一个人生活 离开我的幼年室友 和他们所有的烦恼习惯。",
+      "start": 87.85,
+      "end": 96.77
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But then I began missing them and feeling lonely and thinking that our dormitory was like paradise, even though there were six of us guys in one small room.",
+      "translation": "但我开始想念他们 感到寂寞 觉得宿舍就像天堂 即便我们六个人 在一个小房间里",
+      "start": 97.59,
+      "end": 108.03
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I thought it was just me who felt like that.",
+      "translation": "我还以为只有我会有这种感觉。",
+      "start": 108.49,
+      "end": 110.79,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Look, you lived at home with us, and then you had three roommates, and this is your first time living alone.",
+      "translation": "听着 你和我们住在家里 然后有三个室友 这是你第一次单独生活",
+      "start": 111.39,
+      "end": 119.18
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So it's hard.",
+      "translation": "所以很难",
+      "start": 119.6,
+      "end": 120.32
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But your first apartment is a milestone in your life, and you should celebrate it.",
+      "translation": "但你的第一间公寓是人生的里程碑 你应该庆祝一下",
+      "start": 121.1,
+      "end": 126.3
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Tell me about the apartment.",
+      "translation": "跟我说说公寓的事",
+      "start": 126.96,
+      "end": 128.2
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Actually, it's not bad.",
+      "translation": "其实，它还不错。",
+      "start": 128.9,
+      "end": 130.62,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In fact, it's pretty adorable, now that I have decorated it and it has everything I need.",
+      "translation": "事实上，我把它装饰好，也置办齐了所有需要的东西之后，发现它还挺可爱的。",
+      "start": 131.06,
+      "end": 135.94,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I have a kitchen to cook in and a bathroom all to myself, and then another room with my bed at one end, and a sofa, a small table and chairs at the other end.",
+      "translation": "我有一间可以做饭的厨房和一间完全属于自己的浴室，另外还有一个房间，一头放着我的床，另一头放着沙发、小桌子和椅子。",
+      "start": 136.66,
+      "end": 146.94,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That does sound adorable and I can't wait to see it, and neither can mom and dad.",
+      "translation": "听起来确实很可爱，我都等不及想去看看了，爸爸妈妈也一样。",
+      "start": 147.98,
+      "end": 153.04,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions one to four are based on the conversation you have just heard.",
+      "translation": "问题一至问题四 是基于你刚才听到的谈话",
+      "start": 154.26,
+      "end": 157.92
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question one, what was the woman's first impression of the apartment?",
+      "translation": "问题一,那女人对公寓的第一印象是什么?",
+      "start": 158.74,
+      "end": 163.28
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question two, why does the woman say she is going to sound like an idiot?",
+      "translation": "问题二 为什么这个女人说 她会像个白痴?",
+      "start": 177.11,
+      "end": 181.75
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question three.",
+      "translation": "问题三。",
+      "start": 195.39,
+      "end": 196.33
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What do we learn about the man when he left the dormitory to live on his own?",
+      "translation": "当他离开宿舍独自生活时 我们该了解什么?",
+      "start": 196.91,
+      "end": 201.97
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 4.",
+      "translation": "问题4",
+      "start": 215.31,
+      "end": 216.23
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the man say he can't wait to do?",
+      "translation": "那人怎么说他迫不及待想做什么?",
+      "start": 217.04,
+      "end": 220.42
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Conversation 2.",
+      "translation": "对话2。",
+      "start": 233.76,
+      "end": 235.08
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Welcome to our program Book Talk.",
+      "translation": "欢迎收听我们的节目《图书访谈》。",
+      "start": 235.72,
+      "end": 238.26,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Our guest today is Frank Jones, a critic of our education system, and the author of a new book, How to Reform Our Universities.",
+      "translation": "今天的嘉宾是弗兰克·琼斯，他是我们教育体系的批评者，也是新书《如何改革我们的大学》的作者。",
+      "start": 239.04,
+      "end": 247.92,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Hello, Susan.",
+      "translation": "你好，苏珊。",
+      "start": 249.1,
+      "end": 249.9,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Frank, you support radically changing universities in America?",
+      "translation": "弗兰克，你支持彻底改变美国的大学吗？",
+      "start": 250.82,
+      "end": 254.97,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Yes, I believe that the purpose of higher education is to prepare young people to enter the workforce, and that our current system fails to do this.",
+      "translation": "是的，我认为高等教育的目的是让年轻人为进入职场做好准备，而我们目前的体系没有做到这一点。",
+      "start": 255.61,
+      "end": 266.03,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We're allocating too many resources to disciplines that don't match the needs of employers.",
+      "translation": "我们把太多资源分配给了与雇主需求不匹配的学科。",
+      "start": 266.97,
+      "end": 272.15,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I think your attitude to education is a bit cynical, Frank.",
+      "translation": "弗兰克，我觉得你对教育的态度有点愤世嫉俗。",
+      "start": 272.95,
+      "end": 276.29,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Surely the purpose of university is to prepare young people to participate fully in civic life, rather than just to find well-paid jobs.",
+      "translation": "大学的目的当然应该是让年轻人充分参与公民生活，而不只是找到高薪工作。",
+      "start": 276.85,
+      "end": 286.56,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Susan, many young graduates struggle to find any job, let alone a good one.",
+      "translation": "苏珊，许多年轻的毕业生连工作都很难找到，更不用说一份好工作了。",
+      "start": 287.16,
+      "end": 292.86,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The job market is grim, particularly for students who study the arts.",
+      "translation": "就业市场很不景气，尤其是对学习艺术的学生而言。",
+      "start": 293.48,
+      "end": 297.24,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I agree that it isn't easy for young people to find work, but you propose closing down all departments that aren't directly related to science and technology.",
+      "translation": "我同意年轻人找工作并不容易，但你提议关闭所有与科学和技术没有直接关系的院系。",
+      "start": 297.96,
+      "end": 308.28,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Is that really the solution?",
+      "translation": "这真的是解决办法吗？",
+      "start": 308.97,
+      "end": 310.53,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You're overstating my point.",
+      "translation": "你夸大了我的观点。",
+      "start": 311.21,
+      "end": 312.77,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "My argument is that we need to use more of our budget on areas like science and engineering.",
+      "translation": "我的意思是，我们需要把更多预算用于科学和工程等领域。",
+      "start": 313.55,
+      "end": 319.27,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "To do that, we need to take money from subjects like literature and music.",
+      "translation": "要做到这一点，我们就得从文学、音乐等学科中抽走资金。",
+      "start": 319.93,
+      "end": 324.73,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But the arts have value.",
+      "translation": "但艺术是有价值的。",
+      "start": 325.47,
+      "end": 326.87,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They're an important part of our culture.",
+      "translation": "它们是我们文化的重要组成部分。",
+      "start": 327.33,
+      "end": 328.95,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Studying literature or music or sculpture might not result in a job in that area, but it helps young people to think about the world in a deeper way, which makes them better citizens and makes for a better society.",
+      "translation": "学习文学、音乐或雕塑也许不会让人最终从事相关领域的工作，但这能帮助年轻人更深入地思考世界，使他们成为更好的公民，也让社会变得更好。",
+      "start": 330.03,
+      "end": 343.01,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I agree that the arts are valuable to society, but it's naive to think that not only the most talented, but all students should study them at university level.",
+      "translation": "我同意艺术对社会有价值，但认为不仅最有天赋的学生，所有学生都应该在大学阶段学习艺术，这种想法很天真。",
+      "start": 343.85,
+      "end": 355.01,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The arts are very competitive, and most graduates will end up with a great deal of debt, obtaining a degree that has little value on the job market.",
+      "translation": "艺术领域竞争非常激烈，大多数毕业生最终会背负巨额债务，拿到一个在就业市场上价值不大的学位。",
+      "start": 355.84,
+      "end": 415.1,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Section B.",
+      "translation": "B节。",
+      "start": 445.71,
+      "end": 446.67
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Directions.",
+      "translation": "方向",
+      "start": 447.05,
+      "end": 447.47
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In this section you will hear two passages.",
+      "translation": "在本节中,你们将听到两段。",
+      "start": 448.55,
+      "end": 450.33
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "At the end of each passage you will hear three or four questions.",
+      "translation": "在每一段的结尾 你会听到三个或四个问题",
+      "start": 451.05,
+      "end": 454.85
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Both the passage and the questions will be spoken only once.",
+      "translation": "发言的通过和提问将只讲一次。",
+      "start": 455.51,
+      "end": 458.95
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "you hear a question you must choose the best answer from the four choices marked A, B, C and D.",
+      "translation": "听到一个问题,你必须从四个选择中选择最好的答案,四个选择标有A、B、C和D。",
+      "start": 459.95,
+      "end": 466.55
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "mark the corresponding letter on answer sheet one with a single line through the center.",
+      "translation": "在答题单单行的答题表一中标出相应的字母。",
+      "start": 467.31,
+      "end": 471.83
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Do you ever have the annoying feeling that you don't have time to really think any more?",
+      "translation": "你是否常有一种恼人的感觉，觉得自己再也没有时间真正思考了？",
+      "start": 474.58,
+      "end": 479.773,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You are not alone.",
+      "translation": "你并不孤单。",
+      "start": 479.773,
+      "end": 481.36,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "A variety of factors have conspired to rob us of time for reflection about ourselves and our lives.",
+      "translation": "各种因素共同作用，夺走了我们用于反思自己和生活的时间。",
+      "start": 482.14,
+      "end": 488.84,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Today, our preoccupied minds are rarely silent.",
+      "translation": "如今，我们被各种事务占据的头脑很少有安静的时候。",
+      "start": 489.89,
+      "end": 493.41,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The average person receives hundreds of texts and voice messages a day, and holidays for many of us are action-packed weeks more likely full of family activities than opportunities for tranquility and contemplation.",
+      "translation": "普通人每天会收到数百条短信和语音消息，而对我们许多人来说，假期也是安排得满满当当的一周，更多的是充满家庭活动，而不是拥有宁静与沉思的机会。",
+      "start": 494.61,
+      "end": 508.97,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Regular reflection, however, underlies all great professionals.",
+      "translation": "然而，定期反思是一切杰出专业人士的基础。",
+      "start": 510.63,
+      "end": 513.87,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's a prerequisite for you to recharge your mental batteries, see things in a new light and tap into your creativity.",
+      "translation": "这是你重新充实心理能量、以新的眼光看待事物并发挥创造力的先决条件。",
+      "start": 514.97,
+      "end": 522.67,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Almost all of the great advisors that I have studied have found ways to get away from it all and contemplate their life and work.",
+      "translation": "我研究过的几乎所有杰出顾问，都找到了远离一切、思考自己生活和工作的方式。",
+      "start": 523.61,
+      "end": 531.83,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Some researchers in the field of creativity, in fact, believe that insight occurs during the reflection and relaxation that follows a period of intense activity.",
+      "translation": "事实上，一些创造力领域的研究人员认为，洞见产生于高强度活动之后的反思与放松期间。",
+      "start": 532.93,
+      "end": 543.09,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Schedule time for reflection about your work or a particular project you're engaged in.",
+      "translation": "安排时间反思你的工作或正在参与的某个项目。",
+      "start": 544.59,
+      "end": 549.71,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I usually block out half an hour.",
+      "translation": "我通常会留出半小时。",
+      "start": 550.31,
+      "end": 552.59,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Don't answer the phone.",
+      "translation": "不要接电话。",
+      "start": 553.47,
+      "end": 554.57,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Push your papers to the side.",
+      "translation": "把文件推到一边。",
+      "start": 555.37,
+      "end": 556.65,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Sketch, make lists, draw \"mind maps\" of ideas that come to you.",
+      "translation": "画草图、列清单、把浮现出的想法绘制成“思维导图”。",
+      "start": 557.66,
+      "end": 562.61,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "At the end, write down any emerging ideas.",
+      "translation": "最后，把任何新出现的想法记下来。",
+      "start": 563.39,
+      "end": 566.23,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "When you're alone, stop worrying and think.",
+      "translation": "独处时，停止担忧，认真思考。",
+      "start": 567.54,
+      "end": 570.58,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "A lot of our down time is spent worrying about troublesome things in our lives or fantasizing about how we'd like our lives to be.",
+      "translation": "我们许多空闲时间都花在担心生活中令人烦恼的事情上，或幻想自己的生活应该是什么样子。",
+      "start": 571.38,
+      "end": 579.56,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Revisit things during moments of relaxation after a period of intense work.",
+      "translation": "在一段高强度工作之后的放松时刻，重新思考这些事情。",
+      "start": 580.41,
+      "end": 585.55,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This is when we are the most creative.",
+      "translation": "此时正是我们最具创造力的时候。",
+      "start": 586.23,
+      "end": 588.31,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions 9-11 are based on the passage you have just heard.",
+      "translation": "问题9 -11是基于你刚才听到的段落",
+      "start": 590.06,
+      "end": 594.12
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "9.",
+      "translation": "9. 国家",
+      "start": 595.28,
+      "end": 595.72
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What do we learn about the feeling that one doesn't have time to think anymore?",
+      "translation": "我们有什么感想 觉得一个人没有时间思考了?",
+      "start": 596.22,
+      "end": 601.16
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 10.",
+      "translation": "问题10。",
+      "start": 614.75,
+      "end": 615.53
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What trait do all great professionals share?",
+      "translation": "所有伟大的专业人士都具有什么特征?",
+      "start": 616.05,
+      "end": 619.91
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 11.",
+      "translation": "问题11。",
+      "start": 633.7,
+      "end": 634.44
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What do some researchers believe is conducive to creative ideas?",
+      "translation": "一些研究人员认为什么有利于创造思想?",
+      "start": 635.12,
+      "end": 639.46
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Passage 2.",
+      "translation": "通行证2。",
+      "start": 653.25,
+      "end": 654.01
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Even before Colorado was a state.",
+      "translation": "甚至在科罗拉多州之前",
+      "start": 655.03,
+      "end": 657.59
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The first opened in 1859, in a settlement founded by migrants searching for gold.",
+      "translation": "第一家邮局于1859年在一个由寻找黄金的移民建立的定居点开业。",
+      "start": 660.39,
+      "end": 666.55,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Life could be unpredictable out west—gold failed to appear, drought ruined farmers and settlers clashed with Native Americans.",
+      "translation": "西部的生活充满不可预测性——黄金未能出现，干旱摧残了农民，移居者与美洲原住民发生冲突。",
+      "start": 667.33,
+      "end": 677.65,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "On the settlement's location now stands a sprawling university campus.",
+      "translation": "在该定居点如今的位置上，耸立着一座庞大的大学校园。",
+      "start": 678.85,
+      "end": 683.87,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Amid all the changes, one feature remained constant—the postal service.",
+      "translation": "在所有的变迁中，有一个特征始终保持不变——那就是邮政服务。",
+      "start": 684.81,
+      "end": 690.2,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The maps tracing America's westward expansion are telling.",
+      "translation": "追溯美国西进运动的地图非常具有说服力。",
+      "start": 691.22,
+      "end": 695.34,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In 1864, there were few postal branches on land controlled by Native Americans, which still accounted for most of the West.",
+      "translation": "1864年，在美洲原住民控制的土地上几乎没有邮政分局，而这些土地当时仍占据了西部的大部分。",
+      "start": 696.28,
+      "end": 706.2,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Over the next 25 years, post offices grew quickly.",
+      "translation": "在接下来的25年里，邮局迅速增多。",
+      "start": 707.35,
+      "end": 711.55,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Colonization of the West could be regarded as a result of big government rather than pioneers.",
+      "translation": "对西部的拓殖可以被视为大政府而非拓荒者的产物。",
+      "start": 712.59,
+      "end": 719.18,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "As federal subsidies and land grants tempted people into the deserts and plains, the post kept them connected.",
+      "translation": "随着联邦补贴和土地赠予吸引人们深入沙漠和平原，邮政保持了他们之间的联系。",
+      "start": 720.74,
+      "end": 728.76,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In the mid-19th century, the Post Office Department was far from a centralized bureaucracy.",
+      "translation": "在19世纪中叶，邮政部远非一个集权的官僚机构。",
+      "start": 730.12,
+      "end": 736.2,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "To keep up with migration patterns, postal services were added to existing businesses.",
+      "translation": "为了跟上移民模式的脚步，邮政服务被附加到了现有的商业经营中。",
+      "start": 737.5,
+      "end": 743.7,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The federal government commissioned private wagons to carry the mail.",
+      "translation": "联邦政府委托私人马车运送邮件。",
+      "start": 745.1,
+      "end": 749.12,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Short-term contracts were granted to local businessmen to act as postmasters.",
+      "translation": "当地商人获得了担任邮局局长的短期合同。",
+      "start": 749.12,
+      "end": 755.18,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "These partnerships enabled the mail to quickly follow migrants, helping knit together remote parts of the country.",
+      "translation": "这些合作关系使邮件能够迅速跟随移民，有助于将该国偏远地区紧密联系在一起。",
+      "start": 756.26,
+      "end": 764.02,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Mr.",
+      "translation": "先生,先生",
+      "start": 765.33,
+      "end": 765.57
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Blevins, a digital historian, wrote a book on the history of the US postal service.",
+      "translation": "一位数字历史学家Blevins写了一本关于美国邮政服务史的书。",
+      "start": 765.57,
+      "end": 771.55
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "He used data science to analyze historical trends.",
+      "translation": "他利用数据科学分析历史趋势。",
+      "start": 772.2,
+      "end": 776.5
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Most strikingly, he built an accompanying website, complete with interactive maps.",
+      "translation": "最引人注目的是,他建立了一个附有交互式地图的网站。",
+      "start": 777.34,
+      "end": 783.54
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They show readers how, within a generation, the postal service helped colonize a continent.",
+      "translation": "他们向读者展示了在一代人之内 邮政服务如何帮助殖民大陆",
+      "start": 784.66,
+      "end": 791.32
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "These online interactive maps illustrate the formative power of snail mail.",
+      "translation": "这些在线互动地图说明了蜗牛邮件的形成力。",
+      "start": 792.62,
+      "end": 798.06
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions 12 to 15 are based on the passage you have just heard.",
+      "translation": "问题12至15是根据你们刚才听到的段落提出的。",
+      "start": 799.37,
+      "end": 803.75
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 12.",
+      "translation": "问题12。",
+      "start": 804.77,
+      "end": 805.55
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "does the passage say about Colorado before it became a state?",
+      "translation": "在科罗拉多成为州之前, 传言里有提到科罗拉多吗?",
+      "start": 806.29,
+      "end": 810.15
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 13.",
+      "translation": "问题13。",
+      "start": 823.85,
+      "end": 824.77
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "How did the Postal Service contribute to America's westward expansion?",
+      "translation": "邮政局如何为美国的西向扩张作出贡献?",
+      "start": 825.45,
+      "end": 829.81
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 14.",
+      "translation": "问题14。",
+      "start": 843.67,
+      "end": 844.73
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What did the federal government do to meet the increasing demand for the Postal Service in the west?",
+      "translation": "联邦政府为满足西部对邮政局日益增长的需求做了哪些工作?",
+      "start": 845.27,
+      "end": 851.19
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "15.",
+      "translation": "15. 15个",
+      "start": 865.35,
+      "end": 865.87
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What did Mr.",
+      "translation": "是什么 先生。 。 。",
+      "start": 866.46,
+      "end": 867.3
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Belvins do to study the history of the U.S.",
+      "translation": "贝尔文斯研究美国的历史",
+      "start": 867.58,
+      "end": 870.46
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Service?",
+      "translation": "服务?",
+      "start": 870.76,
+      "end": 871.52
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Section C.",
+      "translation": "C节。",
+      "start": 885.05,
+      "end": 885.95
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In this section you will hear three recordings of lectures or talks, followed by three or four questions.",
+      "translation": "在本节中,你们将听取三场讲座或会谈录音,然后是三四个问题。",
+      "start": 888.05,
+      "end": 894.57
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The recordings will be played only once.",
+      "translation": "录音只播放一次。",
+      "start": 895.43,
+      "end": 897.57
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "you hear a question, you must choose the best answer from the four choices marked A, B, C and D.",
+      "translation": "听到一个问题,你必须从四个选择中选择最好的答案 四个选择标注A、B、C和D",
+      "start": 898.77,
+      "end": 905.15
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Then mark the corresponding letter and answer sheet one with a single line through",
+      "translation": "然后用单行通过",
+      "start": 905.53,
+      "end": 909.67
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "the",
+      "translation": "排",
+      "start": 910.66,
+      "end": 913.933
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In last week's lecture, we discussed reasons why people forget things.",
+      "translation": "在上周的讲座中，我们讨论了人们遗忘事物的原因。",
+      "start": 913.933,
+      "end": 918.458,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This week, we will discuss a surprising reason why we might remember some things—anxiety.",
+      "translation": "本周，我们将讨论一个令人惊讶的、可能使我们记住某些事物的原因——焦虑。",
+      "start": 918.458,
+      "end": 924.218,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Think about something as simple as buying a coffee.",
+      "translation": "想一想像买咖啡这样简单的事情。",
+      "start": 924.218,
+      "end": 927.921,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That may not seem like an experience that would make a deep impression on your memory, but anxiety could change that.",
+      "translation": "这似乎不太像是一种会在记忆中留下深刻印象的经历，但焦虑可能会改变这一点。",
+      "start": 927.921,
+      "end": 936.56,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In fact, a new study suggests that people with higher anxiety levels might remember certain information better than people with lower anxiety levels.",
+      "translation": "事实上，一项新的研究表明，焦虑程度较高的人可能比焦虑程度较低的人更能记住某些信息。",
+      "start": 936.56,
+      "end": 947.16,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That's because higher levels of anxiety may make people more susceptible to negative feelings, putting them in a more negative state of mind.",
+      "translation": "这是因为较高程度的焦虑可能使人更容易受到负面情绪的影响，使他们处于更加消极的心理状态。",
+      "start": 948.12,
+      "end": 957.48,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That in turn may make them able to better remember some events.",
+      "translation": "这反过来可能使他们能够更好地记住某些事件。",
+      "start": 958.52,
+      "end": 962.28,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Let's take a closer look at that new study now.",
+      "translation": "现在让我们更仔细地了解一下这项新研究。",
+      "start": 963.77,
+      "end": 966.19,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In the study, the researchers started by giving 80 undergraduate students an anxiety test.",
+      "translation": "在这项研究中，研究人员首先让80名本科生接受焦虑测试。",
+      "start": 966.92,
+      "end": 973.16,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The test measured the participants' anxiety levels over the preceding two weeks.",
+      "translation": "该测试测量了参与者在此前两周内的焦虑程度。",
+      "start": 974.04,
+      "end": 978.34,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Then, to test memory, the participants were shown a series of neutral words, one at a time.",
+      "translation": "随后，为了测试记忆力，研究人员让参与者逐一观看一系列中性词语。",
+      "start": 979.76,
+      "end": 986.06,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Some of the words were printed on to photos of negative scenes, meaning images that could affect their emotions negatively, such as a photo of a car accident or a cemetery.",
+      "translation": "其中一些词语印在负面场景的照片上，也就是可能对他们的情绪产生负面影响的图像上，例如车祸或墓地的照片。",
+      "start": 987.13,
+      "end": 998.49,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The rest of the words were printed on to photos of neutral scenes, such as a photo of a lake or trees.",
+      "translation": "其余词语则印在中性场景的照片上，例如湖泊或树木的照片。",
+      "start": 999.37,
+      "end": 1005.87,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Neutral words included words like \"table\" or \"desk\" that don't elicit emotion.",
+      "translation": "中性词语包括“桌子”或“书桌”之类不会引发情绪的词语。",
+      "start": 1007.06,
+      "end": 1012.56,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Later, the participants were asked to think back to the words they were shown earlier, which caused them to reenter either a negative or a neutral mindset.",
+      "translation": "之后，研究人员要求参与者回想刚才看到的词语，这使他们重新进入消极或中性的心理状态。",
+      "start": 1014.01,
+      "end": 1023.05,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The participants were then presented with another set of neutral words, and their memory of these new words was tested.",
+      "translation": "然后，研究人员向参与者展示另一组中性词语，并测试他们对这些新词语的记忆。",
+      "start": 1024.07,
+      "end": 1031.21,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The researchers found that the new words presented to people in a negative mindset were better remembered by people with higher levels of anxiety than those with lower levels of anxiety.",
+      "translation": "研究人员发现，对于处于消极心理状态的人，新呈现的词语中，焦虑程度较高的人比焦虑程度较低的人记得更好。",
+      "start": 1032.4,
+      "end": 1043.62,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In other words, when highly anxious individuals took in otherwise emotionally neutral information that was presented to them, it became colored by their negative mindset, making them remember the information better.",
+      "translation": "换句话说，高度焦虑的人接收到原本在情感上中性的信息时，这些信息会受到其消极心理状态的影响，从而使他们更好地记住这些信息。",
+      "start": 1044.62,
+      "end": 1058.2,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But these same effects were not seen in people with low levels of anxiety.",
+      "translation": "但在焦虑程度较低的人身上并未观察到同样的效果。",
+      "start": 1059.12,
+      "end": 1063.2,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Previous studies have found that extreme levels of anxiety, such as those experienced by people diagnosed with an anxiety disorder, can be quite detrimental to memory and cognitive performance.",
+      "translation": "先前的研究发现，极高程度的焦虑，例如被诊断患有焦虑障碍的人所经历的焦虑，可能会严重损害记忆力和认知表现。",
+      "start": 1064.17,
+      "end": 1076.43,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But the highly anxious people in this study represent individuals who are managing their anxiety and for whom anxiety is not a serious problem.",
+      "translation": "但这项研究中的高度焦虑者代表的是那些能够管理自己的焦虑、且焦虑并非严重问题的人。",
+      "start": 1077.58,
+      "end": 1086.88,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What do we learn from previous studies about anxiety?",
+      "translation": "我们从以往关于焦虑的研究中学到什么?",
+      "start": 1131.56,
+      "end": 1135.14
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Recording to.",
+      "translation": "记录。",
+      "start": 1148.93,
+      "end": 1149.67
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Over the past 20 years, the internet has gradually become a dominant feature of our lives.",
+      "translation": "在过去20年里，互联网逐渐成为我们生活中的主导因素。",
+      "start": 1150.78,
+      "end": 1156.28,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It has changed how we communicate with each other, and it has definitely transformed the way we do business with each other.",
+      "translation": "它改变了我们彼此沟通的方式，也确实改变了我们彼此开展业务的方式。",
+      "start": 1157.02,
+      "end": 1163.76,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Marketing has also changed in a number of ways.",
+      "translation": "营销也在许多方面发生了变化。",
+      "start": 1164.54,
+      "end": 1167.3,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "For instance, in the past, consumers had to call a phone number and patiently wait on hold, in order to get the information they wanted.",
+      "translation": "例如，过去，消费者必须拨打一个电话号码，并耐心等待接通，才能获得他们想要的信息。",
+      "start": 1168.6,
+      "end": 1176.85,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Today, they want the information immediately.",
+      "translation": "如今，他们希望立即获得信息。",
+      "start": 1177.7,
+      "end": 1180.12,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They'll go to the company's social media page and post comments and questions, expecting to receive an immediate response.",
+      "translation": "他们会前往公司的社交媒体页面，发布评论和问题，并期待立即得到回应。",
+      "start": 1181.22,
+      "end": 1188.28,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "If they don't get their questions answered soon, they'll move on to another company that will answer them quickly.",
+      "translation": "如果他们的问题很快得不到解答，就会转而选择另一家能够迅速回答他们问题的公司。",
+      "start": 1189.16,
+      "end": 1196.12,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Marketing departments today need to follow technological development.",
+      "translation": "营销部门今天需要关注技术发展。",
+      "start": 1197.23,
+      "end": 1201.27
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "For example, this year's smartphone is smarter than last year's; self-driving cars are now on the road.",
+      "translation": "例如,今年的智能手机比去年更聪明;自驾车现在正在路上。",
+      "start": 1202.15,
+      "end": 1209.39
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Marketers have to do research on which technologies are coming into being.",
+      "translation": "销售商必须研究哪些技术正在产生。",
+      "start": 1210.15,
+      "end": 1214.99
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Otherwise, they risk being left behind in the virtual dust.",
+      "translation": "否则,他们就有可能被留在虚拟尘埃中。",
+      "start": 1215.59,
+      "end": 1219.25
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Marketing has also changed due to the importance of video.",
+      "translation": "由于视频的重要性,营销也发生了变化。",
+      "start": 1220.65,
+      "end": 1224.35
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "People don't just want to read text; they want to watch things happening.",
+      "translation": "人们不想只看文字; 他们想看事情发生。",
+      "start": 1225.0,
+      "end": 1229.98
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Companies now have to explore how they can use video on a consistent basis to share information about their businesses.",
+      "translation": "公司现在必须探索如何持续使用视频分享企业信息。",
+      "start": 1230.46,
+      "end": 1238.52
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Fortunately, it's extremely easy to shoot something these days.",
+      "translation": "幸运的是,现在拍摄的东西很容易",
+      "start": 1239.61,
+      "end": 1243.63
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "All you need is a smartphone.",
+      "translation": "你只需要一个智能手机",
+      "start": 1244.37,
+      "end": 1245.85
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But what's the result of all this?",
+      "translation": "但这一切带来了什么结果呢？",
+      "start": 1247.44,
+      "end": 1249.1,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Shorter attention spans.",
+      "translation": "注意力持续时间变短了。",
+      "start": 1250.26,
+      "end": 1251.72,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We aren't the same people that we were 20 years ago.",
+      "translation": "我们已经不是20年前的那群人了。",
+      "start": 1252.49,
+      "end": 1256.11,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Not only have we grown accustomed to getting the information we want instantaneously, our attention spans are much shorter.",
+      "translation": "我们不仅已经习惯于即时获得想要的信息，注意力持续时间也短得多了。",
+      "start": 1256.99,
+      "end": 1265.65,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "If something doesn't capture our attention within a few seconds, we're on to the next piece of content.",
+      "translation": "如果某件事在几秒钟内无法吸引我们的注意力，我们就会转向下一条内容。",
+      "start": 1266.74,
+      "end": 1272.64,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Marketers need to figure out ways to speak directly to the customers' emotions, and they need to figure out how to do that as quickly as possible.",
+      "translation": "营销人员需要想办法直接与客户的情感沟通，也需要想办法尽快做到这一点。",
+      "start": 1273.81,
+      "end": 1284.12,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Once people are emotionally engaged, they'll stick with you.",
+      "translation": "一旦人们在情感上投入其中，他们就会一直关注你。",
+      "start": 1285.24,
+      "end": 1288.64,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "If marketing has changed this much in the past 20 years, imagine what the next 20 years will bring.",
+      "translation": "如果营销在过去20年里发生了如此大的变化，想象一下未来20年会带来什么。",
+      "start": 1289.92,
+      "end": 1296.7,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In a recent survey, only 9% of marketers could say with confidence that their marketing efforts were actually working.",
+      "translation": "在最近的一项调查中，只有9%的营销人员能够自信地说，他们的营销工作确实奏效了。",
+      "start": 1297.51,
+      "end": 1306.35,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Their confidence is being shaken, because the rules of the game change every year.",
+      "translation": "他们的信心正在受到动摇，因为游戏规则每年都在变化。",
+      "start": 1307.19,
+      "end": 1313.65,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That's why it's important for marketers to pay attention to the latest technological developments and consider collaborating with technological innovators.",
+      "translation": "这就是营销人员关注最新技术发展并考虑与技术创新者合作十分重要的原因。",
+      "start": 1314.31,
+      "end": 1323.99,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That way, they'll be moving at the same pace as the tech industry.",
+      "translation": "这样一来，他们就能与科技行业保持同样的步调。",
+      "start": 1324.47,
+      "end": 1328.75,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions 19 to 21 are based on the recording you have just heard.",
+      "translation": "问题19至21是基于你刚才听到的录音",
+      "start": 1329.75,
+      "end": 1334.57
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 19.",
+      "translation": "问题19。",
+      "start": 1335.51,
+      "end": 1336.29
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the speaker say about today's consumers?",
+      "translation": "发言者对今天的消费者说了什么?",
+      "start": 1336.94,
+      "end": 1339.54
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 20.",
+      "translation": "问题20。",
+      "start": 1353.38,
+      "end": 1354.24
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "How do marketers capture consumers' attention as quickly as possible?",
+      "translation": "销售商如何尽快吸引消费者的注意力?",
+      "start": 1355.18,
+      "end": 1359.18
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 21.",
+      "translation": "问题21",
+      "start": 1372.98,
+      "end": 1373.92
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the speaker suggest marketers do to meet future challenges?",
+      "translation": "发言者建议市场家如何应对未来的挑战?",
+      "start": 1374.52,
+      "end": 1378.8
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Recording 3.",
+      "translation": "记录3。",
+      "start": 1392.69,
+      "end": 1393.43
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You might be surprised to learn that the benefits of friendships extend beyond people's social life and into their work, which is interesting.",
+      "translation": "你可能会惊讶地得知,友谊的好处超越了人们的社会生活和他们的工作,这很有趣。",
+      "start": 1394.79,
+      "end": 1403.89
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Just last week, I was remarking to a colleague that I'm content with only one social engagement per week.",
+      "translation": "就在上周,我向一位同事说,我对每周只参与一次社交活动感到满意。",
+      "start": 1414.0,
+      "end": 1420.18
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But according to recent research, that's evidently not enough.",
+      "translation": "但根据最近的研究 这显然还不够",
+      "start": 1420.92,
+      "end": 1424.98
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In an initial study of more than 700 respondents, scholars from an American university analyzed the impact that friends, as opposed to family, have on self-esteem and well-being.",
+      "translation": "在一项对700多名受访者进行的初步研究中，一所美国大学的学者分析了朋友相较于家人对自尊和幸福感的影响。",
+      "start": 1426.56,
+      "end": 1439.47,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Friends came out substantially on top.",
+      "translation": "结果显示，朋友的影响明显更大。",
+      "start": 1439.47,
+      "end": 1441.95,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That's because to be someone's mate is a voluntary act, unlike family who people rarely get to choose.",
+      "translation": "这是因为，成为某人的朋友是一种自愿行为，而家人通常并不是人们可以选择的。",
+      "start": 1442.77,
+      "end": 1449.49,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The researchers found that when people choose to cultivate and maintain supportive friendships with an individual, it means that the person is valued and worthy of their limited time.",
+      "translation": "研究人员发现，当人们选择与某个人培养并维持相互支持的友谊时，这意味着那个人受到重视，值得人们投入有限的时间。",
+      "start": 1450.39,
+      "end": 1460.91,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Such sentiments of value and worthiness boost our self-esteem.",
+      "translation": "这种受到重视和认可的感受会提升我们的自尊。",
+      "start": 1461.5,
+      "end": 1467.13,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The second study comprised more than 300 participants.",
+      "translation": "第二项研究有300多名参与者。",
+      "start": 1467.13,
+      "end": 1470.63
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It proved that the better we feel about ourselves, the more likely we'll perform our job confidently and competently.",
+      "translation": "它证明,我们对自己的感觉越好, 我们就越有可能自信和胜任地完成工作。",
+      "start": 1471.65,
+      "end": 1478.41
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This follow-up study found that non-work friends even improve people's job satisfaction.",
+      "translation": "这项后续研究发现,非工作朋友甚至提高了人们的工作满意度。",
+      "start": 1479.29,
+      "end": 1484.87
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They have as much of an impact on how much they love their jobs as do the friends they have at work, despite not actually being at our place of work.",
+      "translation": "他们对他们的工作有多爱和他们工作上的朋友一样有影响,尽管他们实际上不在我们工作的地方。",
+      "start": 1485.83,
+      "end": 1495.2
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "These types of friends tend to be our preferred outlet for venting about work-related matters.",
+      "translation": "这些类型的朋友往往是我们更喜欢的外出渠道,可以就与工作有关的事项进行排泄。",
+      "start": 1496.13,
+      "end": 1502.03
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This is an avenue that may not be available at the office.",
+      "translation": "这是办公室可能无法利用的一个渠道。",
+      "start": 1502.81,
+      "end": 1506.43
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So even though friendships can be easy to neglect when confronted by pressures at work, or even pressures at home, neglecting our friends can turn out to be harmful and counterproductive.",
+      "translation": "因此，尽管在工作压力甚至家庭压力面前，友谊很容易被忽视，但忽视朋友最终可能会带来伤害，并产生适得其反的效果。",
+      "start": 1507.89,
+      "end": 1519.13,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That's why, when determining how to create a better work-life balance, we need to consider not only how to balance work and family demands, but also how to cultivate and sustain supportive friendships.",
+      "translation": "这就是为什么，在确定如何实现更好的工作与生活平衡时，我们不仅需要考虑如何平衡工作和家庭的要求，还需要考虑如何培养并维持相互支持的友谊。",
+      "start": 1520.74,
+      "end": 1534.52,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's for this reason that managers should never discriminate when it comes to requests from employees for flexible work arrangements.",
+      "translation": "正因如此，管理者在员工提出弹性工作安排请求时，绝不应区别对待。",
+      "start": 1535.62,
+      "end": 1543.04,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's irrelevant whether their need for a desired schedule is due to, say, parenting responsibilities, or a craving to hang out with a best mate.",
+      "translation": "无论他们希望采用某种工作时间安排是因为需要承担育儿责任，还是因为想与最要好的朋友出去相聚，这都无关紧要。",
+      "start": 1543.88,
+      "end": 1553.54,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What matters is the opportunity to engage in a nourishing activity outside of work.",
+      "translation": "重要的是，他们有机会参与工作之外有益身心的活动。",
+      "start": 1554.4,
+      "end": 1559.54,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That will definitely have a follow-on effect at work.",
+      "translation": "这肯定会对工作产生后续影响。",
+      "start": 1560.47,
+      "end": 1563.43,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What did researchers from an American university analyze in their initial study?",
+      "translation": "美国一所大学的研究人员在初步研究中分析什么?",
+      "start": 1590.61,
+      "end": 1596.21
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 24.",
+      "translation": "问题24。",
+      "start": 1609.71,
+      "end": 1610.75
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What did the second study find about non-work friends?",
+      "translation": "第二项研究对非工作朋友有何发现?",
+      "start": 1611.87,
+      "end": 1616.25
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 25.",
+      "translation": "问题25。",
+      "start": 1630.04,
+      "end": 1631.32
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the speaker suggest managers do?",
+      "translation": "发言者建议管理人员做什么?",
+      "start": 1632.16,
+      "end": 1635.5
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That's the end of listening comprehension.",
+      "translation": "听觉理解到此结束",
+      "start": 1648.95,
+      "end": 1651.09
+    }
+  ],
+  "translation_sources": [
+    "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/",
+    "Sams200/opus-mt-en-zh (unmatched sentences only)"
+  ]
+}

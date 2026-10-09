@@ -1,0 +1,1716 @@
+{
+  "id": "cet4-2022_06_1",
+  "title": "2022年6月 第1套",
+  "level": 4,
+  "source_url": "https://www.cettong.cn/library/cet4/2022_06_1",
+  "material_source": "https://117.72.200.49/#/library",
+  "audio": "assets/tavern/listening/real-exams/cettong/cet4/2022/2022_06_1.exampace-playback.mp3",
+  "caption_kind": "published_material_with_auxiliary_timing_and_translation",
+  "caption_models": [
+    "Systran/faster-whisper-base.en",
+    "Sams200/opus-mt-en-zh"
+  ],
+  "lines": [
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "A new study finds that beverages containing added sugar might be harmful.",
+      "translation": "一项新研究发现，含添加糖的饮料可能有害健康。",
+      "start": 40.9,
+      "end": 45.82,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In the study, researchers analyzed information from over 80,000 women and 37,000 men.",
+      "translation": "在该研究中，研究人员分析了超过8万名女性和3.7万名男性的信息。",
+      "start": 46.8,
+      "end": 53.9,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Participants worked in the health profession.",
+      "translation": "参与者从事健康专业工作。",
+      "start": 54.6,
+      "end": 56.66,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They were followed for approximately three decades.",
+      "translation": "他们被跟踪随访了约三十年。",
+      "start": 57.58,
+      "end": 60.32,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They completed surveys about their diet every four years.",
+      "translation": "他们每四年完成一次关于饮食的调查。",
+      "start": 61.04,
+      "end": 64.94,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They also answered questions about sleep and exercise and health every two years.",
+      "translation": "他们还每两年回答关于睡眠、运动和健康的问题。",
+      "start": 65.66,
+      "end": 71.52,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The more beverages containing added sugar that people drank, the greater their risk of death was during the study period.",
+      "translation": "人们饮用的含添加糖饮料越多，他们在研究期间的死亡风险就越大。",
+      "start": 72.41,
+      "end": 79.59,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "These beverages included soda, energy drinks and sports drinks.",
+      "translation": "这些饮料包括苏打水、能量饮料和运动饮料。",
+      "start": 80.61,
+      "end": 85.01,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Beverages like pure fruit juice which are sweet but do not contain added sugar were not part of the study.",
+      "translation": "像纯果汁这样味甜但不含添加糖的饮料不在本研究范围内。",
+      "start": 85.69,
+      "end": 93.15,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The findings held even after the researchers considered other factors that could affect people's health.",
+      "translation": "即使在研究人员考虑了其他可能影响人们健康的因素后，这些发现仍然成立。",
+      "start": 94.22,
+      "end": 100.26,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "These factors included lack of exercise and not eating enough vegetables.",
+      "translation": "这些因素包括缺乏运动和蔬菜摄入不足。",
+      "start": 101.2,
+      "end": 106.0,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They also included consuming too much meat.",
+      "translation": "它们还包括肉类摄入过多。",
+      "start": 106.96,
+      "end": 109.98,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The scientists say that their results support limiting beverages with added sugar.",
+      "translation": "科学家们表示，他们的研究结果支持限制含添加糖的饮料。",
+      "start": 110.89,
+      "end": 116.13,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They argue we should replace them with other drinks, with water being the best choice.",
+      "translation": "他们主张我们应该用其他饮料代替它们，其中水是最佳选择。",
+      "start": 116.85,
+      "end": 122.03,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "However, the researchers admit this is simply their recommendation.",
+      "translation": "然而，研究人员承认这只是他们的建议。",
+      "start": 122.77,
+      "end": 126.57,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The study found only an association: It did not prove that drinks with added sugar cause early death.",
+      "translation": "该研究仅发现了一种关联：它并未证明含添加糖的饮料会导致过早死亡。",
+      "start": 127.67,
+      "end": 134.63,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 1.",
+      "translation": "问题1",
+      "start": 141.61,
+      "end": 142.59
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What do we learn about the new study from the news report?",
+      "translation": "我们从新闻报道中了解到什么新研究?",
+      "start": 143.39,
+      "end": 146.79
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 2.",
+      "translation": "问题2",
+      "start": 160.66,
+      "end": 161.4
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What is the scientists' recommendation?",
+      "translation": "科学家们有什么建议?",
+      "start": 162.25,
+      "end": 163.99
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "News report 2.",
+      "translation": "《新闻报告2》。",
+      "start": 178.26,
+      "end": 179.3
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "German police appealed Friday for information about the possible owners of two 17th century oil paintings.",
+      "translation": "德国警方周五呼吁民众提供有关两幅17世纪油画可能所有者的信息。",
+      "start": 180.73,
+      "end": 188.13,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Police said a 64-year-old man found the paintings in a garbage pile at a highway rest stop last month.",
+      "translation": "警方表示,一名64岁男子上个月在高速公路休息站的垃圾堆中发现了这些画作。",
+      "start": 189.72,
+      "end": 197.14,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "He later handed them in to the Cologne police.",
+      "translation": "他后来将它们交给了科隆警方。",
+      "start": 197.93,
+      "end": 200.59,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "An initial assessment by an art expert concluded the two framed paintings were originals, police said.",
+      "translation": "警方称,一位艺术专家的初步评估认定这两幅带框画作是原作。",
+      "start": 201.77,
+      "end": 208.57,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "One is a landscape painted by the Italian artist Pietro Bellotti dating to 1665.",
+      "translation": "其中一幅是意大利艺术家Pietro Bellotti于1665年创作的风景画。",
+      "start": 209.63,
+      "end": 215.67,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The other is a painting of a boy by the 17th-century Dutch artist Samuel van Hoogstraten, date unknown.",
+      "translation": "另一幅是17世纪荷兰艺术家Samuel van Hoogstraten创作的男孩肖像画,创作日期不详。",
+      "start": 217.22,
+      "end": 224.52,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Their combined worth is estimated to be around one million euros.",
+      "translation": "两幅画的总价值估计约为一百万欧元。",
+      "start": 225.36,
+      "end": 229.32,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Authorities have not yet confirmed what will happen if the rightful owner is not found.",
+      "translation": "当局尚未确认如果找不到合法所有者将如何处理。",
+      "start": 230.31,
+      "end": 234.91,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Nevertheless, it is speculated that they could either be handed over to the National Art Museum of Cologne or sold to the public by the local government.",
+      "translation": "不过,有人推测这些画作可能会被移交给科隆国家美术馆,或由地方政府向公众出售。",
+      "start": 235.69,
+      "end": 244.73,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What did German police say about a 64-year-old man?",
+      "translation": "德国警方怎么说一个64岁的男人?",
+      "start": 254.25,
+      "end": 258.47
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 4.",
+      "translation": "问题4",
+      "start": 272.42,
+      "end": 273.26
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "is the art expert's conclusion about the two framed paintings?",
+      "translation": "艺术专家关于那两幅画的结论吗?",
+      "start": 274.64,
+      "end": 278.66
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "News report 3.",
+      "translation": "《新闻报告3》。",
+      "start": 292.79,
+      "end": 293.91
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "A four-year-old girl has walked eight kilometers through a snowy forest to seek help for her sick grandmother who later died of a heart attack.",
+      "translation": "一名四岁女孩在雪林中走过八公里,",
+      "start": 295.97,
+      "end": 305.25
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The young girl braved the threat of bears, wolves and temperatures far below freezing.",
+      "translation": "年轻女孩勇敢地面对熊、狼群和温度的威胁,",
+      "start": 305.82,
+      "end": 311.62
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "She made the journey through a remote region in Siberia after waking up to find her grandmother motionless.",
+      "translation": "她醒来发现祖母无动于衷,",
+      "start": 312.54,
+      "end": 319.54
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Named locally as Karla, she lives alone with her elderly grandmother and her blind grandfather.",
+      "translation": "当地称她为Karla，她独自与年迈的祖母和失明的祖父生活在一起。",
+      "start": 320.35,
+      "end": 327.61,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "As a result, the girl's mother is facing a criminal case.",
+      "translation": "因此，女孩的母亲面临刑事诉讼。",
+      "start": 328.32,
+      "end": 332.3,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "She stands accused of leaving a minor in danger in the care of the elderly.",
+      "translation": "她被指控将未成年人置于危险之中，交由老年人照顾。",
+      "start": 332.78,
+      "end": 338.18,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "She also faces investigation from childcare services, who will also be asking why Karla was left alone with her vulnerable relatives.",
+      "translation": "她还面临儿童保育服务部门的调查，该部门也将询问为何让Karla独自与她脆弱的亲属待在一起。",
+      "start": 339.2,
+      "end": 348.72,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The journey took place in February when temperatures average negative 26 degrees Celsius.",
+      "translation": "这段旅程发生在二月，当时平均气温为零下26摄氏度。",
+      "start": 349.7,
+      "end": 356.0,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Russian reports on social media suggest the forest may have been as cold as negative 34 degrees Celsius.",
+      "translation": "俄罗斯社交媒体报道称，森林中的温度可能低至零下34摄氏度。",
+      "start": 356.53,
+      "end": 364.33,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The journey was only recently confirmed by authorities.",
+      "translation": "这段旅程直到最近才得到当局确认。",
+      "start": 365.27,
+      "end": 368.27,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But though she was suffering from the effects of extreme cold, the child reportedly suffered no life-threatening effects.",
+      "translation": "尽管她遭受了极寒的影响,但据报道这名儿童没有出现危及生命的症状。",
+      "start": 369.29,
+      "end": 376.67,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Last year, a three-year-old boy survived alone for three days in a remote forest in the same region.",
+      "translation": "去年，一名三岁男孩在同一地区的偏远森林中独自生存了三天。",
+      "start": 377.61,
+      "end": 384.51,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions 5-7 are based on the news report you have just heard.",
+      "translation": "问题5 -7基于你刚刚听到的新闻报导",
+      "start": 385.81,
+      "end": 390.73
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 5.",
+      "translation": "问题5",
+      "start": 391.83,
+      "end": 392.49
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What did the 4-year-old girl attempt to do?",
+      "translation": "那个4岁女孩想干什么?",
+      "start": 393.51,
+      "end": 396.47
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 6.",
+      "translation": "问题6",
+      "start": 410.17,
+      "end": 411.03
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What do we learn from the news report about the girl's mother?",
+      "translation": "我们从关于女孩母亲的新闻报道中了解到什么?",
+      "start": 412.02,
+      "end": 415.76
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 7.",
+      "translation": "问题7",
+      "start": 429.55,
+      "end": 430.37
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What happened to the little girl according to the news report?",
+      "translation": "新闻报道里说那个小女孩怎么了?",
+      "start": 430.98,
+      "end": 435.0
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "two long conversations.",
+      "translation": "两段长长的谈话。",
+      "start": 454.46,
+      "end": 455.8
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "At the end of each conversation,",
+      "translation": "每次谈话结束时",
+      "start": 456.98,
+      "end": 458.4
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "you will hear four questions.",
+      "translation": "你会听到四个问题。",
+      "start": 459.12,
+      "end": 460.94
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Both the conversation and the questions will be spoken only once.",
+      "translation": "谈话和问题只谈一次",
+      "start": 461.84,
+      "end": 466.42
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "After you hear a question, you must choose the best answer from the four choices, marked A, B, C, and D.",
+      "translation": "在听到一个问题后,你必须从四个选择中选择最好的答案,即A、B、C和D。",
+      "start": 467.31,
+      "end": 475.89
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "mark the corresponding letter on answer sheet one, with a single line through the center.",
+      "translation": "在答题表一中标出相应的字母,在中间线上标出单行。",
+      "start": 476.95,
+      "end": 482.69
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "conversation one I've",
+      "translation": "和我聊天过",
+      "start": 484.39,
+      "end": 486.87
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I've made a new friend recently.",
+      "translation": "我最近交了个新朋友。",
+      "start": 487.4,
+      "end": 489.16,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Her name is Susan and she's from South Africa.",
+      "translation": "她叫Susan，来自南非。",
+      "start": 489.16,
+      "end": 492.48,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "How did you meet her?",
+      "translation": "你们怎么认识的？",
+      "start": 492.48,
+      "end": 494.48,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We met over WeChat.",
+      "translation": "我们在微信上认识的。",
+      "start": 494.88,
+      "end": 496.92,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "She has very cool photos on her social media.",
+      "translation": "她社交媒体上的照片很酷。",
+      "start": 496.92,
+      "end": 499.76,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The photos of her hometown look amazing.",
+      "translation": "她家乡的照片看起来棒极了。",
+      "start": 499.76,
+      "end": 502.96,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What's her hometown called?",
+      "translation": "她家乡叫什么？",
+      "start": 503.02,
+      "end": 505.58,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's called Cape Town.",
+      "translation": "叫开普敦。",
+      "start": 506.12,
+      "end": 507.78,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's in the southwest of South Africa.",
+      "translation": "在南非西南部。",
+      "start": 507.78,
+      "end": 511.16,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "She says it's very green and windy.",
+      "translation": "她说那里很绿，风很大。",
+      "start": 511.16,
+      "end": 514.78,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The city was built by European settlers.",
+      "translation": "这座城市是欧洲殖民者建的。",
+      "start": 515.08,
+      "end": 517.88,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And there's a big mountain that overlooks the city.",
+      "translation": "还有一座大山俯瞰着这座城市。",
+      "start": 518.64,
+      "end": 521.86,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The mountain is called Table Mountain because it's flat at the top.",
+      "translation": "这座山叫桌山，因为它顶部是平的。",
+      "start": 522.62,
+      "end": 527.74,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That sounds interesting.",
+      "translation": "听起来很有意思。",
+      "start": 528.54,
+      "end": 529.64,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What are the people there like?",
+      "translation": "那里的人怎么样？",
+      "start": 530.62,
+      "end": 531.88,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Well, Susan says South Africa is very mixed.",
+      "translation": "嗯，Susan说南非种族很多元。",
+      "start": 532.6,
+      "end": 536.58,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "There are black people and white people and Indian people.",
+      "translation": "有黑人、白人和印度人。",
+      "start": 537.44,
+      "end": 541.76,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Susan is white.",
+      "translation": "Susan是白人。",
+      "start": 542.44,
+      "end": 543.38,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "She says her ancestors were from Britain.",
+      "translation": "她说她的祖先来自英国。",
+      "start": 543.82,
+      "end": 546.38,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Many languages are spoken in South Africa, but she only speaks English.",
+      "translation": "南非说很多种语言，但她只说英语。",
+      "start": 547.16,
+      "end": 552.06,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Didn't South Africa host the Football World Cup a few years ago?",
+      "translation": "南非不是几年前举办过足球世界杯吗？",
+      "start": 552.86,
+      "end": 556.7,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They must play football a lot then, right?",
+      "translation": "那他们一定很常踢足球吧？",
+      "start": 557.36,
+      "end": 559.72,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I think they play football, but it's not as popular as rugby.",
+      "translation": "我想他们踢足球，但没有橄榄球那么流行。",
+      "start": 560.3,
+      "end": 564.38,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Rugby?",
+      "translation": "橄榄球？",
+      "start": 565.1,
+      "end": 565.3,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What's rugby?",
+      "translation": "橄榄球是什么？",
+      "start": 566.02,
+      "end": 566.74,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Rugby is a sport with two teams and the players carry the ball in their arms and throw it at each other.",
+      "translation": "橄榄球是一项两队对抗的运动，球员用手臂抱着球互相传递。",
+      "start": 567.42,
+      "end": 574.64,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The ball is not round and the players push each other.",
+      "translation": "球不是圆的，球员之间会互相推搡。",
+      "start": 575.34,
+      "end": 578.82,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I don't really understand the rules.",
+      "translation": "我不太懂规则。",
+      "start": 579.46,
+      "end": 581.36,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I think it's very complicated.",
+      "translation": "我觉得挺复杂的。",
+      "start": 582.06,
+      "end": 583.6,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That sounds like a very strange sport indeed.",
+      "translation": "听起来确实是项很奇怪的运动。",
+      "start": 584.44,
+      "end": 587.26,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Is it only South Africa that plays it?",
+      "translation": "只有南非玩这个吗？",
+      "start": 588.28,
+      "end": 590.32,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "No, it's also popular in Britain and in other former British colonies like Australia and New Zealand.",
+      "translation": "不是，在英国和其他前英国殖民地像澳大利亚、新西兰也很流行。",
+      "start": 590.91,
+      "end": 598.81,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the woman say about rugby in South Africa?",
+      "translation": "在南非橄榄球方面,她怎么说?",
+      "start": 666.6,
+      "end": 670.66
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Conversation two.",
+      "translation": "对话二",
+      "start": 684.33,
+      "end": 685.65
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Hi, Jennifer.",
+      "translation": "嗨，Jennifer。",
+      "start": 687.39,
+      "end": 688.25,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'm really struggling with this semester's workload.",
+      "translation": "我这学期的课业负担真的让我很吃力。",
+      "start": 689.15,
+      "end": 691.79,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Do you have any advice?",
+      "translation": "你有什么建议吗？",
+      "start": 692.87,
+      "end": 693.99,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Have you considered making a study guide?",
+      "translation": "你考虑过做一个学习指南吗？",
+      "start": 694.92,
+      "end": 697.52,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's a tool you can make yourself to take the stress out of studying.",
+      "translation": "这是一个你可以自己制作的工具，能减轻学习压力。",
+      "start": 698.26,
+      "end": 702.5,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I've been using one since the start of last semester, and it has really helped relieve a lot of study pressure.",
+      "translation": "从上学期开始我就一直在用，真的帮我缓解了很多学习压力。",
+      "start": 703.38,
+      "end": 711.17,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Sounds like just what I need.",
+      "translation": "听起来正是我需要的。",
+      "start": 712.07,
+      "end": 714.11,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "My main problem is that my study folder is full of notes and worksheets, and is badly disorganized.",
+      "translation": "我的主要问题是我的学习文件夹里塞满了笔记和作业纸，而且乱七八糟的。",
+      "start": 714.95,
+      "end": 722.45,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I don't know where to start.",
+      "translation": "我都不知道从哪儿开始。",
+      "start": 723.55,
+      "end": 724.89,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Okay.",
+      "translation": "好的。",
+      "start": 725.59,
+      "end": 726.07,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Well, the main thing is to have everything in the right place.",
+      "translation": "嗯，最重要的是把所有东西都放对地方。",
+      "start": 726.37,
+      "end": 731.21,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Whatever you're reviewing, it's important that it's arranged for your particular needs of that subject, and in the most user-friendly way you can.",
+      "translation": "不管你在复习什么，重要的是要按照你对那门科目的特定需求来安排，而且要用你能做到的最方便使用的方式。",
+      "start": 732.05,
+      "end": 741.43,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What kind of learner are you?",
+      "translation": "你是哪种类型的学习者？",
+      "start": 742.41,
+      "end": 744.03,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Um, I'm not sure.",
+      "translation": "嗯，我不太确定。",
+      "start": 744.03,
+      "end": 746.99,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Well, visual learners prefer using images, pictures, colors, and maps to organize information.",
+      "translation": "嗯，视觉型学习者更喜欢用图像、图片、颜色和地图来组织信息。",
+      "start": 747.59,
+      "end": 755.61,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Logical learners have a linear mind and would rather use logic, reasoning and systems.",
+      "translation": "逻辑型学习者有线性思维，更喜欢用逻辑、推理和系统。",
+      "start": 756.47,
+      "end": 763.01,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'm an emotional learner, which means I need to connect to information emotionally to understand it.",
+      "translation": "我是情感型学习者，这意味着我需要在情感上与信息建立联系才能理解它。",
+      "start": 763.98,
+      "end": 770.58,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Oh!",
+      "translation": "哦！",
+      "start": 771.12,
+      "end": 771.7,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'm very much dependent on vision as a way of taking in information.",
+      "translation": "我非常依赖视觉作为接收信息的方式。",
+      "start": 772.16,
+      "end": 776.74,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Well, I suggest reorganizing your notes using color-coded sections in your study guides, or using idea mapping to lay out the information and make it more quickly accessible.",
+      "translation": "嗯，我建议你在学习指南里用颜色编码的分区来重新组织你的笔记，或者用思维导图来布局信息，让它更快速可查。",
+      "start": 777.59,
+      "end": 791.05,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So you think I should arrange my notes using color and pictures in place of text.",
+      "translation": "所以你认为我应该用颜色和图片代替文字来安排我的笔记。",
+      "start": 791.92,
+      "end": 797.88,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Yes, you'll probably start to grasp information a lot quicker that way.",
+      "translation": "对，这样你可能会更快地掌握信息。",
+      "start": 798.32,
+      "end": 803.68,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "As an emotional learner, I organize my notes into a story that I can connect to and recite to myself.",
+      "translation": "作为情感型学习者，我会把笔记组织成一个我能产生共鸣并能向自己复述的故事。",
+      "start": 804.42,
+      "end": 811.72,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That's amazing.",
+      "translation": "太棒了。",
+      "start": 812.52,
+      "end": 813.4,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I didn't know there were so many different ways to learn.",
+      "translation": "我都不知道原来有这么多不同的学习方式。",
+      "start": 814.38,
+      "end": 817.5,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions 12 to 15.",
+      "translation": "问题12至15。",
+      "start": 818.94,
+      "end": 820.86
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "are based on the conversation you have just heard.",
+      "translation": "是基于你刚才听到的谈话",
+      "start": 821.36,
+      "end": 824.36
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 12.",
+      "translation": "问题12。",
+      "start": 825.92,
+      "end": 826.78
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the woman advise the man do?",
+      "translation": "女人建议男人做什么?",
+      "start": 828.01,
+      "end": 830.05
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 13.",
+      "translation": "问题13。",
+      "start": 844.06,
+      "end": 845.24
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What is the biggest problem the man has with his studies?",
+      "translation": "男人学习的最大问题是什么?",
+      "start": 846.09,
+      "end": 850.61
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 14.",
+      "translation": "问题14。",
+      "start": 864.68,
+      "end": 865.86
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What kind of learner does the woman say she is?",
+      "translation": "那个女人说自己是什么样的学生?",
+      "start": 866.51,
+      "end": 870.57
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 15.",
+      "translation": "问题15。",
+      "start": 884.56,
+      "end": 885.62
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the woman think the man can do with his notes?",
+      "translation": "女人认为男人能拿他的笔记做什么?",
+      "start": 886.63,
+      "end": 890.81
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Section C.",
+      "translation": "C节。",
+      "start": 904.65,
+      "end": 905.87
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Directions.",
+      "translation": "方向",
+      "start": 906.8,
+      "end": 907.24
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In this section, you will hear three passages.",
+      "translation": "在本节中,你们将听到三个段落。",
+      "start": 908.6,
+      "end": 911.42
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "At the end of each passage,",
+      "translation": "在每个通道的尽头",
+      "start": 912.28,
+      "end": 913.8
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "you will hear three or four questions.",
+      "translation": "你会听到三四个问题。",
+      "start": 914.46,
+      "end": 916.84
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Both the passage and the questions will be spoken only once.",
+      "translation": "发言的通过和提问将只讲一次。",
+      "start": 917.84,
+      "end": 922.46
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "After you hear a question, you must choose the best answer from the four choices marked A, B,",
+      "translation": "在听到一个问题后,你必须从四个选择中选择最好的答案,四个选择标注A,B,",
+      "start": 923.34,
+      "end": 930.46
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "C, and D.",
+      "translation": "C,和D., 和D., 和D.",
+      "start": 931.08,
+      "end": 932.14
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Then mark the corresponding letter on answer sheet one with a single line through",
+      "translation": "然后用单行通过",
+      "start": 932.69,
+      "end": 938.59
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "the",
+      "translation": "排",
+      "start": 940.09,
+      "end": 943.166
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The golden rule is a moral principle which states that you should treat others the way you want to be treated yourself.",
+      "translation": "黄金法则是一条道德原则,它指出你应该以你希望被对待的方式对待他人。",
+      "start": 943.166,
+      "end": 953.249,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "For example, if you want people to treat you with respect, you should treat them with respect.",
+      "translation": "例如,如果你希望人们尊重你,你就应该尊重他们。",
+      "start": 953.249,
+      "end": 961.04,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Different people tend to be exposed to different forms of the golden rule, based on factors such as the religion in their society.",
+      "translation": "不同的人往往会接触到不同形式的黄金法则,这取决于诸如其社会中的宗教等因素。",
+      "start": 961.04,
+      "end": 970.03,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "However, all forms of the golden rule revolve around the same concept.",
+      "translation": "然而,黄金法则的所有形式都围绕着同一个概念。",
+      "start": 971.22,
+      "end": 976.18,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Namely, they help you treat others better, by using the way you yourself would want to be treated as a guide of how to behave.",
+      "translation": "也就是说,它们通过使用你自己希望被对待的方式作为行为指南,帮助你更好地对待他人。",
+      "start": 977.32,
+      "end": 986.02,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "A notable criticism of the golden rule is that its application can lead to undesirable outcomes, when it conflicts with laws and ethical principles.",
+      "translation": "对黄金法则的一个显著批评是,当它与法律和伦理原则相冲突时,其应用可能导致不良后果。",
+      "start": 987.3,
+      "end": 998.02,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "For example, if someone breaks the law, the golden rule would suggest that we should let them go, because we would not want to be punished ourselves.",
+      "translation": "例如,如果有人违法,黄金法则会建议我们应该放过他们,因为我们自己也不想受到惩罚。",
+      "start": 999.27,
+      "end": 1009.49,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "However, this issue with the golden rule can be dealt with in a general manner, by viewing this principle as one of several principles that we use to guide our behavior as individuals and as a society.",
+      "translation": "然而,黄金法则的这一问题可以通过一般性方式来处理,即把这一原则视为我们用来指导个人和社会行为的若干原则之一。",
+      "start": 1010.64,
+      "end": 1025.69,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Specifically, in the example described above, most individuals and societies choose to place laws and ethical principles above the golden rule.",
+      "translation": "具体而言,在上述例子中,大多数个人和社会选择将法律和伦理原则置于黄金法则之上。",
+      "start": 1026.88,
+      "end": 1037.76,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This means that they strive to implement the golden rule whenever possible, as long as it doesn't clash with a more important concept.",
+      "translation": "这意味着只要不与更重要的概念发生冲突,他们就努力在任何可能的情况下实施黄金法则。",
+      "start": 1038.78,
+      "end": 1047.84,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions 16-18 are based on the passage you have just heard.",
+      "translation": "问题16-18是根据你刚才听到的段落提出的。",
+      "start": 1049.48,
+      "end": 1054.58
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "16.",
+      "translation": "16岁。",
+      "start": 1056.1,
+      "end": 1056.74
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What do we learn from the passage about the Golden Rule?",
+      "translation": "我们从黄金法则的段落中 学到什么?",
+      "start": 1057.92,
+      "end": 1061.16
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 17.",
+      "translation": "问题17。",
+      "start": 1075.16,
+      "end": 1076.2
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What is a notable criticism of the Golden Rule?",
+      "translation": "对黄金规则有什么值得注意的批评?",
+      "start": 1077.48,
+      "end": 1081.16
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 18.",
+      "translation": "问题18。",
+      "start": 1095.14,
+      "end": 1096.06
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the example of someone breaking the law serve to show?",
+      "translation": "违法者的例子能显示什么?",
+      "start": 1097.28,
+      "end": 1102.22
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Today, many large corporations stress the importance of diversity on their websites.",
+      "translation": "今天,许多大公司强调其网站多样性的重要性。",
+      "start": 1118.64,
+      "end": 1125.0
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Obviously, the desire to bring about diversity has not translated into corporate reality.",
+      "translation": "显然,实现多元化的愿望尚未转化为企业现实。",
+      "start": 1134.64,
+      "end": 1141.24,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Why useless?",
+      "translation": "为什么没用?",
+      "start": 1142.53,
+      "end": 1143.97
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "A team of researchers from the University of Basel published their new study about people's attitudes towards diversity at work.",
+      "translation": "来自巴塞尔大学的一组研究人员发表了他们关于人们对待工作场所多样性的态度的新研究报告。",
+      "start": 1143.97,
+      "end": 1154.08
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They found that people have a wide range of opinions concerning diversity.",
+      "translation": "他们发现,人们对多样性有广泛的看法。",
+      "start": 1155.17,
+      "end": 1160.33
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "On the one hand, many see value in diversity, which can contribute a variety of perspectives, encourage new ideas, and generate innovative solutions.",
+      "translation": "一方面,许多人看到多样性的价值,它们可以提供各种观点,鼓励新的想法,并产生创新的解决办法。",
+      "start": 1161.53,
+      "end": 1173.69
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "On the other hand, they assume that it might be difficult to work with someone who has completely different views, speaks a different language, or has a different style of work.",
+      "translation": "另一方面,他们认为,如果某人的观点完全不同,讲不同语言,或工作风格不同,那么与此人合作可能很困难。",
+      "start": 1174.97,
+      "end": 1188.65
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The actual value they attribute to diversity depends on the decision-making perspective.",
+      "translation": "他们赋予多元化的实际价值取决于决策视角。",
+      "start": 1189.7,
+      "end": 1195.7,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Doubts about the practicability of diversity have a greater weight if a person is directly affected.",
+      "translation": "如果一个人受到直接影响,对多元化实用性的怀疑会具有更大的权重。",
+      "start": 1196.78,
+      "end": 1204.72,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In other words, when a person's own work group is involved, they tend to prefer team members who are similar to themselves.",
+      "translation": "换句话说,当涉及一个人自己的工作团队时,他们倾向于选择与自己相似的团队成员。",
+      "start": 1205.37,
+      "end": 1213.71,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But when people make decisions for others, they typically put together a more diverse team.",
+      "translation": "但当人们为他人做决定时,他们通常会组建一个更多元化的团队。",
+      "start": 1214.97,
+      "end": 1220.91,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "These findings could help organizations become more diverse.",
+      "translation": "这些发现可以帮助组织变得更加多元化。",
+      "start": 1221.94,
+      "end": 1225.96,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Companies need to pay attention to who makes hiring and team decisions.",
+      "translation": "企业需要关注由谁来做出招聘和团队决策。",
+      "start": 1227.05,
+      "end": 1231.89,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "These decisions should not only be made by those directly affected.",
+      "translation": "这些决策不应仅由直接受影响的人做出。",
+      "start": 1232.78,
+      "end": 1237.78,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "People who are not directly involved in the group's daily work should also take part.",
+      "translation": "不直接参与团队日常工作的人也应该参与其中。",
+      "start": 1238.77,
+      "end": 1244.77,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions 19 to 21 are based on the passage you have just heard.",
+      "translation": "问题19至21是根据你刚才听到的段落提出的。",
+      "start": 1246.5,
+      "end": 1252.04
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "19.",
+      "translation": "19. 经济",
+      "start": 1253.8,
+      "end": 1254.3
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "do we learn from the current statistics about diversity in large corporations?",
+      "translation": "我们是否从目前有关大公司多样性的统计数字中吸取经验教训?",
+      "start": 1255.79,
+      "end": 1261.15
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "20.",
+      "translation": "20. 20个",
+      "start": 1275.77,
+      "end": 1276.35
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What is the newly published study focused on?",
+      "translation": "新出版的研究报告的重点是什么?",
+      "start": 1277.07,
+      "end": 1280.61
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 21.",
+      "translation": "问题21",
+      "start": 1294.34,
+      "end": 1295.46
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What do the findings of the new study show?",
+      "translation": "新研究的结果显示什么?",
+      "start": 1296.36,
+      "end": 1299.36
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "3.",
+      "translation": "3 个",
+      "start": 1313.39,
+      "end": 1314.03
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Communication can essentially be divided into two categories.",
+      "translation": "通信基本上可以分为两类。",
+      "start": 1315.58,
+      "end": 1320.06
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "How the balance is struck between these two forms of communication—the point at which one needs to be exchanged for another—really depends on individual cultures.",
+      "translation": "如何在这两种沟通形式之间取得平衡——即在何时需要将一种形式转换为另一种形式——实际上取决于各个文化。",
+      "start": 1324.12,
+      "end": 1334.83,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Understanding when it's appropriate to exchange one form for another can be a major key to success in international business.",
+      "translation": "理解何时适合将一种形式转换为另一种形式，可能是国际商务成功的关键因素。",
+      "start": 1336.02,
+      "end": 1345.94,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Many cultures place a much greater value on the spoken word than the American working culture does.",
+      "translation": "许多文化对口头语言的重视程度远高于美国职场文化。",
+      "start": 1347.3,
+      "end": 1354.98,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In parts of the Middle East, you'll find spoken word agreements are seen as seriously binding.",
+      "translation": "在中东部分地区,你会发现口头协议被视为具有严肃的约束力。",
+      "start": 1356.05,
+      "end": 1362.69,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "A person's word is linked to their honor, so verbal agreements are seen as important, whereas written contracts are taken as memos of understanding.",
+      "translation": "一个人的话语与其荣誉相关联，因此口头协议被视为重要的，而书面合同则被视为理解备忘录。",
+      "start": 1363.66,
+      "end": 1375.68,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Western working culture tends to place a high value on the written word, and this reaches its highest level of intensity when it comes to contracts.",
+      "translation": "西方职场文化倾向于高度重视书面文字，而这在涉及合同时达到最高强度。",
+      "start": 1376.78,
+      "end": 1387.48,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In the US, France and Germany, written contracts tend to be seen as something that must be strictly carried out.",
+      "translation": "在美国、法国和德国，书面合同往往被视为必须严格执行的东西。",
+      "start": 1388.66,
+      "end": 1397.58,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "By contrast, other cultures may not see written contracts as quite so binding.",
+      "translation": "相比之下，其他文化可能不认为书面合同具有如此强的约束力。",
+      "start": 1398.71,
+      "end": 1404.43,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It can prove a challenge to Western businesses if your business partner wants to renegotiate terms that you thought were already agreed on.",
+      "translation": "如果你的商业伙伴想要重新协商你认为已经达成一致的条款，这可能会给西方企业带来挑战。",
+      "start": 1405.48,
+      "end": 1415.1,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "For example, a Japanese firm may have signed a contract, but they may not feel bound by every detail of it—particularly if circumstances later change.",
+      "translation": "例如，一家日本公司可能已经签署了合同，但他们可能不觉得受其每个细节的约束——特别是如果情况后来发生变化。",
+      "start": 1416.08,
+      "end": 1428.89,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Such differences in value that different working cultures place on the written word tend to cause many problems when it comes to business relationships.",
+      "translation": "不同职场文化对书面文字所赋予的价值差异，往往会在商业关系中造成许多问题。",
+      "start": 1430.06,
+      "end": 1440.68,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What is a major key to success in international business according to the passage?",
+      "translation": "根据这一段,国际商务成功的关键是什么?",
+      "start": 1451.02,
+      "end": 1457.78
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 23 What does the passage say about spoken word agreements in some Middle East countries?",
+      "translation": "问题23:该段落对一些中东国家的口头口头协议作了什么说明?",
+      "start": 1471.79,
+      "end": 1480.21
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 24 What do we learn about the Western working culture?",
+      "translation": "问题24:我们如何了解西方的工作文化?",
+      "start": 1494.4,
+      "end": 1500.69
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 25 How does a Japanese firm",
+      "translation": "问题25 日本公司如何经营",
+      "start": 1514.6,
+      "end": 1519.24
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "tend to view a written contract.",
+      "translation": "倾向于查看书面合同。",
+      "start": 1519.58,
+      "end": 1522.18
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That's the end of listening comprehension.",
+      "translation": "听觉理解到此结束",
+      "start": 1535.99,
+      "end": 1538.31
+    }
+  ],
+  "translation_sources": [
+    "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/",
+    "Sams200/opus-mt-en-zh (unmatched sentences only)"
+  ]
+}

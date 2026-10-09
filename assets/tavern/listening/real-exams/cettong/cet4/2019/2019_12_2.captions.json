@@ -1,0 +1,1346 @@
+{
+  "id": "cet4-2019_12_2",
+  "title": "2019年12月 第2套",
+  "level": 4,
+  "source_url": "https://www.cettong.cn/library/cet4/2019_12_2",
+  "material_source": "https://117.72.200.49/#/library",
+  "audio": "assets/tavern/listening/real-exams/cettong/cet4/2019/2019_12_2.exampace-playback.mp3",
+  "caption_kind": "published_material_with_auxiliary_timing_and_translation",
+  "caption_models": [
+    "Systran/faster-whisper-base.en",
+    "Sams200/opus-mt-en-zh"
+  ],
+  "lines": [
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The British government has called for more men to consider a career in nursing.",
+      "translation": "英国政府要求更多男性考虑护理职业。",
+      "start": 40.05,
+      "end": 45.59
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Figures show the number of male nurses has fallen in the last three years.",
+      "translation": "数字显示,在过去三年里,男护士人数有所下降。",
+      "start": 46.35,
+      "end": 51.67
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Now, the number of men working in the nursing sector has reached a seven-year low.",
+      "translation": "现在,在护理部门工作的男子人数已经达到七年的最低水平。",
+      "start": 52.37,
+      "end": 58.31
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Numbers of male nurses increased between 2011 and 2014, and reached a peak of 7,168.",
+      "translation": "2011年至2014年,男护士人数增加,达到高峰7 168人。",
+      "start": 58.89,
+      "end": 69.45
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This figure has dropped to only 6,924 in 2017.",
+      "translation": "这一数字在2017年下降到6 924人。",
+      "start": 69.45,
+      "end": 76.09
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The UK Health Secretary said, \"This is clearly a cultural problem, and probably one that exists in many parts of the world.",
+      "translation": "英国卫生部长说,“这显然是一个文化问题,而且很可能存在于世界许多地方。",
+      "start": 77.23,
+      "end": 86.27
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But we can make efforts to change that now.",
+      "translation": "但是,我们现在可以努力改变这种情况。",
+      "start": 86.85,
+      "end": 89.69
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We want to persuade males to think about career options of going into nursing.",
+      "translation": "我们要说服男性考虑 做护士的职业选择",
+      "start": 90.49,
+      "end": 94.97
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "There is absolutely no reason why men can't go into this profession.\" The Health Secretary said that the government already has plans to attract a more varied workforce into nursing.",
+      "translation": "男性绝对没有理由不能从事这个职业。” 卫生部长说,政府已经计划吸引更多不同的员工从事护理工作。",
+      "start": 95.85,
+      "end": 107.95
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "She stated, \"We are leading the way on workforce planning.",
+      "translation": "她说,“我们正在领导员工队伍规划。",
+      "start": 108.75,
+      "end": 112.63
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We will become the first nation in Europe to publish a national health and care workforce plan.\"",
+      "translation": "我们将成为欧洲第一个公布国家保健和护理劳动力计划的国家。",
+      "start": 113.41,
+      "end": 119.65
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "A man from Libya was enjoying a walk along the sands at Southport Beach.",
+      "translation": "来自利比亚的一位男子在南港海滩的沙滩上散步。",
+      "start": 164.1,
+      "end": 168.96
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "When he was about half a mile out from the dock, he felt a bit tired.",
+      "translation": "当他离码头约半英里远的时候 他有点累了",
+      "start": 169.92,
+      "end": 173.82
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So he lay down and fell asleep.",
+      "translation": "于是他躺下睡着了",
+      "start": 174.38,
+      "end": 176.38
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But the tide swept in quickly at the beach.",
+      "translation": "但是海边的潮水迅速蔓延",
+      "start": 177.55,
+      "end": 180.45
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And the man was shocked to wake up and find the tide had come in and completely surrounded him, cutting him off from the shore.",
+      "translation": "他惊恐地醒来 发现潮水冲进来 彻底包围了他 将他从岸上截走",
+      "start": 181.17,
+      "end": 189.35
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Fortunately for him, the beach lifeguards were quickly on the scene to stop him from drowning.",
+      "translation": "幸运的是 海滩救生员们很快赶到现场 阻止他溺水",
+      "start": 190.46,
+      "end": 195.46
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They acted professionally to ensure the man was comfortable until an ambulance arrived.",
+      "translation": "他们采取专业行动,确保该男子在救护车到达之前安心。",
+      "start": 196.48,
+      "end": 201.1
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "He was then taken to hospital.",
+      "translation": "然后他被送往医院。",
+      "start": 202.13,
+      "end": 203.53
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "He is now in a stable condition.",
+      "translation": "他现在处于稳定状态。",
+      "start": 204.33,
+      "end": 206.53
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "When interviewed, Keith Porter of the Southport Beach said, \"Our beach is so flat that it's very common for the tide to come around the back of people and cut them off from the beach.",
+      "translation": "当采访时,南港海滩的基思·波特说,“我们的海滩是如此平坦, 潮水绕过人们的背部,把他们从海滩上切断,这是非常常见的。",
+      "start": 207.76,
+      "end": 218.82
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Thankfully the emergency services have again worked well together to ensure a positive outcome.",
+      "translation": "令人欣慰的是,应急服务机构再次很好地合作,确保取得积极成果。",
+      "start": 219.5,
+      "end": 226.1
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And we wish the gentleman a speedy recovery.\"",
+      "translation": "我们祝愿这位先生尽快康复。”",
+      "start": 226.1,
+      "end": 229.44
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "A raccoon, a small cat-like animal, climbed to the top of a twenty-five-story skyscraper early on Wednesday.",
+      "translation": "一只浣熊,一只像猫一样的小动物 星期三早些时候爬上25层摩天大楼的顶端",
+      "start": 273.87,
+      "end": 282.25
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It was captured after becoming an online star across the world.",
+      "translation": "它在成为全球网络明星后被捕获。",
+      "start": 282.89,
+      "end": 287.45,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "At a little before 3 a.m., the animal made it to the roof of the building after it took a long break on a 17th floor window edge.",
+      "translation": "凌晨3点前不久，这只动物在17楼窗台边缘休息了很长时间后，成功到达了大楼顶部。",
+      "start": 288.19,
+      "end": 298.51,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "At the top of the building, animal control officers put cat food in traps and captured the raccoon.",
+      "translation": "在楼顶，动物管理人员在陷阱中放置了猫粮并捕获了这只浣熊。",
+      "start": 299.19,
+      "end": 306.42,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "A private wildlife management company will release the animal into the wild.",
+      "translation": "一家私人野生动物管理公司将把这只动物放归野外。",
+      "start": 307.22,
+      "end": 312.6,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The raccoon's upward journey began on Monday.",
+      "translation": "浣熊的向上之旅始于周一。",
+      "start": 313.54,
+      "end": 316.58,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The brown animal was spotted stuck on a narrow window edge of the office tower.",
+      "translation": "这只棕色动物被发现困在办公大楼的狭窄窗台边缘上。",
+      "start": 317.58,
+      "end": 323.3,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "On Tuesday, the raccoon slowly climbed the building.",
+      "translation": "周二，浣熊慢慢爬上大楼。",
+      "start": 324.1,
+      "end": 327.68,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It reached the 23rd floor, and its legend continued to grow on social media with every floor it climbed.",
+      "translation": "它到达了23楼，随着它爬上的每一层楼，它的传奇在社交媒体上不断发酵。",
+      "start": 328.17,
+      "end": 336.33,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "As it went up, people gathered on the sidewalk below to take photos and cheer for its safety.",
+      "translation": "随着它向上爬，人们聚集在下面的人行道上拍照并为它的安全欢呼。",
+      "start": 337.27,
+      "end": 344.19,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Online office workers posted photos and videos of the raccoon resting on window edges and climbing up the building's concrete exterior.",
+      "translation": "在线办公人员发布了浣熊在窗台边缘休息和攀爬大楼混凝土外墙的照片和视频。",
+      "start": 345.17,
+      "end": 355.13,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "One online post said that the raccoon has succeeded in uniting the country the way no politician could.",
+      "translation": "一条网络帖子称,这只浣熊成功地团结了全国,其方式是任何政治家都做不到的。",
+      "start": 355.82,
+      "end": 364.28,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "B.",
+      "translation": "B. B. .",
+      "start": 428.38,
+      "end": 428.8
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Directions.",
+      "translation": "方向",
+      "start": 429.36,
+      "end": 429.9
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In this section you'll hear two long conversations.",
+      "translation": "在这段里,你会听到两个长长的谈话",
+      "start": 431.22,
+      "end": 434.46
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "At the end of each conversation you'll hear four questions.",
+      "translation": "每次谈话结束时你都会听到四个问题",
+      "start": 435.64,
+      "end": 439.18
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Both the conversation and the questions will be spoken only once.",
+      "translation": "谈话和问题只谈一次",
+      "start": 440.1,
+      "end": 444.04
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "After you hear a question you must choose the best answer from the four choices marked A, B,",
+      "translation": "在听到一个问题后 你必须从四个选择中选择最好的答案 四个选择标注A,B,",
+      "start": 444.98,
+      "end": 451.5
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "C and D.",
+      "translation": "C和D。",
+      "start": 452.24,
+      "end": 453.06
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Then mark the corresponding letter on answer sheet one with a single line through the center.",
+      "translation": "然后在答题单上用一条线标出相应的字母,通过中心。",
+      "start": 453.36,
+      "end": 459.38
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Conversation one.",
+      "translation": "交谈之一。",
+      "start": 460.56,
+      "end": 461.74
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I have really amazing news.",
+      "translation": "我有个特别棒的消息。",
+      "start": 463.1,
+      "end": 464.8,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I just got a text message from my bank, saying my salary has been deposited in my account.",
+      "translation": "我刚收到银行发来的短信，说我的工资已经打到账户里了。",
+      "start": 465.6,
+      "end": 471.72,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Getting paid is good.",
+      "translation": "拿到工资是好事。",
+      "start": 472.46,
+      "end": 473.7,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But I don't understand why you're so excited.",
+      "translation": "但我不明白你为什么这么激动。",
+      "start": 474.4,
+      "end": 476.56,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It happens every month.",
+      "translation": "这每个月都会发生啊。",
+      "start": 477.3,
+      "end": 478.12,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Well, I've been working for a few years.",
+      "translation": "嗯，我已经工作几年了。",
+      "start": 478.69,
+      "end": 481.63,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In fact, I worked all through university, but I only had part-time jobs then.",
+      "translation": "实际上，我大学期间一直在打工，但那时候都是兼职。",
+      "start": 482.11,
+      "end": 487.21,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So this is the first time I've ever been paid for a month of full-time work.",
+      "translation": "所以这是我第一次拿到全职工作一整个月的工资。",
+      "start": 487.69,
+      "end": 493.53,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Wow, then you must feel great.",
+      "translation": "哇，那你肯定感觉很棒。",
+      "start": 494.01,
+      "end": 496.71,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I mean, it's been two decades, but I can still remember when I got my first real salary.",
+      "translation": "我是说，虽然已经过去二十年了，但我还能记得我拿到第一份真正工资的时候。",
+      "start": 497.47,
+      "end": 502.79,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I was happy for days.",
+      "translation": "我高兴了好几天。",
+      "start": 503.61,
+      "end": 504.55,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I felt like it was a small fortune, even though it wasn't.",
+      "translation": "当时觉得那是一笔小财富，虽然其实并不多。",
+      "start": 505.61,
+      "end": 509.19,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Yeah, I've never earned so much money before.",
+      "translation": "是啊,我以前从来没挣过这么多钱。",
+      "start": 509.43,
+      "end": 512.57,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And there're so many things I'd like to do with it.",
+      "translation": "我想用这笔钱做好多事情。",
+      "start": 512.57,
+      "end": 515.57,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What did you do with your first pay?",
+      "translation": "你当时用第一份工资做了什么?",
+      "start": 516.03,
+      "end": 518.23,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I bought a new suit for work and took my parents to a nice restaurant to celebrate.",
+      "translation": "我买了一套新西装上班穿，还带我父母去了一家不错的餐厅庆祝。",
+      "start": 518.78,
+      "end": 524.26,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Maybe you could do the same.",
+      "translation": "也许你也可以这样做。",
+      "start": 525.02,
+      "end": 526.36,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I have enough professional clothes.",
+      "translation": "我有足够的职业装了。",
+      "start": 527.04,
+      "end": 529.12,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And my parents are across the country.",
+      "translation": "而且我父母在国家的另一边。",
+      "start": 529.12,
+      "end": 531.42,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So seeing them is impossible.",
+      "translation": "所以去看他们不太可能。",
+      "start": 532.1,
+      "end": 533.99,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But some people from the office are members of a gym I want to join.",
+      "translation": "但办公室有些同事是我想加入的健身房的会员。",
+      "start": 533.99,
+      "end": 538.35,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And my university classmates are arranging a trip to visit our old campus, and I'd love to go with them.",
+      "translation": "还有我大学同学正在安排去参观我们的老校园，我很想跟他们一起去。",
+      "start": 538.35,
+      "end": 545.95,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But I can't afford both.",
+      "translation": "但我两样都负担不起。",
+      "start": 546.53,
+      "end": 548.35,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "If I were you, I'd join the gym, because it's a good way to stay healthy, and it might help you build a stronger relationship with your colleagues.",
+      "translation": "如果我是你，我会加入健身房，因为这是保持健康的好方法，而且可能有助于你和同事建立更牢固的关系。",
+      "start": 549.17,
+      "end": 558.57,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And good relationships are key to a successful career.",
+      "translation": "良好的关系是成功职业生涯的关键。",
+      "start": 558.57,
+      "end": 562.63,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Hmm.",
+      "translation": "嗯。",
+      "start": 563.2,
+      "end": 563.72,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You're right.",
+      "translation": "你说得对。",
+      "start": 564.26,
+      "end": 564.9,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Thanks for the advice.",
+      "translation": "谢谢你的建议。",
+      "start": 565.7,
+      "end": 566.44,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'm taking it.",
+      "translation": "我听你的。",
+      "start": 566.9,
+      "end": 567.74,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Conversation two.",
+      "translation": "对话二",
+      "start": 646.46,
+      "end": 647.74
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What's going on with you lately?",
+      "translation": "你最近怎么了? 发生什么事了?",
+      "start": 648.92,
+      "end": 650.62
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You seem so distracted, like you aren't really listening to anything I say.",
+      "translation": "你似乎如此心烦意乱 好像你没真正听懂我说的话",
+      "start": 651.32,
+      "end": 656.76
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I know.",
+      "translation": "我知道。",
+      "start": 657.62,
+      "end": 658.02,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'm sorry.",
+      "translation": "对不起。",
+      "start": 658.7,
+      "end": 659.3,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I can't seem to focus on anything, because I still haven't decided if I should accept the offer for that PhD program in London, or if I should take the job offer in New York.",
+      "translation": "我好像没法集中注意力,因为我还没决定好是接受伦敦那个博士项目的录取,还是接受纽约的工作offer。",
+      "start": 659.76,
+      "end": 671.06,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Look, it's a tough decision.",
+      "translation": "听着,这是一个艰难的决定。",
+      "start": 671.68,
+      "end": 673.87
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But you're running out of time, aren't you?",
+      "translation": "但你的时间不多了,不是吗?",
+      "start": 674.45,
+      "end": 677.13
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I thought you said the company expected an answer by the end of the month.",
+      "translation": "你不是说公司本月底会收到答复吗?",
+      "start": 677.61,
+      "end": 681.85
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Actually, it's the beginning of next month for the job, but the university needs a decision by the end of the week.",
+      "translation": "其实工作那边是下月初,但大学那边需要这周末前做决定。",
+      "start": 682.92,
+      "end": 689.64,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So I have to act quickly.",
+      "translation": "所以我得赶紧行动了。",
+      "start": 690.32,
+      "end": 691.68,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You definitely need advice for an important decision like this.",
+      "translation": "这么重要的决定你绝对需要建议",
+      "start": 692.52,
+      "end": 696.5
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So who have you talked to about it?",
+      "translation": "那你跟谁谈过了?",
+      "start": 697.02,
+      "end": 699.42
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does your family think?",
+      "translation": "你家人怎么想的? 你家人觉得呢?",
+      "start": 699.84,
+      "end": 701.34
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And your advisor for your master's program?",
+      "translation": "你硕士课程的顾问呢?",
+      "start": 701.87,
+      "end": 704.23
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I've asked their advice and that's part of the problem.",
+      "translation": "我问过他们的意见,这也是问题的一部分。",
+      "start": 704.95,
+      "end": 708.19,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "My parents want me to get the degree, but my advisor thinks it's time for me to get more work experience.",
+      "translation": "我父母希望我去读学位,但我导师觉得我该多积累些工作经验了。",
+      "start": 709.15,
+      "end": 715.81,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What do you mean by part of the problem?",
+      "translation": "你说问题的一部分是什么意思?",
+      "start": 716.69,
+      "end": 719.07
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Oh, wait.",
+      "translation": "哦,等等。 哦,等等。",
+      "start": 719.77,
+      "end": 720.21
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's your girlfriend, isn't it?",
+      "translation": "是你女朋友,对吧?",
+      "start": 720.57,
+      "end": 722.39
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You've been dating since your first year of university, so that's six years now.",
+      "translation": "你从大学一年级就开始约会了 所以六年了",
+      "start": 722.99,
+      "end": 728.17
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "She must have an opinion about all this.",
+      "translation": "她一定对这一切有意见",
+      "start": 728.67,
+      "end": 731.07
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I mean, isn't it time for you to think about getting married?",
+      "translation": "我的意思是,是不是是时候 你考虑结婚?",
+      "start": 731.7,
+      "end": 736.0
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Well, I do want to get married, but she thinks we need to wait until we've launched our careers.",
+      "translation": "嗯,我是想结婚,但她觉得我们得等到事业起步了再说。",
+      "start": 736.88,
+      "end": 743.62,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Plus, she's not sure what she'll be doing next year.",
+      "translation": "而且她自己也不确定明年要做什么。",
+      "start": 744.48,
+      "end": 747.58,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "She's considering a job in England and one in Australia.",
+      "translation": "她在考虑英格兰的一份工作和澳大利亚的一份工作。",
+      "start": 748.12,
+      "end": 751.22,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And her parents are pushing for the latter.",
+      "translation": "她父母更倾向于后者。",
+      "start": 751.9,
+      "end": 754.04,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Section C.",
+      "translation": "C节。",
+      "start": 835.4,
+      "end": 836.12
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In this section,",
+      "translation": "在本节中,",
+      "start": 838.0,
+      "end": 838.94
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "you will hear three passages.",
+      "translation": "你将听见三条经。",
+      "start": 839.62,
+      "end": 841.0
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "At the end of each passage,",
+      "translation": "在每个通道的尽头",
+      "start": 841.76,
+      "end": 843.08
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "you will hear three or four questions.",
+      "translation": "你会听到三四个问题。",
+      "start": 843.78,
+      "end": 845.96
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Both the passage and the questions will be spoken only once.",
+      "translation": "发言的通过和提问将只讲一次。",
+      "start": 846.76,
+      "end": 851.0
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "After you hear a question, you must choose the best answer from the four choices marked A, B,",
+      "translation": "在听到一个问题后,你必须从四个选择中选择最好的答案,四个选择标注A,B,",
+      "start": 851.7,
+      "end": 858.5
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "C, and D.",
+      "translation": "C,和D., 和D., 和D.",
+      "start": 859.22,
+      "end": 860.22
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Then mark the corresponding letter on answer sheet one with a single line through the center.",
+      "translation": "然后在答题单上用一条线标出相应的字母,通过中心。",
+      "start": 860.94,
+      "end": 867.22
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "1.",
+      "translation": "1. 国家",
+      "start": 868.33,
+      "end": 869.33
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Analytical skills are our ability to understand and solve problems using information we have available.",
+      "translation": "分析技能是我们利用现有信息理解和解决问题的能力。",
+      "start": 870.34,
+      "end": 878.52
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "These skills are extremely important for our professional, social, and intellectual lives.",
+      "translation": "这些技能对于我们的专业、社会和智力生活极为重要。",
+      "start": 879.68,
+      "end": 886.2
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What are the best ways to improve them?",
+      "translation": "改进它们的最佳途径是什么?",
+      "start": 887.47,
+      "end": 889.69
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "One way is to expand your world view.",
+      "translation": "一种方法就是扩大你的世界观。",
+      "start": 890.86,
+      "end": 893.62
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Unfortunately, this takes time.",
+      "translation": "不幸的是,这需要时间。",
+      "start": 894.77,
+      "end": 897.25
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Ultimately, it will help you better evaluate information and analyze different ideas and outcomes.",
+      "translation": "最终,它将帮助你更好地评估信息,分析不同的想法和结果。",
+      "start": 897.87,
+      "end": 904.85
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Traveling is a great way to expand your world view, although it can be expensive.",
+      "translation": "旅行是扩展你的世界观的好方法,尽管它可能很昂贵。",
+      "start": 905.51,
+      "end": 911.53
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "An entertaining way of enhancing your analytical skills is to engage them by playing brain games.",
+      "translation": "提升分析能力的一种有趣方式是通过玩益智游戏来锻炼大脑。",
+      "start": 912.63,
+      "end": 920.67,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "These are games that challenge you to think deeply and to develop your analytical skills.",
+      "translation": "这些游戏挑战你进行深度思考,培养你的分析能力。",
+      "start": 921.53,
+      "end": 928.21,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "These games will get you used to thinking in a certain way.",
+      "translation": "这些游戏会让你习惯于以特定方式思考。",
+      "start": 929.42,
+      "end": 933.02,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "As a result, they will help improve your ability to think.",
+      "translation": "因此,它们将有助于提高你的思维能力。",
+      "start": 934.07,
+      "end": 938.39,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "However, opinions vary on whether video games are effective.",
+      "translation": "然而,对于电子游戏是否有效,人们意见不一。",
+      "start": 939.35,
+      "end": 944.13,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The general consensus is that the best ones avoid mindless violence, and instead focus on strategy and challenge us to solve problems and achieve broad goals.",
+      "translation": "普遍共识是,最好的游戏避免无意义的暴力,而是注重策略,挑战我们解决问题并实现更广泛的目标。",
+      "start": 945.23,
+      "end": 958.26,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Joining a debate or reading club or group is also a good idea.",
+      "translation": "加入辩论会、读书俱乐部或小组也是个好主意。",
+      "start": 959.57,
+      "end": 964.95,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This provides people with the opportunity to come together and discuss ideas, literature and problems.",
+      "translation": "这为人们提供了聚在一起讨论思想、文学和问题的机会。",
+      "start": 966.18,
+      "end": 973.62,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Groups like these will help you refine your analytical skills and enable you to express yourself better.",
+      "translation": "这类团体将帮助你完善分析能力,使你能够更好地表达自己。",
+      "start": 974.81,
+      "end": 981.69,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Any social group that encourages free exchange of ideas and pursuit of knowledge is beneficial.",
+      "translation": "任何鼓励自由交流思想和追求知识的社交团体都是有益的。",
+      "start": 982.57,
+      "end": 989.87,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It helps you to actively develop your analytical skills.",
+      "translation": "它帮助你积极发展自己的分析能力。",
+      "start": 991.01,
+      "end": 994.43,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Passage 2.",
+      "translation": "通行证2。",
+      "start": 1066.0,
+      "end": 1066.88
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "There's an endless amount of scientific data proving that dogs can develop strong bonds with their owners.",
+      "translation": "有无数科学数据证明狗能与主人建立牢固的纽带。",
+      "start": 1067.86,
+      "end": 1074.46,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "People aren't kidding when they say they \"love\" their dog, or their dog \"loves\" them.",
+      "translation": "人们说他们\"爱\"自己的狗,或者他们的狗\"爱\"他们时,并非开玩笑。",
+      "start": 1075.15,
+      "end": 1080.79,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But we're rather ignorant about the nature of the relationships that form between dogs.",
+      "translation": "但我们对狗与狗之间形成的关系的本质却相当无知。",
+      "start": 1081.19,
+      "end": 1087.65,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In an effort to understand the matter further, I spoke with Dr.",
+      "translation": "为了进一步理解这个问题,我采访了动物行为研究员兼前教授Marc Bekoff博士。",
+      "start": 1088.89,
+      "end": 1093.57,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Marc Bekoff, a researcher and former professor of animal behavior.",
+      "translation": "对于狗是否能像人类一样坠入爱河这个问题,博士直截了当地回答\"当然可以\"。",
+      "start": 1093.57,
+      "end": 1098.41,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The doctor's response to the question of whether or not dogs can fall in love like humans do was a straight \"Of course.\" He went on to say that if love is defined as a long-term commitment—meaning dogs seek one another out when they're apart, they're happy when they're reunited, they protect one another, they feed one another, they raise their children together—then of course dogs love each other.",
+      "translation": "他接着说,如果爱被定义为一种长期承诺——即狗在分开时会寻找彼此,重聚时会感到快乐,它们会互相保护,互相喂食,共同抚养后代——那么狗当然会彼此相爱。",
+      "start": 1099.34,
+      "end": 1128.44,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Now our furry friends don't really experience \"romantic\" love like in the movies, but they can form deep and lasting bonds with their fellow dogs as well as humans.",
+      "translation": "现在我们毛茸茸的朋友们并不会真正体验到电影中那种\"浪漫\"的爱情,但它们可以与同类以及人类形成深厚而持久的纽带。",
+      "start": 1128.94,
+      "end": 1140.88,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In fact, evidence shows that most dogs stay with one partner their whole lives.",
+      "translation": "事实上,证据表明大多数狗一生只与一个伴侣在一起。",
+      "start": 1141.92,
+      "end": 1148.26,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In actuality, love between dogs can be even more intimate than human relationships.",
+      "translation": "实际上,狗之间的爱甚至可以比人类关系更加亲密。",
+      "start": 1149.03,
+      "end": 1155.69,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "When they interact, they aren't afraid to smell each other and will express themselves clearly and honestly.",
+      "translation": "当它们互动时,它们不怕闻对方的气味,并会清晰而诚实地表达自己。",
+      "start": 1156.57,
+      "end": 1163.39,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Once again, it seems we have a lot to learn from dogs.",
+      "translation": "再一次,我们似乎可以从狗身上学到很多东西。",
+      "start": 1164.59,
+      "end": 1168.15,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "A piece of history has been found thanks to a boy tripping on a rare 1.2 million year old animal fossil.",
+      "translation": "一名男孩因绊倒在一块罕见的120万年前的动物化石上而发现了一段历史。",
+      "start": 1232.42,
+      "end": 1234.7,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "A piece of history has been found thanks to a boy tripping on a rare, 1.2-million-year-old animal fossil.",
+      "translation": "一名男孩因绊倒在一块罕见的120万年前的动物化石上而发现了一段历史。",
+      "start": 1234.7,
+      "end": 1241.79,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In November 2016, Jude Sparks, now 10, was on an outing with his family near their New Mexico home when he tripped over what he thought was a cow bone.",
+      "translation": "2016年11月,现年10岁的Jude Sparks与家人在新墨西哥州家附近郊游时,被他以为是牛骨的东西绊倒了。",
+      "start": 1243.18,
+      "end": 1254.74,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Now, researchers at New Mexico State University are preserving this discovery, which was identified as an ancient elephant-like animal.",
+      "translation": "现在,新墨西哥州立大学的研究人员正在保存这一发现,该化石被鉴定为一种古代类象动物。",
+      "start": 1255.62,
+      "end": 1265.62,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Kyle Sparks, father of Jude, said he let his son decide what to do with the fossil.",
+      "translation": "Jude的父亲Kyle Sparks说,他让儿子决定如何处理这块化石。",
+      "start": 1267.07,
+      "end": 1272.93,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So Jude reached out to Peter Houde, a professor at New Mexico State University, who had experience with the same type of fossil in the past.",
+      "translation": "于是Jude联系了新墨西哥州立大学的教授Peter Houde,他过去曾处理过同类化石。",
+      "start": 1274.01,
+      "end": 1283.47,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The next day, Houde came out to see the fossil for himself.",
+      "translation": "第二天,Houde前来亲自查看化石。",
+      "start": 1284.41,
+      "end": 1287.93,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Houde told ABC News that he was quite excited about the find.",
+      "translation": "Houde告诉ABC新闻,他对这一发现感到非常兴奋。",
+      "start": 1287.93,
+      "end": 1293.33,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "\"It was fortunate that the family didn't try to dig up the fossil because that could destroy the specimen.",
+      "translation": "\"幸运的是这家人没有试图挖掘化石,因为那可能会破坏标本。",
+      "start": 1294.27,
+      "end": 1300.39,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They did the right thing by calling someone who would know what to do.",
+      "translation": "他们做对了,打电话给知道该怎么做的人。",
+      "start": 1301.17,
+      "end": 1305.29,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's great for the community because now everybody can appreciate it,\" he added.",
+      "translation": "这对社区来说很好,因为现在每个人都能欣赏它,\"他补充道。",
+      "start": 1305.83,
+      "end": 1310.91,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Houde and his fellow faculty members dug up the fossil in late May.",
+      "translation": "Houde和他的同事们在5月下旬挖掘了这块化石。",
+      "start": 1310.91,
+      "end": 1316.28,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They hope to return to the site with geologists for an additional search as there could be more fossils near the site.",
+      "translation": "他们希望与地质学家一起返回该地点进行进一步搜索,因为现场附近可能有更多化石。",
+      "start": 1317.01,
+      "end": 1324.17,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Jude and his family had been invited by the researchers to see the fossil being preserved at the university.",
+      "translation": "Jude和他的家人已受研究人员邀请,前往大学观看化石保存过程。",
+      "start": 1324.97,
+      "end": 1331.77,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This is the end of listening comprehension.",
+      "translation": "听觉理解的结束",
+      "start": 1418.57,
+      "end": 1421.21
+    }
+  ],
+  "translation_sources": [
+    "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/",
+    "Sams200/opus-mt-en-zh (unmatched sentences only)"
+  ]
+}

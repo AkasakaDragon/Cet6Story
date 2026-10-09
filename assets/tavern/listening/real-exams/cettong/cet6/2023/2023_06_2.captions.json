@@ -1,0 +1,1827 @@
+{
+  "id": "cet6-2023_06_2",
+  "title": "2023年6月 第2套",
+  "level": 6,
+  "source_url": "https://www.cettong.cn/library/cet6/2023_06_2",
+  "material_source": "https://117.72.200.49/#/library",
+  "audio": "assets/tavern/listening/real-exams/cettong/cet6/2023/2023_06_2.exampace-playback.mp3",
+  "caption_kind": "published_material_with_auxiliary_timing_and_translation",
+  "caption_models": [
+    "Systran/faster-whisper-base.en",
+    "Sams200/opus-mt-en-zh"
+  ],
+  "lines": [
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Have you decided what you wish to study?",
+      "translation": "你决定想学什么了吗？",
+      "start": 37.11,
+      "end": 39.41,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Yes, professor.",
+      "translation": "是的，教授。",
+      "start": 39.69,
+      "end": 40.37,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I wish to study architecture.",
+      "translation": "我想学习建筑学。",
+      "start": 40.89,
+      "end": 42.01,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Ah, that's a wonderful profession.",
+      "translation": "啊，那是一门很棒的职业。",
+      "start": 43.19,
+      "end": 45.05,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Why did you choose it?",
+      "translation": "你为什么选择它？",
+      "start": 45.83,
+      "end": 46.87,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I gave a lot of thought to things you said during our last discussion, and I decided architecture made the most sense for me.",
+      "translation": "我认真思考了您在上次讨论中说的话，最后决定建筑学对我来说最合适。",
+      "start": 47.23,
+      "end": 54.33,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In particular, I'm attracted to the marriage of design and engineering.",
+      "translation": "尤其是，我很喜欢设计与工程的结合。",
+      "start": 54.78,
+      "end": 58.62,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That's great, but I seem to remember you were preoccupied with all the lofty mathematics.",
+      "translation": "这很好，不过我记得你之前一直在担心那些高深的数学。",
+      "start": 59.38,
+      "end": 64.5,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You no longer think this aspect will be too hard for you?",
+      "translation": "你现在不再觉得这方面对你来说太难了吗？",
+      "start": 65.64,
+      "end": 68.48,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "No.",
+      "translation": "不会。",
+      "start": 68.76,
+      "end": 69.2,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I was doing some online research and I think I should be able to manage.",
+      "translation": "我做了一些网上调查，我觉得自己应该能够应付。",
+      "start": 69.62,
+      "end": 73.72,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Math might be the toughest subject I encounter in the curriculum, but I'll simply put in the work required.",
+      "translation": "数学可能是我在课程中遇到的最难的科目，但我会投入所需的努力。",
+      "start": 74.42,
+      "end": 80.38,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'm certain the fruits of my labor will pay off.",
+      "translation": "我相信我的劳动成果一定会得到回报。",
+      "start": 81.3,
+      "end": 83.64,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'm sure that's true.",
+      "translation": "我相信确实如此。",
+      "start": 84.11,
+      "end": 85.29,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Due to its material nature, architecture is one field where you will be able to clearly witness the contribution you make to a city.",
+      "translation": "由于建筑具有实体性，在这个领域，你将能够清楚地看到自己为一座城市所作出的贡献。",
+      "start": 86.05,
+      "end": 93.59,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And the legacies you build will last much longer than any of us mortals.",
+      "translation": "而且你所建造的遗产将比我们这些凡人中的任何一个存在得都久远。",
+      "start": 94.39,
+      "end": 98.11,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Yeah, I guess that's true too.",
+      "translation": "嗯，我想这也是真的。",
+      "start": 98.71,
+      "end": 100.45,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So what subjects do you think I should start brushing up on in preparation?",
+      "translation": "那么，为了做准备，您觉得我应该先复习哪些科目？",
+      "start": 101.03,
+      "end": 105.15,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I have the whole summer.",
+      "translation": "我整个夏天都有时间。",
+      "start": 106.05,
+      "end": 106.95,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "These days, architecture is a very diverse and dynamic degree.",
+      "translation": "如今，建筑学是一门非常多样且充满活力的学位专业。",
+      "start": 107.91,
+      "end": 112.05,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Most universities will encourage you to learn different things from fields as wide-ranging as philosophy and economics.",
+      "translation": "大多数大学都会鼓励你学习来自哲学、经济学等广泛领域的不同知识。",
+      "start": 112.6,
+      "end": 119.7,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Nevertheless, I would suggest you start with computer science because there will be many intricate visuals you will have to produce as part of your projects.",
+      "translation": "不过，我建议你先从计算机科学开始，因为作为项目的一部分，你将需要制作许多复杂的视觉图像。",
+      "start": 120.64,
+      "end": 130.28,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Any software in particular you think I should start with?",
+      "translation": "您觉得我应该先从哪种软件开始，具体来说？",
+      "start": 130.82,
+      "end": 133.68,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Photoshop is a good place.",
+      "translation": "Photoshop 是个不错的起点。",
+      "start": 134.26,
+      "end": 135.66,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "If you aren't yet, try to become as proficient as you can with it.",
+      "translation": "如果你还不熟悉它，就尽量熟练掌握。",
+      "start": 136.56,
+      "end": 140.38,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And another thing that I would recommend you learn as much as you can is fine arts, in particular, the history of Western art.",
+      "translation": "另外，我建议你尽可能多学习的一项内容是美术，尤其是西方艺术史。",
+      "start": 140.97,
+      "end": 149.95,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions one to four are based on the conversation you have just heard.",
+      "translation": "问题一至问题四 是基于你刚才听到的谈话",
+      "start": 151.4,
+      "end": 155.24
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question one, why does the woman wish to study architecture?",
+      "translation": "问题一,为什么该妇女想学习建筑?",
+      "start": 156.36,
+      "end": 160.1
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question two, how does the woman say she will overcome the difficulty in learning mathematics?",
+      "translation": "问题二,该妇女如何说她将克服数学学习的困难?",
+      "start": 174.33,
+      "end": 179.96
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question three.",
+      "translation": "问题三。",
+      "start": 193.91,
+      "end": 194.77
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the man say about architects' contribution to a city?",
+      "translation": "建筑师对城市的贡献怎么说?",
+      "start": 195.29,
+      "end": 199.87
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question four, what subject does the man suggest the woman start with?",
+      "translation": "问题四 男性建议女性从哪个主题开始?",
+      "start": 213.52,
+      "end": 218.58
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Conversation two.",
+      "translation": "对话二",
+      "start": 231.77,
+      "end": 233.09
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So, as I mentioned over the phone, we are looking for someone who is very discreet.",
+      "translation": "因此,正如我在电话中所提到的, 我们正在寻找一个非常谨慎的人。",
+      "start": 234.1,
+      "end": 238.68
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I fully understand.",
+      "translation": "我完全明白。",
+      "start": 240.94,
+      "end": 241.6,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "As we all know, being such a famous football player at Real Madrid, Mr.",
+      "translation": "众所周知,当一名在马德里的著名足球运动员",
+      "start": 242.64,
+      "end": 247.36
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Sanchez has a very high public profile.",
+      "translation": "桑切斯的公众形象很高",
+      "start": 247.66,
+      "end": 249.82
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This means he cannot leave the house without being recognized and harassed.",
+      "translation": "这意味着他不能离开房子而不得到承认和骚扰。",
+      "start": 250.29,
+      "end": 254.35
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Yes, I completely understand how imperative it would be to respect Mr.",
+      "translation": "是的,我完全理解尊重先生是多么重要。",
+      "start": 255.05,
+      "end": 260.13
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Sanchez's private life.",
+      "translation": "桑切斯的私生活。",
+      "start": 260.55,
+      "end": 261.97
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Good.",
+      "translation": "很好,你觉得呢?",
+      "start": 262.41,
+      "end": 262.69
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "As his personal assistant, you would be required to run common everyday chores for Mr.",
+      "translation": "作为他的私人助理,你将被要求为Mr.S.先生做日常日常家务。",
+      "start": 263.29,
+      "end": 268.05
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Sanchez, things he cannot do himself due to his fame, like going to the supermarket or post office.",
+      "translation": "桑切斯,他无法自己做的事情 因为他的名声, 像去超市或邮局。",
+      "start": 268.55,
+      "end": 274.09
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So, well, at first sight it may appear that working for a celebrity is very glamorous.",
+      "translation": "所以,乍一看,为名人工作 似乎非常有魅力。",
+      "start": 274.75,
+      "end": 279.93
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Nothing could be further from the truth.",
+      "translation": "事实真相再没有比这更进一步了。",
+      "start": 280.63,
+      "end": 282.25
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'm telling you this so that you don't get any false expectations of what the job has to offer you.",
+      "translation": "我告诉你,这样你就不会 得到任何错误的期望 工作有给你什么。",
+      "start": 283.05,
+      "end": 288.03
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Thanks.",
+      "translation": "谢谢。",
+      "start": 288.49,
+      "end": 289.05,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I understand this too.",
+      "translation": "我对此也很清楚。",
+      "start": 289.43,
+      "end": 290.41,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This is my first job after graduating from university.",
+      "translation": "这是我大学毕业后的第一份工作。",
+      "start": 291.15,
+      "end": 293.85,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So frankly, I don't have much prior working experience.",
+      "translation": "所以坦白说，我之前没有多少工作经验。",
+      "start": 294.35,
+      "end": 297.21,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I am, however, very excited about the prospect of joining this company and very keen to start from the bottom in whatever capacity I may be of use.",
+      "translation": "不过，我非常期待有机会加入这家公司，也很愿意从基层做起，无论在哪个岗位上，只要我能发挥作用就行。",
+      "start": 297.21,
+      "end": 307.62,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That's good to hear.",
+      "translation": "听你这么说很好。",
+      "start": 308.22,
+      "end": 309.0,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You sound very energetic.",
+      "translation": "你听起来精力很充沛。",
+      "start": 309.56,
+      "end": 310.42,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Tell me why you think you are well suited for this job?",
+      "translation": "告诉我，你为什么认为自己适合这份工作？",
+      "start": 311.28,
+      "end": 314.5,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Well, firstly, I love football.",
+      "translation": "首先，我热爱足球。",
+      "start": 315.4,
+      "end": 316.82,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'm a lifelong Real Madrid supporter and go to their games every weekend I can.",
+      "translation": "我是皇家马德里的终身支持者，只要有可能，我每个周末都会去看他们的比赛。",
+      "start": 317.46,
+      "end": 322.4,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I would simply love to have a job where I'm involved in some capacity with Real Madrid, regardless of the position and salary.",
+      "translation": "我非常希望能找一份以某种方式参与皇家马德里事务的工作，不管职位和薪水如何。",
+      "start": 323.08,
+      "end": 331.02,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And secondly, I think what this company does in sports consultancy is very cool.",
+      "translation": "其次，我觉得这家公司在体育咨询方面所做的事情非常酷。",
+      "start": 331.65,
+      "end": 337.61,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And I think my language skills could prove very useful down the road.",
+      "translation": "我还认为，我的语言能力将来可能会派上很大用场。",
+      "start": 337.61,
+      "end": 342.45,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Please tell me more about your language skills.",
+      "translation": "请详细说说你的语言能力。",
+      "start": 342.91,
+      "end": 344.77,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I am fully fluent in English and Spanish and have a working proficiency in French.",
+      "translation": "我的英语和西班牙语都非常流利，法语也达到了工作交流水平。",
+      "start": 344.77,
+      "end": 350.31,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions 5 to 8 are based on the conversation you have just heard.",
+      "translation": "问题5到8是基于你刚才听到的谈话",
+      "start": 351.78,
+      "end": 355.8
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 5.",
+      "translation": "问题5",
+      "start": 356.89,
+      "end": 357.71
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What do we learn from the conversation about Mr.",
+      "translation": "我们从谈话中学到什么?",
+      "start": 358.23,
+      "end": 360.87
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Sanchez?",
+      "translation": "桑切斯吗?",
+      "start": 361.07,
+      "end": 361.23
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 6.",
+      "translation": "问题6",
+      "start": 374.95,
+      "end": 376.01
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What will the man do if he gets the job?",
+      "translation": "男人如果得到这份工作会怎么做?",
+      "start": 376.69,
+      "end": 379.07
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 7.",
+      "translation": "问题7",
+      "start": 392.68,
+      "end": 393.56
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the man say about himself?",
+      "translation": "他对自己说了什么?",
+      "start": 394.24,
+      "end": 396.14
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 8.",
+      "translation": "问题8",
+      "start": 410.1,
+      "end": 410.82
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Why does the man think he is a very competitive candidate?",
+      "translation": "为什么他觉得自己是个竞争激烈的候选人?",
+      "start": 411.34,
+      "end": 414.58
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Section B.",
+      "translation": "B节。",
+      "start": 428.11,
+      "end": 428.95
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In this section you will hear two passages.",
+      "translation": "在本节中,你们将听到两段。",
+      "start": 430.83,
+      "end": 432.61
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "At the end of each passage you will hear three or four questions.",
+      "translation": "在每一段的结尾 你会听到三个或四个问题",
+      "start": 433.43,
+      "end": 437.13
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Both the passage and the questions will be spoken only once.",
+      "translation": "发言的通过和提问将只讲一次。",
+      "start": 437.79,
+      "end": 441.25
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "After you hear a question, you must choose the best answer from the four choices marked A, B, C and D.",
+      "translation": "在听到一个问题后,你必须从四个选择中选择最好的答案,这四个选择分别是A、B、C和D。",
+      "start": 441.8,
+      "end": 448.86
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "mark the corresponding letter on answer sheet one with a single line through the center.",
+      "translation": "在答题单单行的答题表一中标出相应的字母。",
+      "start": 449.6,
+      "end": 454.12
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Adventure sports are undeniably attractive to many energetic and thrill-seeking kids.",
+      "translation": "冒险运动对许多精力充沛、寻求刺激的孩子来说无疑很有吸引力。",
+      "start": 457.0,
+      "end": 463.138,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Sports like rock climbing, surfing, skiing, and mountain biking, thus have lots of appeal.",
+      "translation": "因此，攀岩、冲浪、滑雪和山地自行车等运动颇受欢迎。",
+      "start": 463.138,
+      "end": 470.95,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They don't have many of the rules and pressures of traditional team sports, but they still have all the benefits of outdoor physical activity.",
+      "translation": "它们没有传统团队运动中那么多的规则和压力，但仍具备户外体育活动的全部益处。",
+      "start": 470.95,
+      "end": 479.55,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "When properly supervised, extreme sports can be a part of a healthy, balanced life.",
+      "translation": "在得到适当监管的情况下，极限运动可以成为健康、均衡生活的一部分。",
+      "start": 480.59,
+      "end": 485.73,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Some adventure sports may be associated with high risks of injury, so it's important for kids to figure out when to take risks, and when not to.",
+      "translation": "有些冒险运动可能伴随着较高的受伤风险，因此，孩子们必须弄清楚什么时候应该冒险，什么时候不应该冒险。",
+      "start": 486.94,
+      "end": 496.4,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Risk-free activities deprive kids of the opportunity to test themselves and overcome their fears.",
+      "translation": "没有任何风险的活动会剥夺孩子们挑战自我、克服恐惧的机会。",
+      "start": 496.4,
+      "end": 503.7,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But to some, these very risks are what makes these sports a bad choice.",
+      "translation": "但在一些人看来，正是这些风险使这类运动成为糟糕的选择。",
+      "start": 505.04,
+      "end": 509.56,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They say that extreme sports can often lead to devastating injuries, especially as young thrill-seekers may attempt feats that are too advanced for them.",
+      "translation": "他们认为，极限运动往往会导致严重的伤害，尤其是年轻的冒险者可能会尝试对他们来说难度过高的动作。",
+      "start": 510.67,
+      "end": 520.73,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But let's be real.",
+      "translation": "但我们还是面对现实吧。",
+      "start": 521.76,
+      "end": 522.66,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Most kids do all kinds of dangerous stuff whether you want them to or not.",
+      "translation": "不管你愿不愿意，大多数孩子都会做各种各样的危险事情。",
+      "start": 523.2,
+      "end": 528.0,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Adventure sports have many of the same risks and dangers, but they have an additional sense of adventure, courage and autonomy that is important to foster in young children.",
+      "translation": "冒险运动也有许多相同的风险和危险，但它们还具有一种额外的冒险精神、勇气和自主意识，而这些品质对年幼的孩子来说很重要，需要加以培养。",
+      "start": 528.66,
+      "end": 540.06,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "As always, it's up to parents to decide what's best for their kids.",
+      "translation": "一如既往，父母应当决定什么对自己的孩子最好。",
+      "start": 541.1,
+      "end": 545.0,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But if you do decide that adventure sports are a bit too much, do try to introduce other forms of outdoor adventures into their lives.",
+      "translation": "但如果你确实认为冒险运动有些过于激烈，那就应该努力将其他形式的户外探险引入孩子的生活。",
+      "start": 545.5,
+      "end": 555.18,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Camping under the stars, fishing, stargazing or even just playing in the woods can help a lot in building the same sense of self-confidence and risk-taking as in adventure sports.",
+      "translation": "在星空下露营、钓鱼、观星，甚至只是在树林里玩耍，都能大大帮助孩子培养与冒险运动相同的自信心和冒险精神。",
+      "start": 555.81,
+      "end": 568.81,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 10.",
+      "translation": "问题10。",
+      "start": 592.78,
+      "end": 593.72
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "does a speaker say about risk-free activities?",
+      "translation": "一位发言者是否提到无风险活动?",
+      "start": 594.64,
+      "end": 598.12
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 11.",
+      "translation": "问题11。",
+      "start": 611.86,
+      "end": 612.68
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What should parents do if they decide adventure sports are a bit too much for their kids?",
+      "translation": "如果父母认为冒险运动对孩子来说太过分,",
+      "start": 613.18,
+      "end": 618.8
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Passage 2.",
+      "translation": "通行证2。",
+      "start": 632.63,
+      "end": 633.41
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The shiny gadgets of today will be waste tomorrow.",
+      "translation": "今天光鲜亮丽的电子产品明天就会成为废品。",
+      "start": 634.36,
+      "end": 637.42,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Manufacturers don't talk much about this when they announce the big new thing that will replace your mostly just as good old thing.",
+      "translation": "当制造商宣布要推出替代你那几乎同样好用的旧产品的新款重磅产品时，他们很少提及这一点。",
+      "start": 638.74,
+      "end": 647.04,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In fact, technology firms often purposely design devices that will not last long and cannot be repaired so that consumers will have to spend their money on a new one.",
+      "translation": "事实上，科技公司往往故意设计使用寿命不长且无法维修的设备，以便消费者不得不花钱购买新设备。",
+      "start": 647.76,
+      "end": 660.58,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This year, the French government began requiring tech manufacturers to list a repairability score.",
+      "translation": "今年，法国政府开始要求科技制造商标注可维修性评分。",
+      "start": 661.45,
+      "end": 668.21,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "If a device can be repaired, then its life can be extended, saving consumers money and the planet the burden of so many trashed gadgets.",
+      "translation": "如果一台设备可以维修，其使用寿命就能延长，从而为消费者节省资金，并减轻大量报废电子设备给地球带来的负担。",
+      "start": 669.14,
+      "end": 679.64,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Equipped with this knowledge, consumers can make better choices about which products to buy.",
+      "translation": "掌握了这一信息，消费者在决定购买哪些产品时就能做出更好的选择。",
+      "start": 680.72,
+      "end": 686.46,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Some 59 million tons of old TVs, computers, screens, smartphones, washers and other electronics are discarded every year.",
+      "translation": "每年约有5900万吨旧电视、电脑、显示屏、智能手机、洗衣机和其他电子产品被废弃。",
+      "start": 687.78,
+      "end": 698.94,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This waste is dangerous.",
+      "translation": "这种废弃物是危险的。",
+      "start": 700.01,
+      "end": 701.43,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Batteries explode in recycling facilities.",
+      "translation": "电池会在回收设施中发生爆炸。",
+      "start": 702.41,
+      "end": 704.81,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Toxic substances like mercury leak into soil and groundwater and disperse in the air.",
+      "translation": "汞等有毒物质会渗入土壤和地下水，并散播到空气中。",
+      "start": 705.72,
+      "end": 713.24,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Manufacturing flat screens adds greenhouse gases to the atmosphere.",
+      "translation": "制造平板显示屏会向大气中排放额外的温室气体。",
+      "start": 714.88,
+      "end": 718.46,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We need tech companies to take the lead to solve this problem.",
+      "translation": "我们需要科技公司带头解决这个问题。",
+      "start": 719.44,
+      "end": 723.5,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "If they won't, governments must make them do so.",
+      "translation": "如果他们不愿意，政府就必须强制他们这样做。",
+      "start": 724.24,
+      "end": 727.34,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Although tech companies will often speak of environmental sustainability, many lobby against repair legislation, fearful it will eat into their profits.",
+      "translation": "尽管科技公司经常谈论环境可持续性，但许多公司却游说反对维修立法，担心这会侵蚀它们的利润。",
+      "start": 728.54,
+      "end": 739.53,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Sustainability matters, but marketable design appears to matter more to these companies.",
+      "translation": "可持续性固然重要，但对这些公司而言，具有市场吸引力的设计似乎更为重要。",
+      "start": 740.53,
+      "end": 746.41,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Consumers should support right-to-repair legislation.",
+      "translation": "消费者应当支持“维修权”立法。",
+      "start": 747.55,
+      "end": 750.55,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In this world, damage is a certainty.",
+      "translation": "在这个世界上，损坏是必然会发生的。",
+      "start": 751.91,
+      "end": 754.61,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But we cannot leave things broken: A problem of our creation is a problem that can be fixed.",
+      "translation": "但我们不能任由东西坏着不管：我们制造出的问题是一个可以被解决的问题。",
+      "start": 755.29,
+      "end": 761.43,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions 12-15 are based on the passage you have just heard.",
+      "translation": "问题12 -15是基于你刚才听到的段落",
+      "start": 762.63,
+      "end": 766.91
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "12.",
+      "translation": "12. 十二、结 论",
+      "start": 767.89,
+      "end": 768.53
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "did new tech products soon become waste?",
+      "translation": "新的科技产品是否很快变成废物?",
+      "start": 769.39,
+      "end": 772.09
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 13.",
+      "translation": "问题13。",
+      "start": 786.03,
+      "end": 786.97
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What did the French government require tech companies to do to help consumers make better choices?",
+      "translation": "法国政府要求科技公司做什么来帮助消费者做出更好的选择?",
+      "start": 787.59,
+      "end": 793.53
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "14.",
+      "translation": "14. 14个",
+      "start": 807.63,
+      "end": 808.35
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What should tech companies do to help ensure environmental sustainability?",
+      "translation": "技术公司应做些什么来帮助确保环境可持续性?",
+      "start": 808.79,
+      "end": 813.73
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 15.",
+      "translation": "问题15。",
+      "start": 827.88,
+      "end": 828.76
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the speaker think of the problem of waste?",
+      "translation": "发言者对浪费问题有何看法?",
+      "start": 829.32,
+      "end": 832.22
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Section C.",
+      "translation": "C节。",
+      "start": 846.08,
+      "end": 846.82
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In this section you will hear three recordings of lectures or talks, followed by three or four questions.",
+      "translation": "在本节中,你们将听取三场讲座或会谈录音,然后是三四个问题。",
+      "start": 848.92,
+      "end": 855.46
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The recordings will be played only once.",
+      "translation": "录音只播放一次。",
+      "start": 856.32,
+      "end": 858.44
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "you hear a question, you must choose the best answer from the four choices marked A, B, C and D.",
+      "translation": "听到一个问题,你必须从四个选择中选择最好的答案 四个选择标注A、B、C和D",
+      "start": 859.64,
+      "end": 866.02
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "mark the corresponding letter on answer sheet one with a single line through the center.",
+      "translation": "在答题单单行的答题表一中标出相应的字母。",
+      "start": 866.7,
+      "end": 871.08
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Recording one.",
+      "translation": "记录一。",
+      "start": 872.14,
+      "end": 873.2
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "On average, US workers spend about 10% of their workday surfing the internet,",
+      "translation": "平均而言,美国工人花在网上的工作时间占工作日的10%",
+      "start": 874.06,
+      "end": 880.24
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This behavior, called cyberloafing, is believed to cost employers up to $85 billion a year in lost productivity.",
+      "translation": "这种被称为“网络闲逛”的行为，据认为每年会因生产力损失而使雇主损失高达850亿美元。",
+      "start": 884.25,
+      "end": 893.19,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The majority of cyberloafing research focuses on ways to prevent employees from engaging in this behavior through interventions such as internet monitoring and computer use policies.",
+      "translation": "大多数关于网络闲逛的研究都集中于如何通过互联网监控和计算机使用政策等干预措施，防止员工从事这种行为。",
+      "start": 894.61,
+      "end": 906.82,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But it turns out, such behaviors may not be a sign that a worker is lazy or just wasting time.",
+      "translation": "但事实证明，这类行为未必意味着员工懒惰或只是在浪费时间。",
+      "start": 908.18,
+      "end": 915.2,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Social media use at work has been linked to higher levels of employee engagement and job satisfaction.",
+      "translation": "研究表明，在工作中使用社交媒体与更高水平的员工敬业度和工作满意度相关。",
+      "start": 915.94,
+      "end": 922.86,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "New research suggests cyberloafing can help workers cope with an exceptionally stressful work environment.",
+      "translation": "新的研究显示，网络闲逛可以帮助员工应对压力异常大的工作环境。",
+      "start": 923.87,
+      "end": 931.58,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But is cyberloafing actually effective at reducing employee stress levels?",
+      "translation": "但网络闲逛是否真的能有效降低员工的压力水平？",
+      "start": 932.95,
+      "end": 938.19,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That's the question my research team wanted to answer in our new study.",
+      "translation": "这正是我的研究团队希望在新研究中回答的问题。",
+      "start": 938.83,
+      "end": 943.39,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Our hypothesis was that cyberloafing may serve as a mini-break, giving employees an opportunity to recover from stressful work situations.",
+      "translation": "我们的假设是，网络闲逛可以起到短暂休息的作用，为员工提供从压力大的工作情境中恢复的机会。",
+      "start": 944.21,
+      "end": 954.13,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "To test this, we asked workers to complete an online survey and rank how much time they spent cyberloafing, checking non-work emails and shopping.",
+      "translation": "为了验证这一点，我们要求员工完成一份在线调查，并对自己花在网络闲逛、查看非工作邮件和购物上的时间进行排序。",
+      "start": 955.27,
+      "end": 965.82,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We also asked them to rank job satisfaction, their desire to quit, and how often they've experienced mistreatment at work, such as being bullied, threatened or yelled at.",
+      "translation": "我们还要求他们对工作满意度、离职意愿，以及在工作中遭受不当对待的频率进行评定，例如受到欺凌、威胁或吼叫。",
+      "start": 966.76,
+      "end": 979.54,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "As you might expect, we found that overall, more mistreatment at work was correlated with lower levels of job satisfaction and a greater desire to quit.",
+      "translation": "正如你所料，我们发现总体而言，工作中遭受的不当对待越多，工作满意度越低，离职意愿越强。",
+      "start": 980.58,
+      "end": 991.99,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "More interestingly, we found that cyberloafing effectively buffered this connection.",
+      "translation": "更有意思的是，我们发现网络闲逛有效地缓冲了这种关联。",
+      "start": 993.2,
+      "end": 999.8,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That is, mistreated workers who spent more time surfing the web and checking emails reported higher job satisfaction and were less likely to want to quit than similar participants who didn't cyberloaf as much.",
+      "translation": "也就是说，与网络闲逛较少的类似参与者相比，遭受不当对待但花更多时间浏览网页和查看电子邮件的员工报告了更高的工作满意度，也不太可能想要离职。",
+      "start": 1000.72,
+      "end": 1016.06,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This suggests that cyberloafing acts as a sort of relief valve for workers, helping them recover from stressful experiences.",
+      "translation": "这表明，网络闲逛对员工而言就像一种减压阀，帮助他们从压力经历中恢复过来。",
+      "start": 1017.27,
+      "end": 1026.35,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "While we did not directly assess how cyberloafing affects worker performance, we believe by relieving stress it may not only reduce worker turnover, but also ultimately bolster productivity.",
+      "translation": "虽然我们没有直接评估网络闲逛如何影响员工的工作表现，但我们认为，通过缓解压力，它不仅可能减少员工流失，最终还可能提高生产力。",
+      "start": 1027.97,
+      "end": 1041.15,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This fits with other recent research that suggests taking short breaks is associated with higher levels of daily job performance.",
+      "translation": "这与其他近期研究的结果相符，即进行短暂休息与更高水平的日常工作表现相关。",
+      "start": 1042.28,
+      "end": 1049.92,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That isn't to say cyberloafing is always good.",
+      "translation": "这并不是说网络闲逛总是有益的。",
+      "start": 1051.26,
+      "end": 1054.24,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Too much time spent on non-work activities likely causes performance to suffer.",
+      "translation": "花费过多时间从事非工作活动很可能会导致工作表现下降。",
+      "start": 1055.33,
+      "end": 1060.89,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "All in all, managers should be more lenient with employees.",
+      "translation": "总的来说，管理者应该对员工更加宽容。",
+      "start": 1061.85,
+      "end": 1065.73,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We believe a bit of online shopping or surfing the internet at work could make workers more productive in the long run.",
+      "translation": "我们认为，在工作中进行一些在线购物或浏览互联网，从长远来看可能会让员工更具生产力。",
+      "start": 1066.91,
+      "end": 1096.1,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "When Julius Morton moved to Nebraska City in 1854,",
+      "translation": "朱利叶斯·莫顿1854年搬到内布拉斯加州市时",
+      "start": 1139.6,
+      "end": 1143.72
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That meant no trees for building materials, or for fuel.",
+      "translation": "这意味着没有树木可用作建筑材料，也没有木材可作燃料。",
+      "start": 1150.68,
+      "end": 1154.98,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But Morton was one of the world's first conservationists, stating, \"For prosperity, we ought to plant as many forests as we have exhausted and consumed\".",
+      "translation": "但莫顿是世界上最早的自然资源保护主义者之一，他说：“为了繁荣，我们应当种植与已经耗尽和消耗掉的森林一样多的森林。",
+      "start": 1156.11,
+      "end": 1165.89,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So he started planting trees, beginning with his own land.",
+      "translation": "”于是，他开始植树，先从自己的土地种起。",
+      "start": 1166.64,
+      "end": 1170.06,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "By 1860 Morton possessed a forest of more than 300 trees.",
+      "translation": "到1860年，莫顿已经拥有一片由300多棵树组成的树林。",
+      "start": 1170.72,
+      "end": 1175.7,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "A few years later, he had more than 1,000.",
+      "translation": "几年后，他拥有的树木超过了1,000棵。",
+      "start": 1176.42,
+      "end": 1179.77,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "As the forest grew, so did Morton's influence in Nebraska.",
+      "translation": "随着树林不断生长，莫顿在内布拉斯加州的影响力也日益扩大。",
+      "start": 1179.77,
+      "end": 1183.63,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This was largely because Morton founded the Nebraska City News, the state's first newspaper, in which he frequently wrote editorials about the practical and aesthetic benefits of tree planting.",
+      "translation": "这主要是因为莫顿创办了《内布拉斯加城新闻报》，这是该州的第一份报纸；他经常在报纸上撰写社论，介绍植树在实用和审美方面的益处。",
+      "start": 1184.61,
+      "end": 1196.84,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "He also organized the Nebraska State Gardening Society and served on the Nebraska State Board of Agriculture.",
+      "translation": "他还组织成立了内布拉斯加州园艺协会，并担任内布拉斯加州农业委员会委员。",
+      "start": 1198.1,
+      "end": 1204.36,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "While serving on the Board, Morton came up with an idea to spread his belief in tree planting statewide.",
+      "translation": "任职期间，莫顿想出了一个办法，要将他关于植树的信念传播到全州。",
+      "start": 1205.78,
+      "end": 1211.72,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "On January 4, 1872, Morton drafted a resolution that April 10 be designated day for the planting of trees in the State of Nebraska and urged people to go out and plant trees themselves.",
+      "translation": "1872年1月4日，莫顿起草了一项决议，提议将4月10日定为内布拉斯加州植树日，并号召人们走出家门，亲自植树。",
+      "start": 1213.13,
+      "end": 1226.83,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Morton called the special event Arbor Day as \"arbor\" is Latin for \"tree\".",
+      "translation": "莫顿把这一特别活动称为“植树节”，因为“arbor”在拉丁语中意为“树”。",
+      "start": 1227.97,
+      "end": 1232.87,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The state government agreed.",
+      "translation": "州政府同意了这一提议。",
+      "start": 1234.04,
+      "end": 1235.2,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And on April 10, 1872, the first unofficial Arbor Day was celebrated throughout Nebraska.",
+      "translation": "1872年4月10日，内布拉斯加州各地庆祝了第一个非正式的植树节。",
+      "start": 1235.8,
+      "end": 1242.06,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Prizes were awarded to counties, cities, and individuals who planted the largest number of trees.",
+      "translation": "植树数量最多的县、市和个人获得了奖励。",
+      "start": 1243.2,
+      "end": 1248.98,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That day, an astounding one million trees were planted in Nebraska—an average of more than six for every man, woman and child in the state.",
+      "translation": "那一天，内布拉斯加州种下了惊人的100万棵树，平均每位州内居民，包括男女老幼在内，种下了六棵以上的树。",
+      "start": 1249.77,
+      "end": 1260.25,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Since 1885, Nebraska has planted more than 700,000 acres of trees, earning it the nickname \"the Tree Planters State\".",
+      "translation": "自1885年以来，内布拉斯加州已经种植了超过70万英亩的树木，因此获得了“植树州”的昵称。",
+      "start": 1261.37,
+      "end": 1271.55,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Arbor Day became a legal, civic holiday in the state in 1885.",
+      "translation": "1885年，植树节在该州成为法定的公民节日。",
+      "start": 1272.78,
+      "end": 1277.66,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It was held on April 22—Julius Morton's birthday.",
+      "translation": "节日定于4月22日举行，这一天是朱利叶斯·莫顿的生日。",
+      "start": 1278.15,
+      "end": 1282.25,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In addition to a parade in Nebraska City, Morton introduced what has since become a long-standing Arbor Day tradition: School children went outside and planted trees together.",
+      "translation": "除了在内布拉斯加城举行游行外，莫顿还引入了一项后来成为植树节长期传统的活动：学生们走到户外，一起植树。",
+      "start": 1283.44,
+      "end": 1294.84,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In 1970, nearly a century after Arbor Day was first celebrated, President Richard Nixon declared the last Friday of every April to be observed as National Arbor Day.",
+      "translation": "1970年，也就是植树节首次庆祝近一个世纪后，理查德·尼克松总统宣布将每年4月的最后一个星期五定为全国植树节。",
+      "start": 1295.9,
+      "end": 1307.78,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "All 50 states recognize the April observance, although many hold an additional state Arbor Day in a month more suited to local tree planting.",
+      "translation": "美国50个州都承认在4月举行的这一节日，尽管许多州还会在更适合当地植树的月份另行庆祝本州植树节。",
+      "start": 1308.68,
+      "end": 1317.5,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the speakers say about Nebraska City in 1854 when Julius Morton moved there?",
+      "translation": "1854年朱利叶斯·莫顿搬到内布拉斯加州时,",
+      "start": 1325.46,
+      "end": 1331.54
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 20.",
+      "translation": "问题20。",
+      "start": 1344.93,
+      "end": 1345.63
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What did Julius Morton do that increased his influence in Nebraska City?",
+      "translation": "朱利叶斯·莫顿在内布拉斯加州市 有何影响力?",
+      "start": 1346.61,
+      "end": 1351.01
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 21.",
+      "translation": "问题21",
+      "start": 1364.52,
+      "end": 1365.34
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the speaker say happened on April 10th, 1872?",
+      "translation": "1872年4月10日发生什么了?",
+      "start": 1366.12,
+      "end": 1370.54
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "3.",
+      "translation": "3 个",
+      "start": 1384.69,
+      "end": 1385.07
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Modern humans arose in Africa about 200,000 years ago.",
+      "translation": "现代人类在大约20万年前起源于非洲。",
+      "start": 1386.58,
+      "end": 1390.76,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They then spread across Europe and Asia sometime after 60,000 years ago.",
+      "translation": "随后，他们在距今6万年后的某个时间扩散到了欧洲和亚洲。",
+      "start": 1391.21,
+      "end": 1396.61,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This is the \"Out of Africa\" model, as it's commonly known.",
+      "translation": "这就是人们通常所说的“走出非洲”模型。",
+      "start": 1397.38,
+      "end": 1401.22,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In the 1990s, the hypothesis found widespread acceptance.",
+      "translation": "在20世纪90年代，这一假设得到了广泛接受。",
+      "start": 1402.15,
+      "end": 1406.09,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But this popular idea is in need of revision, particularly given the number of important findings across Asia over the past few decades.",
+      "translation": "但鉴于过去几十年间在整个亚洲取得的一系列重要发现，这一流行观点有必要进行修改。",
+      "start": 1407.13,
+      "end": 1415.05,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "For instance, many new human fossils found, particularly in China, are now dated as older than 60,000 years.",
+      "translation": "例如，许多新发现的人类化石（特别是在中国发现的）现在的测年结果都早于6万年前。",
+      "start": 1416.34,
+      "end": 1425.21,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This calls into question the idea that modern humans migrated out of Africa only 60,000 years ago.",
+      "translation": "这使人们对现代人类仅在6万年前才迁出非洲的观点提出了质疑。",
+      "start": 1426.07,
+      "end": 1433.31,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Take the recent discovery of two modern human teeth found in the Luna cave in China's Guangxi Zhuang Autonomous Region.",
+      "translation": "以最近在中国广西壮族自治区陆那洞发现的两颗现代人类牙齿为例。",
+      "start": 1434.06,
+      "end": 1442.22,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "When my research team and I dated these teeth, we found they were more than 70,000 years old—a situation clearly impossible if modern humans moved out of Africa only 60,000 years ago.",
+      "translation": "当我和我的研究团队对这两颗牙齿进行测年时，我们发现它们有超过7万年的历史——如果现代人类仅在6万年前才走出非洲，这种情况显然是不可能的。",
+      "start": 1443.18,
+      "end": 1457.17,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So with such findings, what happened exactly?",
+      "translation": "那么，面对这些发现，究竟发生了什么？",
+      "start": 1458.04,
+      "end": 1460.72,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Where does the most current data suggest we came from?",
+      "translation": "最新的数据表明我们来自何方？",
+      "start": 1461.52,
+      "end": 1464.34,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The first question we should ask is why did modern humans leave Africa to begin with?",
+      "translation": "我们首先应该问的问题是：现代人类最初为什么离开非洲？",
+      "start": 1465.31,
+      "end": 1471.17,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "If a population is perfectly adapted to a particular environment and has access to an abundance of resources, then there really is no reason to move or change.",
+      "translation": "如果一个群体完全适应了特定环境并且拥有丰富的资源，那么确实没有理由迁移或改变。",
+      "start": 1471.87,
+      "end": 1483.26,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "For instance, some monkeys in Africa have a set of teeth that has hardly changed over the course of millions of years, indicating that they found a place that has worked for them.",
+      "translation": "例如，非洲的一些猴子的牙齿在数百万年间几乎没有任何变化，这表明它们找到了适合自己的生存之地。",
+      "start": 1484.1,
+      "end": 1495.64,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So what happened with humans?",
+      "translation": "那么人类发生了什么？",
+      "start": 1496.46,
+      "end": 1497.78,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Some researchers have suggested that population density increased to the point where smaller human groups were forced to explore new lands.",
+      "translation": "一些研究人员提出，人口密度增加到了迫使较小的人类群体不得不去探索新土地的程度。",
+      "start": 1498.76,
+      "end": 1506.94,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Other researchers have suggested that due to major environmental events in East Africa, humans were prompted to find greener pastures.",
+      "translation": "另一些研究人员则认为，由于东非发生的重大环境事件，促使人类去寻找更适宜生存的环境。",
+      "start": 1507.63,
+      "end": 1517.01,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Yet another explanation could simply be that early modern human hunters were following the large animals that they relied on, and so they moved out of Africa without realizing that they were actually moving from one continent to another.",
+      "translation": "还有一种解释可能仅仅是，早期的现代人类猎人跟随着他们所依赖的大型动物，因此在没有意识到自己实际上正在从一个大洲迁移到另一个大洲的情况下就移出了非洲。",
+      "start": 1517.85,
+      "end": 1533.65,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Humans need daily access to reliable fresh water, which appears to be absent from many coastal areas.",
+      "translation": "人类每天都需要获得可靠的淡水，而许多沿海地区似乎缺乏淡水。",
+      "start": 1534.38,
+      "end": 1541.34,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This brings us to another question: by which route did modern humans move out of Africa?",
+      "translation": "这就带出了另一个问题：现代人类是通过哪条路线迁出非洲的？",
+      "start": 1542.28,
+      "end": 1548.04,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "No clear route across the Mediterranean from North Africa appears to be present, so the earlier dispersals out of Africa and into Europe and Asia might have been across the Arabian Peninsula.",
+      "translation": "从北非穿过地中海的路线似乎并不存在明确的路径，因此早期走出非洲进入欧洲和亚洲的扩散可能是穿过了阿拉伯半岛。",
+      "start": 1548.96,
+      "end": 1562.92,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions 22-25 are based on the recording you have just heard.",
+      "translation": "问题22 -25是基于你刚才听到的录音",
+      "start": 1564.33,
+      "end": 1569.09
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "22.",
+      "translation": "22. 妇女 22",
+      "start": 1570.36,
+      "end": 1571.24
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What do we learn about modern humans according to the hypothesis commonly accepted in the 1990s?",
+      "translation": "根据1990年代普遍接受的假设,我们如何了解现代人类?",
+      "start": 1572.02,
+      "end": 1578.4
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "23.",
+      "translation": "23 号",
+      "start": 1592.0,
+      "end": 1592.74
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What has called into question the out of Africa model?",
+      "translation": "是什么让非洲以外的模式受到质疑?",
+      "start": 1593.6,
+      "end": 1596.8
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "24.",
+      "translation": "24. 24个",
+      "start": 1610.66,
+      "end": 1611.58
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the speaker want to show with the example of some monkeys in Africa?",
+      "translation": "发言人想用非洲一些猴子的例子来说明什么?",
+      "start": 1612.22,
+      "end": 1616.9
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "25.",
+      "translation": "25个",
+      "start": 1631.06,
+      "end": 1631.86
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What question does the speaker raise close to the end of the talk?",
+      "translation": "发言者在发言接近尾声时提出了什么问题?",
+      "start": 1632.35,
+      "end": 1636.27
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That's the end of listening comprehension.",
+      "translation": "听觉理解到此结束",
+      "start": 1649.89,
+      "end": 1651.93
+    }
+  ],
+  "translation_sources": [
+    "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/",
+    "Sams200/opus-mt-en-zh (unmatched sentences only)"
+  ]
+}

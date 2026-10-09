@@ -1,0 +1,1402 @@
+{
+  "id": "cet4-2019_12_1",
+  "title": "2019年12月 第1套",
+  "level": 4,
+  "source_url": "https://www.cettong.cn/library/cet4/2019_12_1",
+  "material_source": "https://117.72.200.49/#/library",
+  "audio": "assets/tavern/listening/real-exams/cettong/cet4/2019/2019_12_1.exampace-playback.mp3",
+  "caption_kind": "published_material_with_auxiliary_timing_and_translation",
+  "caption_models": [
+    "Systran/faster-whisper-base.en",
+    "Sams200/opus-mt-en-zh"
+  ],
+  "lines": [
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "New York City Police captured a cow on the loose in Prospect Park on Tuesday after the animal became an attraction for tourists while walking along the streets and enjoying the park facilities.",
+      "translation": "纽约市警方周二在展望公园抓获了一头走失的奶牛，此前这头动物在街道上行走并使用公园设施时成了游客们的观赏对象。",
+      "start": 37.64,
+      "end": 51.08,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The confused creature and camera-holding humans stared at each other through a fence for several minutes.",
+      "translation": "这头困惑的动物和手持相机的人们隔着栅栏互相凝视了几分钟。",
+      "start": 51.87,
+      "end": 58.89,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "At other times the cow wandered around the 526-acre park and the artificial grass field normally used for human sporting events.",
+      "translation": "其他时候，这头牛在这座占地526英亩的公园和通常用于人类体育活动的人工草地上四处游荡。",
+      "start": 59.65,
+      "end": 70.33,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Officers used soccer goals to fence the animal in.",
+      "translation": "警察使用足球球门将这头动物围住。",
+      "start": 71.17,
+      "end": 74.91,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "However, the cow then moved through one of the nets, knocking down a police officer in the process.",
+      "translation": "然而，这头牛随后穿过了其中一张球网,在此过程中撞倒了一名警察。",
+      "start": 75.49,
+      "end": 82.51,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Police eventually trapped the cow between two vehicles parked on either side of a baseball field's bench area.",
+      "translation": "警方最终将这头牛困在棒球场长椅区两侧停放的两辆车之间。",
+      "start": 83.35,
+      "end": 91.61,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "An officer then shot an arrow to put it to sleep.",
+      "translation": "随后一名警察射出一支箭让它入睡。",
+      "start": 92.43,
+      "end": 95.89,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Then officers waited for the drug to take effect.",
+      "translation": "然后警察们等待药物生效。",
+      "start": 96.91,
+      "end": 99.81,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "After it fell asleep, they loaded the cow into a horse trailer.",
+      "translation": "在它睡着后,他们将这头牛装上了一辆运马拖车。",
+      "start": 100.4,
+      "end": 105.08,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It was not clear where the cow came from or how it got lost.",
+      "translation": "目前尚不清楚这头牛来自哪里或如何走失的。",
+      "start": 105.96,
+      "end": 110.38,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Police turned it over to the animal control department after they caught it.",
+      "translation": "警方在抓获它后将其移交给了动物管理部门。",
+      "start": 111.08,
+      "end": 115.38,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "News report 2.",
+      "translation": "《新闻报告2》。",
+      "start": 158.49,
+      "end": 159.97
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Starting April 28th this year, the National Museum of Natural History will begin renovating its fossil haul.",
+      "translation": "从今年4月28日起,国家自然历史博物馆将开始更新其化石收藏。",
+      "start": 161.06,
+      "end": 169.46
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The fossil hall, which displays some of the world's oldest and largest fossil specimens, receives more than 2 million visitors each year.",
+      "translation": "化石展厅展出世界上一些最古老和最大的化石标本,每年接待超过200万游客。",
+      "start": 170.1,
+      "end": 179.12,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's one of the museum's most famous attractions.",
+      "translation": "它是博物馆最著名的景点之一。",
+      "start": 179.88,
+      "end": 182.78,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "As a result, the museum plans to expand the hall as well as add to its ancient birds collection.",
+      "translation": "因此,博物馆计划扩建展厅并增加其古代鸟类藏品。",
+      "start": 183.73,
+      "end": 190.77,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Bird lovers, both young and old, have already responded with excitement at the news.",
+      "translation": "无论年轻还是年长的鸟类爱好者都已对这一消息作出了兴奋的回应。",
+      "start": 191.71,
+      "end": 197.39,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The museum's social media account has been flooded with messages of support.",
+      "translation": "博物馆的社交媒体账户充斥着支持的留言。",
+      "start": 198.37,
+      "end": 203.35,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In the meantime, the current collection will be closed.",
+      "translation": "与此同时,目前的藏品展览将关闭。",
+      "start": 204.13,
+      "end": 207.45,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "However, visitors will be compensated during the closure.",
+      "translation": "然而,游客将在闭馆期间获得补偿。",
+      "start": 208.41,
+      "end": 212.05,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The Museum's special exhibition area will now be free of charge.",
+      "translation": "博物馆的特别展览区现在将免费开放。",
+      "start": 212.94,
+      "end": 217.6,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This week the resident exhibition is a display of ancient wall paintings on loan from Australia.",
+      "translation": "本周的常驻展览是一场从澳大利亚借展的古代壁画展示。",
+      "start": 218.73,
+      "end": 224.69,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They celebrate the cultural heritage of the country and will be available to view until Sunday.",
+      "translation": "它们颂扬该国的文化遗产,展览将持续到周日。",
+      "start": 225.43,
+      "end": 231.31,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Next week the exhibition will be taken over by the Wildlife Photographer of the Year Competition.",
+      "translation": "下周展览将由年度野生动物摄影师大赛接替。",
+      "start": 232.13,
+      "end": 237.13,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The winner of this year's competition will be awarded a preview of the new fossil hall as well as a cash prize.",
+      "translation": "今年比赛的获胜者将获得新化石展厅的预览机会以及现金奖励。",
+      "start": 238.32,
+      "end": 245.92,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Six birds have just been trained to pick up rubbish at a French historical theme park.",
+      "translation": "六只鸟刚刚被训练到一个法国历史主题公园捡垃圾。",
+      "start": 294.18,
+      "end": 299.88
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "According to the park's manager, Mr.",
+      "translation": "根据公园的经理说,",
+      "start": 300.4,
+      "end": 302.64
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Villiers, the goal is not just to clear up the park.",
+      "translation": "Villiers 目标不仅仅是清理公园",
+      "start": 302.64,
+      "end": 306.48
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "He says visitors are already good at keeping things clean.",
+      "translation": "他说来访者已经很擅长保持干净",
+      "start": 307.14,
+      "end": 311.14
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Instead, he wants to show that nature itself can teach us to take care of the environment.",
+      "translation": "相反,他想要表明,自然本身可以教我们如何照顾环境。",
+      "start": 312.12,
+      "end": 318.3
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "He says that rooks, the chosen birds, are considered to be particularly intelligent.",
+      "translation": "他说 野鸡 被选中的鸟类 被认为特别聪明",
+      "start": 319.11,
+      "end": 324.91
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In the right circumstances, they even like to communicate with humans and establish a relationship through play.",
+      "translation": "在适当的情况下,他们甚至愿意与人沟通,通过玩耍建立关系。",
+      "start": 325.97,
+      "end": 333.09
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The birds will be encouraged to clean the park through the use of a small box that delivers a small amount of bird food each time the rook deposits a cigarette end or a small piece of rubbish.",
+      "translation": "通过使用一个小盒子来清洁公园,鼓励鸟儿们清洁公园,每个小面包箱在鸟儿放烟尾或小垃圾时提供少量鸟食。",
+      "start": 334.07,
+      "end": 348.01
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So far, visitors to the theme park have been excited to see the birds in action.",
+      "translation": "到目前为止,主题公园的访客 都很高兴看到鸟儿在行动",
+      "start": 348.66,
+      "end": 354.6
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "However, some parents are concerned that it encourages their children to drop litter so they can watch the birds pick it up.",
+      "translation": "然而,一些家长担心,它鼓励其子女丢弃垃圾,以便他们看鸟儿捡起垃圾。",
+      "start": 355.26,
+      "end": 363.82
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Villiers is not concerned about this criticism.",
+      "translation": "Villiers不关心这种批评。",
+      "start": 363.82,
+      "end": 366.88
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "He maintains most of the feedback he has received has been overwhelmingly positive.",
+      "translation": "他坚持认为,他收到的大多数反馈是肯定的。",
+      "start": 367.9,
+      "end": 373.56
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "He hopes now to train more birds.",
+      "translation": "他希望现在能训练更多的鸟儿",
+      "start": 374.44,
+      "end": 376.48
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "B.",
+      "translation": "B. B. .",
+      "start": 439.78,
+      "end": 440.34
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Directions.",
+      "translation": "方向",
+      "start": 440.8,
+      "end": 441.3
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In this section you'll hear",
+      "translation": "在这个部分你会听到",
+      "start": 442.4,
+      "end": 444.08
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "two long conversations.",
+      "translation": "两段长长的谈话。",
+      "start": 444.36,
+      "end": 445.98
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "At the end of each conversation,",
+      "translation": "每次谈话结束时",
+      "start": 447.04,
+      "end": 448.28
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "you'll hear four questions.",
+      "translation": "你会听到四个问题",
+      "start": 449.08,
+      "end": 450.64
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Both the conversation and the questions will be spoken only once.",
+      "translation": "谈话和问题只谈一次",
+      "start": 451.46,
+      "end": 455.54
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "After you hear a question, you must choose the best answer from the four choices marked A, B, C and D.",
+      "translation": "在听到一个问题后,你必须从四个选择中选择最好的答案,这四个选择分别是A、B、C和D。",
+      "start": 456.26,
+      "end": 464.52
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "mark the corresponding letter on answer sheet one with a single line through the center.",
+      "translation": "在答题单单行的答题表一中标出相应的字母。",
+      "start": 465.26,
+      "end": 470.78
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Conversation one.",
+      "translation": "交谈之一。",
+      "start": 472.12,
+      "end": 473.28
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The name of the TV show we wish to produce is Science Nation.",
+      "translation": "我们想制作的电视节目名称是《科学国度》。",
+      "start": 473.99,
+      "end": 478.63,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Please tell us more.",
+      "translation": "请告诉我们更多信息。",
+      "start": 479.27,
+      "end": 480.61,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What would Science Nation be about?",
+      "translation": "《科学国度》会讲什么内容？",
+      "start": 481.19,
+      "end": 483.27,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It will be about science, all sorts of science.",
+      "translation": "它会讲科学，各种各样的科学。",
+      "start": 483.27,
+      "end": 487.25,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Each episode will focus on a different area of science, and tell us what we know, how we know it, and what we still don't know.",
+      "translation": "每一集都会聚焦不同的科学领域，告诉我们已经知道什么、是怎么知道的、还有什么是我们仍然不知道的。",
+      "start": 487.91,
+      "end": 497.65,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The show will have one host only, and this will be Professor Susan Paul from Harvard University.",
+      "translation": "节目只有一位主持人，就是哈佛大学的Susan Paul教授。",
+      "start": 498.19,
+      "end": 504.97,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "She is a great public speaker.",
+      "translation": "她是位出色的演讲者。",
+      "start": 504.97,
+      "end": 507.39,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So, just be clear.",
+      "translation": "那么，明确一下。",
+      "start": 508.11,
+      "end": 509.59,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Will the show's format be like that of a documentary?",
+      "translation": "节目的形式会像纪录片那样吗？",
+      "start": 509.83,
+      "end": 512.77,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Kind of.",
+      "translation": "有点像。",
+      "start": 513.61,
+      "end": 514.43,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It will be like a documentary in the sense that it will be non-fiction and fact-based.",
+      "translation": "它会像纪录片那样是非虚构的、基于事实的。",
+      "start": 514.43,
+      "end": 521.85,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "However, our idea is for it to be also fun and entertaining, something which traditional documentaries aren't so much.",
+      "translation": "不过，我们的想法是让它也有趣、有娱乐性，这是传统纪录片不太具备的。",
+      "start": 521.85,
+      "end": 531.29,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Please keep in mind this will be a new TV show like nothing ever done before.",
+      "translation": "请记住这将是一个全新的电视节目，是前所未有的。",
+      "start": 532.05,
+      "end": 537.49,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Okay, so it will be both educational and entertaining, and your audience will be anyone interested in science, right?",
+      "translation": "好的,所以它既有教育性又有娱乐性，你们的目标观众是所有对科学感兴趣的人，对吧？",
+      "start": 538.23,
+      "end": 546.39,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That's correct.",
+      "translation": "没错。",
+      "start": 546.91,
+      "end": 547.57,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Yes.",
+      "translation": "是的。",
+      "start": 548.01,
+      "end": 548.39,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Right, thank you.",
+      "translation": "好,谢谢。",
+      "start": 549.01,
+      "end": 550.33,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So I think we're more or less clear what the show will be like.",
+      "translation": "我想我们对节目会是什么样基本清楚了。",
+      "start": 550.89,
+      "end": 554.99,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Could you please tell us now what exactly you want from us?",
+      "translation": "现在能请你告诉我们你们具体需要我们做什么吗？",
+      "start": 555.72,
+      "end": 560.34,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Yes, of course.",
+      "translation": "好的,当然。",
+      "start": 560.74,
+      "end": 561.94,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Basically what we need from you is financial support.",
+      "translation": "基本上我们需要你们提供资金支持。",
+      "start": 562.72,
+      "end": 566.86,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In order to go ahead with this idea, we need two million dollars.",
+      "translation": "为了推进这个想法,我们需要两百万美元。",
+      "start": 567.68,
+      "end": 572.24,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This would cover the cost of making all 12 shows in the first season for the first year.",
+      "translation": "这将用于制作第一季第一年全部12集节目的成本。",
+      "start": 572.86,
+      "end": 578.88,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "If the show is a success, we can then look at making a second season for the following year.",
+      "translation": "如果节目成功,我们就可以考虑在第二年制作第二季。",
+      "start": 579.47,
+      "end": 586.23,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Conversation 2.",
+      "translation": "对话2。",
+      "start": 670.51,
+      "end": 671.67
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What's up with you?",
+      "translation": "你怎么了? ! ! ! !",
+      "start": 672.83,
+      "end": 674.17
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You don't look very happy.",
+      "translation": "你看起来不太高兴",
+      "start": 674.59,
+      "end": 676.13
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I feel like I'm a failure.",
+      "translation": "我觉得自己是个失败者。",
+      "start": 676.83,
+      "end": 678.47,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I can't seem to do anything very well.",
+      "translation": "我好像什么事都做不好。",
+      "start": 679.39,
+      "end": 681.57,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I wouldn't say that.",
+      "translation": "我可不这么认为。",
+      "start": 682.07,
+      "end": 683.45,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You do very well in a lot of things.",
+      "translation": "你很多事情都做得很好。",
+      "start": 683.99,
+      "end": 686.49,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That presentation you gave last week was excellent.",
+      "translation": "你上周的那个报告就非常出色。",
+      "start": 687.13,
+      "end": 690.41,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Yes, but I have this urge to strive for perfection.",
+      "translation": "是的,但我有这种追求完美的冲动。",
+      "start": 691.09,
+      "end": 695.23,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I really want to push harder and progress further.",
+      "translation": "我真的想更努力,取得更大的进步。",
+      "start": 696.07,
+      "end": 699.77,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Well, that's very admirable.",
+      "translation": "嗯,这很值得钦佩。",
+      "start": 700.31,
+      "end": 702.49,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But be careful.",
+      "translation": "但要小心。",
+      "start": 703.33,
+      "end": 704.17,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Over-concern with being perfect can damage our confidence if we never achieve it.",
+      "translation": "如果我们永远无法达到完美,过分关注完美可能会损害我们的信心。",
+      "start": 704.17,
+      "end": 710.81,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Yes, I know.",
+      "translation": "是的,我知道。",
+      "start": 711.21,
+      "end": 712.41,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I feel awful whenever I make a mistake in whatever I'm trying to do.",
+      "translation": "每当我在尝试做的事情上犯错时,我就感觉很糟糕。",
+      "start": 712.92,
+      "end": 717.32,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Well, think about it.",
+      "translation": "考虑一下吧",
+      "start": 717.86,
+      "end": 719.32
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You can't make progress without making mistakes and learning from them.",
+      "translation": "犯错和学习错误是无法取得进展的",
+      "start": 719.74,
+      "end": 724.52
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Thomas Edison, the famous inventor, once said, \"I've not failed.",
+      "translation": "著名的发明家托马斯·爱迪生曾说过, “我没有失败。",
+      "start": 725.28,
+      "end": 730.1
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I've just found 10,000 ways that won't work.\"",
+      "translation": "我刚刚找到一万种方法 行不通。”",
+      "start": 730.64,
+      "end": 733.8
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You may well be right.",
+      "translation": "你说得很对。",
+      "start": 734.24,
+      "end": 735.36,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I guess I should recognize my mistakes and learn the lesson they teach me and move forward.",
+      "translation": "我想我应该认识到自己的错误,吸取它们给我的教训,然后继续前进。",
+      "start": 736.04,
+      "end": 741.36,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Also, remember a successful ending is not the only thing worthy of a celebration.",
+      "translation": "还有,记住成功的结局并不是唯一值得庆祝的事情。",
+      "start": 741.93,
+      "end": 747.79,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You need to recognize each step of progress you take towards achieving your goals, and no matter how tiny it is, it's still good news.",
+      "translation": "你需要认可自己朝着目标前进的每一步进展,无论它多么微小,都仍然是好消息。",
+      "start": 748.87,
+      "end": 758.53,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I always feel down when I see others accomplishing things, and I feel miserable about my own achievements.",
+      "translation": "每当看到别人取得成就时,我总是感到沮丧,对自己的成就感到痛苦。",
+      "start": 759.42,
+      "end": 766.04,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'm always trying to be as good as others.",
+      "translation": "我总是试图和别人一样优秀。",
+      "start": 766.94,
+      "end": 769.52,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But I never seem to get there.",
+      "translation": "但我似乎永远达不到。",
+      "start": 769.98,
+      "end": 771.6,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Listen, if you always compare yourself with others, you'll never feel good enough.",
+      "translation": "听着,如果你总是把自己和别人比起来, 你永远感觉不够好。",
+      "start": 772.2,
+      "end": 778.18
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You're the only person you should be comparing yourself with.",
+      "translation": "你是唯一一个你应该比较自己的人",
+      "start": 778.94,
+      "end": 782.1
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "When you compare your current status with the starting point, you'll find you've made progress, right?",
+      "translation": "当你比较你目前的状况和起点时 你会发现你已经有所进展 对吧?",
+      "start": 782.8,
+      "end": 789.26
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That's good enough.",
+      "translation": "够好了",
+      "start": 789.82,
+      "end": 790.62
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That's great advice.",
+      "translation": "这是很好的建议。",
+      "start": 791.4,
+      "end": 792.62,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Thank you.",
+      "translation": "谢谢你。",
+      "start": 793.38,
+      "end": 793.7,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'm feeling better already.",
+      "translation": "我已经感觉好多了。",
+      "start": 794.1,
+      "end": 795.24,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Section C.",
+      "translation": "C节。",
+      "start": 872.63,
+      "end": 873.37
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Directions",
+      "translation": "方向指示",
+      "start": 873.99,
+      "end": 874.39
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In this section,",
+      "translation": "在本节中,",
+      "start": 875.3,
+      "end": 876.22
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "you will hear three passages.",
+      "translation": "你将听见三条经。",
+      "start": 876.82,
+      "end": 878.26
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "At the end of each passage,",
+      "translation": "在每个通道的尽头",
+      "start": 879.02,
+      "end": 880.36
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "you will hear three or four questions.",
+      "translation": "你会听到三四个问题。",
+      "start": 881.06,
+      "end": 883.22
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Both the passage and the questions will be spoken only once.",
+      "translation": "发言的通过和提问将只讲一次。",
+      "start": 884.04,
+      "end": 888.28
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "After you hear a question, you must choose the best answer from the four choices marked A, B,",
+      "translation": "在听到一个问题后,你必须从四个选择中选择最好的答案,四个选择标注A,B,",
+      "start": 889.04,
+      "end": 895.8
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "C, and D.",
+      "translation": "C,和D., 和D., 和D.",
+      "start": 896.52,
+      "end": 897.5
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Then mark the corresponding letter on answer sheet one with a single line through the center.",
+      "translation": "然后在答题单上用一条线标出相应的字母,通过中心。",
+      "start": 898.24,
+      "end": 904.5
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Passage 1 Single sex education can have enormous benefits for female students.",
+      "translation": "1 单一性教育可为女学生带来巨大好处。",
+      "start": 905.58,
+      "end": 908.133
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Single-sex education can have enormous benefits for female students.",
+      "translation": "单性别教育对女学生可以产生巨大益处。",
+      "start": 908.133,
+      "end": 913.09,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Numerous studies have shown that women who attend single-sex schools tend to have stronger self-confidence, better study habits and more ambitious career goals than women who attend coeducational schools.",
+      "translation": "大量研究表明，就读单性别学校的女性往往比就读男女同校的女性拥有更强的自信心、更好的学习习惯和更具雄心的职业目标。",
+      "start": 913.47,
+      "end": 927.21,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Girls who graduate from single-sex schools are three times more likely to become engineers than those who attend coeducational schools.",
+      "translation": "单性别学校毕业的女生成为工程师的可能性是就读男女同校女生的三倍。",
+      "start": 927.21,
+      "end": 936.19,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The reason is that all-girls schools encourage women to enter fields traditionally dominated by men, such as science, technology and engineering.",
+      "translation": "原因在于女子学校鼓励女性进入传统上由男性主导的领域，如科学、技术和工程。",
+      "start": 937.21,
+      "end": 946.95,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In coeducational schools, girls are often expected to succeed only in humanities or the arts.",
+      "translation": "在男女同校中，女生往往被期望只在人文学科或艺术领域取得成功。",
+      "start": 947.97,
+      "end": 954.91,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Research has also shown that in coeducational settings, teachers are more likely to praise and give in-depth responses to a boy's comments in class.",
+      "translation": "研究还表明，在男女同校的环境中，教师更倾向于表扬男生在课堂上的评论并给予深入回应。",
+      "start": 955.81,
+      "end": 966.05,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In contrast, they might only respond to a girl's comments with a nod.",
+      "translation": "相比之下，他们可能只是点头回应女生的评论。",
+      "start": 966.75,
+      "end": 970.91,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They are also more likely to encourage boys to work through problems on their own, while they tend to step in and help girls who struggle with a problem.",
+      "translation": "他们也更倾向于鼓励男生独立解决问题，而往往会介入帮助遇到困难的女生。",
+      "start": 970.91,
+      "end": 981.11,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In an all-girls setting, girls are more likely to speak up frequently and make significant contributions to class than in a coeducational setting.",
+      "translation": "在全女生环境中，女生比在男女同校环境中更有可能频繁发言并对课堂做出重要贡献。",
+      "start": 981.77,
+      "end": 992.07,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Girls studying in a single-sex setting also earn higher scores on their College Board and Advanced Placement exams than girls who study in coeducational settings.",
+      "translation": "在单性别环境中学习的女生在College Board和Advanced Placement考试中的得分也高于在男女同校环境中学习的女生。",
+      "start": 992.83,
+      "end": 1003.17,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "All-girls schools tend to be smaller than coeducational schools, which means teachers will be able to tailor the materials to girl students' personal learning styles and interest.",
+      "translation": "女子学校往往比男女同校规模更小，这意味着教师能够根据女学生的个人学习风格和兴趣定制教学材料。",
+      "start": 1003.17,
+      "end": 1071.1,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "passage 2.",
+      "translation": "第2段。",
+      "start": 1083.95,
+      "end": 1085.09
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Today I found out that Seattle doesn't really get that much rain compared with most US cities.",
+      "translation": "今天我发现西雅图 与大多数美国城市相比, 降雨量并不大。",
+      "start": 1085.55,
+      "end": 1092.89
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In fact, Seattle ranks 44th among major US cities in average annual rainfall.",
+      "translation": "事实上,西雅图年平均降雨量在美国主要城市中位列第44位。",
+      "start": 1093.77,
+      "end": 1100.53
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Cities that get more rainfall than Seattle include Houston, Memphis, Nashville, and pretty much every major city on the eastern coast, such as New York, Boston and Miami.",
+      "translation": "降雨量超过西雅图的城市 包括休斯顿、孟菲斯、纳什维尔 以及几乎每个主要城市 比如纽约、波士顿和迈阿密",
+      "start": 1101.35,
+      "end": 1113.99
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So why does everyone think of Seattle as a rainy city?",
+      "translation": "那么为什么每个人都把西雅图 当成一个雨天城市呢?",
+      "start": 1114.83,
+      "end": 1119.01
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The primary root of this misconception lies in that Seattle has a relatively large number of days per year with rainfall compared with New York and Boston, which get an average of about 16% more rain per year than Seattle, but also average between them about 36 fewer days a year of rainfall.",
+      "translation": "这种误解的主要根源在于西雅图的降雨量每年比纽约和波士顿的降雨量要多得多,而纽约和波士顿的降雨量每年平均比西雅图增加16%左右,但降雨量每年平均减少36天。",
+      "start": 1119.59,
+      "end": 1144.41
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So it rains a lot less in Seattle, and the rain is spread out over more days than those cities.",
+      "translation": "西雅图的降雨量比那些城市少得多 降雨量比那些城市多几天",
+      "start": 1145.31,
+      "end": 1151.93
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This is why few locals in Seattle carry an umbrella generally.",
+      "translation": "这就是为什么西雅图很少有当地人带伞来的原因",
+      "start": 1152.75,
+      "end": 1156.55
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "When it does rain, it tends to be a very light rain.",
+      "translation": "当下雨时,雨往往很轻。",
+      "start": 1157.47,
+      "end": 1160.99
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That isn't troublesome.",
+      "translation": "这不是麻烦。",
+      "start": 1160.99,
+      "end": 1162.49
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It almost never really rains as most people think.",
+      "translation": "几乎从来没有像大多数人想象的那样真正下雨。",
+      "start": 1163.47,
+      "end": 1166.65
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "On top of that, it never really storms in Seattle, either.",
+      "translation": "除此之外,西雅图也从来没有真正风暴",
+      "start": 1167.07,
+      "end": 1171.09
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Seattle gets an average of a mere seven days a year with thunder.",
+      "translation": "西雅图一年平均只有七天的雷声",
+      "start": 1171.61,
+      "end": 1175.85
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So in short, if you like sunny but not too hot summers, mild winters but with lots of cloudy days, Seattle's the place to be.",
+      "translation": "简而言之,如果你喜欢阳光,但不喜欢炎热的夏天,温和的冬天, 温和的冬天,但多云的天气, 西雅图是适合的地方。",
+      "start": 1176.63,
+      "end": 1186.79
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Anyway, if you visit Seattle, don't bring an umbrella.",
+      "translation": "总之,如果你去西雅图,不要带伞",
+      "start": 1187.37,
+      "end": 1191.19
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "People will look at you, thinking you're funny.",
+      "translation": "人们会看着你 认为你很有趣",
+      "start": 1191.89,
+      "end": 1194.87
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Passage 3.",
+      "translation": "通行证3。",
+      "start": 1257.66,
+      "end": 1258.54
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "After a tough workout or a day full of physical activity,",
+      "translation": "经过艰苦的锻炼或一整天的体力活动之后",
+      "start": 1259.08,
+      "end": 1262.82
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But where do these pains come from?",
+      "translation": "但这些疼痛从何而来？",
+      "start": 1266.48,
+      "end": 1268.42,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "According to a German professor, the soreness comes from straining your muscles in an uncommon way, for example, jumping on a bicycle for a ride, because you haven't ridden in a long time.",
+      "translation": "根据一位德国教授的说法，酸痛来自以不常见的方式拉伤肌肉，例如，骑上自行车去兜风，因为你已经很长时间没有骑车了。",
+      "start": 1269.22,
+      "end": 1282.74,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Soreness occurs since your leg muscles aren't used to that movement.",
+      "translation": "之所以会酸痛，是因为你的腿部肌肉不习惯那种运动。",
+      "start": 1283.12,
+      "end": 1287.88,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "When muscles perform an activity they aren't regularly exposed to, the tiny fibres that are inside them are being torn apart.",
+      "translation": "当肌肉进行它们不经常接触的活动时，其内部的微小纤维就会被撕裂。",
+      "start": 1288.84,
+      "end": 1297.92,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "As muscle soreness develops, the body has to work to repair the muscle tears.",
+      "translation": "随着肌肉酸痛的发展，身体必须努力修复肌肉撕裂。",
+      "start": 1298.98,
+      "end": 1304.18,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But this doesn't happen immediately.",
+      "translation": "但这不会立即发生。",
+      "start": 1304.96,
+      "end": 1306.7,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "First, the body must realise the muscles are damaged.",
+      "translation": "首先，身体必须意识到肌肉受损了。",
+      "start": 1307.78,
+      "end": 1311.32,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "When the body realises the muscles are hurt, the response is to increase blood flow to the area and increase body heat.",
+      "translation": "当身体意识到肌肉受伤时，反应是增加该区域的血流量并提高体温。",
+      "start": 1312.28,
+      "end": 1320.53,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Damaged cells are then cleaned up and the body sends cells specially designed to break down the large muscle fibre fragments.",
+      "translation": "然后受损细胞被清理掉，身体派出专门设计用来分解大块肌肉纤维碎片的细胞。",
+      "start": 1320.53,
+      "end": 1329.97,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Healing can take place after this.",
+      "translation": "之后才能进行愈合。",
+      "start": 1331.09,
+      "end": 1333.25,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It takes about a day until these cells make it to your aching muscles.",
+      "translation": "这些细胞到达你酸痛的肌肉大约需要一天时间。",
+      "start": 1333.89,
+      "end": 1338.25,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That's why there is most often a delay associated with muscle soreness.",
+      "translation": "这就是为什么肌肉酸痛通常会有延迟。",
+      "start": 1339.13,
+      "end": 1343.97,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Repair of damaged cells takes about two days, and afterwards the soreness disappears.",
+      "translation": "受损细胞的修复大约需要两天时间，之后酸痛就会消失。",
+      "start": 1344.6,
+      "end": 1350.84,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Unfortunately, there is little that can be done to relieve muscle soreness.",
+      "translation": "不幸的是，几乎没有什么办法可以缓解肌肉酸痛。",
+      "start": 1351.56,
+      "end": 1356.36,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Pain-relieving creams don't work, but a hot shower or warm bath can provide some relief.",
+      "translation": "止痛膏不起作用，但热水淋浴或温水浴可以提供一些缓解。",
+      "start": 1356.36,
+      "end": 1364.58,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This is the end of listening comprehension.",
+      "translation": "听觉理解的结束",
+      "start": 1447.57,
+      "end": 1450.25
+    }
+  ],
+  "translation_sources": [
+    "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/",
+    "Sams200/opus-mt-en-zh (unmatched sentences only)"
+  ]
+}

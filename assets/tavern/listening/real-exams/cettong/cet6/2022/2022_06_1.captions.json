@@ -1,0 +1,1812 @@
+{
+  "id": "cet6-2022_06_1",
+  "title": "2022年6月 第1套",
+  "level": 6,
+  "source_url": "https://www.cettong.cn/library/cet6/2022_06_1",
+  "material_source": "https://117.72.200.49/#/library",
+  "audio": "assets/tavern/listening/real-exams/cettong/cet6/2022/2022_06_1.exampace-playback.mp3",
+  "caption_kind": "published_material_with_auxiliary_timing_and_translation",
+  "caption_models": [
+    "Systran/faster-whisper-base.en",
+    "Sams200/opus-mt-en-zh"
+  ],
+  "lines": [
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Mr.",
+      "translation": "先生,先生",
+      "start": 43.266,
+      "end": 43.755
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "David Jackson, a staff writer at the New Yorker, is known for his non-fiction books of adventure.",
+      "translation": "David Jackson是纽约客的一位工作人员作家 以他的非小说冒险书闻名",
+      "start": 43.755,
+      "end": 52.072
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Today, we go on a different kind of adventure: Jackson's life of parenting his offspring.",
+      "translation": "今天,我们进行一种不同的冒险: 杰克逊为他的后代做父母的生活。",
+      "start": 52.072,
+      "end": 59.411
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "David, as a parent of an 11- and a 14-year-old, what is the most interesting issue you are dealing with right now?",
+      "translation": "大卫,作为一个11岁和14岁的家长, 你现在处理的最有趣的问题是什么?",
+      "start": 59.411,
+      "end": 67.68
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's easy to focus on the challenges, but so far, I find these ages to be kind of wonderful.",
+      "translation": "人们很容易把注意力集中在挑战上，但到目前为止，我觉得这个年龄段还是相当美好的。",
+      "start": 68.42,
+      "end": 74.08,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They are independent, and they have their own curiosities and obsessions.",
+      "translation": "他们很独立，也有自己的好奇心和痴迷点。",
+      "start": 74.86,
+      "end": 79.72,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You can talk to them about fairly sophisticated subject matter such as politics.",
+      "translation": "你可以和他们谈论政治之类相当复杂的话题。",
+      "start": 80.69,
+      "end": 85.69,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Yes, that does sound refreshing compared with talking to younger children.",
+      "translation": "是的，和年幼的孩子交谈相比，这听起来确实令人耳目一新。",
+      "start": 86.49,
+      "end": 91.41,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Do they ask you to proofread their essays?",
+      "translation": "他们会让你帮忙校对作文吗？",
+      "start": 91.93,
+      "end": 94.47,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Certainly, with writing they do.",
+      "translation": "会的，写作方面他们确实会。",
+      "start": 95.21,
+      "end": 97.25,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I really just try to be encouraging.",
+      "translation": "我真的只是尽量给予鼓励。",
+      "start": 97.77,
+      "end": 100.03,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I think at this age, editorial guidance is less important than encouragement.",
+      "translation": "我认为，在这个年龄段，编辑方面的指导不如鼓励重要。",
+      "start": 101.07,
+      "end": 106.21,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Are there books that you think are important that your children read, and that all children read?",
+      "translation": "有没有一些你认为很重要、应该让你的孩子读，也应该让所有孩子读的书？",
+      "start": 107.01,
+      "end": 113.17,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "My general thought is to read widely and to incorporate a love for reading.",
+      "translation": "我的总体想法是广泛阅读，并培养对阅读的热爱。",
+      "start": 113.81,
+      "end": 119.41,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Learning to love to read, I think, is the optimal thing, because it gives you a skill you can take anywhere.",
+      "translation": "我认为，学会热爱阅读是最理想的事情，因为这会赋予你一种可以带到任何地方的技能。",
+      "start": 120.02,
+      "end": 126.66,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So you're not too concerned like some parents with the content they're reading?",
+      "translation": "所以，你不像一些家长那样太在意他们阅读的内容？",
+      "start": 127.51,
+      "end": 133.09,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I know I have some worries about that.",
+      "translation": "我知道自己对此有些担忧。",
+      "start": 133.89,
+      "end": 135.97,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Yeah, read what you like.",
+      "translation": "是的，喜欢读什么就读什么。",
+      "start": 136.83,
+      "end": 138.47,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "If a child loves graphic novels or comic books, whatever it is, that is turning them on to read and turning on their imagination.",
+      "translation": "如果孩子喜欢图像小说或漫画书，不管是什么，只要能让他们喜欢上阅读，激发他们的想象力就好。",
+      "start": 139.23,
+      "end": 147.73,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I feel that children's tastes in books change as they reach adolescence.",
+      "translation": "我觉得，随着孩子步入青春期，他们对书籍的品味会发生变化。",
+      "start": 148.89,
+      "end": 153.29,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I know that mine certainly did when I was a teenager.",
+      "translation": "我知道自己十几岁时确实发生过这种变化。",
+      "start": 154.25,
+      "end": 157.13,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What do you think?",
+      "translation": "你怎么看？",
+      "start": 157.99,
+      "end": 158.65,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I think it's especially important as they get older to read subject matter that'll open their eyes to the world and people.",
+      "translation": "我认为，随着他们年龄增长，阅读一些能让他们开阔眼界、了解世界和他人的内容尤其重要。",
+      "start": 159.35,
+      "end": 167.35,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So I think both fiction and non-fiction are really important because they give you the power to begin to perceive the world through the lives of others.",
+      "translation": "所以我觉得，小说和非虚构作品都非常重要，因为它们赋予你一种力量，让你开始通过他人的人生来感知这个世界。",
+      "start": 167.75,
+      "end": 177.94,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 4.",
+      "translation": "问题4",
+      "start": 242.57,
+      "end": 243.79
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "does the woman say about herself when she was a teenager?",
+      "translation": "那个女人在十几岁的时候 说起自己吗?",
+      "start": 245.28,
+      "end": 249.26
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "2.",
+      "translation": "2. 目标",
+      "start": 263.44,
+      "end": 264.32
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In this episode of Money Talks,",
+      "translation": "在这场货币会谈中",
+      "start": 266.06,
+      "end": 268.42
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Molly, tell us about your business.",
+      "translation": "莫莉，给我们介绍一下你的生意吧。",
+      "start": 275.82,
+      "end": 277.54,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Well, I sell specialty clothes through a website, mainly for women who have trouble finding suitable clothes in main street shops because of their height or weight.",
+      "translation": "W：嗯，我通过一个网站销售特色服装，主要面向那些因为身高或体重而难以在商业街服装店找到合适衣服的女性。",
+      "start": 278.19,
+      "end": 290.23,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But I do some men's clothes too.",
+      "translation": "不过，我也做一些男装。",
+      "start": 290.87,
+      "end": 293.09,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "How did you get started in this business at such a young age?",
+      "translation": "M：你这么年轻，是怎么开始做这门生意的？",
+      "start": 293.91,
+      "end": 297.63,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Are you studying fashion design?",
+      "translation": "你在学习服装设计吗？",
+      "start": 298.35,
+      "end": 299.95,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Actually, I'm majoring in finance, but I've always loved clothes.",
+      "translation": "W：其实，我的专业是金融，但我一直很喜欢服装。",
+      "start": 300.63,
+      "end": 304.93,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And I started making my own at 14.",
+      "translation": "而且我从14岁起就开始自己做衣服了。",
+      "start": 305.61,
+      "end": 309.17,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Did you have any sort of training in design or sewing?",
+      "translation": "M：你接受过设计或缝纫方面的培训吗？",
+      "start": 309.17,
+      "end": 313.09,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Or was it a natural ability?",
+      "translation": "还是说这是你的天赋？",
+      "start": 313.65,
+      "end": 315.35,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'd have to say no to both.",
+      "translation": "W：这两方面都不是。",
+      "start": 316.06,
+      "end": 318.22,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "No one taught me to make clothes and most of the things I made at first were disasters.",
+      "translation": "没人教过我做衣服，而且我刚开始做的大多数衣服都糟糕透了。",
+      "start": 318.94,
+      "end": 324.24,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Why did you persevere?",
+      "translation": "M：你为什么坚持下来了？",
+      "start": 325.46,
+      "end": 326.94,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I think most people would give up if they kept failing, especially at that age.",
+      "translation": "我想大多数人如果一直失败，都会放弃，尤其是在那个年纪。",
+      "start": 327.64,
+      "end": 332.6,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I kept on out of necessity.",
+      "translation": "W：我是出于需要才坚持下来的。",
+      "start": 333.16,
+      "end": 335.04,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "As you can see, I'm very tall and I couldn't find clothes that fit me in ordinary shops.",
+      "translation": "你也看得出来，我个子很高，在普通商店里找不到合身的衣服。",
+      "start": 335.78,
+      "end": 342.22,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So I kept trying and developed my skills over time.",
+      "translation": "所以我不断尝试，随着时间的推移逐渐提高了自己的技能。",
+      "start": 343.1,
+      "end": 346.64,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Well, my notes say you earned $50,000 in profits last year, an extraordinary amount for a 20-year-old student.",
+      "translation": "我笔记上说 去年你赚了五万元的利润 一个20岁学生的巨额利润",
+      "start": 347.44,
+      "end": 356.28
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "How did that happen?",
+      "translation": "怎么会这样?",
+      "start": 356.86,
+      "end": 357.92
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Did you see a gap in the market and decide to fill it?",
+      "translation": "你是否看到市场出现缺口,并决定填补这一缺口?",
+      "start": 358.6,
+      "end": 361.54
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "No.",
+      "translation": "W：不打算。",
+      "start": 362.17,
+      "end": 362.73,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "When I started university, some classmates complimented my clothes.",
+      "translation": "我上大学时，一些同学夸我的衣服好看。",
+      "start": 362.99,
+      "end": 367.33,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And when I said I made them myself, other tall women started asking if I would make theirs.",
+      "translation": "当我说衣服是我自己做的之后，其他高个子女性开始问我能不能帮她们做衣服。",
+      "start": 367.95,
+      "end": 374.63,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And I did.",
+      "translation": "我答应了。",
+      "start": 375.41,
+      "end": 376.05,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And before I knew it, I was an entrepreneur.",
+      "translation": "没过多久，我就成了一名企业家。",
+      "start": 376.57,
+      "end": 378.71,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So what are your plans for the future?",
+      "translation": "M：那么，你对未来有什么计划？",
+      "start": 379.77,
+      "end": 381.87,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Do you intend to open a physical store?",
+      "translation": "你打算开一家实体店吗？",
+      "start": 382.55,
+      "end": 384.93,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "No.",
+      "translation": "W：不打算。",
+      "start": 385.47,
+      "end": 386.05,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'll keep things online to keep costs down.",
+      "translation": "我会继续在线经营，以降低成本。",
+      "start": 386.37,
+      "end": 389.27,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But I will add more clothes for children, both girls and boys, and possibly even for infants.",
+      "translation": "不过，我会增加更多儿童服装，包括女孩和男孩的服装，甚至可能还会做婴儿服装。",
+      "start": 389.85,
+      "end": 396.47,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And I hope to add to my range of designs for men.",
+      "translation": "我也希望增加男装的设计种类。",
+      "start": 397.49,
+      "end": 400.45,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the woman say about the clothes she made at first?",
+      "translation": "那女人怎么说她刚做的衣服?",
+      "start": 426.61,
+      "end": 430.53
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 7.",
+      "translation": "问题7",
+      "start": 444.1,
+      "end": 444.84
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Why did the woman persevere in making clothes for herself?",
+      "translation": "为什么这个女人坚持自己做衣服?",
+      "start": 446.02,
+      "end": 449.62
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 8.",
+      "translation": "问题8",
+      "start": 463.3,
+      "end": 463.9
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the woman plan to do in the future?",
+      "translation": "未来该妇女打算做什么?",
+      "start": 464.75,
+      "end": 467.71
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Section B.",
+      "translation": "B节。",
+      "start": 481.13,
+      "end": 482.05
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In this section you will hear two passages.",
+      "translation": "在本节中,你们将听到两段。",
+      "start": 484.11,
+      "end": 487.01
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "At the end of each passage you will hear three or four questions.",
+      "translation": "在每一段的结尾 你会听到三个或四个问题",
+      "start": 487.83,
+      "end": 491.71
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Both the passage and the questions will be spoken only once.",
+      "translation": "发言的通过和提问将只讲一次。",
+      "start": 492.47,
+      "end": 496.59
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "After you hear a question you must choose the best answer from the four choices marked A, B, C and D.",
+      "translation": "在听到一个问题后,你必须从四个选择中选择最好的答案,这四个选择分别是A、B、C和D。",
+      "start": 497.41,
+      "end": 504.87
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Then mark the corresponding letter on answer sheet one with a single line through the center.",
+      "translation": "然后在答题单上用一条线标出相应的字母,通过中心。",
+      "start": 505.89,
+      "end": 511.43
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Researchers have identified a potent new antibiotic compound using artificial intelligence.",
+      "translation": "研究人员利用人工智能发现了一种强效的新型抗生素化合物。",
+      "start": 514.99,
+      "end": 521.97,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The antibiotic can kill very dangerous bacteria.",
+      "translation": "这种抗生素能够杀死极其危险的细菌。",
+      "start": 523.19,
+      "end": 525.99,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "According to a study published in the journal Cell, the compound successfully removed deadly strains of bacteria in mice which are resistant to all known antibiotics.",
+      "translation": "根据发表在《细胞》杂志上的一项研究，该化合物成功清除了小鼠体内对所有已知抗生素都具有耐药性的致命细菌菌株。",
+      "start": 527.28,
+      "end": 538.78,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The researchers say this is the first time that artificial intelligence has been used to find a powerful new antibiotic molecule.",
+      "translation": "研究人员表示，这是人工智能首次被用于寻找一种强效的新型抗生素分子。",
+      "start": 540.24,
+      "end": 549.0,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Why does this matter?",
+      "translation": "这为什么很重要？",
+      "start": 549.97,
+      "end": 550.87,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The answer is antibiotic resistance.",
+      "translation": "答案是抗生素耐药性。",
+      "start": 551.73,
+      "end": 553.69,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This happens when bacteria develop the ability to survive the medications designed to kill them.",
+      "translation": "当细菌产生在为杀死它们而设计的药物作用下存活的能力时，就会出现这种情况。",
+      "start": 555.08,
+      "end": 561.14,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Antibiotic resistance is a serious threat to health and the problem is growing.",
+      "translation": "抗生素耐药性对健康构成严重威胁，而且这一问题正在加剧。",
+      "start": 562.13,
+      "end": 567.39,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This makes finding new antibiotics very important.",
+      "translation": "因此，寻找新的抗生素至关重要。",
+      "start": 568.4,
+      "end": 571.86,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "However, in recent decades, very few have been developed, and those that have tend to be very similar to drugs already available.",
+      "translation": "然而，近几十年来，开发出的新抗生素寥寥无几，而且那些已经开发出的通常与现有药物非常相似。",
+      "start": 572.95,
+      "end": 582.3,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The searches also tend to only focus on a narrow spectrum of chemical compounds, but this is where artificial intelligence comes in.",
+      "translation": "这些搜索也往往只关注范围狭窄的化合物，但这正是人工智能发挥作用的地方。",
+      "start": 582.3,
+      "end": 594.14,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Why?",
+      "translation": "为什么？",
+      "start": 595.09,
+      "end": 595.33,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "To find new drugs, scientists screen molecules to predict how effective they might be.",
+      "translation": "为了寻找新药，科学家会筛选分子，预测它们可能具有多大疗效。",
+      "start": 596.36,
+      "end": 602.17,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Typically, such screening is done by humans in the lab, which is both costly and slow.",
+      "translation": "通常，这种筛选由实验室中的人类完成，既成本高昂又耗时缓慢。",
+      "start": 603.17,
+      "end": 609.19,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Artificial intelligence is different.",
+      "translation": "人工智能则不同。",
+      "start": 610.33,
+      "end": 612.15,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's fast, and it can process a high volume.",
+      "translation": "它速度快，而且能够处理海量数据。",
+      "start": 613.19,
+      "end": 616.27,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It can screen hundreds of millions of compounds to identify a few interesting candidates that require experimental testing.",
+      "translation": "它可以筛选数亿种化合物，找出少数值得关注、需要进行实验测试的候选物。",
+      "start": 617.46,
+      "end": 626.0,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Artificial intelligence is also able to predict if compounds are likely to be toxic.",
+      "translation": "人工智能还能够预测化合物是否可能具有毒性。",
+      "start": 627.28,
+      "end": 633.08,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Some experts assert that this work signifies a paradigm shift in antibiotic discovery.",
+      "translation": "一些专家认为，这项工作标志着抗生素发现领域的范式转变。",
+      "start": 634.51,
+      "end": 640.77,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It could change drug discovery more generally.",
+      "translation": "它也可能从总体上改变药物研发。",
+      "start": 641.77,
+      "end": 644.35,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 10.",
+      "translation": "问题10。",
+      "start": 670.79,
+      "end": 671.95
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What makes it important to find new antibiotic drugs?",
+      "translation": "找到新的抗生素药物有什么意义?",
+      "start": 673.04,
+      "end": 676.16
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "11.",
+      "translation": "11. 十一号",
+      "start": 690.05,
+      "end": 690.55
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the passage say artificial intelligence is able to do in antibiotic research?",
+      "translation": "人工智能在抗生素研究中能做什么?",
+      "start": 691.6,
+      "end": 697.34
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "2.",
+      "translation": "2. 目标",
+      "start": 711.23,
+      "end": 711.83
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "A recent study overturned what we think we know about lying.",
+      "translation": "一项最新研究推翻了我们对说谎的固有认识。",
+      "start": 712.99,
+      "end": 713.533,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "A recent study overturned what we think we know about lying.",
+      "translation": "一项最新研究推翻了我们对说谎的固有认识。",
+      "start": 713.533,
+      "end": 717.31,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Most of us have a theory about how to tell if someone is telling a lie.",
+      "translation": "我们大多数人都有一套判断某人是否在说谎的理论。",
+      "start": 718.29,
+      "end": 722.59,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We may develop that theory from observations of those people we know well and see regularly, but we tend to generalize what we gather from that unscientific daily research and make it a universal theory.",
+      "translation": "这套理论可能源于我们对熟悉且经常见面的人的观察，但我们往往会把从这种不科学的日常观察中得出的结论加以概括，并将其视为普遍适用的理论。",
+      "start": 723.62,
+      "end": 738.82,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So we might imagine that liars have evasive eyes, or the opposite—they simply stare at you.",
+      "translation": "因此，我们可能会认为说谎者目光闪躲，或者恰恰相反，他们只是盯着你看。",
+      "start": 740.12,
+      "end": 746.92,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Or perhaps it is more generally nervous behavior we associate with lies.",
+      "translation": "又或者，我们通常会把某种更普遍的紧张行为与谎言联系起来。",
+      "start": 747.64,
+      "end": 752.28,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Whatever the particular theory, it's usually based on close observation of people we know.",
+      "translation": "无论具体是哪一种理论，它通常都建立在对我们熟悉的人的细致观察之上。",
+      "start": 753.04,
+      "end": 759.16,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And we get lots of practice.",
+      "translation": "而且，我们有大量的实践机会。",
+      "start": 760.02,
+      "end": 761.6,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "On average, we're lied to some 200 times per day.",
+      "translation": "平均而言，我们每天大约会被欺骗200次。",
+      "start": 762.64,
+      "end": 766.6,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "These are mostly harmless lies, but lies nonetheless.",
+      "translation": "这些大多是无害的谎言，但归根结底仍然是谎言。",
+      "start": 767.44,
+      "end": 770.9,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But there's a problem with our theories, even though they're based on all these observations.",
+      "translation": "然而，尽管我们的理论建立在所有这些观察之上，它们仍然存在一个问题。",
+      "start": 772.16,
+      "end": 777.68,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The average person—you and me—tested rigorously on how well we detect lies fails to do better than chance.",
+      "translation": "普通人，也就是你我，在接受严格测试以评估识别谎言的能力时，表现并不比凭猜测好。",
+      "start": 777.68,
+      "end": 786.51,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That's well established over many studies and lots of attempts by researchers to work out reliable ways to detect lies.",
+      "translation": "这一点已经被众多研究以及研究人员为找出可靠的测谎方法所进行的大量尝试充分证实。",
+      "start": 787.64,
+      "end": 796.38,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's even relatively easy to fool lie detectors, the gold standard of lie detection, by training yourself in breathing techniques and symptom suppression.",
+      "translation": "即使是测谎的金标准测谎仪，也相对容易被欺骗，只要通过训练掌握呼吸技巧并抑制相关生理反应即可。",
+      "start": 797.18,
+      "end": 809.04,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Is there any way to get better at detecting lies?",
+      "translation": "还有什么方法可以更好地发现谎言吗?",
+      "start": 810.09,
+      "end": 813.21
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The new research offers some surprising advice.",
+      "translation": "新研究提供了一些令人惊讶的建议。",
+      "start": 814.27,
+      "end": 817.07
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Stop looking and listen instead.",
+      "translation": "停止寻找和听 代替。",
+      "start": 818.23,
+      "end": 820.13
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It turns out that if we're unable to see the face, but rather focus on the voice of the person in question, our accuracy rate improves considerably.",
+      "translation": "事实证明,如果我们看不到面部, 却只关注有关人士的声音, 我们的准确率大大提高了。",
+      "start": 820.95,
+      "end": 831.31
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions 12 to 15 are based on the passage you have just heard.",
+      "translation": "问题12至15是根据你们刚才听到的段落提出的。",
+      "start": 833.27,
+      "end": 838.27
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "12.",
+      "translation": "12. 十二、结 论",
+      "start": 840.21,
+      "end": 840.71
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "According to the passage,",
+      "translation": "根据通道,",
+      "start": 841.67,
+      "end": 843.13
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "how do most people detect lying?",
+      "translation": "大多数人如何察觉到说谎?",
+      "start": 843.79,
+      "end": 846.31
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 13.",
+      "translation": "问题13。",
+      "start": 859.83,
+      "end": 860.73
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the passage say about most lies?",
+      "translation": "这段话对大多数谎言怎么说?",
+      "start": 861.98,
+      "end": 865.04
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 14.",
+      "translation": "问题14。",
+      "start": 878.67,
+      "end": 879.55
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What have many studies uncovered about the average person's lie detection?",
+      "translation": "关于普通人的测谎发现 发现了多少项研究?",
+      "start": 880.44,
+      "end": 885.62
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 15.",
+      "translation": "问题15。",
+      "start": 899.36,
+      "end": 900.16
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What advice does the new research offer regarding lie detection?",
+      "translation": "新研究在测谎方面提供了哪些建议?",
+      "start": 901.11,
+      "end": 905.69
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Section C.",
+      "translation": "C节。",
+      "start": 919.42,
+      "end": 920.18
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In this section you will hear three recordings of lectures or talks followed by three or four questions.",
+      "translation": "在本节中,你们将听取三场演讲或会谈录音,然后是三四个问题。",
+      "start": 922.8,
+      "end": 929.68
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The recordings will be played only once.",
+      "translation": "录音只播放一次。",
+      "start": 931.0,
+      "end": 933.08
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "After you hear a question,",
+      "translation": "在你听到一个问题之后",
+      "start": 934.5,
+      "end": 935.7
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "you must choose the best answer from the four choices marked A, B, C and D.",
+      "translation": "您必须选择四个选择中的最佳答案,即A、B、C和D。",
+      "start": 936.32,
+      "end": 942.0
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "mark the corresponding letter on answer sheet one with a single line through the center.",
+      "translation": "在答题单单行的答题表一中标出相应的字母。",
+      "start": 943.08,
+      "end": 948.24
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "appear to be submissive, humble, grateful, and undemanding.",
+      "translation": "似乎顺从、谦卑、感激和无求可救。",
+      "start": 953.29,
+      "end": 957.63
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Don't challenge anyone with authority unless you are famous or very rich.",
+      "translation": "除非你名声显赫或非常富有，否则不要挑战任何有权威的人。",
+      "start": 965.71,
+      "end": 970.53,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Those are a few strategies for dealing with today's American medical establishment.",
+      "translation": "这些是应对当今美国医疗机构的几种策略。",
+      "start": 971.33,
+      "end": 976.89,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What patients want is to be treated with respect and consideration.",
+      "translation": "患者想要的是受到尊重和体贴的对待。",
+      "start": 977.94,
+      "end": 982.2,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But in my experience, too few hospitals and doctors are ready to do that.",
+      "translation": "但依我的经验，愿意这样做的医院和医生太少了。",
+      "start": 983.1,
+      "end": 988.34,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In his book, A Whole New Life, novelist Reynolds Price recalls that his doctors chose a crowded hallway as the place to tell him he might have a tumor on his spinal cord.",
+      "translation": "小说家雷诺兹·普莱斯在其著作《全新的生活》中回忆说，他的医生选择了一条拥挤的走廊作为告诉他脊髓上可能长有肿瘤的地点。",
+      "start": 989.52,
+      "end": 1002.82,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It did not occur to the two physicians that a hallway was not the most appropriate place for that particular piece of news.",
+      "translation": "两位医生都没有想到，走廊并不是传达这一特殊消息最恰当的地方。",
+      "start": 1003.38,
+      "end": 1011.9,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "My surgeon, who is in his mid-thirties, looks tired.",
+      "translation": "我的外科医生三十多岁，看起来很疲惫。",
+      "start": 1012.83,
+      "end": 1017.03,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "He has been overwhelmed with patients who have fallen on the winter ice.",
+      "translation": "他一直被那些在冬季结冰路面上摔倒的患者弄得应接不暇。",
+      "start": 1017.71,
+      "end": 1022.27,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "He is a witty man, but sometimes his wit is unwelcome.",
+      "translation": "他是个风趣的人，但有时他的幽默并不受欢迎。",
+      "start": 1023.09,
+      "end": 1026.95,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "\"The health insurance company Blue Cross wants me to put you out in the snow tomorrow afternoon,\" he tells me after I have been in the hospital for more than a week.",
+      "translation": "健康保险公司蓝十字希望我明天下午 把你放出雪里, 他说,在我住院超过一周后,",
+      "start": 1028.44,
+      "end": 1039.38
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'm terrified because I have no idea where to go.",
+      "translation": "我害怕是因为我不知道该去哪里",
+      "start": 1039.81,
+      "end": 1043.95
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I cannot walk or even lift my leg a few inches.",
+      "translation": "我不能走路,甚至抬起我的腿几英寸。",
+      "start": 1044.67,
+      "end": 1048.19
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The hospital social worker strikes me as an idiot.",
+      "translation": "医院社工把我当白痴打",
+      "start": 1049.17,
+      "end": 1052.77
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But my complaints about her only annoy my surgeon.",
+      "translation": "但我对她的投诉只是让我的外科医生不爽",
+      "start": 1053.55,
+      "end": 1056.85
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "\"I have to work with these people,\" he tells my friend, Dr.",
+      "translation": "\"我必须和这些人合作\" 他告诉我的朋友,博士",
+      "start": 1057.81,
+      "end": 1061.95
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Karen Brudney, when she mercifully intervenes on my behalf and arranges for me to be transferred to another hospital.",
+      "translation": "凯伦·布鲁德尼,当她为我进行慷慨的干预 并安排我被转到另一家医院时",
+      "start": 1062.39,
+      "end": 1070.09
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "\"If you say one negative thing, they get defensive,\" she tells me later.",
+      "translation": "\"如果你说一个负面的话,他们就会变得防守\", 她稍后告诉我。",
+      "start": 1071.16,
+      "end": 1075.76
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "\"They have this kind of institutional loyalty.",
+      "translation": "\"他们有这样的机构忠诚。",
+      "start": 1076.42,
+      "end": 1079.26
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Always bring an advocate, that is, any other person with you to the hospital, and write down every single question and the answer, the name of every doctor and nurse.",
+      "translation": "总是带一个律师, 也就是说, 和你一起的任何其他人去医院, 写下每一个问题和答案, 每一个医生和护士的名字。",
+      "start": 1080.3,
+      "end": 1093.29
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "When people know you have their names, they behave better.",
+      "translation": "当人们知道你有他们的名字, 他们的行为更好。",
+      "start": 1093.91,
+      "end": 1097.35
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And,\" Brudney adds, \"if you, as a patient, suggest that you might like to control even part of the situation or be consulted or informed, then you are considered difficult.",
+      "translation": "布鲁德尼又说:“如果你作为病人, 暗示你可能想要控制部分局势, 或者被咨询或告知, 那么你就会被认为是困难的。",
+      "start": 1098.65,
+      "end": 1112.01
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They want you to be totally passive.",
+      "translation": "他们希望你完全被动",
+      "start": 1112.95,
+      "end": 1115.19
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The entire health care system, particularly hospitals and nursing homes, exists for reasons that have nothing to do with taking care of patients.",
+      "translation": "整个保健系统,特别是医院和疗养院的存在,其原因与照顾病人无关。",
+      "start": 1115.77,
+      "end": 1126.15
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Patients are incidental.\"",
+      "translation": "病人是附带的。”",
+      "start": 1126.53,
+      "end": 1127.93
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions 16 to 18 are based on the recording you have just heard.",
+      "translation": "问题16至18是基于你刚才听到的录音",
+      "start": 1130.09,
+      "end": 1135.01
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "16.",
+      "translation": "16岁。",
+      "start": 1136.76,
+      "end": 1137.32
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the speaker say about most American hospitals?",
+      "translation": "发言人对大多数美国医院怎么说?",
+      "start": 1138.91,
+      "end": 1142.27
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions 17.",
+      "translation": "17. 问题17。",
+      "start": 1156.11,
+      "end": 1156.89
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does Karen Brittany suggest patients do?",
+      "translation": "克伦布列塔尼建议病人怎么做?",
+      "start": 1158.03,
+      "end": 1161.41
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 18 What do American doctors expect their patients to be according to Karen Brittany?",
+      "translation": "问题18 美国医生们对病人的预期是什么? 克伦布列塔尼说的?",
+      "start": 1174.68,
+      "end": 1182.66
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Recording 2 There",
+      "translation": "记录2",
+      "start": 1195.91,
+      "end": 1198.01
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "There are probably teams you've worked with but you never want to work with again.",
+      "translation": "你可能曾与一些团队共事过，但再也不想与他们合作。",
+      "start": 1198.733,
+      "end": 1203.55,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But there must have also been other teams that you would prize reuniting with professionally.",
+      "translation": "然而，肯定也有一些其他团队，是你非常珍视能在职业上与之重聚的。",
+      "start": 1203.55,
+      "end": 1210.5,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In other words, your team had vitality.",
+      "translation": "换句话说，你的团队具有活力。",
+      "start": 1211.64,
+      "end": 1213.94,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Vitality comes about when the ties people form with their fellow team members are such that they stay connected even after the team breaks up.",
+      "translation": "当人们与团队同事建立的联系使他们即使在团队解散后仍保持联系时，团队就会产生这种活力。",
+      "start": 1215.78,
+      "end": 1225.28,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What characteristics of a team make its members more likely to stay in contact despite no longer working together?",
+      "translation": "团队具有什么样的特征，才能使其成员即使不再一起工作，也更有可能保持联系？",
+      "start": 1226.42,
+      "end": 1233.62,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This question has been answered recently in a study published in a business journal.",
+      "translation": "最近，一项发表于商业期刊的研究回答了这个问题。",
+      "start": 1234.79,
+      "end": 1240.09,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "One of the two key factors the research team discovered is sameness.",
+      "translation": "研究组发现的两个关键因素之一是相同。",
+      "start": 1241.26,
+      "end": 1246.32
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Specifically, sharing the same gender or ethnic origin.",
+      "translation": "具体地说,具有相同的性别或族裔血统。",
+      "start": 1246.72,
+      "end": 1250.76
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The more members of a team share similar demographics, the more inclined they will be to remain associates long after the team has served its purpose.",
+      "translation": "团队成员越是具有类似的人口统计,就越倾向于在团队达到目的后长期保持联系。",
+      "start": 1252.01,
+      "end": 1261.55
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "After ties are established, similarity strengthens them.",
+      "translation": "在建立关系之后,相似关系会加强关系。",
+      "start": 1262.88,
+      "end": 1266.86
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "As a result, they regard these individuals with greater trust and mutual understanding, which motivates them to seek further opportunities for collaboration.",
+      "translation": "因此,他们以更大的信任和相互理解来看待这些人,这促使他们寻求进一步的合作机会。",
+      "start": 1267.9,
+      "end": 1277.59
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In effect, people tend to create stronger and longer-lasting connections with similar others.",
+      "translation": "实际上,人们往往与类似的其他人建立更强大和更长期的联系。",
+      "start": 1279.2,
+      "end": 1285.46
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Someone who looks and sounds different from us may have the resources we need to be more successful.",
+      "translation": "与我们不同的外表和声音的人 可能拥有我们更成功所需要的资源",
+      "start": 1286.65,
+      "end": 1292.65
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Yet, we find them to be significantly less credible simply because they are different.",
+      "translation": "然而,我们发现,仅仅因为它们不同,它们就明显不那么可信。",
+      "start": 1293.37,
+      "end": 1298.85
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "If you are a fierce advocate of workplace diversity, you'll no doubt be horrified by such a revelation.",
+      "translation": "如果你是工作场所多样性的热门倡导者, 你无疑会因为这样的启示而感到惊恐。",
+      "start": 1299.88,
+      "end": 1306.84
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The second factor identified by the researchers is the quality of the relationships among the team members.",
+      "translation": "研究人员确定的第二个因素是团队成员之间关系的质量。",
+      "start": 1308.31,
+      "end": 1314.73,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The more they trust one another, share the same goals and depend on each other for the achievement of those goals, the stronger their chances of maintaining their connections, despite no longer working as one team.",
+      "translation": "他们彼此越信任，目标越一致，并且越依赖彼此来实现这些目标，即使不再作为一个团队工作，他们维持彼此联系的可能性就越大。",
+      "start": 1315.71,
+      "end": 1328.97,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Teams with quality relationships have a shared belief that it's safe to take risks with each other, and their members are obliged to share the workload and help out.",
+      "translation": "关系良好的团队拥有一种共同信念，即彼此合作承担风险是安全的；其成员也有义务分担工作量并互相提供帮助。",
+      "start": 1330.12,
+      "end": 1341.64,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "From personal experience, I can see both the truth and the inconsistency of such studies.",
+      "translation": "根据个人经历，我既能看出这类研究的真实性，也能看出其中的不一致之处。",
+      "start": 1342.59,
+      "end": 1348.83,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The truth is some of my closest friendships were formed as a result of having worked together on teams, and I actively seek opportunities to work with them again.",
+      "translation": "真实之处在于，我最亲密的一些友谊源于我们曾一起在团队中工作，而我也会主动寻找再次与他们合作的机会。",
+      "start": 1349.61,
+      "end": 1360.37,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The inconsistency, though, is that I've never worked for a team more successful and cohesive than the one of which I am a member right now.",
+      "translation": "然而，不一致之处在于，我从未在一个比我目前所在团队更加成功、更加团结的团队中工作过。",
+      "start": 1361.39,
+      "end": 1370.17,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And yet, the four of us have very little in common and are completely different demographically.",
+      "translation": "可是，我们四个人几乎没有共同之处，在人口统计特征上也完全不同。",
+      "start": 1370.93,
+      "end": 1376.49,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So I am unlikely to question the value of a diverse workforce.",
+      "translation": "因此，我不太可能质疑多元化劳动力的价值。",
+      "start": 1377.36,
+      "end": 1381.44,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What do we learn about the team the speaker is currently working in?",
+      "translation": "发言者目前正在工作的团队情况如何?",
+      "start": 1430.05,
+      "end": 1434.59
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Recording 3 An",
+      "translation": "记录 3",
+      "start": 1447.92,
+      "end": 1450.24
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "An American researcher who studied 600 millionaires found how rich you can get comes down to six wealth factors.",
+      "translation": "一位研究了6亿名百万富翁的美国研究人员发现，一个人能够变得多么富有，归根结底取决于六个财富因素。",
+      "start": 1450.933,
+      "end": 1459.37,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "She found that six behaviors are related to net worth potential, regardless of age or income.",
+      "translation": "她发现，无论年龄或收入如何，六种行为都与净资产潜力有关。",
+      "start": 1460.21,
+      "end": 1467.01,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "These were thriftiness, confidence, responsibility, planning, focus and social indifference.",
+      "translation": "这些行为分别是节俭、自信、责任感、规划、专注以及不在意社会评价。",
+      "start": 1467.97,
+      "end": 1475.21,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Being thrifty comes as no great surprise.",
+      "translation": "节食并不令人惊讶。",
+      "start": 1476.75,
+      "end": 1479.23
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Spending above your means, spending instead of saving for retirement, spending in anticipation of becoming wealthy, makes you a slave to the paycheck.",
+      "translation": "支出超过你的能力, 支出而不是退休储蓄, 支出预期变得富有, 使你成为奴隶 工资支票。",
+      "start": 1480.21,
+      "end": 1490.19
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "\"Even with an astronomical level of income,\" she wrote, \"to properly build wealth, experts recommend saving 20% of your income and living off the remaining 80%.\"",
+      "translation": "她写道,“即使收入水平达到天文水平, ”为了妥善地积累财富, 专家建议节省20%的收入, 并维持其余80%的收入。”",
+      "start": 1491.19,
+      "end": 1503.76
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Having confidence is another key characteristic, as it helps people to be thrifty.",
+      "translation": "拥有自信是另一个关键特征，因为这能帮助人们保持节俭。",
+      "start": 1503.76,
+      "end": 1510.06,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It takes confidence to live within your means.",
+      "translation": "量入为出需要自信。",
+      "start": 1511.0,
+      "end": 1513.3,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It also takes confidence to invest properly.",
+      "translation": "正确地进行投资同样需要自信。",
+      "start": 1514.14,
+      "end": 1516.6,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Instead of making investing decisions with your emotions, financial planners advise that you should leave your investments alone and focus on a long-term investment plan.",
+      "translation": "财务规划师建议，不要凭情绪做出投资决定，而应放任投资自行运作，并专注于长期投资计划。",
+      "start": 1517.58,
+      "end": 1528.93,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But people can't invest or manage their own money without accepting responsibility for the outcomes.",
+      "translation": "但如果不对结果承担责任，人们就无法投资或管理自己的资金。",
+      "start": 1530.03,
+      "end": 1537.23,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Many millionaires take on personal responsibility, and most also happen to be self-made, meaning they didn't acquire their wealth through luck.",
+      "translation": "许多百万富翁都承担个人责任，而且大多数人还碰巧是白手起家，这意味着他们并非靠运气获得财富。",
+      "start": 1538.21,
+      "end": 1548.85,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Millionaires don't count on anyone else to make them rich, and they don't blame anyone else if they fall short.",
+      "translation": "百万富翁不会指望别人让自己变得富有，如果没有达到目标，他们也不会责怪别人。",
+      "start": 1549.66,
+      "end": 1557.22,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They focus on things they can control and align their daily habits to the goals they have set for themselves.",
+      "translation": "他们专注于自己能够控制的事情，并使日常习惯与自己设定的目标保持一致。",
+      "start": 1558.02,
+      "end": 1565.0,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They tend to be goal-oriented and hard workers, which enables them to plan financially and focus on seeing those plans through.",
+      "translation": "他们往往以目标为导向且勤奋努力，这使他们能够进行财务规划，并专注于贯彻落实这些计划。",
+      "start": 1566.14,
+      "end": 1575.68,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "92% of the millionaires surveyed developed a long term plan for their money and 97% almost always achieved the goals they set for themselves.",
+      "translation": "接受调查的百万富翁中，有92%为自己的资金制定了长期计划，97%几乎总能实现自己设定的目标。",
+      "start": 1576.48,
+      "end": 1587.94,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And it is these behaviors that make it easy for them to be socially indifferent.",
+      "translation": "正是这些行为，使他们很容易做到不在意社会评价。",
+      "start": 1589.28,
+      "end": 1593.94,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They resist lifestyle creep, the tendency to spend more whenever one earns more.",
+      "translation": "他们抵制生活方式膨胀，也就是一个人收入增加后便倾向于增加消费。",
+      "start": 1595.02,
+      "end": 1600.62,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Essentially, they don't yield to pressure to buy the latest thing or to keep up with others or what they have acquired.",
+      "translation": "他们基本不会屈服于购买最新产品的压力，也不会为了与他人保持一致或追赶他人已经拥有的东西而消费。",
+      "start": 1601.06,
+      "end": 1608.8,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Instead of being focused on what might make them happy today, they're focused on their long-term wealth-building plan.",
+      "translation": "他们关注的不是今天可能让自己感到快乐的事物，而是长期积累财富的计划。",
+      "start": 1609.78,
+      "end": 1617.7,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 23 How does confidence help people to be thrifty?",
+      "translation": "问题23. 信心如何帮助人们节俭?",
+      "start": 1645.2,
+      "end": 1650.84
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "24 How do millionaires react when they fail in their investment?",
+      "translation": "24个百万富翁在投资失败时 有何反应?",
+      "start": 1664.4,
+      "end": 1670.45
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 25 Why does the speaker say millionaires are socially indifferent?",
+      "translation": "问题25 为什么发言人说百万富翁在社会上漠不关心?",
+      "start": 1683.98,
+      "end": 1690.38
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That's the end of listening comprehension.",
+      "translation": "听觉理解到此结束",
+      "start": 1704.02,
+      "end": 1706.38
+    }
+  ],
+  "translation_sources": [
+    "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/",
+    "Sams200/opus-mt-en-zh (unmatched sentences only)"
+  ]
+}

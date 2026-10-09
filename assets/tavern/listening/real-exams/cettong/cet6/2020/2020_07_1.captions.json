@@ -1,0 +1,1851 @@
+{
+  "id": "cet6-2020_07_1",
+  "title": "2020年7月 第1套",
+  "level": 6,
+  "source_url": "https://www.cettong.cn/library/cet6/2020_07_1",
+  "material_source": "https://117.72.200.49/#/library",
+  "audio": "assets/tavern/listening/real-exams/cettong/cet6/2020/2020_07_1.exampace-playback.mp3",
+  "caption_kind": "published_material_with_auxiliary_timing_and_translation",
+  "caption_models": [
+    "Systran/faster-whisper-base.en",
+    "Sams200/opus-mt-en-zh"
+  ],
+  "lines": [
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Tonight we have a very special guest.",
+      "translation": "M：今晚，我们请到了一位非常特别的嘉宾。",
+      "start": 37.89,
+      "end": 40.47,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Mrs Anna Sanchez is a three-time Olympic champion and author of the new book To the Edge.",
+      "translation": "安娜·桑切斯夫人是三届奥运冠军，也是新书《逼近极限》的作者。",
+      "start": 40.93,
+      "end": 47.93,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Mrs Sanchez, thank you for joining us.",
+      "translation": "桑切斯夫人，谢谢您参加我们的节目。",
+      "start": 48.87,
+      "end": 51.35,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Thank you for having me.",
+      "translation": "W：谢谢您的邀请。",
+      "start": 51.77,
+      "end": 52.87,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Let's start with your book.",
+      "translation": "M：我们先从您的书谈起吧。",
+      "start": 53.45,
+      "end": 54.67,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the title To the Edge mean?",
+      "translation": "书名《逼近极限》是什么意思？",
+      "start": 55.33,
+      "end": 57.25,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What are you referring to?",
+      "translation": "您指的是什么？",
+      "start": 57.95,
+      "end": 59.19,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The book is about how science and technology have helped push humans to the edge of their physical abilities.",
+      "translation": "W：这本书讲的是科学和技术如何帮助人类将身体能力推向极限。",
+      "start": 59.59,
+      "end": 65.57,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I argue that in the past 20 years we've had the best athletes the world has ever seen.",
+      "translation": "我认为，在过去20年里，我们拥有了全世界有史以来最优秀的运动员。",
+      "start": 66.33,
+      "end": 71.23,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But is this a fair comparison?",
+      "translation": "M：但这种比较公平吗？",
+      "start": 72.18,
+      "end": 73.68,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "How do you know how, say, a football player from 50 years ago would compare to one today?",
+      "translation": "比如说，您怎么知道50年前的足球运动员和今天的足球运动员相比会是什么情况？",
+      "start": 74.86,
+      "end": 80.56,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Well, you are right.",
+      "translation": "W：嗯，您说得对。",
+      "start": 81.12,
+      "end": 82.2,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That comparison would be perhaps impossible to make.",
+      "translation": "这种比较也许根本无法进行。",
+      "start": 82.64,
+      "end": 85.36,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But the point is more about our knowledge today of human biochemistry, nutrition and mechanics.",
+      "translation": "但重点更多在于我们如今对人体生物化学、营养学和力学的了解。",
+      "start": 85.93,
+      "end": 91.83,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I believe that while our bodies have not changed in thousands of years, what has changed is the scientific knowledge.",
+      "translation": "我认为，虽然我们的身体几千年来并没有改变，但发生变化的是科学知识。",
+      "start": 93.11,
+      "end": 99.45,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This has allowed athletes to push the limits of what was previously thought possible.",
+      "translation": "这使运动员能够突破过去被认为不可能实现的极限。",
+      "start": 100.2,
+      "end": 104.68,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That's interesting.",
+      "translation": "M：这很有意思。",
+      "start": 105.3,
+      "end": 106.26,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Please tell us more about these perceived limits.",
+      "translation": "请再多给我们讲讲这些所谓的极限吧。",
+      "start": 107.18,
+      "end": 109.64,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The world has seen sports records being broken that could only be broken with the aid of technology, whether this be the speed of a tennis serve or the fastest time in a 100-meter dash or 200-meter swimming race.",
+      "translation": "W：世界上已经出现了一些被打破的体育纪录，而这些纪录只有借助技术才能被打破，无论是网球发球的速度，还是100米短跑或200米游泳的最快成绩。",
+      "start": 110.4,
+      "end": 123.26,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Is there any concern that technology is giving some athletes an unfair advantage over others?",
+      "translation": "M：有没有人担心技术会让一些运动员相较于其他人获得不公平的优势？",
+      "start": 124.22,
+      "end": 130.26,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That is an interesting question and one that has to be considered very carefully.",
+      "translation": "W：这是一个有意思的问题，也是必须非常慎重考虑的问题。",
+      "start": 130.86,
+      "end": 135.28,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Skis, for example, went from being made of wood to a metal alloy, which allows for better control and faster speed.",
+      "translation": "比如，滑雪板从木制变成了金属合金制，这使运动员能够更好地控制滑雪板并获得更快的速度。",
+      "start": 136.28,
+      "end": 143.36,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "There is no stopping technological progress.",
+      "translation": "技术进步是无法阻挡的。",
+      "start": 144.34,
+      "end": 146.56,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But, as I said, each situation should be considered carefully on a case-by-case basis.",
+      "translation": "但是，正如我所说，每种情况都应该具体问题具体分析。",
+      "start": 147.06,
+      "end": 152.82,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions 1 to 4 are based on the conversation you have just heard.",
+      "translation": "问题1至4是基于你刚才听到的谈话",
+      "start": 154.53,
+      "end": 158.31
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "1.",
+      "translation": "1. 国家",
+      "start": 159.84,
+      "end": 160.26
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What do we learn about Anna Sanchez?",
+      "translation": "我们从安娜·桑切斯那里学到什么?",
+      "start": 160.68,
+      "end": 162.7
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 2.",
+      "translation": "问题2",
+      "start": 176.64,
+      "end": 177.38
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What is the woman's book mainly about?",
+      "translation": "女人的书主要关于什么?",
+      "start": 177.82,
+      "end": 180.28
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 3.",
+      "translation": "问题3",
+      "start": 193.85,
+      "end": 194.61
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What has changed in the past thousands of years?",
+      "translation": "过去几千年中,有什么变化?",
+      "start": 195.13,
+      "end": 198.31
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question four, what is the man's concern about the use of technology in sports competitions?",
+      "translation": "问题四:男子对体育比赛中使用技术有何关切?",
+      "start": 211.86,
+      "end": 217.74
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Conversation two.",
+      "translation": "对话二",
+      "start": 231.57,
+      "end": 232.95
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I've worked in international trade all my life.",
+      "translation": "我一辈子都在从事国际贸易。",
+      "start": 233.88,
+      "end": 236.86,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "My father did so too before me.",
+      "translation": "在我之前我父亲也是做这行的。",
+      "start": 237.36,
+      "end": 239.28,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So I guess you could say it runs in the family.",
+      "translation": "所以我想可以说这是我们家族的传统吧。",
+      "start": 240.0,
+      "end": 241.82,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What products have you worked with?",
+      "translation": "你都做过哪些产品？",
+      "start": 242.72,
+      "end": 244.44,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "All sorts, really.",
+      "translation": "真的什么都有。",
+      "start": 245.04,
+      "end": 246.0,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I've imported textiles, machinery, toys, solar panels, all kinds of things over the years.",
+      "translation": "这些年来我进口过纺织品、机械、玩具、太阳能电池板，各种各样的东西。",
+      "start": 246.8,
+      "end": 253.19,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Trends and demand come and go.",
+      "translation": "趋势和需求总是随时间变化。",
+      "start": 253.19,
+      "end": 255.98,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So one needs to be very flexible to succeed in this industry.",
+      "translation": "在这个行业要取得成功，人必须非常灵活才行。",
+      "start": 256.68,
+      "end": 259.94,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I see.",
+      "translation": "我明白了。",
+      "start": 260.64,
+      "end": 260.98,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What goods are you trading now?",
+      "translation": "那你现在在做哪些商品的贸易？",
+      "start": 261.62,
+      "end": 263.08,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I now import furniture from China into Italy and foods from Italy into China.",
+      "translation": "我现在把家具从中国进口到意大利，把食品从意大利进口到中国。",
+      "start": 263.64,
+      "end": 269.38,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I even use the same container.",
+      "translation": "我甚至使用同一个集装箱。",
+      "start": 270.1,
+      "end": 271.36,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's a very efficient way of conducting trade.",
+      "translation": "这是做贸易非常高效的一种方式。",
+      "start": 272.1,
+      "end": 274.5,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The same container?",
+      "translation": "同一个集装箱？",
+      "start": 275.14,
+      "end": 276.0,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You mean you own a 40-foot cargo container?",
+      "translation": "你是说你拥有一个40英尺的货运集装箱？",
+      "start": 276.75,
+      "end": 279.69,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Yeah.",
+      "translation": "是啊。",
+      "start": 280.23,
+      "end": 280.67
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "that's right.",
+      "translation": "没错",
+      "start": 280.79,
+      "end": 281.19
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I have a warehouse in Genova, Italy and another in Shanghai.",
+      "translation": "我在热诺瓦有一个仓库 在意大利,另一个在上海",
+      "start": 281.75,
+      "end": 285.07
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I source mid-century modern furniture from different factories in China.",
+      "translation": "我来自中国不同工厂的 现代家具",
+      "start": 286.07,
+      "end": 290.11
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's very good value for money.",
+      "translation": "这对钱来说很值钱",
+      "start": 290.83,
+      "end": 292.43
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I collect it all in my warehouse and then dispatch it to my other warehouse in Italy.",
+      "translation": "我把所有东西都放在仓库里 然后送到意大利的另一间仓库",
+      "start": 293.21,
+      "end": 297.79
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Over there I do the same, but with Italian foods instead of furniture, things like pasta, cheese, wine, chocolates.",
+      "translation": "在那里,我做同样的, 但意大利食品 而不是家具, 诸如意大利面,奶酪, 葡萄酒,巧克力。",
+      "start": 298.81,
+      "end": 307.05
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And I send all that to my warehouse in China in the same freight container I use for the furniture.",
+      "translation": "我把这些都寄到我在中国的仓库 用我用来装家具的集装箱",
+      "start": 307.05,
+      "end": 312.79
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So I presume you sell both lines of products wholesale in each respective country.",
+      "translation": "这么说，我推测你在各自的国家都是批发销售这两条产品线了。",
+      "start": 312.79,
+      "end": 319.21,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Of course.",
+      "translation": "当然了。",
+      "start": 319.21,
+      "end": 320.11,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I possess a network of clients and partners in both countries.",
+      "translation": "我在两个国家都有客户和合作伙伴网络。",
+      "start": 320.11,
+      "end": 323.73,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That's the main benefit of having done this for so long.",
+      "translation": "这就是干这行这么久的主要好处。",
+      "start": 323.73,
+      "end": 327.05,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I've made great business contacts over time.",
+      "translation": "随着时间的推移，我积累了极好的商业人脉。",
+      "start": 327.41,
+      "end": 329.69,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "How many times do you ship?",
+      "translation": "你运货运多少次？",
+      "start": 329.69,
+      "end": 331.93,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I did 12 shipments last year, 18 this year, and I hope to grow to around 25 next year.",
+      "translation": "我去年运了12趟，今年18趟，我希望明年能增加到25趟左右。",
+      "start": 332.43,
+      "end": 338.88,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That's both ways, there and back again.",
+      "translation": "这是双向的，去一趟再回一趟。",
+      "start": 339.58,
+      "end": 341.48,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Demand for authentic Italian food in China is growing rapidly.",
+      "translation": "中国对正宗意大利食品的需求正在快速增长。",
+      "start": 341.48,
+      "end": 345.6,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And similarly, sales of affordable, yet stylish wooden furniture are also increasing in Italy.",
+      "translation": "同样地，在意大利，实惠又时尚的木质家具销量也在增加。",
+      "start": 346.58,
+      "end": 352.88,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Furniture is marginally more profitable, mostly because it enjoys lower customs duties.",
+      "translation": "家具的利润要稍微高一点，主要是因为它享受更低的关税。",
+      "start": 353.72,
+      "end": 358.64,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions 5 to 8 are based on the conversation you have just heard.",
+      "translation": "问题5到8是基于你刚才听到的谈话",
+      "start": 360.43,
+      "end": 364.29
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "5.",
+      "translation": "5 个",
+      "start": 365.86,
+      "end": 366.34
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the woman think is required to be successful in international trade?",
+      "translation": "妇女认为在国际贸易中取得成功需要什么条件?",
+      "start": 366.99,
+      "end": 371.93
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 6.",
+      "translation": "问题6",
+      "start": 385.41,
+      "end": 386.17
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "does the woman say is special about her way of doing trade?",
+      "translation": "女人说她交易的方式很特别吗?",
+      "start": 387.4,
+      "end": 390.62
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 7.",
+      "translation": "问题7",
+      "start": 404.24,
+      "end": 405.0
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the woman have in both Italy and China?",
+      "translation": "意大利和中国的女人们都有什么?",
+      "start": 405.5,
+      "end": 408.7
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 8.",
+      "translation": "问题8",
+      "start": 422.26,
+      "end": 422.92
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the woman say makes furniture marginally more profitable?",
+      "translation": "女人们怎么说 家具更有利可图?",
+      "start": 423.76,
+      "end": 427.42
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "B, directions.",
+      "translation": "B,方向。",
+      "start": 441.4,
+      "end": 442.44
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In this section you will hear two passages.",
+      "translation": "在本节中,你们将听到两段。",
+      "start": 443.54,
+      "end": 445.74
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "At the end of each passage, you will hear three or four questions.",
+      "translation": "在每一段的结尾,你将听到三四个问题。",
+      "start": 446.49,
+      "end": 450.11
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Both the passage and the questions will be spoken only once.",
+      "translation": "发言的通过和提问将只讲一次。",
+      "start": 451.11,
+      "end": 454.57
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "After you hear a question, you must choose the best answer from the four choices marked A, B, C, and D.",
+      "translation": "在听到一个问题后,你必须从四个选择中选择最好的答案,这四个选择分别是A、B、C和D。",
+      "start": 455.79,
+      "end": 463.27
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Then mark the corresponding letter on answer sheet one with a single line through the center.",
+      "translation": "然后在答题单上用一条线标出相应的字母,通过中心。",
+      "start": 464.07,
+      "end": 469.01
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "\"Too many people view their jobs as a five-day prison from which they are paroled every Friday,\" says Joel Goodman, founder of the Humour Project, a humour consulting group in Saratoga Springs, New York.",
+      "translation": "纽约Saratoga Springs的幽默咨询小组Humor项目创始人Joel Goodman表示:「许多人认为自己是五天监狱,",
+      "start": 472.4,
+      "end": 486.17
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Humour unlocks the office prison because it lets adults bring some of their childlike spirit to the job.",
+      "translation": "办公室监狱的开放是幽默的 因为它让成年人 带一些他们孩子般的精神来工作。",
+      "start": 486.17,
+      "end": 493.93
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "According to Howard Pollio, professor of psychology at the University of Tennessee, Knoxville, an office with humour breaks is an office with satisfied and productive employees.",
+      "translation": "据田纳西大学诺克斯维尔分校心理学教授霍华德·波利奥说，有幽默休息时间的办公室里，员工会更满意，工作效率也更高。",
+      "start": 494.82,
+      "end": 507.02,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Pollio conducted a study that proved humour can help workers excel at routine production tasks.",
+      "translation": "波利奥进行了一项研究，证明幽默能够帮助员工出色地完成常规生产任务。",
+      "start": 507.02,
+      "end": 514.98,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Employees perform better when they have fun.",
+      "translation": "当员工感到快乐时，他们的表现会更好。",
+      "start": 516.24,
+      "end": 518.64,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In large corporations with a hierarchy of power, there is often no outlet for stress.",
+      "translation": "在权力等级分级的大型公司中,压力往往没有出路。",
+      "start": 519.67,
+      "end": 525.83
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "\"Every company needs underground ways of poking fun at the organization,\" says Lynn N.",
+      "translation": "“每个公司都需要地下 来在组织里找乐子,”Lynne N说:",
+      "start": 526.47,
+      "end": 533.73
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Mark, a speaker on workplace humour for St.",
+      "translation": "Mark, St. St. St. S. St. S.",
+      "start": 533.73,
+      "end": 536.55
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Mary's Health Centre in St.",
+      "translation": "圣玛丽保健中心",
+      "start": 536.55,
+      "end": 538.05
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Louis.",
+      "translation": "路易 路易 路易 路易 路易",
+      "start": 538.05,
+      "end": 538.39
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Kodak's Rochester, New York branch discovered a way for its 20,000 employees to uncork their bottled-up resentments.",
+      "translation": "纽约州罗切斯特市的柯达分公司找到了一种方法，让其两万名员工发泄积压已久的怨气。",
+      "start": 539.32,
+      "end": 547.66,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Their 1,000-square-foot Humour Room features a toy store.",
+      "translation": "他们那间面积达一千平方英尺的 Humour Room（幽默室）里设有一家玩具店。",
+      "start": 548.6,
+      "end": 553.22,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Among the room's many stress-reducing gadgets, the main attraction is a boss doll with detachable arms and legs.",
+      "translation": "在房间里众多减压玩具中，最吸引人的是一个胳膊和腿都可以拆卸的老板玩偶。",
+      "start": 553.94,
+      "end": 562.44,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Employees can take the doll apart as long as they put its arms and legs back in place.",
+      "translation": "员工可以把玩偶拆开，只要之后把它的胳膊和腿装回原位即可。",
+      "start": 563.31,
+      "end": 569.77,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Sandy Cohen, owner of a graphic print production business, created the Quote Board to document the bizarre phrases people say when under strict deadlines.",
+      "translation": "桑迪·科恩,一个图形印刷品生产企业的老板,创建了引言委员会,记录人们在严格限期下所说的奇异的词句。",
+      "start": 570.67,
+      "end": 582.13
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "\"When you're under stress, you say stupid things,\" says Cohen.",
+      "translation": "科恩说,“当你处于压力下,你会说愚蠢的话,”",
+      "start": 583.03,
+      "end": 587.09
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "\"Now we just look at each other and say, that's one for the Quote Board.\"",
+      "translation": "\"现在我们互相看对方 说,这是一 引文董事会。\"",
+      "start": 587.67,
+      "end": 592.01
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions 9-11 are based on the passage you have just heard.",
+      "translation": "问题9 -11是基于你刚才听到的段落",
+      "start": 593.13,
+      "end": 597.19
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "9.",
+      "translation": "9. 国家",
+      "start": 598.8,
+      "end": 599.42
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "does the passage say about humor in the workplace?",
+      "translation": "这段文字是否提到工作场所的幽默?",
+      "start": 600.3,
+      "end": 603.04
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 10.",
+      "translation": "问题10。",
+      "start": 616.96,
+      "end": 617.76
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the study by Howard Polio show?",
+      "translation": "Howard Polio的研究显示什么?",
+      "start": 618.48,
+      "end": 621.04
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "11.",
+      "translation": "11. 十一号",
+      "start": 634.85,
+      "end": 635.41
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What can Kodak's employees do in the humor room?",
+      "translation": "Kodak的员工在幽默室能做什么?",
+      "start": 636.15,
+      "end": 639.57
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Passage 2.",
+      "translation": "通行证2。",
+      "start": 653.05,
+      "end": 653.83
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Public interest was aroused by the latest discovery of a changed gene in obese mice.",
+      "translation": "最新在肥胖小鼠身上发现变异基因一事引起了公众的兴趣。",
+      "start": 655.09,
+      "end": 660.41,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The news was made known by Rockefeller University geneticist Jeffrey Friedman.",
+      "translation": "这一消息由洛克菲勒大学的遗传学家杰弗里·弗里德曼公布。",
+      "start": 661.03,
+      "end": 666.13,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The researchers believe this gene influences development of a hormone that tells the organism how fat or full it is.",
+      "translation": "研究人员认为，该基因会影响一种能告知生物体其肥胖程度或饱腹状态的激素的生成。",
+      "start": 667.4,
+      "end": 674.96,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Those with the changed gene may not sense when they have eaten enough or if they have sufficient fatty tissue, and thus can't tell when to stop eating.",
+      "translation": "携带该变异基因的个体可能无法感知自己何时已经吃饱，或者是否有足够的脂肪组织，因而无法判断何时停止进食。",
+      "start": 675.96,
+      "end": 685.62,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The researchers also reported finding a gene nearly identical to the mouse obesity gene in humans.",
+      "translation": "研究人员还报告说,发现了一种与人类中老鼠肥胖基因几乎相同的基因。",
+      "start": 686.99,
+      "end": 693.16
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The operation of this gene in humans has not yet been demonstrated, however.",
+      "translation": "然而,这种基因在人类中的作用尚未得到证明。",
+      "start": 694.25,
+      "end": 698.25
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Still, professionals like University of Vermont psychologist Esther Rothblum reacted enthusiastically: \"This research indicates that people really are born with a tendency to have a certain weight, just as they are to have a particular skin color or height.\"",
+      "translation": "但佛蒙特大学心理学家Esther Rothblum等专业人士反应热烈:「这项研究显示, 人们生来就具有一定体重的倾向,",
+      "start": 699.13,
+      "end": 715.03
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Actually, behavioral geneticists believe that less than half of the total weight variation is programmed in the genes, while height is almost entirely genetically determined.",
+      "translation": "实际上，行为遗传学家认为，总体重变化中只有不到一半是由基因决定的，而身高则几乎完全由基因决定。",
+      "start": 717.27,
+      "end": 727.52,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Whatever role genes play, Americans are getting fatter.",
+      "translation": "无论基因扮演什么角色，美国人都在变得越来越胖。",
+      "start": 728.6,
+      "end": 731.84,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "A survey by the Center for Disease Control found that obesity has increased greatly over the last 10 years.",
+      "translation": "疾病控制中心的一项调查发现，在过去10年中，肥胖率大幅上升。",
+      "start": 732.76,
+      "end": 739.1,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Such rapid change underlines the role of environmental factors, like the abundance of rich foods, in Americans' overeating.",
+      "translation": "如此迅速的变化凸显了环境因素（例如丰富的高热量食物）在美国人过度进食中所起的作用。",
+      "start": 739.96,
+      "end": 747.76,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The Center for Disease Control has also found that teens are far less physically active than they were even a decade ago.",
+      "translation": "疾病控制中心还发现，青少年目前的体育活动量远不及十年前。",
+      "start": 748.65,
+      "end": 756.21,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Accepting that weight is predetermined can relieve guilt for overweight people.",
+      "translation": "接受体重是预先确定的观点可以减轻超重人群的罪恶感。",
+      "start": 757.31,
+      "end": 761.45,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But people's belief that they cannot control their weight can itself contribute to obesity.",
+      "translation": "然而，人们认为自己无法控制体重的这一观念本身就会导致肥胖。",
+      "start": 761.85,
+      "end": 766.89,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 13.",
+      "translation": "问题13。",
+      "start": 792.49,
+      "end": 793.51
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What do we learn about the changed gene?",
+      "translation": "基因变了,我们学到什么?",
+      "start": 794.49,
+      "end": 797.51
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 14.",
+      "translation": "问题14。",
+      "start": 811.09,
+      "end": 812.11
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does University of Vermont, psychologist Esther Rothburn, say?",
+      "translation": "佛蒙特大学心理学家Esther Rothburn怎么说?",
+      "start": 812.77,
+      "end": 817.63
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 15.",
+      "translation": "问题15。",
+      "start": 831.09,
+      "end": 832.05
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What accounts for Americans' according to a survey by the Center for Disease Control?",
+      "translation": "美国人根据疾病控制中心的调查 有何看法?",
+      "start": 832.67,
+      "end": 838.21
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Section C.",
+      "translation": "C节。",
+      "start": 851.71,
+      "end": 852.57
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In this section, you will hear three recordings of lectures or talks.",
+      "translation": "在本节中,你将听到三场演讲或谈话录音。",
+      "start": 854.47,
+      "end": 858.47
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "followed by three or four questions.",
+      "translation": "然后是三四个问题。",
+      "start": 858.99,
+      "end": 860.97
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The recordings will be played only once.",
+      "translation": "录音只播放一次。",
+      "start": 861.81,
+      "end": 863.79
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "After you hear a question, you must choose the best answer from the four choices marked A, B,",
+      "translation": "在听到一个问题后,你必须从四个选择中选择最好的答案,四个选择标注A,B,",
+      "start": 864.59,
+      "end": 870.51
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "C, and D.",
+      "translation": "C,和D., 和D., 和D.",
+      "start": 871.13,
+      "end": 872.03
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Then mark the corresponding letter on answer sheet one with a single line through the center.",
+      "translation": "然后在答题单上用一条线标出相应的字母,通过中心。",
+      "start": 872.93,
+      "end": 877.85
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Recording one.",
+      "translation": "记录一。",
+      "start": 879.11,
+      "end": 879.91
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Qualities of a relationship, such as openness, compassion, and mental stimulation are of concern to most of us regardless of sex, but—judging from the questionnaire response—they are more important to women than to men.",
+      "translation": "关系中的一些品质，例如坦诚、同情心和精神上的相互启发，无论男女，大多数人都很看重；但从问卷的回答来看，女性比男性更为重视这些品质。",
+      "start": 881.15,
+      "end": 896.47,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Asked to consider the ingredients of close friendship, women rated these qualities above all others.",
+      "translation": "当被要求考虑亲密友谊的构成要素时，女性给这些品质的评价高于其他所有品质。",
+      "start": 896.47,
+      "end": 903.91,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Men assigned a lower priority to them in favor of similarity in interests, selected by 77% of men, and responsiveness in a crisis, chosen by 61% male respondents.",
+      "translation": "男性则将它们置于较低优先级，更看重兴趣相投（77%的男性选择了这一点）以及在危机时给予回应（61%的男性受访者选择了这一点）。",
+      "start": 905.03,
+      "end": 918.96,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Mental stimulation, ranked third in popularity by men as well as women, was the only area of overlap.",
+      "translation": "精神上的相互启发在男性和女性中都颇受欢迎，排名第三，是双方唯一重合的方面。",
+      "start": 920.32,
+      "end": 927.76,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Among men, only 28% named openness as an important quality; caring was picked by just 23%.",
+      "translation": "在男性中，只有28%的人认为坦诚是一项重要品质；选择关怀的仅有23%。",
+      "start": 928.96,
+      "end": 937.44,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It is evident by their selections that when women speak of close friendships they are referring to emotional factors, while men emphasize the pleasure they find in a friend's company.",
+      "translation": "从她们的选择可以明显看出，女性谈到亲密友谊时，指的是情感因素；而男性则强调从朋友陪伴中获得的乐趣。",
+      "start": 937.44,
+      "end": 949.16,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That is, when a man speaks of \"a friend\" he is likely to be talking about someone he does things with—a teammate, a fellow hobbyist, a drinking buddy.",
+      "translation": "也就是说，当一个男人说“朋友”时，他很可能是在谈论一个和自己一起做事情的人——队友、共同从事某种爱好的人，或酒友。",
+      "start": 950.33,
+      "end": 960.49,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "These activities are the fabric of the friendship; it is a \"doing\" relationship in which similarity in interests is the key bond.",
+      "translation": "这些活动构成了友谊的基础；这是一种“做事型”的关系，其中兴趣相投是维系关系的关键纽带。",
+      "start": 962.06,
+      "end": 970.74,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This factor was a consideration of less than 11% of women.",
+      "translation": "只有不到11%的女性把这一因素视为考量。",
+      "start": 971.87,
+      "end": 975.81,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Women opt for a warm, emotional atmosphere where communication flows freely; activity is mere background.",
+      "translation": "女性选择的是一种温暖而富有情感的氛围，在那里交流能够自由进行；活动本身只是背景。",
+      "start": 976.49,
+      "end": 984.97,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Lastly, men, as we have seen, have serious questions about each other's loyalty.",
+      "translation": "最后,正如我们所看到的那样,男人对彼此的忠诚有严重的疑问。",
+      "start": 986.63,
+      "end": 991.21
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Perhaps this is why they placed such strong emphasis on responsiveness in a crisis—\"someone I can call on for help.\" Women, as their testimonies indicate, are generally more secure with each other and consequently are more likely to treat this issue lightly.",
+      "translation": "也许这就是为什么他们如此强调危机中的应变能力——“我可以要求帮助的人”。 正如她们的证词所表明,妇女一般比较安全,因此更有可能轻率地处理这一问题。",
+      "start": 992.42,
+      "end": 1009.36
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In follow-up interviews this was confirmed numerous times as woman after woman indicated that \"being there when needed was taken for granted.\"",
+      "translation": "在后续访谈中,这多次得到证实,因为妇女又一个妇女表示,“当需要时,在那里是理所当然的”。",
+      "start": 1010.92,
+      "end": 1019.8
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "As for the hazards of friendship, more than a few relationships have been shattered because of cutthroat competition and feelings of betrayal.",
+      "translation": "至于友谊中的风险，不少关系都因你死我活的竞争和被背叛的感受而破裂。",
+      "start": 1021.74,
+      "end": 1029.48,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This applies to both men and women, but unequally.",
+      "translation": "这一点男女都适用，但程度并不相同。",
+      "start": 1030.36,
+      "end": 1033.6,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In comparison, nearly twice as many men complained about these issues as women.",
+      "translation": "相比之下，抱怨这些问题的男性几乎是女性的两倍。",
+      "start": 1034.14,
+      "end": 1038.94,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Further, while competition and betrayal are the main thorns to female friendship, men are plagued in almost equal amounts by two additional issues: lack of frankness and a fear of appearing unmanly.",
+      "translation": "此外，尽管竞争和背叛是女性友谊中最主要的刺痛点，男性还几乎同等程度地受到另外两个问题的困扰：缺乏坦率，以及害怕显得不够男子气概。",
+      "start": 1040.33,
+      "end": 1053.5,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Obviously, for a man, a good friendship is hard to find.",
+      "translation": "显然，对男人来说，一段美好的友谊很难寻得。",
+      "start": 1054.86,
+      "end": 1058.34,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 16 to 18 are based on the recording you have just heard.",
+      "translation": "问题16至18是基于你刚才听到的录音。",
+      "start": 1059.6,
+      "end": 1064.08
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 16.",
+      "translation": "问题16。",
+      "start": 1065.16,
+      "end": 1066.26
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What quality do men value most concerning friendship according to a questionnaire response?",
+      "translation": "根据对调查问卷的答复,男子对友谊最重视的品质是什么?",
+      "start": 1067.1,
+      "end": 1073.2
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 17.",
+      "translation": "问题17。",
+      "start": 1086.78,
+      "end": 1087.6
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What do women refer to when speaking of close friendships?",
+      "translation": "谈到亲密的友谊,妇女指的是什么?",
+      "start": 1088.18,
+      "end": 1092.16
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 18.",
+      "translation": "问题18。",
+      "start": 1105.9,
+      "end": 1106.64
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What may threaten a friendship for both men and women?",
+      "translation": "何为威胁男女的友谊?",
+      "start": 1107.32,
+      "end": 1111.34
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Recording 2.",
+      "translation": "记录2。",
+      "start": 1124.7,
+      "end": 1125.56
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The partial skeletons of more than 20 dinosaurs and the scattered bones of about 300 more",
+      "translation": "20多只恐龙的部分骨骼 和大约300多颗分散的骨骼",
+      "start": 1126.24,
+      "end": 1132.32
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Many of the best specimens may be seen today at museums of natural history in the larger cities of the United States and Canada.",
+      "translation": "如今，在美国和加拿大较大城市的自然历史博物馆里，可以看到许多保存最完好的标本。",
+      "start": 1139.8,
+      "end": 1147.94,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This dinosaur pit is the largest and best preserved deposit of dinosaurs known today.",
+      "translation": "这处恐龙化石坑是迄今所知规模最大、保存最完好的恐龙沉积地。",
+      "start": 1148.78,
+      "end": 1155.74,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Many people get the idea from the mass of bones in the pit wall that some disaster such as a volcanic explosion or a sudden flood killed a whole herd of dinosaurs in this area.",
+      "translation": "恐龙坑坑壁上大量的骨骼使许多人认为，某种灾难——例如火山爆发或突发洪水——在这一地区杀死了整群恐龙。",
+      "start": 1156.84,
+      "end": 1169.24,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This could have happened but it probably did not.",
+      "translation": "这种情况本来可能发生过，但很可能并非如此。",
+      "start": 1170.2,
+      "end": 1173.76,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The main reasons for thinking otherwise are the scattered bones and the thickness of the deposit.",
+      "translation": "之所以有理由作出不同的判断，主要是因为骨骼分布零散，而且沉积层很厚。",
+      "start": 1174.4,
+      "end": 1180.64,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In other deposits where the animals were thought to have died together, the skeletons were usually complete and often all the bones were in their proper places.",
+      "translation": "在其他被认为是动物同时死亡形成的沉积地中，骨骼通常是完整的，而且所有骨头往往都处在各自应有的位置。",
+      "start": 1181.68,
+      "end": 1191.44,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Rounded pieces of fossil bone have been found here.",
+      "translation": "这里曾发现过圆润的化石骨片。",
+      "start": 1192.56,
+      "end": 1195.36,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "These fragments got their smooth round shape by rolling along the stream bottom.",
+      "translation": "这些碎片是在溪流底部滚动时形成光滑圆润的形状的。",
+      "start": 1196.12,
+      "end": 1201.2,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In a mass killing, the bones would have been left on the stream or lake bottom together at the same level.",
+      "translation": "如果是大量动物同时死亡，骨头就会一起留在溪流或湖泊底部的同一水平面上。",
+      "start": 1202.08,
+      "end": 1208.36,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But in this deposit, the bones occur throughout a zone of sandstone about 12 feet thick.",
+      "translation": "但在这处沉积地中，骨头分布在一层约12英尺厚的砂岩带内。",
+      "start": 1208.98,
+      "end": 1215.76,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The mixture of swamp dwellers and dry-land types also seems to indicate that the deposit is a mixture from different places.",
+      "translation": "沼泽栖息型动物和旱地型动物混杂在一起，这似乎也表明该沉积地是由来自不同地点的遗骸混合形成的。",
+      "start": 1216.27,
+      "end": 1225.67,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The pit area is a large dinosaur graveyard, not a place where they died.",
+      "translation": "这个坑区是一处大型恐龙墓地，而不是恐龙死亡的地方。",
+      "start": 1226.71,
+      "end": 1232.55,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Most of the remains probably floated down an eastward flowing river until they were left on a shallow sandbar.",
+      "translation": "大多数遗骸很可能顺着一条向东流淌的河漂流而下，直到被冲到一处浅沙洲上。",
+      "start": 1233.37,
+      "end": 1240.27,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Some of them may have come from far-away dry-land areas to the west.",
+      "translation": "有些遗骸可能来自西面遥远的旱地区域。",
+      "start": 1240.92,
+      "end": 1245.96,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Perhaps they drowned trying to cross a small stream or were washed away during floods.",
+      "translation": "它们或许是在试图渡过一条小溪时溺水，也可能是在洪水中被冲走的。",
+      "start": 1246.58,
+      "end": 1252.22,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Some of the swamp dwellers may have got stuck in the very sandbar that became their grave; others may have floated for miles before being stranded.",
+      "translation": "一些沼泽栖息型动物可能陷在后来成为它们墓地的那片沙洲中；另一些则可能漂流了数英里，最后搁浅在那里。",
+      "start": 1253.02,
+      "end": 1263.44,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Even today similar events take place.",
+      "translation": "即使在今天，类似的事情也会发生。",
+      "start": 1264.46,
+      "end": 1267.04,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "When floods come in the spring, sheep, cattle and deer are often trapped by rising waters and often drown.",
+      "translation": "春季洪水来临时，绵羊、牛和鹿常常会被上涨的水流困住，并经常因此溺死。",
+      "start": 1267.04,
+      "end": 1275.49,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Their dead bodies float downstream until the flood recedes and leaves them stranded on a bar or shore where they lie, half buried in the sand, until they decay.",
+      "translation": "它们的尸体顺流漂下，直到洪水退去，把它们留在沙洲或岸边搁浅；它们半埋在沙中，直到腐烂。",
+      "start": 1275.49,
+      "end": 1286.55,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Early travelers on the Missouri river reported that shores and bars were often lined with the decaying bodies of buffalo that had died during spring floods.",
+      "translation": "早期在密苏里河上旅行的人报告说，河岸和沙洲上常常排列着在春季洪水中死亡的野牛腐烂尸体。",
+      "start": 1287.88,
+      "end": 1297.52,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions 19-21 are based on the recording you have just heard.",
+      "translation": "问题19 -21是基于你刚才听到的录音",
+      "start": 1298.67,
+      "end": 1303.25
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "19.",
+      "translation": "19. 经济",
+      "start": 1304.65,
+      "end": 1305.35
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Where can many of the best dinosaur specimens be found in North America?",
+      "translation": "许多最好的恐龙标本 在北美在哪里找到?",
+      "start": 1306.2,
+      "end": 1310.74
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "20.",
+      "translation": "20. 20个",
+      "start": 1324.38,
+      "end": 1325.14
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What occurs to many people when they see the massive bones in the pit wall?",
+      "translation": "当许多人看到坑墙上的巨骨时会怎样?",
+      "start": 1325.98,
+      "end": 1330.62
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 21.",
+      "translation": "问题21",
+      "start": 1344.16,
+      "end": 1344.96
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the speaker suggest about the large number of dinosaur bones found in the pit?",
+      "translation": "这位发言者对坑里发现的大量恐龙骨头有何看法?",
+      "start": 1345.66,
+      "end": 1350.78
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Recording 3.",
+      "translation": "记录3。",
+      "start": 1364.39,
+      "end": 1365.21
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I would like particularly to talk about the need to develop a new style of aging in our own society.",
+      "translation": "我尤其想谈谈在我们自己的社会中形成一种新的老年生活方式的必要性。",
+      "start": 1366.22,
+      "end": 1372.4,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Young people in this country have been accused of not caring for their parents the way they would have in the old country.",
+      "translation": "这个国家的年轻人被指责没有像他们在故国时那样照料父母。",
+      "start": 1373.4,
+      "end": 1379.86,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And this is true.",
+      "translation": "这确实如此。",
+      "start": 1380.87,
+      "end": 1381.63,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But it is also true that old people have been influenced by an American ideal of independence and autonomy.",
+      "translation": "但同样确实的是，老年人也受到了美国式独立与自主理念的影响。",
+      "start": 1382.59,
+      "end": 1389.15,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So we live alone, perhaps on the verge of starvation, in time without friends, but we are independent.",
+      "translation": "因此，我们独自生活，也许处于饥饿的边缘，生活中没有朋友，但我们是独立的。",
+      "start": 1390.4,
+      "end": 1397.66,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This standard American style has been forced on every ethnic group, although there are many groups for whom the ideal is not practical.",
+      "translation": "这种标准的美国式生活方式被强加给了每一个族群，尽管有许多族群并不适合这种理想。",
+      "start": 1399.39,
+      "end": 1407.59,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It is a poor ideal and pursuing it does a great deal of harm.",
+      "translation": "这是一个糟糕的理想，追求它会造成极大的伤害。",
+      "start": 1408.8,
+      "end": 1412.7,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This ideal of independence also contains a tremendous amount of unselfishness.",
+      "translation": "这种独立的理想还包含着极大程度的无私。",
+      "start": 1414.57,
+      "end": 1419.15,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In talking to today's young mothers.",
+      "translation": "和今天的年轻母亲聊天",
+      "start": 1420.36,
+      "end": 1422.12
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I have asked them what kind of grandmothers they think they are going to be.",
+      "translation": "我问他们,他们认为自己会是什么样的祖母。",
+      "start": 1422.6,
+      "end": 1426.08
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I hear devoted, loving mothers say that when they are through raising their children, they have no intention of becoming grandmothers.",
+      "translation": "我听到慈爱的母亲们说,当她们通过抚养子女来抚养子女时,她们无意成为祖母。",
+      "start": 1426.86,
+      "end": 1434.64
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They are astonished to hear that in most of the world throughout most of its history, families have been three- or four-generation families, living under the same roof.",
+      "translation": "他们惊讶地听到,在世界上大部分地区,在其大多数历史中,家庭是三、四代家庭,生活在同一个屋檐下。",
+      "start": 1435.55,
+      "end": 1445.69
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We have over-emphasized the small family unit—father, mother, small children.",
+      "translation": "我们过分强调了小家庭单位——父亲、母亲和年幼的孩子。",
+      "start": 1447.33,
+      "end": 1452.75,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We think it is wonderful if grandma and grandpa, if they're still alive, can live alone.",
+      "translation": "如果奶奶和爷爷还健在，并且能够独自生活，我们就认为这很了不起。",
+      "start": 1453.43,
+      "end": 1458.52,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We have reached the point where we think the only thing we can do for our children is to stay out of their way and the only thing we can do for our daughter-in-law is to see as little of her as possible.",
+      "translation": "我们已经到了这样一种地步：认为我们能为孩子做的唯一事情就是不妨碍他们，而我们能为儿媳做的唯一事情就是尽可能少见她。",
+      "start": 1460.34,
+      "end": 1470.98,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Old people's nursing homes, even the best run, are filled with older people who believe the only thing they can do for their children is to look cheerful when they come to visit.",
+      "translation": "老年人的养老院，即使是管理得最好的养老院，也住满了这样一些老年人：他们认为自己能为子女做的唯一事情，就是在子女来探望时表现得兴高采烈。",
+      "start": 1471.88,
+      "end": 1482.42,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So in the end, older people have to devote all their energies to \"not being a burden\".",
+      "translation": "因此，到最后，老年人不得不把全部精力都用在“不成为负担”上。",
+      "start": 1483.91,
+      "end": 1489.45,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We are beginning to see what a tremendous price we've paid for our emphasis on independence and autonomy.",
+      "translation": "我们开始看到，过分强调独立与自主让我们付出了多么巨大的代价。",
+      "start": 1491.18,
+      "end": 1497.38,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We've isolated old people and we've cut off the children from their grandparents.",
+      "translation": "我们使老年人与世隔绝，也切断了孩子与祖父母之间的联系。",
+      "start": 1498.14,
+      "end": 1502.24,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "One of the reasons we have as bad a generation gap today as we do is that grandparents have stepped out.",
+      "translation": "我们如今之所以存在如此严重的代沟，其中一个原因就是祖父母退出了生活。",
+      "start": 1503.48,
+      "end": 1510.22,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Young people are being deprived of the thing they need most—perspective, to know why their parents behave so peculiarly and why their grandparents say the things they do.",
+      "translation": "年轻人被剥夺了他们最需要的东西——看待问题的视角，也就是了解为什么父母的行为如此古怪，以及为什么祖父母会说出那些话。",
+      "start": 1511.32,
+      "end": 1522.12,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What is astonishing to the young mothers interviewed by the speaker?",
+      "translation": "发言者采访的年轻母亲有什么令人吃惊的?",
+      "start": 1568.55,
+      "end": 1572.81
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 25 What does the speaker say older people try their best to do?",
+      "translation": "问题25 发言者怎么说老年人会尽力去做?",
+      "start": 1586.28,
+      "end": 1592.0
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This is the end of listening comprehension",
+      "translation": "听觉理解到此结束",
+      "start": 1605.26,
+      "end": 1607.68
+    }
+  ],
+  "translation_sources": [
+    "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/",
+    "Sams200/opus-mt-en-zh (unmatched sentences only)"
+  ]
+}

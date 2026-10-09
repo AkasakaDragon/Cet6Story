@@ -1,0 +1,1008 @@
+{
+  "id": "cet4-2024_12_1",
+  "title": "2024年12月 第1套",
+  "level": 4,
+  "source_url": "https://www.cettong.cn/library/cet4/2024_12_1",
+  "material_source": "https://117.72.200.49/#/library",
+  "audio": "assets/tavern/listening/real-exams/cettong/cet4/2024/2024_12_1.mp3",
+  "caption_kind": "published_material_with_auxiliary_timing_and_translation",
+  "caption_models": [
+    "Systran/faster-whisper-base.en",
+    "Sams200/opus-mt-en-zh"
+  ],
+  "lines": [
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "News report 1.",
+      "translation": "新闻报告1。",
+      "start": 36.9,
+      "end": 38.14
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The City of Fayetteville is making a special effort to recognize its bus drivers ahead of the newly proclaimed Transit Driver Appreciation Day happening Saturday.",
+      "translation": "Fayetteville市正在特别努力表彰其公交车司机，以迎接新设立的公交司机感谢日，该日定于周六举行。",
+      "start": 39.1,
+      "end": 49.56,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "As part of the event, the City is celebrating its longest serving driver on the force.",
+      "translation": "作为活动的一部分,该市正在庆祝其服务时间最长的在职司机。",
+      "start": 50.62,
+      "end": 55.44,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "course.",
+      "translation": "课程。",
+      "start": 55.44,
+      "end": 55.68
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That driver is Sherry Christian.",
+      "translation": "这位司机是Sherry Christian。",
+      "start": 56.24,
+      "end": 57.88,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Christian has been a driver for 25 years.",
+      "translation": "Christian已经担任司机25年。",
+      "start": 59.1,
+      "end": 61.72,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The Fayetteville native believes driving a school bus allows her to give back to her community.",
+      "translation": "这位Fayetteville本地人认为驾驶校车让她能够回馈社区。",
+      "start": 62.58,
+      "end": 67.86,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "She says that the best part of the job is watching the children who ride her bus grow up.",
+      "translation": "她说这份工作最好的部分是看着乘坐她的校车的孩子们长大。",
+      "start": 68.78,
+      "end": 73.96,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Transit Driver Appreciation Day has been celebrated across the country as far back as 2009.",
+      "translation": "公交司机感谢日早在2009年就在全国范围内庆祝。",
+      "start": 74.6,
+      "end": 81.12,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "However, However, this week, the city of Fayetteville issued a proclamation for the day to take place March 18th.",
+      "translation": "然而,本周,费耶特维尔市宣布3月18日为当天。",
+      "start": 82,
+      "end": 89.52
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "said they want bus drivers to know how important they are to",
+      "translation": "说要公交司机知道他们有多重要",
+      "start": 90.3,
+      "end": 94.1
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Report 2 The Wilton School Board has proposed a 5 .99 % spending increase.",
+      "translation": "报告2 威尔顿学校董事会建议增加5.99%的支出。",
+      "start": 145.02,
+      "end": 152.58
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "If it would be the largest jump in at least 8 budget cycles.",
+      "translation": "如果这是至少八个预算周期中最大的跳跃的话",
+      "start": 152.58,
+      "end": 157.7
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The 5 .99 % request more than doubles the highest previous year -over -year increase in the last eight years, which was 2 .99 % for the 2021 -22 -22 school year.",
+      "translation": "5.99%的学生要求将上一年(与上一年相比)的两倍以上(在过去八年中,年增长率最高,2021-22-22学年为2.99%)。",
+      "start": 158.66,
+      "end": 175.12
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The biggest driver of the $91 .8 million proposed budget remains teacher salaries.",
+      "translation": "这份9180万美元预算提案的最大驱动因素仍然是教师工资。",
+      "start": 175.96,
+      "end": 182.14,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "These account for 64 % of the total request at $59 million.",
+      "translation": "教师工资占总请求金额的64%,为5900万美元。",
+      "start": 183.16,
+      "end": 188.06,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The $59 million is up from the $56 .7 million budgeted for the current school year.",
+      "translation": "5900万美元高于本学年预算的5670万美元。",
+      "start": 188.74,
+      "end": 196.2,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "There are some factors that could affect the budget moving forward.",
+      "translation": "有一些因素可能会影响未来的预算。",
+      "start": 197.02,
+      "end": 200.36,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "One of those is total enrollment.",
+      "translation": "其中之一是总入学人数。",
+      "start": 201.04,
+      "end": 202.82,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The district will have a total enrollment of 3 ,742 students.",
+      "translation": "该学区将有3742名学生入学。",
+      "start": 203.96,
+      "end": 209.16,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Almost all of these students will be in kindergarten through high school.",
+      "translation": "几乎所有这些学生都上幼儿园,直到高中。",
+      "start": 209.84,
+      "end": 213.52
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "but 66 will be in pre -kindergarten and other programs.",
+      "translation": "但66个将参加幼儿园前和其他方案。",
+      "start": 213.52,
+      "end": 218.2
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "represents 47 fewer students than the current year.",
+      "translation": "比本年度少47名学生。",
+      "start": 219.74,
+      "end": 223.82
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Fewer students mean less federal and state funding.",
+      "translation": "学生人数减少意味着联邦和州拨款减少。",
+      "start": 224.7,
+      "end": 228.28,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Report 3 A rare thunder snow event has taken place in Scotland, and alarmed locals contacted police thinking they had heard bombs going off.",
+      "translation": "报告3 苏格兰发生了罕见的雷雨雪事件, 惊慌的当地人与警方联系, 以为他们听到炸弹爆炸声。",
+      "start": 275.38,
+      "end": 286.84
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The phenomenon happens when thunder and lightning mix with a heavy snowstorm, sometimes causing loud claps that can be confused with explosions.",
+      "translation": "这种现象发生在雷电与暴雪混合时,有时会产生巨大的爆裂声,容易被误认为是爆炸。",
+      "start": 287.86,
+      "end": 298.04,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "versions.",
+      "translation": "版本。",
+      "start": 298.04,
+      "end": 298.14
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "One person described it as a loud boom, similar to a plane crash.",
+      "translation": "一个人将其描述为一声巨响,类似于飞机坠毁。",
+      "start": 299.08,
+      "end": 303.7,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Another person was woken up in the middle of the night by what he thought was early construction work starting.",
+      "translation": "另一个人在半夜被他以为是早期施工开始的声音吵醒。",
+      "start": 304.56,
+      "end": 310.4,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The noise was powerful enough to shake buildings and set off car alarms.",
+      "translation": "这种噪音强大到足以震动建筑物并触发汽车警报器。",
+      "start": 311.36,
+      "end": 315.94,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The police were flooded with many calls from the public, and they sent out a message asking people to remain calm.",
+      "translation": "警方接到许多民众的电话,",
+      "start": 316.92,
+      "end": 323.66
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The police assured everyone that it was just thunder and lightning rather than some military exercise.",
+      "translation": "警方向所有人保证这只是雷电,而不是什么军事演习。",
+      "start": 324.36,
+      "end": 330.42,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The weather was the coldest it had been for the season, so people were warned to be careful when traveling outside.",
+      "translation": "天气是本季最冷的,因此人们被警告在外出时要小心。",
+      "start": 331.92,
+      "end": 337.94,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In particular, dangerous conditions such as icy roads or wet ground could cause difficulty for drivers.",
+      "translation": "特别是结冰的道路或湿滑的地面等危险状况可能会给司机造成困难。",
+      "start": 338.92,
+      "end": 345.88,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The rail service also announced potential disruptions to trains due to the deep snow.",
+      "translation": "铁路部门也宣布由于积雪深厚,列车可能会受到干扰。",
+      "start": 346.94,
+      "end": 352.42,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Some roads were also closed because of the severe weather.",
+      "translation": "一些道路也因恶劣天气而关闭。",
+      "start": 353.26,
+      "end": 356.38,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Conversation One I'm going to the city centre to buy a new phone today.",
+      "translation": "今天我要到市中心买新电话",
+      "start": 451.96,
+      "end": 456.62
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Didn't you buy a new phone just two months ago?",
+      "translation": "你不是两个月前才买了一部新手机吗?",
+      "start": 457.16,
+      "end": 459.86,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It was three months ago and I already know what you're going to say.",
+      "translation": "是三个月前,而且我已经知道你要说什么了。",
+      "start": 460.52,
+      "end": 464.02,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You're thinking thinking I shouldn't replace my phone this soon.",
+      "translation": "你在想我不该这么快换手机",
+      "start": 464.26,
+      "end": 467.04
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "No, actually, I was wondering how you could possibly afford a new phone, but now that you mention it, I do think getting another phone so soon is wasteful, regardless of the cost.",
+      "translation": "不,实际上,我在想你 怎么可能买得起一部新手机, 但是既然你提到, 我认为这么快再买一部手机是浪费的, 不论费用多少。",
+      "start": 467.6,
+      "end": 478.72
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Maybe you're right, but the thing is, everyone at the office has a nice, expensive phone and I'm a little embarrassed by mine.",
+      "translation": "也许你说得对,但问题是,办公室里每个人都有一部很好很贵的手机,我对我的手机有点难为情。",
+      "start": 479.24,
+      "end": 486.94,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I just got a credit card, so I thought I might as well buy a new phone.",
+      "translation": "我刚办了一张信用卡,所以我想不如买部新手机。",
+      "start": 487.42,
+      "end": 491.7,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I don't think buying a phone on credit is a good idea.",
+      "translation": "我觉得用信用卡买手机不是个好主意。",
+      "start": 491.7,
+      "end": 495.5,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Look, you've only been working for five months now.",
+      "translation": "你看,你才工作了五个月。",
+      "start": 496.06,
+      "end": 498.6,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "People understand that you are a recent graduate and I doubt anyone cares about your phone other than yourself.",
+      "translation": "大家都理解你是刚毕业的,我觉得除了你自己,没人在意你的手机。",
+      "start": 499.02,
+      "end": 505.26,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Maybe you're right, but the credit card has a very good special offer where I don't pay any interest for six months.",
+      "translation": "也许你说得对,但这张信用卡有一个很好的特别优惠,六个月内不用付利息。",
+      "start": 505.98,
+      "end": 513.24,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'll be able to pay for the phone well before that period is over.",
+      "translation": "在那之前我肯定能把手机款付清。",
+      "start": 513.96,
+      "end": 518.02,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I still think it's a bad idea to use a credit card for something you don't need.",
+      "translation": "我还是觉得用信用卡买你不需要的东西是个坏主意。",
+      "start": 518.6,
+      "end": 522.78,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "One of my colleagues bought a lot of things on credit.",
+      "translation": "我的一个同事 以信用购买了很多东西",
+      "start": 523.46,
+      "end": 525.86
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "During her first year of work, and it became a bad habit, and she accumulated a lot of debt.",
+      "translation": "在她第一年的工作期间,她成了一个坏习惯, 她积累了很多债务。",
+      "start": 526.36,
+      "end": 531.86
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Well, I can see how that might happen to someone, and I'm sure she regrets it, but I know it won't happen to me.",
+      "translation": "嗯,我能理解这种事可能发生在某些人身上,我相信她很后悔,但我知道这不会发生在我身上。",
+      "start": 532.78,
+      "end": 540.46,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "2 Welcome to the Morning Show.",
+      "translation": "2 欢迎收看晨间秀",
+      "start": 627.08,
+      "end": 630.24
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Our guest today is a popular blog writer, and a major figure in the tiny home can can...",
+      "translation": "今天的嘉宾是个流行的博客作家,",
+      "start": 630.92,
+      "end": 636.1800000000001
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You...",
+      "translation": "你... 你... 你...",
+      "start": 636.1800000000001,
+      "end": 636.2
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Welcome, Bob Jones.",
+      "translation": "欢迎你,Bob Jones。",
+      "start": 637.24,
+      "end": 638.24,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Hi Mary.",
+      "translation": "你好,Mary。",
+      "start": 638.96,
+      "end": 639.42,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Hi Bob.",
+      "translation": "你好,Bob。",
+      "start": 640.12,
+      "end": 640.56,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You're an advocate of the tiny home movement.",
+      "translation": "你是迷你住宅运动的倡导者。",
+      "start": 641.36,
+      "end": 643.72,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "A lot of people don't know about this movement.",
+      "translation": "很多人不了解这个运动。",
+      "start": 644.32,
+      "end": 646.48,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Can you tell our audience what it's about?",
+      "translation": "你能给我们的观众介绍一下它是怎么回事吗?",
+      "start": 647.24,
+      "end": 649.38,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Well, it's mainly about increasing home ownership and protecting the environment.",
+      "translation": "嗯,它主要是关于提高住房拥有率和保护环境。",
+      "start": 649.92,
+      "end": 655.34,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Of course, those are great goals.",
+      "translation": "当然,这些都是很好的目标。",
+      "start": 656,
+      "end": 657.86,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But I've seen your blog and you write about houses that are as small as 20 square meters.",
+      "translation": "但我看过你的博客,你写的房子小到只有20平方米。",
+      "start": 658.56,
+      "end": 663.98,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "that's not a realistic size for families.",
+      "translation": "这对家庭来说不是一个现实的面积。",
+      "start": 663.98,
+      "end": 667.2,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I do talk about very small homes but there's no set definition of a tiny home and other people include homes that are much larger say 60 square meters and you'd be surprised.",
+      "translation": "我确实谈到过很小的房屋, 但对于一个很小的房屋, 没有一个定义, 其他人包括大得多的房屋, 说有60平方米, 你会惊讶的。",
+      "start": 668.24,
+      "end": 680.96
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Many families of four are happy living in houses that are under 30 square meters.",
+      "translation": "许多四口家庭幸福地生活在30平方米以下的房屋中。",
+      "start": 682.08,
+      "end": 687.24
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But I think most of us us want spacious homes.",
+      "translation": "但我想我们大多数人 都想要宽敞的家",
+      "start": 688,
+      "end": 691.14
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The average new house in this area is 150 square meters and that's what people dream of owning.",
+      "translation": "这个区域的平均新房子面积是150平方米, 这就是人们梦想拥有的。",
+      "start": 691.96,
+      "end": 698.14
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Yes, but I think that dream needs to change, considering the cost of housing.",
+      "translation": "是的,但考虑到住房成本,我认为这个梦想需要改变。",
+      "start": 698.92,
+      "end": 704.28,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Housing costs are high, but do people really save that much by having a smaller home?",
+      "translation": "住房成本很高,但人们通过拥有更小的房子真的能省那么多钱吗?",
+      "start": 704.74,
+      "end": 710.28,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Absolutely.",
+      "translation": "当然。",
+      "start": 710.66,
+      "end": 711.12,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Many people who can only afford to rent a larger home are able to buy a tiny home.",
+      "translation": "许多只能租得起大房子的人 可以买小房子",
+      "start": 712.18,
+      "end": 718.02
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In this city the average home costs $200 ,000 and a tiny home costs just $50 ,000.",
+      "translation": "在这个城市,普通住宅的平均价格是20万美元,而迷你住宅只需5万美元。",
+      "start": 718.78,
+      "end": 727.08,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Those are huge savings.",
+      "translation": "这可是巨大的节省。",
+      "start": 727.72,
+      "end": 729.28,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So tiny homes might not be for everyone but they're a good option for many.",
+      "translation": "所以,迷你住宅可能不适合所有人,但对许多人来说是个不错的选择。",
+      "start": 730.2,
+      "end": 735.74,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You mentioned the environment earlier.",
+      "translation": "你之前提到了环境。",
+      "start": 736.36,
+      "end": 738.28,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "How does this benefit the planet?",
+      "translation": "这如何造福地球呢?",
+      "start": 739.14,
+      "end": 740.72,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Well if people have smaller homes they use less land and fewer resources to build them.",
+      "translation": "嗯,如果人们住更小的房子,他们就会使用更少的土地和更少的资源来建造它们。",
+      "start": 741.38,
+      "end": 747.32,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Passage 1.",
+      "translation": "通行证1号。",
+      "start": 864.76,
+      "end": 865.66
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Kids need time every day to run, jump, stretch and play.",
+      "translation": "孩子们每天都需要时间来跑步、跳跃、伸展和玩耍。",
+      "start": 866.58,
+      "end": 870.82,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "These experiences have been shown to build children's confidence and pleasure in physical activities, develop their motor skills and even improve emotional well -being.",
+      "translation": "这些经历已被证明能够建立儿童对体育活动的信心和乐趣,发展他们的运动技能,甚至改善情绪健康。",
+      "start": 871.46,
+      "end": 881.9,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "To begin with, children seem to have a natural desire to overcome challenges and take risks.",
+      "translation": "首先,儿童似乎天生就有克服挑战和冒险的欲望。",
+      "start": 881.9,
+      "end": 888.72,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Taking healthy risks through physical movement builds children's confidence and ability to solve problems and persist through frustration.",
+      "translation": "通过身体运动进行健康的冒险可以建立儿童的信心和解决问题的能力,并在挫折中坚持下去。",
+      "start": 889.38,
+      "end": 898.32,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Secondly, movement activities build children's big body skills, such as coordination and balance, as well as the fine motor skills they need for tasks, like writing, tying their shoes, or throwing and catching a ball.",
+      "translation": "其次,运动活动可以培养儿童的大肌肉运动技能,如协调性和平衡性,以及他们完成写字、系鞋带或投掷接球等任务所需的精细运动技能。",
+      "start": 899.72,
+      "end": 915.58,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Thirdly, according to the American Psychological Association, regular physical activity, and especially outdoor activity, reduces children's stress and depression, and improves their ability to focus and learn.",
+      "translation": "第三,根据美国心理学会的研究,定期的体育活动(尤其是户外活动)可以减轻儿童的压力和抑郁,并提高他们的专注力和学习能力。",
+      "start": 916.56,
+      "end": 930.38,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Regular exercise can significantly improve self -regulation circulation, and decrease disciplinary consequences for negative behaviour.",
+      "translation": "定期活动可大大改善自我管制的流通,减少对不良行为的纪律后果。",
+      "start": 931.2,
+      "end": 940.06
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Physical activity provides a positive outlet for frustration, anxiety or anger, and can become a healthy coping skill throughout life.",
+      "translation": "体育活动为挫折、焦虑或愤怒提供了一个积极的出口,并可以成为贯穿一生的健康应对技能。",
+      "start": 941,
+      "end": 950.66,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Finally, we know that physical activity is important for our physical and mental health, and cultivating the habit of physical activity starts early.",
+      "translation": "最后,我们知道体育活动对我们的身心健康很重要,而培养体育活动的习惯要从小开始。",
+      "start": 951.58,
+      "end": 961.26,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "children are more likely to develop a lifelong love of physical activity from frequent positive early experiences.",
+      "translation": "儿童更有可能从频繁的积极早期经历中培养出对体育活动的终身热爱。",
+      "start": 961.26,
+      "end": 969.94,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Not every child enjoys competitive sports or playing with balls and that's okay.",
+      "translation": "不是每个儿童都享受竞技运动或玩球,这没关系。",
+      "start": 970.9,
+      "end": 976.36
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "There are plenty of other options such as imaginative play, non -competitive games and gardening or nature experiences.",
+      "translation": "还有很多其他选择,如想象性游戏、非竞争性游戏以及园艺或自然体验。",
+      "start": 977.04,
+      "end": 985.98,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "2.",
+      "translation": "2. 目标",
+      "start": 1058.58,
+      "end": 1059.1399999999999
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "A new study finds that job seekers are even willing to explore jobs with lower We're salaries.",
+      "translation": "一项新研究发现,求职者甚至愿意探索低工资的工作。",
+      "start": 1060.4199999999998,
+      "end": 1066
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "when companies are more diverse.",
+      "translation": "当公司更加多样化时。",
+      "start": 1066.82,
+      "end": 1068.64
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It finds that sharing information about diversity makes job postings more attractive to job seekers, even when pay is lower.",
+      "translation": "研究发现，分享关于多样性的信息使得招聘信息对求职者更具吸引力，即使薪酬较低。",
+      "start": 1068.64,
+      "end": 1077.64,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "To conduct the study, the team partnered with an online job listings platform, which emails postings relevant to individuals and their job search criteria.",
+      "translation": "为了进行这项研究，研究团队与一个在线招聘信息平台合作，该平台会向个人发送与其求职标准相关的职位信息邮件。",
+      "start": 1078.56,
+      "end": 1088.42,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "For the course of the 11 week study, the platform emailed job listings to some 180 ,000 users placed in one of two conditions.",
+      "translation": "在为期11周的研究过程中，该平台向约18万名用户发送招聘信息邮件，这些用户被分为两种情况之一。",
+      "start": 1089.14,
+      "end": 1098.98,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In the baseline condition, participants saw emails in the normal format with no information on diversity.",
+      "translation": "在基线条件下,与会者看到电子邮件以正常格式发送,没有关于多样性的信息。",
+      "start": 1100.18,
+      "end": 1106.74
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In the diversity condition, participants saw a diversity score for each listing, information about the race, gender, education, and language skills of a company's workforce, compared to others in the same sector and location.",
+      "translation": "在多样性的条件下,参与者看到每份名单的多样性得分、关于公司劳动力的种族、性别、教育和语言技能的信息,与同一部门和同一地点的其他人相比。",
+      "start": 1107.64,
+      "end": 1123.14
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Information was then gathered on on whether the email was opened and which job listings were clicked on by each user.",
+      "translation": "然后收集了有关电子邮件是否开通的信息,以及每个用户点击了哪些职务清单。",
+      "start": 1124,
+      "end": 1131.32
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Participants in the diversity condition tended to click on job listings from companies with slightly higher diversity scores than those in the baseline condition.",
+      "translation": "多样性条件的参与者往往会点击多样性得分略高于基线条件的公司的职位名单。",
+      "start": 1132.36,
+      "end": 1141.92
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That is, participants seem to be paying attention to information about diversity and using this when deciding whether to click on the listing.",
+      "translation": "也就是说,与会者似乎在关注关于多样性的信息,并在决定是否点击列表时使用这些信息。",
+      "start": 1142.74,
+      "end": 1151.72
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And the team also found that participants participants were willing to look at listings with lower salaries",
+      "translation": "小组还发现,参与者愿意看低工资名单。",
+      "start": 1152.6,
+      "end": 1157.44
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "A new study from Oregon State University found that dogs tend to match their behavior with the children in their family.",
+      "translation": "俄勒冈州立大学的一项新研究发现，狗往往会使自己的行为与家庭中的儿童相匹配。",
+      "start": 1235.38,
+      "end": 1243.3,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The findings are important because there is a growing body of evidence that dogs can help children in many ways.",
+      "translation": "这些发现很重要，因为越来越多的证据表明狗可以在许多方面帮助儿童。",
+      "start": 1244.24,
+      "end": 1251.1,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "These include helping with social development, increasing physical activity, managing anxiety or serving as a source of attachment in the face of changing family structures.",
+      "translation": "这些方面包括帮助社交发展、增加身体活动、管理焦虑或在家庭结构变化时充当依恋来源。",
+      "start": 1251.86,
+      "end": 1264.14,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Yet very little research has focused on how dogs perceive and socially engaged with children.",
+      "translation": "然而,很少研究侧重于狗如何看待儿童,如何在社会上与儿童接触。",
+      "start": 1265.1,
+      "end": 1271.5
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The great news is that this study suggests dogs are paying a lot of attention to the kids that they live with, said Monique Udel, the lead author of the study.",
+      "translation": "好消息是, 这项研究显示, 狗们非常关注与他们一起生活的孩子, 研究的主要作者Monique Udel说,",
+      "start": 1272.48,
+      "end": 1283
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "One interesting thing we have observed is that dogs are matching children's behaviour, but less frequently than what we have seen between dogs and adults.",
+      "translation": "我们观察到的一个有趣的是,狗正在与儿童的行为相匹配,但比我们所看到的狗和成人之间的情况要少。",
+      "start": 1283.82,
+      "end": 1294.06
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This suggests that that while dogs may view children as social companions, there are also some differences that we need to understand better.",
+      "translation": "这表明,虽然狗可能把儿童视为社会伙伴,但我们还需要更好地了解一些差异。",
+      "start": 1294.92,
+      "end": 1303.62
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "While research has found dogs can have a lot of positive impacts on a child's life, there are also risks associated with a dog -child relationship.",
+      "translation": "虽然研究发现狗可以对儿童的生活产生许多积极影响,但也有与狗与儿童关系有关的风险。",
+      "start": 1304.5,
+      "end": 1313.66
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "For example, other studies have found dogs are more likely to bite children versus adults.",
+      "translation": "例如,其他研究发现,狗更有可能咬儿童,而咬成人。",
+      "start": 1314.46,
+      "end": 1320.74
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We still have have a lot to learn about the dog -child relationship, who Dell said.",
+      "translation": "戴尔说的狗和孩子的关系 还有很多要学习的",
+      "start": 1321.48,
+      "end": 1326.76
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But research Does show that kids are very capable of training dogs?",
+      "translation": "但研究是否表明 孩子们非常有能力训练狗?",
+      "start": 1327.42,
+      "end": 1332.22
+    }
+  ],
+  "translation_sources": [
+    "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-1/",
+    "Sams200/opus-mt-en-zh (unmatched sentences only)"
+  ]
+}

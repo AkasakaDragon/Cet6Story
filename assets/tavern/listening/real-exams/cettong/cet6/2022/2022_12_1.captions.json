@@ -1,0 +1,1761 @@
+{
+  "id": "cet6-2022_12_1",
+  "title": "2022年12月 第1套",
+  "level": 6,
+  "source_url": "https://www.cettong.cn/library/cet6/2022_12_1",
+  "material_source": "https://117.72.200.49/#/library",
+  "audio": "assets/tavern/listening/real-exams/cettong/cet6/2022/2022_12_1.exampace-playback.mp3",
+  "caption_kind": "published_material_with_auxiliary_timing_and_translation",
+  "caption_models": [
+    "Systran/faster-whisper-base.en",
+    "Sams200/opus-mt-en-zh"
+  ],
+  "lines": [
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "How's your dissertation going?",
+      "translation": "你的学位论文写得怎么样了？",
+      "start": 35.83,
+      "end": 37.49,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'm proofreading my first draft and will submit it to my professor tomorrow.",
+      "translation": "我正在校对初稿，明天准备提交给教授。",
+      "start": 38.13,
+      "end": 42.35,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Oh, I haven't even started writing mine yet, so I'm really worried about finishing by the end of next semester.",
+      "translation": "哦，我连写都还没开始写呢，所以我真的很担心下学期末能不能写完。",
+      "start": 43.01,
+      "end": 50.11,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You mean you haven't even begun yours yet?",
+      "translation": "你是说你连动笔都还没动？",
+      "start": 50.63,
+      "end": 52.91,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The final draft is due in five months.",
+      "translation": "终稿还有五个月就要交了。",
+      "start": 53.65,
+      "end": 55.63,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Of course I've started it, but I can't get to the writing yet as I haven't found enough resources to use, so I'm still researching the topic.",
+      "translation": "我当然已经开始了，但我还没找到足够的资料可用，所以还没法开始写，目前还在研究这个课题。",
+      "start": 56.17,
+      "end": 65.03,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Maybe the problem is the way you're doing your research.",
+      "translation": "也许问题出在你做研究的方式上。",
+      "start": 65.59,
+      "end": 68.31,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I started by talking to my professor about where to look for information, and based on that, I found books in the library and a lot of reputable journal articles on the Internet.",
+      "translation": "我是先找教授聊了聊去哪里查找资料，然后根据建议在图书馆找到了书，还在网上找到了许多权威期刊的文章。",
+      "start": 69.26,
+      "end": 80.14,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I've tried all that, but don't have enough to write the dissertation as my department's minimum length is 70 pages.",
+      "translation": "我已经试过了,但是没有足够钱写论文 因为我的部门最短的长度是70页",
+      "start": 81.08,
+      "end": 88.68
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I think the problem is that my topic isn't viable.",
+      "translation": "我想问题是 我的话题不可行",
+      "start": 89.58,
+      "end": 93.0
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And honestly, my professor did warn me at the beginning that I might not be able to find enough material.",
+      "translation": "说实话 我的教授一开始就警告过我 我可能找不到足够的材料",
+      "start": 93.94,
+      "end": 99.82
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But I was so interested in the topic that I didn't let his advice turn me.",
+      "translation": "但我对这个话题很感兴趣 以至于我没有让他的建议让我改变",
+      "start": 100.52,
+      "end": 105.6
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Well, I suggest you find a new topic.",
+      "translation": "嗯，我建议你换个新选题。",
+      "start": 105.6,
+      "end": 108.16,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "After all, our professors are here to guide us, so it's best to listen to them.",
+      "translation": "毕竟教授是来指导我们的，最好还是听他们的建议。",
+      "start": 108.7,
+      "end": 113.38,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In retrospect, I wish I had listened to him, but I didn't.",
+      "translation": "回想起来，我真希望当时听了他的话，但我没听。",
+      "start": 113.94,
+      "end": 118.5,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And now I don't want to give up my topic as I've already invested so much time and energy.",
+      "translation": "而且现在我已经投入了这么多时间和精力，不想放弃我的选题。",
+      "start": 118.72,
+      "end": 123.96,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "If you're committed to your current topic, maybe you could make some adjustments rather than abandon it completely.",
+      "translation": "如果你坚持用现在的选题，也许你可以做些调整，而不是彻底放弃它。",
+      "start": 124.48,
+      "end": 130.76,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What is your topic?",
+      "translation": "你的课题是什么？",
+      "start": 131.58,
+      "end": 132.56,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's \"Depictions of Femininity in Folklore from the South of the Country\".",
+      "translation": "是《国内南方民间传说中对女性形象的刻画》。",
+      "start": 133.08,
+      "end": 137.36,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That's pretty narrow.",
+      "translation": "那范围确实挺窄的。",
+      "start": 138.12,
+      "end": 139.22,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You could find more material if you made the topic broader, maybe by including other kinds of depictions.",
+      "translation": "如果你把选题范围放宽一点，比如把其他类型的刻画也包含进来，应该能找到更多资料。",
+      "start": 139.94,
+      "end": 145.5,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Broadening the topic is a great idea, I'll start by including folklore from other regions of the country.",
+      "translation": "放宽选题范围是个好主意，我就从纳入国内其他地区的民间传说开始吧。",
+      "start": 146.29,
+      "end": 152.27,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions 1-4 are based on the conversation you have just heard.",
+      "translation": "问题1 -4是基于你刚才听到的谈话",
+      "start": 153.33,
+      "end": 157.41
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "1.",
+      "translation": "1. 国家",
+      "start": 158.63,
+      "end": 159.09
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the woman say about her dissertation?",
+      "translation": "女的对她的论文怎么说?",
+      "start": 159.59,
+      "end": 161.59
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 2.",
+      "translation": "问题2",
+      "start": 175.65,
+      "end": 176.33
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the man say about his professor?",
+      "translation": "这个人怎么说他的教授?",
+      "start": 177.0,
+      "end": 179.06
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 3.",
+      "translation": "问题3",
+      "start": 193.12,
+      "end": 193.86
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the woman say about her professor?",
+      "translation": "那女的对她的教授怎么说?",
+      "start": 194.37,
+      "end": 196.69
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 4.",
+      "translation": "问题4",
+      "start": 210.71,
+      "end": 211.45
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What do we learn the woman will do to complete her dissertation?",
+      "translation": "我们该如何学习这个女人 来完成她的论文呢?",
+      "start": 211.93,
+      "end": 215.15
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Conversation two.",
+      "translation": "对话二",
+      "start": 228.95,
+      "end": 230.09
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Today on Book Talk, we're lucky enough to host John Robbins and discuss his new book, Why Americans Are Fat and How We Can Lose Weight.",
+      "translation": "今天在《书谈》上,我们很幸运能接待John Robbins, 讨论他的新书《为什么美国人是胖子, 以及我们怎样才能失去体重。",
+      "start": 231.1,
+      "end": 240.96
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "John isn't just a respected writer; he's also one of the rare celebrity authors writing about science today.",
+      "translation": "约翰不仅是一位受人尊敬的作家，也是如今少数几位撰写科学类书籍的知名作家之一。",
+      "start": 241.65,
+      "end": 249.49,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Thanks for having me, Rebecca, but I'm hardly a celebrity.",
+      "translation": "谢谢你的邀请，丽贝卡，不过我实在算不上什么名人。",
+      "start": 250.09,
+      "end": 253.55,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That's very modest of you to say, considering that your four books have sold a total of seven million copies worldwide, and they've been translated into 12 different languages.",
+      "translation": "考虑到你的四本书在全球总共售出了七百万册，而且被翻译成了十二种不同的语言，你这么说可真谦虚。",
+      "start": 254.13,
+      "end": 265.09,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What makes people so fascinated with your work?",
+      "translation": "是什么让人们对你的作品如此着迷呢？",
+      "start": 265.71,
+      "end": 268.73,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Well, people read my books because more than 60% of Americans are overweight, or obese.",
+      "translation": "嗯，人们读我的书，是因为超过百分之六十的美国人超重或肥胖。",
+      "start": 269.21,
+      "end": 276.03,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And other countries are facing similar problems.",
+      "translation": "其他国家也面临着类似的问题。",
+      "start": 276.79,
+      "end": 279.09,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Basically, we all want to know how to fix things.",
+      "translation": "基本上，我们都想知道该如何解决这些问题。",
+      "start": 279.93,
+      "end": 282.9,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We certainly do.",
+      "translation": "我们当然想知道。",
+      "start": 283.2,
+      "end": 284.22,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I've read your new book, and it's fabulous, especially when it comes to the way you make difficult science easy for laymen to understand.",
+      "translation": "我读过你的新书，觉得非常精彩，尤其是你把艰深的科学知识讲得通俗易懂这一点。",
+      "start": 284.98,
+      "end": 292.68,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That's no small achievement.",
+      "translation": "这可不是一件容易做到的事。",
+      "start": 293.54,
+      "end": 295.04,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'm glad to hear you find my work accessible, because I was worried when I wrote it that discussing the science might make the book more suited for a specialist audience.",
+      "translation": "听到你觉得我的作品通俗易懂，我很高兴，因为写这本书时，我担心讨论科学内容会让它更适合专业读者阅读。",
+      "start": 295.74,
+      "end": 305.66,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "My last book was written primarily for the medical community.",
+      "translation": "我的上一本书主要是写给医学界人士看的。",
+      "start": 306.83,
+      "end": 309.89,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But this time, I want to help ordinary people take control of their weight.",
+      "translation": "但这一次，我想帮助普通人掌控自己的体重。",
+      "start": 310.51,
+      "end": 315.19,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And how do you suggest they do that?",
+      "translation": "那你建议他们怎么做呢？",
+      "start": 316.2,
+      "end": 318.1,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Can you give us the basics of your advice for people who want to lose weight?",
+      "translation": "能不能简单介绍一下你对想减肥的人所提出的建议？",
+      "start": 318.66,
+      "end": 322.68,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Briefly, I argue that every person needs to consider their metabolism and eat what suits their body's needs.",
+      "translation": "简单地说，我认为每个人都需要考虑自己的新陈代谢，吃适合自己身体需要的食物。",
+      "start": 323.34,
+      "end": 330.38,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I don't advocate one single diet.",
+      "translation": "我不主张所有人都采用同一种饮食方式。",
+      "start": 331.43,
+      "end": 333.51,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Some people should eat more carbohydrates than others.",
+      "translation": "有些人应该比其他人摄入更多碳水化合物。",
+      "start": 334.4,
+      "end": 336.88,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And different people need different amounts of protein and fat.",
+      "translation": "而且，不同的人对蛋白质和脂肪的需求量也各不相同。",
+      "start": 337.38,
+      "end": 340.36,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But you do have some recommendations for everyone, including eating ten servings of vegetables and three of fruit a day.",
+      "translation": "不过，你确实也给所有人提出了一些建议，包括每天吃十份蔬菜和三份水果。",
+      "start": 341.16,
+      "end": 349.12,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We'll talk about those recommendations next, but now we need to take a short break for a message from our sponsor.",
+      "translation": "接下来我们会谈谈这些建议，不过现在我们要暂时休息一下，听一段赞助商提供的信息。",
+      "start": 349.92,
+      "end": 356.48,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions 5 to 8 are based on the conversation you have just heard.",
+      "translation": "问题5到8是基于你刚才听到的谈话",
+      "start": 357.57,
+      "end": 361.51
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 5.",
+      "translation": "问题5",
+      "start": 362.37,
+      "end": 363.15
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the woman say about the man in her introduction?",
+      "translation": "女人在介绍中怎么说男人?",
+      "start": 363.94,
+      "end": 366.66
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 6.",
+      "translation": "问题6",
+      "start": 380.11,
+      "end": 381.15
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What has motivated the man to write his books?",
+      "translation": "是什么激励他写他的书?",
+      "start": 382.01,
+      "end": 384.49
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "7.",
+      "translation": "7 个",
+      "start": 398.26,
+      "end": 399.0
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Who does the man say his last book was mainly written for?",
+      "translation": "那人说他的最后一本书 主要是写给谁的?",
+      "start": 399.73,
+      "end": 403.07
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 8.",
+      "translation": "问题8",
+      "start": 416.61,
+      "end": 417.41
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the man recommend people do?",
+      "translation": "男人建议人们做什么?",
+      "start": 418.17,
+      "end": 420.51
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Section B.",
+      "translation": "B节。",
+      "start": 433.91,
+      "end": 434.75
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In this section, you will hear two passages.",
+      "translation": "在本节中,你将听到两段。",
+      "start": 436.37,
+      "end": 438.45
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "At the end of each passage,",
+      "translation": "在每个通道的尽头",
+      "start": 439.15,
+      "end": 440.25
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "you will hear three or four questions.",
+      "translation": "你会听到三四个问题。",
+      "start": 440.85,
+      "end": 442.59
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Both the passage and the questions will be spoken only once.",
+      "translation": "发言的通过和提问将只讲一次。",
+      "start": 443.25,
+      "end": 446.69
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "After you hear a question, you must choose the best answer from the four choices marked A, B, C, and D.",
+      "translation": "在听到一个问题后,你必须从四个选择中选择最好的答案,这四个选择分别是A、B、C和D。",
+      "start": 447.19,
+      "end": 454.51
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "mark the corresponding letter on answer sheet one with a single line through the center.",
+      "translation": "在答题单单行的答题表一中标出相应的字母。",
+      "start": 455.19,
+      "end": 460.21
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Passage one.",
+      "translation": "一号通道",
+      "start": 461.47,
+      "end": 462.41
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Stress is often depicted as negative,",
+      "translation": "压力往往被描述为消极的,",
+      "start": 463.77,
+      "end": 466.21
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "First, the benefits for the brain.",
+      "translation": "首先来看压力对大脑的益处。",
+      "start": 473.47,
+      "end": 475.37,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Studies have shown that short periods of stress can actually bolster cognitive functioning.",
+      "translation": "研究表明，短时间的压力实际上能够增强认知功能。",
+      "start": 476.17,
+      "end": 481.61,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Researchers discovered that placing rats in a stressful situation for just a few hours doubled the growth of new brain cells.",
+      "translation": "研究人员发现，让大鼠处于有压力的环境中仅几个小时，就能使新脑细胞的增长速度提高一倍。",
+      "start": 482.71,
+      "end": 490.83,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The rats also did better on a memory test later on.",
+      "translation": "之后，这些大鼠在记忆测试中的表现也更好。",
+      "start": 492.13,
+      "end": 495.69,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Scientists think the same thing happens in humans.",
+      "translation": "科学家认为，人类身上也会发生同样的情况。",
+      "start": 497.33,
+      "end": 499.55,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But how does stress improve memory?",
+      "translation": "但是，压力是如何改善记忆力的呢？",
+      "start": 501.75,
+      "end": 503.97,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's simple.",
+      "translation": "原因很简单。",
+      "start": 505.24,
+      "end": 505.52,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "When your brain cells multiply, your memory can improve.",
+      "translation": "当你的脑细胞增多时，你的记忆力可能会得到改善。",
+      "start": 506.29,
+      "end": 509.85,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Viewed from a biological perspective, this makes sense, because animals that are better at remembering dangerous situations can avoid them in the future.",
+      "translation": "从生物学角度来看，这是合理的，因为更善于记住危险情境的动物能够在未来避开这些情境。",
+      "start": 510.92,
+      "end": 520.02,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "If an animal encounters a predator and escapes, for example, it's important to remember where and when that encounter happened.",
+      "translation": "例如，如果一只动物遇到捕食者并成功逃脱，那么记住这次遭遇发生的地点和时间就十分重要。",
+      "start": 521.38,
+      "end": 529.34,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Experts assert that the same principle applies to humans.",
+      "translation": "专家断言，同样的原理也适用于人类。",
+      "start": 530.92,
+      "end": 533.9,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Now, let's turn to how stress benefits the body.",
+      "translation": "现在，我们来看看压力如何有益于身体。",
+      "start": 535.42,
+      "end": 538.6,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This may come as a surprise to laymen.",
+      "translation": "这对普通人来说可能令人意外。",
+      "start": 539.89,
+      "end": 541.91,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But experts say that stress can keep you from getting sick.",
+      "translation": "但专家表示，压力可以使你不易生病。",
+      "start": 542.51,
+      "end": 546.41,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Scientists concede that chronic stress can make you more prone to illness.",
+      "translation": "科学家承认，长期压力会使人更容易患病。",
+      "start": 547.47,
+      "end": 551.33,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But research shows that short periods of stress can actually provide some protection against getting sick, because it increases your immune functioning.",
+      "translation": "但研究表明，短时间的压力实际上能够提供一定的防病保护，因为它会增强免疫功能。",
+      "start": 552.51,
+      "end": 562.13,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "One study shows that rats that experienced brief stress had a surge of immune cell response, which makes the immune system better prepared to fight illness.",
+      "translation": "一项研究显示，经历短暂压力的大鼠，其免疫细胞反应会激增，从而使免疫系统更好地准备对抗疾病。",
+      "start": 563.34,
+      "end": 573.7,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "For humans, there's even evidence that experiencing stress before getting vaccinated could help make vaccines more effective.",
+      "translation": "对于人类，甚至有证据表明，在接种疫苗前经历压力可能有助于提高疫苗的有效性。",
+      "start": 574.89,
+      "end": 583.29,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "placed briefly in a stressful situation.",
+      "translation": "短暂地处于紧张的境地。",
+      "start": 594.24,
+      "end": 596.56
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 10.",
+      "translation": "问题10。",
+      "start": 610.15,
+      "end": 610.95
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Why do people tend to have clearer memories of dangerous situations they have encountered?",
+      "translation": "为什么人们往往对遇到的危险情况有更清楚的记忆?",
+      "start": 611.47,
+      "end": 616.37
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "11.",
+      "translation": "11. 十一号",
+      "start": 630.21,
+      "end": 630.81
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What do scientists believe chronic stress can do?",
+      "translation": "科学家们认为慢性压力能做些什么?",
+      "start": 631.5,
+      "end": 634.66
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "2.",
+      "translation": "2. 目标",
+      "start": 648.48,
+      "end": 649.1
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "For many managers and people who work in leadership positions, dealing with emails is a dilemma.",
+      "translation": "对于许多管理者和担任领导职务的人来说，处理电子邮件是一个两难困境。",
+      "start": 649.99,
+      "end": 655.97,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's likely the \"unpredictable, uncontrollable and ongoing nature of day-to-day email in terms of volume, importance and urgency\" contributes to their levels of anxiety and to diminished leadership skills.",
+      "translation": "日常电子邮件在数量、重要性和紧迫性方面“不可预测、不可控制且持续不断”的特性，很可能会加剧他们的焦虑程度并削弱其领导能力。",
+      "start": 657.25,
+      "end": 672.13,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That's because it's not unusual for many leaders to prioritize email management over people management.",
+      "translation": "这是因为许多领导者将电子邮件管理置于人员管理之上并不罕见。",
+      "start": 673.01,
+      "end": 679.65,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "An obsession with managing their inbox prevents them from dealing with their employees.",
+      "translation": "对管理收件箱的痴迷使他们无法顾及员工。",
+      "start": 680.78,
+      "end": 685.28,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "As a result, they ignore the issues that might only be mild problems at first, until unfortunately, they inevitably transform into a major problem or crisis by virtue of neglect.",
+      "translation": "结果，他们忽视了最初可能只是轻微的问题，直到不幸的是，由于疏忽，这些问题不可避免地演变成了重大问题或危机。",
+      "start": 686.49,
+      "end": 699.46,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "As leaders, they are expected to motivate and inspire their team in pursuit of longer-term strategic goals and also, less ambitiously but more practically, to monitor their daily output, to set clear expectations and to give regular feedback.",
+      "translation": "作为领导者，人们期望他们能够激励和鼓舞团队去追求更长期的战略目标；同时，虽然抱负没那么远大但更为实际的是，监督团队的日常工作产出、设定明确的期望并提供定期反馈。",
+      "start": 701.2,
+      "end": 719.81,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "When presented with a choice between the appeal of their inbox and other more important activities, many sacrifice the latter.",
+      "translation": "当面临收件箱的吸引力与其他更为重要的活动之间的选择时，许多人牺牲了后者。",
+      "start": 721.36,
+      "end": 728.98,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Daily email demands have a negative impact on their goal progress.",
+      "translation": "日常电子邮件需求对他们的目标推进产生了负面影响。",
+      "start": 730.09,
+      "end": 734.13,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This is because leaders must divert resources from other tasks to check, filter and respond to emails.",
+      "translation": "这是因为领导者必须从其他任务中抽调资源来检查、过滤和回复电子邮件。",
+      "start": 734.93,
+      "end": 742.47,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The solution is cultivating self-control which is like a muscle—it can be strengthened or improved over time through exercise.",
+      "translation": "解决方案是培养自控力，自控力就像肌肉一样——随着时间的推移，可以通过锻炼得到加强或改善。",
+      "start": 743.95,
+      "end": 752.13,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Some suggestions include making space in your diary for the only periods during which you'll be checking emails, setting a timer for yourself so you don't become distracted by your inbox for too long, turning off email alerts so you're not interrupted by them.",
+      "translation": "一些建议包括：在日程表中预留出专门用于检查电子邮件的时间段；给自己设置定时器，以免长时间被收件箱分散注意力；关闭电子邮件提醒，以免被其打扰。",
+      "start": 753.72,
+      "end": 772.51,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions 12 to 15 are based on the passage you have just heard.",
+      "translation": "问题12至15是根据你们刚才听到的段落提出的。",
+      "start": 773.75,
+      "end": 777.99
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 12.",
+      "translation": "问题12。",
+      "start": 779.04,
+      "end": 779.8
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the speaker say is a common problem with managers?",
+      "translation": "发言者说什么是管理人员的共同问题?",
+      "start": 780.39,
+      "end": 783.71
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 13 What may happen when managers ignore minor problems?",
+      "translation": "问题13:如果管理人员忽视小问题,会发生什么情况?",
+      "start": 797.38,
+      "end": 801.9
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 14 What are leaders expected to do in pursuing their strategic goals?",
+      "translation": "问题14 领导人在实现其战略目标时应做些什么?",
+      "start": 815.3,
+      "end": 821.5
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 15 How can a manager best avoid being distracted by email?",
+      "translation": "问题15 一名经理如何才能最好地避免被电子邮件分散注意力?",
+      "start": 834.81,
+      "end": 840.19
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Section C, directions In this section you will hear three recordings of lectures or talks",
+      "translation": "C节,方向:在本节,你们将听到三场演讲或谈话录音",
+      "start": 853.69,
+      "end": 860.03
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "followed by three or four questions.",
+      "translation": "然后是三四个问题。",
+      "start": 860.59,
+      "end": 862.29
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "recordings will be played only once.",
+      "translation": "录音只播放一次。",
+      "start": 862.99,
+      "end": 864.87
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "you hear a question, you must choose the best answer from the four choices marked A, B, C, and D.",
+      "translation": "你听到一个问题,你必须选择 四个选择的最好答案 标注A,B,C,D。",
+      "start": 865.57,
+      "end": 872.61
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "mark the corresponding letter on answer sheet one with a single line through the center.",
+      "translation": "在答题单单行的答题表一中标出相应的字母。",
+      "start": 873.25,
+      "end": 878.23
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Recording one.",
+      "translation": "记录一。",
+      "start": 879.58,
+      "end": 880.5
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In last week's lecture, we talked about the problems caused by poor eating habits, focusing on how medical professionals are trying to solve these problems.",
+      "translation": "在上周的讲座中，我们讨论了不良饮食习惯所造成的问题，重点关注医疗专业人员如何努力解决这些问题。",
+      "start": 882.01,
+      "end": 890.94,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Today, we'll continue with the topic, but focus on research from a different field—marketing.",
+      "translation": "今天，我们将继续这一主题，但把重点放在另一个领域的研究上——市场营销。",
+      "start": 892.15,
+      "end": 898.6,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Now, what can marketing tell us about improving nutrition?",
+      "translation": "那么，关于改善营养状况，市场营销能告诉我们什么呢？",
+      "start": 898.6,
+      "end": 903.18,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Well, a team of marketing professors has studied the importance of the visual aspect of food and how that influences food choices.",
+      "translation": "一组市场营销学教授研究了食物视觉形象的重要性，以及这种视觉形象如何影响人们对食物的选择。",
+      "start": 904.43,
+      "end": 912.75,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Those marketing experts assert that the impact of the appearance of food is greater than we might presume, and might hold the key to encouraging better eating.",
+      "translation": "这些市场营销专家断言，食物外观的影响比我们可能设想的更大，而且可能是鼓励人们改善饮食的关键。",
+      "start": 913.79,
+      "end": 923.72,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So how important is the appearance of food?",
+      "translation": "那么，食物的外观究竟有多重要呢？",
+      "start": 925.09,
+      "end": 928.25,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Research shows that just seeing an appealing photograph of a hamburger in an advertisement, for example, can cause individuals to imagine the taste or smell of that hamburger.",
+      "translation": "研究表明，例如，仅仅看到广告中一张诱人的汉堡包照片，就可能使人们联想到汉堡包的味道或气味。",
+      "start": 929.42,
+      "end": 941.37,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This can make them more likely to purchase and consume it.",
+      "translation": "这会让他们更有可能购买并食用它。",
+      "start": 942.01,
+      "end": 945.47,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Of course, that's the point of advertisements.",
+      "translation": "当然，这正是广告的目的。",
+      "start": 946.53,
+      "end": 949.19,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So isn't that a good thing?",
+      "translation": "那么，这难道不是一件好事吗？",
+      "start": 949.8,
+      "end": 951.44,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Well, the marketing professors argue that this is actually a problem, because the combination of pleasing aesthetics of and easy access to unhealthy foods, such as hamburgers and pizza, may be contributing to a worldwide health crisis.",
+      "translation": "市场营销学教授们认为，实际上这恰恰是一个问题，因为汉堡包和披萨等不健康食品令人愉悦的外观与其易于获得相结合，可能正在助长一场全球性的健康危机。",
+      "start": 952.37,
+      "end": 968.29,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In fact, statistics show that 39% of all adults in the world weigh too much and another 13% are obese.",
+      "translation": "事实上，统计数据显示，全世界有39%的成年人超重，另有13%的人肥胖。",
+      "start": 969.33,
+      "end": 978.77,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Now, as we discussed last time, medical professionals have tried to fight the obesity epidemic by focusing on the nutrients found in different foods, emphasizing things like carbohydrate, fat, sugar and calorie content.",
+      "translation": "正如我们上次讨论的那样，医疗专业人员曾试图通过关注不同食物所含的营养成分来应对肥胖症流行，强调碳水化合物、脂肪、糖和卡路里含量等因素。",
+      "start": 980.08,
+      "end": 995.7,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But they've had limited success.",
+      "translation": "但他们取得的成效有限。",
+      "start": 996.44,
+      "end": 998.02,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The marketing professors believe that the real solution to obesity is making food look appealing and focusing on the pleasure of both looking at and eating that food.",
+      "translation": "市场营销学教授们认为，解决肥胖问题的真正办法，是让食物看起来更有吸引力，并关注人们观看和食用这些食物时所获得的愉悦感。",
+      "start": 999.53,
+      "end": 1010.58,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That pleasure can be used as a tool to promote healthy food choices.",
+      "translation": "这种愉悦感可以被用作促进健康食品选择的工具。",
+      "start": 1012.01,
+      "end": 1015.93,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In fact, the research done by the team showed that associating healthy food with pleasant images, experiences and emotions led to greater interest in purchasing or eating it.",
+      "translation": "事实上，该团队开展的研究表明，将健康食品与令人愉悦的图像、体验和情感联系起来，会使人们对购买或食用这种食品产生更大的兴趣。",
+      "start": 1017.49,
+      "end": 1029.95,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "\"This is a better strategy,\" they claim, than reminding consumers that a certain food is good for them.",
+      "translation": "他们声称，与提醒消费者某种食物对身体有益相比，“这是一种更好的策略”。",
+      "start": 1031.05,
+      "end": 1037.13,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But are they right?",
+      "translation": "但他们说得对吗？",
+      "start": 1038.2,
+      "end": 1039.5,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Well, the researchers cited a marketing campaign designed to reverse the sales decline of carrots.",
+      "translation": "研究人员举例介绍了一项旨在扭转胡萝卜销量下滑的市场营销活动。",
+      "start": 1040.52,
+      "end": 1046.06,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The campaign didn't emphasize the carrots' healthy qualities, but embraced their beauty and the pleasure derived from eating them.",
+      "translation": "该活动没有强调胡萝卜的健康特性，而是展现了它们的美感以及食用它们所带来的愉悦感。",
+      "start": 1046.84,
+      "end": 1055.82,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "For example, the ads focused on the bright, beautiful orange color and crisp texture of the carrots.",
+      "translation": "例如，广告重点突出胡萝卜明亮美丽的橙色和爽脆的口感。",
+      "start": 1056.7,
+      "end": 1063.26,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The campaign led to an impressive increase in product sales of more than 10%.",
+      "translation": "这项活动使产品销量大幅增加了10%以上。",
+      "start": 1064.26,
+      "end": 1069.52,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The researchers believe that other companies could bolster sales of healthy foods with similar ads, depicting their products as attractive and a source of pleasure.",
+      "translation": "研究人员认为，其他公司也可以通过类似的广告来促进健康食品的销售，将其产品描绘成具有吸引力且能带来愉悦的食品。",
+      "start": 1070.41,
+      "end": 1081.15,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "16 to 18 are based on the recording you have just heard Question 16 What does the speaker say a team of marketing professors has studied?",
+      "translation": "16至18是基于你刚才听到的问题16的录音,发言者说一组营销教授研究了什么?",
+      "start": 1082.94,
+      "end": 1093.76
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 17 how have medical professionals tried to fight obesity?",
+      "translation": "问题17:医疗专业人员如何努力与肥胖症作斗争?",
+      "start": 1107.26,
+      "end": 1111.92
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 18.",
+      "translation": "问题18。",
+      "start": 1125.68,
+      "end": 1126.56
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What can other companies learn from the example of the Carrot Promotion Campaign?",
+      "translation": "其他公司可以从胡萝卜推广运动中学习什么?",
+      "start": 1127.32,
+      "end": 1132.04
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Recording 2.",
+      "translation": "记录2。",
+      "start": 1145.66,
+      "end": 1146.6
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The household cleaning products industry really began to take off in the 1950s.",
+      "translation": "家居清洁用品行业真正开始蓬勃发展是在20世纪50年代。",
+      "start": 1147.84,
+      "end": 1153.56,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Prior to that, resourceful housewives who had grown up in a less prosperous era relied on substances that they used in their kitchens such as vinegar used to clean windows.",
+      "translation": "在此之前，那些成长于经济不太繁荣时代、富有创造力的家庭主妇，依靠厨房里使用的物质，例如用醋清洁窗户。",
+      "start": 1154.15,
+      "end": 1165.45,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Today, the household cleaning products industry is worth billions of dollars a year and is dominated by large global companies.",
+      "translation": "如今，家居清洁用品行业每年的产值达数十亿美元，并由大型跨国公司主导。",
+      "start": 1166.64,
+      "end": 1174.72,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In recent years, however, many countries have witnessed a surge in the number of small businesses and companies offering more environment-friendly cleaning products, and they're doing good business too.",
+      "translation": "然而，近年来，许多国家都见证了提供更环保清洁产品的小型企业和公司的数量激增，而且它们的生意也做得很好。",
+      "start": 1176.14,
+      "end": 1188.68,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "One reason for this is that consumers are becoming more aware of environment and sustainability issues.",
+      "translation": "其中一个原因是消费者越来越意识到环境和可持续性问题。",
+      "start": 1190.31,
+      "end": 1196.45,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They also want to make their home a safe place, free from toxic chemicals.",
+      "translation": "他们还希望把家变成一个没有有毒化学物质的安全场所。",
+      "start": 1197.19,
+      "end": 1201.93,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The third reason is people's awareness of and knowledge about technology has never been greater.",
+      "translation": "第三个原因是，人们对技术的认识和了解从未像现在这样深入。",
+      "start": 1203.55,
+      "end": 1209.57,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In the past, people might have been skeptical of a new product claimed to be able to achieve amazing cleaning results, but they now have faith in technology's ability to do what was once thought impossible.",
+      "translation": "过去，人们可能会对一种声称能够取得惊人清洁效果的新产品持怀疑态度，但如今，他们相信技术有能力做到那些曾经被认为不可能的事情。",
+      "start": 1211.15,
+      "end": 1224.05,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "There is perhaps no better example of this than a patented cloth sold by one company, which remarkably uses only water rather than traditional cleaning products.",
+      "translation": "这方面的最好例子或许是一家公司出售的专利布,该公司明显地只使用水,而不是传统的清洁产品。",
+      "start": 1226.12,
+      "end": 1236.68
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The company claims its cloth lifts, traps and removes dirt and bacteria.",
+      "translation": "该公司称其布道起重机、陷阱和清除泥土和细菌。",
+      "start": 1237.68,
+      "end": 1242.7
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And considering that people don't see these products in shops, or advertised on TV or in the press, it has been a pretty steep rise.",
+      "translation": "并且考虑到人们在商店里看不到这些产品, 或在电视上或媒体上广告,",
+      "start": 1244.41,
+      "end": 1252.99
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Many of the people behind these companies began testing the viability of their products by selling them at local markets.",
+      "translation": "这些公司背后的许多人都是通过在当地市场销售产品，开始测试产品是否具有可行性的。",
+      "start": 1254.03,
+      "end": 1261.11,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Then, in many cases, customers are doing the marketing for these products by leaving threads of comments on social media, praising their virtues.",
+      "translation": "随后，在许多情况下，顾客通过在社交媒体上留下大量评论、称赞这些产品的优点，为它们进行营销。",
+      "start": 1262.24,
+      "end": 1271.14,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "There are also TV shows and books dedicated to maintaining home tidiness and cleanliness and the benefits of having a clean home.",
+      "translation": "此外，还有专门介绍保持家庭整洁、清洁以及拥有一个干净家庭的益处的电视节目和书籍。",
+      "start": 1272.91,
+      "end": 1282.07,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Having a safe and clean home might be one thing people feel they can control in an increasingly out-of-control world.",
+      "translation": "在一个越来越失控的世界里，拥有一个安全而干净的家，可能是人们觉得自己能够掌控的一件事。",
+      "start": 1283.12,
+      "end": 1290.88,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And there are social media celebrities.",
+      "translation": "而且，还有社交媒体名人。",
+      "start": 1292.19,
+      "end": 1294.13,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "One woman in Britain has become a social media sensation with more than two million followers for her cleaning tips page.",
+      "translation": "英国有一名女性凭借她的清洁技巧页面成为社交媒体红人，粉丝数量超过两百万。",
+      "start": 1295.31,
+      "end": 1302.19,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the speaker say about the cleaning products industry in recent years?",
+      "translation": "发言者对近年来清洁产品行业有什么看法?",
+      "start": 1309.74,
+      "end": 1313.8
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 20.",
+      "translation": "问题20。",
+      "start": 1327.35,
+      "end": 1328.13
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Why are newly developed cleaning products selling well?",
+      "translation": "为什么新开发的清洁产品销售良好?",
+      "start": 1329.01,
+      "end": 1331.91
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 21.",
+      "translation": "问题21",
+      "start": 1345.5,
+      "end": 1346.26
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What are some customers doing to help promote non-traditional cleaning products?",
+      "translation": "一些客户在帮助推广非传统清洁产品方面做了哪些工作?",
+      "start": 1346.98,
+      "end": 1351.5
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Recording 3.",
+      "translation": "记录3。",
+      "start": 1365.24,
+      "end": 1365.96
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Throwing spare change into a fountain is a time-honored ritual.",
+      "translation": "把零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零零的零零零零零零零零零零零零",
+      "start": 1367.14,
+      "end": 1370.8
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But all that money has to go somewhere.",
+      "translation": "但所有这些钱都必须有去处。",
+      "start": 1375.98,
+      "end": 1377.96,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Otherwise, the growing piles of pennies, quarters and euros could clog up the fountains' works.",
+      "translation": "否则，越积越多的便士、25美分硬币和欧元硬币可能会堵塞喷泉的内部装置。",
+      "start": 1378.51,
+      "end": 1384.27,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Today, I'm going to talk about where all the coins go.",
+      "translation": "今天，我要讲讲这些硬币最终都去了哪里。",
+      "start": 1385.14,
+      "end": 1388.38,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Well, the coins collected can go to all sorts of different places—from fountain maintenance to charity or public service.",
+      "translation": "收集到的硬币可以被用于各种不同的地方，例如喷泉维护、慈善事业或公共服务。",
+      "start": 1389.41,
+      "end": 1396.95,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In New York City, for example, coins collected from fountains in public parks often go towards the fountains' maintenance itself, though entrepreneurs who don't mind getting their hands wet often get to it first.",
+      "translation": "以纽约市为例，从公共公园喷泉中收集的硬币通常会用于喷泉本身的维护，不过那些不介意把手弄湿的投机者往往会先下手。",
+      "start": 1398.2,
+      "end": 1411.22,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "There are over 50 beautiful decorative display fountains in New York City parks.",
+      "translation": "纽约市的公园里有50多座漂亮的装饰性展示喷泉。",
+      "start": 1412.5,
+      "end": 1417.32,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They are cleaned by the parks' staff every few weeks.",
+      "translation": "公园工作人员每隔几周会对它们进行清洁。",
+      "start": 1418.2,
+      "end": 1421.3,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But most of the coins have already been removed by entrepreneurial New Yorkers and there is not a significant amount left to be collected.",
+      "translation": "但大多数硬币早已被纽约的投机者取走，剩下可收集的数量并不多。",
+      "start": 1421.92,
+      "end": 1430.44,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Other cities, though, can pull in a much more serious haul.",
+      "translation": "不过，其他城市的喷泉可能会带来多得多的收入。",
+      "start": 1431.55,
+      "end": 1436.21,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Take for example, Rome's famous Trevi fountain: for hundreds of years, visitors have thrown coins over their shoulder into the fountain to ensure that they will return.",
+      "translation": "以罗马著名的特莱维喷泉为例：数百年来，游客一直将硬币从肩后抛入喷泉，以确保自己将来还会回来。",
+      "start": 1436.21,
+      "end": 1447.67,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So many tourists toss in coins that Roman officials have the fountain cleaned every night, reportedly getting as much as $4,000 in loose change from around the world each day.",
+      "translation": "如此多的游客往里投硬币，以至于罗马官员每天晚上都会安排清理喷泉，据报道，每天能从中获得多达4,000美元的世界各地零钱。",
+      "start": 1448.64,
+      "end": 1461.1,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Most of the money collected each night goes towards running a supermarket for the needy.",
+      "translation": "每晚收集到的大部分钱都用于运营一家为贫困者服务的超市。",
+      "start": 1462.11,
+      "end": 1467.09,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And collecting that cash is serious business.",
+      "translation": "而收集这些现金是一项严肃的工作。",
+      "start": 1468.01,
+      "end": 1470.43,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Roman officials have been known to be tough on anyone caught skimming coins from the fountain.",
+      "translation": "众所周知，罗马官员会严厉对待任何被发现从喷泉中偷取硬币的人。",
+      "start": 1471.61,
+      "end": 1476.09,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In one case in 2005, police arrested four fountain cleaners after they were spotted slipping coins into their own pockets after collecting them.",
+      "translation": "2005年就发生过一起案件：警方发现四名喷泉清洁工在收集硬币后把硬币偷偷塞进自己的口袋，随后将他们逮捕。",
+      "start": 1477.15,
+      "end": 1487.71,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Authorities finally caught one notorious thief named Thomas Morgan and banned him from the fountain after he fished out thousands of dollars in change over 34 years using a magnetic stick.",
+      "translation": "最终，当局抓住了一名臭名昭著的小偷Thomas Morgan，并禁止他进入喷泉区域；在34年间，他曾用一根磁力棒从喷泉中捞出数千美元的零钱。",
+      "start": 1489.38,
+      "end": 1502.2,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "For the most part, money collected from privately-owned fountains in the United States also goes to charity.",
+      "translation": "在美国，从私人拥有的喷泉中收集到的钱大多也会捐给慈善机构。",
+      "start": 1503.84,
+      "end": 1510.16,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The fountain in New York City's Bryant Park is owned and operated by a not-for-profit corporation, which puts the cash collected by cleaners towards the fountain's own maintenance.",
+      "translation": "纽约市布莱恩特公园的喷泉由一家非营利公司所有并运营，清洁工收集到的现金会被用于喷泉本身的维护。",
+      "start": 1511.7,
+      "end": 1522.78,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Tens of thousands of dollars in coins removed from wishing wells, fountains and ponds in Florida's Walt Disney World are donated each year to support foster children living in the state.",
+      "translation": "佛罗里达州华特迪士尼世界的许愿井、喷泉和池塘中每年取出的数万美元硬币，都会被捐出，用于帮助生活在该州的寄养儿童。",
+      "start": 1524.14,
+      "end": 1536.58,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Whether or not your wish comes true after tossing a coin into a fountain, you can rest assured knowing that the change is likely going to someone who needs it.",
+      "translation": "无论你把硬币扔进喷泉后愿望是否实现，你都可以放心，因为这些零钱很可能会流向需要帮助的人。",
+      "start": 1537.52,
+      "end": 1546.92,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions 22 to 25 are based on the recording you have just heard.",
+      "translation": "问题22至25是基于你刚才听到的录音",
+      "start": 1548.2,
+      "end": 1552.92
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 22.",
+      "translation": "问题22。",
+      "start": 1553.74,
+      "end": 1554.94
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What problem might be caused by the growing piles of coins in fountains?",
+      "translation": "喷泉中成堆的硬币可能会造成什么问题?",
+      "start": 1555.5,
+      "end": 1560.38
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 23.",
+      "translation": "问题23。",
+      "start": 1573.89,
+      "end": 1575.03
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the speaker say about the coins collected from New York City's Park fountains?",
+      "translation": "发言人对从纽约市公园喷泉收集的硬币怎么说?",
+      "start": 1575.68,
+      "end": 1581.3
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 24.",
+      "translation": "问题24。",
+      "start": 1594.63,
+      "end": 1595.73
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What do we learn about the money collected from Rome's Trevie Fountain?",
+      "translation": "我们从罗马的Trevie不老泉 收集到的钱 了解多少?",
+      "start": 1597.02,
+      "end": 1600.88
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 25.",
+      "translation": "问题25。",
+      "start": 1614.67,
+      "end": 1615.63
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the speaker say about Thomas Morgan?",
+      "translation": "发言人怎么说托马斯·摩根?",
+      "start": 1616.17,
+      "end": 1618.79
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That's the end of listening comprehension.",
+      "translation": "听觉理解到此结束",
+      "start": 1632.46,
+      "end": 1634.42
+    }
+  ],
+  "translation_sources": [
+    "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/",
+    "Sams200/opus-mt-en-zh (unmatched sentences only)"
+  ]
+}

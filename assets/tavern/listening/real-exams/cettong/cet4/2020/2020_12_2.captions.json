@@ -1,0 +1,1254 @@
+{
+  "id": "cet4-2020_12_2",
+  "title": "2020年12月 第2套",
+  "level": 4,
+  "source_url": "https://www.cettong.cn/library/cet4/2020_12_2",
+  "material_source": "https://117.72.200.49/#/library",
+  "audio": "assets/tavern/listening/real-exams/cettong/cet4/2020/2020_12_2.exampace-playback.mp3",
+  "caption_kind": "published_material_with_auxiliary_timing_and_translation",
+  "caption_models": [
+    "Systran/faster-whisper-base.en",
+    "Sams200/opus-mt-en-zh"
+  ],
+  "lines": [
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "A waiter has returned a check worth nearly $424,000 to the retired social worker who lost it.",
+      "translation": "一名服务员将一张价值近42.4万美元的支票归还给了遗失它的退休社工。",
+      "start": 39.42,
+      "end": 46.46,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The waiter found a bank envelope while cleaning off a table last Saturday at a restaurant.",
+      "translation": "上周六，这名服务员在餐厅清理桌子时发现了一个银行信封。",
+      "start": 47.2,
+      "end": 52.34,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "He ran outside but the customer was gone.",
+      "translation": "他跑到外面，但顾客已经离开了。",
+      "start": 53.36,
+      "end": 55.64,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "He opened the envelope and got a shock.",
+      "translation": "他打开信封后大吃一惊。",
+      "start": 56.17,
+      "end": 58.45,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "After an unsuccessful search, the restaurant's owner called the Daily News for help.",
+      "translation": "在搜寻未果后,餐厅老板致电《每日新闻》寻求帮助。",
+      "start": 59.07,
+      "end": 63.81,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The \"relieved\" customer was reunited with her check on Wednesday.",
+      "translation": "周三,这位\"如释重负\"的顾客与她的支票重聚。",
+      "start": 64.67,
+      "end": 67.69,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It contained money from her apartment sale, already planned for a down payment on a new home.",
+      "translation": "支票里的钱来自她公寓的售款,原本计划用作新房的首付。",
+      "start": 68.69,
+      "end": 73.77,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The customer did not tip the waiter after her meal.",
+      "translation": "这位顾客用餐后没有给服务员小费。",
+      "start": 74.76,
+      "end": 77.42,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "She tried to give him money later on, but he graciously declined.",
+      "translation": "她后来试图给他钱,但他礼貌地拒绝了。",
+      "start": 78.12,
+      "end": 81.82,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The waiter, who's working his way through school, did accept the customer's apology and gratitude and said he was happy to have helped her.",
+      "translation": "这名正在半工半读的服务员接受了顾客的道歉和感谢,并表示很高兴能帮助到她。",
+      "start": 82.9,
+      "end": 90.91,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The village of Maref in Alaska voted on Tuesday to move to the state's mainland.",
+      "translation": "阿拉斯加的Maref村于星期二投票,",
+      "start": 140.666,
+      "end": 146.21
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The move is due to global warming and rising sea levels.",
+      "translation": "造成这一变化的原因是全球变暖和海平面上升。",
+      "start": 146.21,
+      "end": 149.73
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Most of the village's 169 registered voters took part in the town hall meeting.",
+      "translation": "该村169名登记选民中,多数参加了市民大会。",
+      "start": 150.84,
+      "end": 156.32
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They decided in a vote of 89 to 78 to move from their land on Sarichef Island, near the Arctic Circle.",
+      "translation": "他们以89票对78票决定从他们在北极圈附近的萨里切夫岛的土地上迁走。",
+      "start": 157.16,
+      "end": 163.9
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Maref Council Secretary Donna Barr said the vote was largely symbolic.",
+      "translation": "Maref理事会秘书Donna Barr说,投票主要是象征性的。",
+      "start": 163.9,
+      "end": 169.61
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It will be costly financially to the community.",
+      "translation": "社区将为此付出高昂的财政代价。",
+      "start": 170.75,
+      "end": 172.89
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "\"About 15 years ago, they estimated the cost at $180 million.",
+      "translation": "大约15年前,他们估计 成本为1.8亿美元。",
+      "start": 173.63,
+      "end": 178.03
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I would figure it's much higher now,\" Barr said.",
+      "translation": "我想现在要高得多了,\"巴尔说。",
+      "start": 179.26,
+      "end": 182.0
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "\"We don't see the move happening in our lifetime because of the funding.\" The village's roughly 650 residents have seen warming temperatures melt sea ice and permanently frozen land.",
+      "translation": "村里大约650名居民看到气温变暖, 海冰融化,土地永久冻结。",
+      "start": 182.88,
+      "end": 195.12
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This has resulted in houses falling into the water.",
+      "translation": "这导致房屋倒入水中。",
+      "start": 195.98,
+      "end": 198.58
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "At least 31 villages in Alaska face \"immediate threats\" due to climate change, the Government Accountability Office reported in 2009.",
+      "translation": "2009年,政府问责局报告,阿拉斯加至少有31个村庄因气候变化而面临“即时威胁”。",
+      "start": 199.59,
+      "end": 208.87
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "A man in Halifax, Canada wanted to find out if people were thankful for someone holding the door open for them.",
+      "translation": "加拿大Halifax的一名男子想要了解人们是否会对为他们开门的人表示感谢。",
+      "start": 260.24,
+      "end": 267.3,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The social experiment showed that 99 out of 100 people expressed gratitude.",
+      "translation": "这项社会实验表明,100人中有99人表达了感激之情。",
+      "start": 267.94,
+      "end": 273.46,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "\"I didn't think we were going to get 99.",
+      "translation": "\"我没想到会得到99个,'感恩职场'(Gratitude at Work)首席执行官Steve Foran说,'我不知道为什么,但我感到惊喜,因为人们的反应不仅仅是说声'谢谢',他们还和我们交谈。",
+      "start": 274.8,
+      "end": 276.5,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I don't know why, but I was pleasantly surprised because it went beyond just 'thank you.' People got into conversations with us,\" said Steve Foran, CEO of Gratitude at Work.",
+      "translation": "'他说:'研究表明,心怀感恩的人会带来美好的事物。",
+      "start": 277.5,
+      "end": 290.21,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "\"What we know from research is that from grateful people come good things,\" he said.",
+      "translation": "'他说:'引发人们感恩之情的一个简单方法就是为他们开门,所以我们去了六个地方为人们开门。",
+      "start": 291.55,
+      "end": 296.89,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "\"A simple way to induce gratitude in people is opening doors and so we went to six places and opened the doors for people.\" For the experiment, Foran's team went to a shopping center, a mall, two office buildings, and a coffee shop.",
+      "translation": "'在这项实验中,Foran的团队前往了一个购物中心、一个商场、两栋办公楼和一家咖啡店。",
+      "start": 297.57,
+      "end": 313.9,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The door was held for 15 to 20 people at a time at each location.",
+      "translation": "在每个地点,他们每次为15到20人开门。",
+      "start": 314.77,
+      "end": 319.89,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "\"We did have one that didn't say thank you.",
+      "translation": "'确实有一个人没有说谢谢。",
+      "start": 321.44,
+      "end": 323.78,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We're not here to judge them because on any given day, that could be me or you.",
+      "translation": "我们不是来评判他们的,因为在任何一天,那个人可能就是我或你。",
+      "start": 324.38,
+      "end": 329.76,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I suspect out of the 100 people, there were probably a bunch of them having a bad day, but grateful people make people grateful,\" said Foran.",
+      "translation": "我估计在这100人中,可能有一些人正在经历糟糕的一天,但心怀感恩的人会让其他人也心怀感恩,'Foran说。",
+      "start": 330.5,
+      "end": 340.06,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Section B.",
+      "translation": "B节。",
+      "start": 407.33,
+      "end": 408.27
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Directions.",
+      "translation": "方向",
+      "start": 408.87,
+      "end": 409.29
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In this section, you'll hear two long conversations.",
+      "translation": "在这一节里,你会听到两个长长的谈话。",
+      "start": 410.63,
+      "end": 413.61
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "At the end of each conversation,",
+      "translation": "每次谈话结束时",
+      "start": 414.71,
+      "end": 415.89
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "you will hear four questions.",
+      "translation": "你会听到四个问题。",
+      "start": 416.69,
+      "end": 418.41
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Both the conversation and the questions will be spoken only once.",
+      "translation": "谈话和问题只谈一次",
+      "start": 419.1,
+      "end": 422.9
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "After you hear a question, you must choose the best answer from the four choices marked A, B, C and D.",
+      "translation": "在听到一个问题后,你必须从四个选择中选择最好的答案,这四个选择分别是A、B、C和D。",
+      "start": 423.86,
+      "end": 431.48
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "mark the corresponding letter on answer sheet one with a single line through the center.",
+      "translation": "在答题单单行的答题表一中标出相应的字母。",
+      "start": 432.6,
+      "end": 437.84
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Rays Solar.",
+      "translation": "雷·索拉德",
+      "start": 441.166,
+      "end": 442.124
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Lisa's speaking.",
+      "translation": "丽莎在说话",
+      "start": 442.124,
+      "end": 443.081
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "How can I help?",
+      "translation": "我能帮什么忙?",
+      "start": 443.081,
+      "end": 444.996
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Hi, my name is Winston.",
+      "translation": "你好,我叫Winston。",
+      "start": 444.996,
+      "end": 447.39,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I wish to enquire about solar panel installations.",
+      "translation": "我想咨询一下太阳能板安装的事。",
+      "start": 447.39,
+      "end": 450.31,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Yes.",
+      "translation": "好的。",
+      "start": 451.15,
+      "end": 451.51,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What would you like to know?",
+      "translation": "您想了解什么?",
+      "start": 451.95,
+      "end": 453.03,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Well.",
+      "translation": "不错",
+      "start": 453.65,
+      "end": 454.11
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "My neighbor installed panels on his roof about a year ago in order to power his hot water.",
+      "translation": "一年前我邻居在他屋顶上安装了电板 给他的热水供电",
+      "start": 454.53,
+      "end": 460.01
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "He tells me it has saved him over $500 thus far.",
+      "translation": "他告诉我,到目前为止,它已经救了他500多美元。",
+      "start": 460.51,
+      "end": 464.51
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Does that sound about right to you?",
+      "translation": "你觉得这样对吗?",
+      "start": 464.99,
+      "end": 466.51
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Well.",
+      "translation": "不错",
+      "start": 466.93,
+      "end": 467.37
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'm not familiar with your neighbor or his particular setup, but that amount is definitely possible.",
+      "translation": "我不熟悉你的邻居 或他的特殊安排, 但这个数额是绝对可能的。",
+      "start": 467.67,
+      "end": 473.67
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I can tell you that the average four-bedroom house may typically have a roof with 50 square meters of surface area.",
+      "translation": "我可以告诉你,平均四间卧室的房子 通常有50平方米面积的屋顶",
+      "start": 474.58,
+      "end": 482.3
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Four panels on one side of that roof could save a family of four around $300 a year.",
+      "translation": "屋顶一侧的四个面板可以节省四口人的家庭每年约300美元。",
+      "start": 483.22,
+      "end": 488.86
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "OK.",
+      "translation": "好,我说好的",
+      "start": 488.86,
+      "end": 490.58
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That sounds about right then.",
+      "translation": "听起来不错",
+      "start": 490.58,
+      "end": 491.82
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "My house is about the size you described, but my neighbor's is bigger.",
+      "translation": "我的房子和你描述的差不多大 但我邻居的房子更大",
+      "start": 492.44,
+      "end": 496.38
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'm not sure how many panels he has up there, but he does have a large family of six.",
+      "translation": "我不知道他上面有多少面板 但他有六人大家庭",
+      "start": 497.4,
+      "end": 502.54
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Are you interested in installing some solar panels on your roof, sir?",
+      "translation": "先生,您有兴趣在您的屋顶上安装太阳能板吗?",
+      "start": 503.21,
+      "end": 507.49,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Yes, I'm considering it.",
+      "translation": "是的,我在考虑。",
+      "start": 507.97,
+      "end": 509.87,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "If you wish to come into our office, we could show you the different solutions we offer.",
+      "translation": "如果您愿意来我们办公室,我们可以向您展示我们提供的不同方案。",
+      "start": 510.35,
+      "end": 514.69,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "OK.",
+      "translation": "好,我说好的",
+      "start": 514.69,
+      "end": 516.01
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I might do that.",
+      "translation": "我可能会这样做。",
+      "start": 516.01,
+      "end": 516.75
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But just quickly, if you don't mind, could you tell me approximately how much a typical installation costs, like, say, four panels?",
+      "translation": "但是,只要很快,如果你不介意, 你能告诉我 大约多少钱 典型的安装成本,比如,比如,四个面板吗?",
+      "start": 517.21,
+      "end": 525.15
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Prices do vary depending on different factors, but as a rough estimate, it's around $2,000.",
+      "translation": "价格会因不同因素而有所变化,但粗略估计大约是2000美元。",
+      "start": 526.63,
+      "end": 533.26,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But you know a typical household will make back that initial investment in about five years.",
+      "translation": "不过您知道,一般家庭大约五年就能收回最初的投资。",
+      "start": 533.26,
+      "end": 538.6,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "OK.",
+      "translation": "好,我说好的",
+      "start": 538.6,
+      "end": 540.3
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I see.",
+      "translation": "原来如此",
+      "start": 540.3,
+      "end": 540.62
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Thank you.",
+      "translation": "谢谢",
+      "start": 541.06,
+      "end": 541.36
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Conversation 2.",
+      "translation": "对话2。",
+      "start": 629.79,
+      "end": 631.07
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Good afternoon.",
+      "translation": "下午好。",
+      "start": 632.5,
+      "end": 633.4,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Sorry to have kept you waiting.",
+      "translation": "抱歉让您久等了。",
+      "start": 634.04,
+      "end": 635.26,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "How can I help you?",
+      "translation": "有什么可以帮您的吗？",
+      "start": 635.98,
+      "end": 636.88,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Oh, no problem.",
+      "translation": "哦，没关系。",
+      "start": 637.3,
+      "end": 638.16,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'm interested in booking a holiday to Australia and wonder if you could tell me what deals you have.",
+      "translation": "我想预订去澳大利亚的假期，想了解一下你们有什么优惠套餐。",
+      "start": 638.92,
+      "end": 644.26,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Sure.",
+      "translation": "当然。",
+      "start": 644.78,
+      "end": 645.34,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Are you only looking for flights or a package holiday with everything included?",
+      "translation": "您只是想订机票，还是想要包含所有服务的套餐假期？",
+      "start": 645.98,
+      "end": 650.86,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "When you say \"everything,\" what do you mean?",
+      "translation": "您说的\"所有服务\"是指什么？",
+      "start": 651.48,
+      "end": 654.1,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Well, a package holiday would include your flights, hotels, meals, day trips to different places of interest and transport to and from the airport.",
+      "translation": "嗯，套餐假期会包括您的机票、酒店、餐食、去各个景点的一日游以及机场往返接送。",
+      "start": 654.78,
+      "end": 665.92,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Yeah, that sounds pretty good.",
+      "translation": "是的，听起来很不错。",
+      "start": 666.66,
+      "end": 668.24,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'm going with my family, so it would be nice to have everything taken care of.",
+      "translation": "我要和家人一起去，所以如果一切都安排好了就太好了。",
+      "start": 668.76,
+      "end": 672.82,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So, what sort of deals do you have for package holidays then?",
+      "translation": "那么，套餐假期有什么优惠呢？",
+      "start": 673.4,
+      "end": 677.3,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "All sorts, really.",
+      "translation": "各种各样的都有。",
+      "start": 677.82,
+      "end": 678.94,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "How long do you want to go for and what dates?",
+      "translation": "您想去多长时间，什么日期？",
+      "start": 679.48,
+      "end": 682.15,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Two weeks around Christmas time would be great.",
+      "translation": "圣诞节前后两周就很好。",
+      "start": 682.87,
+      "end": 685.53,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Okay, let me check that for you.",
+      "translation": "好的，让我给您查一下。",
+      "start": 686.23,
+      "end": 689.13,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Here's one, 14 nights in southeastern Australia.",
+      "translation": "这有一个，在澳大利亚东南部住14晚。",
+      "start": 690.01,
+      "end": 693.93,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Five nights in Sydney and five nights in Melbourne, and then for the other four nights you can choose from a list of trips to other places nearby.",
+      "translation": "在悉尼住5晚，在墨尔本住5晚，然后剩下的4晚您可以从附近其他地方的行程清单中选择。",
+      "start": 694.31,
+      "end": 702.19,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You could visit Canberra, for example, or the Blue Mountains, or you could go for a drive down the Great Ocean Road.",
+      "translation": "比如您可以去堪培拉，或者蓝山，或者沿着大洋路自驾游。",
+      "start": 703.19,
+      "end": 709.79,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Also, if you're interested in wine, you could go on a tour of the places where they grow grapes and make wine.",
+      "translation": "另外，如果您对葡萄酒感兴趣，还可以去参观葡萄种植和酿酒的地方。",
+      "start": 710.39,
+      "end": 716.31,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That sounds great.",
+      "translation": "听起来很棒。",
+      "start": 716.91,
+      "end": 717.75,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's good we can choose some activities ourselves.",
+      "translation": "我们能自己选择一些活动真不错。",
+      "start": 718.39,
+      "end": 720.57,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Section C.",
+      "translation": "C节。",
+      "start": 806.65,
+      "end": 807.35
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Directions.",
+      "translation": "方向",
+      "start": 808.1,
+      "end": 808.52
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In this section, you'll hear three passages.",
+      "translation": "在这一节,你会听到三个段落。",
+      "start": 809.56,
+      "end": 811.92
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "At the end of each passage, you'll hear three or four questions.",
+      "translation": "在每个通道的结尾 你会听到三四个问题",
+      "start": 812.7,
+      "end": 817.2
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Both the passage and the questions will be spoken only once.",
+      "translation": "发言的通过和提问将只讲一次。",
+      "start": 817.96,
+      "end": 821.64
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "After you hear a question,",
+      "translation": "在你听到一个问题之后",
+      "start": 822.68,
+      "end": 823.8
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You must choose the best answer from the four choices marked A, B,",
+      "translation": "你必须从四个选择中选择最好的答案 标注A,B,",
+      "start": 824.17,
+      "end": 828.99
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "C and D.",
+      "translation": "C和D。",
+      "start": 829.65,
+      "end": 830.37
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "mark the corresponding letter on answer sheet one with a single line through the centre.",
+      "translation": "在答题表一中标出相应的字母,在中间线上标出单行。",
+      "start": 831.31,
+      "end": 836.25
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Tourists taking a holiday in the Indonesian island of Bali are facing a new $14-per-person tax when they arrive on the holiday island from next year.",
+      "translation": "印度尼西亚巴厘岛度假的游客在明年抵达度假岛时,将面临新的每人14美元的税。",
+      "start": 839.366,
+      "end": 850.514
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But this is a green tax, which Bali Governor Wayan Koster has been working on for months, and which is designed to help clean up the island's natural environment, and with good reason, too.",
+      "translation": "但这项绿色税是巴厘岛总督Wayan Koster几个月来一直在努力推行的,",
+      "start": 850.514,
+      "end": 862.99
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Indonesia is drowning in plastics.",
+      "translation": "印尼正淹没在塑料中。",
+      "start": 864.04,
+      "end": 866.2
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Recycling is not one of the country's strong points.",
+      "translation": "再循环不是该国强点之一。",
+      "start": 867.59,
+      "end": 870.11
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's not uncommon to be offered many more plastic bags than one could ever need when visiting supermarkets and shopping malls.",
+      "translation": "在参观超市和购物中心时,人们会提供比以前更多的塑料袋,这并非罕见。",
+      "start": 870.93,
+      "end": 878.43
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But, slowly, things are starting to change for the better.",
+      "translation": "但是,缓慢地,事情开始好转。",
+      "start": 879.52,
+      "end": 883.1
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Back in 2016, the medium-sized city of Banjarmasin banned single-use plastic bags.",
+      "translation": "2016年, 中等规模的城市班雅尔马辛禁止单用塑料袋。",
+      "start": 883.82,
+      "end": 891.58
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The city of Bogor followed suit in 2018.",
+      "translation": "2018年,茂物城紧跟其后。",
+      "start": 892.32,
+      "end": 895.82
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "A few months ago, Koster announced a plan that would not only ban single-use plastic bags from supermarkets and convenience stores, but plastic bags and straws across the island.",
+      "translation": "几个月前,Koster宣布了一项计划,该计划不仅禁止超市和便利商店的单一用途塑料袋,而且禁止全岛的塑料袋和吸管。",
+      "start": 896.8,
+      "end": 909.6
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The regulation will come into full effect next month.",
+      "translation": "条例将于下个月全面生效。",
+      "start": 910.47,
+      "end": 913.43
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "\"We received a fast and quick response from the Balinese people.",
+      "translation": "我们收到巴厘人民的快速反应",
+      "start": 914.22,
+      "end": 917.98
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Not only positive responses from the Balinese, we received good responses from the central government, other local governments and even from overseas.\" Koster told the Sydney Morning Herald this week during an interview.",
+      "translation": "我们不仅从巴厘岛得到积极回应, 中央政府、其他地方政府甚至海外也给予好回应。 Koster在本周的采访中告诉悉尼早报。",
+      "start": 918.62,
+      "end": 932.82
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The governor is a determined environmentalist and he has more laws planned to protect the island's waterways, in particular, and to support the introduction of electric vehicles too.",
+      "translation": "总督是坚定的环境主义者,他计划制定更多的法律,保护岛上的水道,并支持采用电动车辆。",
+      "start": 934.19,
+      "end": 999.7
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "An endangered species of whale is experiencing a small baby boom off the coast of America.",
+      "translation": "濒危鲸鱼物种正经历美国海岸外的小婴儿潮。",
+      "start": 1016.52,
+      "end": 1022.84
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The North Atlantic right whale is one of the rarest species of whale on the planet, numbering only about 411.",
+      "translation": "北大西洋右鲸是地球上最稀有的鲸鱼物种之一,数量只有411个左右。",
+      "start": 1023.96,
+      "end": 1031.3
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But the Center for Coastal Studies said Friday that its aerial survey team spotted a mum with two babies in Cape Cod Bay a day earlier.",
+      "translation": "但沿海研究中心说,星期五,其空中勘测队在一天前在科德湾角发现一个有两个婴儿的母亲。",
+      "start": 1032.64,
+      "end": 1042.88
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That brings the number seen in nearby waters alone this year to three.",
+      "translation": "因此,仅在今年附近水域就看到的人数就达到3人。",
+      "start": 1043.45,
+      "end": 1047.91
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That's big news because the whale population has been falling, and no baby whales were seen last year.",
+      "translation": "这是大新闻,因为鲸鱼种群一直在下降, 去年没有看到任何鲸幼儿。",
+      "start": 1048.62,
+      "end": 1055.6
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In all, seven baby whales have been spotted so far this year.",
+      "translation": "今年总共发现七头鲸幼仔",
+      "start": 1056.32,
+      "end": 1060.4
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The whale population has become endangered due to commercial whaling activities in recent years.",
+      "translation": "近年来,由于商业捕鲸活动,鲸鱼种群受到威胁。",
+      "start": 1061.53,
+      "end": 1067.01
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This is because they are sometimes hunted for their meat or their skin.",
+      "translation": "因为他们有时被猎取肉类或皮肤。",
+      "start": 1067.97,
+      "end": 1071.51
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Over-hunting could lead to the disappearance of the whale population, possibly causing major problems to the global food chain.",
+      "translation": "过度捕猎可能导致鲸鱼种群消失,可能对全球食物链造成重大问题。",
+      "start": 1072.78,
+      "end": 1080.56
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The whales give birth off the Southeast Coast of America in the winter and travel to feeding grounds off the Northeast Coast in the early spring.",
+      "translation": "鲸鱼在冬天在美洲东南海岸产下 并在春初前往东北海岸外的觅食场",
+      "start": 1081.92,
+      "end": 1090.38
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The Northeast Coast is a critically important source of food.",
+      "translation": "东北海岸是极为重要的食物来源。",
+      "start": 1091.47,
+      "end": 1094.51
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The animals often feed close to shore.",
+      "translation": "动物通常靠岸喂食。",
+      "start": 1095.39,
+      "end": 1097.61
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This provides watchers on land with \"unbeatable views of one of the rarest of marine mammals.\" It's illegal to get within 1,500 feet of the animals without a federal research permit, so whale watchers are discouraged from attempting to get close to the whales.",
+      "translation": "这使陆地观察者能够“对最稀有的海洋哺乳动物之一的不可抵挡的观点” 。没有联邦研究许可 进入1500英尺以内的动物是违法的, 所以鲸鱼观察者不能试图接近鲸鱼。",
+      "start": 1098.14,
+      "end": 1115.85
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Passage 3.",
+      "translation": "通行证3。",
+      "start": 1187.92,
+      "end": 1188.56
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "An average person consumes 144 pints of milk a year.",
+      "translation": "平均每人每年消耗144品脱牛奶。",
+      "start": 1189.88,
+      "end": 1194.48
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And 60% of those people are children.",
+      "translation": "而这些人中60%是儿童。",
+      "start": 1198.65,
+      "end": 1201.23,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But what was once advertised as nutritious is becoming unpopular.",
+      "translation": "但曾经被宣传为营养食品的牛奶正变得不受欢迎。",
+      "start": 1202.13,
+      "end": 1206.33,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Americans drink 37% less milk than they did in the 1970s.",
+      "translation": "美国人喝的牛奶比20世纪70年代少了37%。",
+      "start": 1206.33,
+      "end": 1212.63,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And in the UK, dairy consumption overall has fallen by a third in the past 20 years.",
+      "translation": "而在英国，过去20年乳制品消费总体下降了三分之一。",
+      "start": 1212.63,
+      "end": 1219.01,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Milk is increasingly being described in a negative light.",
+      "translation": "牛奶越来越多地被负面描述。",
+      "start": 1219.01,
+      "end": 1223.45,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "A recent blog suggested maybe people are drinking less milk because it is poisonous to many of us.",
+      "translation": "最近一篇博客文章提出，也许人们喝更少牛奶是因为它对我们许多人来说有毒。",
+      "start": 1223.45,
+      "end": 1230.46,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Lactose is the sugar found in milk and dairy products.",
+      "translation": "乳糖是牛奶和乳制品中发现的糖。",
+      "start": 1231.99,
+      "end": 1234.87,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It needs a series of complex proteins to break it down.",
+      "translation": "它需要一系列复杂的蛋白质来分解它。",
+      "start": 1235.79,
+      "end": 1238.87,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Without enough of these proteins, the lactose is broken down by bacteria in the human body.",
+      "translation": "如果没有足够的这些蛋白质，乳糖会被人体内的细菌分解。",
+      "start": 1239.86,
+      "end": 1245.22,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This can cause physical pain and produce gas in the stomach.",
+      "translation": "这可能导致身体疼痛并在胃中产生气体。",
+      "start": 1246.47,
+      "end": 1249.71,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "However, after we have finished breast or formula feeding, most of us don't continue producing the complex proteins in our body, which are necessary to break down the lactose.",
+      "translation": "然而，在我们断奶或停止配方奶喂养后，我们大多数人不再继续在体内产生分解乳糖所必需的复杂蛋白质。",
+      "start": 1250.78,
+      "end": 1261.24,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Despite the problems in digesting milk, it does provide many benefits.",
+      "translation": "尽管消化牛奶存在问题，它确实提供许多益处。",
+      "start": 1262.83,
+      "end": 1266.95,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Milk is nutritious.",
+      "translation": "牛奶有营养。",
+      "start": 1267.63,
+      "end": 1268.45,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It contains vitamins A and D, as well as protein and isn't full of calories.",
+      "translation": "它含有维生素A和D，以及蛋白质，并且不含大量卡路里。",
+      "start": 1269.31,
+      "end": 1274.35,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You can test yourself by drinking a large glass of milk.",
+      "translation": "你可以通过喝一大杯牛奶来测试自己。",
+      "start": 1276.13,
+      "end": 1278.67,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "If you get sick in your stomach within the next 24 hours, you are lacking in the proteins to digest milk.",
+      "translation": "如果你在接下来的24小时内胃部不适，你就缺乏消化牛奶的蛋白质。",
+      "start": 1279.61,
+      "end": 1285.65,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "the end of listening comprehension.",
+      "translation": "听力理解的结束",
+      "start": 1374.63,
+      "end": 1377.53
+    }
+  ],
+  "translation_sources": [
+    "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/",
+    "Sams200/opus-mt-en-zh (unmatched sentences only)"
+  ]
+}

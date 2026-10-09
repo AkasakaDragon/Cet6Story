@@ -1,0 +1,1221 @@
+{
+  "id": "cet4-2020_07_1",
+  "title": "2020年7月 第1套",
+  "level": 4,
+  "source_url": "https://www.cettong.cn/library/cet4/2020_07_1",
+  "material_source": "https://117.72.200.49/#/library",
+  "audio": "assets/tavern/listening/real-exams/cettong/cet4/2020/2020_07_1.exampace-playback.mp3",
+  "caption_kind": "published_material_with_auxiliary_timing_and_translation",
+  "caption_models": [
+    "Systran/faster-whisper-base.en",
+    "Sams200/opus-mt-en-zh"
+  ],
+  "lines": [
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Good morning.",
+      "translation": "早上好 早",
+      "start": 39.11,
+      "end": 39.69
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In today's headlines, Scotland's transport minister has warned of potentially extreme weather conditions as heavy snow is forecast across the country later this week.",
+      "translation": "苏格兰交通部长警告说, 气候条件可能非常恶劣, 因为预计本周晚些时候会在全国下大雪,",
+      "start": 40.33,
+      "end": 51.71
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Orange warnings are in force for many areas for Wednesday and Thursday.",
+      "translation": "星期三和星期四对许多地区实行橙色警告。",
+      "start": 52.66,
+      "end": 56.76
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The transport minister advised people in parts of Scotland covered by the orange alert to avoid travel on Wednesday.",
+      "translation": "交通部长建议苏格兰部分地区 包括橙色警报的人 周三不要出行",
+      "start": 57.65,
+      "end": 64.71
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This is what he said to us: \"The orange warning may be raised to red in some areas.",
+      "translation": "他对我们说: 橙色警告在某些地区可能达到红色。",
+      "start": 65.97,
+      "end": 71.81
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That is a warning for snow that has never been seen since the modern system came into place in Scotland.\" The orange warning has been extended until 6 p.m.",
+      "translation": "这是自现代系统在苏格兰建立以来从未见过的雪雪警示。 橙色警示已延长到下午6时。",
+      "start": 72.93,
+      "end": 84.06
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "on Thursday.",
+      "translation": "星期四开始",
+      "start": 84.06,
+      "end": 84.96
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Trains, planes and ferries are also likely to be affected, with a wind chill that could see parts of Britain feeling as cold as minus 15 degrees Celsius.",
+      "translation": "火车、飞机和渡轮也有可能受到影响,风寒,可看到英国部分地区感到寒冷,达摄氏15度零下。",
+      "start": 86.23,
+      "end": 97.38
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The head of road policing said, \"I would urge drivers to take extra care on the roads for their journeys.",
+      "translation": "路警队长说:“我敦促司机在路上格外小心。",
+      "start": 98.68,
+      "end": 105.04
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Drivers should make sure they're prepared for their journey with warm clothing, food and drink, sufficient fuel and a charged mobile phone.",
+      "translation": "司机应该确保准备好穿暖衣服、吃喝喝喝, 有足够的燃料,",
+      "start": 105.95,
+      "end": 115.87
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "There could be significant traffic delays, so please start to plan your journey now and consider if you really need to travel when conditions are this poor.\"",
+      "translation": "所以请现在就开始规划旅程, 考虑是否真的需要旅行时,",
+      "start": 116.65,
+      "end": 127.71
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Romania's wetlands are coming back to life thanks to help from local communities, the World Wildlife Fund, and funding from the European Union.",
+      "translation": "在当地社区、世界自然基金会的帮助以及欧盟的资助下,罗马尼亚的湿地正在恢复生机。",
+      "start": 176.86,
+      "end": 186.48,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Roughly 2,224 acres of the picturesque Danube Delta—home to 300 species of birds—have been filled with wildlife.",
+      "translation": "风景如画的多瑙河三角洲约2224英亩的土地——这里是300种鸟类的栖息地——已经充满了野生动物。",
+      "start": 187.66,
+      "end": 197.6,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The land has been connected to the network of lakes and streams in the area.",
+      "translation": "这片土地已与该地区的湖泊和溪流网络连接起来。",
+      "start": 199.12,
+      "end": 203.08,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "\"A lot of birds have migrated to the area, and one doesn't need to travel long hours anymore or go to other lakes to watch the birds,\" says Ion Meuta, Deputy Mayor of Mahmudia.",
+      "translation": "Mahmudia副市长Ion Meuta说:\"许多鸟类已经迁徙到这个地区,人们不再需要长途跋涉或去其他湖泊观鸟了。\"",
+      "start": 204.39,
+      "end": 216.57,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The area around Mahmudia, which is a UNESCO World Heritage site, is the third-most bio-diverse in the world, after Australia's Great Barrier Reef and the Galapagos Islands.",
+      "translation": "Mahmudia周边地区是联合国教科文组织世界遗产地,是世界上生物多样性第三丰富的地区,仅次于澳大利亚大堡礁和加拉帕戈斯群岛。",
+      "start": 216.57,
+      "end": 230.36,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Groups used earth-moving equipment to restore the waterways.",
+      "translation": "各团体使用土方设备恢复了水道。",
+      "start": 230.36,
+      "end": 234.81,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Government officials proposed to protect the area's endangered wild fish by issuing a fishing ban over the next decade.",
+      "translation": "政府官员提议在未来十年内实施捕鱼禁令,以保护该地区濒危的野生鱼类。",
+      "start": 235.55,
+      "end": 243.29,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Scott Dunn recently awoke from a medically-induced sleep he'd been in after a car accident.",
+      "translation": "Scott Dunn最近从车祸后的医学诱导睡眠中醒来。",
+      "start": 291.666,
+      "end": 298.29,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "He was heartbroken after realizing he'd missed his high school graduation.",
+      "translation": "当他意识到自己错过了高中毕业典礼时心碎不已。",
+      "start": 299.17,
+      "end": 303.53,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So his classmates decided to give him another chance.",
+      "translation": "于是他的同学们决定再给他一次机会。",
+      "start": 304.71,
+      "end": 307.59,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It was just a month ago that East Juniata High School seniors met in the school's auditorium for graduation.",
+      "translation": "就在一个月前，East Juniata高中的毕业班学生在学校礼堂参加了毕业典礼。",
+      "start": 308.8,
+      "end": 315.66,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And last week, they did it again.",
+      "translation": "上周，他们又举行了一次。",
+      "start": 315.66,
+      "end": 318.76,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Scott's car accident was on May 22nd, just three days before the ceremony.",
+      "translation": "Scott的车祸发生在5月22日，距离典礼仅三天。",
+      "start": 319.43,
+      "end": 325.27,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "\"I remember waking up in the hospital and asking mom what date it was.",
+      "translation": "\"我记得在医院醒来时问妈妈是几号。",
+      "start": 326.44,
+      "end": 331.2,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "She told me it was the 28th,\" he said.",
+      "translation": "她告诉我是28号，\"他说。",
+      "start": 331.76,
+      "end": 334.76,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "\"I looked at her and said 'I missed my graduation.'\" The school's principal Mr.",
+      "translation": "\"我看着她说'我错过了毕业典礼。",
+      "start": 335.54,
+      "end": 341.67,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Fausey called Scott's mom Karen and said that everybody wanted to do something special for him.",
+      "translation": "'\"学校校长Fausey先生打电话给Scott的妈妈Karen，说大家都想为他做点特别的事。",
+      "start": 341.67,
+      "end": 348.69,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Students wore their caps and gowns and sat in the front of the auditorium.",
+      "translation": "学生们穿着学位服和方帽，坐在礼堂前排。",
+      "start": 349.48,
+      "end": 354.48,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Scott's parents, Karen and Scott Senior, sat front and center.",
+      "translation": "Scott的父母Karen和Scott Senior坐在正中央。",
+      "start": 355.16,
+      "end": 360.0,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "After brief speeches, Scott's name was called, only Scott's name.",
+      "translation": "简短致辞后，Scott的名字被宣读，只有Scott的名字。",
+      "start": 360.8,
+      "end": 365.98,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "He walked across the stage as the audience cheered.",
+      "translation": "他走过舞台，观众欢呼。",
+      "start": 366.64,
+      "end": 369.88,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "A graduation for one.",
+      "translation": "一个人的毕业典礼。",
+      "start": 371.08,
+      "end": 372.18,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "\"I'm speechless,\" Scott said.",
+      "translation": "\"我无法用言语表达，\"Scott说。",
+      "start": 373.15,
+      "end": 375.29,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "\"I don't know how to even explain it.",
+      "translation": "\"我不知道该如何解释。",
+      "start": 376.01,
+      "end": 378.13,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'm speechless to know that so many people are behind me.\"",
+      "translation": "知道有这么多人支持我，我无法用言语表达。",
+      "start": 378.57,
+      "end": 382.61,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In this section, you will hear two long conversations.",
+      "translation": "在本节中,你们将听到两次长长的谈话。",
+      "start": 450.22,
+      "end": 453.72
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "At the end of each conversation,",
+      "translation": "每次谈话结束时",
+      "start": 454.68,
+      "end": 456.02
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "you will hear four questions.",
+      "translation": "你会听到四个问题。",
+      "start": 456.76,
+      "end": 458.34
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Both the conversation and the questions will be spoken only once.",
+      "translation": "谈话和问题只谈一次",
+      "start": 459.32,
+      "end": 463.54
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "After you hear a question, you must choose the best answer from the four choices marked A, B, C, and D.",
+      "translation": "在听到一个问题后,你必须从四个选择中选择最好的答案,这四个选择分别是A、B、C和D。",
+      "start": 464.67,
+      "end": 472.73
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "mark the corresponding letter on answer sheet one with a single line through the center.",
+      "translation": "在答题单单行的答题表一中标出相应的字母。",
+      "start": 473.9,
+      "end": 479.06
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "How do you like your new, flexible working arrangement?",
+      "translation": "你觉得新的弹性工作安排怎么样？",
+      "start": 482.37,
+      "end": 485.27,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Do you enjoy working from home?",
+      "translation": "你喜欢在家工作吗？",
+      "start": 486.17,
+      "end": 487.63,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Yes and no.",
+      "translation": "有好有坏吧。",
+      "start": 488.27,
+      "end": 489.77,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I find isolation challenging at times.",
+      "translation": "有时候我觉得太孤独了挺难受的。",
+      "start": 490.37,
+      "end": 492.61,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Apart from my mother, not too many people I know have time for phone chats during working hours.",
+      "translation": "除了我妈，我认识的人里在工作时间能打电话聊天的真不多。",
+      "start": 493.29,
+      "end": 498.87,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I tried the library, but found I wasn't really keen on working there.",
+      "translation": "我试过去图书馆，但发现我其实不太喜欢在那儿工作。",
+      "start": 499.75,
+      "end": 503.77,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "No, neither would I.",
+      "translation": "是啊，我也不会。",
+      "start": 504.23,
+      "end": 505.91,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I find the library a bit too quiet.",
+      "translation": "我觉得图书馆有点太安静了。",
+      "start": 506.45,
+      "end": 508.71,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'd lack inspiration or stimulation, which would be counterproductive to getting a lot of work done.",
+      "translation": "我会缺乏灵感或刺激，这反而不利于完成很多工作。",
+      "start": 508.71,
+      "end": 515.52,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I find the same thing.",
+      "translation": "我也有同感。",
+      "start": 516.3,
+      "end": 517.46,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So, lately I've been going out to cafes occasionally.",
+      "translation": "所以最近我偶尔会去咖啡馆。",
+      "start": 518.14,
+      "end": 521.0,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I love the noise, the people, the busyness of the café, the sense of being out in the world.",
+      "translation": "我喜欢那里的声音、人群、咖啡馆的热闹劲儿，还有那种置身于世界中的感觉。",
+      "start": 521.86,
+      "end": 527.38,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Coffee shops seem to have effectively become office spaces for so many people in this digital age, though I'm not sure how cafe owners feel about it—having so many people who go to their places to work rather than drink and eat.",
+      "translation": "在这个数字时代，咖啡店似乎已经有效地成为很多人的办公空间了，不过我不确定咖啡店老板对此有何感想——有那么多人去他们那儿是为了工作而不是喝咖啡吃东西。",
+      "start": 528.12,
+      "end": 543.73,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Yes, some people seem to spend a lot of time there and not order much.",
+      "translation": "是啊，有些人似乎在那儿待很长时间却点不了多少东西。",
+      "start": 544.35,
+      "end": 548.29,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The most annoying ones for café owners must surely be those usually only two of them who occupy a table for six with their laptops and paperwork.",
+      "translation": "对咖啡店老板来说最烦人的肯定是那些人，通常只有两个人，却带着笔记本电脑和文件占着六人桌。",
+      "start": 549.07,
+      "end": 558.51,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They should sit at a table for two, not the table for six.",
+      "translation": "他们应该坐两人桌，而不是六人桌。",
+      "start": 559.44,
+      "end": 563.5,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Some obviously stay so long.",
+      "translation": "有些人显然待得太久了。",
+      "start": 564.41,
+      "end": 566.53,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They need to plug the laptops into a power outlet.",
+      "translation": "他们需要把笔记本电脑插到电源插座上。",
+      "start": 566.85,
+      "end": 569.53,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I nearly tripped over someone's computer electrical lead the other day in my local café.",
+      "translation": "前几天我在附近的咖啡馆差点被某人的电脑电源线绊倒。",
+      "start": 570.47,
+      "end": 576.31,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's a double-edged sword.",
+      "translation": "这是一把双刃剑",
+      "start": 576.31,
+      "end": 577.87
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "No doubt about that for a café owner.",
+      "translation": "咖啡馆老板的这个毫无疑问",
+      "start": 578.17,
+      "end": 580.17
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "While remote workers help to keep the cafe full in quiet times, they can take up the valuable table space in busy periods.",
+      "translation": "边远劳工帮助咖啡馆在安静的时间内保持满额,",
+      "start": 581.07,
+      "end": 588.09
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Conversation 2.",
+      "translation": "对话2。",
+      "start": 677.95,
+      "end": 679.03
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'm going to start looking for another job.",
+      "translation": "我打算开始找另一份工作了。",
+      "start": 679.59,
+      "end": 681.81,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I can't see myself getting an opportunity to progress at my company anytime in the near future.",
+      "translation": "我看不到自己在公司近期内有任何晋升的机会。",
+      "start": 682.31,
+      "end": 687.57,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And I really think my skills and abilities deserve a higher salary.",
+      "translation": "而且我真的觉得我的技能和能力应该得到更高的薪水。",
+      "start": 688.59,
+      "end": 692.09,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You're not going to quit, are you?",
+      "translation": "你不会要辞职吧?",
+      "start": 692.77,
+      "end": 694.71,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'm thinking I might as well.",
+      "translation": "我觉得我不妨辞职。",
+      "start": 695.21,
+      "end": 696.89,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Then I can devote more time and energy to finding a better position at another company.",
+      "translation": "这样我就能投入更多时间和精力在另一家公司找到更好的职位。",
+      "start": 697.67,
+      "end": 702.35,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But you've been at your present company less than two years, haven't you?",
+      "translation": "但你在公司待了不到两年,不是吗?",
+      "start": 703.19,
+      "end": 707.13
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This will be the third time you've left a job in the last five years.",
+      "translation": "这是你过去五年里第三次离开工作了",
+      "start": 707.57,
+      "end": 711.79
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "If you do several jobs in a relatively short span of time, prospective employers might perceive that you lack loyalty.",
+      "translation": "如果您在相对较短的时间内从事多项工作,未来的雇主可能会认为您缺乏忠诚。",
+      "start": 712.41,
+      "end": 720.53
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That could make them wary and reluctant to employ you.",
+      "translation": "那样他们就会变得很谨慎 不愿雇你",
+      "start": 721.27,
+      "end": 724.61
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Unfortunately, loyalty doesn't pay.",
+      "translation": "不幸的是,忠诚并不会带来回报。",
+      "start": 725.41,
+      "end": 727.87,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Even if I get a promotion at my company, it's likely to be less sizable than if I were to get a job elsewhere.",
+      "translation": "即使我在公司得到晋升,涨幅也可能不如我去别的地方找工作来得大。",
+      "start": 728.67,
+      "end": 734.23,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And even if I get a promotion, I'm not guaranteed to get a raise.",
+      "translation": "而且即使我得到晋升,也不能保证会加薪。",
+      "start": 735.45,
+      "end": 739.05,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I had that experience at another company I worked at.",
+      "translation": "我在之前工作的另一家公司就有过这样的经历。",
+      "start": 739.74,
+      "end": 742.78,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They wanted you to take on more work and responsibility but for the same amount of money?",
+      "translation": "他们想让你承担更多的工作和责任,但工资还是一样?",
+      "start": 743.65,
+      "end": 748.75,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "More or less, yes.",
+      "translation": "差不多就是这样,是的。",
+      "start": 749.15,
+      "end": 750.59,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The way I see it, through having different jobs, I've gathered a lot of experience in different jobs and in different industries.",
+      "translation": "在我看来,通过从事不同的工作,我在不同的岗位和不同的行业积累了大量经验。",
+      "start": 751.19,
+      "end": 758.25,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But potential employers might worry that, that experience is not deep, or thorough enough.",
+      "translation": "但潜在雇主可能会担心那些经验不够深入或不够彻底。",
+      "start": 759.25,
+      "end": 765.43,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Perhaps, but I feel pretty confident that I can sell myself.",
+      "translation": "也许吧,但我很有信心能够推销自己。",
+      "start": 767.41,
+      "end": 769.84,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You know what they say, \"Fortune favors the brave.\"",
+      "translation": "你知道他们怎么说的,\"幸运眷顾勇敢者\"。",
+      "start": 770.7,
+      "end": 773.34,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Section C, directions.",
+      "translation": "C节,方向。",
+      "start": 865.31,
+      "end": 867.01
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In this section, you will hear three passages.",
+      "translation": "在本节中,你们将听到三个段落。",
+      "start": 868.54,
+      "end": 871.28
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "At the end of each passage, you will hear three or four questions.",
+      "translation": "在每一段的结尾,你将听到三四个问题。",
+      "start": 872.32,
+      "end": 876.58
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Both the passage and the questions will be spoken only once.",
+      "translation": "发言的通过和提问将只讲一次。",
+      "start": 877.72,
+      "end": 881.56
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "After you hear a question, you must choose the best answer from the four choices marked A, B, C, and D.",
+      "translation": "在听到一个问题后,你必须从四个选择中选择最好的答案,这四个选择分别是A、B、C和D。",
+      "start": 882.68,
+      "end": 891.26
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "mark the corresponding letter on answer sheet one with a single line through the center.",
+      "translation": "在答题单单行的答题表一中标出相应的字母。",
+      "start": 892.26,
+      "end": 897.72
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Passage one.",
+      "translation": "一号通道",
+      "start": 899.16,
+      "end": 899.82
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "There is a saying that goes something along the lines of \"You must love yourself first before you can love someone else.\" Similarly, I personally believe that you must be comfortable and happy in your own company before you can truly be yourself in the company of others.",
+      "translation": "有一种说法是,“你必须先爱自己,然后才能爱别人。” 同样,我个人认为,你必须在自己的公司里感到舒适和快乐,然后才能真正与他人在一起。",
+      "start": 901.1,
+      "end": 918.08
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "There is a massive difference between being lonely and being alone.",
+      "translation": "孤独与孤独之间有很大的区别。",
+      "start": 919.11,
+      "end": 922.81
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Loneliness is a horrible feeling.",
+      "translation": "孤独是一种可怕的感觉",
+      "start": 923.99,
+      "end": 925.77
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "However, you don't have to actually be alone to feel that way.",
+      "translation": "不过,你不必一个人 才能有这种感觉",
+      "start": 926.61,
+      "end": 930.33
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Many times, I've felt lonely when surrounded by a big group of people.",
+      "translation": "被一群人包围时 我感到很孤单",
+      "start": 931.15,
+      "end": 935.03
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In contrast, being alone can actually be a blessing, particularly when you've actively chosen it.",
+      "translation": "相反的, 独自一人其实是一种祝福, 特别是当你积极地选择了它的时候。",
+      "start": 935.95,
+      "end": 942.88
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In my experience, being bored and alone is dangerous and can easily lead to the feeling of loneliness.",
+      "translation": "在我的经验中,无聊和孤独是危险的,很容易导致孤独感。",
+      "start": 944.1,
+      "end": 950.46
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The trick is to be active.",
+      "translation": "诀窍是活动。",
+      "start": 951.6,
+      "end": 953.28
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Get outside, stretch your legs, do something cultural, buy yourself something tasty to eat or something pretty to wear.",
+      "translation": "出去,伸展腿,做一些文化的东西, 买自己的东西 美味的饮食或漂亮穿。",
+      "start": 954.48,
+      "end": 961.9
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You don't have to take anyone else into consideration and can do whatever you please.",
+      "translation": "你不必考虑其他人 也可以做任何你想做的事",
+      "start": 962.82,
+      "end": 967.08
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Spending time alone also allows you to more efficiently take care of problems.",
+      "translation": "独自度过时间也使你能够更有效地处理问题。",
+      "start": 968.34,
+      "end": 973.04
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And then, when it's time to be social and meet up with your friends, you will be fully there, because you won't have too much other stuff floating around in your mind.",
+      "translation": "然后,当它的时间是社交 和你的朋友见面的时候, 你会完全在那里, 因为你不会有太多的其他东西 漂浮在你脑海里。",
+      "start": 973.88,
+      "end": 983.18
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Having been alone for a bit, you will also appreciate your friends' company more, and chances are, your time spent together will be more worthwhile.",
+      "translation": "一个人呆了一段时间, 你也会更欣赏你的朋友的陪伴, 有机会, 你们在一起的时间会更值得。",
+      "start": 984.29,
+      "end": 992.25
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Passage 2.",
+      "translation": "通行证2。",
+      "start": 1060.43,
+      "end": 1061.27
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "When I turned 12, I worked summers at my father's small brick cleaning business.",
+      "translation": "当我12岁时，我在父亲的小型砖块清洁公司做暑期工。",
+      "start": 1062.12,
+      "end": 1067.28,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I remember the harsh acid smell of the cleaning solution and the scraping sound of stiff iron brushes against rough brick.",
+      "translation": "我记得清洁溶液刺鼻的酸味，以及硬铁刷刮擦粗糙砖块的声音。",
+      "start": 1068.08,
+      "end": 1077.08,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It was tempting to hurry a job—just finish.",
+      "translation": "人们很容易想草草了事——赶紧完工就好。",
+      "start": 1077.92,
+      "end": 1081.2,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But anybody who worked for Thomas Kahoon had to meet his standards, and that included me.",
+      "translation": "但任何为Thomas Kahoon工作的人都必须达到他的标准，包括我在内。",
+      "start": 1081.86,
+      "end": 1088.48,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "If I messed up, he made me stay late until I got it right.",
+      "translation": "如果我搞砸了，他会让我加班到做对为止。",
+      "start": 1089.45,
+      "end": 1094.07,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "My father wasn't being mean.",
+      "translation": "我父亲并非刻薄。",
+      "start": 1094.79,
+      "end": 1097.07,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "He demanded the same of himself.",
+      "translation": "他对自己也有同样的要求。",
+      "start": 1097.55,
+      "end": 1099.29,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Every brick he cleaned on a house stood out like a red jewel in a white setting.",
+      "translation": "他在房子上清洁的每一块砖都像白色背景中的红色宝石一样醒目。",
+      "start": 1100.12,
+      "end": 1106.36,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It was his signature.",
+      "translation": "那是他的标志。",
+      "start": 1106.88,
+      "end": 1108.02,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In 1970, when I was 20, I got married and moved out of my parents' modest place into a housing project.",
+      "translation": "1970年，我20岁时结了婚，从父母简朴的住处搬到了一个住房项目区。",
+      "start": 1109.2,
+      "end": 1117.8,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Drugs and gang violence were just beginning to plague the projects.",
+      "translation": "毒品和帮派暴力刚开始困扰这些项目区。",
+      "start": 1118.48,
+      "end": 1123.06,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Some of my friends went to jail.",
+      "translation": "我的一些朋友进了监狱。",
+      "start": 1124.12,
+      "end": 1125.64,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Some were killed.",
+      "translation": "有些人被杀了。",
+      "start": 1126.28,
+      "end": 1127.28,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "My wife Verllen was 18 and nobody gave our marriage a chance.",
+      "translation": "我妻子Verllen当时18岁，没人看好我们的婚姻。",
+      "start": 1128.67,
+      "end": 1133.78,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But we believed in each other and our faith made us strong.",
+      "translation": "但我们彼此信任，我们的信念使我们坚强。",
+      "start": 1134.52,
+      "end": 1138.28,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "When we married, I worked as a stock clerk at Southwest Super Foods.",
+      "translation": "结婚时，我在Southwest Super Foods做库存管理员。",
+      "start": 1139.32,
+      "end": 1145.1,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It was hard, tedious work.",
+      "translation": "这是一份辛苦而乏味的工作。",
+      "start": 1145.1,
+      "end": 1147.2,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Each Friday night a truck came, with cases of food that had to be unloaded, priced, and placed on shelves.",
+      "translation": "每个周五晚上都有一辆卡车运来成箱的食品，必须卸货、标价并摆上货架。",
+      "start": 1148.04,
+      "end": 1155.08,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Most of the stock clerks tried to get Friday night off.",
+      "translation": "大多数库存管理员都试图在周五晚上请假。",
+      "start": 1155.84,
+      "end": 1159.04,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But I was always ready to work.",
+      "translation": "但我总是随时准备工作。",
+      "start": 1159.49,
+      "end": 1161.69,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "By Saturday morning, all the cans and jars in my aisle were replaced with the labels facing smartly out, like a line of soldiers on review.",
+      "translation": "到周六早上，我负责通道上的所有罐头和瓶子都摆放整齐，标签整齐地朝外，就像一排接受检阅的士兵。",
+      "start": 1162.51,
+      "end": 1171.85,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That was my signature.",
+      "translation": "那是我的标志。",
+      "start": 1172.77,
+      "end": 1174.19,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I took pride in the job nobody wanted.",
+      "translation": "我为这份没人想做的工作感到自豪。",
+      "start": 1174.91,
+      "end": 1177.51,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Passage 3.",
+      "translation": "通行证3。",
+      "start": 1241.8,
+      "end": 1242.66
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Watching more than three hours of television a day doubles memory loss in older people.",
+      "translation": "每天看三小时以上的电视,使老年人的记忆丧失加倍。",
+      "start": 1243.42,
+      "end": 1249.2
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Scientists at University College London used memory and fluency tests on the same group of people six years apart.",
+      "translation": "伦敦大学学院的科学家们对同一组人进行了相隔六年的记忆力和语言流畅性测试。",
+      "start": 1252.48,
+      "end": 1261.88,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They found that those who watched on average less than three hours' television a day showed a decline of around four to five percent, while those who tended to watch more than three hours a day declined by an average of eight to ten percent.",
+      "translation": "他们发现，平均每天看电视少于三小时的人记忆力下降了约百分之四到五，而那些每天看电视超过三小时的人平均下降了百分之八到十。",
+      "start": 1262.83,
+      "end": 1278.19,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The research team say they believe the \"alert-but-passive\" nature of television watching may be creating stress on the mind which contributes to memory decline.",
+      "translation": "研究团队表示，他们认为看电视\"警觉但被动\"的特性可能会对大脑造成压力，从而导致记忆力下降。",
+      "start": 1279.59,
+      "end": 1289.75,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Older people who watch more television are also less likely to undertake activities known to preserve mental functioning such as reading, or interactive screen-based pursuits such as using the Internet or playing video games.",
+      "translation": "看电视较多的老年人也不太可能从事已知能保持心智功能的活动，如阅读，或基于屏幕的互动活动，如使用互联网或玩电子游戏。",
+      "start": 1290.86,
+      "end": 1306.1,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The researchers say that television viewing may be a risk factor for Alzheimer's disease, but more research is needed to establish a link.",
+      "translation": "研究人员表示,看电视可能是阿尔茨海默病的一个风险因素，但需要更多研究来建立这种联系。",
+      "start": 1307.41,
+      "end": 1315.95,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "While watching television may have educational benefits and relaxation benefits, the researchers advise that adults over the age of 50 should try and ensure that television viewing is balanced with other contrasting activities.",
+      "translation": "虽然看电视可能具有教育和放松的益处，但研究人员建议50岁以上的成年人应该努力确保看电视与其他对比性活动保持平衡。",
+      "start": 1316.97,
+      "end": 1331.18,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "If you're concerned that the amount of television you're watching could have a negative impact on your health, you should limit the amount of TV you watch each day and undertake some healthy hobbies.",
+      "translation": "如果你担心观看电视的时间可能对健康产生负面影响，你应该限制每天看电视的时间并从事一些健康的爱好。",
+      "start": 1332.19,
+      "end": 1342.69,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This is the end of listening comprehension.",
+      "translation": "听觉理解的结束",
+      "start": 1437.58,
+      "end": 1439.78
+    }
+  ],
+  "translation_sources": [
+    "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/",
+    "Sams200/opus-mt-en-zh (unmatched sentences only)"
+  ]
+}

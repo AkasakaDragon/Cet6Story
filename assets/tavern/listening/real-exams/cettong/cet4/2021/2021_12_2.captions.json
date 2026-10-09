@@ -1,0 +1,1757 @@
+{
+  "id": "cet4-2021_12_2",
+  "title": "2021年12月 第2套",
+  "level": 4,
+  "source_url": "https://www.cettong.cn/library/cet4/2021_12_2",
+  "material_source": "https://117.72.200.49/#/library",
+  "audio": "assets/tavern/listening/real-exams/cettong/cet4/2021/2021_12_2.exampace-playback.mp3",
+  "caption_kind": "published_material_with_auxiliary_timing_and_translation",
+  "caption_models": [
+    "Systran/faster-whisper-base.en",
+    "Sams200/opus-mt-en-zh"
+  ],
+  "lines": [
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "A 22-year-old Chinese woman who suffered from a persistent cough was shocked to learn that she had a piece of chicken bone lodged in her lung.",
+      "translation": "一名22岁的中国女性因持续咳嗽而震惊地得知,她的肺部卡着一块鸡骨头。",
+      "start": 43.49,
+      "end": 52.55,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The unnamed woman, from the province of Shandong, started to have coughing problems when she was 7 or 8 years old.",
+      "translation": "这名来自山东省的未透露姓名的女性,在7岁或8岁时开始出现咳嗽问题。",
+      "start": 53.33,
+      "end": 60.0,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "For 14 years, she made numerous hospital visits.",
+      "translation": "14年来,她多次前往医院就诊。",
+      "start": 60.6,
+      "end": 64.38,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "However, no doctor could identify any problem.",
+      "translation": "然而,没有一位医生能够发现任何问题。",
+      "start": 65.16,
+      "end": 68.7,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Her uncontrollable coughing was a mystery.",
+      "translation": "她无法控制的咳嗽一直是个谜。",
+      "start": 69.38,
+      "end": 71.56,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Finally, the woman got a full body scan at a hospital in the city of Qingdao.",
+      "translation": "最终,这名女性在青岛市的一家医院进行了全身扫描。",
+      "start": 72.56,
+      "end": 77.74,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This special medical procedure revealed she had a chicken bone stuck in her lung.",
+      "translation": "这项特殊的医疗检查显示她的肺部卡着一块鸡骨头。",
+      "start": 77.74,
+      "end": 82.6,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Doctors performed surgery and removed the bone.",
+      "translation": "医生进行了手术并取出了骨头。",
+      "start": 83.13,
+      "end": 85.99,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The simple procedure went smoothly and the woman has recovered fully.",
+      "translation": "这个简单的手术进行得很顺利,女性已完全康复。",
+      "start": 86.69,
+      "end": 91.05,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "With the bone finally removed from her lung, the woman is very happy that she no longer suffers from that annoying cough.",
+      "translation": "随着骨头最终从肺部取出,这名女性非常高兴,因为她不再遭受那恼人的咳嗽困扰。",
+      "start": 91.93,
+      "end": 98.81,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "How was the woman's problem eventually solved?",
+      "translation": "该妇女的问题最终是如何解决的?",
+      "start": 126.29,
+      "end": 129.53
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "News Report 2 A white sheep named Prickles that ran away from an Australian farm during the 2013 bushfires recently returned home.",
+      "translation": "一位白羊叫Prickles, 最近在2013年的野火中逃离澳大利亚农场,",
+      "start": 145.14,
+      "end": 147.133
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "A white sheep named Prickles that ran away from an Australian farm during the 2013 bushfires, recently returned home.",
+      "translation": "一只名叫Prickles的白羊在2013年丛林大火期间从澳大利亚一个农场逃跑,最近回家了。",
+      "start": 147.133,
+      "end": 156.5,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "According to farmer Alice Gray, Prickles was only a lamb when she ran away.",
+      "translation": "据农场主Alice Gray说,Prickles逃跑时还只是一只羊羔。",
+      "start": 157.4,
+      "end": 162.38,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The bushfires that hit the area back then destroyed a large part of her family's massive property.",
+      "translation": "当时袭击该地区的丛林大火摧毁了她家大片地产的很大一部分。",
+      "start": 163.1,
+      "end": 169.82,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They thought Prickles had died in the fire.",
+      "translation": "他们以为Prickles在火灾中丧生了。",
+      "start": 170.4,
+      "end": 172.82,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But instead, the young sheep escaped into a 200-acre forest near the farm.",
+      "translation": "但实际上,这只小羊逃进了农场附近一片200英亩的森林。",
+      "start": 173.42,
+      "end": 179.36,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Once the fires were over, the family had to fix the damage done to the farm, as it was such a large property.",
+      "translation": "火灾结束后,由于地产面积很大,这家人不得不修复农场遭受的损坏。",
+      "start": 180.06,
+      "end": 187.44,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This included rebuilding about 50 kilometers of fencing.",
+      "translation": "这包括重建约50公里的围栏。",
+      "start": 187.98,
+      "end": 191.94,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It was this huge fencing that prevented Prickles from finding her way back.",
+      "translation": "正是这道巨大的围栏阻止了Prickles找到回家的路。",
+      "start": 192.76,
+      "end": 198.08,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Over the years, the family spotted her a few times.",
+      "translation": "多年来,这家人看到过她几次。",
+      "start": 198.7,
+      "end": 202.16,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They even recorded her with cameras installed to monitor deer activity.",
+      "translation": "他们甚至用安装来监测鹿类活动的相机拍到过她。",
+      "start": 202.86,
+      "end": 207.04,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But while they knew Prickles was alive, they couldn't find her and never expected her to return by herself.",
+      "translation": "但尽管他们知道Prickles还活着,却找不到她,也从未料到她会自己回来。",
+      "start": 207.92,
+      "end": 214.7,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Seven years later, they were proven wrong.",
+      "translation": "七年后,事实证明他们错了。",
+      "start": 216.06,
+      "end": 218.48,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions three and four are based on the news report you have just heard.",
+      "translation": "问题三和问题四基于你刚刚听到的新闻报导。",
+      "start": 219.37,
+      "end": 223.65
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question three.",
+      "translation": "问题三。",
+      "start": 224.45,
+      "end": 225.17
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the news reports say about the white sheep?",
+      "translation": "新闻报导里说白羊是什么?",
+      "start": 225.89,
+      "end": 228.83
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Prickles.",
+      "translation": "刺刀,你这混蛋!",
+      "start": 229.15,
+      "end": 229.65
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 4.",
+      "translation": "问题4",
+      "start": 244.89,
+      "end": 245.77
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What did the family do after the bushfires?",
+      "translation": "野火之后家人做了什么?",
+      "start": 246.21,
+      "end": 248.81
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "News report 3.",
+      "translation": "《新闻报告3》。",
+      "start": 264.34,
+      "end": 265.42
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Tons of gold have fallen out of the sky in Russia after a cargo plane malfunctioned in mid-air this morning.",
+      "translation": "今天上午，一架货机在空中发生故障后，数吨黄金从俄罗斯天空坠落。",
+      "start": 266.1,
+      "end": 273.3,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The aircraft was carrying 265 million pounds worth of gold and diamonds, when the door flew open—sending the precious metal back to earth.",
+      "translation": "这架飞机载有价值2.65亿英镑的黄金和钻石，当舱门突然打开时，贵重金属被抛回地面。",
+      "start": 273.92,
+      "end": 284.44,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "According to the official news agency, Russian authorities have recovered more than 170 gold bars weighing 20 kilograms each.",
+      "translation": "据官方通讯社报道，俄罗斯当局已经回收了超过170根金条，每根重20公斤。",
+      "start": 285.14,
+      "end": 294.4,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The plane was traveling from Yakutsk Airport in a major diamond-producing region to the city Krasnoyarsk in Siberia.",
+      "translation": "该飞机从主要钻石产区的Yakutsk机场飞往西伯利亚的Krasnoyarsk市。",
+      "start": 295.24,
+      "end": 303.98,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "However, the aircraft made an emergency landing in Magan after it began losing some of its valuable cargo.",
+      "translation": "然而，这架飞机在开始丢失部分贵重货物后，在Magan紧急降落。",
+      "start": 304.98,
+      "end": 311.96,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Reports suggest some bars of gold were scattered up to 15 miles away from the airport.",
+      "translation": "报道称，一些金条散落在距离机场15英里远的地方。",
+      "start": 312.86,
+      "end": 318.4,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Nine tons of gold on plane AN-12 belonged to a goldmine company.",
+      "translation": "AN-12飞机上的9吨黄金属于一家金矿公司。",
+      "start": 319.3,
+      "end": 324.38,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Police have sealed off the runway, and say it is unclear if it was an accident or an attempted robbery.",
+      "translation": "警方已经封锁了跑道，并表示尚不清楚这是一起事故还是抢劫未遂。",
+      "start": 325.02,
+      "end": 330.6,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Technical engineers who worked on the plane prior to take-off are reportedly going to be questioned by the police.",
+      "translation": "据报道，起飞前在飞机上工作的技术工程师将接受警方问询。",
+      "start": 331.54,
+      "end": 337.44,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions 5-7 are based on the news report you have just heard.",
+      "translation": "问题5 -7基于你刚刚听到的新闻报导",
+      "start": 338.24,
+      "end": 343.16
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 5.",
+      "translation": "问题5",
+      "start": 344.08,
+      "end": 344.86
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What is the news report mainly about?",
+      "translation": "新闻报道主要讲什么?",
+      "start": 345.42,
+      "end": 348.08
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 6.",
+      "translation": "问题6",
+      "start": 363.55,
+      "end": 364.39
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What do the aircraft do when the incident happened?",
+      "translation": "飞机在事件发生时做什么?",
+      "start": 365.11,
+      "end": 368.59
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 7.",
+      "translation": "问题7",
+      "start": 384.18,
+      "end": 385.04
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the news report say about the technical engineers who worked on the plane before takeoff?",
+      "translation": "新闻报道中说 起飞前在飞机上工作的技术人员是什么?",
+      "start": 385.58,
+      "end": 392.14
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Section B.",
+      "translation": "B节。",
+      "start": 408.03,
+      "end": 408.69
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Directions.",
+      "translation": "方向",
+      "start": 409.23,
+      "end": 409.59
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In this section, you will hear two long conversations.",
+      "translation": "在本节中,你们将听到两次长长的谈话。",
+      "start": 410.71,
+      "end": 414.07
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "At the end of each conversation,",
+      "translation": "每次谈话结束时",
+      "start": 415.11,
+      "end": 416.53
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You will hear four questions.",
+      "translation": "你会听到四个问题",
+      "start": 417.29,
+      "end": 419.01
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Both the conversation and the questions will be spoken only once.",
+      "translation": "谈话和问题只谈一次",
+      "start": 419.77,
+      "end": 423.57
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "After you hear a question, you must choose the best answer from the four choices marked A, B,",
+      "translation": "在听到一个问题后,你必须从四个选择中选择最好的答案,四个选择标注A,B,",
+      "start": 424.33,
+      "end": 431.51
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "C and D.",
+      "translation": "C和D。",
+      "start": 432.11,
+      "end": 433.07
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Then mark the corresponding letter on answer sheet one with a single line through the center.",
+      "translation": "然后在答题单上用一条线标出相应的字母,通过中心。",
+      "start": 433.77,
+      "end": 439.33
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Conversation one.",
+      "translation": "交谈之一。",
+      "start": 440.03,
+      "end": 441.11
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Hello, you're through to customer service.",
+      "translation": "您好,您已接通客户服务部。",
+      "start": 441.89,
+      "end": 444.07,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This is Michael speaking.",
+      "translation": "我是Michael。",
+      "start": 444.55,
+      "end": 445.39,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Before we continue, I just want to make you aware that this call is being recorded and may be used in the future for training purposes.",
+      "translation": "在我们继续之前,我想提醒您,本通话正在录音,未来可能用于培训目的。",
+      "start": 445.88,
+      "end": 453.34,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What can I help you with today?",
+      "translation": "请问有什么可以帮您的?",
+      "start": 454.16,
+      "end": 455.56,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Hi, my name is Jean Seimon.",
+      "translation": "您好,我叫Jean Seimon。",
+      "start": 456.08,
+      "end": 458.94,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I recently bought an office chair from your company, but I returned it about a week ago.",
+      "translation": "我最近从贵公司买了一把办公椅,但大约一周前退了货。",
+      "start": 458.94,
+      "end": 464.08,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'm just calling to inquire when I will be able to get my money back.",
+      "translation": "我打电话是想询问什么时候能拿到退款。",
+      "start": 464.58,
+      "end": 468.66,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It says on your website that your company will pay back the money within three working days of you receiving the returned item.",
+      "translation": "贵公司网站上说,在收到退货后三个工作日内会退款。",
+      "start": 469.1,
+      "end": 477.72,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But it's been five working days and I haven't received anything.",
+      "translation": "但已经过了五个工作日了,我还没收到任何款项。",
+      "start": 478.4,
+      "end": 482.02,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'm sorry to hear that, Miss Seimon.",
+      "translation": "很抱歉听到这个情况,Seimon女士。",
+      "start": 482.76,
+      "end": 485.32,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What's your customer reference number, please?",
+      "translation": "请问您的客户编号是多少?",
+      "start": 485.32,
+      "end": 487.16,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's 389460.",
+      "translation": "是389460。",
+      "start": 487.82,
+      "end": 491.64,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Okay, 389460.",
+      "translation": "好的,389460。",
+      "start": 491.64,
+      "end": 494.79,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'm just looking on the system here.",
+      "translation": "我这就在系统里查一下。",
+      "start": 494.79,
+      "end": 496.71,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And according to our records, the chair you returned was received by our warehouse on Friday morning.",
+      "translation": "根据我们的记录,您退回的椅子是周五上午被我们仓库收到的。",
+      "start": 496.71,
+      "end": 502.53,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The payment was made on Wednesday.",
+      "translation": "退款是在周三处理的。",
+      "start": 503.11,
+      "end": 504.85,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But this seems to be a problem with your card number.",
+      "translation": "但您的卡号似乎有问题。",
+      "start": 504.85,
+      "end": 508.73,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "My card number?",
+      "translation": "我的卡片号码?",
+      "start": 509.23,
+      "end": 510.19
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Oh, maybe it has something to do with my new card.",
+      "translation": "哦,也许这跟我的新名片有关",
+      "start": 510.89,
+      "end": 514.07
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It was sent to me on Tuesday.",
+      "translation": "周二寄给我的",
+      "start": 514.75,
+      "end": 516.19
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Maybe the bank canceled my old one before you've made the payment.",
+      "translation": "也许银行在你付款之前就取消了我以前的一次",
+      "start": 517.17,
+      "end": 520.49
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Well, you'll need to update your card details directly on our website.",
+      "translation": "嗯,你需要更新 您的卡的细节 直接在我们的网站上。",
+      "start": 521.02,
+      "end": 525.04
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Just make sure you're logged in.",
+      "translation": "确保你被登入",
+      "start": 525.74,
+      "end": 527.32
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And then under the description of your personal information, you should see an option for updating payment methods.",
+      "translation": "然后根据个人资料的描述,你应该看到更新支付方法的选项。",
+      "start": 527.32,
+      "end": 534.12
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I am logged in, and I'll give that a go.",
+      "translation": "我已经登录了,我试试看。",
+      "start": 534.8,
+      "end": 537.7,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'll make a note here on the system for you, so that the payment will be made tomorrow morning.",
+      "translation": "我会在系统里给您做个备注,这样明天上午就能给您退款。",
+      "start": 538.28,
+      "end": 543.08,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Thank you very much.",
+      "translation": "非常感谢。",
+      "start": 543.66,
+      "end": 544.98,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions 8 to 11 are based on the conversation you have just heard.",
+      "translation": "问题8至11 是基于你刚才听到的谈话",
+      "start": 545.56,
+      "end": 549.62
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 8.",
+      "translation": "问题8",
+      "start": 550.07,
+      "end": 550.91
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Why does the man have his conversation with the woman recorded?",
+      "translation": "为什么男人和女人的谈话录音?",
+      "start": 551.41,
+      "end": 555.17
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 9.",
+      "translation": "问题9",
+      "start": 570.76,
+      "end": 571.64
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What is the woman's purpose of calling the furniture company?",
+      "translation": "女人打电话给家具公司的目的是什么?",
+      "start": 572.14,
+      "end": 575.44
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 10.",
+      "translation": "问题10。",
+      "start": 590.79,
+      "end": 591.85
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the woman say about her bank card?",
+      "translation": "那女人怎么说她的银行卡?",
+      "start": 592.29,
+      "end": 595.39
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 11.",
+      "translation": "问题11。",
+      "start": 610.88,
+      "end": 611.74
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the man advise the woman to do?",
+      "translation": "男人建议女人做什么?",
+      "start": 612.22,
+      "end": 614.96
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Conversation 2.",
+      "translation": "对话2。",
+      "start": 630.22,
+      "end": 631.54
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'm getting a bit hungry.",
+      "translation": "我有点饿了。",
+      "start": 632.04,
+      "end": 633.58,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Yes, me too.",
+      "translation": "是啊,我也是。",
+      "start": 634.2,
+      "end": 635.3,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'm starving.",
+      "translation": "我快饿死了。",
+      "start": 635.82,
+      "end": 636.48,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Are you going to prepare a meal for us?",
+      "translation": "你要给我们做饭吗?",
+      "start": 637.18,
+      "end": 639.3,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "No, sorry, I'm actually pretty worn out.",
+      "translation": "不,抱歉,我实在太累了。",
+      "start": 639.74,
+      "end": 642.98,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Let's just go out somewhere close to eat.",
+      "translation": "我们还是出去找个近点的地方吃吧。",
+      "start": 643.58,
+      "end": 645.94,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Well, I think we should stay in and save some cash.",
+      "translation": "嗯,我觉得我们应该待在家里省点钱。",
+      "start": 646.42,
+      "end": 650.22,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Can we get a meal delivered?",
+      "translation": "我们可以叫外卖吗?",
+      "start": 650.92,
+      "end": 652.26,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Yeah, great.",
+      "translation": "好啊,太好了。",
+      "start": 653.08,
+      "end": 653.92,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'll use that food delivery app on my phone.",
+      "translation": "我用手机上的外卖app点。",
+      "start": 654.62,
+      "end": 657.18,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What do you want, fried chicken, hamburgers, or fish and chips?",
+      "translation": "你想吃什么,炸鸡、汉堡还是炸鱼薯条?",
+      "start": 657.88,
+      "end": 662.86,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Oh, can we stay away from the junk food?",
+      "translation": "哦,我们能远离垃圾食品吗?",
+      "start": 663.44,
+      "end": 665.88
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "How about something healthy?",
+      "translation": "来点健康的东西怎么样?",
+      "start": 666.38,
+      "end": 667.66
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Okay, well, there's a place that does salads.",
+      "translation": "好吧,有家店做沙拉的。",
+      "start": 668.56,
+      "end": 672.52,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Let me have a look at that.",
+      "translation": "让我看看。",
+      "start": 673.3,
+      "end": 674.76,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Yeah, that looks delicious.",
+      "translation": "嗯,看起来挺好吃的。",
+      "start": 675.26,
+      "end": 676.88,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But to be honest, I'd prefer something hot, not cold.",
+      "translation": "但说实话,我更想吃点热的,不要凉的。",
+      "start": 677.7,
+      "end": 681.84,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "How about Indian food?",
+      "translation": "印度菜怎么样?",
+      "start": 682.46,
+      "end": 683.86,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That's not the kind of hot I mean.",
+      "translation": "我不是说那种热的",
+      "start": 684.46,
+      "end": 686.36
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'm just not a fan of sauces.",
+      "translation": "我只是不喜欢调味酱",
+      "start": 686.94,
+      "end": 688.6
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That made me sweat and cry.",
+      "translation": "这使我流汗哭泣",
+      "start": 688.6,
+      "end": 690.5
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I need something mild.",
+      "translation": "我需要些温和的东西",
+      "start": 691.24,
+      "end": 692.32
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Okay.",
+      "translation": "好吧。 好吧。 好吧。",
+      "start": 693.06,
+      "end": 693.66
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So would you consider Mexican?",
+      "translation": "你会考虑墨西哥人吗?",
+      "start": 694.3,
+      "end": 697.2
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Oh no, sorry.",
+      "translation": "哦,对不起。",
+      "start": 697.78,
+      "end": 698.78
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "There's also very hot pepper in that.",
+      "translation": "里面还有很辣的辣椒",
+      "start": 699.02,
+      "end": 700.82
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Would you like some Italian food, perhaps?",
+      "translation": "你想吃意大利菜吗?",
+      "start": 701.32,
+      "end": 703.82
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's a bit heavy, but it's great food for a cold night like this.",
+      "translation": "有点重,但这样寒冷的夜晚吃起来很好吃",
+      "start": 704.5,
+      "end": 708.84
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Pizza?",
+      "translation": "比萨?",
+      "start": 709.28,
+      "end": 709.72
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Spaghetti with creamy sauce?",
+      "translation": "奶油酱的意大利面?",
+      "start": 710.66,
+      "end": 712.12
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I know it's really tasty and great comfort food, but it's too fattening for me.",
+      "translation": "我知道它真的很美味 和伟大的舒适的食物, 但对我来说太肥了。",
+      "start": 712.84,
+      "end": 718.14
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'm trying to keep a slim figure, you know.",
+      "translation": "我想保持一个微弱的数字,你知道的。",
+      "start": 718.58,
+      "end": 720.9
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Oh, you're really difficult to please.",
+      "translation": "哦,你真是太难伺候了。",
+      "start": 721.52,
+      "end": 724.0,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Well, there's a nice Chinese restaurant that delivers.",
+      "translation": "嗯,有家不错的中餐馆可以送外卖。",
+      "start": 724.8,
+      "end": 727.76,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Yes, I love Chinese food.",
+      "translation": "好啊,我喜欢中国菜。",
+      "start": 728.26,
+      "end": 730.22,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Let me see.",
+      "translation": "让我看看。",
+      "start": 730.76,
+      "end": 731.38,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Oh, it's 15 kilometers away.",
+      "translation": "哦,有15公里远。",
+      "start": 732.02,
+      "end": 734.7,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That's a bit too far away.",
+      "translation": "那有点太远了。",
+      "start": 735.4,
+      "end": 737.04,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Do you feel like Vietnamese food then?",
+      "translation": "那越南菜你觉得怎么样?",
+      "start": 737.7,
+      "end": 739.52,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Yeah, awesome.",
+      "translation": "好啊,太棒了。",
+      "start": 739.92,
+      "end": 740.76,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's healthy, and we can afford it.",
+      "translation": "健康,而且我们也吃得起。",
+      "start": 741.42,
+      "end": 743.48,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Great.",
+      "translation": "太好了。",
+      "start": 744.08,
+      "end": 744.3,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Let's order Vietnamese right away.",
+      "translation": "我们马上点越南菜吧。",
+      "start": 745.08,
+      "end": 747.36,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions 12-15 are based on the conversation you have just heard.",
+      "translation": "问题12 -15是基于你刚才听到的谈话",
+      "start": 747.96,
+      "end": 753.34
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "12.",
+      "translation": "12. 十二、结 论",
+      "start": 754.38,
+      "end": 754.88
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Why isn't the man going to cook?",
+      "translation": "为什么他不做饭?",
+      "start": 755.52,
+      "end": 757.34
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "13.",
+      "translation": "13 号",
+      "start": 773.13,
+      "end": 773.87
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the man say he'll do on his phone?",
+      "translation": "那个人在电话上会说什么?",
+      "start": 774.69,
+      "end": 777.75
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 14.",
+      "translation": "问题14。",
+      "start": 793.4,
+      "end": 794.3
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the woman think of Indian food?",
+      "translation": "女人对印度食物有何看法?",
+      "start": 795.0,
+      "end": 797.52
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "15.",
+      "translation": "15. 15个",
+      "start": 813.43,
+      "end": 814.27
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the man think of the woman?",
+      "translation": "男人对女人有什么看法?",
+      "start": 814.91,
+      "end": 817.21
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Section C.",
+      "translation": "C节。",
+      "start": 832.84,
+      "end": 833.58
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In this section, you will hear three passages.",
+      "translation": "在本节中,你们将听到三个段落。",
+      "start": 835.24,
+      "end": 838.42
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "At the end of each passage, you will hear three or four questions.",
+      "translation": "在每一段的结尾,你将听到三四个问题。",
+      "start": 839.14,
+      "end": 843.24
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Both the passage and the questions will be spoken only once.",
+      "translation": "发言的通过和提问将只讲一次。",
+      "start": 843.9,
+      "end": 847.76
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "After you hear a question, you must choose the best answer from the four choices marked A, B, C, and D.",
+      "translation": "在听到一个问题后,你必须从四个选择中选择最好的答案,这四个选择分别是A、B、C和D。",
+      "start": 848.48,
+      "end": 857.34
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Then mark the corresponding letter on answer sheet one with a single line through the center.",
+      "translation": "然后在答题单上用一条线标出相应的字母,通过中心。",
+      "start": 857.96,
+      "end": 863.82
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Passage 1 A new study carried out by the University of Lincoln has found a link between the personalities of cat owners and the behaviour and well-being of their cats.",
+      "translation": "1 由林肯大学进行的一项新研究发现,猫主的个性与其猫的行为和福祉之间有联系。",
+      "start": 864.58,
+      "end": 866.2
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "A new study carried out by the University of Lincoln has found a link between the personalities of cat owners and the behaviour and wellbeing of their cats.",
+      "translation": "林肯大学开展的一项新研究发现,猫主人的性格与其猫的行为和健康状况之间存在联系。",
+      "start": 866.2,
+      "end": 876.1,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The findings suggest that, just as a parent's personality can affect the personality of a child, the same is true for a cat and its owner.",
+      "translation": "研究结果表明,正如父母的性格会影响孩子的性格一样,猫和其主人之间也是如此。",
+      "start": 877.2,
+      "end": 886.74,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Owners—defined as individuals with high levels of anxiety, fear, anger, depression and loneliness—were more likely to have cats with behavioural issues.",
+      "translation": "那些被定义为具有高度焦虑、恐惧、愤怒、抑郁和孤独感的主人,更有可能养出有行为问题的猫。",
+      "start": 886.74,
+      "end": 899.07,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Such cats displayed more aggressive and anxious behavioural styles as well as more stress-related sickness.",
+      "translation": "这些猫表现出更具攻击性和焦虑的行为方式,以及更多与压力相关的疾病。",
+      "start": 900.05,
+      "end": 906.51,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They were also more likely to have an ongoing medical condition and be overweight.",
+      "translation": "它们也更有可能患有持续性疾病和超重。",
+      "start": 907.35,
+      "end": 911.99,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The research also found that mentally well-adjusted owners had calmer, happier and healthier cats.",
+      "translation": "研究还发现,心理健康状况良好的主人养的猫更平静、更快乐、更健康。",
+      "start": 913.05,
+      "end": 920.23,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The researchers explained that \"Many owners regard their pets as a family member, and form close social bonds with them.\" The majority of owners want to provide the best care for their pets and it's therefore possible that pets could be affected by the way their owners interact with and manage them.",
+      "translation": "研究人员解释道,“许多所有者认为他们的宠物是家庭成员,并且与他们建立了密切的社会联系。 ”大多数所有者都希望为宠物提供最好的照料,因此,宠物有可能受到其所有者与宠物互动和管理的方式的影响。",
+      "start": 920.96,
+      "end": 941.7
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The study highlights an important relationship between our personalities and the wellbeing of our pets.",
+      "translation": "这项研究突出了我们个性与宠物福利之间的重要关系。",
+      "start": 942.24,
+      "end": 948.62
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Further research is needed to investigate the causal nature of this relationship and to look at how owners' personalities are directly influencing their pets' behaviour and wellbeing.",
+      "translation": "需要进一步研究,调查这种关系的因果关系,并研究业主的个性如何直接影响其宠物的行为和福祉。",
+      "start": 949.55,
+      "end": 963.72
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It is possible that the wellbeing of pets is driven by the underlying nature of the owner, not simply by their conscious decisions and behaviours.",
+      "translation": "宠物的健康状况可能是由主人的内在本质驱动的,而不仅仅是由他们有意识的决定和行为驱动的。",
+      "start": 963.72,
+      "end": 972.84,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions 16 to 18 are based on the passage you have just heard.",
+      "translation": "问题16至18是根据你刚才听到的段落提出的。",
+      "start": 973.75,
+      "end": 979.05
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 16 What do we learn from the new study by the University of Lincoln?",
+      "translation": "问题16:从林肯大学的新研究中我们学到了什么?",
+      "start": 979.61,
+      "end": 985.61
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "17 What does the passage say most pet owners want to do?",
+      "translation": "17号通道上说 大部分宠物主都想做什么?",
+      "start": 1001.29,
+      "end": 1006.53
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 18 What does the passage say is still needed to understand the effects of owners' personalities on their pets?",
+      "translation": "问题18:为了了解业主的性格对其宠物的影响,还需要用什么段落来说明?",
+      "start": 1021.95,
+      "end": 1030.53
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "-60 minute run can add 7 hours to your life.",
+      "translation": "-60分钟跑步能给你的生活增加7小时",
+      "start": 1047.09,
+      "end": 1048.133
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "\"One 60-minute run can add seven hours to your life.\" This was a claim made by The Times last week.",
+      "translation": "\"一次60分钟的跑程可以给你的生活增加7小时\" 这是《时报》上周的断言",
+      "start": 1048.133,
+      "end": 1055.27
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The claim was based on a new review of studies about the effects of running.",
+      "translation": "索赔的依据是对运行效果研究的新审查。",
+      "start": 1055.93,
+      "end": 1060.43
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The review concluded that on average runners live three years longer than non-runners and that running does more to extend life than any other form of exercise.",
+      "translation": "审查得出的结论是,平均而言,跑者比非跑者活3年,跑者比任何其他形式的锻炼更能延长寿命。",
+      "start": 1061.25,
+      "end": 1072.65
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But there's more to running than its health benefits.",
+      "translation": "但是除了健康利益之外,还有更多的事要做",
+      "start": 1073.79,
+      "end": 1076.13
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Research published in recent years has shown that running changes your brain and mind in some fascinating ways, from increasing your brain function to regulating your emotions.",
+      "translation": "近些年来发表的研究结果表明 运行会改变你的大脑和思想 以一些令人着迷的方式, 从提高你的大脑功能 到调控你的情绪。",
+      "start": 1076.87,
+      "end": 1089.07
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "However, the precise effects vary according to whether you engage in short, fast running or long-distance running.",
+      "translation": "然而,具体效果因您是从事短跑、快跑还是长途跑而异。",
+      "start": 1090.14,
+      "end": 1098.56
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "For example, in one study, researchers compared participants' ability to learn new words after several minutes of intense running and after 40 minutes of gentle running.",
+      "translation": "例如,在一项研究中,研究人员比较了参与者在几分钟高强度跑步后和40分钟温和跑步后学习新单词的能力。",
+      "start": 1099.24,
+      "end": 1111.61,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Participants were able to learn 20 percent faster after the intense running and they showed a superior memory when tested again a week later.",
+      "translation": "参与者在高强度跑步后学习速度提高了20%,并且在一周后再次测试时表现出更优异的记忆力。",
+      "start": 1112.11,
+      "end": 1122.21,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In another study, researchers asked volunteers to jog for 30 minutes and then showed them clips from a sad movie.",
+      "translation": "在另一项研究中,研究人员要求志愿者慢跑30分钟,然后向他们播放悲伤电影的片段。",
+      "start": 1123.22,
+      "end": 1131.08,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Participants who usually struggled to handle negative emotions were more intensely affected by the sad clips, just as you'd expect.",
+      "translation": "通常难以处理负面情绪的参与者受到悲伤片段的影响更为强烈,正如你所预期的那样。",
+      "start": 1132.02,
+      "end": 1140.36,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But crucially, this was less so if they had completed the 30-minute jog.",
+      "translation": "但关键的是,如果他们完成了30分钟的慢跑,这种影响会有所减轻。",
+      "start": 1141.44,
+      "end": 1146.1,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The researchers said moderate exercise appears to have helped those participants to be less vulnerable to the impact of the sad movie.",
+      "translation": "研究人员表示,适度运动似乎帮助这些参与者减少了对悲伤电影影响的脆弱性。",
+      "start": 1147.02,
+      "end": 1156.2,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What did the new review of studies claim?",
+      "translation": "新的研究审查要求赔偿什么?",
+      "start": 1163.87,
+      "end": 1166.51
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 20.",
+      "translation": "问题20。",
+      "start": 1182.0,
+      "end": 1182.92
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What is one effect that running has on people according to recent research?",
+      "translation": "根据最近的研究 跑步对人们有什么影响?",
+      "start": 1183.76,
+      "end": 1188.92
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 21.",
+      "translation": "问题21",
+      "start": 1204.38,
+      "end": 1205.48
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What did another study find about the participants after they had a 30-minute jog?",
+      "translation": "另一项研究发现,学员们在慢跑30分钟后有何发现?",
+      "start": 1206.24,
+      "end": 1212.44
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Passage 3.",
+      "translation": "通行证3。",
+      "start": 1227.99,
+      "end": 1228.75
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Welcome to the tour of the Hill House.",
+      "translation": "欢迎参观Hill House。",
+      "start": 1229.75,
+      "end": 1232.47,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This house built in 1904 is one of the most well-known works of Charles Hill, the famous architect.",
+      "translation": "这座建于1904年的房子是著名建筑师Charles Hill最知名的作品之一。",
+      "start": 1232.94,
+      "end": 1240.2,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It was designed and built for a local entrepreneur and his family.",
+      "translation": "它是为一位当地企业家及其家人设计和建造的。",
+      "start": 1240.2,
+      "end": 1244.92,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Before starting the tour, let me give you a brief introduction about the design of this amazing building.",
+      "translation": "在开始参观之前,让我简要介绍一下这座令人惊叹的建筑的设计。",
+      "start": 1245.66,
+      "end": 1252.16,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Prior to beginning his design, the architect spent some time in the client's old home, observing their life and studying their habits.",
+      "translation": "在开始设计之前,建筑师在客户的老房子里待了一段时间,观察他们的生活并研究他们的习惯。",
+      "start": 1252.74,
+      "end": 1261.6,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This meant that he could design the house according to the needs of the family.",
+      "translation": "这意味着他可以根据这个家庭的需求来设计房子。",
+      "start": 1262.24,
+      "end": 1266.56,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The client's main desire was to have a home with the unique design, so the architect was given complete freedom.",
+      "translation": "客户的主要愿望是拥有一座设计独特的房子,因此建筑师获得了完全的自由。",
+      "start": 1267.4,
+      "end": 1274.98,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The building style is radically different from what was the fashion of the period.",
+      "translation": "这座建筑的风格与当时的流行风格截然不同。",
+      "start": 1275.76,
+      "end": 1280.44,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "At the time, most large homes were constructed of timber and brick.",
+      "translation": "那时,大多数大型住宅都是用木材和砖块建造的。",
+      "start": 1281.34,
+      "end": 1286.06,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This one, however, is made of concrete, a novel construction material in those days.",
+      "translation": "然而,这座房子是用混凝土建造的,这在当时是一种新颖的建筑材料。",
+      "start": 1286.78,
+      "end": 1292.21,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The interior of the house, including fittings and furniture, was also designed by the same person.",
+      "translation": "房子的内部,包括装置和家具,也是由同一个人设计的。",
+      "start": 1293.25,
+      "end": 1299.13,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Most of the furniture you will see is original and in good condition.",
+      "translation": "你将看到的大部分家具都是原件且保存完好。",
+      "start": 1299.75,
+      "end": 1303.43,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "However, those pieces in the children's bedrooms are copies built to the designs of the architect.",
+      "translation": "然而,儿童卧室里的那些家具是按照建筑师的设计建造的复制品。",
+      "start": 1304.13,
+      "end": 1310.89,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Fortunately, all the blueprints for both the building and its contents have been preserved, so we've been able to replace badly damaged furniture.",
+      "translation": "幸运的是,建筑及其内部陈设的所有蓝图都被保存了下来,所以我们能够更换严重损坏的家具。",
+      "start": 1312.05,
+      "end": 1320.42,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Let's begin our tour, starting from the rooms.",
+      "translation": "让我们开始参观吧,从这些房间开始。",
+      "start": 1321.5,
+      "end": 1324.02,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 25.",
+      "translation": "问题25。",
+      "start": 1391.31,
+      "end": 1392.59
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What do we learn about the pieces of furniture in the children's bedrooms?",
+      "translation": "孩子们卧室的家具呢?",
+      "start": 1393.51,
+      "end": 1397.87
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That's the end of listening comprehension.",
+      "translation": "听觉理解到此结束",
+      "start": 1413.51,
+      "end": 1415.67
+    }
+  ],
+  "translation_sources": [
+    "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/",
+    "Sams200/opus-mt-en-zh (unmatched sentences only)"
+  ]
+}

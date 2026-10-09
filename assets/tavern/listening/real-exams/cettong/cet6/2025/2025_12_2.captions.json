@@ -1,0 +1,1794 @@
+{
+  "id": "cet6-2025_12_2",
+  "title": "2025年12月 第2套",
+  "level": 6,
+  "source_url": "https://www.cettong.cn/library/cet6/2025_12_2",
+  "material_source": "https://117.72.200.49/#/library",
+  "audio": "assets/tavern/listening/real-exams/cettong/cet6/2025/2025_12_2.mp3",
+  "caption_kind": "published_material_with_auxiliary_timing_and_translation",
+  "caption_models": [
+    "Systran/faster-whisper-base.en",
+    "Sams200/opus-mt-en-zh"
+  ],
+  "lines": [
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I must say, I love our canteen!",
+      "translation": "我得说，我太喜欢我们的食堂了！",
+      "start": 38.95,
+      "end": 41.23,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's such a great meeting point!",
+      "translation": "那里真是个很棒的碰面地点！",
+      "start": 41.67,
+      "end": 43.03,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Yeah, it really is, both for students and teachers.",
+      "translation": "是啊，对学生和老师来说确实都是这样。",
+      "start": 43.51,
+      "end": 46.41,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Shame about the food.",
+      "translation": "就是食物有点可惜。",
+      "start": 47.43,
+      "end": 48.19,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What do you mean?",
+      "translation": "你这是什么意思？",
+      "start": 48.79,
+      "end": 49.37,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I think the food is fine.",
+      "translation": "我觉得食物还不错啊。",
+      "start": 49.77,
+      "end": 50.91,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I would say the food is just OK, but the prices are absurd.",
+      "translation": "我觉得食物只能算还行，但价格实在离谱。",
+      "start": 51.61,
+      "end": 55.45,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Don't you agree?",
+      "translation": "你不这么认为吗？",
+      "start": 55.81,
+      "end": 56.29,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I don't, actually.",
+      "translation": "其实我不这么认为。",
+      "start": 56.91,
+      "end": 58.03,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I personally think they're perfectly appropriate.",
+      "translation": "我个人觉得价格完全合理。",
+      "start": 58.53,
+      "end": 60.89,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "If it's overpriced, why does it get so frantically busy at lunchtimes?",
+      "translation": "如果价格过高，为什么午餐时间那里会忙得不可开交呢？",
+      "start": 61.59,
+      "end": 66.41,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Hmm, you make a good point.",
+      "translation": "嗯，你说得有道理。",
+      "start": 66.41,
+      "end": 68.33,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I guess a lot of it is good value, maybe even most of it.",
+      "translation": "我想其中很多食物都很划算，甚至大多数都很划算。",
+      "start": 69.09,
+      "end": 72.45,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "However, don't you think 6 bucks for a slice of apple crumble is beyond most students' budgets?",
+      "translation": "不过，你不觉得一片苹果酥要6块钱，超出了大多数学生的预算吗？",
+      "start": 72.91,
+      "end": 78.23,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Um, yes, desserts are overpriced.",
+      "translation": "嗯，是的，甜点确实定价过高。",
+      "start": 78.23,
+      "end": 81.21,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'll give you that.",
+      "translation": "这点我同意。",
+      "start": 81.65,
+      "end": 82.31,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "To be honest, I've forgotten about those, as I never eat them.",
+      "translation": "说实话，我都忘了那些甜点，因为我从来不吃。",
+      "start": 82.93,
+      "end": 86.31,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I never really crave sweet things or any fancy delicacies.",
+      "translation": "我从来不会特别想吃甜食或什么精致的美味。",
+      "start": 86.77,
+      "end": 90.45,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What I always go for is their scrambled eggs.",
+      "translation": "我每次都会选他们的炒鸡蛋。",
+      "start": 91.69,
+      "end": 94.45,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They have such a great variety.",
+      "translation": "他们提供的种类真多。",
+      "start": 94.97,
+      "end": 96.39,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Yeah, those are good.",
+      "translation": "是啊，那些炒鸡蛋很好吃。",
+      "start": 96.39,
+      "end": 99.0,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They also come out really fast.",
+      "translation": "而且出餐速度也很快。",
+      "start": 99.76,
+      "end": 101.24,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Actually, that's one of the best things about the canteen — the speed.",
+      "translation": "其实，这是食堂最棒的地方之一——速度。",
+      "start": 101.24,
+      "end": 105.8,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "If I fancy something more substantial than a sandwich, but I don't have much time for lunch, the university canteen is always a good option.",
+      "translation": "如果我想吃点比三明治更实在的东西，但午餐时间又不多，大学食堂总是个不错的选择。",
+      "start": 105.8,
+      "end": 114.14,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The kitchen staff work at such a brisk pace.",
+      "translation": "厨房工作人员干活特别利索。",
+      "start": 114.14,
+      "end": 117.24,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They really deserve to be complimented for it.",
+      "translation": "他们真的应该因此受到表扬。",
+      "start": 117.8,
+      "end": 119.86,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Totally, and it's such a great environment too.",
+      "translation": "完全同意，而且那里的环境也特别好。",
+      "start": 119.86,
+      "end": 123.14,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Like the entire building is beautiful.",
+      "translation": "整个建筑都很漂亮。",
+      "start": 123.74,
+      "end": 125.54,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It is very nice.",
+      "translation": "确实很不错。",
+      "start": 126.14,
+      "end": 127.0,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The massive glass windows make all the difference.",
+      "translation": "巨大的玻璃窗能改变一切",
+      "start": 127.44,
+      "end": 129.82
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I think they're so cool.",
+      "translation": "我觉得他们很酷",
+      "start": 130.34,
+      "end": 131.38
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Apparently, they did a massive renovation a few years ago.",
+      "translation": "显然,他们几年前做了大规模的翻修。",
+      "start": 131.92,
+      "end": 135.24
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It cost them a pretty penny.",
+      "translation": "花了他们一小分钱",
+      "start": 135.6,
+      "end": 136.74
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Yeah, I'm not surprised.",
+      "translation": "是啊，我一点也不意外。",
+      "start": 136.74,
+      "end": 138.0,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's a very versatile space, suitable both for eating and relaxing.",
+      "translation": "那是个用途非常灵活的空间，既适合吃饭，也适合放松。",
+      "start": 138.86,
+      "end": 142.88,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And for working.",
+      "translation": "也适合工作。",
+      "start": 143.5,
+      "end": 144.16,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You're right, working too.",
+      "translation": "你说得对，也适合工作。",
+      "start": 144.62,
+      "end": 146.02,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I've used my laptop there once or twice.",
+      "translation": "我在那里用过一两次笔记本电脑。",
+      "start": 146.64,
+      "end": 148.66,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And there's always a group project or meeting going on at the far end.",
+      "translation": "而且远端总是有小组项目或会议在进行。",
+      "start": 149.1,
+      "end": 152.56,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What did the canteen undergo a few years ago?",
+      "translation": "食堂几年前接受了什么?",
+      "start": 215.51,
+      "end": 218.49
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Conversation 2.",
+      "translation": "对话2。",
+      "start": 231.73,
+      "end": 233.05
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Hi, Tony, today we're talking about how managers can get along better with young people at work.",
+      "translation": "嗨，托尼，今天我们来谈谈管理者如何在工作中更好地与年轻人相处。",
+      "start": 233.84,
+      "end": 239.38,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We often hear young people today have a poor work ethic.",
+      "translation": "我们经常听到有人说，如今的年轻人职业道德较差。",
+      "start": 240.51,
+      "end": 243.89,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That's not really justified though, is it?",
+      "translation": "不过，这种说法其实并没有什么依据，对吧？",
+      "start": 244.51,
+      "end": 246.63,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Not really.",
+      "translation": "确实没有。",
+      "start": 247.21,
+      "end": 247.75,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In reality, young people of this age group are as varied and multifaceted as any other generation.",
+      "translation": "实际上，这个年龄段的年轻人和其他任何一代人一样，都是多种多样、各具特点的。",
+      "start": 249.15,
+      "end": 253.95,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Yeah, but if you are struggling to work with young people in your workspace, what can you do?",
+      "translation": "是的，但如果你在工作中和年轻人合作时遇到了困难，你能做些什么呢？",
+      "start": 254.75,
+      "end": 259.87,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Well, it's essential to connect with them to learn about their values.",
+      "translation": "首先，必须与他们建立联系，了解他们的价值观。",
+      "start": 260.57,
+      "end": 263.95,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's also really important to recognize the way young people want to balance their work life with their personal life.",
+      "translation": "同样重要的是，要认识到年轻人希望如何平衡工作与个人生活。",
+      "start": 264.53,
+      "end": 270.77,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So they generally don't want to defer happiness in return for career advancement?",
+      "translation": "所以，他们通常不想为了事业发展而推迟享受生活？",
+      "start": 271.34,
+      "end": 276.64,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Absolutely.",
+      "translation": "完全正确。",
+      "start": 277.32,
+      "end": 277.74,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They are not willing to sacrifice their personal lives for their work lives and this leads people to equate that with an unwillingness to work hard.",
+      "translation": "他们不愿意为了工作生活而牺牲个人生活，而这就导致人们把这种态度等同于不愿意努力工作。",
+      "start": 278.4,
+      "end": 285.75,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Right.",
+      "translation": "没错。",
+      "start": 286.29,
+      "end": 286.73,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But that couldn't be further from the truth, could it?",
+      "translation": "但事实完全不是这样，对吧？",
+      "start": 287.11,
+      "end": 289.77,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Young people will work extremely hard during their defined work hours, but they expect to have their time off, like weekends and nights free from work.",
+      "translation": "年轻人在规定的工作时间内会非常努力地工作，但他们希望自己的休息时间，比如周末和晚上，不受工作打扰。",
+      "start": 290.05,
+      "end": 298.57,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So how should managers go about assessing young people's productivity?",
+      "translation": "那么，管理者应该如何评估年轻人的工作效率呢？",
+      "start": 299.29,
+      "end": 302.99,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Generally, young people believe their productivity should not be measured by the number of hours they work, since someone can work for eight hours and accomplish next to nothing of significance for the company.",
+      "translation": "总的来说，年轻人认为，工作效率不应该用工作时长来衡量，因为有人可能工作八个小时，却几乎没有为公司完成任何有意义的事情。",
+      "start": 304.03,
+      "end": 314.48,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Instead, young people measure their productivity levels by the quality of the work they perform.",
+      "translation": "相反，年轻人会根据自己完成的工作质量来衡量工作效率。",
+      "start": 314.88,
+      "end": 320.1,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But we often hear that young people want to feel more than just being a part of a big machine.",
+      "translation": "但我们经常听到，年轻人希望感受到的不只是自己属于一台庞大机器的一部分。",
+      "start": 320.78,
+      "end": 326.12,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Such a perspective can be hard to discredit, can't it?",
+      "translation": "这种观点很难反驳，对吧？",
+      "start": 327.06,
+      "end": 330.06,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's important to legitimize their work.",
+      "translation": "认可他们工作的价值很重要。",
+      "start": 330.86,
+      "end": 333.08,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Young workers want to work on projects that matter to themselves, the company or the world at large.",
+      "translation": "年轻人希望参与对自己、公司或整个世界都有意义的项目。",
+      "start": 333.7,
+      "end": 338.86,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They must feel the need to stay working at a company whose values align with their own.",
+      "translation": "他们必须觉得，公司所秉持的价值观与自己的价值观一致，这样才愿意继续在那里工作。",
+      "start": 339.39,
+      "end": 344.17,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Thanks for your advice.",
+      "translation": "谢谢你的建议。",
+      "start": 344.73,
+      "end": 345.85,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions 5-8 are based on the conversation you have just heard.",
+      "translation": "问题5 -8是基于你刚才听到的谈话",
+      "start": 347.6,
+      "end": 351.7
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 5.",
+      "translation": "问题5",
+      "start": 352.77,
+      "end": 353.55
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "According to the woman, what view about today's young people is not really justified.",
+      "translation": "女性认为,对今天的年轻人有什么看法并不真正合理。",
+      "start": 354.41,
+      "end": 359.45
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 6.",
+      "translation": "问题6",
+      "start": 373.18,
+      "end": 373.9
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the man say is important for managers to get along better with young workers?",
+      "translation": "管理者能和年轻工人相处更好,",
+      "start": 374.46,
+      "end": 379.16
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "How do young people measure their productivity levels according to the man?",
+      "translation": "青年人如何根据男子的情况衡量他们的生产力水平?",
+      "start": 394.38,
+      "end": 398.54
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 8 What companies does the man think would appeal to young workers?",
+      "translation": "问题8 男人认为哪家公司会吸引年轻工人?",
+      "start": 412.1,
+      "end": 417.1
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Section B, directions.",
+      "translation": "B节,方向。",
+      "start": 430.78,
+      "end": 432.46
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In this section you will hear two passages.",
+      "translation": "在本节中,你们将听到两段。",
+      "start": 433.56,
+      "end": 435.62
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "At the end of each passage you will hear three or four questions.",
+      "translation": "在每一段的结尾 你会听到三个或四个问题",
+      "start": 436.54,
+      "end": 440.34
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Both the passage and the questions will be spoken only once.",
+      "translation": "发言的通过和提问将只讲一次。",
+      "start": 441.12,
+      "end": 444.76
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "you hear a question you must choose the best answer",
+      "translation": "听到一个问题 你必须选择最好的答案",
+      "start": 445.68,
+      "end": 448.62
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "from the four choices marked A, B, C, and D.",
+      "translation": "从四个选项中选择A、B、C和D。",
+      "start": 448.83,
+      "end": 453.11
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "mark the corresponding letter on answer sheet one with a single line through the center.",
+      "translation": "在答题单单行的答题表一中标出相应的字母。",
+      "start": 453.93,
+      "end": 459.05
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Many restaurants are trying to persuade customers to eat more sustainably, moving away from environmentally unfriendly meat towards greener dishes.",
+      "translation": "许多餐厅正试图劝说顾客以更可持续的方式饮食，从对环境不友好的肉类转向更环保的菜肴。",
+      "start": 460.924,
+      "end": 471.594,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Although it sounds counter-intuitive, restaurants which include specific vegetarian sections on their menus may be unintentionally encouraging customers to eat meat, a new study suggests.",
+      "translation": "一项新研究表明，尽管这听起来有悖直觉，但菜单上设有专门素食菜品区的餐厅可能会在无意中鼓励顾客食用肉类。",
+      "start": 471.594,
+      "end": 483.75,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Behavioral scientist Linda Bacon, one of the study's authors, said, \"Restaurants can have a positive impact on the environment by encouraging their customers to choose more plant-based food and less meat.",
+      "translation": "研究的作者之一行为科学家琳达·培根说,“耐久剂可以对环境产生积极影响,鼓励顾客选择更多植物食物和较少肉类。",
+      "start": 485.37,
+      "end": 499.18
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "However, our findings suggest that while certain restaurant menu designs can encourage some consumers to make pro-environmental food choices, they can have the opposite effect on others.\" The study involved 750 people, half of whom frequently ate vegetarian food and half of whom rarely ate it.",
+      "translation": "然而,我们的研究结果表明,尽管某些餐厅菜单的设计可以鼓励某些消费者做出有利于环境的食品选择,但它们可以对其他人产生相反的影响。 这项研究涉及750人,其中一半人经常吃素食,一半人很少吃。",
+      "start": 500.3,
+      "end": 521.32
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "No vegetarians were included.",
+      "translation": "没有包括素食者。",
+      "start": 522.1,
+      "end": 523.74
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They were given different menus and asked to choose a meal as if they were eating out with friends.",
+      "translation": "他们得到不同的菜单,要求他们选择一顿饭,好像他们与朋友一起吃饭一样。",
+      "start": 525.33,
+      "end": 529.85
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Placing vegetarian dishes in a separate section did not have a significant effect on the choices made by infrequent vegetarian food eaters.",
+      "translation": "将素食餐单单列一节,对不常见的素食者的选择没有重大影响。",
+      "start": 531.14,
+      "end": 539.68
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But it did have a notable effect on the frequent eaters, lowering their chance of picking a vegetarian option by 65%.",
+      "translation": "但对于经常吃东西的人来说 确实有显著的影响 使他们选择素食者的机会 降低了65%",
+      "start": 539.96,
+      "end": 548.95
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The researchers also discovered that presenting a vegetarian dish as the chef's recommendation, or including a more appealing description of a non-meat meal, leads to a greater proportion of infrequent vegetarian eaters choosing a vegetarian option.",
+      "translation": "研究人员还发现,将素食餐作为主厨的建议,或列入对非肉食的更有吸引力的描述,导致更多不经常的素食者选择食用素食。",
+      "start": 549.11,
+      "end": 565.86
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But again, these altered menu designs backfired with those who ate vegetarian food more frequently, leading them to be less likely to choose a vegetarian dish.",
+      "translation": "但同样,这些改变的菜单设计与那些更经常吃素食的人反弹,导致他们更不可能选择素食餐。",
+      "start": 567.06,
+      "end": 577.02
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "How was the study carried out on 750 participants?",
+      "translation": "对750名与会者进行的研究如何?",
+      "start": 604.91,
+      "end": 608.85
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 11.",
+      "translation": "问题11。",
+      "start": 622.4,
+      "end": 623.04
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "How do altered menu designs affect frequent eaters of vegetarian food?",
+      "translation": "改变菜单设计会如何影响食用素食食物的常客?",
+      "start": 623.92,
+      "end": 628.26
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Passage 2.",
+      "translation": "通行证2。",
+      "start": 641.79,
+      "end": 642.53
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Nottingham Trent University and the Chinese Academy of Sciences have been trying to find a way to prevent deadly outdoor air pollution from penetrating indoors.",
+      "translation": "诺丁汉特伦特大学和中国科学院一直在努力寻找一种方法，防止致命的室外空气污染渗入室内。",
+      "start": 643.62,
+      "end": 653.18,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They found that if pollution is frozen to around –18 ℃ in a condensing tube, the particles gather together and fall to the bottom, allowing fresh, clean air to pass through.",
+      "translation": "他们发现，如果在冷凝管中将污染物冷冻至约−18℃，颗粒物就会聚集在一起并落到底部，从而使新鲜、洁净的空气通过。",
+      "start": 654.22,
+      "end": 665.7,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Their method was able to remove 99% of pollutants.",
+      "translation": "他们的方法能够去除99%的污染物。",
+      "start": 666.65,
+      "end": 669.41,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It is hoped that the work could pave the way for simple modification of air conditioning units so that they can also clean polluted indoor air.",
+      "translation": "人们希望，这项工作能够为简单改造空调设备铺平道路，使其也能清洁受到污染的室内空气。",
+      "start": 670.49,
+      "end": 678.91,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Outdoor air pollution in cities is a global problem, whether it be haze plaguing Calcutta or poor air impacting the health of children in London schools.",
+      "translation": "城市的户外空气污染是一个全球性问题,不管是烟雾困扰加尔各答还是空气不良影响伦敦学校儿童的健康。",
+      "start": 680.06,
+      "end": 689.44
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "While there are some existing technologies to purify indoor air, they can be inefficient, expensive or produce harmful by-products.",
+      "translation": "虽然有一些现有技术可以净化室内空气,但它们可能效率低下、费用昂贵或产生有害的副产品。",
+      "start": 690.64,
+      "end": 698.92
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "When outdoor air quality is poor, people tend to spend even more time indoors.",
+      "translation": "当户外空气质量差时,人们往往在室内花费更多的时间。",
+      "start": 699.8,
+      "end": 704.4
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But outdoor pollution also leads to indoor pollution, and people still suffer.",
+      "translation": "但户外污染也导致室内污染,人们仍然受苦。",
+      "start": 705.16,
+      "end": 710.02
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It is estimated that pollution is linked to over 40,000 early deaths in Britain each year.",
+      "translation": "据估计,污染与英国每年4万多起早期死亡有关。",
+      "start": 710.97,
+      "end": 715.91
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Professor Gang Pan of the Chinese Academy of Sciences said, \"We have shown in our experiments that simply by circulating polluted air through a small freezing chamber, we can remove most of the fine particles and gas pollutants.",
+      "translation": "中国科学院的江潘教授说,“我们在实验中展示了,只要通过一个小冷冻室传播被污染的空气,我们就能消除大部分微粒和气体污染物。",
+      "start": 717.1,
+      "end": 729.92
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Our study makes it possible to add an air cleaner option to household appliances in areas which might experience extremely poor air conditions.",
+      "translation": "我们的研究使得有可能在空气条件可能极其差的地区,在家用电器中增加一个空气清洁的选择。",
+      "start": 730.92,
+      "end": 739.4
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "By controlling indoor air pollution and improving air quality in this way, this work could be greatly beneficial to public health.\"",
+      "translation": "通过控制室内空气污染, 改善空气质量, 这项工作会大大有利于公众健康」。",
+      "start": 740.45,
+      "end": 747.59
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions 12-15 are based on the passage you have just heard.",
+      "translation": "问题12 -15是基于你刚才听到的段落",
+      "start": 748.9,
+      "end": 753.1
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 12.",
+      "translation": "问题12。",
+      "start": 754.2,
+      "end": 755.02
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the passage say about Nottingham Trent University and the Chinese Academy of Sciences?",
+      "translation": "关于诺丁汉特伦特大学 和中国科学院 内容如何?",
+      "start": 756.2,
+      "end": 761.74
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 13.",
+      "translation": "问题13。",
+      "start": 775.59,
+      "end": 776.35
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What do we learn from the passage about existing technologies to purify indoor air?",
+      "translation": "我们从现有净化室内空气技术的传递过程中学到了什么?",
+      "start": 776.99,
+      "end": 782.25
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 14.",
+      "translation": "问题14。",
+      "start": 795.86,
+      "end": 796.72
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What do people tend to do when outdoor air quality is poor?",
+      "translation": "当户外空气质量差时,人们会怎么做?",
+      "start": 797.22,
+      "end": 800.92
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "15.",
+      "translation": "15. 15个",
+      "start": 814.92,
+      "end": 815.38
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What did Professor Gangpan of the Chinese Academy of Sciences say about",
+      "translation": "中国科学院的江泛教授怎么说",
+      "start": 816.03,
+      "end": 821.17
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "their",
+      "translation": "其",
+      "start": 833.78,
+      "end": 856.78
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "with",
+      "translation": "与",
+      "start": 857.16,
+      "end": 857.42
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "a single the",
+      "translation": "单",
+      "start": 858.13,
+      "end": 861.372
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Research recently carried out by my team suggests that fish may be self-aware.",
+      "translation": "我的团队最近开展的研究表明，鱼类可能具有自我意识。",
+      "start": 861.372,
+      "end": 872.934,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "A certain species of fish recently passed the well-known mirror test.",
+      "translation": "最近，有一种鱼通过了著名的镜子测试。",
+      "start": 872.934,
+      "end": 885.971,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This is a test that demonstrates self-recognition in animals.",
+      "translation": "这是一项用来证明动物具有自我识别能力的测试。",
+      "start": 885.971,
+      "end": 886.064,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Only a few animals, such as humans, apes, dolphins and some birds, can recognize themselves in a mirror.",
+      "translation": "只有少数动物，例如人类、猿类、海豚和一些鸟类，能够在镜子中认出自己。",
+      "start": 886.064,
+      "end": 886.25,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And only these animals, capable of self-recognition, will attempt to remove marks placed on their skin after noticing them in the reflection.",
+      "translation": "也只有这些具有自我识别能力的动物，才会在倒影中注意到皮肤上的标记后，试图将其去除。",
+      "start": 886.25,
+      "end": 894.75,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This ability suggests a level of higher intelligence and awareness.",
+      "translation": "这种能力表明动物具有较高程度的智力和意识。",
+      "start": 896.58,
+      "end": 900.2,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This is not shown by children until around 18 months.",
+      "translation": "儿童要到大约18个月大时才会表现出这种能力。",
+      "start": 901.12,
+      "end": 904.18,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Until now, no fish has demonstrated the ability.",
+      "translation": "到目前为止，还没有鱼类展示过这种能力。",
+      "start": 905.89,
+      "end": 908.91,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But our experiments show the fish in question will scrape up against hard surfaces to remove marks placed on its body by our researchers after viewing itself in a mirror.",
+      "translation": "但我们的实验表明，这种鱼在镜子中看到自己后，会在坚硬的表面上摩擦身体，以去除研究人员放在它身上的标记。",
+      "start": 909.95,
+      "end": 920.36,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The behaviors we observe leave little doubt that this fish behaviorally fulfills all criteria of the mirror test as originally laid out.",
+      "translation": "我们观察到的行为几乎毫无疑问地表明，这种鱼在行为上满足了镜子测试最初设定的全部标准。",
+      "start": 922.64,
+      "end": 931.24,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The fish in our study never attempted to remove the marks when no mirror was present or when the marks were just placed on the mirror.",
+      "translation": "我们的研究中的鱼在没有镜子时，或标记只是被放在镜子上时，从未试图去除这些标记。",
+      "start": 933.07,
+      "end": 940.53,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Unmarked fish also did not attempt to remove marks from themselves when interacting with a marked fish on the other side of a window.",
+      "translation": "未被标记的鱼在隔着窗户与另一侧的被标记鱼互动时，也没有试图去除自己身上的标记。",
+      "start": 941.91,
+      "end": 949.1,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "These results show either that fish are self-aware or that the mirror test, which is considered to be the gold standard test used to denote higher intelligence, may be flawed.",
+      "translation": "这些结果表明，要么鱼类具有自我意识，要么被视为判定较高智力的黄金标准测试的镜子测试存在缺陷。",
+      "start": 950.58,
+      "end": 961.56,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What is less clear is whether these behaviors should be considered as evidence that fish are self-aware, even though in the past these same behaviors have been interpreted as self-awareness in so many other animals.",
+      "translation": "不太明确的是，尽管过去人们一直将其他许多动物的这些相同行为解释为自我意识的表现，但这些行为是否应被视为鱼类具有自我意识的证据。",
+      "start": 963.26,
+      "end": 975.44,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Depending on your position, you might reject the interpretation that these behaviors in a fish satisfy passing the test at all.",
+      "translation": "根据你的立场，你可能完全拒绝接受这样的解释，即鱼类的这些行为足以满足通过该测试的条件。",
+      "start": 976.34,
+      "end": 984.28,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But on what objective basis can you do this when the behaviors they show are so functionally similar to those of other species that have passed the test?",
+      "translation": "但是，当鱼类表现出的行为在功能上与其他通过测试的物种如此相似时，你又能以什么客观依据这样做呢？",
+      "start": 985.16,
+      "end": 993.46,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Results from our research raise more questions than answers.",
+      "translation": "我们的研究结果提出的问题多于给出的答案。",
+      "start": 994.62,
+      "end": 998.0,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What if self-awareness develops like an onion, building layer upon layer rather than appearing all at once?",
+      "translation": "如果自我意识像洋葱一样逐层发展，而不是一下子全部出现，会怎么样？",
+      "start": 999.02,
+      "end": 1005.46,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Perhaps in order to explore self-awareness further, we should stop looking at responses to the mirror as a decisive test.",
+      "translation": "也许，为了进一步探究自我意识，我们应该不再把对镜子的反应视为决定性测试。",
+      "start": 1006.25,
+      "end": 1013.55,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Only with a richer theory of the self and a larger test battery will we be able to determine all of the various levels of self-awareness, including where exactly fish fit in.",
+      "translation": "只有建立起更丰富的自我理论，并采用规模更大的测试组合，我们才能确定自我意识的各种不同层次，包括鱼类究竟处于其中的哪个位置。",
+      "start": 1014.49,
+      "end": 1026.93,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What do we learn about the well-known mirror test?",
+      "translation": "我们从众所周知的镜像测试中学到什么?",
+      "start": 1034.91,
+      "end": 1037.53
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 17.",
+      "translation": "问题17。",
+      "start": 1051.06,
+      "end": 1051.92
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the study by the speaker's team show about the fish they experimented with?",
+      "translation": "演讲人团队的研究 显示他们实验的鱼是什么?",
+      "start": 1052.78,
+      "end": 1057.5
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 18.",
+      "translation": "问题18。",
+      "start": 1070.7,
+      "end": 1071.58
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the speaker say about the results of their research?",
+      "translation": "发言者对其研究结果怎么说?",
+      "start": 1072.42,
+      "end": 1075.58
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "2.",
+      "translation": "2. 目标",
+      "start": 1089.3,
+      "end": 1089.84
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Reading with a young child is important.",
+      "translation": "与年幼的孩子一起阅读很重要。",
+      "start": 1091.15,
+      "end": 1092.97,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But does it matter whether you read from an electronic book or traditional print?",
+      "translation": "但从电子书还是传统纸质书阅读，这一点是否有区别呢？",
+      "start": 1093.63,
+      "end": 1097.65,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "As any parent knows, small children are generally keen on screens.",
+      "translation": "正如任何家长都知道的那样，幼儿通常都很喜欢屏幕。",
+      "start": 1098.31,
+      "end": 1102.25,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So the finding from a new study that very young children enjoy electronic books more than printed picture books may not come as a huge surprise — but the following additional findings might: both parents and children behaved differently when reading electronic versus printed picture books.",
+      "translation": "因此，一项新研究发现，幼儿更喜欢电子书而不是纸质图画书，这或许并不令人十分意外——但接下来的附加发现可能会让人感到意外：家长和孩子在阅读电子图画书与纸质图画书时的行为有所不同。",
+      "start": 1102.87,
+      "end": 1121.01,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And the children who read the electronic books learned more.",
+      "translation": "而且，阅读电子书的孩子学到了更多内容。",
+      "start": 1121.49,
+      "end": 1124.93,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Previous studies of young children have suggested that electronic books, which incorporate extra features such as dictionaries and images that depict story events, may have advantages over print.",
+      "translation": "此前针对幼儿的研究表明，电子书加入了词典、描绘故事情节的图片等额外功能，因此可能比纸质书更具优势。",
+      "start": 1126.43,
+      "end": 1138.03,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In fact, multiple studies have found that electronic books support story comprehension and vocabulary gains beyond what is provided by printed books.",
+      "translation": "事实上，多项研究发现，电子书在促进故事理解和词汇增长方面，所起的作用超出了纸质书所能提供的效果。",
+      "start": 1139.31,
+      "end": 1148.63,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But there's also work suggesting that children sometimes invest less mental effort in learning from electronic books, and that parents talk less about content when sharing such books.",
+      "translation": "但也有研究表明，孩子有时在从电子书中学习时投入的脑力较少，而且家长与孩子共同阅读电子书时，对内容谈论得也比较少。",
+      "start": 1149.51,
+      "end": 1160.01,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The study we're looking at today aims to give us a better understanding of how good electronic books are for young children.",
+      "translation": "我们今天要了解的这项研究，旨在帮助我们更好地理解电子书对幼儿究竟有多大益处。",
+      "start": 1161.49,
+      "end": 1168.63,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "For this study, researchers videoed children aged 17 to 26 months reading with one of their parents.",
+      "translation": "在这项研究中，研究人员拍摄了17至26个月大的孩子与其中一位家长共同阅读的过程。",
+      "start": 1169.27,
+      "end": 1176.31,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Each parent-child pair was randomly assigned to read either two educational electronic books or two printed books with the same content.",
+      "translation": "每一对家长和孩子被随机分配阅读两本教育类电子书，或两本内容相同的纸质书。",
+      "start": 1177.33,
+      "end": 1186.23,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "While the parent read the words in the printed books aloud, the electronic books had audio of voice actors reading the text.",
+      "translation": "家长大声朗读纸质书中的文字，而电子书则配有配音演员朗读文本的音频。",
+      "start": 1187.03,
+      "end": 1194.47,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The researchers found that parents who read the printed books pointed more frequently to pages than parents who read the electronic books.",
+      "translation": "研究人员发现，阅读纸质书的家长比阅读电子书的家长更频繁地指向书页。",
+      "start": 1195.7,
+      "end": 1203.48,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But the opposite was true for the children.",
+      "translation": "但孩子的情况正好相反。",
+      "start": 1204.44,
+      "end": 1206.22,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Children who read the electronic books also commented more on the content and learned more new words than the children who read printed books.",
+      "translation": "阅读电子书的孩子还会更多地评论书中内容，并且比阅读纸质书的孩子学会更多新词。",
+      "start": 1207.24,
+      "end": 1215.74,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This greater learning is ascribed to greater engagement with the electronic books.",
+      "translation": "这种更好的学习效果被归因于孩子对电子书更高的参与度。",
+      "start": 1216.43,
+      "end": 1221.15,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's important to note that the electronic books in the study were simple.",
+      "translation": "需要注意的是，这项研究中的电子书很简单。",
+      "start": 1222.97,
+      "end": 1226.47,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "While they included background music, animation and sound effects, there were no other extra features.",
+      "translation": "虽然其中包含背景音乐、动画和音效，但没有其他额外功能。",
+      "start": 1227.15,
+      "end": 1233.23,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's also important to note that there's research on older children, finding that electronic books don't always bolster learning.",
+      "translation": "同样需要注意的是，针对年龄较大儿童的研究发现，电子书并不总能促进学习。",
+      "start": 1234.23,
+      "end": 1241.33,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Parents and educators need to beware.",
+      "translation": "家长和教育工作者需要对此保持警惕。",
+      "start": 1242.51,
+      "end": 1244.51,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Extra features in electronic books may increase children's participation with them; however, if these features don't draw attention to the educational content, they may not serve as a supportive feature.",
+      "translation": "电子书中的额外功能可能会提高孩子对电子书的参与度；然而，如果这些功能不能将孩子的注意力吸引到教育内容上，那么它们可能就无法起到支持作用。",
+      "start": 1245.16,
+      "end": 1258.08,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What do we learn about previous studies of young children reading electronic books?",
+      "translation": "我们对以前关于幼儿阅读电子书籍的研究了解多少?",
+      "start": 1285.68,
+      "end": 1290.42
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 21 What extra features should be included in electronic books to bolster children's learning?",
+      "translation": "问题21:电子书中应列入哪些其他特点,以促进儿童的学习?",
+      "start": 1304.22,
+      "end": 1311.56
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Let me be",
+      "translation": "让我来",
+      "start": 1325.0,
+      "end": 1325.78
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "honest with you.",
+      "translation": "跟你说实话",
+      "start": 1326.71,
+      "end": 1326.94
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Let me be honest with you.",
+      "translation": "让我坦诚地告诉你。",
+      "start": 1326.94,
+      "end": 1328.87,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "If you're living your life full of regrets, you're wasting your time.",
+      "translation": "如果你满怀悔恨地生活，就是在浪费时间。",
+      "start": 1329.33,
+      "end": 1333.25,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Why would you go through life regretting the very decisions that made you who you are today?",
+      "translation": "你为什么要在一生中不断后悔那些造就了今天的你的决定呢？",
+      "start": 1333.91,
+      "end": 1338.73,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "There are plenty of unfavorable decisions we've made, but does that mean we should regret them?",
+      "translation": "我们做过许多不利的决定，但这是否意味着我们应该后悔？",
+      "start": 1339.37,
+      "end": 1344.63,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "No!",
+      "translation": "不！",
+      "start": 1345.07,
+      "end": 1345.45,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I've had many moments where I sit and think about all the things I wish I could have done differently.",
+      "translation": "我曾有过许多时候，坐下来思考所有那些我希望自己能够做得不同的事情。",
+      "start": 1346.31,
+      "end": 1351.45,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "However, just because things could be different, it doesn't necessarily mean they would be better.",
+      "translation": "然而，仅仅因为事情本可以有所不同，并不一定意味着结果会更好。",
+      "start": 1352.25,
+      "end": 1357.55,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You don't have to continually be thinking of all your past decisions and whether or not you made the right one.",
+      "translation": "你不必一直思考过去所做的每一个决定，以及自己是否做出了正确的选择。",
+      "start": 1358.29,
+      "end": 1364.47,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You can't go back and change anything, so what's the point in worrying about it?",
+      "translation": "你无法回到过去改变任何事情，那么又何必为此担忧呢？",
+      "start": 1364.99,
+      "end": 1369.41,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Every single decision you've ever made, positive or negative, has made you the person you are today.",
+      "translation": "你曾经做出的每一个决定，无论积极还是消极，都造就了今天的你。",
+      "start": 1370.4,
+      "end": 1376.2,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We want to go back and change parts of our past, but what would be the benefit of that?",
+      "translation": "我们想回到过去，改变过去的一些部分，但那样做会有什么益处呢？",
+      "start": 1377.18,
+      "end": 1381.76,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We would have lost the valuable knowledge from the lessons we learned.",
+      "translation": "我们会失去从所学教训中获得的宝贵知识。",
+      "start": 1382.52,
+      "end": 1385.98,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "There are reasons you make the choices you do, and that tells us about who you are.",
+      "translation": "你所做的每个选择都有其原因，而这些原因体现了你是怎样的人。",
+      "start": 1387.18,
+      "end": 1391.86,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So when it comes to any decision in life, be unapologetically yourself.",
+      "translation": "因此，当你面对人生中的任何决定时，都要毫不 apologetically 地做自己。",
+      "start": 1392.75,
+      "end": 1396.63,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Because at the end of the day, it was you who made that decision.",
+      "translation": "因为归根结底，是你做出了那个决定。",
+      "start": 1397.5,
+      "end": 1400.66,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "With less time spent focused on regrets, you'll finally have time to focus on the more essential things in life.",
+      "translation": "少花些时间专注于悔恨，你终于会有时间去关注生活中更重要的事情。",
+      "start": 1402.26,
+      "end": 1408.62,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In any situation, you grow more as a person with every decision you make.",
+      "translation": "在任何情况下，你都会随着自己做出的每一个决定而不断成长。",
+      "start": 1409.65,
+      "end": 1414.37,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Life is full of lessons to learn, so we can't let regret stop us from moving forward.",
+      "translation": "生活充满了值得学习的教训，所以我们不能让悔恨阻止我们继续前进。",
+      "start": 1415.11,
+      "end": 1420.15,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We don't know if we've made the right or wrong choice until after it's already been made, so it can be easy to start regretting your decision.",
+      "translation": "在一个选择已经做出之前，我们不知道它究竟是正确的还是错误的，所以很容易开始后悔自己的决定。",
+      "start": 1421.2,
+      "end": 1429.27,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But if the decision has already been made, what's the purpose of dwelling on it?",
+      "translation": "但如果决定已经做出，反复纠结它又有什么意义呢？",
+      "start": 1430.66,
+      "end": 1434.98,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "There isn't one.",
+      "translation": "没有任何意义。",
+      "start": 1435.58,
+      "end": 1436.48,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "All you can do is move forward.",
+      "translation": "你能做的只有继续向前。",
+      "start": 1437.18,
+      "end": 1438.94,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You can't let yourself sit there and worry about every past choice.",
+      "translation": "你不能让自己坐在那里，为过去做出的每一个选择忧虑不已。",
+      "start": 1439.76,
+      "end": 1442.98,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We aren't all perfect.",
+      "translation": "我们都不可能完美。",
+      "start": 1443.66,
+      "end": 1444.74,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Whenever you make a decision, there will always be a possibility for regret later, but that's how life is supposed to be.",
+      "translation": "每当你做出一个决定，之后总有可能产生悔恨，但人生本来就应该是这样。",
+      "start": 1446.26,
+      "end": 1453.14,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You will make poor decisions in life — we all do — but it's what you do with the lessons learned that matters.",
+      "translation": "你会在人生中做出糟糕的决定——我们都会如此——但真正重要的是，你如何对待从中吸取的教训。",
+      "start": 1453.8,
+      "end": 1460.73,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Think about every decision you've ever made.",
+      "translation": "想想你曾经做出的每一个决定。",
+      "start": 1461.56,
+      "end": 1463.84,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Were they always the best?",
+      "translation": "它们是否总是最好的？",
+      "start": 1464.34,
+      "end": 1465.34,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Of course not.",
+      "translation": "当然不是。",
+      "start": 1465.96,
+      "end": 1466.52,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But look at how far you've come since then.",
+      "translation": "但看看从那时起你已经走了多远。",
+      "start": 1467.2,
+      "end": 1469.54,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions 22-25 are based on the recording you have just heard.",
+      "translation": "问题22 -25是基于你刚才听到的录音",
+      "start": 1471.32,
+      "end": 1476.26
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "22.",
+      "translation": "22. 妇女 22",
+      "start": 1477.51,
+      "end": 1478.07
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "should we do with the unfavorable decisions we've made?",
+      "translation": "我们是不是应该处理 我们做出不友好的决定?",
+      "start": 1479.37,
+      "end": 1482.35
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "23.",
+      "translation": "23 号",
+      "start": 1495.99,
+      "end": 1496.73
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the speaker say about every single decision we've ever made?",
+      "translation": "发言者对我们所作的每一个决定怎么说?",
+      "start": 1497.29,
+      "end": 1501.51
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "24 What is life full of according to the speaker?",
+      "translation": "24 发言者说,什么是充满生命?",
+      "start": 1515.02,
+      "end": 1519.27
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 25 What is said to be of real importance when we make poor decisions in life?",
+      "translation": "问题25:当我们作出糟糕的决定时,什么才是真正重要的?",
+      "start": 1532.71,
+      "end": 1538.79
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That's the end of listening comprehension",
+      "translation": "听觉理解到此结束",
+      "start": 1552.05,
+      "end": 1554.17
+    }
+  ],
+  "translation_sources": [
+    "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
+    "Sams200/opus-mt-en-zh (unmatched sentences only)"
+  ]
+}

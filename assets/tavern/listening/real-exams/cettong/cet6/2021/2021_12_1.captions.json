@@ -1,0 +1,1932 @@
+{
+  "id": "cet6-2021_12_1",
+  "title": "2021年12月 第1套",
+  "level": 6,
+  "source_url": "https://www.cettong.cn/library/cet6/2021_12_1",
+  "material_source": "https://117.72.200.49/#/library",
+  "audio": "assets/tavern/listening/real-exams/cettong/cet6/2021/2021_12_1.exampace-playback.mp3",
+  "caption_kind": "published_material_with_auxiliary_timing_and_translation",
+  "caption_models": [
+    "Systran/faster-whisper-base.en",
+    "Sams200/opus-mt-en-zh"
+  ],
+  "lines": [
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Hi David.",
+      "translation": "嗨，戴维。",
+      "start": 36.51,
+      "end": 37.21,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I haven't seen you in class for almost two weeks.",
+      "translation": "我快两周没在课堂上见到你了。",
+      "start": 37.79,
+      "end": 40.43,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We thought you had disappeared on holiday early or something.",
+      "translation": "我们还以为你提早休假去哪里了呢。",
+      "start": 41.07,
+      "end": 44.03,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Hi, Sarah.",
+      "translation": "嗨，莎拉。",
+      "start": 44.61,
+      "end": 45.13,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Well, it's a bit of a long story I'm afraid.",
+      "translation": "唉，说来话长。",
+      "start": 45.77,
+      "end": 48.31,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I got a throat infection last week and had to go to the hospital to get some antibiotics as I really wasn't getting any better.",
+      "translation": "我上周喉咙感染了，因为病情实在不见好转，不得不去医院开了一些抗生素。",
+      "start": 48.77,
+      "end": 55.69,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Oh yeah.",
+      "translation": "哦，是的。",
+      "start": 56.21,
+      "end": 56.95,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "There have been so many viruses going around this winter.",
+      "translation": "今年冬天有好多病毒在传播。",
+      "start": 57.51,
+      "end": 60.09,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The weather has been so awful for the last few weeks.",
+      "translation": "过去几周的天气真是太糟了。",
+      "start": 60.81,
+      "end": 63.67,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And, on the way back from the hospital, I slipped on some ice and fell and then had to go to the hospital to get an X-ray because I basically thought I broke my wrist, although, thankfully, it's not broken.",
+      "translation": "还有，在从医院回来的路上，我在冰上滑倒摔了一跤，结果又得去医院拍 X 光，因为我以为自己把手腕给摔断了，不过幸好没断。",
+      "start": 64.23,
+      "end": 77.39,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But I need to be careful with it for the next few weeks.",
+      "translation": "但接下来的几周我得小心对待这只手。",
+      "start": 77.89,
+      "end": 80.79,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Oh, that's too bad!",
+      "translation": "哦，那太糟糕了！",
+      "start": 81.45,
+      "end": 83.01,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "How unfortunate!",
+      "translation": "真是太倒霉了！",
+      "start": 83.63,
+      "end": 84.47,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "To make things worse, I managed to fall right in front of four girls from the ninth grade.",
+      "translation": "更糟糕的是，我偏偏摔在了四个九年级女生面前。",
+      "start": 85.34,
+      "end": 91.22,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So I was utterly humiliated.",
+      "translation": "简直丢脸丢到家了。",
+      "start": 91.58,
+      "end": 93.32,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Plus, the laptop in my bag was broken too.",
+      "translation": "而且，我包里的笔记本电脑也摔坏了。",
+      "start": 94.54,
+      "end": 97.56,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "No, what a complete catastrophe!",
+      "translation": "天啊，这真是彻头彻尾的灾难！",
+      "start": 97.56,
+      "end": 100.16,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Is the laptop still under warranty?",
+      "translation": "笔记本电脑还在保修期内吗？",
+      "start": 101.04,
+      "end": 102.7,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "If it is, then you can easily send it back to the manufacturer, and they'll send you a brand-new one for free surely.",
+      "translation": "如果是的话，你就可以很方便地寄回给厂家，他们肯定会免费给你寄一台全新的。",
+      "start": 103.46,
+      "end": 110.3,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The warranty ran out three days before I broke it.",
+      "translation": "保修期在我摔坏它的前三天就过了。",
+      "start": 110.95,
+      "end": 114.71,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And all my essays are in there, and I need to hand them in before we break for the Christmas holidays.",
+      "translation": "我所有的论文都在里面，而且我必须在放圣诞假之前把它们交上去。",
+      "start": 115.09,
+      "end": 120.53,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Listen, I have the number of a really good, affordable computer repair shop at home.",
+      "translation": "听我说，我家里有一家又好又实惠的电脑维修店的电话。",
+      "start": 121.29,
+      "end": 126.61,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "My dad has used this guy before and he can work miracles.",
+      "translation": "我爸爸以前找过这个人，他简直能创造奇迹。",
+      "start": 127.17,
+      "end": 130.79,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Let's go back to my house and we can call the repair shop, and you can have some tea and cookies too.",
+      "translation": "我们回我家吧，我们可以给维修店打电话，你还可以喝点茶、吃点饼干。",
+      "start": 131.69,
+      "end": 137.19,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Wow, thanks, Sarah!",
+      "translation": "哇，谢谢你，莎拉！",
+      "start": 137.79,
+      "end": 139.11,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That would be great!",
+      "translation": "那太好了！",
+      "start": 139.47,
+      "end": 140.11,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Let me just call my mom and let her know I'll be home a little bit later.",
+      "translation": "我先给我妈妈打个电话，跟她说一声我会晚一点回家。",
+      "start": 140.63,
+      "end": 144.95,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does Sarah say she is going to do?",
+      "translation": "莎拉说她会怎么做?",
+      "start": 207.42,
+      "end": 209.94
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Conversation two.",
+      "translation": "对话二",
+      "start": 223.24,
+      "end": 224.42
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Welcome to this week's episode of Book Talk.",
+      "translation": "欢迎收听本周的《图书谈》。",
+      "start": 225.17,
+      "end": 228.43,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "With me today is Heidi Brown, a historian who has written five critically acclaimed books about military history.",
+      "translation": "今天和我一起做节目的是海蒂·布朗，她是一位历史学家，已经写了五本广受评论界好评的军事史著作。",
+      "start": 229.29,
+      "end": 236.29,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Thanks for having me, John.",
+      "translation": "谢谢你邀请我，约翰。",
+      "start": 236.89,
+      "end": 238.07,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'm so excited to talk about my latest book, which was published last month.",
+      "translation": "我非常高兴能聊聊我的最新著作，这本书上个月刚刚出版。",
+      "start": 238.67,
+      "end": 243.45,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So this book is a novel, your first attempt at that genre.",
+      "translation": "所以，这本书是一部小说，是你第一次尝试这一体裁。",
+      "start": 243.97,
+      "end": 247.65,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I thought it was a bit of a departure for you.",
+      "translation": "我觉得这对你来说是一个不小的转变。",
+      "start": 247.65,
+      "end": 250.06,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'd say it's a major departure as it's not just a work of fiction.",
+      "translation": "我想这是个重大起飞 因为它不只是虚构的作品",
+      "start": 250.4,
+      "end": 254.52
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's set 200 years in the future.",
+      "translation": "未来有200年了",
+      "start": 255.02,
+      "end": 257.6
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Right.",
+      "translation": "好。",
+      "start": 258.26,
+      "end": 258.66,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So how did that happen?",
+      "translation": "那么这是怎么发生的？",
+      "start": 259.12,
+      "end": 260.38,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You spent three decades writing about the past and focusing on the 18th and 19th centuries.",
+      "translation": "你花了三十年时间写过去的历史，重点关注十八世纪和十九世纪。",
+      "start": 260.94,
+      "end": 266.92,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And now you're speculating about the future.",
+      "translation": "现在却开始推测未来。",
+      "start": 267.46,
+      "end": 269.62,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Well, after years of researching soldiers and chronicling their lives during battle, I just started wondering about other facets of their lives, especially their personal lives.",
+      "translation": "嗯，多年来研究士兵并记录他们在战斗中的生活之后，我开始思考他们生活中的其他方面，尤其是他们的私人生活。",
+      "start": 270.4,
+      "end": 282.38,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I can see that.",
+      "translation": "我能理解。",
+      "start": 282.98,
+      "end": 283.76,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Your novel is about soldiers and it focuses on their relationships, especially the bond between sons and mothers and men and their wives.",
+      "translation": "你的小说写的是士兵，重点讲述他们之间的关系，尤其是儿子与母亲之间的感情，以及男人与妻子之间的联系。",
+      "start": 284.34,
+      "end": 293.04,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Yes.",
+      "translation": "是的。",
+      "start": 293.64,
+      "end": 294.06,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That focus came about when I still intended to write another book of history.",
+      "translation": "我最初打算再写一本历史书时，就产生了这个关注点。",
+      "start": 294.52,
+      "end": 299.08,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I started by researching soldiers' actual personal lives, studying their letters home.",
+      "translation": "我先研究士兵真实的私人生活，研读他们寄回家的信件。",
+      "start": 299.58,
+      "end": 305.12,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So how did that history book become a novel?",
+      "translation": "那么，这本历史书后来是怎么变成小说的？",
+      "start": 305.71,
+      "end": 308.49,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Well, I realized that the historical record was incomplete.",
+      "translation": "嗯，我意识到历史记录并不完整。",
+      "start": 308.91,
+      "end": 312.85,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So I'd either have to leave a lot of gaps or make a lot more assumptions than a historian should.",
+      "translation": "所以，我要么得留下许多空白，要么就得做出远超历史学家应有程度的大量推断。",
+      "start": 313.79,
+      "end": 320.03,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But why write a novel set in the future when your credentials are perfect for a historical novel?",
+      "translation": "但既然你的资历非常适合写历史小说，为什么要写一部以未来为背景的小说呢？",
+      "start": 320.61,
+      "end": 326.17,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "As a historian, any historical novel you write would have a lot of credibility.",
+      "translation": "作为一名历史学家，无论你写什么历史小说，都会很有可信度。",
+      "start": 326.79,
+      "end": 331.77,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I felt too constrained working with the past, like what I wrote needed to be fact as opposed to fiction, but writing about the future gave me more freedom to imagine, to invent.",
+      "translation": "我觉得创作过去的题材束缚太多了，好像我写的东西必须是事实，而不能是虚构。但写未来让我有更多自由去想象和创造。",
+      "start": 332.57,
+      "end": 344.73,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Well, having read your book, I'm glad you made that choice to move into fiction.",
+      "translation": "读过你的书之后，我很高兴你做出了转向小说创作的选择。",
+      "start": 345.51,
+      "end": 350.55,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions 5 to 8 are based on the conversation you have just heard.",
+      "translation": "问题5到8是基于你刚才听到的谈话",
+      "start": 351.41,
+      "end": 356.51
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "5.",
+      "translation": "5 个",
+      "start": 357.77,
+      "end": 358.31
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the man say about the woman?",
+      "translation": "男人怎么说女人?",
+      "start": 358.89,
+      "end": 361.11
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 6.",
+      "translation": "问题6",
+      "start": 374.21,
+      "end": 375.23
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the woman say about her newly published book?",
+      "translation": "女人怎么说她的新出版的书?",
+      "start": 375.83,
+      "end": 379.17
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 7.",
+      "translation": "问题7",
+      "start": 392.59,
+      "end": 393.53
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What did the woman do before writing her new book?",
+      "translation": "那个女人写新书之前做了什么?",
+      "start": 394.01,
+      "end": 397.01
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 8.",
+      "translation": "问题8",
+      "start": 410.37,
+      "end": 411.19
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the woman say about her writing history books?",
+      "translation": "她写历史书时怎么说?",
+      "start": 411.71,
+      "end": 414.89
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Section B, directions.",
+      "translation": "B节,方向。",
+      "start": 428.32,
+      "end": 429.74
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In this section you'll hear two passages.",
+      "translation": "在这段里你会听到两段",
+      "start": 430.84,
+      "end": 432.7
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "At the end of each passage you'll hear three or four questions.",
+      "translation": "每条路的尽头 你会听到三四个问题",
+      "start": 433.48,
+      "end": 437.1
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Both the passage and the questions will be spoken only once.",
+      "translation": "发言的通过和提问将只讲一次。",
+      "start": 437.82,
+      "end": 440.92
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "After you hear a question, you must choose the best answer from the four choices marked A, B, C and D.",
+      "translation": "在听到一个问题后,你必须从四个选择中选择最好的答案,这四个选择分别是A、B、C和D。",
+      "start": 441.4,
+      "end": 448.76
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "mark the corresponding letter on answer sheet one with a single line through the center.",
+      "translation": "在答题单单行的答题表一中标出相应的字母。",
+      "start": 449.54,
+      "end": 454.28
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Whether it's in the hands of animated polar bears or Santa Claus, there's one thing you'll find in nearly all ads for Coca-Cola: the characteristic glass bottle.",
+      "translation": "无论是由动画片中的北极熊还是圣诞老人拿着，在几乎所有可口可乐的广告中，你都会看到同一样东西：那只独具特色的玻璃瓶。",
+      "start": 456.201,
+      "end": 467.52,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Most Americans don't drink soda out of the glass bottles seen in Coke's ads anymore.",
+      "translation": "如今，大多数美国人已经不再用可口可乐广告中出现的玻璃瓶喝汽水了。",
+      "start": 467.52,
+      "end": 473.12,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But this week, the company is celebrating a century of the bottle that's been sold in more than 200 countries.",
+      "translation": "但本周，这家公司正在庆祝这种已在全球200多个国家销售的瓶子问世一百周年。",
+      "start": 473.8,
+      "end": 480.68,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Flash back to 1915, when a bottle of Coca-Cola cost just a nickel.",
+      "translation": "回到1915年，那时一瓶可口可乐只要5美分。",
+      "start": 480.68,
+      "end": 487.28,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "As the soft drink gained in popularity, it faced a growing number of competitors—counterfeits even trying to copy Coke's logo.",
+      "translation": "随着这种软饮料越来越受欢迎，它面临的竞争者也越来越多，甚至还有仿冒品试图复制可口可乐的标志。",
+      "start": 487.84,
+      "end": 496.82,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So, according to Coca-Cola historian Ted Ryan, the company decided to come up with packaging that couldn't be duplicated.",
+      "translation": "因此，据可口可乐历史学家特德·瑞安介绍，公司决定设计一种无法仿制的包装。",
+      "start": 497.49,
+      "end": 505.41,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "A product request was sent to eight different glass makers.",
+      "translation": "公司向八家不同的玻璃制造商发出了一份产品设计要求。",
+      "start": 506.11,
+      "end": 509.51,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Workers at the Root Glass Company got the request and began flipping through the encyclopedia at the local library, landing on cocoa seed.",
+      "translation": "鲁特玻璃公司的工人收到要求后，开始在当地的图书馆翻阅百科全书，最后注意到了可可种子。",
+      "start": 510.39,
+      "end": 519.85,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Though cocoa seed is not an ingredient of the soda, they designed their bottle based on the seed's shape and large middle.",
+      "translation": "虽然可可种子并不是这种汽水的原料，但他们根据种子的形状和中部较大的特点设计了瓶子。",
+      "start": 519.85,
+      "end": 527.8,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It won over Coke executives in Atlanta and would go on to receive its own trademark, spur collections and earn Coca-Cola an iconic image that made it part of American culture for a century.",
+      "translation": "这一设计赢得了亚特兰大可口可乐公司高管的认可，后来还获得了自己的商标，推动了收藏热潮，并为可口可乐赢得了一个具有标志性的形象，使其在一个世纪里成为美国文化的一部分。",
+      "start": 528.46,
+      "end": 542.06,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It was 100 years ago this week that the bottle earned a patent.",
+      "translation": "就在本周之前的一百年前，这种瓶子获得了专利。",
+      "start": 542.86,
+      "end": 546.46,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "By World War II, Coke bottle sales had ballooned into billions.",
+      "translation": "到第二次世界大战时，可口可乐瓶装产品的销量已经达到数十亿瓶。",
+      "start": 547.28,
+      "end": 551.3,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Americans mostly consume Coke out of aluminum or plastic today, but the glass bottle remains a symbol of America that's readily recognized around the world.",
+      "translation": "如今，美国人饮用可口可乐时主要使用铝罐或塑料瓶，但这种玻璃瓶仍然是美国的象征，在世界各地都很容易被认出。",
+      "start": 552.08,
+      "end": 562.56,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions 9-11 are based on the passage you have just heard.",
+      "translation": "问题9 -11是基于你刚才听到的段落",
+      "start": 563.36,
+      "end": 567.14
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "9.",
+      "translation": "9. 国家",
+      "start": 568.06,
+      "end": 568.72
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the passage say appears in almost all ads for Coca-Cola?",
+      "translation": "话语上说 几乎所有可口可乐广告 都写了些什么?",
+      "start": 569.4,
+      "end": 573.7
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 10.",
+      "translation": "问题10。",
+      "start": 587.25,
+      "end": 587.91
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Why did the Coca-Cola company decide to have special packaging designed?",
+      "translation": "为什么可口可乐公司决定设计特殊包装物?",
+      "start": 588.63,
+      "end": 592.61
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 11.",
+      "translation": "问题11。",
+      "start": 606.22,
+      "end": 607.16
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What do we learn about the Coca-Cola bottle designed by the root glass company?",
+      "translation": "我们该如何了解根玻璃公司设计的可口可乐瓶子?",
+      "start": 607.72,
+      "end": 612.46
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Passage 2.",
+      "translation": "通行证2。",
+      "start": 625.92,
+      "end": 626.74
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Research shows that a few moments of conversation with a stranger creates a measurable improvement in mood.",
+      "translation": "研究表明，与陌生人进行短暂的交谈能使情绪得到明显的改善。",
+      "start": 627.49,
+      "end": 633.17,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But most of us are reluctant to start these conversations because we presume the opposite.",
+      "translation": "但我们大多数人都不愿意开启这些对话，因为我们以为情况恰恰相反。",
+      "start": 633.89,
+      "end": 638.59,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In an experiment, commuters who talked to nearby strangers found their commute more enjoyable than those who didn't.",
+      "translation": "在一项实验中，与身边的陌生人交谈的通勤者发现，他们的通勤过程比那些没有交谈的人更令人愉快。",
+      "start": 639.94,
+      "end": 647.14,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They were asked to predict whether they'd enjoy the commute more if they conversed with other people.",
+      "translation": "他们被要求预测如果与他人交谈，自己是否会更享受通勤。",
+      "start": 647.52,
+      "end": 652.7,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Intriguingly, most expected the more solitary experience to be more pleasurable.",
+      "translation": "有趣的是，大多数人预想独处的体验会更令人愉快。",
+      "start": 653.52,
+      "end": 658.06,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Why is this?",
+      "translation": "为什么会这样？",
+      "start": 658.84,
+      "end": 659.44,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Social anxiety appears to be the problem.",
+      "translation": "社交焦虑似乎是问题所在。",
+      "start": 660.38,
+      "end": 663.44,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "People's reluctance to start conversations with nearby strangers comes partly from \"underestimating others' interest in connecting\".",
+      "translation": "人们不愿意与身边的陌生人开启对话，部分原因在于“低估了他人建立联系的兴趣”。",
+      "start": 664.32,
+      "end": 671.84,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The sad thing is that people presume that a nearby stranger doesn't want to converse and don't start a conversation.",
+      "translation": "令人遗憾的是，人们假定身边的陌生人不想交谈，因而没有开启对话。",
+      "start": 672.76,
+      "end": 680.1,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Only those who forced themselves to chat because it was required by the experiment found out what a pleasant experience it could be.",
+      "translation": "只有那些因实验要求而强迫自己聊天的人，才发现这会是多么令人愉快的体验。",
+      "start": 680.84,
+      "end": 688.32,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Human beings are social animals.",
+      "translation": "人类是社交动物。",
+      "start": 689.06,
+      "end": 690.82,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Those who misunderstand the impact of social interactions may not, in some contexts, be social enough for their own well-being.",
+      "translation": "那些误解社交互动影响的人，在某些情况下可能为了自身的幸福感而表现得不够合群。",
+      "start": 691.92,
+      "end": 700.01,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You should be chatting with the strangers you encounter.",
+      "translation": "你应该与遇到的陌生人聊天。",
+      "start": 700.01,
+      "end": 702.33,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You may occasionally have a negative encounter that might stick in your memory.",
+      "translation": "你偶尔可能会遇到不愉快的经历，并且可能会留在记忆中。",
+      "start": 703.02,
+      "end": 706.78,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This is because the human brain is biased to dwell on negative events.",
+      "translation": "这是因为人类大脑倾向于关注负面事件。",
+      "start": 707.3,
+      "end": 711.34,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But starting conversations with strangers is still well worth the risk of rejection.",
+      "translation": "但冒着被拒绝的风险与陌生人开启对话依然非常值得。",
+      "start": 712.24,
+      "end": 716.72,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It may surprise you that conversing with strangers will make them happier too.",
+      "translation": "与陌生人交谈也会让他们感到更高兴，这可能会让你感到惊讶。",
+      "start": 718.07,
+      "end": 722.61,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The pleasure of connection seems contagious.",
+      "translation": "建立联系的乐趣似乎具有传染性。",
+      "start": 723.33,
+      "end": 725.55,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "People who are talked to have equally positive experiences as those who initiate a conversation.",
+      "translation": "被搭话的人与发起对话的人拥有同样积极的体验。",
+      "start": 726.71,
+      "end": 753.27,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Why does a negative encounter with strangers stick in one's memory?",
+      "translation": "为什么和陌生人的负面遭遇 总是停留在记忆中呢?",
+      "start": 779.16,
+      "end": 783.28
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 15.",
+      "translation": "问题15。",
+      "start": 796.79,
+      "end": 797.63
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the passage say the pleasure of connection seems to be?",
+      "translation": "段落上说连接的乐趣是什么?",
+      "start": 798.49,
+      "end": 802.25
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Section C, directions.",
+      "translation": "C节,方向。",
+      "start": 815.55,
+      "end": 816.97
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In this section you'll hear three recordings of lectures or talks followed by three or four questions.",
+      "translation": "在本节中,你们将听到三段演讲或谈话录音,然后三四个问题。",
+      "start": 818.07,
+      "end": 824.23
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The recordings will be played only once.",
+      "translation": "录音只播放一次。",
+      "start": 824.89,
+      "end": 826.71
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "you hear a question you must choose the best answer from the four choices marked A",
+      "translation": "听到一个问题 您必须从四个A类选择中 选择最好的答案",
+      "start": 827.53,
+      "end": 832.91
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "B, C, and D, then mark the corresponding letter on answer sheet 1 with a single line through the",
+      "translation": "B、C和D,然后在答复表1中用单行横线标出相应的字母,横划",
+      "start": 833.22,
+      "end": 843.3
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The Caribbean islands are divided into two worlds, a rich one and a poor one.",
+      "translation": "加勒比海诸岛被分为两个世界：一个富裕的世界和一个贫困的世界。",
+      "start": 843.3,
+      "end": 849.866,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This tropical region's economy is based mainly on farming.",
+      "translation": "这个热带地区的经济主要以农业为基础。",
+      "start": 849.866,
+      "end": 853.805,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Farmers are of two types.",
+      "translation": "农民有两种类型。",
+      "start": 853.805,
+      "end": 855.994,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "One is the plantation owner who may have hundreds of thousands of acres.",
+      "translation": "一种是拥有数十万英亩土地的种植园主。",
+      "start": 855.994,
+      "end": 861.685,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In contrast, the small cultivator is working only a few acres of land.",
+      "translation": "相比之下，小农只耕种几英亩土地。",
+      "start": 861.685,
+      "end": 866.56,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Most visitors to the Caribbean are rich, like the plantation owner.",
+      "translation": "大多数到加勒比海旅游的游客都很富有，就像种植园主一样。",
+      "start": 867.36,
+      "end": 871.78,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They do not realize or do not want to realize that many farm families barely managed to get by on what they grow.",
+      "translation": "他们没有意识到，或者不愿意识到，许多农民家庭仅靠自己种植的东西勉强维持生计。",
+      "start": 872.34,
+      "end": 880.24,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The Caribbean produces many things.",
+      "translation": "加勒比海地区生产许多东西。",
+      "start": 881.3,
+      "end": 883.44,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Sugar is the main product.",
+      "translation": "糖是主要产品。",
+      "start": 884.02,
+      "end": 885.46,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Other export crops are tobacco, coffee, bananas, spices and citrus fruits, such as orange, lemon or grapefruit.",
+      "translation": "其他出口作物包括烟草、咖啡、香蕉、香料和柑橘类水果，如橙子、柠檬或葡萄柚。",
+      "start": 886.36,
+      "end": 894.73,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "From the West Indies also come oil, mineral pitch and many forest products.",
+      "translation": "西印度群岛还出产石油、矿物沥青和许多林产品。",
+      "start": 895.49,
+      "end": 900.47,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Jamaica's aluminum ore supplies are the world's largest.",
+      "translation": "牙买加的铝矿储量居世界首位。",
+      "start": 901.39,
+      "end": 904.71,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Oil comes from Trinidad, Aruba and Curacao.",
+      "translation": "石油产自特立尼达、阿鲁巴和库拉索。",
+      "start": 905.51,
+      "end": 909.03,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But for many of the smaller islands, sugar is the only export.",
+      "translation": "但对许多较小的岛屿来说，糖是唯一的出口产品。",
+      "start": 909.03,
+      "end": 912.93,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Rum, a strong alcoholic drink, which is distilled from sugar cane, is also an export.",
+      "translation": "朗姆酒是一种从甘蔗中蒸馏出来的烈性酒，也是一种出口产品。",
+      "start": 914.01,
+      "end": 919.91,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The world's best rum comes from this area.",
+      "translation": "世界上最好的朗姆酒产自这一地区。",
+      "start": 920.57,
+      "end": 922.97,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Local kinds vary from the light rums of Puerto Rico to the heavier darker rums of Barbados and Jamaica.",
+      "translation": "当地朗姆酒的种类各不相同，从波多黎各的淡色朗姆酒，到巴巴多斯和牙买加较为浓烈、颜色较深的朗姆酒都有。",
+      "start": 923.79,
+      "end": 930.69,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "American tourists enjoy stocking up on inexpensive high quality Caribbean rum while they're on vacation.",
+      "translation": "美国游客在度假期间喜欢购买价格低廉而品质优良的加勒比朗姆酒。",
+      "start": 931.65,
+      "end": 938.81,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In Curacao, the well-known liquor of that name is made from the thick outer skin of a native orange.",
+      "translation": "在库拉索，以该地闻名的酒名命名的利口酒，是用当地一种橙子的厚外皮制成的。",
+      "start": 940.05,
+      "end": 947.07,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Ever since America's colonial days, the Caribbean islands have been favorite places to visit.",
+      "translation": "自美国殖民时期以来，加勒比海诸岛一直是人们喜爱的旅游地。",
+      "start": 947.99,
+      "end": 953.75,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Since World War II, tourism has increased rapidly.",
+      "translation": "第二次世界大战以来，旅游业迅速发展。",
+      "start": 954.41,
+      "end": 957.55,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Because great numbers of people go there, the islanders have built elaborate resorts, developed harbors and airfields, improved the beaches and have expanded sea and air routes.",
+      "translation": "由于前往那里的人数众多，岛民修建了精致的度假胜地，开发了港口和机场，改善了海滩，并扩展了海上和空中航线。",
+      "start": 958.61,
+      "end": 970.31,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Everything is at the resort-hotel, beach, shopping and recreation.",
+      "translation": "度假酒店、海滩、购物和娱乐一应俱全。",
+      "start": 971.07,
+      "end": 976.29,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The vacationer never has any reason to explore the island.",
+      "translation": "度假者完全没有理由去探索这座岛屿。",
+      "start": 977.11,
+      "end": 980.69,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "As in most places, those who have money live well indeed.",
+      "translation": "和大多数地方一样，有钱人确实过着优裕的生活。",
+      "start": 981.75,
+      "end": 985.89,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Those who don't have money live at various levels of poverty.",
+      "translation": "没有钱的人则处于不同程度的贫困之中。",
+      "start": 986.77,
+      "end": 990.35,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But here the poor greatly outnumber the wealthy.",
+      "translation": "但在这里，穷人的数量远远超过富人。",
+      "start": 991.35,
+      "end": 994.19,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "A visitor will find rich people living in apartments or Spanish houses at the seaside or in the countryside.",
+      "translation": "游客会看到富人住在海边或乡间的公寓里，或者住在西班牙式房屋中。",
+      "start": 995.22,
+      "end": 1001.86,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Their servants might include a cook, a maid, and a nurse for their children.",
+      "translation": "他们的仆人可能包括厨师、女佣和照顾孩子的护士。",
+      "start": 1002.73,
+      "end": 1007.21,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Most of the people live well below the poverty level.",
+      "translation": "大多数人的生活水平远低于贫困线。",
+      "start": 1008.21,
+      "end": 1010.87,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In towns, they live crowded together in tiny houses.",
+      "translation": "在城镇里，他们拥挤地住在狭小的房屋中。",
+      "start": 1011.65,
+      "end": 1014.63,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Islanders make the best they can of what they have.",
+      "translation": "岛民们尽可能利用自己所拥有的一切。",
+      "start": 1015.79,
+      "end": 1018.27,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Their homes are quite shabby.",
+      "translation": "他们的住房相当破旧。",
+      "start": 1019.07,
+      "end": 1020.29,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Sadly, most tourists never see the side of the Caribbean.",
+      "translation": "令人遗憾的是，大多数游客从未见过加勒比海的这一面。",
+      "start": 1021.07,
+      "end": 1024.77,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the speaker say about the economy of the Caribbean islands?",
+      "translation": "发言者对加勒比岛屿的经济怎么说?",
+      "start": 1032.09,
+      "end": 1036.15
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 17.",
+      "translation": "问题17。",
+      "start": 1050.05,
+      "end": 1050.83
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What is the main product of the Caribbean islands?",
+      "translation": "加勒比岛屿的主要产品是什么?",
+      "start": 1051.79,
+      "end": 1054.37
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 18.",
+      "translation": "问题18。",
+      "start": 1068.1,
+      "end": 1068.88
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What do we learn about the majority of people in the Caribbean islands?",
+      "translation": "我们如何了解加勒比岛屿上大多数人的情况?",
+      "start": 1069.7,
+      "end": 1073.84
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Recording 2.",
+      "translation": "记录2。",
+      "start": 1087.56,
+      "end": 1088.3
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Talk to anyone who is a generation or two older and they would most likely comment that children are more spoiled these days.",
+      "translation": "和比自己年长一两代的人交谈，他们很可能会说，如今的孩子更加娇生惯养了。",
+      "start": 1089.18,
+      "end": 1096.22,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "No one wants to have or be around demanding, selfish and spoiled children, those who get bad-tempered or silently brood when they are not given everything they want immediately.",
+      "translation": "没有人愿意拥有或和那些要求过多、自私且被宠坏的孩子相处；当他们不能立即得到自己想要的一切时，就会变得脾气暴躁或闷闷不乐。",
+      "start": 1096.62,
+      "end": 1108.0,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Paradoxically, the parents of such children encourage this demanding behavior in the mistaken belief that by giving their children everything they can their children will be happy.",
+      "translation": "矛盾的是，这类孩子的父母却错误地认为，只要尽可能满足孩子的一切要求，孩子就会感到幸福，于是反而助长了这种索取无度的行为。",
+      "start": 1109.46,
+      "end": 1119.84,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In the short term, perhaps they are right.",
+      "translation": "短期来看，他们或许是对的。",
+      "start": 1120.62,
+      "end": 1122.76,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But in the longer term, such children end up lonely, dependent, chronically dissatisfied and resentful of the parents who tried so hard to please them.",
+      "translation": "但从长远来看，这些孩子最终会变得孤独、依赖他人、长期不满，并对那些竭力取悦他们的父母心怀怨恨。",
+      "start": 1123.37,
+      "end": 1133.29,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Undoubtedly parents want to raise happy children who are confident, capable and likable rather than spoiled and miserable.",
+      "translation": "毫无疑问，父母都希望把孩子培养成幸福、自信、有能力且讨人喜欢的人，而不是被宠坏又不快乐的人。",
+      "start": 1134.12,
+      "end": 1141.56,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "One factor hindering this is that parents can't or don't spend enough quality time with their kids, and substitute this deficit with toys, games, gadgets and the like.",
+      "translation": "阻碍这一目标的一个因素是，父母无法或没有花足够的高质量时间陪伴孩子，于是用玩具、游戏、电子设备之类的东西来弥补这一不足。",
+      "start": 1142.42,
+      "end": 1154.1,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Rather than getting material things, children need parents' devoted attention.",
+      "translation": "孩子需要的不是物质上的东西，而是父母全心全意的关注。",
+      "start": 1154.8,
+      "end": 1160.36,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The quantity of time spent together is less important than the content of that time.",
+      "translation": "共同相处的时间长短并不如相处时光的内容重要。",
+      "start": 1160.36,
+      "end": 1165.28,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Instead of instantly satisfying their wishes, parents should help them work out a plan to earn things they'd like to have.",
+      "translation": "父母不应立即满足孩子的愿望，而应帮助他们制定计划，通过努力获得自己想要的东西。",
+      "start": 1166.06,
+      "end": 1173.64,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This teaches them to value the effort as well as what it achieves.",
+      "translation": "这能教会他们既重视努力本身，也重视努力所取得的成果。",
+      "start": 1174.24,
+      "end": 1178.2,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Allow them to enjoy anticipation.",
+      "translation": "让孩子享受期待的过程。",
+      "start": 1179.43,
+      "end": 1181.09,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Numerous psychological studies have demonstrated that children who learn to wait for things they desire are more likely to succeed in a number of ways later in life.",
+      "translation": "大量心理学研究表明，学会等待自己渴望的事物的孩子，日后更有可能在许多方面取得成功。",
+      "start": 1181.96,
+      "end": 1191.2,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "One famous experiment in the 1960s involved 3- to 6-year-old children.",
+      "translation": "20世纪60年代进行的一项著名实验以3至6岁的儿童为对象。",
+      "start": 1192.02,
+      "end": 1197.58,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They were given a choice between receiving a small reward, such as a cookie, immediately, or if they waited 15 minutes, they could have two.",
+      "translation": "他们可以选择立即得到一份小奖励，例如一块饼干；也可以等待15分钟，这样就能得到两块。",
+      "start": 1198.12,
+      "end": 1206.72,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Follow up studies have found that those who chose to delay satisfaction are now more academically successful, have greater self-worth, and even tend to be healthier.",
+      "translation": "后续研究发现，那些选择延迟满足的孩子，如今在学业上更加成功，自我价值感更强，而且往往也更加健康。",
+      "start": 1207.25,
+      "end": 1218.05,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "If they fail, children should be encouraged to keep trying rather than to give up if they really want the desired result.",
+      "translation": "如果失败了，只要孩子确实想要达到预期的结果，就应鼓励他们继续尝试，而不是放弃。",
+      "start": 1219.2,
+      "end": 1226.38,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This teaches them how to handle and recover from disappointment, which is associated with greater success and satisfaction academically, financially and in personal relationships.",
+      "translation": "这能教会他们如何应对失望并从中恢复，而这与他们在学业、经济状况和个人关系方面取得更大的成功与满足感有关。",
+      "start": 1227.26,
+      "end": 1238.78,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And lastly, parents should encourage their children to look at life from other points of view, as well as their own.",
+      "translation": "最后，父母还应鼓励孩子从其他人的角度以及自己的角度看待生活。",
+      "start": 1239.93,
+      "end": 1246.11,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This teaches them to be understanding of and sympathetic towards others—qualities sure to take them a long way in life.",
+      "translation": "这能教会他们理解和同情他人，而这些品质必将让他们在人生道路上受益匪浅。",
+      "start": 1246.89,
+      "end": 1254.87,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions 19 to 21 are based on the recording you have just heard.",
+      "translation": "问题19至21是基于你刚才听到的录音",
+      "start": 1255.84,
+      "end": 1261.02
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 19.",
+      "translation": "问题19。",
+      "start": 1262.09,
+      "end": 1262.95
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What will happen to children?",
+      "translation": "儿童会怎样?",
+      "start": 1264.17,
+      "end": 1265.27
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "If they always get immediate satisfaction.",
+      "translation": "如果他们总是得到 立即满意。",
+      "start": 1265.64,
+      "end": 1268.26
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "20.",
+      "translation": "20. 20个",
+      "start": 1282.2,
+      "end": 1282.8
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What may prevent parents from raising confident and capable children?",
+      "translation": "是什么可以阻止父母抚养自信和有能力的孩子?",
+      "start": 1283.68,
+      "end": 1288.16
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 21.",
+      "translation": "问题21",
+      "start": 1301.59,
+      "end": 1302.71
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Why should children be encouraged to keep trying when they fail?",
+      "translation": "为什么要鼓励儿童在失败时继续尝试呢?",
+      "start": 1303.53,
+      "end": 1307.51
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "3.",
+      "translation": "3 个",
+      "start": 1321.3,
+      "end": 1321.86
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's not hard to mess up an interview.",
+      "translation": "搞砸面试并不难",
+      "start": 1322.76,
+      "end": 1322.9
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It is not hard to mess up an interview.",
+      "translation": "面试出错并不难。",
+      "start": 1322.9,
+      "end": 1324.56,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Most people feel nervous sitting across from a hiring manager, answering questions that effectively open themselves up for judgment.",
+      "translation": "大多数人坐在招聘经理对面，回答那些实际上会让自己暴露在评判之下的问题时，都会感到紧张。",
+      "start": 1325.36,
+      "end": 1333.19,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And your chances of being more carefully considered for the job can quickly go downhill just by saying the wrong thing at the wrong time.",
+      "translation": "仅仅因为在错误的时间说了错误的话，你被更认真地考虑录用的机会就可能迅速下降。",
+      "start": 1334.07,
+      "end": 1343.59,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The most obvious thing not to do is complain.",
+      "translation": "最明显应该避免的事情就是抱怨。",
+      "start": 1344.55,
+      "end": 1347.21,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Employers want to hire positive people.",
+      "translation": "雇主希望招聘积极乐观的人。",
+      "start": 1348.31,
+      "end": 1350.05,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Talking about a previous job negatively raises concerns that you might be difficult to manage, or you might be someone that blames management for your own poor performance.",
+      "translation": "负面谈论上一份工作会引发担忧，让人觉得你可能难以管理，或者你可能是那种把自己的糟糕表现归咎于管理层的人。",
+      "start": 1350.73,
+      "end": 1361.69,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Don't say that you've moved around in jobs because you haven't found the right fit or feel that you were not challenged enough.",
+      "translation": "不要说你换过多份工作是因为一直没有找到合适的岗位，或者觉得自己没有得到足够的挑战。",
+      "start": 1362.69,
+      "end": 1369.23,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Statements like these will make you sound aimless and lost.",
+      "translation": "这样的说法会让你听起来漫无目的、迷失方向。",
+      "start": 1369.99,
+      "end": 1373.65,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "An interviewer may well think, why would this role be any different for you?",
+      "translation": "面试官很可能会想：这个职位对你来说又会有什么不同呢？",
+      "start": 1374.65,
+      "end": 1378.73,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You will probably leave here in six months.",
+      "translation": "你大概六个月后就会离开这里。",
+      "start": 1379.45,
+      "end": 1381.69,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It also begs the question of what type of relationship you had with your manager.",
+      "translation": "这也会让人不禁思考你和经理之间的关系如何。",
+      "start": 1382.33,
+      "end": 1386.65,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It doesn't sound like you had open communication with him or her.",
+      "translation": "听起来，你似乎没有与他或她进行坦诚的沟通。",
+      "start": 1387.59,
+      "end": 1391.47,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Managers usually love people who can self-sustain and enable growth through taking initiative, who are strong at following through their work, and who bring ideas and solutions to the table.",
+      "translation": "经理通常很喜欢那些能够自我驱动、通过主动采取行动促进成长、善于把工作贯彻到底，并且能够提出想法和解决方案的人。",
+      "start": 1392.15,
+      "end": 1404.19,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "If you were in a management or leadership position, when discussing your current role, never take all the credit for accomplishments or achievements.",
+      "translation": "如果你曾担任管理或领导职位，在谈论当前职位时，绝不要把所有功劳或成就都归于自己。",
+      "start": 1405.32,
+      "end": 1413.37,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Emphasize your team and how through their talents, your vision was realized.",
+      "translation": "要突出你的团队，以及你是如何凭借他们的才能实现自己的愿景的。",
+      "start": 1414.19,
+      "end": 1418.65,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Most successful leaders know that they are only as good as their team.",
+      "translation": "大多数成功的领导者都知道，自己的能力取决于团队的表现。",
+      "start": 1419.63,
+      "end": 1423.35,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And acknowledging this in an interview will go a long way towards suggesting that you might be the right person for the position you are applying for.",
+      "translation": "在面试中承认这一点，将大大有助于表明你可能正是所申请职位的合适人选。",
+      "start": 1424.13,
+      "end": 1433.19,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Lastly, have a good idea of what your role will be and try and convey the idea that you're flexible.",
+      "translation": "最后，要清楚了解自己的职责，并努力传达出你具有灵活性。",
+      "start": 1434.13,
+      "end": 1441.23,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Asking what your role will be suggests you will limit yourself purely to what is expected of you.",
+      "translation": "询问自己的职责是什么，会让人觉得你打算把自己严格限制在他人对你的期望之内。",
+      "start": 1442.13,
+      "end": 1447.63,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In reality, your role is whatever you make of it.",
+      "translation": "实际上，你的职责取决于你如何发挥。",
+      "start": 1448.35,
+      "end": 1451.43,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This is especially true in small companies, where the ability to adapt and take on new responsibilities is highly valued.",
+      "translation": "在小公司中尤其如此，因为适应变化并承担新的责任的能力备受重视。",
+      "start": 1452.05,
+      "end": 1459.83,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And this is equally important if you're just starting out.",
+      "translation": "如果你刚刚开始职业生涯，这一点同样重要。",
+      "start": 1460.67,
+      "end": 1463.73,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Entry level interviewees would do well to demonstrate a broad set of skills in most interviews.",
+      "translation": "对于初级职位的面试者来说，在大多数面试中展示广泛的技能组合会很有帮助。",
+      "start": 1464.32,
+      "end": 1470.94,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's important to have a wide skill set as many startups and small companies are moving really fast.",
+      "translation": "拥有多方面的技能非常重要，因为许多初创公司和小公司发展得非常快。",
+      "start": 1471.78,
+      "end": 1478.26,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Employers are looking for candidates that are intelligent and can quickly adapt and excel in a growing company.",
+      "translation": "雇主正在寻找聪明、能够迅速适应并在不断成长的公司中取得优异表现的候选人。",
+      "start": 1479.28,
+      "end": 1485.76,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions 22 to 25 are based on the recording you have just heard.",
+      "translation": "问题22至25是基于你刚才听到的录音",
+      "start": 1487.06,
+      "end": 1491.46
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "22.",
+      "translation": "22. 妇女 22",
+      "start": 1492.96,
+      "end": 1493.5
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the speaker say can easily prevent an interviewee from getting a job?",
+      "translation": "发言者说什么可以轻易阻止受访者找到工作?",
+      "start": 1494.1,
+      "end": 1498.84
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 23 What should the interviewee avoid doing in an interview?",
+      "translation": "问题23 受访者在接受访谈时如何避免这样做?",
+      "start": 1512.36,
+      "end": 1518.16
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 24 What kind of employees do companies like to recruit?",
+      "translation": "问题24:公司喜欢招聘什么样的雇员?",
+      "start": 1531.84,
+      "end": 1537.34
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 25 What is especially important for those working in a small company?",
+      "translation": "问题25 哪些对于在小公司工作的人特别重要?",
+      "start": 1550.98,
+      "end": 1557.46
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That's the end of listening comprehension.",
+      "translation": "听觉理解到此结束",
+      "start": 1570.79,
+      "end": 1573.15
+    }
+  ],
+  "translation_sources": [
+    "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/",
+    "Sams200/opus-mt-en-zh (unmatched sentences only)"
+  ]
+}

@@ -1,0 +1,1733 @@
+{
+  "id": "cet6-2025_06_1",
+  "title": "2025年6月 第1套",
+  "level": 6,
+  "source_url": "https://www.cettong.cn/library/cet6/2025_06_1",
+  "material_source": "https://117.72.200.49/#/library",
+  "audio": "assets/tavern/listening/real-exams/cettong/cet6/2025/2025_06_1.mp3",
+  "caption_kind": "published_material_with_auxiliary_timing_and_translation",
+  "caption_models": [
+    "Systran/faster-whisper-base.en",
+    "Sams200/opus-mt-en-zh"
+  ],
+  "lines": [
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Good morning.",
+      "translation": "早上好 早",
+      "start": 41.16,
+      "end": 41.78
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "My name is Bob Fetterman.",
+      "translation": "我叫鲍勃・费德曼",
+      "start": 42.28,
+      "end": 43.9
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'm the computer technician.",
+      "translation": "我是电脑技师",
+      "start": 43.9,
+      "end": 45.0
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Didn't I call for you last week?",
+      "translation": "W：上周不是我打电话叫你来的吗？",
+      "start": 45.78,
+      "end": 47.56,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Maybe?",
+      "translation": "M：可能吧？",
+      "start": 48.14,
+      "end": 48.4,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I work for Alpha Maintenance.",
+      "translation": "我为 Alpha Maintenance 工作。",
+      "start": 49.0,
+      "end": 50.1,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I imagine someone from your office called our central office and I'm the engineer designated to your case.",
+      "translation": "我想应该是你们办公室有人打电话给了我们的总部，而我是负责处理你们这个问题的工程师。",
+      "start": 51.1,
+      "end": 56.14,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Yeah, I spoke to a lady there last Tuesday, which is now 10 days ago.",
+      "translation": "W：是的，我上周二，也就是十天前，跟那边的一位女士谈过。",
+      "start": 56.7,
+      "end": 61.09,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I made it clear it was an urgent matter and please send someone as soon as possible.",
+      "translation": "我明确说过这是件急事，请尽快派人过来。",
+      "start": 61.81,
+      "end": 66.59,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Couldn't you or someone else have come sooner?",
+      "translation": "你或者其他人就不能早点来吗？",
+      "start": 67.43,
+      "end": 69.55,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'm sorry, but I'm not in charge of scheduling all logistics.",
+      "translation": "M：很抱歉，但我不负责安排所有的后勤事宜。",
+      "start": 70.19,
+      "end": 73.31,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I simply do not know.",
+      "translation": "我确实不知道。",
+      "start": 73.97,
+      "end": 74.89,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "All I can tell you is I got the call this week and came as soon as I could.",
+      "translation": "我只能告诉你，我是这周接到电话的，并且已经尽可能快地赶来了。",
+      "start": 75.37,
+      "end": 79.27,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I see.",
+      "translation": "我明白了。",
+      "start": 79.71,
+      "end": 80.21,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Well, I'll have you know, my manager is rather indignant that it's taken you this long to come.",
+      "translation": "不过我要告诉你，我的经理对你们花了这么长时间才过来相当不满。",
+      "start": 81.03,
+      "end": 85.81,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I understand it might not be your fault, but nevertheless, you should know what the feeling is around here.",
+      "translation": "我知道这可能不是你的错，但不管怎样，你应该知道这里对此事的看法。",
+      "start": 86.19,
+      "end": 92.21,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I understand, and I'm sorry for any inconvenience.",
+      "translation": "M：我明白，也很抱歉给你带来不便。",
+      "start": 92.75,
+      "end": 94.97,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I will try to resolve your computer problem as swiftly and optimally as I can.",
+      "translation": "我会尽我所能，尽快、妥善地解决你们的电脑问题。",
+      "start": 95.83,
+      "end": 99.77,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What and where is the issue?",
+      "translation": "问题是什么，在哪里？",
+      "start": 100.35,
+      "end": 101.71,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's this machine right here.",
+      "translation": "W：就是这台机器。",
+      "start": 102.25,
+      "end": 103.61,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It was running slow for a while, I guess, and gradually got worse and worse.",
+      "translation": "它运行缓慢有一阵子了，我想，然后逐渐变得越来越糟。",
+      "start": 103.95,
+      "end": 108.13,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Last Tuesday, it just stopped working altogether.",
+      "translation": "上周二，它彻底停止工作了。",
+      "start": 108.87,
+      "end": 111.21,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "If you switch it on, you will see what I mean.",
+      "translation": "你把它打开就知道我说的是什么意思了。",
+      "start": 112.01,
+      "end": 114.15,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Okay.",
+      "translation": "M：好的。",
+      "start": 114.71,
+      "end": 115.13,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Do you know if it's backed up?",
+      "translation": "你知道它有没有备份吗？",
+      "start": 115.88,
+      "end": 117.38,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Backed up?",
+      "translation": "W：备份？",
+      "start": 117.78,
+      "end": 118.5,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I mean, do you know if its contents have been copied and saved somewhere else?",
+      "translation": "M：我的意思是，你知道里面的内容有没有被复制并保存到其他地方吗？",
+      "start": 118.9,
+      "end": 122.66,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I don't know.",
+      "translation": "W：我不知道。",
+      "start": 123.14,
+      "end": 123.96,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Well, depending on the ensuing operative scenario, if I need to wipe the system directories clean in order to reconfigure default protocols, then my first intervention should be to intricately retrieve all inventories that I can.",
+      "translation": "那么,根据接下来的操作方案, 如果我需要清理系统目录 来重新配置默认协议, 那么我的第一个干预应该是 仔细地检索所有我能够检索到的清单。",
+      "start": 124.52,
+      "end": 138.68
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Otherwise, all data that was stored on its hard drive will be forever lost.",
+      "translation": "否则,其硬盘上储存的所有数据将永远丢失。",
+      "start": 139.34,
+      "end": 143.5
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "My manager would know.",
+      "translation": "W：我的经理应该知道。",
+      "start": 143.98,
+      "end": 145.32,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Let me go get him.",
+      "translation": "我去把他叫来。",
+      "start": 145.56,
+      "end": 146.52,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions 1-4 are based on the conversation you have just heard.",
+      "translation": "问题1 -4是基于你刚才听到的谈话",
+      "start": 147.92,
+      "end": 151.68
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 1.",
+      "translation": "问题1",
+      "start": 152.85,
+      "end": 153.39
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What did the woman do last Tuesday?",
+      "translation": "上周二那个女人做了什么?",
+      "start": 153.96,
+      "end": 156.4
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 2.",
+      "translation": "问题2",
+      "start": 170.24,
+      "end": 170.88
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the man say he did when he got the call?",
+      "translation": "他接到电话时说了什么?",
+      "start": 171.26,
+      "end": 174.28
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 3.",
+      "translation": "问题3",
+      "start": 187.85,
+      "end": 188.47
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What is the feeling about the problem around the woman's workplace?",
+      "translation": "女性工作场所的问题是什么感觉?",
+      "start": 188.89,
+      "end": 192.45
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 4.",
+      "translation": "问题4",
+      "start": 206.39,
+      "end": 207.11
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the woman say her manager would know?",
+      "translation": "那女人说她的经理知道什么?",
+      "start": 207.55,
+      "end": 210.09
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Conversation 2.",
+      "translation": "对话2。",
+      "start": 223.65,
+      "end": 224.77
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Have you given more thought to studying law?",
+      "translation": "你有没有进一步考虑过学法律？",
+      "start": 225.65,
+      "end": 227.89,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I've been thinking about it a lot, yes.",
+      "translation": "我确实认真考虑过很多次。",
+      "start": 228.35,
+      "end": 230.53,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In fact, this is why I wished to speak to you.",
+      "translation": "事实上，这就是我想和你谈谈的原因。",
+      "start": 231.27,
+      "end": 233.65,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I wanted to hear more about what it's like.",
+      "translation": "我想多了解一下这个职业到底是什么样的。",
+      "start": 234.01,
+      "end": 236.07,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "A career in law is a beautiful thing in my opinion.",
+      "translation": "在我看来，从事法律工作是一件很美好的事。",
+      "start": 236.77,
+      "end": 239.47,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Many people will say it's a boring field, but I disagree.",
+      "translation": "很多人会说这是个无聊的领域，但我不这么认为。",
+      "start": 240.19,
+      "end": 243.13,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The thing is there are many different branches of law and many different jobs.",
+      "translation": "问题在于，法律有许多不同的分支，也有许多不同的工作。",
+      "start": 243.83,
+      "end": 248.01,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You are involved with buildings and construction, right?",
+      "translation": "你是从事建筑和施工方面工作的，对吧？",
+      "start": 248.57,
+      "end": 251.91,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Correct.",
+      "translation": "没错。",
+      "start": 252.33,
+      "end": 252.61,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'm a solicitor, specializing in real estate.",
+      "translation": "我是一名事务律师，专门从事房地产法律事务。",
+      "start": 253.15,
+      "end": 255.81,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Most of my work involves mediating land disputes.",
+      "translation": "我的大部分工作都涉及调解土地纠纷。",
+      "start": 256.37,
+      "end": 258.73,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Do you mind giving me an example?",
+      "translation": "你介意举个例子吗？",
+      "start": 259.45,
+      "end": 261.07,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Sure.",
+      "translation": "当然可以。",
+      "start": 261.63,
+      "end": 261.93,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So in many cases I am employed to arbitrate between two clashing parties.",
+      "translation": "很多时候，我会受雇在两个发生冲突的当事人之间进行仲裁。",
+      "start": 262.68,
+      "end": 267.6,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Let's say for example, there are two landowners who are in a thorny disagreement about something like the borders of their adjacent plots.",
+      "translation": "比如说，有两位土地所有者，因为相邻地块的边界之类的问题而陷入棘手的争执。",
+      "start": 268.34,
+      "end": 275.82,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Someone may employ me to break the deadlock and resolve the dispute.",
+      "translation": "有人可能会聘请我来打破僵局，解决这场纠纷。",
+      "start": 276.48,
+      "end": 280.26,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Often my work involves negotiating agreements, plain and simple.",
+      "translation": "很多时候，我的工作就是协商达成协议，仅此而已。",
+      "start": 280.98,
+      "end": 284.61,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So you are saying that a lot of what you do is fix people's legal issues, like you try to find a solution that benefits everyone and that prevents a problem from escalating.",
+      "translation": "所以你的意思是，你所做的很多事情都是在解决人们的法律问题，比如努力找到一个对大家都有利的解决方案，防止问题进一步恶化。",
+      "start": 285.19,
+      "end": 295.61,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Exactly, well put.",
+      "translation": "没错，你说得很准确。",
+      "start": 296.37,
+      "end": 297.75,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You need to remember that courts, like all bureaucracies really, can be very messy, frustrating, and expensive.",
+      "translation": "你要记住，法院和所有官僚机构一样，往往会非常混乱、令人沮丧，而且费用高昂。",
+      "start": 298.61,
+      "end": 304.71,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "For this reason, it's usually better to resolve problems outside of court whenever possible.",
+      "translation": "因此，只要有可能，通常最好在法院之外解决问题。",
+      "start": 305.55,
+      "end": 310.27,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I see.",
+      "translation": "我明白了。",
+      "start": 310.72,
+      "end": 311.26,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So besides knowing the law inside out, you need good people skills, right?",
+      "translation": "所以除了要对法律了如指掌之外，还需要有很好的人际交往能力，对吧？",
+      "start": 312.02,
+      "end": 316.18,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Of course.",
+      "translation": "当然。",
+      "start": 316.5,
+      "end": 316.88,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Any job that involves people requires good interpersonal skills, and any law professional needs to be very eloquent at articulating that argument.",
+      "translation": "任何涉及与人打交道的工作都需要良好的人际交往能力，而任何法律从业者都需要非常善于清晰、有说服力地表达自己的观点。",
+      "start": 317.54,
+      "end": 325.96,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Right.",
+      "translation": "对。",
+      "start": 326.46,
+      "end": 326.84,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So I've been thinking about studying criminal law.",
+      "translation": "所以我一直在考虑学习刑法。",
+      "start": 327.4,
+      "end": 330.06,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I think it sounds very interesting.",
+      "translation": "我觉得这听起来很有意思。",
+      "start": 330.44,
+      "end": 331.82,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Mm-hmm, yes.",
+      "translation": "嗯，是的。",
+      "start": 331.82,
+      "end": 333.28,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'd say there's more money in property law, but the stakes are higher in criminal law.",
+      "translation": "我想房地产法能赚更多钱，但刑法涉及的利害关系更大。",
+      "start": 334.06,
+      "end": 338.46,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I can see how you would find it more interesting.",
+      "translation": "我能理解你为什么会觉得它更有趣。",
+      "start": 338.76,
+      "end": 340.8,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the man think is required of any law professional?",
+      "translation": "男人认为法律专业需要什么?",
+      "start": 403.92,
+      "end": 407.16
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "on answer sheet one with a single",
+      "translation": "在回答单单单",
+      "start": 445.34,
+      "end": 447.26
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "line the",
+      "translation": "直线",
+      "start": 448.36,
+      "end": 452.433
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "When a person tries to access a memory, their brains quickly examine everything stored in it to find the relevant information.",
+      "translation": "当一个人试图提取一段记忆时，其大脑会迅速检查其中储存的所有内容，以找出相关信息。",
+      "start": 452.433,
+      "end": 475.462,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But as we age, many of us have difficulty retrieving memories.",
+      "translation": "但随着年龄增长，我们中的许多人会难以回忆起记忆。",
+      "start": 475.462,
+      "end": 475.584,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In a review published in the journal *Trends in Cognitive Sciences* on February 11th, researchers propose an explanation for why this might be happening: the brains of older adults allocate more space to accumulated knowledge and have more material to navigate when attempting to access memories.",
+      "translation": "研究人员在2月11日发表于《认知科学趋势》杂志的一篇综述中提出了这一现象可能发生的原因：老年人的大脑会为积累的知识分配更多空间，因此在尝试提取记忆时需要在更多内容中进行搜索。",
+      "start": 475.584,
+      "end": 484.91,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "While this wealth of prior knowledge can make memory retrieval challenging, the researchers say it has its upsides—this life experience can aid with creativity and decision-making.",
+      "translation": "研究人员表示，尽管这些丰富的既有知识会使记忆提取变得更具挑战性，但它也有积极的一面——这些人生经历能够帮助人们进行创造和决策。",
+      "start": 485.91,
+      "end": 498.28,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Researchers Tarek Amer, Jordana Wynn and Lynn Hasher looked at several behavioral and brain imaging studies, which show that older adults have difficulty suppressing information that is no longer relevant and that when searching for a specific memory, they often retrieve other, irrelevant memories along with it.",
+      "translation": "研究者Tarek Amer、Jordana Wynn和Lynne Hasher研究了若干行为和脑成像研究,这些研究显示,老年人难以压制不再相关的信息,在寻找特定记忆时,他们往往会同时检索其他无关的记忆。",
+      "start": 498.28,
+      "end": 520.49
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The studies also showed that when given a cognitive task, older adults rely more heavily on previous knowledge than younger adults do.",
+      "translation": "研究还表明,如果赋予老年人认知任务,老年人比年青成人更依赖以前的知识。",
+      "start": 521.55,
+      "end": 529.79
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "While the researchers focus primarily on the difficulties that these disorderly, crowded memories may pose, they also highlight a few situations in which these same memory patterns may be useful.",
+      "translation": "尽管研究人员主要关注这些杂乱、拥挤的记忆可能造成的困难，但他们也指出了几种相同记忆模式可能发挥作用的情形。",
+      "start": 530.92,
+      "end": 543.74,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "\"Evidence suggests that older adults show preserved, and at times enhanced, creativity as a function of enriched memories,\" the researchers write.",
+      "translation": "研究人员写道：“证据表明，老年人的创造力得益于记忆内容的丰富，不仅得以保持，有时还会有所增强。",
+      "start": 545.19,
+      "end": 554.77,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They further hypothesize that older adults may be well served by their prior knowledge when it comes to decision-making, where they can pull on their accumulated wisdom.",
+      "translation": "”他们进一步推测，在进行决策时，老年人可能会受益于自己的既有知识，因为他们能够运用积累的智慧。",
+      "start": 555.53,
+      "end": 565.89,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 11.",
+      "translation": "问题11。",
+      "start": 610.38,
+      "end": 611.4
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does evidence suggest regarding older adults?",
+      "translation": "有关老年人的证据表明什么?",
+      "start": 612.24,
+      "end": 615.42
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "There are at least four major problems with work in America today.",
+      "translation": "如今，美国的工作至少存在四个主要问题。",
+      "start": 628.65,
+      "end": 631.033,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "There are at least four major problems with work in America today.",
+      "translation": "如今，美国的工作至少存在四个主要问题。",
+      "start": 631.033,
+      "end": 634.46,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "First, work can be alienating.",
+      "translation": "首先，工作可能导致异化。",
+      "start": 635.74,
+      "end": 637.98,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Workers are often not in control of how they work, when they work, what is done with the goods and services they produce, and what is done with the profits made from their work.",
+      "translation": "劳动者往往无法掌控自己的工作方式、工作时间、对其生产的商品和服务的处置方式，以及对其劳动所创造利润的处置方式。",
+      "start": 638.91,
+      "end": 648.89,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Second, workers are not paid the full value of their labor.",
+      "translation": "其次，劳动者没有获得其劳动的全部价值。",
+      "start": 650.15,
+      "end": 654.5,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Real wages have not kept pace with productivity, driving economic inequality and a decline in labor's share of income.",
+      "translation": "实际工资未能与生产率同步增长，导致经济不平等加剧，并使劳动收入在总收入中的占比下降。",
+      "start": 654.5,
+      "end": 661.9,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Third, people are time poor.",
+      "translation": "第三，人们缺乏时间。",
+      "start": 663.47,
+      "end": 665.37,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In the U.S., full time employees work an average of 8.72 hours per day despite productivity increases.",
+      "translation": "尽管生产率有所提高，美国的全职雇员每天平均工作8.72小时。",
+      "start": 665.37,
+      "end": 674.53,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Long working hours contribute to the feeling of \"time poverty\", which has an adverse effect on psychological well-being.",
+      "translation": "长时间工作加剧了“时间贫困”感，并对心理健康产生不利影响。",
+      "start": 675.47,
+      "end": 684.66,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Fourth, automation puts jobs and wages at risk.",
+      "translation": "第四，自动化使工作岗位和工资面临风险。",
+      "start": 684.66,
+      "end": 688.8,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Technological innovation could in theory liberate people from the 40-hour work week.",
+      "translation": "从理论上说，技术创新可以使人们摆脱每周40小时的工作制。",
+      "start": 689.42,
+      "end": 694.2,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But unless changes are made to the structure of work, automation will simply exert downward pressure on wages and further diminish work opportunities.",
+      "translation": "但是，除非对工作结构进行改变，否则自动化只会给工资施加下行压力，并进一步减少工作机会。",
+      "start": 694.68,
+      "end": 703.44,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So, what can be done to alleviate these problems?",
+      "translation": "那么，可以采取什么措施来缓解这些问题呢？",
+      "start": 705.0,
+      "end": 708.16,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "There are competing visions of the best way to arrive at a solution.",
+      "translation": "对于如何实现解决方案，人们存在相互竞争的构想。",
+      "start": 708.95,
+      "end": 712.71,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "One vision is what's known as the \"post-work\" position.",
+      "translation": "其中一种构想被称为“后工作”立场。",
+      "start": 714.07,
+      "end": 716.89,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The post-work theorists believe that work should not hold a central position in our lives or take up so much of our time.",
+      "translation": "后工作理论家认为，工作不应在我们的生活中占据核心地位，也不应占用我们如此多的时间。",
+      "start": 718.08,
+      "end": 725.48,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They assert that although doing some work might be necessary, meaning, purpose and social value reside in the communities and relationships built and sustained outside of the workplace.",
+      "translation": "他们主张，尽管从事一定的工作可能是必要的，但意义、目标和社会价值存在于工作场所以外建立并维系的社区和关系之中。",
+      "start": 726.14,
+      "end": 737.3,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Thus, life should be seen as an end in itself.",
+      "translation": "因此，生活本身应被视为目的。",
+      "start": 738.12,
+      "end": 741.63,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Section C.",
+      "translation": "C节。",
+      "start": 819.85,
+      "end": 820.91
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Directions.",
+      "translation": "方向",
+      "start": 821.68,
+      "end": 822.1
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In this section you will hear three recordings of lectures or talks followed by three or four questions.",
+      "translation": "在本节中,你们将听取三场演讲或会谈录音,然后是三四个问题。",
+      "start": 823.36,
+      "end": 829.34
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The recordings will be played only once.",
+      "translation": "录音只播放一次。",
+      "start": 830.12,
+      "end": 831.98
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "After you hear a question, you must choose the best answer from the four choices marked A, B, C and D.",
+      "translation": "在听到一个问题后,你必须从四个选择中选择最好的答案,这四个选择分别是A、B、C和D。",
+      "start": 832.84,
+      "end": 839.18
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "mark the corresponding letter on answer sheet one with a single line through the center.",
+      "translation": "在答题单单行的答题表一中标出相应的字母。",
+      "start": 840.06,
+      "end": 845.08
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Recording one.",
+      "translation": "记录一。",
+      "start": 846.48,
+      "end": 847.18
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Recent studies show that self-control and persistence increase academic outcomes independent of IQ.",
+      "translation": "最近的研究表明,自我控制和持久性会增加学术成果,而不考虑智商问题。",
+      "start": 848.1,
+      "end": 848.7
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Recent studies show that self-control and persistence increase academic outcomes, independence of IQ.",
+      "translation": "近期研究表明，自我控制和坚持不懈能够提升学业表现，而这一作用独立于智商。",
+      "start": 848.7,
+      "end": 854.78,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Even our personal beliefs about efforts can affect academic outcomes.",
+      "translation": "甚至我们对努力的个人看法也会影响学业表现。",
+      "start": 856.1,
+      "end": 859.62,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Children who think effort leads to achievement outperform those who believe ability is a fixed trait.",
+      "translation": "认为努力能够带来成就的儿童，比那些认为能力是一种固定特质的儿童表现更好。",
+      "start": 860.21,
+      "end": 866.59,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Given the link between persistence and academic success, decisions about efforts are particularly important in childhood.",
+      "translation": "鉴于坚持不懈与学业成功之间的联系，童年时期对是否付出努力的判断尤为重要。",
+      "start": 867.64,
+      "end": 875.18,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Yet, relatively little research has explored how young children learn what's worth the effort.",
+      "translation": "然而,研究相对较少,探索幼儿如何学习值得努力的东西。",
+      "start": 875.76,
+      "end": 881.9
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We all know that infants are keen observers of the social world, but they're not just idly watching; they are tiny learning machines.",
+      "translation": "我们都知道,婴儿是社会世界的热心观察者, 但他们不只是袖手旁观, 他们是微小的学习机器。",
+      "start": 883.01,
+      "end": 891.45
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They can generalize such abstract concepts as causal relationships and social roles from just a few examples.",
+      "translation": "它们可以从几个例子中概括诸如因果关系和社会作用等抽象概念。",
+      "start": 892.43,
+      "end": 899.51
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Even a 15-month-old infant can outperform a high level computer in such tasks.",
+      "translation": "即使是15个月的婴儿,在这类任务上也能比高级计算机表现得更好。",
+      "start": 900.63,
+      "end": 905.91
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Could infants also make broad generalizable inferences from a few examples when it comes to effort?",
+      "translation": "婴儿在努力时能否从几个例子中作出可广泛理解的推论?",
+      "start": 906.96,
+      "end": 912.9
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "If so, then maybe persistence isn't simply a character trait.",
+      "translation": "如果是这样的话,那么也许持久性 不仅仅是个性特征。",
+      "start": 913.46,
+      "end": 917.58
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Maybe it's flexible and adaptable based on social context.",
+      "translation": "也许它是灵活的,适应的 社会环境。",
+      "start": 918.58,
+      "end": 923.14
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "To explore this question, we showed 15-month-old babies one of two things—an experimenter working hard to achieve two different goals, or an experimenter who effortlessly reached each goal.",
+      "translation": "为了探究这一问题，我们向15个月大的婴儿展示两种情形中的一种：一名实验者努力工作以实现两个不同的目标，或者一名毫不费力地实现每个目标的实验者。",
+      "start": 924.44,
+      "end": 937.96,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Then we introduced the baby to a novel music toy that seemed as if it could be activated by pushing a big button on top.",
+      "translation": "随后，我们向婴儿介绍一个新颖的音乐玩具，看起来似乎可以通过按下顶部的大按钮来启动。",
+      "start": 939.1,
+      "end": 946.98,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The button could be pressed down, but didn't actually activate anything.",
+      "translation": "这个按钮可以被按下，但实际上并不会启动任何功能。",
+      "start": 947.82,
+      "end": 952.14,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Out of sight of the babies, we turned on the music toy with a hidden button so that they heard the toy making music.",
+      "translation": "在婴儿看不见的地方，我们用一个隐藏按钮打开了音乐玩具，让他们听到玩具发出音乐。",
+      "start": 953.23,
+      "end": 960.01,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We gave the babies the music toy and left the room.",
+      "translation": "我们把音乐玩具交给婴儿，然后离开房间。",
+      "start": 960.64,
+      "end": 963.84,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Then analysts who didn't know which condition each baby was in, watched video tapes of the experiment and counted how many times babies tried to activate the toy by pressing the button.",
+      "translation": "之后，不知道每个婴儿属于哪种实验条件的分析人员观看了实验录像，并统计婴儿试图通过按下按钮启动玩具的次数。",
+      "start": 964.36,
+      "end": 976.56,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Across one study and a pre-registered duplication, babies who had seen an adult persist and succeed push the button about twice as many times as those who saw an adult effortlessly succeed.",
+      "translation": "在一项研究及其预注册重复实验中，看过成年人坚持不懈并取得成功的婴儿，按下按钮的次数约为看过成年人毫不费力地取得成功的婴儿的两倍。",
+      "start": 978.12,
+      "end": 990.9,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In other words, babies learned that effort was valuable after watching just two examples of an adult working hard and succeeding.",
+      "translation": "换言之，婴儿仅仅观察成年人努力工作并取得成功的两个例子后，就学会了努力是有价值的。",
+      "start": 991.68,
+      "end": 1000.22,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Part of what's exciting about this finding is that the babies didn't just imitate the adult's actions.",
+      "translation": "这一发现令人兴奋的部分原因在于，婴儿并不只是模仿成年人的动作。",
+      "start": 1001.81,
+      "end": 1007.27,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Instead, they generalized the value of effort to a novel task.",
+      "translation": "相反，他们把努力的价值推广到了一个全新的任务中。",
+      "start": 1008.53,
+      "end": 1011.97,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The experimenter never demonstrated pushing a button or trying to make music.",
+      "translation": "实验者从未示范按按钮或尝试让玩具播放音乐。",
+      "start": 1012.89,
+      "end": 1017.19,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Instead, the babies learned from different examples of effortful actions that the new toy probably also required persistence.",
+      "translation": "相反，婴儿从不同的努力行为示例中学到，这个新玩具可能也需要坚持不懈。",
+      "start": 1017.87,
+      "end": 1025.74,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "If chronic lateness has taken over your life and turned into a defining trait of who you are, it's likely that you're losing out on job offers, recreational opportunities, friendships, and more.",
+      "translation": "如果长期迟到已经占据了你的生活，并变成了定义你这个人的特征，那么你很可能正因此错失工作机会、休闲活动、友谊以及更多其他东西。",
+      "start": 1092.33,
+      "end": 1093.0,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "If chronic lateness has taken over your life and turned into a defining trait of who you are, it's likely that you're losing out on job offers, recreational opportunities, friendships, and more.",
+      "translation": "如果长期迟到已经占据了你的生活，并变成了定义你这个人的特征，那么你很可能正因此错失工作机会、休闲活动、友谊以及更多其他东西。",
+      "start": 1093.0,
+      "end": 1105.39,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "If you are showing up late to your own life, get organized, prioritize punctuality, and address any underlying causes.",
+      "translation": "如果你在自己的人生中都迟到，请做好组织安排，优先重视守时，并处理任何潜在原因。",
+      "start": 1106.43,
+      "end": 1114.29,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "When you have to be somewhere, try to arrive 15 to 30 minutes before you need to.",
+      "translation": "当你必须前往某个地方时，尽量提前15到30分钟到达。",
+      "start": 1115.45,
+      "end": 1120.81,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "If you always run late, that means you must be failing to account for something you always do.",
+      "translation": "如果你总是迟到，这意味着你一定没有考虑到某件自己总会做的事情。",
+      "start": 1121.36,
+      "end": 1126.98,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Anticipate that by giving yourself extra time to arrive.",
+      "translation": "通过给自己预留额外时间来提前应对这一点。",
+      "start": 1128.09,
+      "end": 1131.39,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Keep track of whether or not you actually do arrive early.",
+      "translation": "记录自己是否真的提前到达。",
+      "start": 1132.6,
+      "end": 1135.86,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You might find that leaving early gets you to places exactly on time.",
+      "translation": "你可能会发现，提前出发反而能让你恰好准时到达目的地。",
+      "start": 1136.84,
+      "end": 1141.42,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Set two alarms.",
+      "translation": "设置两个闹钟。",
+      "start": 1142.69,
+      "end": 1143.57,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Set one alarm that lets you know it's time to drop what you're doing and a second alarm that means you need to walk out the door.",
+      "translation": "设置一个闹钟，提醒你该放下手头正在做的事情；再设置第二个闹钟，表示你必须出门了。",
+      "start": 1144.79,
+      "end": 1151.83,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Obey the alarms.",
+      "translation": "遵守闹钟的提醒。",
+      "start": 1152.82,
+      "end": 1153.82,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "As soon as the first alarm goes off, stop what you're doing.",
+      "translation": "第一个闹钟一响，就停止手头的事情。",
+      "start": 1154.8,
+      "end": 1158.0,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "If it's something you'll be coming back to, like a project for work, make a note to remind yourself where you left off.",
+      "translation": "如果那是你之后还会继续做的事情，比如工作项目，就记下来提醒自己做到哪里。",
+      "start": 1158.74,
+      "end": 1164.92,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Grab everything you need and make sure you know how to get where you're going.",
+      "translation": "拿上所有需要的东西，并确保自己知道如何到达目的地。",
+      "start": 1165.83,
+      "end": 1169.87,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Aim to be out the door and on your way before the second alarm rings.",
+      "translation": "目标是在第二个闹钟响起之前出门上路。",
+      "start": 1171.14,
+      "end": 1175.14,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This will only work if you take the alarms seriously, so make sure you react as soon as you hear them.",
+      "translation": "只有认真对待这两个闹钟，这种方法才会奏效，所以一听到闹钟响就要立即作出反应。",
+      "start": 1175.94,
+      "end": 1182.88,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Prepare for the day ahead.",
+      "translation": "为第二天做好准备。",
+      "start": 1184.27,
+      "end": 1185.51,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Have all of your notes and materials organized well in advance of each event, so that all you have to do is grab them and go when it's the actual day.",
+      "translation": "提前整理好每项活动所需的全部笔记和材料，这样到了当天，你只需拿上它们就可以出发。",
+      "start": 1186.41,
+      "end": 1195.59,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "If mornings are a struggle for you, do as much as you can to ready yourself the night before.",
+      "translation": "如果早晨对你来说很难熬，就尽可能在前一晚做好准备。",
+      "start": 1196.57,
+      "end": 1202.07,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Before you go to bed, lay out your clothes and pack your bag for the next day.",
+      "translation": "睡觉前，准备好第二天要穿的衣服，并收拾好包。",
+      "start": 1202.95,
+      "end": 1207.45,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Learn to leave time in between tasks and meetings.",
+      "translation": "学会在任务和会议之间留出时间。",
+      "start": 1208.77,
+      "end": 1211.77,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It soon becomes unbearable to shift between one meeting and another without space in between.",
+      "translation": "在两个会议之间没有任何间隔地转换，很快就会让人难以忍受。",
+      "start": 1212.73,
+      "end": 1218.45,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "If you overschedule yourself, however, you'll arrive late as soon as you hit a bump.",
+      "translation": "然而，如果你的日程安排得过于紧凑，一遇到意外情况，你就会迟到。",
+      "start": 1220.04,
+      "end": 1224.48,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "As well as giving you space, this time also acts as a buffer between events, which can be borrowed from, should you be held up in a prior meeting, allowing you to still get to the next one on time.",
+      "translation": "除了为你提供喘息空间外，这段时间还可以充当活动之间的缓冲；如果你在前一个会议上被耽搁了，就可以借用这段时间，从而仍能准时参加下一个会议。",
+      "start": 1225.69,
+      "end": 1237.97,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Calculate transit time between activities and then add 10 to 30 minutes for unexpected delays.",
+      "translation": "计算各项活动之间的交通时间，然后再增加10到30分钟，以应对意外延误。",
+      "start": 1239.53,
+      "end": 1245.93,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "According to the speaker,",
+      "translation": "发言者说,",
+      "start": 1290.38,
+      "end": 1291.72
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "what can we do to combat unexpected delays?",
+      "translation": "我们能做些什么来应对意外延误?",
+      "start": 1292.52,
+      "end": 1295.32
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Recording 3.",
+      "translation": "记录3。",
+      "start": 1309.04,
+      "end": 1309.82
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Do you think Bostonians put out the welcome mat?",
+      "translation": "你觉得波士顿人会把欢迎垫子放出来吗?",
+      "start": 1311.11,
+      "end": 1313.77
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Do you find other cities to be more or less polite?",
+      "translation": "你发现其他城市 多少或多或少礼貌?",
+      "start": 1314.29,
+      "end": 1316.99
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Different cities have different feels for visitors.",
+      "translation": "不同的城市对游客有不同的感受。",
+      "start": 1318.01,
+      "end": 1320.69
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Some are friendly and open; some are formal and distant.",
+      "translation": "有些是友好和开放的;有些是正式和遥远的。",
+      "start": 1321.63,
+      "end": 1325.41
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Boston tends to seem hurried and sometimes a little rude.",
+      "translation": "波士顿似乎很匆忙 有时有点粗鲁",
+      "start": 1326.64,
+      "end": 1330.12
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That's what some tourists have said.",
+      "translation": "有些游客也是这么说的",
+      "start": 1330.88,
+      "end": 1332.32
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "One study found that people here are less willing to volunteer to help strangers than those residents of other U.S.",
+      "translation": "其中一项研究发现,这里的人 不像其他美国居民 愿意自愿帮助陌生人",
+      "start": 1333.33,
+      "end": 1340.75
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "cities.",
+      "translation": "城市。",
+      "start": 1340.75,
+      "end": 1341.35
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Take a close look next time you're in Boston, and here are some of the things you'll probably see: people smoking in the subway stations despite the frequent reminders not to do so; pedestrians walking when the crosswalk lights say not to do so, ignoring the cars; car drivers speeding, making a loud noise with the horn and occasionally cursing at each other.",
+      "translation": "下次你到波士顿时仔细看一看,这里可能有一些你可能看到的东西:人们在地铁站吸烟,尽管经常提醒人们不要吸烟;行人走在十字路口的灯光说不吸烟时,不理会汽车;汽车司机超速,用喇叭发出响亮的噪音,有时互相骂骂。",
+      "start": 1342.25,
+      "end": 1365.98
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Drivers who can't be bothered to find a place to park, but instead simply turn on their blinker and stop in the middle of the street.",
+      "translation": "司机们不费吹灰之力 找地方停车, 却只开灯,在街上停车。",
+      "start": 1366.92,
+      "end": 1373.98
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Sometimes Bostonians seem like they're just too busy to be polite.",
+      "translation": "有时波士顿人似乎太忙了 无法礼貌",
+      "start": 1375.54,
+      "end": 1379.14
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Why is their city like that?",
+      "translation": "为什么他们的城市是这样的?",
+      "start": 1380.0,
+      "end": 1381.42
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Former U.S.",
+      "translation": "前美国",
+      "start": 1382.36,
+      "end": 1382.96
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "representative Chester Atkins says it's because the Puritan founding fathers were themselves impatient and bad-tempered, and had little time for courtesy.",
+      "translation": "代表切斯特·阿特金斯说,这是因为 清教徒的创始人 自己是 急躁和坏脾气, 并没有什么时间礼节。",
+      "start": 1382.96,
+      "end": 1392.02
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That culture has carried down to the present day, he believes.",
+      "translation": "他认为,这种文化已经延续到今天。",
+      "start": 1392.88,
+      "end": 1396.0
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Boston College professor Thomas O'Connor thinks a contributing factor is Boston's history as a city where each new group of immigrants was treated with suspicion and exclusion.",
+      "translation": "波士顿大学教授托马斯·奥康纳认为,波士顿的历史是一个促成因素,因为波士顿是一个城市,每个新移民群体都受到怀疑和排斥。",
+      "start": 1397.0,
+      "end": 1408.36
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That's given Boston a sense of clannishness and reserve, he thinks.",
+      "translation": "他觉得这给了波士顿 一种感恩感和保留地",
+      "start": 1409.64,
+      "end": 1413.7
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The idea of a stranger greeting another stranger is simply not part of the local culture, he says.",
+      "translation": "一位陌生人向另一位陌生人问好的想法,",
+      "start": 1414.5,
+      "end": 1420.06
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "People will begin a conversation with someone they know, but not with a stranger.",
+      "translation": "人们会开始和他们认识的人对话 而不是和陌生人对话",
+      "start": 1420.68,
+      "end": 1424.84
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Ralph Whitehead, a professor of journalism at the University of Massachusetts at Amherst, thinks it's because Boston's upper class used manners to make class distinctions.",
+      "translation": "拉尔夫·怀特黑德,在阿姆赫斯特马萨诸塞大学任新闻学教授, 认为这是因为波士顿的上层阶级 使用礼仪来进行阶级区分。",
+      "start": 1426.07,
+      "end": 1436.45
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "By being snobbish about manners, Proper Bostonians made other people scornful of courtesy, he says.",
+      "translation": "正当的波士顿人通过对礼仪的流言蜚语, 使其他人鄙视礼貌,",
+      "start": 1437.61,
+      "end": 1443.95
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Some say that's just the way Boston is and that the city will never change.",
+      "translation": "有人说，波士顿就是这样，这座城市永远不会改变。",
+      "start": 1444.91,
+      "end": 1449.21,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Still, other cities with reputations for worse rudeness are trying hard to change their images.",
+      "translation": "不过，一些因粗鲁而声名更差的城市正在努力改变自己的形象。",
+      "start": 1450.01,
+      "end": 1455.35,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Paris is one example where people are trying to be friendly.",
+      "translation": "巴黎就是一个例子，那里的人们正在努力变得友好。",
+      "start": 1456.15,
+      "end": 1459.51,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "New York City is another.",
+      "translation": "纽约市是另一个例子。",
+      "start": 1460.37,
+      "end": 1461.73,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "There, the city is trying to persuade subway riders to be more considerate.",
+      "translation": "在那里，市政府正试图劝说地铁乘客更加体谅他人。",
+      "start": 1462.53,
+      "end": 1466.95,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "If those cities can make the effort, maybe Boston should as well.",
+      "translation": "如果那些城市都能付出努力，波士顿或许也应该这样做。",
+      "start": 1467.73,
+      "end": 1471.17,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions 22-25 are based on the recording you have just heard.",
+      "translation": "问题22 -25是基于你刚才听到的录音",
+      "start": 1472.4,
+      "end": 1477.12
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "22.",
+      "translation": "22. 妇女 22",
+      "start": 1478.56,
+      "end": 1479.08
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What do visitors find about the cities they've been to?",
+      "translation": "参观者对他们所去过的城市有何发现?",
+      "start": 1479.85,
+      "end": 1482.93
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "23 What did one city find about Bostonians compared with residents of other US cities?",
+      "translation": "与美国其他城市居民相比, 一个城市对波士顿人有什么发现?",
+      "start": 1496.52,
+      "end": 1503.54
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 24 What does Thomas O'Connor say about the idea of strangers greeting one another?",
+      "translation": "问题24 托马斯·奥康纳对陌生人互相问候的想法怎么说?",
+      "start": 1517.16,
+      "end": 1523.48
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 25 What does the speaker think Boston should do?",
+      "translation": "问题25 发言者认为波士顿应该做些什么?",
+      "start": 1537.07,
+      "end": 1541.23
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That's the end of listening comprehension",
+      "translation": "听觉理解到此结束",
+      "start": 1554.42,
+      "end": 1556.64
+    }
+  ],
+  "translation_sources": [
+    "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/",
+    "Sams200/opus-mt-en-zh (unmatched sentences only)"
+  ]
+}

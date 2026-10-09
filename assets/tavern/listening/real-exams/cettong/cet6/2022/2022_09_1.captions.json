@@ -1,0 +1,1927 @@
+{
+  "id": "cet6-2022_09_1",
+  "title": "2022年9月 第1套",
+  "level": 6,
+  "source_url": "https://www.cettong.cn/library/cet6/2022_09_1",
+  "material_source": "https://117.72.200.49/#/library",
+  "audio": "assets/tavern/listening/real-exams/cettong/cet6/2022/2022_09_1.exampace-playback.mp3",
+  "caption_kind": "published_material_with_auxiliary_timing_and_translation",
+  "caption_models": [
+    "Systran/faster-whisper-base.en",
+    "Sams200/opus-mt-en-zh"
+  ],
+  "lines": [
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Welcome to Money Matters, a weekly program that helps you manage your money.",
+      "translation": "欢迎收听《金钱 matters》，这是一档每周播出的、帮助你管理资金的节目。",
+      "start": 42.066,
+      "end": 47.966,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Tonight, I'll be talking to Mary Johnson about budgeting.",
+      "translation": "今晚，我将和玛丽·约翰逊聊聊如何制定预算。",
+      "start": 47.966,
+      "end": 52.05,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Hello, everyone.",
+      "translation": "大家好。",
+      "start": 52.05,
+      "end": 52.958,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "There's a magic about money.",
+      "translation": "钱有一种魔力。",
+      "start": 52.958,
+      "end": 55.227,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "When it's not planned for, tracked and kept a record of, it literally disappears.",
+      "translation": "如果事先不做规划、不进行追踪，也不留存记录，它真的会凭空消失。",
+      "start": 55.227,
+      "end": 61.58,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What are some of the steps we can take to prevent this from happening?",
+      "translation": "我们可以采取哪些措施来防止这种情况发生呢？",
+      "start": 61.58,
+      "end": 64.96,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Well, it's all about keeping track of your money.",
+      "translation": "嗯，关键就是要记录你的资金收支。",
+      "start": 65.42,
+      "end": 68.34,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "If you don't do that, you'll never be able to set any goals for your budget or have the discipline to stick to them.",
+      "translation": "如果你不这么做，就永远无法为预算设定目标，也没有自律坚持下去。",
+      "start": 68.98,
+      "end": 75.1,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That's easier said than done.",
+      "translation": "说起来容易做起来难。",
+      "start": 75.54,
+      "end": 77.52,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I read recently that only 41% of Americans adhere to a budget.",
+      "translation": "我最近读到一份资料，说只有41%的美国人会遵守预算。",
+      "start": 78.3,
+      "end": 83.4,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Yes, but knowing what you earn and what you spend can give you reassurance that you won't get into debt in the first place.",
+      "translation": "是的，但了解自己的收入和支出，可以让你放心，至少一开始不会陷入债务。",
+      "start": 83.78,
+      "end": 90.98,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You can do this by adding up all of your sources of income you have and writing them all down on a piece of paper.",
+      "translation": "你可以把所有收入来源加起来，并全部写在一张纸上。",
+      "start": 91.54,
+      "end": 97.9,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "On the same page, write down all of your monthly expenses.",
+      "translation": "在同一页上，写下每月的所有开支。",
+      "start": 98.44,
+      "end": 101.6,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'm always amazed at how much my expenses add up.",
+      "translation": "我总是惊讶于自己的开支加起来竟然那么多。",
+      "start": 102.52,
+      "end": 106.06,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But designating each item as an income or an expense really helps me have a much better sense of all my spending.",
+      "translation": "但把每一项分别标记为收入或支出，确实能让我更清楚地了解自己的全部花费。",
+      "start": 106.56,
+      "end": 114.74,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Right, most people have no idea how much they spend each day, let alone each week or month, no matter how careful they are.",
+      "translation": "没错，大多数人根本不知道自己每天花了多少钱，更不用说每周或每月了，不管他们自认为多么谨慎。",
+      "start": 115.14,
+      "end": 123.34,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Next, subtract your monthly expenses from income.",
+      "translation": "接下来，用收入减去每月的开支。",
+      "start": 124.02,
+      "end": 127.26,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "If the result is positive, you are living within your means.",
+      "translation": "如果结果是正数，说明你的生活没有超出自己的经济能力。",
+      "start": 127.92,
+      "end": 130.72,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "If the result is a negative number, you're going to have to cut back on your spending.",
+      "translation": "如果结果是负数，你就得减少开支了。",
+      "start": 131.38,
+      "end": 136.04,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'm usually a negative number.",
+      "translation": "我通常都是负数。",
+      "start": 136.58,
+      "end": 138.54,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I just can't resist the allure of all those prestigious goods.",
+      "translation": "我就是抵挡不住那些名牌商品的诱惑。",
+      "start": 139.24,
+      "end": 143.16,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Well, it's not a catastrophe.",
+      "translation": "嗯，这还不至于造成灾难。",
+      "start": 143.72,
+      "end": 145.04,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But you do have to make some changes.",
+      "translation": "但你确实得做出一些改变。",
+      "start": 146.0,
+      "end": 147.76,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Try cutting back on those non-essential items, sell some stuff in your attic, or shop online to avoid unnecessary temptations like chocolate.",
+      "translation": "试着减少购买那些非必需品，卖掉阁楼里的一些东西，或者在网上购物，以避免巧克力之类不必要的诱惑。",
+      "start": 148.52,
+      "end": 158.08,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Failing that you can always find yourself a part-time job.",
+      "translation": "如果这些办法都不奏效，你还可以找一份兼职。",
+      "start": 159.15,
+      "end": 162.59,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the woman suggest the man do first to avoid getting into debt?",
+      "translation": "女人建议男人首先做什么来避免负债?",
+      "start": 203.96,
+      "end": 208.88
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question four.",
+      "translation": "问题4。",
+      "start": 222.48,
+      "end": 223.26
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the woman say about online shopping?",
+      "translation": "女人对网上购物有什么看法?",
+      "start": 223.86,
+      "end": 226.42
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Conversation two.",
+      "translation": "对话二",
+      "start": 242.1,
+      "end": 243.38
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Hi there.",
+      "translation": "嗨,你好吗?",
+      "start": 244.51,
+      "end": 245.13
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "My name is Mark Adams.",
+      "translation": "我叫马克·亚当斯。",
+      "start": 247.57,
+      "end": 248.61,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We spoke on the phone on Wednesday.",
+      "translation": "我们周三通过电话。",
+      "start": 249.41,
+      "end": 250.71,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Hi, Mark, come on up.",
+      "translation": "你好，马克，上来吧。",
+      "start": 251.19,
+      "end": 252.65,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'll buzz you in.",
+      "translation": "我给你开门。",
+      "start": 253.19,
+      "end": 253.99,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Green door on the second floor on the right side.",
+      "translation": "二楼右手边的绿门。",
+      "start": 254.45,
+      "end": 257.33,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Nice to meet you, I spoke to all your references and they all checked out okay.",
+      "translation": "很高兴见到你，我联系过你提供的所有推荐人，他们的情况都没有问题。",
+      "start": 260.0,
+      "end": 264.84,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So let me show you around.",
+      "translation": "我带你四处看看吧。",
+      "start": 265.54,
+      "end": 266.8,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The place actually belongs to my mother, but her health isn't great, so we finally managed to persuade her to move in with us and rent this old place out.",
+      "translation": "这套房子其实属于我母亲，但她的身体状况不太好，所以我们终于说服她搬来和我们一起住，把这套老房子租出去。",
+      "start": 267.58,
+      "end": 276.58,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's a great size.",
+      "translation": "这么大的尺寸",
+      "start": 277.16,
+      "end": 278.34
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Plenty of space.",
+      "translation": "空间很大",
+      "start": 278.98,
+      "end": 279.82
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Very versatile.",
+      "translation": "非常多才多艺",
+      "start": 280.54,
+      "end": 281.3
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I think it's a winner for us.",
+      "translation": "我觉得我们赢定了",
+      "start": 282.24,
+      "end": 283.68
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Yes, all the appliances are brand-new.",
+      "translation": "是的，所有家电都是全新的。",
+      "start": 284.12,
+      "end": 287.24,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "There's a washing machine and a tumble dryer in the utility room next to the kitchen.",
+      "translation": "厨房旁边的杂物间里有一台洗衣机和一台烘干机。",
+      "start": 287.24,
+      "end": 291.42,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Lots of closet space too, which is fabulous.",
+      "translation": "衣柜空间也很大，这太棒了。",
+      "start": 291.98,
+      "end": 295.14,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "My wife has a ridiculous number of shoes.",
+      "translation": "我妻子的鞋子多得离谱。",
+      "start": 296.08,
+      "end": 298.6,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Now, the big question: What about noise and the neighbours?",
+      "translation": "现在，最关键的问题是：噪音和邻居怎么样？",
+      "start": 299.4,
+      "end": 304.0,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Well, all the neighbours are elderly, so no noisy kids.",
+      "translation": "嗯，所有邻居都是老年人，所以没有吵闹的孩子。",
+      "start": 304.0,
+      "end": 308.04,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And the back of the house overlooks a clear and peaceful pond, so it's perfect if tranquility is what you are looking for.",
+      "translation": "而且房子的后面俯瞰着一个宁静清澈的池塘，如果你们追求安静，这里就再合适不过了。",
+      "start": 308.48,
+      "end": 315.32,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That's good news.",
+      "translation": "那真是个好消息。",
+      "start": 315.82,
+      "end": 316.66,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We've been living in a less than glamorous part of Aberdeen, constantly harassed day and night by noisy neighbours.",
+      "translation": "我们一直住在阿伯丁一个不太体面的地方，日夜不停地被吵闹的邻居骚扰。",
+      "start": 317.58,
+      "end": 325.7,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Getting to work was a nightmare too, as we only have one car and my wife has to use it as she works nights at the hospital.",
+      "translation": "上下班也像是一场噩梦，因为我们只有一辆车，而我妻子在医院上夜班，必须用那辆车。",
+      "start": 325.7,
+      "end": 333.28,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Well, if you like the place, it's yours, as soon as I get a contract drawn up with the solicitor.",
+      "translation": "好吧，只要你喜欢这里，这套房子就是你的，等我让律师拟好合同就可以了。",
+      "start": 333.86,
+      "end": 339.66,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The first month's rent and a deposit are mandatory on signing the contract.",
+      "translation": "签合同的时候必须支付第一个月的房租和押金。",
+      "start": 340.5,
+      "end": 344.2,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Then we can work out when is the best day for you to pay rent each month.",
+      "translation": "然后我们可以商量一个最适合你每月交房租的日子。",
+      "start": 345.18,
+      "end": 349.02,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We'll be incredibly happy to be your new tenants.",
+      "translation": "成为你的新房客 我们会非常高兴的",
+      "start": 349.62,
+      "end": 352.48
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Thank you so much, My wife will be thrilled to get out of the shabby place we are now in, and start filling those wardrobes with all those shoes.",
+      "translation": "非常感谢,我的妻子会很高兴 走出现在的破旧地方 开始用那些鞋子来装满衣柜",
+      "start": 353.3,
+      "end": 363.44
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions 5-8 are based on the conversation you have just heard.",
+      "translation": "问题5 -8是基于你刚才听到的谈话",
+      "start": 365.06,
+      "end": 369.38
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "5.",
+      "translation": "5 个",
+      "start": 370.66,
+      "end": 371.22
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the woman say about the flat?",
+      "translation": "那女的对公寓怎么说?",
+      "start": 371.82,
+      "end": 373.8
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 6.",
+      "translation": "问题6",
+      "start": 387.62,
+      "end": 388.36
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What is the man's chief consideration?",
+      "translation": "男人的主要考虑是什么?",
+      "start": 388.98,
+      "end": 390.96
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "and looking for a flat.",
+      "translation": "寻找一个公寓。",
+      "start": 391.57,
+      "end": 392.73
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 7.",
+      "translation": "问题7",
+      "start": 406.39,
+      "end": 407.25
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the man have to do on signing the contract?",
+      "translation": "签署合同时他有什么责任?",
+      "start": 407.99,
+      "end": 410.99
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 8.",
+      "translation": "问题8",
+      "start": 424.71,
+      "end": 425.49
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Why does the man say his wife will feel very excited if they move into the flat?",
+      "translation": "为什么男人说,他的妻子会 感到非常兴奋 如果他们搬到公寓?",
+      "start": 426.21,
+      "end": 431.53
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "B.",
+      "translation": "B. B. .",
+      "start": 447.78,
+      "end": 448.24
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In this section, you will hear two passages.",
+      "translation": "在本节中,你将听到两段。",
+      "start": 450.18,
+      "end": 452.48
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "At the end of each passage,",
+      "translation": "在每个通道的尽头",
+      "start": 453.4,
+      "end": 454.7
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "you will hear three or four questions.",
+      "translation": "你会听到三四个问题。",
+      "start": 455.3,
+      "end": 457.18
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Both the passage and the questions will be spoken only once.",
+      "translation": "发言的通过和提问将只讲一次。",
+      "start": 458.0,
+      "end": 461.64
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "After you hear a question, you must choose the best answer from the four choices marked A, B, C, and D.",
+      "translation": "在听到一个问题后,你必须从四个选择中选择最好的答案,这四个选择分别是A、B、C和D。",
+      "start": 462.25,
+      "end": 469.59
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "mark the corresponding letter on answer sheet one with a single line through the center.",
+      "translation": "在答题单单行的答题表一中标出相应的字母。",
+      "start": 470.53,
+      "end": 476.03
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "A new study has found a positive correlation between how much television children watch and their parents' stress levels.",
+      "translation": "一项新研究发现，儿童看电视的时间长短与其父母的压力水平呈正相关。",
+      "start": 478.866,
+      "end": 487.434,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Why?",
+      "translation": "为什么？",
+      "start": 487.434,
+      "end": 487.884,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Because the more television kids watch, the more they're exposed to advertising.",
+      "translation": "因为孩子看电视越多，接触到的广告就越多。",
+      "start": 487.884,
+      "end": 492.53,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The more advertising they see, the more likely they are to insist on purchasing items when they go with their parents to the store.",
+      "translation": "他们看到的广告越多，和父母一起去商店时，就越有可能坚持要求购买某些商品。",
+      "start": 493.8,
+      "end": 501.08,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This could generate conflict if the parents refuse.",
+      "translation": "如果父母拒绝，这可能会引发冲突。",
+      "start": 501.95,
+      "end": 504.75,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "All that, researchers say, can contribute to parents' overall stress levels.",
+      "translation": "研究人员表示，所有这些因素都可能导致父母的整体压力水平上升。",
+      "start": 506.12,
+      "end": 510.72,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What's the solution?",
+      "translation": "解决办法是什么？",
+      "start": 511.9,
+      "end": 512.6,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Perhaps the most obvious is curtailing screen time.",
+      "translation": "也许最明显的办法是限制屏幕使用时间。",
+      "start": 513.68,
+      "end": 516.68,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Commercial content is there for a reason: to elicit purchasing behavior.",
+      "translation": "商业内容之所以存在，是有其原因的：诱导人们进行购买。",
+      "start": 517.97,
+      "end": 521.97,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So parents might want to shut off the TV.",
+      "translation": "因此，家长可能会想关掉电视。",
+      "start": 523.1,
+      "end": 525.88,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Researchers concede that this is easier said than done.",
+      "translation": "研究人员承认，这说起来容易做起来难。",
+      "start": 526.82,
+      "end": 530.22,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So they suggest another option.",
+      "translation": "因此，他们提出了另一种选择。",
+      "start": 530.7,
+      "end": 532.5,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Parents can change how they talk to their kids about purchases.",
+      "translation": "家长可以改变与孩子谈论购买行为的方式。",
+      "start": 533.24,
+      "end": 536.62,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The researchers suggest that parents seek input from their children on family purchasing decisions.",
+      "translation": "研究人员建议父母在家庭购买决定方面征求子女的意见。",
+      "start": 538.05,
+      "end": 543.55
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They shouldn't try to control all purchases.",
+      "translation": "他们不应该试图控制所有购买",
+      "start": 544.35,
+      "end": 546.51
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Instead, parents might tell their children things like \"I will listen to your advice on certain products or brands.\" This type of communication, the researchers assert, can lead to children making fewer purchasing demands.",
+      "translation": "相反,家长可能会告诉孩子一些事情,比如“我会听从你对某些产品或品牌的建议。” 研究人员认为,这种沟通方式可以导致儿童降低购买需求。",
+      "start": 547.95,
+      "end": 562.03
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That means less parents' stress.",
+      "translation": "也就是说父母的压力会减少",
+      "start": 562.99,
+      "end": 564.79
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "However, the protective effect of this kind of communication diminishes with greater exposure to television.",
+      "translation": "然而，随着接触电视的增多，这种沟通方式的保护作用会减弱。",
+      "start": 565.83,
+      "end": 572.71,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This is because advertising aimed at children is especially persuasive.",
+      "translation": "这是因为针对儿童的广告尤其具有说服力。",
+      "start": 573.52,
+      "end": 578.22,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Advertisers use an assortment of tactics, such as bright colors, happy music and celebrity endorsements to appeal to children.",
+      "translation": "广告商会运用各种策略吸引儿童，例如鲜艳的色彩、欢快的音乐和名人代言。",
+      "start": 578.94,
+      "end": 587.76,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Plus, children don't have the cognitive ability to fully understand advertising's intent.",
+      "translation": "此外，儿童还不具备充分理解广告意图的认知能力。",
+      "start": 588.64,
+      "end": 594.4,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That makes them particularly vulnerable to advertisements.",
+      "translation": "这使他们特别容易受到广告的影响。",
+      "start": 595.63,
+      "end": 598.19,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "are based on the passage you have just heard.",
+      "translation": "依据你刚才听到的段落",
+      "start": 601.98,
+      "end": 604.26
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 9.",
+      "translation": "问题9",
+      "start": 605.23,
+      "end": 605.97
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What has the new study found about children watching television?",
+      "translation": "有关儿童观看电视的新研究有何发现?",
+      "start": 606.65,
+      "end": 609.97
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 10.",
+      "translation": "问题10。",
+      "start": 623.8,
+      "end": 624.58
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What our parents advise to do to reduce the impact of TV commercials?",
+      "translation": "我们的父母建议如何减少电视广告的影响?",
+      "start": 625.33,
+      "end": 629.97
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "11.",
+      "translation": "11. 十一号",
+      "start": 644.3,
+      "end": 644.92
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What makes children particularly vulnerable to TV commercials?",
+      "translation": "是什么使儿童特别易受电视广告的影响?",
+      "start": 645.64,
+      "end": 649.48
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Passage 2.",
+      "translation": "通行证2。",
+      "start": 665.55,
+      "end": 666.31
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Everyone is supposed to cheer for good guys and we should only punish the bad guys.",
+      "translation": "人人都应该为好人喝彩，而我们也只应该惩罚坏人。",
+      "start": 667.27,
+      "end": 672.29,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But that's not what we always do.",
+      "translation": "但我们并不总是这样做。",
+      "start": 672.82,
+      "end": 674.68,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Most of the time, we do indeed reward good people.",
+      "translation": "大多数时候，我们确实会奖励好人。",
+      "start": 675.52,
+      "end": 678.98,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We also often punish people who harm others, or who aren't good team players.",
+      "translation": "我们也经常惩罚那些伤害他人或不善于团队合作的人。",
+      "start": 679.5,
+      "end": 685.12,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But sometimes, the good guys also get punished or criticized, specifically because they are so good.",
+      "translation": "但有时，好人也会受到惩罚或批评，正是因为他们太优秀了。",
+      "start": 686.22,
+      "end": 693.9,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This seems baffling, because it's detrimental to group cooperation.",
+      "translation": "这似乎令人费解，因为这种做法不利于群体合作。",
+      "start": 694.62,
+      "end": 698.84,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "However, the phenomenon has been discovered in multiple fields, and it has been found in every society.",
+      "translation": "然而，这一现象已在多个领域被发现，并且存在于每一个社会中。",
+      "start": 700.0,
+      "end": 706.62,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Why does this happen?",
+      "translation": "为什么会发生这种情况？",
+      "start": 707.44,
+      "end": 708.36,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Research suggests a simple reason.",
+      "translation": "研究表明，原因很简单。",
+      "start": 708.94,
+      "end": 710.88,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "When one person looks really good, others look bad by comparison.",
+      "translation": "当一个人表现得非常出色时，相比之下，其他人就显得很差。",
+      "start": 711.64,
+      "end": 715.62,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Those others then have an incentive in stopping that person from looking good, especially if they can't or won't compete.",
+      "translation": "于是，那些人便有动机阻止这个人继续显得优秀，尤其是在他们无法或不愿与之竞争的情况下。",
+      "start": 716.6,
+      "end": 724.84,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "After all, we're all judged in comparison with others.",
+      "translation": "毕竟，我们都会在与他人的比较中受到评判。",
+      "start": 725.63,
+      "end": 729.03,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "When faced with someone better, what can a normal person do?",
+      "translation": "面对一个比自己优秀的人，一个普通人能做什么？",
+      "start": 729.79,
+      "end": 733.42,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "One option is to actively compete.",
+      "translation": "一种选择是积极竞争。",
+      "start": 734.18,
+      "end": 736.44,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "A second option is to bring that person down; that is, to suppress their cooperation or work ethic, infer selfish motives for their actions, or imply real or imagined hypocrisy.",
+      "translation": "第二种选择是拉低那个人，也就是说，压制其合作意愿或工作积极性，把他们的行为推断为出于自私动机，或者暗示他们存在真实或想象中的虚伪。",
+      "start": 737.42,
+      "end": 749.68,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Other tactics include attacking them on unrelated dimensions, or punishing them outright.",
+      "translation": "其他策略还包括在无关的方面攻击他们，或者干脆惩罚他们。",
+      "start": 751.1,
+      "end": 756.96,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Why does this matter?",
+      "translation": "为什么这很重要？",
+      "start": 757.98,
+      "end": 758.76,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Critics often attack the motives of people who protect the environment, donate money, or work too hard.",
+      "translation": "批评者经常攻击那些保护环境、捐款或工作过于努力的人的动机。",
+      "start": 759.31,
+      "end": 766.95,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Such good deeds are dismissed as naive or hypocritical by those who do not perform those deeds.",
+      "translation": "那些不做这些事情的人，会把这些善举斥为天真或虚伪。",
+      "start": 767.75,
+      "end": 774.27,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This criticism may ultimately discourage people from doing good deeds.",
+      "translation": "这种批评最终可能会打击人们行善的积极性。",
+      "start": 775.41,
+      "end": 780.07,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So it's important to recognize these attacks for what they are.",
+      "translation": "因此，认清这些攻击的本质非常重要。",
+      "start": 780.87,
+      "end": 784.77,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions 12-15",
+      "translation": "问题12-15",
+      "start": 786.06,
+      "end": 787.82
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "are based on the passage you have just heard.",
+      "translation": "依据你刚才听到的段落",
+      "start": 788.34,
+      "end": 790.52
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 12.",
+      "translation": "问题12。",
+      "start": 791.44,
+      "end": 792.3
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What baffling phenomenon is discussed in the passage.",
+      "translation": "文章中讨论了令人困惑的现象。",
+      "start": 793.1,
+      "end": 796.32
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 13.",
+      "translation": "问题13。",
+      "start": 810.25,
+      "end": 811.13
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "How are we all judge according to the passage?",
+      "translation": "我们如何根据通过的方式来评判?",
+      "start": 811.71,
+      "end": 814.77
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 14.",
+      "translation": "问题14。",
+      "start": 828.53,
+      "end": 829.41
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What can a normal person do when faced with people who perform better?",
+      "translation": "面对表现较好的人,一个正常人能做些什么?",
+      "start": 830.01,
+      "end": 834.49
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "15.",
+      "translation": "15. 15个",
+      "start": 849.0,
+      "end": 849.78
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What may discourage people from performing good deeds?",
+      "translation": "何以阻止人们行善呢?",
+      "start": 850.44,
+      "end": 853.66
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In this section, you will hear three recordings of lectures or talks, followed by three or four questions.",
+      "translation": "在本节中,各位将听取三场讲座或会谈录音,然后是三四个问题。",
+      "start": 872.3,
+      "end": 879.02
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The recordings will be played only once.",
+      "translation": "录音只播放一次。",
+      "start": 879.86,
+      "end": 881.92
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "After you hear a question, you must choose the best answer from the four choices marked A, B, C, and D.",
+      "translation": "在听到一个问题后,你必须从四个选择中选择最好的答案,这四个选择分别是A、B、C和D。",
+      "start": 882.74,
+      "end": 889.54
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "mark the corresponding letter on answer sheet one, with a single line through the center.",
+      "translation": "在答题表一中标出相应的字母,在中间线上标出单行。",
+      "start": 890.71,
+      "end": 895.87
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Recording one.",
+      "translation": "记录一。",
+      "start": 897.07,
+      "end": 897.99
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In America, most researchers concede that boys and girls are brought up in different ways, taught different skills and rewarded for different acts.",
+      "translation": "在美国，大多数研究者承认，男孩和女孩以不同的方式被抚养长大，被教导不同的技能，并因不同的行为而受到奖励。",
+      "start": 899.48,
+      "end": 909.19,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Women, it is agreed, excel at certain tasks, men at others.",
+      "translation": "人们一致认为，女性擅长某些任务，男性则擅长另一些任务。",
+      "start": 910.23,
+      "end": 914.73,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "There's little argument that some personality traits appear more dominant in one sex than in the other.",
+      "translation": "几乎没有人争辩说，某些人格特征在一个性别中比在另一个性别中表现得更为突出。",
+      "start": 914.73,
+      "end": 921.25,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "All of this notwithstanding, gender differences are very much in the media these days.",
+      "translation": "尽管如此，性别差异如今在媒体上仍是一个热门话题。",
+      "start": 921.85,
+      "end": 926.97,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Since the rise of the women's movement, gender role behavior has come under closer scrutiny.",
+      "translation": "自妇女运动兴起以来，性别角色行为受到了更加密切的审视。",
+      "start": 927.77,
+      "end": 933.17,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "How has this affected friendship?",
+      "translation": "这对友谊产生了怎样的影响？",
+      "start": 934.29,
+      "end": 935.51,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "How do the sexes differ in their friendship relations?",
+      "translation": "两性在友谊关系方面有何不同？",
+      "start": 936.59,
+      "end": 939.07,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Most preteen children have a best friend who is usually someone of the same sex and similar age.",
+      "translation": "大多数青春期前的儿童都有一个最要好的朋友，这个朋友通常与自己同性别且年龄相仿。",
+      "start": 940.47,
+      "end": 946.67,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Both sexes share an essentially positive recollection of these childhood friendships; they do not differ in this respect.",
+      "translation": "两性对这些童年友谊都抱有基本上积极的回忆；在这一点上，他们并无不同。",
+      "start": 947.49,
+      "end": 954.89,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "However, the type of play engaged in during these early friendships is telling of the difference to come.",
+      "translation": "然而，在这些早期友谊中所进行的游戏类型，显示出日后差异的端倪。",
+      "start": 955.86,
+      "end": 962.25,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Boys tend to form play groups that are competitive in nature; girls' groups more frequently revolve around cooperative enterprises.",
+      "translation": "男孩往往组成具有竞争性质的游戏群体；女孩的群体则更经常围绕合作性活动展开。",
+      "start": 963.34,
+      "end": 971.4,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Thus, at an early age, boys become concerned with trying hard and winning while girls, by contrast, play house and school, engaging in roles that require complementary support.",
+      "translation": "因此，在很小的年纪，男孩就开始关注努力争取和获胜，而女孩则相反，她们玩过家家和学校游戏，扮演需要彼此配合支持的角色。",
+      "start": 972.77,
+      "end": 984.89,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Speaking of their childhood, men recall being highly responsive to and aware of the gender-role opinions of other boys.",
+      "translation": "男性回忆童年时说，他们对其他男孩关于性别角色的看法高度敏感，也十分在意。",
+      "start": 985.78,
+      "end": 993.62,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Girls in preteen years appear to be less susceptible to gender-role pressure.",
+      "translation": "青春期前的女孩似乎较少受到性别角色压力的影响。",
+      "start": 994.44,
+      "end": 999.36,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It is not until the dating years that women report being concerned with feminine behavior.",
+      "translation": "直到开始约会的年龄，女性才会表示自己开始关注女性化的行为。",
+      "start": 1000.18,
+      "end": 1005.2,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Males, for the most part, are responsive to the suggestion that their behavior is unmanly at almost any age.",
+      "translation": "在几乎任何年龄，男性大多都会对他人暗示其行为不够男子气概作出反应。",
+      "start": 1006.14,
+      "end": 1012.7,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "These early attitudes, reinforced by social conditioning, continue to play an active part in the friendships of both sexes during adolescence.",
+      "translation": "这些早期态度在社会环境塑造的强化下，在青春期继续积极影响着两性的友谊。",
+      "start": 1013.38,
+      "end": 1022.12,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This is a period when the majority of males once again report a close alliance with same-sex friends.",
+      "translation": "这一时期，大多数男性再次表示自己与同性朋友结成了亲密联盟。",
+      "start": 1023.58,
+      "end": 1029.38,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Now, however, with heightened intensity, considerable energy is devoted to competing for position and a definite undercurrent of competition permeates the relationship.",
+      "translation": "然而此时，竞争的强度已经提高，大量精力被投入到争夺地位之中，竞争的明确暗流也渗透在这种关系里。",
+      "start": 1030.18,
+      "end": 1041.14,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Although in dissimilar fashion, females share equally fragile relationships at this age.",
+      "translation": "尽管表现形式不同，女性在这个年龄段也同样拥有脆弱的关系。",
+      "start": 1042.09,
+      "end": 1048.21,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "For them, the bond of loyalty extends only to the line of romantic involvement.",
+      "translation": "对她们而言，忠诚纽带只延伸到涉及恋爱的界限。",
+      "start": 1049.17,
+      "end": 1053.79,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This is most apt to be the case in late adolescence, when dating and relationships with boys take sharp precedence over sisterhood.",
+      "translation": "青春期后期尤其容易出现这种情况，因为这时与男孩的约会和关系明显优先于女性之间的情谊。",
+      "start": 1054.78,
+      "end": 1063.46,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Actually, dating dilutes the intensity of same sex friendships for men also.",
+      "translation": "事实上，约会也会削弱男性同性友谊的亲密程度。",
+      "start": 1064.31,
+      "end": 1069.41,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "For the majority of us, the moment we begin to date seriously, there's a competition between romance and friendship.",
+      "translation": "对我们大多数人来说，一旦开始认真约会，浪漫关系与友谊之间就会形成竞争。",
+      "start": 1070.13,
+      "end": 1077.03,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What do children do when they reach late adolescents?",
+      "translation": "当儿童接触晚年青少年时,他们做什么?",
+      "start": 1122.89,
+      "end": 1125.95
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Recording too.",
+      "translation": "也录制",
+      "start": 1139.79,
+      "end": 1140.69
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Good afternoon.",
+      "translation": "下午好。",
+      "start": 1141.8,
+      "end": 1142.48,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In today's lecture, we'll be talking about how and when to disclose a disability when applying for a job.",
+      "translation": "在今天的讲座中，我们将讨论求职时何时以及如何披露残疾状况。",
+      "start": 1143.38,
+      "end": 1150.2,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "On average, about 20% of the population has some form of disability.",
+      "translation": "平均而言，大约20%的人口患有某种形式的残疾。",
+      "start": 1151.37,
+      "end": 1155.91,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Most countries these days have equal opportunity and non-discrimination laws.",
+      "translation": "如今，大多数国家都制定了平等机会和反歧视法律。",
+      "start": 1157.24,
+      "end": 1162.4,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Yet, disabled people often find it hard to decide when, how, and if at all to raise their disability problem with the potential employer.",
+      "translation": "然而，残疾人往往觉得很难决定何时、如何向潜在雇主提出自己的残疾问题，甚至难以决定是否要提出。",
+      "start": 1163.16,
+      "end": 1173.59,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "There is uncertainty about how a recruiter will perceive their disability.",
+      "translation": "关于招聘人员会如何看待他们的残疾，存在着不确定性。",
+      "start": 1174.38,
+      "end": 1178.3,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "As such, many candidates fear they wouldn't be considered for a position, as a result of disclosing this personal information.",
+      "translation": "正因如此，许多应聘者担心透露这一个人信息会导致自己不被职位考虑。",
+      "start": 1179.46,
+      "end": 1187.12,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And research has validated this as a genuine concern for many job applicants.",
+      "translation": "研究证实，这确实是许多求职者真实存在的顾虑。",
+      "start": 1188.05,
+      "end": 1193.24,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's a natural reaction, but it shouldn't be a reason to stay quiet.",
+      "translation": "这是一种自然反应，但不应成为保持沉默的理由。",
+      "start": 1194.44,
+      "end": 1198.64,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "People need to remember that they are applying for a position they have the skills and experience to excel in.",
+      "translation": "人们需要记住，他们申请的是一个自己具备胜任所需技能和经验的职位。",
+      "start": 1199.62,
+      "end": 1206.88,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Discussing a disability with the potential employer may help them make reasonable workplace adjustments in their favor.",
+      "translation": "与潜在雇主讨论残疾状况，可能有助于他们做出有利于求职者的合理工作场所调整。",
+      "start": 1207.8,
+      "end": 1214.94,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's most appropriate to discuss a disability when they reply to confirm an interview.",
+      "translation": "在回复确认面试时讨论残疾状况是最合适的。",
+      "start": 1215.97,
+      "end": 1220.95,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This information needn't be put up front in their cover letter or resumé, because it's probably not relevant to the position itself.",
+      "translation": "这项信息无需事先写在求职信或简历中，因为它可能与职位本身无关。",
+      "start": 1221.71,
+      "end": 1230.37,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Candidates with disabilities should feel they have the power to make their own decisions around sharing this information free from prejudice.",
+      "translation": "残疾应聘者应当感到自己有能力不受偏见影响，自行决定是否分享这一信息。",
+      "start": 1231.44,
+      "end": 1240.62,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "If they find an organization that doesn't celebrate diversity and inclusion, it could say a lot about the company's culture.",
+      "translation": "如果他们发现某家机构不支持多元与包容，这能在很大程度上反映出该公司的文化。",
+      "start": 1241.93,
+      "end": 1249.79,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Perhaps the organization isn't the right fit.",
+      "translation": "也许这家机构并不适合他们。",
+      "start": 1250.57,
+      "end": 1253.67,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's important for them to remember that they are seeking a manager and employer that's going to be supportive and continue to give them a great employment experience.",
+      "translation": "对他们来说，重要的是要记住，他们寻找的是一位给予支持并能持续为他们提供良好工作体验的管理者和雇主。",
+      "start": 1254.65,
+      "end": 1264.95,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Companies sometimes offer candidates the chance to disclose disabilities on their application form, but people shouldn't feel restricted by this method or timing.",
+      "translation": "公司有时会在申请表上为应聘者提供披露残疾状况的机会，但人们不应感到受制于这种方式或时间。",
+      "start": 1266.0,
+      "end": 1276.84,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "People should avoid sharing the name of their disability or condition.",
+      "translation": "人们应当避免透露其残疾或病情的具体名称。",
+      "start": 1277.68,
+      "end": 1281.32,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "There is always the risk that the recruiter will research information that is inaccurate or irrelevant.",
+      "translation": "招聘人员始终存在去查阅不准确或无关信息的风险。",
+      "start": 1282.37,
+      "end": 1288.69,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "If people don't think their disability will impact their ability to perform in the advertised position, then it's entirely their entitlement to choose when, and whether to share this information.",
+      "translation": "如果人们认为自己的残疾不会影响其在招聘岗位上的履职能力，那么选择何时以及是否分享这一信息完全是他们的权利。",
+      "start": 1289.94,
+      "end": 1303.13,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions 19-21 are based on the recording you have just heard.",
+      "translation": "问题19 -21是基于你刚才听到的录音",
+      "start": 1304.33,
+      "end": 1308.87
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "19.",
+      "translation": "19. 经济",
+      "start": 1310.14,
+      "end": 1310.92
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Why do disabled job applicants feel reluctant to disclose their disability information?",
+      "translation": "残疾求职人员为何不愿披露残疾信息?",
+      "start": 1311.84,
+      "end": 1317.36
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "20.",
+      "translation": "20. 20个",
+      "start": 1331.63,
+      "end": 1332.43
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "When does the speaker suggest applicants reveal their disability information?",
+      "translation": "发言者建议申请人何时披露其残疾信息?",
+      "start": 1332.88,
+      "end": 1337.24
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 21.",
+      "translation": "问题21",
+      "start": 1351.41,
+      "end": 1352.15
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What are people advised to do when filling out their job application form?",
+      "translation": "人们在填写工作申请表时,建议他们做些什么?",
+      "start": 1352.81,
+      "end": 1357.29
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Recording 3.",
+      "translation": "记录3。",
+      "start": 1373.47,
+      "end": 1373.99
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Smartphones distract attention and reduce learning because of their potential to offer activity or inviting than study.",
+      "translation": "智能手机可能提供活动或邀请而不是学习,因此分散注意力,减少学习。",
+      "start": 1375.09,
+      "end": 1382.45
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But what about background sound alone?",
+      "translation": "但仅有背景声音会怎样呢？",
+      "start": 1383.48,
+      "end": 1385.58,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "A group of American researchers compared students' comprehension of verbal material when reading in the presence of background speech, instrumental music or general noise.",
+      "translation": "一组美国研究人员比较了学生在有背景语音、器乐或一般噪声的环境中阅读时对文字材料的理解情况。",
+      "start": 1386.48,
+      "end": 1397.54,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "General noise is neutral, such as that from the sound of an air conditioner or fan.",
+      "translation": "一般噪声是中性的，例如空调或风扇发出的声音。",
+      "start": 1398.64,
+      "end": 1404.0,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Students' scores were most depressed in the presence of background speech.",
+      "translation": "在有背景语音的情况下，学生的得分下降幅度最大。",
+      "start": 1405.34,
+      "end": 1409.38,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Comprehension was slightly better with the presence of music than with speech.",
+      "translation": "有音乐时的理解效果略好于有语音时。",
+      "start": 1410.67,
+      "end": 1414.59,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "However, when they were asked to identify melodies rather than understand text, background music interfered more.",
+      "translation": "然而，当要求学生辨认旋律而不是理解文字时，背景音乐的干扰更大。",
+      "start": 1415.63,
+      "end": 1423.13,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "When the background speech was in a language unfamiliar to participants, there was little if any hindrance of reading comprehension.",
+      "translation": "当背景语音使用参与者不熟悉的语言时，对阅读理解几乎没有妨碍，或者说妨碍很小。",
+      "start": 1424.11,
+      "end": 1431.17,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "British researchers compared the effects of background speech, vocal music, instrumental music, general background noise and silence on short-term memory.",
+      "translation": "英国研究人员比较了背景语音、声乐、器乐、一般背景噪声和安静环境对短时记忆的影响。",
+      "start": 1432.62,
+      "end": 1443.92,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Background speech had the biggest negative effect; vocal music was slightly more disruptive than instrumental; and general background noise and silence were least disruptive.",
+      "translation": "背景语音的负面影响最大；声乐的干扰略大于器乐；一般背景噪声和安静环境的干扰最小。",
+      "start": 1444.83,
+      "end": 1456.87,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It seems the degree of interference from background noise depends on the overlap between the processing required on the task and the processing required to screen out the background noise.",
+      "translation": "背景噪声造成的干扰程度似乎取决于任务所需的加工过程与排除背景噪声所需的加工过程之间的重叠程度。",
+      "start": 1457.97,
+      "end": 1468.43,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The studies suggest that when people read and when they try to remember any verbal material, background speech will inhibit their ability.",
+      "translation": "这些研究表明，当人们阅读或试图记忆任何文字材料时，背景语音会抑制他们的能力。",
+      "start": 1469.33,
+      "end": 1477.39,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Instrumental music will have at worst a slight effect.",
+      "translation": "器乐充其量只会产生轻微影响。",
+      "start": 1478.62,
+      "end": 1481.64,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "When students write essays, however, other research has found it is best to reduce all background noise as much as possible.",
+      "translation": "然而，其他研究发现，学生写文章时，最好尽可能减少所有背景噪声。",
+      "start": 1482.78,
+      "end": 1490.28,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Not everyone reacts in the same way to distractions.",
+      "translation": "并非每个人对干扰的反应都相同。",
+      "start": 1491.25,
+      "end": 1494.23,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Other studies suggest some aspects of personality may make a difference.",
+      "translation": "其他研究表明，个性中的某些方面可能会产生影响。",
+      "start": 1495.19,
+      "end": 1499.09,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The researchers subjected shy quiet people and confident outgoing ones to high arousal or low arousal background music, general noise or silence while asking them to remember words.",
+      "translation": "研究人员让害羞安静的人和自信外向的人在高唤醒或低唤醒的背景音乐、一般噪声或安静环境中记忆词语。",
+      "start": 1500.17,
+      "end": 1512.37,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Everyone performed best in the silent condition, but less sociable people were more negatively affected by each of the distractions.",
+      "translation": "每个人在安静环境中的表现都最好，但不太合群的人受到每种干扰的负面影响都更大。",
+      "start": 1513.38,
+      "end": 1522.33,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So when children are reading and trying to incorporate new material, parents could consider allowing some background music, particularly if it's instrumental and their child is the outgoing type.",
+      "translation": "因此，当孩子阅读并试图吸收新材料时，父母可以考虑允许播放一些背景音乐，尤其是在音乐为器乐且孩子性格外向的情况下。",
+      "start": 1523.6,
+      "end": 1535.44,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 22 What did some American researchers find about students reading comprehension in the presence of background noise?",
+      "translation": "问题22 一些美国研究人员发现 学生在背景噪音面前阅读理解 有何发现?",
+      "start": 1542.54,
+      "end": 1551.58
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 23 What do we learn from the British researchers about the degree of interference from background noise?",
+      "translation": "问题23:我们从英国研究人员那里了解到什么是背景噪音的干扰程度?",
+      "start": 1565.55,
+      "end": 1573.11
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 24 What is best for students to do when writing essays according to some research?",
+      "translation": "问题24:根据一些研究撰写论文,学生最好做些什么?",
+      "start": 1586.93,
+      "end": 1594.17
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 25",
+      "translation": "问题25",
+      "start": 1607.99,
+      "end": 1609.15
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "How do people of different personalities react to distractions according to other studies?",
+      "translation": "不同人格的人如何根据其他研究对分散注意力作出反应?",
+      "start": 1609.71,
+      "end": 1615.97
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That's the end of listening comprehension.",
+      "translation": "听觉理解到此结束",
+      "start": 1629.33,
+      "end": 1631.55
+    }
+  ],
+  "translation_sources": [
+    "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/",
+    "Sams200/opus-mt-en-zh (unmatched sentences only)"
+  ]
+}

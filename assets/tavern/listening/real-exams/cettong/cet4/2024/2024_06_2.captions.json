@@ -1,0 +1,1356 @@
+{
+  "id": "cet4-2024_06_2",
+  "title": "2024年6月 第2套",
+  "level": 4,
+  "source_url": "https://www.cettong.cn/library/cet4/2024_06_2",
+  "material_source": "https://117.72.200.49/#/library",
+  "audio": "assets/tavern/listening/real-exams/cettong/cet4/2024/2024_06_2.mp3",
+  "caption_kind": "published_material_with_auxiliary_timing_and_translation",
+  "caption_models": [
+    "Systran/faster-whisper-base.en",
+    "Sams200/opus-mt-en-zh"
+  ],
+  "lines": [
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "A JetBlue Airlines flight from West Palm Beach to New York City was forced to turn around and land Sunday morning after the plane struck a bird.",
+      "translation": "JetBlue航空公司一架从西棕榈滩飞往纽约市的航班周日上午在飞机撞鸟后被迫掉头降落。",
+      "start": 40.87,
+      "end": 51.69,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The flight from Palm Beach International Airport to LaGuardia Airport turned around just minutes after takeoff following the strike.",
+      "translation": "这架从棕榈滩国际机场飞往LaGuardia机场的航班在起飞仅几分钟后因撞击事件而掉头返航。",
+      "start": 52.74,
+      "end": 61.5,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "No injuries were reported on the plane, and the flight took off once again 7.5 hours after the first attempt.",
+      "translation": "飞机上未报告有人受伤,飞机在第一次尝试后7.5小时再次起飞。",
+      "start": 62.71,
+      "end": 70.67
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "\"It was like a split second of panic…that resulted in this nervous reaction on the plane,\" said passenger Brian Healy.",
+      "translation": "乘客Brian Healy说, \"这就像一瞬间恐慌... 导致飞机上神经紧张反应\"",
+      "start": 72.1,
+      "end": 80.4
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "\"There was total quiet, and then there was relief when the plane came to a stop.\" An email from JetBlue read, \"Our team is working to accommodate customers on later flights.\"",
+      "translation": "飞机停了下来 飞机就松了一口气",
+      "start": 81.25,
+      "end": 94.8
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "A deadly snake which had finally been tracked down after escaping a zoo has slipped away for the second time.",
+      "translation": "一条致命的毒蛇在从动物园逃脱后终于被追踪到,却第二次溜走了。",
+      "start": 150.51,
+      "end": 157.69,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The poisonous snake forced the closure of the attraction last week when staff noticed the disappearance.",
+      "translation": "上周当工作人员注意到这条毒蛇失踪时,它迫使该景点关闭。",
+      "start": 158.76,
+      "end": 165.6,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "After six days of desperate searching, he was eventually found and placed in a supposedly secure area.",
+      "translation": "经过六天的拼命搜寻,它最终被找到并被安置在一个据称安全的区域。",
+      "start": 166.8,
+      "end": 173.68,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But it seems the animal is no fan of the zoo, because yet again he is out on the loose.",
+      "translation": "但这只动物似乎并不喜欢这家动物园,因为它再次逃脱了。",
+      "start": 174.58,
+      "end": 180.98,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The snake is a relative newcomer to the zoo but has already been frustrating its staff.",
+      "translation": "这条蛇是动物园相对较新的成员,但已经让工作人员感到沮丧。",
+      "start": 182.07,
+      "end": 187.69,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The staff believe he squeezed himself out of a gap located around new energy-saving bulbs installed inside the snake house.",
+      "translation": "工作人员认为它是从蛇舍内安装的新型节能灯泡周围的缝隙中挤出去的。",
+      "start": 188.93,
+      "end": 197.45,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "He was only found the first time around because staff brought in a special machine to trace him inside a wall opening.",
+      "translation": "它第一次被找到是因为工作人员带来了一台特殊的机器,在墙壁开口内追踪到了它。",
+      "start": 198.42,
+      "end": 206.48,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This kind of snake is one of the most deadly and poisonous in the wild, and they can range from 3 to 5 meters in length.",
+      "translation": "这种蛇是野外最致命、毒性最强的蛇类之一,体长可达3至5米。",
+      "start": 207.4,
+      "end": 215.86,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Electric bikes have been the craze in downtown Jacksonville since they were first introduced earlier this month as a one-year pilot program.",
+      "translation": "自本月早些时候作为为期一年的试点项目首次引入以来,电动自行车在杰克逊维尔市中心引发了热潮。",
+      "start": 266.18,
+      "end": 275.48,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But they're leading to safety concerns, mainly at night when some riders don't follow the rules of the road.",
+      "translation": "但它们引发了安全担忧,主要是在夜间,一些骑行者不遵守交通规则。",
+      "start": 276.55,
+      "end": 283.43,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "As the night goes on, groups of riders are often seen traveling in just about every direction in the streets and on pedestrian paths.",
+      "translation": "随着夜幕降临,经常可以看到成群的骑行者在街道和人行道上几乎朝着各个方向行驶。",
+      "start": 284.67,
+      "end": 293.17,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That is increasing the probability of dangerous accidents.",
+      "translation": "这增加了发生危险事故的可能性。",
+      "start": 294.26,
+      "end": 297.32,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Electric bike riders have to follow all the same rules as you would if you were in an automobile.",
+      "translation": "电动自行车骑行者必须遵守与驾驶汽车时相同的所有规则。",
+      "start": 298.98,
+      "end": 304.3,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That means no running red lights or traveling in the opposite direction of traffic on one-way streets.",
+      "translation": "这意味着不能闯红灯,也不能在单行道上逆向行驶。",
+      "start": 305.37,
+      "end": 311.49,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "City Council Member Anna Cumber was instrumental in introducing the electric bikes to Jacksonville as a way to bring new life into downtown.",
+      "translation": "市议员Anna Cumber在向Jacksonville引进电动自行车, 以此为方式给市区带来新的生活。",
+      "start": 312.8,
+      "end": 321.82
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And she's aware of the concerns.",
+      "translation": "而且她知道这些担忧",
+      "start": 322.64,
+      "end": 324.2
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Cumber said, \"People can have fun, but both drivers and riders are responsible for paying attention while on the road.",
+      "translation": "Cumber说,“人们可以玩得开心,但司机和骑手都有责任在路上注意。",
+      "start": 324.2,
+      "end": 332.7
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And never assume the driver is going to stop or see you.\"",
+      "translation": "也别以为司机会停下来或见你。”",
+      "start": 333.66,
+      "end": 337.16
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What are electric bike riders supposed to do?",
+      "translation": "电动自行车骑手应该做什么?",
+      "start": 368.56,
+      "end": 371.72
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 7.",
+      "translation": "问题7",
+      "start": 387.21,
+      "end": 387.97
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Why did City Council member Anna Kumba advocate the introduction of electric bikes into Jacksonville?",
+      "translation": "为什么市议员Anna Kumba主张将电动自行车引入Jacksonville?",
+      "start": 388.69,
+      "end": 395.09
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Section B, directions.",
+      "translation": "B节,方向。",
+      "start": 410.63,
+      "end": 412.15
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In this section you will hear two long conversations.",
+      "translation": "在本节中,你们将听到两个长长的谈话。",
+      "start": 413.47,
+      "end": 416.49
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "At the end of each conversation you will hear four questions.",
+      "translation": "每次谈话结束时,你将听到四个问题。",
+      "start": 417.61,
+      "end": 420.95
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Both the conversation and the questions will be spoken only once.",
+      "translation": "谈话和问题只谈一次",
+      "start": 422.3,
+      "end": 426.42
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "After you hear a question, you must choose the best answer from the four choices marked A, B,",
+      "translation": "在听到一个问题后,你必须从四个选择中选择最好的答案,四个选择标注A,B,",
+      "start": 427.6,
+      "end": 434.68
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "C, and D.",
+      "translation": "C,和D., 和D., 和D.",
+      "start": 435.34,
+      "end": 436.28
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "mark the corresponding letter on answer sheet one with a single line through the center.",
+      "translation": "在答题单单行的答题表一中标出相应的字母。",
+      "start": 437.22,
+      "end": 442.22
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Conversation one.",
+      "translation": "交谈之一。",
+      "start": 443.62,
+      "end": 444.76
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What's the best way to teach children how to save and spend their money?",
+      "translation": "教孩子如何存钱和花钱,最好的方法是什么?",
+      "start": 446.12,
+      "end": 450.32,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You should make money a regular topic of discussion.",
+      "translation": "你应该把钱的话题作为日常讨论的内容。",
+      "start": 451.38,
+      "end": 453.96,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's best to start young, so it's instinctive rather than a scary subject.",
+      "translation": "最好从小开始,这样就会成为本能反应,而不是一个可怕的话题。",
+      "start": 455.06,
+      "end": 460.17,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In our family, we talk openly about things like the budget for holidays, how taxes reduce your income, and how to shop around for the best deals.",
+      "translation": "在我们家,我们公开讨论像假期预算、税收如何减少你的收入,以及如何货比三家找到最优惠的价格这类事情。",
+      "start": 461.07,
+      "end": 469.75,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Indeed.",
+      "translation": "确实如此。",
+      "start": 470.47,
+      "end": 470.73,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's also essential to make money real for children through practical examples.",
+      "translation": "通过实际例子让孩子对金钱有真实感受也很重要。",
+      "start": 471.21,
+      "end": 476.31,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Working out how much we save using discount pizza coupons, for example, is much more relevant than abstract sums.",
+      "translation": "比如算出使用披萨折扣券能省多少钱,这比抽象的数字计算要实用得多。",
+      "start": 477.41,
+      "end": 484.89,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We also give our kids pocket money, and the amount they get is linked to chores, such as putting the bins out and emptying the dishwasher.",
+      "translation": "我们还给孩子零花钱,金额多少跟家务挂钩,比如倒垃圾和清空洗碗机。",
+      "start": 485.68,
+      "end": 493.36,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We do that too, and it's paid according to their age.",
+      "translation": "我们也这样做,而且是按年龄支付。",
+      "start": 493.84,
+      "end": 496.84,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Two pounds for each year so they can see some progression.",
+      "translation": "每岁两英镑,这样他们能看到一些进步。",
+      "start": 497.4,
+      "end": 500.42,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Teaching them to save is important.",
+      "translation": "教他们存钱很重要。",
+      "start": 501.55,
+      "end": 503.05,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We opened a savings account when they were young.",
+      "translation": "我们在他们小时候就开了储蓄账户。",
+      "start": 504.09,
+      "end": 505.83,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "After birthdays and Christmas, they would go to the branch and deposit their gift money.",
+      "translation": "生日和圣诞节过后,他们会去银行网点存入收到的礼金。",
+      "start": 506.73,
+      "end": 511.23,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Oh, I hadn't considered doing that.",
+      "translation": "哦,我还没考虑过这样做。",
+      "start": 511.79,
+      "end": 513.67,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In our house, we have transparent money boxes for them to put small change in, so they can see their savings grow.",
+      "translation": "在我们家,我们有透明的存钱罐让他们放零钱,这样他们能看到自己的储蓄增长。",
+      "start": 514.16,
+      "end": 520.8,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "When the time is right, I'll start talking to our children about investing and show them how the money saved for their further education has grown.",
+      "translation": "时机成熟时,我会开始跟孩子们谈投资,让他们看看为他们继续教育存的钱是如何增长的。",
+      "start": 521.6,
+      "end": 529.48,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I am always talking to my elder daughter about the importance of saving into a pension.",
+      "translation": "我一直跟大女儿强调存养老金的重要性。",
+      "start": 530.24,
+      "end": 534.88,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "She's just started a part-time job and was thinking of not contributing to her pension.",
+      "translation": "她刚开始做兼职,本来想着不缴纳养老金。",
+      "start": 535.86,
+      "end": 540.78,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Luckily, I managed to persuade her otherwise.",
+      "translation": "幸好我说服了她。",
+      "start": 541.46,
+      "end": 543.88,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Yes, it's such an important lesson to learn.",
+      "translation": "是的,这是非常重要的一课。",
+      "start": 544.7,
+      "end": 547.48,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions 8 to 11 are based on the conversation you have just heard.",
+      "translation": "问题8至11 是基于你刚才听到的谈话",
+      "start": 548.7,
+      "end": 552.94
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 8.",
+      "translation": "问题8",
+      "start": 554.16,
+      "end": 554.72
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What should we do with the topic of money, according to the woman?",
+      "translation": "女人说,钱这个话题该怎么处理?",
+      "start": 555.18,
+      "end": 558.76
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 9.",
+      "translation": "问题9",
+      "start": 574.41,
+      "end": 575.17
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "How does the woman say money can be made real for children?",
+      "translation": "女人怎么说钱能让孩子变成真钱?",
+      "start": 575.69,
+      "end": 579.19
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 10.",
+      "translation": "问题10。",
+      "start": 594.94,
+      "end": 595.66
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What is the common practice between the man and the woman?",
+      "translation": "男女的通常做法是什么?",
+      "start": 596.2,
+      "end": 599.08
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 11.",
+      "translation": "问题11。",
+      "start": 614.69,
+      "end": 615.47
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What is the woman always talking about to her elder daughter?",
+      "translation": "那个女人总在跟她的长女儿说些什么?",
+      "start": 615.98,
+      "end": 619.2
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Welcome to Books in Review.",
+      "translation": "欢迎收看《书评》。",
+      "start": 634.68,
+      "end": 636.733,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Welcome to Books in Review.",
+      "translation": "欢迎收看《书评》。",
+      "start": 636.733,
+      "end": 638.52,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Our guest today is John Banks, the author of the best selling new book, Rewarding Success.",
+      "translation": "今天的嘉宾是畅销新书《奖励成功》的作者约翰·班克斯。",
+      "start": 639.34,
+      "end": 644.92,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Glad to be here, Jane.",
+      "translation": "很高兴来到这里,简。",
+      "start": 645.6,
+      "end": 646.62,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Your book has sold 2 million copies, but before we discuss why it's getting so much attention, let's talk about your background.",
+      "translation": "您的书已经售出200万册,但在我们讨论它为什么受到如此多关注之前,让我们先聊聊您的背景。",
+      "start": 647.46,
+      "end": 655.2,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You're an economist and spent two decades teaching at universities?",
+      "translation": "您是一位经济学家,在大学教了二十年书?",
+      "start": 656.25,
+      "end": 659.61,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I spent 25 years as a professor, actually.",
+      "translation": "实际上我当了25年教授。",
+      "start": 660.56,
+      "end": 663.66,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And then, for the last 10 years, I've worked as a political consultant, advising politicians at the national level about problems in our country.",
+      "translation": "然后,在过去10年里,我一直担任政治顾问,就我们国家的问题向国家层面的政治家们提供建议。",
+      "start": 664.3,
+      "end": 672.62,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You discuss three of those problems in the book, improving public education, reducing our nation's healthcare burden, and increasing personal savings.",
+      "translation": "您在书中讨论了其中三个问题,改善公共教育、减轻我们国家的医疗负担以及增加个人储蓄。",
+      "start": 673.26,
+      "end": 682.84,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But your ideas about education are the most controversial.",
+      "translation": "但您关于教育的观点是最具争议的。",
+      "start": 683.92,
+      "end": 686.94,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Absolutely.",
+      "translation": "没错。",
+      "start": 687.89,
+      "end": 688.53,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "A lot of people think I'm trying to punish students who aren't doing well, when actually my goal is to give all students more incentive to succeed.",
+      "translation": "很多人认为我是在惩罚那些表现不好的学生,而实际上我的目标是给所有学生更多成功的动力。",
+      "start": 689.19,
+      "end": 697.73,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'm not sure I agree with you.",
+      "translation": "我不确定我同意你的意见",
+      "start": 698.27,
+      "end": 700.09
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Your proposal to pay cash rewards to students who get good grades is a particular problem.",
+      "translation": "你建议向成绩好的学生支付现金奖励是一个特别的问题。",
+      "start": 700.51,
+      "end": 706.09
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What about students who don't get good grades?",
+      "translation": "成绩差的学生呢?",
+      "start": 706.91,
+      "end": 709.11
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It seems like you're blaming them for not succeeding, when poor performance in school isn't a child's fault.",
+      "translation": "学校成绩差不是孩子的错 学校成绩差 似乎是你在责怪他们没能成功",
+      "start": 709.87,
+      "end": 716.19
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But my proposal is not just to reward students with good grades, but also students who show improvements.",
+      "translation": "但我的提议不仅是奖励成绩好的学生,也奖励那些有进步的学生。",
+      "start": 717.07,
+      "end": 724.65,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Okay, another criticism of the plan is the cash rewards themselves.",
+      "translation": "好吧,这个计划的另一个批评是现金奖励本身。",
+      "start": 724.65,
+      "end": 728.69,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Where will the money come from?",
+      "translation": "钱从哪里来?",
+      "start": 729.67,
+      "end": 731.03,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "If students do better, we'll spend less on schooling.",
+      "translation": "如果学生们表现更好,我们在教育上的花费就会减少。",
+      "start": 731.83,
+      "end": 734.97,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So, in the end, the rewards will pay for themselves.",
+      "translation": "所以,最终这些奖励会自己收回成本。",
+      "start": 735.67,
+      "end": 738.05,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What about now?",
+      "translation": "现在怎么办?",
+      "start": 739.05,
+      "end": 739.97
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "How will we fund the rewards in the meantime?",
+      "translation": "在此期间我们如何资助奖励呢?",
+      "start": 740.51,
+      "end": 742.41
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Well, by increasing taxes or moving money from other areas of the budget into education.",
+      "translation": "嗯,通过增加税收或者从预算的其他领域把钱转移到教育上。",
+      "start": 743.25,
+      "end": 749.23,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What will be one option for funding the proposed rewards according to the man?",
+      "translation": "如何为根据男子的奖励计划提供资金?",
+      "start": 815.76,
+      "end": 820.54
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Section C,",
+      "translation": "C节,",
+      "start": 836.09,
+      "end": 836.91
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In this section you will hear three passages.",
+      "translation": "在本节中,你们将听到三个段落。",
+      "start": 838.95,
+      "end": 841.19
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "At the end of each passage you will hear three or four questions.",
+      "translation": "在每一段的结尾 你会听到三个或四个问题",
+      "start": 842.17,
+      "end": 846.09
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Both the passage and the questions will be spoken only once.",
+      "translation": "发言的通过和提问将只讲一次。",
+      "start": 847.17,
+      "end": 850.63
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "After you hear a question you must choose the best answer from the four choices marked A, B, C and D.",
+      "translation": "在听到一个问题后,你必须从四个选择中选择最好的答案,这四个选择分别是A、B、C和D。",
+      "start": 851.63,
+      "end": 859.83
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Then mark the corresponding letter on answer sheet one with a single line through",
+      "translation": "然后用单行通过",
+      "start": 860.35,
+      "end": 865.45
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "the",
+      "translation": "排",
+      "start": 866.44,
+      "end": 869.3
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I met three different people today, and each time, when I asked, \"How are you?\" The reply was exactly the same.",
+      "translation": "今天我遇到了三个不同的人, 每次我问“你好吗?” 回答完全一样。",
+      "start": 869.3,
+      "end": 878.152
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "\"I'm busy\".",
+      "translation": "\"我忙着呢\"",
+      "start": 878.152,
+      "end": 878.995
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Honestly, I hear the same answer from the vast majority of people I meet.",
+      "translation": "说实话,我从我所遇见的绝大多数人那里听到了同样的答案。",
+      "start": 878.995,
+      "end": 884.897
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So I started to think: \"Guess what?",
+      "translation": "于是我开始想: “猜什么?",
+      "start": 884.897,
+      "end": 887.848
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Everybody's busy!\" I'm busy, you're busy, everybody's busy.",
+      "translation": "每个人都很忙!\"我很忙,你很忙,大家都很忙。",
+      "start": 887.848,
+      "end": 891.22
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So you being busy doesn't make me sympathetic at all.",
+      "translation": "所以,你忙 并不使我同情 在所有。",
+      "start": 891.22,
+      "end": 894.94
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Because \"busy\" is the state of the world.",
+      "translation": "因为\"Busy\"是世界的状态",
+      "start": 894.94,
+      "end": 897.68
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So I'm launching a campaign to stop people complaining about being \"busy.\" It may sound harsh, but the truth is, nobody cares.",
+      "translation": "所以我要发起一场运动, 阻止人们抱怨自己是“暴躁”。这听起来可能很残酷, 但事实是,没有人在乎。",
+      "start": 898.68,
+      "end": 907.08
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In a busy world, \"being busy\" doesn't stand out, nor does it mean productive, creative, accomplished, or professional.",
+      "translation": "在一个忙碌的世界里,\"忙碌\"并不显眼, 也不意味着有生产力、创造性、成就或专业。",
+      "start": 907.92,
+      "end": 915.66
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Steve Maraboli once said, \"When someone tells you they are too 'busy', it's not a reflection of their schedule; it's a reflection of YOUR spot on their schedule.\" Donna Lynn Hope has also remarked, \"Busy doesn't mean better.",
+      "translation": "Steve Maraboli曾经说过,“有人告诉你他们太\"粗野\",这不是他们的日程表的反映,而是你日程表上的位子的反映。”Donna Lynn Hope也说,“Busy的意思不是更好。",
+      "start": 917.34,
+      "end": 931.62
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I've never envied a busy person—the one who likes to point out their busy lives to others.\"",
+      "translation": "我从来没有羡慕过一个忙碌的人, 喜欢向别人指出他们忙碌的生活的人。”",
+      "start": 932.52,
+      "end": 937.92
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The reality is, nobody is too busy—it's just about priorities.",
+      "translation": "现实是,没有人真的太忙——这只是关乎优先级的问题。",
+      "start": 938.86,
+      "end": 942.9,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So the next time someone asks you how you are, maybe respond differently.",
+      "translation": "所以下次有人问你过得怎么样时,也许可以换一种回答方式。",
+      "start": 944.16,
+      "end": 948.28,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In my experience, the \"I'm busy\" response is really covering up the fact that they're not actually accomplishing their real purpose.",
+      "translation": "根据我的经验,\"我很忙\"这个回答实际上是在掩盖他们并没有真正完成自己真正目标的事实。",
+      "start": 948.99,
+      "end": 957.05,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And \"being busy\" is the lie they tell themselves about why they can't achieve it.",
+      "translation": "而\"忙碌\"是他们对自己无法实现目标所撒的谎。",
+      "start": 957.73,
+      "end": 962.71,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions 16-18 are based on the passage you have just heard.",
+      "translation": "问题16-18是根据你刚才听到的段落提出的。",
+      "start": 964.06,
+      "end": 968.7
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "16.",
+      "translation": "16岁。",
+      "start": 970.07,
+      "end": 970.55
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Why is the speaker launching a campaign?",
+      "translation": "为什么发言人要发起一场运动?",
+      "start": 971.73,
+      "end": 973.73
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "17.",
+      "translation": "17岁",
+      "start": 990.06,
+      "end": 990.56
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the speaker advise us to do?",
+      "translation": "发言者建议我们做什么?",
+      "start": 991.56,
+      "end": 993.56
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Next time someone asks us how we are.",
+      "translation": "下次有人问我们情况时",
+      "start": 993.87,
+      "end": 996.23
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "18.",
+      "translation": "18岁",
+      "start": 1011.93,
+      "end": 1012.49
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Why do many people make the I'm busy response, according to the speaker?",
+      "translation": "发言者说,为什么许多人对我反应繁忙?",
+      "start": 1013.23,
+      "end": 1017.65
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Passage 2.",
+      "translation": "通行证2。",
+      "start": 1033.53,
+      "end": 1034.11
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "More and more people are taking up extreme sports, like snowboarding, skateboarding, mountain biking, and many more.",
+      "translation": "越来越多的人开始从事极限运动,如滑雪板、滑板、山地自行车等等。",
+      "start": 1035.22,
+      "end": 1042.78,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Why are these sports becoming so popular?",
+      "translation": "为什么这些运动变得如此流行?",
+      "start": 1043.64,
+      "end": 1046.0,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "One thing that extreme sports do better than perhaps anything else is to help you stop being afraid.",
+      "translation": "极限运动比其他任何事物都更能帮助你克服恐惧。",
+      "start": 1047.38,
+      "end": 1053.35,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It may sound strange to say that their main function is to reduce fear.",
+      "translation": "说它们的主要功能是减少恐惧可能听起来很奇怪。",
+      "start": 1054.61,
+      "end": 1058.65,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But after a time, your fear response to other things in life will be dramatically reduced.",
+      "translation": "但一段时间后,你对生活中其他事物的恐惧反应将会大幅减少。",
+      "start": 1059.23,
+      "end": 1064.73,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "After all, if you can jump out of a plane or off a bridge, then you can face anything else easily.",
+      "translation": "毕竟,如果你能从飞机上或桥上跳下来,那么你就能轻松面对其他任何事情。",
+      "start": 1066.17,
+      "end": 1071.63,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "When doing extreme sports, you have to become more focused.",
+      "translation": "在进行极限运动时,你必须变得更加专注。",
+      "start": 1073.14,
+      "end": 1076.58,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You'll be pushed to your limits, and if you aren't focused you'll make dangerous mistakes.",
+      "translation": "你会被推向极限,如果不够专注就会犯下危险的错误。",
+      "start": 1077.6,
+      "end": 1082.02,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Learning to be this focused when enjoying extreme sports will help you to be focused at work, keeping you more productive and ultimately more successful.",
+      "translation": "在享受极限运动时学会如此专注将帮助你在工作中保持专注,使你更高效,最终更成功。",
+      "start": 1083.22,
+      "end": 1092.14,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's great to stay fit and healthy, but standard exercise routines and sports only work the same muscles repeatedly.",
+      "translation": "保持身体健康是件好事 但标准的锻炼常规和运动 只能重复同样的肌肉",
+      "start": 1093.67,
+      "end": 1101.05
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "With extreme sports, you'll be working entirely different muscles, and that means you get an all-over workout.",
+      "translation": "极端的运动,你会工作 完全不同的肌肉, 这意味着你得到 全面锻炼。",
+      "start": 1102.27,
+      "end": 1108.83
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Extreme sports also burn a lot more calories than other sports.",
+      "translation": "极端运动的热量也比其他运动的热量要高得多。",
+      "start": 1109.77,
+      "end": 1114.05
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Skateboarding, for example, can burn as many as 500 calories per hour.",
+      "translation": "例如,滑板机能燃烧的热量可高达每小时500卡。",
+      "start": 1115.07,
+      "end": 1120.11
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Basketball burns around 300 in the same time.",
+      "translation": "篮球同时燃烧约300颗",
+      "start": 1121.21,
+      "end": 1124.33
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "When you find that you can overcome the physical or mental challenges involved in extreme sports, you'll feel superhuman and your self-confidence will be at an all-time high.",
+      "translation": "当你发现自己能够克服极限运动中的身体或心理挑战时,你会感觉自己无所不能,自信心将达到前所未有的高度。",
+      "start": 1125.76,
+      "end": 1136.9,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "are based on the passage you have just heard.",
+      "translation": "依据你刚才听到的段落",
+      "start": 1141.37,
+      "end": 1143.75
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "19.",
+      "translation": "19. 经济",
+      "start": 1144.83,
+      "end": 1145.29
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What may sound strange to say about extreme sports?",
+      "translation": "关于极端运动会有什么奇怪的说法?",
+      "start": 1146.65,
+      "end": 1149.89
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 20.",
+      "translation": "问题20。",
+      "start": 1165.52,
+      "end": 1166.32
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Why should one be highly focused when doing extreme sports?",
+      "translation": "为什么做极端运动时要高度集中?",
+      "start": 1166.87,
+      "end": 1171.01
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "21.",
+      "translation": "21 个",
+      "start": 1187.67,
+      "end": 1188.11
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "How can extreme sports benefit us more than standard exercise routines and sports?",
+      "translation": "极端体育如何比标准练习和体育更有利于我们?",
+      "start": 1188.85,
+      "end": 1194.31
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Most of us have been in teams or organizations where we've had conflict with the people that we're working with around the ideas or decisions that we're discussing.",
+      "translation": "我们大多数人都曾身处这样的团队或组织：在讨论想法或决策时，与合作者产生冲突。",
+      "start": 1211.66,
+      "end": 1221.16,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Conflict is natural.",
+      "translation": "冲突是自然的。",
+      "start": 1221.97,
+      "end": 1223.13,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We all bring different life and work experiences to the table.",
+      "translation": "我们每个人都带来不同的生活和工作经验。",
+      "start": 1224.13,
+      "end": 1227.77,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We all have different personality preferences and tendencies.",
+      "translation": "我们都有不同的性格偏好和倾向。",
+      "start": 1228.61,
+      "end": 1232.01,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We're not all going to have the same ideas on how to approach policies, programs or problems.",
+      "translation": "我们不可能在如何处理政策、项目或问题上都有相同的想法。",
+      "start": 1233.11,
+      "end": 1238.95,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But too often we get caught in this place where conflict is perceived to be negative—something we want to avoid so that we can maintain the harmony of our workplace.",
+      "translation": "但我们经常陷入这样一种境地：冲突被视为负面的——我们想要避免的东西，以便维持工作场所的和谐。",
+      "start": 1240.23,
+      "end": 1250.1,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This could be because some people want to avoid conflict at all costs, after all they still have to work together.",
+      "translation": "这可能是因为有些人想不惜一切代价避免冲突,毕竟他们还要继续共事。",
+      "start": 1251.02,
+      "end": 1257.5,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But this kind of artificial harmony isn't the answer.",
+      "translation": "但这种人为的和谐并不是答案。",
+      "start": 1258.59,
+      "end": 1261.57,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Productive conflict is a vital part of teams and organizations that want to push forward and do more.",
+      "translation": "建设性冲突是想要向前推进并做得更多的团队和组织的重要组成部分。",
+      "start": 1262.48,
+      "end": 1269.02,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Without conflict, we're often stuck in this artificial harmony where people don't express potentially innovative ideas for fear that they may start conflict with others.",
+      "translation": "没有冲突,我们往往会陷入这种人为的和谐,人们不敢表达可能具有创新性的想法,因为担心可能会与他人产生冲突。",
+      "start": 1269.78,
+      "end": 1280.64,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But if you're in a place where you have a basis of trust, conflict can be extremely productive.",
+      "translation": "但如果你所在的地方有信任的基础,冲突可以极具建设性。",
+      "start": 1281.98,
+      "end": 1287.36,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It can lead to increased innovation and greater trust on teams.",
+      "translation": "它可以带来更多创新和团队间更大的信任。",
+      "start": 1288.32,
+      "end": 1292.66,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It may be an uncomfortable process, but good leaders and healthy teams recognize that productive and healthy conflict is an important part of how they function.",
+      "translation": "这可能是一个令人不适的过程,但优秀的领导者和健康的团队认识到,建设性和健康的冲突是他们运作方式的重要组成部分。",
+      "start": 1293.64,
+      "end": 1304.86,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Why is productive conflict important for teams and organizations?",
+      "translation": "为什么生产性冲突对团队和组织很重要?",
+      "start": 1354.96,
+      "end": 1359.06
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 25 What does productive conflict need as a basis?",
+      "translation": "问题25 生产冲突需要什么作为基础?",
+      "start": 1374.86,
+      "end": 1379.48
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That's the end of listening comprehension.",
+      "translation": "听觉理解到此结束",
+      "start": 1395.08,
+      "end": 1397.32
+    }
+  ],
+  "translation_sources": [
+    "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/",
+    "Sams200/opus-mt-en-zh (unmatched sentences only)"
+  ]
+}

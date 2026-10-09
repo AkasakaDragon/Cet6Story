@@ -1,0 +1,1390 @@
+{
+  "source": "https://www.cettong.cn",
+  "fetched_at": "2026-10-09T04:48:31.464795+00:00",
+  "scope": "All publicly listed CET4 and CET6 listening MP3s; papers without audio recorded separately.",
+  "entries": [
+    {
+      "level": "cet4",
+      "exam_id": "2019_06_1",
+      "title": "2019年6月 第1套",
+      "page_url": "https://www.cettong.cn/library/cet4/2019_06_1",
+      "audio_urls": [
+        "https://www.cettong.cn/library/cet4/2019_06_1/listening.mp3"
+      ],
+      "status": "downloaded",
+      "files": [
+        {
+          "path": "assets/tavern/listening/real-exams/cettong/cet4/2019/2019_06_1.mp3",
+          "source_url": "https://www.cettong.cn/library/cet4/2019_06_1/listening.mp3",
+          "bytes": 4144107,
+          "sha256": "512b56a8d2d311c6282a8ad459097205c73bfe857c5c5a904c8716081223ffbe",
+          "verified_full_decode": true
+        }
+      ]
+    },
+    {
+      "level": "cet4",
+      "exam_id": "2019_06_2",
+      "title": "2019年6月 第2套",
+      "page_url": "https://www.cettong.cn/library/cet4/2019_06_2",
+      "audio_urls": [
+        "https://www.cettong.cn/library/cet4/2019_06_2/listening.mp3"
+      ],
+      "status": "downloaded",
+      "files": [
+        {
+          "path": "assets/tavern/listening/real-exams/cettong/cet4/2019/2019_06_2.mp3",
+          "source_url": "https://www.cettong.cn/library/cet4/2019_06_2/listening.mp3",
+          "bytes": 4163906,
+          "sha256": "79197a604a5130218c257da0cf14dce931083b1a4b7a2e7772629e1e0c1a10d8",
+          "verified_full_decode": true
+        }
+      ]
+    },
+    {
+      "level": "cet4",
+      "exam_id": "2019_06_3",
+      "title": "2019年6月 第3套",
+      "page_url": "https://www.cettong.cn/library/cet4/2019_06_3",
+      "audio_urls": [],
+      "status": "no_audio_listed"
+    },
+    {
+      "level": "cet4",
+      "exam_id": "2019_12_1",
+      "title": "2019年12月 第1套",
+      "page_url": "https://www.cettong.cn/library/cet4/2019_12_1",
+      "audio_urls": [
+        "https://www.cettong.cn/library/cet4/2019_12_1/listening.mp3"
+      ],
+      "status": "downloaded",
+      "files": [
+        {
+          "path": "assets/tavern/listening/real-exams/cettong/cet4/2019/2019_12_1.mp3",
+          "source_url": "https://www.cettong.cn/library/cet4/2019_12_1/listening.mp3",
+          "bytes": 4188925,
+          "sha256": "f0f3a8c4b60bbd8c5978557d771ff29fbb1775d616c8b9d68fd900f6305e50ff",
+          "verified_full_decode": true
+        }
+      ]
+    },
+    {
+      "level": "cet4",
+      "exam_id": "2019_12_2",
+      "title": "2019年12月 第2套",
+      "page_url": "https://www.cettong.cn/library/cet4/2019_12_2",
+      "audio_urls": [
+        "https://www.cettong.cn/library/cet4/2019_12_2/listening.mp3"
+      ],
+      "status": "downloaded",
+      "files": [
+        {
+          "path": "assets/tavern/listening/real-exams/cettong/cet4/2019/2019_12_2.mp3",
+          "source_url": "https://www.cettong.cn/library/cet4/2019_12_2/listening.mp3",
+          "bytes": 4273160,
+          "sha256": "63b8bdb7ef5d6458861b6ddd87626587cbbdc39ef5a97b3e0bd3644f211a514f",
+          "verified_full_decode": true
+        }
+      ]
+    },
+    {
+      "level": "cet4",
+      "exam_id": "2019_12_3",
+      "title": "2019年12月 第3套",
+      "page_url": "https://www.cettong.cn/library/cet4/2019_12_3",
+      "audio_urls": [],
+      "status": "no_audio_listed"
+    },
+    {
+      "level": "cet4",
+      "exam_id": "2020_07_1",
+      "title": "2020年7月 第1套",
+      "page_url": "https://www.cettong.cn/library/cet4/2020_07_1",
+      "audio_urls": [
+        "https://www.cettong.cn/library/cet4/2020_07_1/listening.mp3"
+      ],
+      "status": "downloaded",
+      "files": [
+        {
+          "path": "assets/tavern/listening/real-exams/cettong/cet4/2020/2020_07_1.mp3",
+          "source_url": "https://www.cettong.cn/library/cet4/2020_07_1/listening.mp3",
+          "bytes": 4243085,
+          "sha256": "9786aaad4ade492959caffec66281656ac58941d2b308665af4c005152503fcc",
+          "verified_full_decode": true
+        }
+      ]
+    },
+    {
+      "level": "cet4",
+      "exam_id": "2020_09_1",
+      "title": "2020年9月 第1套",
+      "page_url": "https://www.cettong.cn/library/cet4/2020_09_1",
+      "audio_urls": [
+        "https://www.cettong.cn/library/cet4/2020_09_1/listening.mp3"
+      ],
+      "status": "downloaded",
+      "files": [
+        {
+          "path": "assets/tavern/listening/real-exams/cettong/cet4/2020/2020_09_1.mp3",
+          "source_url": "https://www.cettong.cn/library/cet4/2020_09_1/listening.mp3",
+          "bytes": 4202320,
+          "sha256": "1ae847fa2225867c0ead259aba817cbc2739002e1a682f2f79b61d792268924c",
+          "verified_full_decode": true
+        }
+      ]
+    },
+    {
+      "level": "cet4",
+      "exam_id": "2020_09_2",
+      "title": "2020年9月 第2套",
+      "page_url": "https://www.cettong.cn/library/cet4/2020_09_2",
+      "audio_urls": [],
+      "status": "no_audio_listed"
+    },
+    {
+      "level": "cet4",
+      "exam_id": "2020_09_3",
+      "title": "2020年9月 第3套",
+      "page_url": "https://www.cettong.cn/library/cet4/2020_09_3",
+      "audio_urls": [],
+      "status": "no_audio_listed"
+    },
+    {
+      "level": "cet4",
+      "exam_id": "2020_12_1",
+      "title": "2020年12月 第1套",
+      "page_url": "https://www.cettong.cn/library/cet4/2020_12_1",
+      "audio_urls": [
+        "https://www.cettong.cn/library/cet4/2020_12_1/listening.mp3"
+      ],
+      "status": "downloaded",
+      "files": [
+        {
+          "path": "assets/tavern/listening/real-exams/cettong/cet4/2020/2020_12_1.mp3",
+          "source_url": "https://www.cettong.cn/library/cet4/2020_12_1/listening.mp3",
+          "bytes": 4099371,
+          "sha256": "1453297d2f9291238657d84b60a3c198a2e9007d5f9e86c1a54e0556bc55a443",
+          "verified_full_decode": true
+        }
+      ]
+    },
+    {
+      "level": "cet4",
+      "exam_id": "2020_12_2",
+      "title": "2020年12月 第2套",
+      "page_url": "https://www.cettong.cn/library/cet4/2020_12_2",
+      "audio_urls": [
+        "https://www.cettong.cn/library/cet4/2020_12_2/listening.mp3"
+      ],
+      "status": "downloaded",
+      "files": [
+        {
+          "path": "assets/tavern/listening/real-exams/cettong/cet4/2020/2020_12_2.mp3",
+          "source_url": "https://www.cettong.cn/library/cet4/2020_12_2/listening.mp3",
+          "bytes": 4058979,
+          "sha256": "73c5d36abe113eeb7bb2c73b3307fe2d64c1bf10adb056b907d9ef21a29a30f0",
+          "verified_full_decode": true
+        }
+      ]
+    },
+    {
+      "level": "cet4",
+      "exam_id": "2020_12_3",
+      "title": "2020年12月 第3套",
+      "page_url": "https://www.cettong.cn/library/cet4/2020_12_3",
+      "audio_urls": [],
+      "status": "no_audio_listed"
+    },
+    {
+      "level": "cet4",
+      "exam_id": "2021_06_1",
+      "title": "2021年6月 第1套",
+      "page_url": "https://www.cettong.cn/library/cet4/2021_06_1",
+      "audio_urls": [
+        "https://www.cettong.cn/library/cet4/2021_06_1/listening.mp3"
+      ],
+      "status": "downloaded",
+      "files": [
+        {
+          "path": "assets/tavern/listening/real-exams/cettong/cet4/2021/2021_06_1.mp3",
+          "source_url": "https://www.cettong.cn/library/cet4/2021_06_1/listening.mp3",
+          "bytes": 4069020,
+          "sha256": "04168266c74ea1a2dac797a58f929b0482e41b4b34e0f6fa64fa023384992174",
+          "verified_full_decode": true
+        }
+      ]
+    },
+    {
+      "level": "cet4",
+      "exam_id": "2021_06_2",
+      "title": "2021年6月 第2套",
+      "page_url": "https://www.cettong.cn/library/cet4/2021_06_2",
+      "audio_urls": [
+        "https://www.cettong.cn/library/cet4/2021_06_2/listening.mp3"
+      ],
+      "status": "downloaded",
+      "files": [
+        {
+          "path": "assets/tavern/listening/real-exams/cettong/cet4/2021/2021_06_2.mp3",
+          "source_url": "https://www.cettong.cn/library/cet4/2021_06_2/listening.mp3",
+          "bytes": 4194117,
+          "sha256": "6f2866eefe8dd030f2416cf2e8535f7d2360f70d3c54ee7c04cb1d2b1963f8df",
+          "verified_full_decode": true
+        }
+      ]
+    },
+    {
+      "level": "cet4",
+      "exam_id": "2021_06_3",
+      "title": "2021年6月 第3套",
+      "page_url": "https://www.cettong.cn/library/cet4/2021_06_3",
+      "audio_urls": [],
+      "status": "no_audio_listed"
+    },
+    {
+      "level": "cet4",
+      "exam_id": "2021_12_1",
+      "title": "2021年12月 第1套",
+      "page_url": "https://www.cettong.cn/library/cet4/2021_12_1",
+      "audio_urls": [
+        "https://www.cettong.cn/library/cet4/2021_12_1/listening.mp3"
+      ],
+      "status": "downloaded",
+      "files": [
+        {
+          "path": "assets/tavern/listening/real-exams/cettong/cet4/2021/2021_12_1.mp3",
+          "source_url": "https://www.cettong.cn/library/cet4/2021_12_1/listening.mp3",
+          "bytes": 4170915,
+          "sha256": "56fffe7a60fd96d3b43fff9e2c0c6156dc48090ce77a96cc2d79a249ee1ab197",
+          "verified_full_decode": true
+        }
+      ]
+    },
+    {
+      "level": "cet4",
+      "exam_id": "2021_12_2",
+      "title": "2021年12月 第2套",
+      "page_url": "https://www.cettong.cn/library/cet4/2021_12_2",
+      "audio_urls": [
+        "https://www.cettong.cn/library/cet4/2021_12_2/listening.mp3"
+      ],
+      "status": "downloaded",
+      "files": [
+        {
+          "path": "assets/tavern/listening/real-exams/cettong/cet4/2021/2021_12_2.mp3",
+          "source_url": "https://www.cettong.cn/library/cet4/2021_12_2/listening.mp3",
+          "bytes": 4173100,
+          "sha256": "d5dc664b7f166914661a31505fd57f80764e3d081665a1c6ad8af753468f3386",
+          "verified_full_decode": true
+        }
+      ]
+    },
+    {
+      "level": "cet4",
+      "exam_id": "2021_12_3",
+      "title": "2021年12月 第3套",
+      "page_url": "https://www.cettong.cn/library/cet4/2021_12_3",
+      "audio_urls": [],
+      "status": "no_audio_listed"
+    },
+    {
+      "level": "cet4",
+      "exam_id": "2022_06_1",
+      "title": "2022年6月 第1套",
+      "page_url": "https://www.cettong.cn/library/cet4/2022_06_1",
+      "audio_urls": [
+        "https://www.cettong.cn/library/cet4/2022_06_1/listening.mp3"
+      ],
+      "status": "downloaded",
+      "files": [
+        {
+          "path": "assets/tavern/listening/real-exams/cettong/cet4/2022/2022_06_1.mp3",
+          "source_url": "https://www.cettong.cn/library/cet4/2022_06_1/listening.mp3",
+          "bytes": 4534826,
+          "sha256": "c1481f0a77c37f601e57ea1c46c5149d7111ad7b54c339322d3557de9a6ef303",
+          "verified_full_decode": true
+        }
+      ]
+    },
+    {
+      "level": "cet4",
+      "exam_id": "2022_06_2",
+      "title": "2022年6月 第2套",
+      "page_url": "https://www.cettong.cn/library/cet4/2022_06_2",
+      "audio_urls": [],
+      "status": "no_audio_listed"
+    },
+    {
+      "level": "cet4",
+      "exam_id": "2022_06_3",
+      "title": "2022年6月 第3套",
+      "page_url": "https://www.cettong.cn/library/cet4/2022_06_3",
+      "audio_urls": [],
+      "status": "no_audio_listed"
+    },
+    {
+      "level": "cet4",
+      "exam_id": "2022_09_1",
+      "title": "2022年9月 第1套",
+      "page_url": "https://www.cettong.cn/library/cet4/2022_09_1",
+      "audio_urls": [
+        "https://www.cettong.cn/library/cet4/2022_09_1/listening.mp3"
+      ],
+      "status": "downloaded",
+      "files": [
+        {
+          "path": "assets/tavern/listening/real-exams/cettong/cet4/2022/2022_09_1.mp3",
+          "source_url": "https://www.cettong.cn/library/cet4/2022_09_1/listening.mp3",
+          "bytes": 4409698,
+          "sha256": "a13f65fcdfadad4db5cacd7cb779b08886bba15ae192dda217d3218ab13a6564",
+          "verified_full_decode": true
+        }
+      ]
+    },
+    {
+      "level": "cet4",
+      "exam_id": "2022_09_2-3",
+      "title": "2022年9月 第2-3套",
+      "page_url": "https://www.cettong.cn/library/cet4/2022_09_2-3",
+      "audio_urls": [],
+      "status": "no_audio_listed"
+    },
+    {
+      "level": "cet4",
+      "exam_id": "2022_12_1",
+      "title": "2022年12月 第1套",
+      "page_url": "https://www.cettong.cn/library/cet4/2022_12_1",
+      "audio_urls": [
+        "https://www.cettong.cn/library/cet4/2022_12_1/listening.mp3"
+      ],
+      "status": "downloaded",
+      "files": [
+        {
+          "path": "assets/tavern/listening/real-exams/cettong/cet4/2022/2022_12_1.mp3",
+          "source_url": "https://www.cettong.cn/library/cet4/2022_12_1/listening.mp3",
+          "bytes": 4156734,
+          "sha256": "7f57175662d0dc9e2b0f2ed80dbaf462adfa86be9b18d6ab6e74856bd97d45bb",
+          "verified_full_decode": true
+        }
+      ]
+    },
+    {
+      "level": "cet4",
+      "exam_id": "2022_12_2",
+      "title": "2022年12月 第2套",
+      "page_url": "https://www.cettong.cn/library/cet4/2022_12_2",
+      "audio_urls": [
+        "https://www.cettong.cn/library/cet4/2022_12_2/listening.mp3"
+      ],
+      "status": "downloaded",
+      "files": [
+        {
+          "path": "assets/tavern/listening/real-exams/cettong/cet4/2022/2022_12_2.mp3",
+          "source_url": "https://www.cettong.cn/library/cet4/2022_12_2/listening.mp3",
+          "bytes": 4018434,
+          "sha256": "d97e1e85d9a9cdc19b4da9795c1535d9d17cf34d079ec106db4cda5db496f7f0",
+          "verified_full_decode": true
+        }
+      ]
+    },
+    {
+      "level": "cet4",
+      "exam_id": "2022_12_3",
+      "title": "2022年12月 第3套",
+      "page_url": "https://www.cettong.cn/library/cet4/2022_12_3",
+      "audio_urls": [],
+      "status": "no_audio_listed"
+    },
+    {
+      "level": "cet4",
+      "exam_id": "2023_03_1",
+      "title": "2023年3月 第1套",
+      "page_url": "https://www.cettong.cn/library/cet4/2023_03_1",
+      "audio_urls": [
+        "https://www.cettong.cn/library/cet4/2023_03_1/listening.mp3"
+      ],
+      "status": "downloaded",
+      "files": [
+        {
+          "path": "assets/tavern/listening/real-exams/cettong/cet4/2023/2023_03_1.mp3",
+          "source_url": "https://www.cettong.cn/library/cet4/2023_03_1/listening.mp3",
+          "bytes": 4090623,
+          "sha256": "1d6a0e841aa7d37954b64d93e0a07518e476817dae3ddee15095a30ba5840585",
+          "verified_full_decode": true
+        }
+      ]
+    },
+    {
+      "level": "cet4",
+      "exam_id": "2023_03_2-3",
+      "title": "2023年3月 第2-3套",
+      "page_url": "https://www.cettong.cn/library/cet4/2023_03_2-3",
+      "audio_urls": [],
+      "status": "no_audio_listed"
+    },
+    {
+      "level": "cet4",
+      "exam_id": "2023_06_1",
+      "title": "2023年6月 第1套",
+      "page_url": "https://www.cettong.cn/library/cet4/2023_06_1",
+      "audio_urls": [
+        "https://www.cettong.cn/library/cet4/2023_06_1/listening.mp3"
+      ],
+      "status": "downloaded",
+      "files": [
+        {
+          "path": "assets/tavern/listening/real-exams/cettong/cet4/2023/2023_06_1.mp3",
+          "source_url": "https://www.cettong.cn/library/cet4/2023_06_1/listening.mp3",
+          "bytes": 4217697,
+          "sha256": "57eff43868138a819cc6d200f22de45f7c9ea6494c777709c654f9ea6481feb4",
+          "verified_full_decode": true
+        }
+      ]
+    },
+    {
+      "level": "cet4",
+      "exam_id": "2023_06_2",
+      "title": "2023年6月 第2套",
+      "page_url": "https://www.cettong.cn/library/cet4/2023_06_2",
+      "audio_urls": [
+        "https://www.cettong.cn/library/cet4/2023_06_2/listening.mp3"
+      ],
+      "status": "downloaded",
+      "files": [
+        {
+          "path": "assets/tavern/listening/real-exams/cettong/cet4/2023/2023_06_2.mp3",
+          "source_url": "https://www.cettong.cn/library/cet4/2023_06_2/listening.mp3",
+          "bytes": 4201366,
+          "sha256": "4ba7455506aca4c3bed162e985507cf2d9cf1fa66deceb235ac3620dee10d4ba",
+          "verified_full_decode": true
+        }
+      ]
+    },
+    {
+      "level": "cet4",
+      "exam_id": "2023_06_3",
+      "title": "2023年6月 第3套",
+      "page_url": "https://www.cettong.cn/library/cet4/2023_06_3",
+      "audio_urls": [],
+      "status": "no_audio_listed"
+    },
+    {
+      "level": "cet4",
+      "exam_id": "2023_12_1",
+      "title": "2023年12月 第1套",
+      "page_url": "https://www.cettong.cn/library/cet4/2023_12_1",
+      "audio_urls": [
+        "https://www.cettong.cn/library/cet4/2023_12_1/listening.mp3"
+      ],
+      "status": "downloaded",
+      "files": [
+        {
+          "path": "assets/tavern/listening/real-exams/cettong/cet4/2023/2023_12_1.mp3",
+          "source_url": "https://www.cettong.cn/library/cet4/2023_12_1/listening.mp3",
+          "bytes": 4161717,
+          "sha256": "a9a68e6857a3814d0ac583a123c6774fa9a028ea996607de4db690208738b453",
+          "verified_full_decode": true
+        }
+      ]
+    },
+    {
+      "level": "cet4",
+      "exam_id": "2023_12_2",
+      "title": "2023年12月 第2套",
+      "page_url": "https://www.cettong.cn/library/cet4/2023_12_2",
+      "audio_urls": [
+        "https://www.cettong.cn/library/cet4/2023_12_2/listening.mp3"
+      ],
+      "status": "downloaded",
+      "files": [
+        {
+          "path": "assets/tavern/listening/real-exams/cettong/cet4/2023/2023_12_2.mp3",
+          "source_url": "https://www.cettong.cn/library/cet4/2023_12_2/listening.mp3",
+          "bytes": 4173342,
+          "sha256": "ae7d6da51a3b8bcda74e3f22cccf20c0342a7baf52a56c5df3f9927a75c5061b",
+          "verified_full_decode": true
+        }
+      ]
+    },
+    {
+      "level": "cet4",
+      "exam_id": "2023_12_3",
+      "title": "2023年12月 第3套",
+      "page_url": "https://www.cettong.cn/library/cet4/2023_12_3",
+      "audio_urls": [],
+      "status": "no_audio_listed"
+    },
+    {
+      "level": "cet4",
+      "exam_id": "2024_06_1",
+      "title": "2024年6月 第1套",
+      "page_url": "https://www.cettong.cn/library/cet4/2024_06_1",
+      "audio_urls": [
+        "https://www.cettong.cn/library/cet4/2024_06_1/listening.mp3"
+      ],
+      "status": "downloaded",
+      "files": [
+        {
+          "path": "assets/tavern/listening/real-exams/cettong/cet4/2024/2024_06_1.mp3",
+          "source_url": "https://www.cettong.cn/library/cet4/2024_06_1/listening.mp3",
+          "bytes": 4152010,
+          "sha256": "ff058173825e2b713e0601c9a352c8157a0146dec7f95e6c27329750734126e0",
+          "verified_full_decode": true
+        }
+      ]
+    },
+    {
+      "level": "cet4",
+      "exam_id": "2024_06_2",
+      "title": "2024年6月 第2套",
+      "page_url": "https://www.cettong.cn/library/cet4/2024_06_2",
+      "audio_urls": [
+        "https://www.cettong.cn/library/cet4/2024_06_2/listening.mp3"
+      ],
+      "status": "downloaded",
+      "files": [
+        {
+          "path": "assets/tavern/listening/real-exams/cettong/cet4/2024/2024_06_2.mp3",
+          "source_url": "https://www.cettong.cn/library/cet4/2024_06_2/listening.mp3",
+          "bytes": 4118785,
+          "sha256": "9329cce82e3149c74f35c75e65f6628f398796cd6c388a6a9b1e2a8432ea7e1b",
+          "verified_full_decode": true
+        }
+      ]
+    },
+    {
+      "level": "cet4",
+      "exam_id": "2024_06_3",
+      "title": "2024年6月 第3套",
+      "page_url": "https://www.cettong.cn/library/cet4/2024_06_3",
+      "audio_urls": [],
+      "status": "no_audio_listed"
+    },
+    {
+      "level": "cet4",
+      "exam_id": "2024_12_1",
+      "title": "2024年12月 第1套",
+      "page_url": "https://www.cettong.cn/library/cet4/2024_12_1",
+      "audio_urls": [
+        "https://www.cettong.cn/library/cet4/2024_12_1/listening.mp3"
+      ],
+      "status": "downloaded",
+      "files": [
+        {
+          "path": "assets/tavern/listening/real-exams/cettong/cet4/2024/2024_12_1.mp3",
+          "source_url": "https://www.cettong.cn/library/cet4/2024_12_1/listening.mp3",
+          "bytes": 4199862,
+          "sha256": "5a7ea2c48b082f61c1b248c4b9462694eb931a7f8fba784f64b331888bcfe9a1",
+          "verified_full_decode": true
+        }
+      ]
+    },
+    {
+      "level": "cet4",
+      "exam_id": "2024_12_2",
+      "title": "2024年12月 第2套",
+      "page_url": "https://www.cettong.cn/library/cet4/2024_12_2",
+      "audio_urls": [
+        "https://www.cettong.cn/library/cet4/2024_12_2/listening.mp3"
+      ],
+      "status": "downloaded",
+      "files": [
+        {
+          "path": "assets/tavern/listening/real-exams/cettong/cet4/2024/2024_12_2.mp3",
+          "source_url": "https://www.cettong.cn/library/cet4/2024_12_2/listening.mp3",
+          "bytes": 4190015,
+          "sha256": "43a895f49edc7c9ab81f9ef79fa08fc42df0331d5a0a7168b8be365ef9036779",
+          "verified_full_decode": true
+        }
+      ]
+    },
+    {
+      "level": "cet4",
+      "exam_id": "2024_12_3",
+      "title": "2024年12月 第3套",
+      "page_url": "https://www.cettong.cn/library/cet4/2024_12_3",
+      "audio_urls": [],
+      "status": "no_audio_listed"
+    },
+    {
+      "level": "cet4",
+      "exam_id": "2025_06_1",
+      "title": "2025年6月 第1套",
+      "page_url": "https://www.cettong.cn/library/cet4/2025_06_1",
+      "audio_urls": [
+        "https://www.cettong.cn/library/cet4/2025_06_1/listening.mp3"
+      ],
+      "status": "downloaded",
+      "files": [
+        {
+          "path": "assets/tavern/listening/real-exams/cettong/cet4/2025/2025_06_1.mp3",
+          "source_url": "https://www.cettong.cn/library/cet4/2025_06_1/listening.mp3",
+          "bytes": 4169648,
+          "sha256": "a23dc74f40f8b9806f52e6f8f0468423df5069afea5730c5f9ca3a8c2684864c",
+          "verified_full_decode": true
+        }
+      ]
+    },
+    {
+      "level": "cet4",
+      "exam_id": "2025_06_2",
+      "title": "2025年6月 第2套",
+      "page_url": "https://www.cettong.cn/library/cet4/2025_06_2",
+      "audio_urls": [
+        "https://www.cettong.cn/library/cet4/2025_06_2/listening.mp3"
+      ],
+      "status": "downloaded",
+      "files": [
+        {
+          "path": "assets/tavern/listening/real-exams/cettong/cet4/2025/2025_06_2.mp3",
+          "source_url": "https://www.cettong.cn/library/cet4/2025_06_2/listening.mp3",
+          "bytes": 4198495,
+          "sha256": "b6ef913d459432822082ef979e49ff8e047172a9f44f775ad5238a551f9c8b9c",
+          "verified_full_decode": true
+        }
+      ]
+    },
+    {
+      "level": "cet4",
+      "exam_id": "2025_06_3",
+      "title": "2025年6月 第3套",
+      "page_url": "https://www.cettong.cn/library/cet4/2025_06_3",
+      "audio_urls": [],
+      "status": "no_audio_listed"
+    },
+    {
+      "level": "cet4",
+      "exam_id": "2025_12_1",
+      "title": "2025年12月 第1套",
+      "page_url": "https://www.cettong.cn/library/cet4/2025_12_1",
+      "audio_urls": [
+        "https://www.cettong.cn/library/cet4/2025_12_1/listening.mp3"
+      ],
+      "status": "downloaded",
+      "files": [
+        {
+          "path": "assets/tavern/listening/real-exams/cettong/cet4/2025/2025_12_1.mp3",
+          "source_url": "https://www.cettong.cn/library/cet4/2025_12_1/listening.mp3",
+          "bytes": 4037575,
+          "sha256": "a0a932f333cfde810843ff74ffd762f1b7331704a168c4f8e4f8ec4f5ac497ac",
+          "verified_full_decode": true
+        }
+      ]
+    },
+    {
+      "level": "cet4",
+      "exam_id": "2025_12_2",
+      "title": "2025年12月 第2套",
+      "page_url": "https://www.cettong.cn/library/cet4/2025_12_2",
+      "audio_urls": [
+        "https://www.cettong.cn/library/cet4/2025_12_2/listening.mp3"
+      ],
+      "status": "downloaded",
+      "files": [
+        {
+          "path": "assets/tavern/listening/real-exams/cettong/cet4/2025/2025_12_2.mp3",
+          "source_url": "https://www.cettong.cn/library/cet4/2025_12_2/listening.mp3",
+          "bytes": 4140660,
+          "sha256": "93c82d3cb2da5ac5c0b0db0fce6b9a4efc63fac3deb8641187244dd27ec4e9b6",
+          "verified_full_decode": true
+        }
+      ]
+    },
+    {
+      "level": "cet4",
+      "exam_id": "2025_12_3",
+      "title": "2025年12月 第3套",
+      "page_url": "https://www.cettong.cn/library/cet4/2025_12_3",
+      "audio_urls": [],
+      "status": "no_audio_listed"
+    },
+    {
+      "level": "cet6",
+      "exam_id": "2019_06_1",
+      "title": "2019年6月 第1套",
+      "page_url": "https://www.cettong.cn/library/cet6/2019_06_1",
+      "audio_urls": [
+        "https://www.cettong.cn/library/cet6/2019_06_1/listening.mp3"
+      ],
+      "status": "downloaded",
+      "files": [
+        {
+          "path": "assets/tavern/listening/real-exams/cettong/cet6/2019/2019_06_1.mp3",
+          "source_url": "https://www.cettong.cn/library/cet6/2019_06_1/listening.mp3",
+          "bytes": 4868831,
+          "sha256": "051c53fd6b7f16a2264c086fa4965d71ab09a51b479bbff809148f527be48a13",
+          "verified_full_decode": true
+        }
+      ]
+    },
+    {
+      "level": "cet6",
+      "exam_id": "2019_06_2",
+      "title": "2019年6月 第2套",
+      "page_url": "https://www.cettong.cn/library/cet6/2019_06_2",
+      "audio_urls": [
+        "https://www.cettong.cn/library/cet6/2019_06_2/listening.mp3"
+      ],
+      "status": "downloaded",
+      "files": [
+        {
+          "path": "assets/tavern/listening/real-exams/cettong/cet6/2019/2019_06_2.mp3",
+          "source_url": "https://www.cettong.cn/library/cet6/2019_06_2/listening.mp3",
+          "bytes": 4923500,
+          "sha256": "e8c2b57fe5d623d11e4452402c40f5273c86d20b8bc38d2bee00861b9257f21a",
+          "verified_full_decode": true
+        }
+      ]
+    },
+    {
+      "level": "cet6",
+      "exam_id": "2019_06_3",
+      "title": "2019年6月 第3套",
+      "page_url": "https://www.cettong.cn/library/cet6/2019_06_3",
+      "audio_urls": [],
+      "status": "no_audio_listed"
+    },
+    {
+      "level": "cet6",
+      "exam_id": "2019_12_1",
+      "title": "2019年12月 第1套",
+      "page_url": "https://www.cettong.cn/library/cet6/2019_12_1",
+      "audio_urls": [
+        "https://www.cettong.cn/library/cet6/2019_12_1/listening.mp3"
+      ],
+      "status": "downloaded",
+      "files": [
+        {
+          "path": "assets/tavern/listening/real-exams/cettong/cet6/2019/2019_12_1.mp3",
+          "source_url": "https://www.cettong.cn/library/cet6/2019_12_1/listening.mp3",
+          "bytes": 4950317,
+          "sha256": "4a391715b63cc0ade7c256780710adfd02c53caa254c62335fb26aec9028e8c5",
+          "verified_full_decode": true
+        }
+      ]
+    },
+    {
+      "level": "cet6",
+      "exam_id": "2019_12_2",
+      "title": "2019年12月 第2套",
+      "page_url": "https://www.cettong.cn/library/cet6/2019_12_2",
+      "audio_urls": [
+        "https://www.cettong.cn/library/cet6/2019_12_2/listening.mp3"
+      ],
+      "status": "downloaded",
+      "files": [
+        {
+          "path": "assets/tavern/listening/real-exams/cettong/cet6/2019/2019_12_2.mp3",
+          "source_url": "https://www.cettong.cn/library/cet6/2019_12_2/listening.mp3",
+          "bytes": 4968142,
+          "sha256": "bdca10888aa7f4c69ccc9326a29c28c4961d81a0ba36a00764582d46097f8c6e",
+          "verified_full_decode": true
+        }
+      ]
+    },
+    {
+      "level": "cet6",
+      "exam_id": "2019_12_3",
+      "title": "2019年12月 第3套",
+      "page_url": "https://www.cettong.cn/library/cet6/2019_12_3",
+      "audio_urls": [],
+      "status": "no_audio_listed"
+    },
+    {
+      "level": "cet6",
+      "exam_id": "2020_07_1",
+      "title": "2020年7月 第1套",
+      "page_url": "https://www.cettong.cn/library/cet6/2020_07_1",
+      "audio_urls": [
+        "https://www.cettong.cn/library/cet6/2020_07_1/listening.mp3"
+      ],
+      "status": "downloaded",
+      "files": [
+        {
+          "path": "assets/tavern/listening/real-exams/cettong/cet6/2020/2020_07_1.mp3",
+          "source_url": "https://www.cettong.cn/library/cet6/2020_07_1/listening.mp3",
+          "bytes": 4743873,
+          "sha256": "096f8208b863c9d237cf61022d7eff8ae4e685662e68fe88cf4dd72458417c75",
+          "verified_full_decode": true
+        }
+      ]
+    },
+    {
+      "level": "cet6",
+      "exam_id": "2020_09_1",
+      "title": "2020年9月 第1套",
+      "page_url": "https://www.cettong.cn/library/cet6/2020_09_1",
+      "audio_urls": [
+        "https://www.cettong.cn/library/cet6/2020_09_1/listening.mp3"
+      ],
+      "status": "downloaded",
+      "files": [
+        {
+          "path": "assets/tavern/listening/real-exams/cettong/cet6/2020/2020_09_1.mp3",
+          "source_url": "https://www.cettong.cn/library/cet6/2020_09_1/listening.mp3",
+          "bytes": 4635324,
+          "sha256": "13cbeaaae9aa77d4679f56a22ea6357d72de91cdd1948909f54e09f59984f161",
+          "verified_full_decode": true
+        }
+      ]
+    },
+    {
+      "level": "cet6",
+      "exam_id": "2020_09_2",
+      "title": "2020年9月 第2套",
+      "page_url": "https://www.cettong.cn/library/cet6/2020_09_2",
+      "audio_urls": [],
+      "status": "no_audio_listed"
+    },
+    {
+      "level": "cet6",
+      "exam_id": "2020_09_3",
+      "title": "2020年9月 第3套",
+      "page_url": "https://www.cettong.cn/library/cet6/2020_09_3",
+      "audio_urls": [],
+      "status": "no_audio_listed"
+    },
+    {
+      "level": "cet6",
+      "exam_id": "2020_12_1",
+      "title": "2020年12月 第1套",
+      "page_url": "https://www.cettong.cn/library/cet6/2020_12_1",
+      "audio_urls": [
+        "https://www.cettong.cn/library/cet6/2020_12_1/listening.mp3"
+      ],
+      "status": "downloaded",
+      "files": [
+        {
+          "path": "assets/tavern/listening/real-exams/cettong/cet6/2020/2020_12_1.mp3",
+          "source_url": "https://www.cettong.cn/library/cet6/2020_12_1/listening.mp3",
+          "bytes": 4541798,
+          "sha256": "a85a14f81cec04910d0efa46f13a3a48f679429588b11fb7bdfa05abbfbb9027",
+          "verified_full_decode": true
+        }
+      ]
+    },
+    {
+      "level": "cet6",
+      "exam_id": "2020_12_2",
+      "title": "2020年12月 第2套",
+      "page_url": "https://www.cettong.cn/library/cet6/2020_12_2",
+      "audio_urls": [
+        "https://www.cettong.cn/library/cet6/2020_12_2/listening.mp3"
+      ],
+      "status": "downloaded",
+      "files": [
+        {
+          "path": "assets/tavern/listening/real-exams/cettong/cet6/2020/2020_12_2.mp3",
+          "source_url": "https://www.cettong.cn/library/cet6/2020_12_2/listening.mp3",
+          "bytes": 4703863,
+          "sha256": "cf2f30ada0c1009f1143522c1f1846a7d240512f47c2f11cdcc59a3289bf2c96",
+          "verified_full_decode": true
+        }
+      ]
+    },
+    {
+      "level": "cet6",
+      "exam_id": "2020_12_3",
+      "title": "2020年12月 第3套",
+      "page_url": "https://www.cettong.cn/library/cet6/2020_12_3",
+      "audio_urls": [],
+      "status": "no_audio_listed"
+    },
+    {
+      "level": "cet6",
+      "exam_id": "2021_06_1",
+      "title": "2021年6月 第1套",
+      "page_url": "https://www.cettong.cn/library/cet6/2021_06_1",
+      "audio_urls": [
+        "https://www.cettong.cn/library/cet6/2021_06_1/listening.mp3"
+      ],
+      "status": "downloaded",
+      "files": [
+        {
+          "path": "assets/tavern/listening/real-exams/cettong/cet6/2021/2021_06_1.mp3",
+          "source_url": "https://www.cettong.cn/library/cet6/2021_06_1/listening.mp3",
+          "bytes": 4968899,
+          "sha256": "bc5a89f888d2e79397492a4d000733011d97a0f3373e859666c764bb3d459025",
+          "verified_full_decode": true
+        }
+      ]
+    },
+    {
+      "level": "cet6",
+      "exam_id": "2021_06_2",
+      "title": "2021年6月 第2套",
+      "page_url": "https://www.cettong.cn/library/cet6/2021_06_2",
+      "audio_urls": [
+        "https://www.cettong.cn/library/cet6/2021_06_2/listening.mp3"
+      ],
+      "status": "downloaded",
+      "files": [
+        {
+          "path": "assets/tavern/listening/real-exams/cettong/cet6/2021/2021_06_2.mp3",
+          "source_url": "https://www.cettong.cn/library/cet6/2021_06_2/listening.mp3",
+          "bytes": 5015802,
+          "sha256": "ce1871be7c0745b7210967d130bd1cfaeee903638f12e7f4798ab74887f76180",
+          "verified_full_decode": true
+        }
+      ]
+    },
+    {
+      "level": "cet6",
+      "exam_id": "2021_06_3",
+      "title": "2021年6月 第3套",
+      "page_url": "https://www.cettong.cn/library/cet6/2021_06_3",
+      "audio_urls": [],
+      "status": "no_audio_listed"
+    },
+    {
+      "level": "cet6",
+      "exam_id": "2021_12_1",
+      "title": "2021年12月 第1套",
+      "page_url": "https://www.cettong.cn/library/cet6/2021_12_1",
+      "audio_urls": [
+        "https://www.cettong.cn/library/cet6/2021_12_1/listening.mp3"
+      ],
+      "status": "downloaded",
+      "files": [
+        {
+          "path": "assets/tavern/listening/real-exams/cettong/cet6/2021/2021_12_1.mp3",
+          "source_url": "https://www.cettong.cn/library/cet6/2021_12_1/listening.mp3",
+          "bytes": 4634218,
+          "sha256": "f317a352374c42fd2c00a4ad84562f0f8290d612838ebd8187d363f0746726cb",
+          "verified_full_decode": true
+        }
+      ]
+    },
+    {
+      "level": "cet6",
+      "exam_id": "2021_12_2",
+      "title": "2021年12月 第2套",
+      "page_url": "https://www.cettong.cn/library/cet6/2021_12_2",
+      "audio_urls": [
+        "https://www.cettong.cn/library/cet6/2021_12_2/listening.mp3"
+      ],
+      "status": "downloaded",
+      "files": [
+        {
+          "path": "assets/tavern/listening/real-exams/cettong/cet6/2021/2021_12_2.mp3",
+          "source_url": "https://www.cettong.cn/library/cet6/2021_12_2/listening.mp3",
+          "bytes": 4758224,
+          "sha256": "8e2bc2032336acd339e916fa862836721f776c6f4d68688c513dde02139789ab",
+          "verified_full_decode": true
+        }
+      ]
+    },
+    {
+      "level": "cet6",
+      "exam_id": "2021_12_3",
+      "title": "2021年12月 第3套",
+      "page_url": "https://www.cettong.cn/library/cet6/2021_12_3",
+      "audio_urls": [],
+      "status": "no_audio_listed"
+    },
+    {
+      "level": "cet6",
+      "exam_id": "2022_06_1",
+      "title": "2022年6月 第1套",
+      "page_url": "https://www.cettong.cn/library/cet6/2022_06_1",
+      "audio_urls": [
+        "https://www.cettong.cn/library/cet6/2022_06_1/listening.mp3"
+      ],
+      "status": "downloaded",
+      "files": [
+        {
+          "path": "assets/tavern/listening/real-exams/cettong/cet6/2022/2022_06_1.mp3",
+          "source_url": "https://www.cettong.cn/library/cet6/2022_06_1/listening.mp3",
+          "bytes": 5032072,
+          "sha256": "ea480c968b83583b9832eafa06ad5f607fdac6f11ccdff9746a77832d5eec4dd",
+          "verified_full_decode": true
+        }
+      ]
+    },
+    {
+      "level": "cet6",
+      "exam_id": "2022_06_2-3",
+      "title": "2022年6月 第2-3套",
+      "page_url": "https://www.cettong.cn/library/cet6/2022_06_2-3",
+      "audio_urls": [],
+      "status": "no_audio_listed"
+    },
+    {
+      "level": "cet6",
+      "exam_id": "2022_09_1",
+      "title": "2022年9月 第1套",
+      "page_url": "https://www.cettong.cn/library/cet6/2022_09_1",
+      "audio_urls": [
+        "https://www.cettong.cn/library/cet6/2022_09_1/listening.mp3"
+      ],
+      "status": "downloaded",
+      "files": [
+        {
+          "path": "assets/tavern/listening/real-exams/cettong/cet6/2022/2022_09_1.mp3",
+          "source_url": "https://www.cettong.cn/library/cet6/2022_09_1/listening.mp3",
+          "bytes": 4836220,
+          "sha256": "abeb24db02d8b325504de83750636b9f8775e0a27a4fc3da7e85b2710d9fe29c",
+          "verified_full_decode": true
+        }
+      ]
+    },
+    {
+      "level": "cet6",
+      "exam_id": "2022_09_2-3",
+      "title": "2022年9月 第2-3套",
+      "page_url": "https://www.cettong.cn/library/cet6/2022_09_2-3",
+      "audio_urls": [],
+      "status": "no_audio_listed"
+    },
+    {
+      "level": "cet6",
+      "exam_id": "2022_12_1",
+      "title": "2022年12月 第1套",
+      "page_url": "https://www.cettong.cn/library/cet6/2022_12_1",
+      "audio_urls": [
+        "https://www.cettong.cn/library/cet6/2022_12_1/listening.mp3"
+      ],
+      "status": "downloaded",
+      "files": [
+        {
+          "path": "assets/tavern/listening/real-exams/cettong/cet6/2022/2022_12_1.mp3",
+          "source_url": "https://www.cettong.cn/library/cet6/2022_12_1/listening.mp3",
+          "bytes": 4816770,
+          "sha256": "65cc4ccd5c55a0e1d6fb43df47980597e5e7da01005d29702534c5332b652de3",
+          "verified_full_decode": true
+        }
+      ]
+    },
+    {
+      "level": "cet6",
+      "exam_id": "2022_12_2",
+      "title": "2022年12月 第2套",
+      "page_url": "https://www.cettong.cn/library/cet6/2022_12_2",
+      "audio_urls": [
+        "https://www.cettong.cn/library/cet6/2022_12_2/listening.mp3"
+      ],
+      "status": "downloaded",
+      "files": [
+        {
+          "path": "assets/tavern/listening/real-exams/cettong/cet6/2022/2022_12_2.mp3",
+          "source_url": "https://www.cettong.cn/library/cet6/2022_12_2/listening.mp3",
+          "bytes": 4670587,
+          "sha256": "b026cf64f3145d3d03ff2c4a08482cbb1c682e20bfc328bedda41e0141700e18",
+          "verified_full_decode": true
+        }
+      ]
+    },
+    {
+      "level": "cet6",
+      "exam_id": "2022_12_3",
+      "title": "2022年12月 第3套",
+      "page_url": "https://www.cettong.cn/library/cet6/2022_12_3",
+      "audio_urls": [],
+      "status": "no_audio_listed"
+    },
+    {
+      "level": "cet6",
+      "exam_id": "2023_03_1",
+      "title": "2023年3月 第1套",
+      "page_url": "https://www.cettong.cn/library/cet6/2023_03_1",
+      "audio_urls": [
+        "https://www.cettong.cn/library/cet6/2023_03_1/listening.mp3"
+      ],
+      "status": "downloaded",
+      "files": [
+        {
+          "path": "assets/tavern/listening/real-exams/cettong/cet6/2023/2023_03_1.mp3",
+          "source_url": "https://www.cettong.cn/library/cet6/2023_03_1/listening.mp3",
+          "bytes": 4638320,
+          "sha256": "62263b74538dbcaf296ce18a9c262d51e342f18f80324a64ace107cf1dddf6e7",
+          "verified_full_decode": true
+        }
+      ]
+    },
+    {
+      "level": "cet6",
+      "exam_id": "2023_03_2-3",
+      "title": "2023年3月 第2-3套",
+      "page_url": "https://www.cettong.cn/library/cet6/2023_03_2-3",
+      "audio_urls": [],
+      "status": "no_audio_listed"
+    },
+    {
+      "level": "cet6",
+      "exam_id": "2023_06_1",
+      "title": "2023年6月 第1套",
+      "page_url": "https://www.cettong.cn/library/cet6/2023_06_1",
+      "audio_urls": [
+        "https://www.cettong.cn/library/cet6/2023_06_1/listening.mp3"
+      ],
+      "status": "downloaded",
+      "files": [
+        {
+          "path": "assets/tavern/listening/real-exams/cettong/cet6/2023/2023_06_1.mp3",
+          "source_url": "https://www.cettong.cn/library/cet6/2023_06_1/listening.mp3",
+          "bytes": 4867096,
+          "sha256": "26b738bcfd8064454d207788f225cd5d9efec6007ccb7ab32997992dab1a2583",
+          "verified_full_decode": true
+        }
+      ]
+    },
+    {
+      "level": "cet6",
+      "exam_id": "2023_06_2",
+      "title": "2023年6月 第2套",
+      "page_url": "https://www.cettong.cn/library/cet6/2023_06_2",
+      "audio_urls": [
+        "https://www.cettong.cn/library/cet6/2023_06_2/listening.mp3"
+      ],
+      "status": "downloaded",
+      "files": [
+        {
+          "path": "assets/tavern/listening/real-exams/cettong/cet6/2023/2023_06_2.mp3",
+          "source_url": "https://www.cettong.cn/library/cet6/2023_06_2/listening.mp3",
+          "bytes": 4867191,
+          "sha256": "01589e03c9d336ff2de10491d6e5c52e4cf3dc015dc4bab24bea0b1f113d932f",
+          "verified_full_decode": true
+        }
+      ]
+    },
+    {
+      "level": "cet6",
+      "exam_id": "2023_06_3",
+      "title": "2023年6月 第3套",
+      "page_url": "https://www.cettong.cn/library/cet6/2023_06_3",
+      "audio_urls": [],
+      "status": "no_audio_listed"
+    },
+    {
+      "level": "cet6",
+      "exam_id": "2023_12_1",
+      "title": "2023年12月 第1套",
+      "page_url": "https://www.cettong.cn/library/cet6/2023_12_1",
+      "audio_urls": [
+        "https://www.cettong.cn/library/cet6/2023_12_1/listening.mp3"
+      ],
+      "status": "downloaded",
+      "files": [
+        {
+          "path": "assets/tavern/listening/real-exams/cettong/cet6/2023/2023_12_1.mp3",
+          "source_url": "https://www.cettong.cn/library/cet6/2023_12_1/listening.mp3",
+          "bytes": 4614123,
+          "sha256": "e022f8e815a39bb302fd91669d3a79f674703da61ee0e2589a6af0db48f3eff5",
+          "verified_full_decode": true
+        }
+      ]
+    },
+    {
+      "level": "cet6",
+      "exam_id": "2023_12_2",
+      "title": "2023年12月 第2套",
+      "page_url": "https://www.cettong.cn/library/cet6/2023_12_2",
+      "audio_urls": [
+        "https://www.cettong.cn/library/cet6/2023_12_2/listening.mp3"
+      ],
+      "status": "downloaded",
+      "files": [
+        {
+          "path": "assets/tavern/listening/real-exams/cettong/cet6/2023/2023_12_2.mp3",
+          "source_url": "https://www.cettong.cn/library/cet6/2023_12_2/listening.mp3",
+          "bytes": 4605643,
+          "sha256": "39b8be4ef5e62c70ec3f56bc3143f93ab5de26cba35b7606f234701f87cfaa7d",
+          "verified_full_decode": true
+        }
+      ]
+    },
+    {
+      "level": "cet6",
+      "exam_id": "2023_12_3",
+      "title": "2023年12月 第3套",
+      "page_url": "https://www.cettong.cn/library/cet6/2023_12_3",
+      "audio_urls": [],
+      "status": "no_audio_listed"
+    },
+    {
+      "level": "cet6",
+      "exam_id": "2024_06_1",
+      "title": "2024年6月 第1套",
+      "page_url": "https://www.cettong.cn/library/cet6/2024_06_1",
+      "audio_urls": [
+        "https://www.cettong.cn/library/cet6/2024_06_1/listening.mp3"
+      ],
+      "status": "downloaded",
+      "files": [
+        {
+          "path": "assets/tavern/listening/real-exams/cettong/cet6/2024/2024_06_1.mp3",
+          "source_url": "https://www.cettong.cn/library/cet6/2024_06_1/listening.mp3",
+          "bytes": 4771487,
+          "sha256": "98f87cce756cf13824d13b3014b9d62294327d7d3d2784f01b8ba83483b73517",
+          "verified_full_decode": true
+        }
+      ]
+    },
+    {
+      "level": "cet6",
+      "exam_id": "2024_06_2",
+      "title": "2024年6月 第2套",
+      "page_url": "https://www.cettong.cn/library/cet6/2024_06_2",
+      "audio_urls": [
+        "https://www.cettong.cn/library/cet6/2024_06_2/listening.mp3"
+      ],
+      "status": "downloaded",
+      "files": [
+        {
+          "path": "assets/tavern/listening/real-exams/cettong/cet6/2024/2024_06_2.mp3",
+          "source_url": "https://www.cettong.cn/library/cet6/2024_06_2/listening.mp3",
+          "bytes": 4561348,
+          "sha256": "fac9987f4ecb6ba750134dcb05e6553b8b8afb6d9da8febd3c31cdf0a435b74c",
+          "verified_full_decode": true
+        }
+      ]
+    },
+    {
+      "level": "cet6",
+      "exam_id": "2024_06_3",
+      "title": "2024年6月 第3套",
+      "page_url": "https://www.cettong.cn/library/cet6/2024_06_3",
+      "audio_urls": [],
+      "status": "no_audio_listed"
+    },
+    {
+      "level": "cet6",
+      "exam_id": "2024_12_1",
+      "title": "2024年12月 第1套",
+      "page_url": "https://www.cettong.cn/library/cet6/2024_12_1",
+      "audio_urls": [
+        "https://www.cettong.cn/library/cet6/2024_12_1/listening.mp3"
+      ],
+      "status": "downloaded",
+      "files": [
+        {
+          "path": "assets/tavern/listening/real-exams/cettong/cet6/2024/2024_12_1.mp3",
+          "source_url": "https://www.cettong.cn/library/cet6/2024_12_1/listening.mp3",
+          "bytes": 4906476,
+          "sha256": "c2b4564130553a8856aff78bef55a0a26449ce40dbdcc3638114771bccac6e36",
+          "verified_full_decode": true
+        }
+      ]
+    },
+    {
+      "level": "cet6",
+      "exam_id": "2024_12_2",
+      "title": "2024年12月 第2套",
+      "page_url": "https://www.cettong.cn/library/cet6/2024_12_2",
+      "audio_urls": [
+        "https://www.cettong.cn/library/cet6/2024_12_2/listening.mp3"
+      ],
+      "status": "downloaded",
+      "files": [
+        {
+          "path": "assets/tavern/listening/real-exams/cettong/cet6/2024/2024_12_2.mp3",
+          "source_url": "https://www.cettong.cn/library/cet6/2024_12_2/listening.mp3",
+          "bytes": 4830413,
+          "sha256": "404b8a20d3881ad478e88c62cd9434989182c8c3e45cc8277aab3a3f07a0431b",
+          "verified_full_decode": true
+        }
+      ]
+    },
+    {
+      "level": "cet6",
+      "exam_id": "2024_12_3",
+      "title": "2024年12月 第3套",
+      "page_url": "https://www.cettong.cn/library/cet6/2024_12_3",
+      "audio_urls": [],
+      "status": "no_audio_listed"
+    },
+    {
+      "level": "cet6",
+      "exam_id": "2025_06_1",
+      "title": "2025年6月 第1套",
+      "page_url": "https://www.cettong.cn/library/cet6/2025_06_1",
+      "audio_urls": [
+        "https://www.cettong.cn/library/cet6/2025_06_1/listening.mp3"
+      ],
+      "status": "downloaded",
+      "files": [
+        {
+          "path": "assets/tavern/listening/real-exams/cettong/cet6/2025/2025_06_1.mp3",
+          "source_url": "https://www.cettong.cn/library/cet6/2025_06_1/listening.mp3",
+          "bytes": 4587324,
+          "sha256": "90906779576f8a32d14030d3d394a7bea33322c276c9701728173aff36912703",
+          "verified_full_decode": true
+        }
+      ]
+    },
+    {
+      "level": "cet6",
+      "exam_id": "2025_06_2",
+      "title": "2025年6月 第2套",
+      "page_url": "https://www.cettong.cn/library/cet6/2025_06_2",
+      "audio_urls": [
+        "https://www.cettong.cn/library/cet6/2025_06_2/listening.mp3"
+      ],
+      "status": "downloaded",
+      "files": [
+        {
+          "path": "assets/tavern/listening/real-exams/cettong/cet6/2025/2025_06_2.mp3",
+          "source_url": "https://www.cettong.cn/library/cet6/2025_06_2/listening.mp3",
+          "bytes": 4616581,
+          "sha256": "eb99adfdf23c1b7f8ad93d7c30be8d354f104801760c318b9d352ff984fe4196",
+          "verified_full_decode": true
+        }
+      ]
+    },
+    {
+      "level": "cet6",
+      "exam_id": "2025_06_3",
+      "title": "2025年6月 第3套",
+      "page_url": "https://www.cettong.cn/library/cet6/2025_06_3",
+      "audio_urls": [],
+      "status": "no_audio_listed"
+    },
+    {
+      "level": "cet6",
+      "exam_id": "2025_12_1",
+      "title": "2025年12月 第1套",
+      "page_url": "https://www.cettong.cn/library/cet6/2025_12_1",
+      "audio_urls": [
+        "https://www.cettong.cn/library/cet6/2025_12_1/listening.mp3"
+      ],
+      "status": "downloaded",
+      "files": [
+        {
+          "path": "assets/tavern/listening/real-exams/cettong/cet6/2025/2025_12_1.mp3",
+          "source_url": "https://www.cettong.cn/library/cet6/2025_12_1/listening.mp3",
+          "bytes": 4546308,
+          "sha256": "71db45f76bb1ca6f037986b248f6a31341318e66d93950d52cd8fb3dcc09838c",
+          "verified_full_decode": true
+        }
+      ]
+    },
+    {
+      "level": "cet6",
+      "exam_id": "2025_12_2",
+      "title": "2025年12月 第2套",
+      "page_url": "https://www.cettong.cn/library/cet6/2025_12_2",
+      "audio_urls": [
+        "https://www.cettong.cn/library/cet6/2025_12_2/listening.mp3"
+      ],
+      "status": "downloaded",
+      "files": [
+        {
+          "path": "assets/tavern/listening/real-exams/cettong/cet6/2025/2025_12_2.mp3",
+          "source_url": "https://www.cettong.cn/library/cet6/2025_12_2/listening.mp3",
+          "bytes": 4579121,
+          "sha256": "a3b51d42450edaee5d85d6e997251f4c1300b645d0f71529bd103c8c1a5fc2d7",
+          "verified_full_decode": true
+        }
+      ]
+    },
+    {
+      "level": "cet6",
+      "exam_id": "2025_12_3",
+      "title": "2025年12月 第3套",
+      "page_url": "https://www.cettong.cn/library/cet6/2025_12_3",
+      "audio_urls": [],
+      "status": "no_audio_listed"
+    }
+  ],
+  "verification": "All downloaded MP3s passed size, SHA-256 and full FFmpeg audio decoding."
+}

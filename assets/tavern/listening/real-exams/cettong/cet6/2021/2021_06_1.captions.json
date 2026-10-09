@@ -1,0 +1,1972 @@
+{
+  "id": "cet6-2021_06_1",
+  "title": "2021年6月 第1套",
+  "level": 6,
+  "source_url": "https://www.cettong.cn/library/cet6/2021_06_1",
+  "material_source": "https://117.72.200.49/#/library",
+  "audio": "assets/tavern/listening/real-exams/cettong/cet6/2021/2021_06_1.exampace-playback.mp3",
+  "caption_kind": "published_material_with_auxiliary_timing_and_translation",
+  "caption_models": [
+    "Systran/faster-whisper-base.en",
+    "Sams200/opus-mt-en-zh"
+  ],
+  "lines": [
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's my last day at work tomorrow.",
+      "translation": "明天是我在这儿工作的最后一天。",
+      "start": 45.12,
+      "end": 46.62,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'll start my new job in two weeks.",
+      "translation": "两周后我就要开始新工作了。",
+      "start": 46.62,
+      "end": 49.08,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "My human resources manager wants to conduct an interview with me before I leave.",
+      "translation": "人力资源经理想在我离职前和我进行一次面谈。",
+      "start": 49.92,
+      "end": 54.0,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Ah, an exit interview.",
+      "translation": "啊，离职面谈。",
+      "start": 54.6,
+      "end": 56.06,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Are you looking forward to it?",
+      "translation": "你期待吗？",
+      "start": 56.8,
+      "end": 58.04,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'm not sure how I feel about it.",
+      "translation": "我也说不清自己是什么感觉。",
+      "start": 58.36,
+      "end": 60.18,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I resigned because I've been unhappy at that company for a long time, but I'm not sure if I should tell them how I really feel.",
+      "translation": "我辞职是因为我在那家公司长期以来一直很不开心，但我不确定自己是否应该告诉他们真实的感受。",
+      "start": 60.62,
+      "end": 67.82,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "To my way of thinking, there are two main potential benefits that come from unleashing an agitated stream of truth during an exit interview.",
+      "translation": "在我看来，在离职面谈时把一股激动的真实想法倾泻出来，可能有两个主要好处。",
+      "start": 68.38,
+      "end": 76.82,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The first is release.",
+      "translation": "第一个是释放。",
+      "start": 77.72,
+      "end": 78.74,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Unburdening yourself of frustration, and perhaps even anger to someone who isn't a friend or close colleague can be wonderfully freeing.",
+      "translation": "把自己的挫败感，甚至愤怒，倾诉给一个既不是朋友也不是关系亲密的同事的人，可能会让你感到如释重负。",
+      "start": 79.74,
+      "end": 87.6,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And let me guess.",
+      "translation": "让我猜猜。",
+      "start": 88.38,
+      "end": 89.36,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The second is that the criticism will, theoretically, help the organization I'm leaving to improve, making sure employees of the future are less likely to encounter what I did?",
+      "translation": "第二个好处是，这些批评理论上会帮助我即将离开的组织改进，从而确保未来的员工不太可能遇到我所经历的那些问题？",
+      "start": 89.92,
+      "end": 100.64,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That's right.",
+      "translation": "没错。",
+      "start": 101.04,
+      "end": 101.6,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But the problem with the company improvement part is that very often it doesn't happen.",
+      "translation": "但公司改进这一点的问题在于，很多时候它并不会发生。",
+      "start": 102.1,
+      "end": 106.76,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "An exit interview is supposed to be private, but often isn't.",
+      "translation": "离职面谈本应是私下进行的，但往往并不是。",
+      "start": 107.58,
+      "end": 111.24,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In my company, the information gained from these interviews is often not confidential.",
+      "translation": "在我所在的公司，从这些面谈中获得的信息通常并不保密。",
+      "start": 111.92,
+      "end": 116.58,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And the information is used as dirt against another manager, or can be traded among senior managers.",
+      "translation": "这些信息会被用来攻击另一位经理，或者在高层经理之间互相交换。",
+      "start": 117.23,
+      "end": 123.29,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Now you've got me rethinking what I'll disclose in the interview.",
+      "translation": "你现在让我重新考虑面谈时要透露些什么了。",
+      "start": 124.17,
+      "end": 127.77,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "There is always a chance that it could affect my reputation and my ability to network in the industry.",
+      "translation": "我的名声和我在这个行业建立人脉的能力，总有可能受到影响。",
+      "start": 128.47,
+      "end": 133.71,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It is a pretty small industry after all.",
+      "translation": "毕竟这个行业相当小。",
+      "start": 134.33,
+      "end": 136.59,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Anything you initially gain from the instant satisfaction of telling it like it is, you might lose down the track by injuring your future career prospects.",
+      "translation": "你最初因为直抒己见而获得的即时满足，可能会因为损害未来的职业发展前景而在以后失去。",
+      "start": 137.17,
+      "end": 145.69,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Right.",
+      "translation": "对。",
+      "start": 146.4,
+      "end": 146.96,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Perhaps it would be better getting things off my chest by going to one of those rate-your-employer websites.",
+      "translation": "也许去那些给雇主评分的网站发泄一下，会更好一些。",
+      "start": 147.7,
+      "end": 153.36,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You could.",
+      "translation": "你可以这么做。",
+      "start": 154.12,
+      "end": 154.42,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And don't do the interview at all.",
+      "translation": "也可以完全不参加面谈。",
+      "start": 155.12,
+      "end": 156.48,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Exit interviews are not mandatory.",
+      "translation": "离职面谈不是强制性的。",
+      "start": 157.34,
+      "end": 158.88,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "1-4 are based on the conversation you have just heard.",
+      "translation": "1 -4是基于你刚才听到的谈话",
+      "start": 160.3,
+      "end": 163.56
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "1.",
+      "translation": "1. 国家",
+      "start": 164.93,
+      "end": 165.29
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What do we learn about the man from the conversation?",
+      "translation": "我们从谈话中了解到什么?",
+      "start": 166.05,
+      "end": 168.51
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 2.",
+      "translation": "问题2",
+      "start": 182.23,
+      "end": 182.97
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the woman think about the information gained from an exit interview?",
+      "translation": "她对离职面谈获得的信息有何看法?",
+      "start": 183.39,
+      "end": 187.65
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 3.",
+      "translation": "问题3",
+      "start": 201.23,
+      "end": 202.37
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Why does the man want to rethink what he will say in the coming exit interview?",
+      "translation": "为什么这个人想重新考虑他在即将到来的离职面谈中将说的话?",
+      "start": 203.32,
+      "end": 209.06
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 4.",
+      "translation": "问题4",
+      "start": 222.63,
+      "end": 223.59
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the man think he had better do?",
+      "translation": "那个人认为他最好做什么?",
+      "start": 223.95,
+      "end": 226.59
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Conversation 2.",
+      "translation": "对话2。",
+      "start": 239.85,
+      "end": 241.17
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Today, I'm talking to the renowned botanist Jane Forster.",
+      "translation": "今天，我要采访著名植物学家 Jane Forster。",
+      "start": 242.14,
+      "end": 246.66,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Thank you for inviting me to join you on the show, Henry.",
+      "translation": "Henry，谢谢你邀请我参加你的节目。",
+      "start": 247.14,
+      "end": 249.92,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Recently, Jane, you've become quite a celebrity since the release of your latest documentary.",
+      "translation": "最近，Jane，自从你最新的纪录片上映以来，你已经成了相当有名的人。",
+      "start": 250.72,
+      "end": 256.38,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Can you tell us a little about it?",
+      "translation": "能给我们介绍一下这部纪录片吗？",
+      "start": 257.12,
+      "end": 258.94,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Well, it follows my expedition to study the vegetation indigenous to the rainforest in equatorial areas of Southeast Asia.",
+      "translation": "这部纪录片记录了我在东南亚赤道地区的热带雨林中，考察当地原生植被的一次探险。",
+      "start": 259.52,
+      "end": 267.8,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You certainly get to travel to some very exotic locations.",
+      "translation": "你确实有机会去一些非常异国情调的地方旅行。",
+      "start": 268.38,
+      "end": 272.42,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It was far from glamorous, to be honest.",
+      "translation": "说实话,这远非光彩夺目",
+      "start": 273.02,
+      "end": 275.22
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The area we visited was accessible only by canoe and the living conditions in the hut were primitive, to say the least.",
+      "translation": "我们访问的地区只有独木舟可以进入,至少可以说,小屋的生活条件是原始的。",
+      "start": 276.1,
+      "end": 283.46
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "There was no electricity.",
+      "translation": "没有电。",
+      "start": 284.34,
+      "end": 285.22
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And our water supply was a nearby stream.",
+      "translation": "我们的供水是附近一条溪流",
+      "start": 285.92,
+      "end": 288.04
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "How were the weather conditions while you were there?",
+      "translation": "你们在那里时的天气状况怎么样？",
+      "start": 289.09,
+      "end": 291.35,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The weather was not conducive to our work at all, since the humidity was almost unbearable.",
+      "translation": "天气完全不利于我们的工作，因为空气湿度几乎让人无法忍受。",
+      "start": 291.97,
+      "end": 297.07,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "At midday, we stayed in the hut and did nothing.",
+      "translation": "中午时分，我们就待在小屋里，什么也不做。",
+      "start": 298.23,
+      "end": 300.41,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It was too humid to either work or sleep.",
+      "translation": "天气太潮湿了，既没法工作，也没法睡觉。",
+      "start": 300.99,
+      "end": 303.11,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "How long did your team spend in the jungle?",
+      "translation": "你们团队在丛林里待了多久？",
+      "start": 304.11,
+      "end": 306.03,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Originally, we planned to be there for a month.",
+      "translation": "我们原计划在那里呆一个月",
+      "start": 306.69,
+      "end": 308.97
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But in the end, we stayed for only two weeks.",
+      "translation": "但最后,我们只逗留了两周。",
+      "start": 309.41,
+      "end": 311.99
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Why did you cut the expedition short?",
+      "translation": "你们为什么提前结束了这次探险？",
+      "start": 312.79,
+      "end": 314.79,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Halfway through the trip, we received news that a hurricane was approaching.",
+      "translation": "半途旅行,我们收到消息 飓风正在逼近",
+      "start": 315.42,
+      "end": 319.62
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And we had to evacuate at very short notice.",
+      "translation": "我们不得不在很短时间内撤离",
+      "start": 320.12,
+      "end": 322.5
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That sounds like a fascinating anecdote.",
+      "translation": "听起来真是个引人入胜的故事。",
+      "start": 323.06,
+      "end": 325.34,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It was frightening.",
+      "translation": "这是可怕的。",
+      "start": 326.12,
+      "end": 326.86
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The fastest evacuation route was through river rapids.",
+      "translation": "最快的疏散路线是通过河流快速通道。",
+      "start": 327.66,
+      "end": 331.1
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We had to navigate them carrying all of our equipment.",
+      "translation": "我们不得不载着我们所有的装备 绕着他们",
+      "start": 331.74,
+      "end": 334.3
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So overall, was the journey unsuccessful?",
+      "translation": "那总的来说，这次旅程算是失败了吗？",
+      "start": 335.1,
+      "end": 337.8,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Absolutely not.",
+      "translation": "当然不是。",
+      "start": 338.5,
+      "end": 339.5,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We gathered a massive amount of data about the local plant life.",
+      "translation": "我们收集了大量有关当地植物的资料。",
+      "start": 339.98,
+      "end": 343.16,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Why do you put up with such adverse conditions?",
+      "translation": "你为什么能忍受如此恶劣的条件？",
+      "start": 343.85,
+      "end": 347.09,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Botany is an obsession for me.",
+      "translation": "植物学对我来说是个困扰",
+      "start": 347.65,
+      "end": 349.93
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Many of the destinations I visit have stunning scenery.",
+      "translation": "我访问的许多目的地都有惊人的景色。",
+      "start": 350.71,
+      "end": 353.35
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And I get to meet a variety of people from all over the world.",
+      "translation": "我认识了世界各地各种各样的人",
+      "start": 353.35,
+      "end": 357.15
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So where will your next destination be?",
+      "translation": "那么，你的下一个目的地会是哪里？",
+      "start": 357.67,
+      "end": 360.25,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I haven't decided yet.",
+      "translation": "我还没决定。",
+      "start": 360.73,
+      "end": 361.95,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Then we can leave it for another occasion.",
+      "translation": "那我们下次再聊。",
+      "start": 363.01,
+      "end": 364.77,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions 5 to 8 are based on the conversation you have just heard.",
+      "translation": "问题5到8是基于你刚才听到的谈话",
+      "start": 367.27,
+      "end": 371.03
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 5.",
+      "translation": "问题5",
+      "start": 372.02,
+      "end": 372.8
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the man want Jane Forrester to talk about?",
+      "translation": "那个人想让简·福雷斯特谈什么?",
+      "start": 373.48,
+      "end": 376.66
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 6.",
+      "translation": "问题6",
+      "start": 390.28,
+      "end": 391.1
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Why does the woman describe her experience as far from glamorous?",
+      "translation": "为什么这个女人描述她的经历 远不光彩?",
+      "start": 391.96,
+      "end": 395.66
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 7.",
+      "translation": "问题7",
+      "start": 409.81,
+      "end": 410.71
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Why did the woman and those who went with her end their trip halfway?",
+      "translation": "为什么那个女人和那些随她去的人 都半途而废?",
+      "start": 411.26,
+      "end": 415.38
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "8.",
+      "translation": "8. 预 算",
+      "start": 429.53,
+      "end": 429.95
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the woman think of the journey?",
+      "translation": "女人对旅途有何看法?",
+      "start": 430.61,
+      "end": 432.51
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Section B.",
+      "translation": "B节。",
+      "start": 446.23,
+      "end": 446.85
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Directions.",
+      "translation": "方向",
+      "start": 447.25,
+      "end": 447.45
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In this section you will hear two passages.",
+      "translation": "在本节中,你们将听到两段。",
+      "start": 448.45,
+      "end": 450.79
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "At the end of each passage, you will hear three or four questions.",
+      "translation": "在每一段的结尾,你将听到三四个问题。",
+      "start": 451.68,
+      "end": 455.38
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Both the passage and the questions will be spoken only once.",
+      "translation": "发言的通过和提问将只讲一次。",
+      "start": 456.36,
+      "end": 459.98
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "After you hear a question, you must choose the best answer from the four choices marked A, B, C, and D.",
+      "translation": "在听到一个问题后,你必须从四个选择中选择最好的答案,这四个选择分别是A、B、C和D。",
+      "start": 461.1,
+      "end": 469.34
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "mark the corresponding letter on answer sheet one with a single line through the center.",
+      "translation": "在答题单单行的答题表一中标出相应的字母。",
+      "start": 470.65,
+      "end": 475.65
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Scientists often use specialized jargon terms while communicating with laymen.",
+      "translation": "科学家在与非专业人士交流时，常常使用专业术语。",
+      "start": 478.18,
+      "end": 483.36,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Most of them don't realize the harmful effects of this practice.",
+      "translation": "他们中的大多数人没有意识到这种做法会产生有害影响。",
+      "start": 484.06,
+      "end": 487.64,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In a new study, people exposed to jargon when reading about subjects like autonomous vehicles and surgical robots later said they were less interested in science than others who read about the same topics, but without the use of specialized terms.",
+      "translation": "一项新的研究显示，在阅读有关自动驾驶汽车和手术机器人等主题的内容时接触到专业术语的人，后来表示自己对科学的兴趣低于阅读相同主题但未使用专业术语的人。",
+      "start": 488.68,
+      "end": 503.76,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They also felt less informed about science and less qualified to discuss science topics.",
+      "translation": "他们还觉得自己对科学的了解更少，也没有足够的资格讨论科学话题。",
+      "start": 504.69,
+      "end": 510.85,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's noteworthy that it made no difference if the jargon terms were defined in the text.",
+      "translation": "值得注意的是，专业术语是否在文中得到定义并没有造成任何差异。",
+      "start": 512.13,
+      "end": 517.39,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Even when the terms were defined, readers still felt the same lack of engagement as readers who read jargon that wasn't explained.",
+      "translation": "即使这些术语得到了解释，读者仍然感到自己与内容缺乏联系，就像那些阅读了未加解释的专业术语的读者一样。",
+      "start": 518.24,
+      "end": 526.72,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The problem is that the mere presence of jargon sends a discouraging message to readers.",
+      "translation": "问题在于，专业术语的存在本身就会向读者传递一种令人气馁的信息。",
+      "start": 528.0,
+      "end": 534.37,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Hillary Schulman, the author of the study, asserts that specialized words are a signal.",
+      "translation": "该研究的作者希拉里·舒尔曼认为，专业词汇是一种信号。",
+      "start": 535.29,
+      "end": 541.47,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Jargon tells people that the message isn't for them.",
+      "translation": "专业术语会告诉人们，这条信息不是为他们准备的。",
+      "start": 542.27,
+      "end": 546.19,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "There's an even darker side to how people react to jargon.",
+      "translation": "人们对专业术语的反应还有更为严重的一面。",
+      "start": 547.24,
+      "end": 550.84,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In another study, researchers found that reading scientific articles containing jargon led people to doubt the actual science.",
+      "translation": "在另一项研究中，研究人员发现，阅读含有专业术语的科学文章会使人们怀疑科学本身。",
+      "start": 551.58,
+      "end": 560.57,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They found the opposite when a text is easier to read.",
+      "translation": "当文本更容易阅读时，他们发现的结果则恰恰相反。",
+      "start": 562.06,
+      "end": 565.9,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Then people are more persuaded.",
+      "translation": "这样一来，人们会更容易被说服。",
+      "start": 567.32,
+      "end": 569.22,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Thus, it's important to communicate clearly when talking about complex science subjects.",
+      "translation": "因此，在谈论复杂的科学主题时，清晰地进行交流非常重要。",
+      "start": 570.26,
+      "end": 576.44,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This is especially true with issues related to public health, like the safety of new medications and the benefits of vaccines.",
+      "translation": "涉及公共卫生的问题尤其如此，例如新药的安全性和疫苗的益处。",
+      "start": 577.26,
+      "end": 586.42,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Schulman concedes that the use of jargon is appropriate with scientific audiences.",
+      "translation": "舒尔曼承认，在面向科学界人士时使用专业术语是恰当的。",
+      "start": 587.8,
+      "end": 593.34,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But scientists who want to communicate with the general public need to modify their language.",
+      "translation": "但希望与公众交流的科学家需要调整自己的语言。",
+      "start": 594.63,
+      "end": 599.87,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They need to eliminate jargon.",
+      "translation": "他们需要消除专业术语。",
+      "start": 600.75,
+      "end": 602.53,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What do researchers find about people reading scientific articles containing jargon terms?",
+      "translation": "研究者们对阅读含有术语的科学文章有何发现?",
+      "start": 629.87,
+      "end": 636.05
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 11 What does Schulman suggest scientists do when communicating with the general public?",
+      "translation": "问题11. Schulman在与一般公众沟通时建议科学家做些什么?",
+      "start": 649.99,
+      "end": 656.88
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Passage 2 At",
+      "translation": "出入证2",
+      "start": 670.9,
+      "end": 672.7
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "At the beginning of the twentieth century, on the Gulf Coast in the US state of Texas, there was a hill where gas leakage was so noticeable that schoolboys would sometimes set the hill on fire.",
+      "translation": "二十世纪初，在美国得克萨斯州的墨西哥湾沿岸，有一座山丘，那里天然气泄漏十分明显，以至于学生们有时会把山丘点燃。",
+      "start": 673.2,
+      "end": 685.91,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Pattillo Higgins, a disreputable local businessman, became convinced that there was oil below the gassy hill.",
+      "translation": "帕蒂洛·希金斯是一名声名狼藉的当地商人，他确信这座冒气的山丘下方有石油。",
+      "start": 685.91,
+      "end": 694.24,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Oil wells weren't drilled back then; they were essentially dug.",
+      "translation": "那时还没有钻探油井；油井基本上是挖出来的。",
+      "start": 695.14,
+      "end": 699.22,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The sand under the hill defeated several attempts by Higgins' workers to make a proper hole.",
+      "translation": "山丘下的沙土使希金斯的工人几次试图挖出合适井孔的努力都以失败告终。",
+      "start": 700.6,
+      "end": 706.06,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Higgins had forecast oil at 1,000 feet, a totally made-up figure.",
+      "translation": "希金斯预言一千英尺深处会有石油，这个数字完全是凭空捏造的。",
+      "start": 707.39,
+      "end": 711.77,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Higgins subsequently hired a mining engineer, Captain Anthony Lucas.",
+      "translation": "随后，希金斯聘请了一名采矿工程师安东尼·卢卡斯上尉。",
+      "start": 712.62,
+      "end": 717.24,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "After encountering several setbacks, Captain Lucas decided to use a drill, and his innovations created the modern oil drilling industry.",
+      "translation": "在经历了几次挫折后，卢卡斯上尉决定使用钻机，他的创新创造了现代石油钻探业。",
+      "start": 718.19,
+      "end": 727.05,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In January 1901, at 1,020 feet-almost precisely the depth predicted by Higgins' wild guess—the well roared and suddenly ejected mud and six tons of drilling pipe out of the ground, terrifying those present.",
+      "translation": "1901年1月，在一千零二十英尺深处——几乎正是希金斯那个荒唐猜测所预言的深度——油井发出轰鸣，突然将泥浆和六吨钻管从地下喷出，把在场的人吓坏了。",
+      "start": 727.94,
+      "end": 744.93,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "For the next nine days, until the well was capped, the well poured out more oil than all the wells in America combined.",
+      "translation": "在接下来的九天里，直到油井被封住为止，它涌出的石油超过了美国所有油井产量的总和。",
+      "start": 746.37,
+      "end": 753.39,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In those days, Texas was almost entirely rural, with no large cities and practically no industry; cotton and beef were the foundation of the economy.",
+      "translation": "那时，得克萨斯州几乎完全是农村地区，没有大城市，实际上也没有工业；棉花和牛肉是经济的基础。",
+      "start": 754.87,
+      "end": 764.98,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Higgins' well changed that.",
+      "translation": "希金斯的油井改变了这一切。",
+      "start": 766.48,
+      "end": 767.8,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The boom made some prospectors millionaires, but the sudden surplus of petroleum was not entirely a blessing for Texas.",
+      "translation": "这场繁荣使一些勘探者成为百万富翁，但石油突然过剩对得克萨斯州而言并不完全是福音。",
+      "start": 768.8,
+      "end": 776.5,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In the 1930s, prices crashed, to the point that in some parts of the country oil was cheaper than water.",
+      "translation": "到了20世纪30年代，油价暴跌，在美国一些地区，石油甚至比水还便宜。",
+      "start": 777.62,
+      "end": 784.78,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That would become a familiar pattern of the boom-or-bust Texas' economy.",
+      "translation": "这后来成为得克萨斯州经济繁荣或萧条的一个常见模式。",
+      "start": 785.72,
+      "end": 790.04,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 13.",
+      "translation": "问题13。",
+      "start": 815.05,
+      "end": 816.03
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What prevented Higgins workers from digging a proper hole to get the oil?",
+      "translation": "为何希金斯工人不能挖一个合适的洞来获取石油?",
+      "start": 816.98,
+      "end": 821.14
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 14.",
+      "translation": "问题14。",
+      "start": 834.77,
+      "end": 835.43
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What's the passage to say about Captain Lucas' drilling method?",
+      "translation": "卢卡斯上尉的钻探方法 怎么说呢?",
+      "start": 835.99,
+      "end": 840.41
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 15.",
+      "translation": "问题15。",
+      "start": 854.08,
+      "end": 854.76
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What do we learn about Texas' oil industry boom?",
+      "translation": "德克萨斯州石油工业繁荣我们学到什么?",
+      "start": 855.32,
+      "end": 858.44
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Section C.",
+      "translation": "C节。",
+      "start": 872.13,
+      "end": 873.09
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In this section, you will hear three recordings of lectures or talks,",
+      "translation": "在本节中,你将听到三段演讲或谈话录音,",
+      "start": 874.87,
+      "end": 878.75
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "followed by three or four questions.",
+      "translation": "然后是三四个问题。",
+      "start": 879.51,
+      "end": 881.23
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The recordings will be played only once.",
+      "translation": "录音只播放一次。",
+      "start": 882.32,
+      "end": 884.72
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "After you hear a question, you must choose the best answer from the four choices marked A, B,",
+      "translation": "在听到一个问题后,你必须从四个选择中选择最好的答案,四个选择标注A,B,",
+      "start": 886.15,
+      "end": 891.95
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "C, and D.",
+      "translation": "C,和D., 和D., 和D.",
+      "start": 892.57,
+      "end": 893.55
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "mark the corresponding letter on answer sheet one with a single line through the center.",
+      "translation": "在答题单单行的答题表一中标出相应的字母。",
+      "start": 894.85,
+      "end": 899.77
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Most people dislike their jobs.",
+      "translation": "大多数人不喜欢自己的工作。",
+      "start": 903.5,
+      "end": 906.323,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's an astonishing but statistical fact.",
+      "translation": "这是一个令人惊讶却有统计数据支持的事实。",
+      "start": 906.323,
+      "end": 909.71,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "A primary cause of employee dissatisfaction, according to fresh research, is that many believe they have terrible managers.",
+      "translation": "根据最新研究，员工不满的一个主要原因是，许多人认为自己的经理非常糟糕。",
+      "start": 909.71,
+      "end": 917.47,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Few describe their managers as malicious or manipulative though.",
+      "translation": "不过，很少有人把自己的经理描述为恶意或善于操纵他人的人。",
+      "start": 918.41,
+      "end": 923.09,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "While those types certainly exist, they are a minority.",
+      "translation": "虽然这类人确实存在，但他们只是少数。",
+      "start": 924.01,
+      "end": 926.83,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The majority of managers, seemingly, just don't know any better.",
+      "translation": "显然，大多数经理只是缺乏更好的管理方法。",
+      "start": 928.14,
+      "end": 931.86,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They are often emulating bad managers they've had in the past.",
+      "translation": "他们往往是在模仿自己过去遇到过的糟糕经理。",
+      "start": 931.86,
+      "end": 935.72,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's likely they've never read a management book or attended a management course.",
+      "translation": "他们很可能从未读过管理类书籍，也没有参加过管理课程。",
+      "start": 936.62,
+      "end": 940.8,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They might not have even reflected on what good management looks like and how it would influence their own management style.",
+      "translation": "他们甚至可能从未认真思考过良好的管理应该是什么样，以及良好的管理会如何影响自己的管理风格。",
+      "start": 941.68,
+      "end": 949.72,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The researchers interviewed employees about their managers, beginning with a question about the worst manager they had ever had.",
+      "translation": "研究人员就经理的表现采访了员工，首先询问他们曾经遇到过的最糟糕的经理。",
+      "start": 950.8,
+      "end": 958.38,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "From this, the researchers came up with four main causes of why some managers are perceived as being simply awful at their jobs.",
+      "translation": "根据这些访谈，研究人员归纳出一些经理被认为工作能力极差的四个主要原因。",
+      "start": 959.0,
+      "end": 967.08,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The first cause was company culture, which was seen by employees as enabling poor management practices.",
+      "translation": "第一个原因是企业文化，员工认为企业文化助长了糟糕的管理方式。",
+      "start": 967.79,
+      "end": 974.89,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It was specifically stressful work environments, minimal training and a lack of accountability that were found to be the most blameworthy.",
+      "translation": "研究发现，最应受指责的具体因素是压力很大的工作环境、极少的培训以及缺乏问责。",
+      "start": 976.07,
+      "end": 986.17,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Often a manager's superiors can effectively encourage a manager's distasteful behavior when they fail to discipline the person's wrongdoings.",
+      "translation": "经理的上级在未能惩处经理的不当行为时，往往实际上是在助长这种令人反感的行为。",
+      "start": 986.17,
+      "end": 994.17,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Such workplaces are sometimes described as toxic.",
+      "translation": "这类工作场所有时被称为有毒的工作环境。",
+      "start": 994.74,
+      "end": 998.0,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The second cause was attributed to the managers' characteristics.",
+      "translation": "第二个原因归结于经理自身的特点。",
+      "start": 999.6,
+      "end": 1003.32,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Those deemed to be most destructive were odd people—those without drive, those who allow personal problems into the workplace, and those with an unpleasant temperament or personality in general.",
+      "translation": "被认为最具破坏性的是一些古怪的人——缺乏进取心的人、把个人问题带入工作场所的人，以及总体上脾气或性格令人不快的人。",
+      "start": 1004.64,
+      "end": 1016.88,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The third cause of poor management was associated with a deficiency of qualifications not so much the formal variety one obtains from a university, but the informal variety that comes from credible work experience and professional accomplishments.",
+      "translation": "管理不善的第三个原因与资历不足有关，这里的资历并不主要指从大学获得的正式学历，而是指通过可信的工作经历和职业成就积累起来的非正式资历。",
+      "start": 1018.14,
+      "end": 1033.18,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The fourth cause concerned managers who've been promoted for reasons other than potential.",
+      "translation": "第四个原因涉及那些因潜力以外的理由而获得晋升的经理。",
+      "start": 1034.77,
+      "end": 1040.29,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "One reason in particular why these people had been promoted was that they had been around the longest.",
+      "translation": "其中一个特别的原因是，他们在公司待的时间最长。",
+      "start": 1041.52,
+      "end": 1047.32,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It wasn't their skill set or other merits that got them the job; it was their tenure.",
+      "translation": "让他们得到这份工作的并不是他们的技能或其他优点，而是他们的任职年限。",
+      "start": 1048.02,
+      "end": 1053.94,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "A point worth making is that the study was based only on the perspective of employees.",
+      "translation": "值得指出的是，这项研究仅基于员工的视角。",
+      "start": 1055.12,
+      "end": 1060.64,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The researchers didn't ask senior leaders what they thought of their frontline managers.",
+      "translation": "研究人员没有询问高层领导如何看待他们的一线经理。",
+      "start": 1061.78,
+      "end": 1067.8,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's quite possible they're content with how the individuals they promoted are now performing, merrily ignorant of the damage they're actually causing, which might explain why, as the researchers conclude, those same middle managers are usually unaware that they are a bad manager.",
+      "translation": "他们很可能对自己提拔的人如今的表现感到满意，却完全没有意识到这些人实际上造成的损害；这或许可以解释为什么研究人员得出结论认为，那些同样的中层经理通常并不知道自己是一名糟糕的经理。",
+      "start": 1068.48,
+      "end": 1089.01,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 16 to 18 are based on the recording you have just heard.",
+      "translation": "问题16至18是基于你刚才听到的录音。",
+      "start": 1090.32,
+      "end": 1094.54
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "16.",
+      "translation": "16岁。",
+      "start": 1095.85,
+      "end": 1096.63
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What is a primary cause of employee dissatisfaction according to recent research?",
+      "translation": "根据最近的研究,什么是雇员不满的主要原因?",
+      "start": 1098.04,
+      "end": 1103.42
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "17.",
+      "translation": "17岁",
+      "start": 1117.63,
+      "end": 1118.39
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What is one of the causes for poor management practices?",
+      "translation": "管理不善做法的原因之一是什么?",
+      "start": 1119.06,
+      "end": 1122.54
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 18.",
+      "translation": "问题18。",
+      "start": 1136.88,
+      "end": 1137.3
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What do we learn about the study on job dissatisfaction?",
+      "translation": "我们从工作不满研究中了解到什么?",
+      "start": 1138.19,
+      "end": 1141.67
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Recording to?",
+      "translation": "录音?",
+      "start": 1155.86,
+      "end": 1156.72
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "With the use of driverless vehicles seemingly inevitable, mining companies in the vast Australian desert state of Western Australia are definitely taking the lead.",
+      "translation": "随着无人驾驶车辆的使用似乎已不可避免，位于澳大利亚广袤沙漠州西澳大利亚州的矿业公司无疑走在了前列。",
+      "start": 1158.58,
+      "end": 1168.96,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Iron ore is a key ingredient in steel-making.",
+      "translation": "铁矿石是炼钢的关键原料。",
+      "start": 1169.96,
+      "end": 1172.88,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The mining companies here produce almost 300 million tons of iron ore a year.",
+      "translation": "这里的矿业公司每年生产近3亿吨铁矿石。",
+      "start": 1173.7,
+      "end": 1179.02,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The 240 giant autonomous trucks in use, in the Western Australian mines, can weigh 400 tons, fully loaded, and travel at speeds of up to 60 kilometers per hour.",
+      "translation": "西澳大利亚州矿区正在使用的240辆巨型自动驾驶卡车满载时重量可达400吨，行驶速度最高可达每小时60公里。",
+      "start": 1179.71,
+      "end": 1191.89,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They are a technological leap, transporting iron ore along routes which run for hundreds of kilometers from mines to their destinations.",
+      "translation": "它们是技术上的一大飞跃，沿着数百公里长的路线，将铁矿石从矿山运往目的地。",
+      "start": 1192.63,
+      "end": 1201.05,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Here when the truck arrives at its destination, staff in the operation center direct it precisely where to unload.",
+      "translation": "当卡车抵达目的地时，运营中心的工作人员会精确指挥它在指定位置卸货。",
+      "start": 1202.13,
+      "end": 1209.26,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Vast quantities of iron ore are then transported by autonomous trains to ocean ports.",
+      "translation": "随后，大量铁矿石由自动驾驶列车运往海港。",
+      "start": 1210.12,
+      "end": 1215.88,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Advocates argue these automated vehicles will change mining forever.",
+      "translation": "支持者认为，这些自动化车辆将永远改变采矿业。",
+      "start": 1216.9,
+      "end": 1220.84,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It may only be five years before the use of automation technology leads to a fully robotic mine.",
+      "translation": "自动化技术的应用可能只需五年就会促成一座完全由机器人运作的矿山。",
+      "start": 1222.03,
+      "end": 1228.23,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "A range of factors has pushed Western Australia's desert region to the lead of this automation revolution.",
+      "translation": "多种因素推动西澳大利亚的沙漠地区走在这场自动化革命的前沿。",
+      "start": 1229.59,
+      "end": 1235.58,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "These include the huge size of the mines, the scale of equipment and the repetitive nature of some of the work.",
+      "translation": "这些因素包括矿山规模庞大、设备规模巨大，以及部分工作具有重复性。",
+      "start": 1236.8,
+      "end": 1243.38,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Then there's the area's remoteness.",
+      "translation": "此外，还有该地区地处偏远这一因素。",
+      "start": 1244.52,
+      "end": 1246.26,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "At 502,000 square kilometers, it can sometimes make recruiting staff a challenge.",
+      "translation": "这里面积达50.2万平方公里，有时会使招聘员工成为一项挑战。",
+      "start": 1247.14,
+      "end": 1252.76,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Another consideration is the risks when humans interact with large machinery.",
+      "translation": "另一个需要考虑的因素是人类与大型机械互动时所面临的风险。",
+      "start": 1253.66,
+      "end": 1257.66,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "There are also the financial imperatives.",
+      "translation": "此外还有财务方面的迫切需求。",
+      "start": 1258.78,
+      "end": 1260.8,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The ongoing push by the mining corporations to be more productive and more efficient is another powerful driver in embracing automation technology.",
+      "translation": "矿业公司持续推动提高生产率和效率，也是其积极采用自动化技术的另一个强大动力。",
+      "start": 1261.64,
+      "end": 1270.22,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The concept of a fully autonomous mine is a bit of a misleading term, however.",
+      "translation": "不过，将完全自动化的矿山称为“完全自主矿山”有些误导。",
+      "start": 1271.74,
+      "end": 1276.1,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This is because the more technology is put into the field, the more people are needed to deploy, maintain and improve it.",
+      "translation": "因为投入现场的技术越多，就越需要更多人员来部署、维护和改进这些技术。",
+      "start": 1276.86,
+      "end": 1283.88,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The automation and digitization of the industry are creating a need for different jobs.",
+      "translation": "该行业的自动化和数字化正在产生对不同工作的需求。",
+      "start": 1285.1,
+      "end": 1289.98
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "These include data scientists and engineers in automation and artificial intelligence.",
+      "translation": "其中包括自动化和人工智能领域的数据科学家和工程师。",
+      "start": 1290.76,
+      "end": 1296.0
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The mining companies claim automation and robotics present opportunities to make mining more sustainable and safer.",
+      "translation": "采矿公司声称自动化和机器人是使采矿更可持续和更安全的机会。",
+      "start": 1297.4,
+      "end": 1304.72
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Employees will be offered a career that is even more fulfilling and more rewarding.",
+      "translation": "将向雇员提供更加充实和更有回报的职业。",
+      "start": 1305.74,
+      "end": 1310.18
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Workers' unions have accepted the inevitability of the introduction of new technology.",
+      "translation": "工人协会已经接受新技术引入的必然性。",
+      "start": 1311.92,
+      "end": 1316.48,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But they still have reservations about the rise of automation technology.",
+      "translation": "但它们仍然对自动化技术的发展持保留态度。",
+      "start": 1317.22,
+      "end": 1320.74,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Their main concern is the potential impact on remote communities.",
+      "translation": "它们最主要的担忧是自动化可能对偏远社区造成的影响。",
+      "start": 1321.9,
+      "end": 1325.8,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "As automation spreads further, the question is how these remote communities will survive when the old jobs are eliminated.",
+      "translation": "随着自动化进一步普及，问题在于，当原有工作岗位被取消后，这些偏远社区将如何生存。",
+      "start": 1326.84,
+      "end": 1334.5,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And this may well prove to be the most significant impact of robotic technology in many places around the world.",
+      "translation": "而这很可能会成为机器人技术在世界许多地方产生的最重大的影响。",
+      "start": 1335.8,
+      "end": 1342.58,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the passage say about the mining industry in Western Australia?",
+      "translation": "西澳大利亚的采矿业怎么说?",
+      "start": 1350.22,
+      "end": 1354.42
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 20.",
+      "translation": "问题20。",
+      "start": 1368.23,
+      "end": 1369.01
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "is the impact of the digitization of the mining industry?",
+      "translation": "采矿业的数字化是否产生了影响?",
+      "start": 1369.85,
+      "end": 1373.29
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 21.",
+      "translation": "问题21",
+      "start": 1387.18,
+      "end": 1387.98
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What is the attitude of workers unions towards the introduction of new technology?",
+      "translation": "工会对引进新技术持什么态度?",
+      "start": 1388.76,
+      "end": 1393.94
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Recording 3.",
+      "translation": "记录3。",
+      "start": 1408.13,
+      "end": 1408.93
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "According to official statistics,",
+      "translation": "根据官方统计数字,",
+      "start": 1410.22,
+      "end": 1411.86
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Thai people know that their roads are dangerous, but they don't know this could easily be changed.",
+      "translation": "泰国人知道本国道路十分危险，但他们不知道这种状况其实很容易改变。",
+      "start": 1417.94,
+      "end": 1424.72,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Globally, road accidents kill more people every year than any infectious disease.",
+      "translation": "在全球范围内，道路事故每年造成的死亡人数超过任何一种传染病。",
+      "start": 1426.22,
+      "end": 1431.4,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Researchers at the Institute for Health Metrics and Evaluation in America put the death toll in 2017 at 1.24 million.",
+      "translation": "美国健康指标与评估研究所的研究人员估计，2017年的死亡人数为124万。",
+      "start": 1432.46,
+      "end": 1442.04,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "According to the institute, the overall number of deaths has been more or less static since the turn of the century.",
+      "translation": "据该研究所称，自本世纪初以来，死亡总人数基本保持不变。",
+      "start": 1442.96,
+      "end": 1450.26,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But that disguises a lot of changes in individual countries.",
+      "translation": "但这一数字掩盖了各个国家发生的诸多变化。",
+      "start": 1451.04,
+      "end": 1454.96,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In many poor countries, road accidents are killing more people than ever before.",
+      "translation": "在许多贫穷国家，道路事故造成的死亡人数比以往任何时候都多。",
+      "start": 1456.44,
+      "end": 1461.44,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Those countries have swelling, young populations, a fast-growing fleet of cars and motorbikes, and a limited supply of surgeons.",
+      "translation": "这些国家人口不断增长且较为年轻，汽车和摩托车数量快速增加，而外科医生数量有限。",
+      "start": 1462.49,
+      "end": 1471.09,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It is impossible to know for sure because official statistics are so inadequate, but deaths are thought to have risen by 40% since 1990 in many low-income countries.",
+      "translation": "由于官方统计数据严重不足，无法确切得知实际情况，但据认为，许多低收入国家的死亡人数自1990年以来增加了40%。",
+      "start": 1471.96,
+      "end": 1484.26,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In many rich countries, by contrast, roads are becoming even safer.",
+      "translation": "相比之下，在许多富裕国家，道路正变得更加安全。",
+      "start": 1485.58,
+      "end": 1489.44,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In Estonia and Ireland, for example, the number of deaths has fallen by about two-thirds since the late 1990s.",
+      "translation": "例如，在爱沙尼亚和爱尔兰，死亡人数自20世纪90年代末以来减少了约三分之二。",
+      "start": 1490.7,
+      "end": 1499.5,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But the most important and intriguing changes are taking place in middle-income countries, which contain most of the world's people and have some of the most dangerous roads.",
+      "translation": "但是,最重要的和令人感兴趣的变化正在中等收入国家发生,这些国家包括世界上大多数人口,并且有一些最危险的公路。",
+      "start": 1500.45,
+      "end": 1512.08
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "According to researchers, in China and South Africa, traffic deaths have been falling since 2000, and in India since 2012, and the Philippines reached its peak four years ago.",
+      "translation": "研究人员指出,中国和南非的交通死亡人数自2000年以来一直在下降,印度自2012年以来一直在下降,菲律宾在四年前达到高峰。",
+      "start": 1513.3,
+      "end": 1527.5
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The question is whether Thailand can soon follow suit.",
+      "translation": "问题是泰国能否很快效仿。",
+      "start": 1528.2,
+      "end": 1532.42
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Rob MeInerney, head of the International Road Assessment Programme, says that all countries tend to go through three phases.",
+      "translation": "International Road Assessment Programme负责人Rob MeInerney表示，所有国家往往都会经历三个阶段。",
+      "start": 1533.91,
+      "end": 1542.27,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They begin with poor, slow roads.",
+      "translation": "第一阶段是道路状况差、通行速度慢。",
+      "start": 1543.27,
+      "end": 1545.79,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In the second phase, as they grow wealthier, they pave the roads, allowing traffic to move faster and pushing up the death rate.",
+      "translation": "第二阶段，随着国家变得更加富裕，道路得到铺设，车辆行驶速度加快，死亡率也随之上升。",
+      "start": 1546.89,
+      "end": 1554.93,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Lastly, in the third phase, countries act to make their roads safer.",
+      "translation": "最后，在第三阶段，各国采取措施提高道路安全性。",
+      "start": 1555.93,
+      "end": 1560.75,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The trick, then, is to reach the third stage sooner, by focusing earlier and more closely on fatal accidents.",
+      "translation": "因此，关键在于更早、更集中地关注致命事故，从而尽快进入第三阶段。",
+      "start": 1561.48,
+      "end": 1570.18,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "How to do that?",
+      "translation": "如何做到这一点？",
+      "start": 1571.81,
+      "end": 1572.73,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The solution lies not just in better infrastructure, but in better social incentives.",
+      "translation": "解决办法不仅在于改善基础设施，也在于建立更好的社会激励机制。",
+      "start": 1573.43,
+      "end": 1578.97,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Safe driving habits are practices which people know they should follow but often don't.",
+      "translation": "安全驾驶习惯是人们知道自己应该遵守、却常常不去遵守的行为规范。",
+      "start": 1579.97,
+      "end": 1586.15,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Dangerous driving is not a fixed cultural trait, as some imagine.",
+      "translation": "危险驾驶并不是某些人所认为的那种固定的文化特征。",
+      "start": 1586.81,
+      "end": 1592.38,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "People respond to incentives, such as traffic laws that are actually enforced.",
+      "translation": "人们会对激励措施作出反应，例如真正得到执行的交通法规。",
+      "start": 1592.97,
+      "end": 1598.39,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What is said about middle income countries?",
+      "translation": "中等收入国家的情况如何?",
+      "start": 1646.91,
+      "end": 1649.41
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "25 What else could be done to reduce fatal road accidents in addition to safer roads?",
+      "translation": "25 除了安全道路之外,还可以采取什么措施减少致命道路事故?",
+      "start": 1663.2,
+      "end": 1670.72
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That's the end of listening comprehension.",
+      "translation": "听觉理解到此结束",
+      "start": 1684.13,
+      "end": 1685.89
+    }
+  ],
+  "translation_sources": [
+    "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/",
+    "Sams200/opus-mt-en-zh (unmatched sentences only)"
+  ]
+}

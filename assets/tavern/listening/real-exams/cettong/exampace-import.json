@@ -1,0 +1,350 @@
+[
+  {
+    "id": "cet4-2019_06_1",
+    "questions": 25,
+    "groups": 8,
+    "sentences": 0
+  },
+  {
+    "id": "cet4-2019_06_2",
+    "questions": 25,
+    "groups": 8,
+    "sentences": 0
+  },
+  {
+    "id": "cet4-2019_12_1",
+    "questions": 25,
+    "groups": 8,
+    "sentences": 0
+  },
+  {
+    "id": "cet4-2019_12_2",
+    "questions": 25,
+    "groups": 8,
+    "sentences": 0
+  },
+  {
+    "id": "cet4-2020_07_1",
+    "questions": 25,
+    "groups": 8,
+    "sentences": 0
+  },
+  {
+    "id": "cet4-2020_09_1",
+    "questions": 25,
+    "groups": 8,
+    "sentences": 0
+  },
+  {
+    "id": "cet4-2020_12_1",
+    "questions": 25,
+    "groups": 8,
+    "sentences": 0
+  },
+  {
+    "id": "cet4-2020_12_2",
+    "questions": 25,
+    "groups": 8,
+    "sentences": 0
+  },
+  {
+    "id": "cet4-2021_06_1",
+    "questions": 25,
+    "groups": 8,
+    "sentences": 0
+  },
+  {
+    "id": "cet4-2021_06_2",
+    "questions": 25,
+    "groups": 8,
+    "sentences": 0
+  },
+  {
+    "id": "cet4-2021_12_1",
+    "questions": 25,
+    "groups": 8,
+    "sentences": 0
+  },
+  {
+    "id": "cet4-2021_12_2",
+    "questions": 25,
+    "groups": 8,
+    "sentences": 0
+  },
+  {
+    "id": "cet4-2022_06_1",
+    "questions": 25,
+    "groups": 8,
+    "sentences": 0
+  },
+  {
+    "id": "cet4-2022_09_1",
+    "questions": 25,
+    "groups": 8,
+    "sentences": 0
+  },
+  {
+    "id": "cet4-2022_12_1",
+    "questions": 25,
+    "groups": 8,
+    "sentences": 0
+  },
+  {
+    "id": "cet4-2022_12_2",
+    "questions": 25,
+    "groups": 8,
+    "sentences": 0
+  },
+  {
+    "id": "cet4-2023_03_1",
+    "questions": 25,
+    "groups": 8,
+    "sentences": 0
+  },
+  {
+    "id": "cet4-2023_06_1",
+    "questions": 25,
+    "groups": 8,
+    "sentences": 0
+  },
+  {
+    "id": "cet4-2023_06_2",
+    "questions": 25,
+    "groups": 8,
+    "sentences": 0
+  },
+  {
+    "id": "cet4-2023_12_1",
+    "questions": 25,
+    "groups": 8,
+    "sentences": 0
+  },
+  {
+    "id": "cet4-2023_12_2",
+    "questions": 25,
+    "groups": 8,
+    "sentences": 0
+  },
+  {
+    "id": "cet4-2024_06_1",
+    "questions": 25,
+    "groups": 8,
+    "sentences": 0
+  },
+  {
+    "id": "cet4-2024_06_2",
+    "questions": 25,
+    "groups": 8,
+    "sentences": 0
+  },
+  {
+    "id": "cet4-2024_12_1",
+    "questions": 25,
+    "groups": 8,
+    "sentences": 115
+  },
+  {
+    "id": "cet4-2024_12_2",
+    "questions": 25,
+    "groups": 8,
+    "sentences": 0
+  },
+  {
+    "id": "cet4-2025_06_1",
+    "questions": 25,
+    "groups": 8,
+    "sentences": 0
+  },
+  {
+    "id": "cet4-2025_06_2",
+    "questions": 25,
+    "groups": 8,
+    "sentences": 0
+  },
+  {
+    "id": "cet4-2025_12_1",
+    "questions": 25,
+    "groups": 8,
+    "sentences": 0
+  },
+  {
+    "id": "cet4-2025_12_2",
+    "questions": 25,
+    "groups": 8,
+    "sentences": 0
+  },
+  {
+    "id": "cet6-2019_06_1",
+    "questions": 25,
+    "groups": 7,
+    "sentences": 0
+  },
+  {
+    "id": "cet6-2019_06_2",
+    "questions": 25,
+    "groups": 7,
+    "sentences": 0
+  },
+  {
+    "id": "cet6-2019_12_1",
+    "questions": 25,
+    "groups": 7,
+    "sentences": 0
+  },
+  {
+    "id": "cet6-2019_12_2",
+    "questions": 25,
+    "groups": 7,
+    "sentences": 0
+  },
+  {
+    "id": "cet6-2020_07_1",
+    "questions": 25,
+    "groups": 7,
+    "sentences": 0
+  },
+  {
+    "id": "cet6-2020_09_1",
+    "questions": 25,
+    "groups": 7,
+    "sentences": 0
+  },
+  {
+    "id": "cet6-2020_12_1",
+    "questions": 25,
+    "groups": 7,
+    "sentences": 0
+  },
+  {
+    "id": "cet6-2020_12_2",
+    "questions": 25,
+    "groups": 7,
+    "sentences": 0
+  },
+  {
+    "id": "cet6-2021_06_1",
+    "questions": 25,
+    "groups": 7,
+    "sentences": 0
+  },
+  {
+    "id": "cet6-2021_06_2",
+    "questions": 25,
+    "groups": 7,
+    "sentences": 0
+  },
+  {
+    "id": "cet6-2021_12_1",
+    "questions": 25,
+    "groups": 7,
+    "sentences": 0
+  },
+  {
+    "id": "cet6-2021_12_2",
+    "questions": 25,
+    "groups": 7,
+    "sentences": 0
+  },
+  {
+    "id": "cet6-2022_06_1",
+    "questions": 25,
+    "groups": 7,
+    "sentences": 0
+  },
+  {
+    "id": "cet6-2022_09_1",
+    "questions": 25,
+    "groups": 7,
+    "sentences": 0
+  },
+  {
+    "id": "cet6-2022_12_1",
+    "questions": 25,
+    "groups": 7,
+    "sentences": 0
+  },
+  {
+    "id": "cet6-2022_12_2",
+    "questions": 25,
+    "groups": 7,
+    "sentences": 0
+  },
+  {
+    "id": "cet6-2023_03_1",
+    "questions": 25,
+    "groups": 7,
+    "sentences": 0
+  },
+  {
+    "id": "cet6-2023_06_1",
+    "questions": 25,
+    "groups": 7,
+    "sentences": 0
+  },
+  {
+    "id": "cet6-2023_06_2",
+    "questions": 25,
+    "groups": 7,
+    "sentences": 0
+  },
+  {
+    "id": "cet6-2023_12_1",
+    "questions": 25,
+    "groups": 7,
+    "sentences": 0
+  },
+  {
+    "id": "cet6-2023_12_2",
+    "questions": 25,
+    "groups": 7,
+    "sentences": 0
+  },
+  {
+    "id": "cet6-2024_06_1",
+    "questions": 25,
+    "groups": 7,
+    "sentences": 0
+  },
+  {
+    "id": "cet6-2024_06_2",
+    "questions": 25,
+    "groups": 7,
+    "sentences": 0
+  },
+  {
+    "id": "cet6-2024_12_1",
+    "questions": 25,
+    "groups": 7,
+    "sentences": 0
+  },
+  {
+    "id": "cet6-2024_12_2",
+    "questions": 25,
+    "groups": 7,
+    "sentences": 0
+  },
+  {
+    "id": "cet6-2025_06_1",
+    "questions": 25,
+    "groups": 7,
+    "sentences": 0
+  },
+  {
+    "id": "cet6-2025_06_2",
+    "questions": 25,
+    "groups": 7,
+    "sentences": 0
+  },
+  {
+    "id": "cet6-2025_12_1",
+    "questions": 25,
+    "groups": 7,
+    "sentences": 0
+  },
+  {
+    "id": "cet6-2025_12_2",
+    "questions": 25,
+    "groups": 7,
+    "sentences": 0
+  }
+]

@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Drawing;
 using System.Drawing.Drawing2D;
@@ -6,13 +6,13 @@ using System.IO;
 using System.Windows.Forms;
 
 public class KitchenWorkState {
- public string held{get;set;}public string cooking{get;set;}public bool boardLoaded{get;set;}public int cut{get;set;}public int heat{get;set;}public int served{get;set;}
- public KitchenWorkState(){held="";cooking="";}
+ public string wordMode{get;set;}public List<RogueEntry> cutWords{get;set;}public List<RogueEntry> cookWords{get;set;}public List<string> recentWords{get;set;}public string cutDraft{get;set;}public string cookDraft{get;set;}public List<RogueEntry> Words(string kind){return kind=="cut"?cutWords:cookWords;} public string held{get;set;}public string cooking{get;set;}public bool boardLoaded{get;set;}public int cut{get;set;}public int heat{get;set;}public int served{get;set;}
+ public KitchenWorkState(){held="";cooking="";wordMode="四六级混合";recentWords=new List<string>();}
  public bool TakeCarrot(){if(!String.IsNullOrEmpty(held)||boardLoaded||!String.IsNullOrEmpty(cooking))return false;held="raw";return true;}
  public bool Start(string station){if(station=="cut"){if(boardLoaded)return true;if(held!="raw")return false;held="";boardLoaded=true;cut=0;return true;}if(cooking==station)return true;if(!String.IsNullOrEmpty(cooking)||held!="chopped")return false;held="";cooking=station;heat=0;return true;}
  public int Progress(string station){return station=="cut"?cut:heat;}
- public bool Answer(string station,string answer){int step=Progress(station);if(step>=3||!(station=="cut"?boardLoaded:cooking==station))return false;if(!String.Equals((answer??"").Trim(),KitchenWords.Words(station)[step],StringComparison.OrdinalIgnoreCase))return false;if(station=="cut")cut++;else heat++;return true;}
- public bool Pickup(string station){if(!String.IsNullOrEmpty(held)||Progress(station)!=3)return false;if(station=="cut"&&boardLoaded){held="chopped";boardLoaded=false;cut=0;return true;}if(station!="cut"&&cooking==station){held="finished";cooking="";heat=0;return true;}return false;}
+ public bool Answer(string station,string answer){int step=Progress(station);if(step>=3||!(station=="cut"?boardLoaded:cooking==station))return false;if(!String.Equals((answer??"").Trim(),(Words(station)!=null&&Words(station).Count==3?Words(station)[step].word:KitchenWords.Words(station)[step]),StringComparison.OrdinalIgnoreCase))return false;if(station=="cut")cut++;else heat++;return true;}
+ public bool Pickup(string station){if(!String.IsNullOrEmpty(held)||Progress(station)!=3)return false;if(station=="cut"&&boardLoaded){held="chopped";boardLoaded=false;cut=0;cutWords=null;cutDraft="";return true;}if(station!="cut"&&cooking==station){held="finished";cooking="";heat=0;cookWords=null;cookDraft="";return true;}return false;}
  public bool Plate(){if(held!="finished")return false;held="";served++;return true;}
 }
 public static class KitchenWords {
@@ -23,8 +23,8 @@ public static class KitchenWords {
 }
 
 public partial class Game {
- KitchenWorkState KitchenState(){if(save.kitchenWork==null)save.kitchenWork=new KitchenWorkState();return save.kitchenWork;}
- void ShowKitchenWork(){if(TavernTime.State(save).phase!=StoryTime.Night){GameMessage.Show(this,"酒馆只在晚上开放。","厨房工作");return;}ClearPage();page="kitchen-work";var view=new KitchenRoomView(root,KitchenState(),station=>KitchenInteract(station),ShowTavernBusiness){Dock=DockStyle.Fill};content.Controls.Add(view);view.Focus();}
+ KitchenWorkState KitchenState(){if(save.kitchenWork==null)save.kitchenWork=new KitchenWorkState();if(!KitchenVocabulary.ValidMode(save.kitchenWork.wordMode))save.kitchenWork.wordMode="四六级混合";return save.kitchenWork;}
+ void ShowKitchenWork(){if(TavernTime.State(save).phase!=StoryTime.Night){GameMessage.Show(this,"酒馆只在晚上开放。","厨房工作");return;}ClearPage();page="kitchen-work";var view=new KitchenRoomView(root,KitchenState(),station=>KitchenInteract(station),ShowTavernBusiness){Dock=DockStyle.Fill};content.Controls.Add(view);AddKitchenModeButtons(view);view.Focus();}
  void KitchenInteract(string station){var state=KitchenState();if(station=="shelf"){
    using(var dialog=new GuildWordDialog{Text="食材架 · 已有食材",Size=new Size(Math.Min(560,ClientSize.Width-24),300)}){
     dialog.Location=new Point(Left+(Width-dialog.Width)/2,Top+(Height-dialog.Height)/2);var label=new OutlinedLabel{Dock=DockStyle.Fill,Font=GameTheme.Body(14),ForeColor=GuildChrome.Ivory,Padding=new Padding(20),Text="胡萝卜 · Carrot\n\n本次厨房练习只开放胡萝卜。每次拿取一根。"};dialog.Controls.Add(label);
@@ -34,7 +34,7 @@ public partial class Game {
   else {if(!state.Start(station)){GameMessage.Show(this,station=="cut"?"先从食材架拿取一根胡萝卜。":"先完成切配并拿取，再选择蒸煮、烘烤或煎制。\n若已有食材正在加工，请回到对应工作台继续。",KitchenWords.Title(station));return;}Persist();ShowKitchenProcess(station);}
   if(content.Controls.Count>0){content.Controls[0].Invalidate();content.Controls[0].Focus();}
  }
- void ShowKitchenProcess(string kind){var state=KitchenState();using(var dialog=new GuildWordDialog{Text=KitchenWords.Title(kind)+" · 胡萝卜",Size=new Size(Math.Min(980,ClientSize.Width-24),Math.Min(760,ClientSize.Height-24)),KeyPreview=true}){
+ void ShowKitchenProcess(string kind){var state=KitchenState();PrepareKitchenWords(kind);using(var dialog=new GuildWordDialog{Text=KitchenWords.Title(kind)+" · 胡萝卜",Size=new Size(Math.Min(980,ClientSize.Width-24),Math.Min(760,ClientSize.Height-24)),KeyPreview=true}){
   dialog.Location=new Point(Left+(Width-dialog.Width)/2,Top+(Height-dialog.Height)/2);var body=new Panel{Dock=DockStyle.Fill,BackColor=Color.FromArgb(25,53,55)};dialog.Controls.Add(body);
   var upper=new Panel{Height=185,BackColor=body.BackColor};body.Controls.Add(upper);
   var prompt=new OutlinedLabel{ForeColor=GuildChrome.Ivory,Font=GameTheme.Body(16),AutoSize=false};upper.Controls.Add(prompt);
@@ -42,13 +42,13 @@ public partial class Game {
   var input=new TextBox{Font=GameTheme.Body(18),BackColor=Color.FromArgb(34,68,65),ForeColor=GuildChrome.Ivory,BorderStyle=BorderStyle.FixedSingle};upper.Controls.Add(input);
   var scene=new KitchenProcessView(root,kind,state);body.Controls.Add(scene);Action sizeParts=()=>{int top=Math.Min(185,Math.Max(155,body.Height/3));upper.Bounds=new Rectangle(0,0,body.Width,top);scene.Bounds=new Rectangle(0,top,body.Width,Math.Max(1,body.Height-top));};body.Resize+=(s,e)=>sizeParts();sizeParts();
   bool busy=false;int ticks=0;var animation=new Timer{Interval=35};VNButton submit=null;
-  Action refresh=()=>{int step=state.Progress(kind);prompt.Text=step==3?"处理成功 · 胡萝卜":"第 "+(step+1)+" / 3 次拼写："+KitchenWords.Meanings(kind)[step];status.Text=KitchenWords.Stages(kind)[step]+" · "+step+" / 3";input.Visible=step<3;submit.Text=step==3?"拿取处理好的胡萝卜":"确认拼写（Enter）";};
-  Action answer=()=>{if(busy)return;if(state.Progress(kind)==3){if(state.Pickup(kind)){Persist();dialog.Close();}return;}if(!state.Answer(kind,input.Text)){status.Text="拼写还不正确，请重试 · 首字母 "+KitchenWords.Words(kind)[state.Progress(kind)][0];input.SelectAll();input.Focus();return;}Persist();busy=true;submit.Enabled=false;input.Enabled=false;ticks=0;scene.Animating=true;scene.Motion=0;status.Text="拼写正确 · "+KitchenWords.Stages(kind)[state.Progress(kind)];animation.Start();};
+  Action refresh=()=>{int step=state.Progress(kind);prompt.Text=step==3?"处理成功 · 胡萝卜":"第 "+(step+1)+" / 3 次拼写："+ExpeditionVocabulary.Meaning(state.Words(kind)[step]);status.Text=KitchenWords.Stages(kind)[step]+" · "+step+" / 3";input.Visible=step<3;submit.Text=step==3?"拿取处理好的胡萝卜":"确认拼写（Enter）";};
+  Action answer=()=>{if(busy)return;if(state.Progress(kind)==3){if(state.Pickup(kind)){Persist();dialog.Close();}return;}if(!state.Answer(kind,input.Text)){status.Text="拼写还不正确，请重试 · 首字母 "+state.Words(kind)[state.Progress(kind)].word[0];input.SelectAll();input.Focus();return;}RogueEngine.RecordWordAppearance(save.rogue,state.Words(kind)[state.Progress(kind)-1].word);TavernBusiness.Begin(save,"words");TavernBusiness.Reward(save,"word:"+state.Words(kind)[state.Progress(kind)-1].word,true);Persist();busy=true;submit.Enabled=false;input.Enabled=false;ticks=0;scene.Animating=true;scene.Motion=0;status.Text="拼写正确 · "+KitchenWords.Stages(kind)[state.Progress(kind)];animation.Start();};
   submit=PartyButton("确认拼写（Enter）",answer,250,46);upper.Controls.Add(submit);
   Action layout=()=>{int w=upper.ClientSize.Width;prompt.Bounds=new Rectangle(18,8,Math.Max(1,w-36),45);status.Bounds=new Rectangle(18,57,Math.Max(1,w-36),32);int bw=Math.Min(260,Math.Max(140,w/3));submit.Bounds=new Rectangle(w-bw-18,105,bw,48);input.Bounds=new Rectangle(18,108,Math.Max(60,w-bw-54),42);};upper.Resize+=(s,e)=>layout();layout();refresh();
-  input.KeyDown+=(s,e)=>{if(e.KeyCode==Keys.Enter){e.SuppressKeyPress=true;answer();}};
+  input.Text=kind=="cut"?state.cutDraft??"":state.cookDraft??"";input.TextChanged+=(s,e)=>{if(kind=="cut")state.cutDraft=input.Text;else state.cookDraft=input.Text;};input.KeyDown+=(s,e)=>{if(e.KeyCode==Keys.Enter){e.SuppressKeyPress=true;answer();}};
   animation.Tick+=(s,e)=>{scene.Motion=++ticks/34f;scene.Invalidate();if(ticks>=34){animation.Stop();scene.Animating=false;busy=false;submit.Enabled=true;input.Enabled=true;input.Clear();refresh();input.Focus();}};
-  dialog.KeyDown+=(s,e)=>{if(e.KeyCode==Keys.Escape)dialog.Close();};dialog.Shown+=(s,e)=>input.Focus();try{dialog.ShowDialog(this);}finally{animation.Dispose();scene.Dispose();}
+  dialog.KeyDown+=(s,e)=>{if(e.KeyCode==Keys.Escape)dialog.Close();};dialog.Shown+=(s,e)=>input.Focus();try{dialog.ShowDialog(this);}finally{Persist();animation.Dispose();scene.Dispose();}
  }}
 }
 

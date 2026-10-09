@@ -1,0 +1,1876 @@
+{
+  "id": "cet6-2019_06_1",
+  "title": "2019年6月 第1套",
+  "level": 6,
+  "source_url": "https://www.cettong.cn/library/cet6/2019_06_1",
+  "material_source": "https://117.72.200.49/#/library",
+  "audio": "assets/tavern/listening/real-exams/cettong/cet6/2019/2019_06_1.exampace-playback.mp3",
+  "caption_kind": "published_material_with_auxiliary_timing_and_translation",
+  "caption_models": [
+    "Systran/faster-whisper-base.en",
+    "Sams200/opus-mt-en-zh"
+  ],
+  "lines": [
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Hi, my name's Cathy.",
+      "translation": "嗨，我叫凯茜。",
+      "start": 41.366,
+      "end": 42.767,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Nice to meet you!",
+      "translation": "很高兴认识你！",
+      "start": 42.767,
+      "end": 44.168,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Nice to meet you too, Cathy.",
+      "translation": "我也很高兴见到你 凯茜",
+      "start": 44.168,
+      "end": 46.27
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "My name's John.",
+      "translation": "我叫约翰",
+      "start": 46.27,
+      "end": 47.321
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'm a university friend of the bride.",
+      "translation": "我是新娘的大学朋友",
+      "start": 47.321,
+      "end": 49.773
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What about you?",
+      "translation": "那你呢? 你怎么样?",
+      "start": 49.773,
+      "end": 50.823
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Who do you know at this party?",
+      "translation": "你认识谁?",
+      "start": 50.823,
+      "end": 53.275
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I am a colleague of Brenda.",
+      "translation": "我是布伦达的同事。",
+      "start": 53.275,
+      "end": 55.377,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I was a little surprised to be invited, to be honest.",
+      "translation": "老实说，受邀参加婚礼让我有点惊讶。",
+      "start": 55.377,
+      "end": 59.23,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We've only been working together the last six months, but we quickly became good friends.",
+      "translation": "我们共事才六个月，不过很快就成了好朋友。",
+      "start": 59.23,
+      "end": 64.29,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We just wrapped up a project with a difficult client last week.",
+      "translation": "上周我们刚完成了一个难缠客户的项目。",
+      "start": 64.93,
+      "end": 68.49,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I bet Brenda is glad it's done with, and she can focus on wedding preparations.",
+      "translation": "我敢说布伦达一定很高兴项目终于结束了，这样她就可以专心准备婚礼了。",
+      "start": 69.27,
+      "end": 73.51,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Oh, yes, so you're Cathy from the office.",
+      "translation": "哦，对，所以你就是办公室里的凯茜。",
+      "start": 74.49,
+      "end": 77.51,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Actually I've heard a lot about you, and that project.",
+      "translation": "其实我经常听布伦达提起你，还有那个项目。",
+      "start": 78.17,
+      "end": 81.19,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The client sounded like a real nightmare.",
+      "translation": "听起来那个客户真是个大麻烦。",
+      "start": 81.95,
+      "end": 84.23,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Oh, he was.",
+      "translation": "哦,他曾经是。",
+      "start": 84.75,
+      "end": 85.61
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I mean we deal with all kinds of people on a regular basis.",
+      "translation": "我是说我们经常和各种人打交道",
+      "start": 86.15,
+      "end": 89.67
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's part of the job, but he was especially particular, enough about that.",
+      "translation": "这是工作的一部分, 但他特别特别, 足够的关于这一点。",
+      "start": 90.21,
+      "end": 94.99
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What line of work are you in?",
+      "translation": "你干哪行的?",
+      "start": 95.43,
+      "end": 96.91
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Well, right out of college, I worked in advertising for a while.",
+      "translation": "嗯，我大学毕业后有一段时间从事广告工作。",
+      "start": 97.29,
+      "end": 100.93,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Recently though, I turned my photography hobby into a small business.",
+      "translation": "不过最近，我把摄影这个爱好变成了一门小生意。",
+      "start": 101.77,
+      "end": 105.71,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'll actually be taking photos during the big event as a wedding gift.",
+      "translation": "婚礼当天我还会拍照，把这当作送给他们的结婚礼物。",
+      "start": 106.47,
+      "end": 110.47,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That sounds wonderful, and very thoughtful of you.",
+      "translation": "听起来棒极了，而且你真是有心。",
+      "start": 110.85,
+      "end": 113.85,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I bake just as a hobby but Brenda has asked me to do the cake for the wedding.",
+      "translation": "我烘焙也只是兴趣爱好，不过布伦达请我为婚礼做蛋糕。",
+      "start": 114.41,
+      "end": 119.32,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I was a bit nervous saying yes, because I'm far from a professional.",
+      "translation": "我答应下来时有点紧张，因为我远不是专业人士。",
+      "start": 120.02,
+      "end": 123.9,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Did you bake the cookies here at the party tonight?",
+      "translation": "今晚聚会上的这些饼干是你烤的吗？",
+      "start": 124.54,
+      "end": 126.92,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Yes, I got the idea from a magazine.",
+      "translation": "是的，我是在杂志上看到这个点子的。",
+      "start": 127.38,
+      "end": 129.54,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They're delicious.",
+      "translation": "它们很好吃。",
+      "start": 130.12,
+      "end": 130.76,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You've got nothing to worry about.",
+      "translation": "你完全不用担心。",
+      "start": 131.64,
+      "end": 133.24,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You're a natural.",
+      "translation": "你很有天赋。",
+      "start": 133.58,
+      "end": 134.34,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You really think so?",
+      "translation": "你真的这么认为吗？",
+      "start": 134.78,
+      "end": 135.72,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "If you hadn't told me that, I would have guessed they were baked by the restaurant.",
+      "translation": "如果你没告诉我，我还以为是餐厅烤的呢。",
+      "start": 136.22,
+      "end": 140.2,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You know, with your event planning experience, you could very well open your own shop.",
+      "translation": "你看，凭你的活动策划经验，完全可以开一家自己的店。",
+      "start": 140.98,
+      "end": 145.97,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "One step at a time.",
+      "translation": "一步一步来吧。",
+      "start": 146.91,
+      "end": 148.59,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "First I'll see how baking the wedding cake goes.",
+      "translation": "首先我得看看婚礼蛋糕做得怎么样。",
+      "start": 149.13,
+      "end": 151.77,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "If it's not a disaster, maybe I'll give it some more thought.",
+      "translation": "如果没出什么大乱子，也许我会再认真考虑一下。",
+      "start": 152.57,
+      "end": 155.77,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions 1-4 are based on the conversation you have just heard.",
+      "translation": "问题1 -4是基于你刚才听到的谈话",
+      "start": 157.09,
+      "end": 161.43
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "1.",
+      "translation": "1. 国家",
+      "start": 163.1,
+      "end": 163.5
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What did Kathy and Brenda finish doing last week?",
+      "translation": "凯西和布伦达上周做了什么?",
+      "start": 164.4,
+      "end": 167.52
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "2.",
+      "translation": "2. 目标",
+      "start": 180.85,
+      "end": 181.47
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What is John going to do for Brenda?",
+      "translation": "约翰会为布伦达做什么?",
+      "start": 182.1,
+      "end": 184.48
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 3.",
+      "translation": "问题3",
+      "start": 197.55,
+      "end": 198.63
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "How did Kathy feel when asked to bake the cake?",
+      "translation": "凯西要烤蛋糕的时候感觉如何?",
+      "start": 199.52,
+      "end": 202.62
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 4.",
+      "translation": "问题4",
+      "start": 215.61,
+      "end": 216.57
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the man suggest the woman do?",
+      "translation": "男人建议女人怎么做?",
+      "start": 217.11,
+      "end": 219.77
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Conversation 2.",
+      "translation": "对话2。",
+      "start": 232.7,
+      "end": 234.14
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You're heading for a completely different world now that you're about to graduate from high school.",
+      "translation": "你现在要从高中毕业了, 你正走向一个完全不同的世界。",
+      "start": 235.03,
+      "end": 235.366
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You are heading for a completely different world now that you are about to graduate from high school.",
+      "translation": "M：你马上就要高中毕业了，现在正迈向一个完全不同的世界。",
+      "start": 235.366,
+      "end": 240.27,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I know it's the end of high school, but many of my classmates are going on to the same university and we are still required to study hard, so what's the difference?",
+      "translation": "W：我知道高中生活要结束了，但我的很多同学都会去同一所大学，而且我们仍然需要努力学习，所以有什么不同呢？",
+      "start": 240.55,
+      "end": 251.05,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Many aspects are different here at university.",
+      "translation": "M：在大学里，很多方面都不一样。",
+      "start": 251.69,
+      "end": 254.59,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The most important one is that you have to take more individual responsibility for your actions.",
+      "translation": "最重要的一点是，你必须对自己的行为承担更多个人责任。",
+      "start": 255.82,
+      "end": 261.82,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's up to your own self-discipline how much effort you put into study.",
+      "translation": "你在学习上投入多少努力，取决于你自己的自律。",
+      "start": 262.66,
+      "end": 267.24,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Living in college dormitories, there are no parents to tell you to study harder or stop wasting time.",
+      "translation": "在大学宿舍生活，没有父母告诉你要更加努力地学习，或者别再浪费时间。",
+      "start": 268.38,
+      "end": 274.6,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Lecturers have hundreds of students and they are not going to follow you up or question you if you miss their lectures.",
+      "translation": "讲师们有数百名学生，如果你缺课，他们不会跟进你，也不会追问你。",
+      "start": 275.48,
+      "end": 282.85,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Nobody cares, you mean?",
+      "translation": "W：你的意思是，没人会在意？",
+      "start": 283.41,
+      "end": 285.03,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's not that nobody is concerned about you.",
+      "translation": "M：并不是说没人关心你。",
+      "start": 285.71,
+      "end": 288.21,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's just that suddenly at university you are expected to behave like an adult, that means concentrating on the direction of your life in general and your own academic performance specifically.",
+      "translation": "只是到了大学，你会被要求表现得像个成年人，也就是说，要着眼于自己人生的大方向，尤其要关注自己的学业表现。",
+      "start": 288.75,
+      "end": 301.21,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "For example?",
+      "translation": "W：比如说？",
+      "start": 302.03,
+      "end": 302.81,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Well, like you need to manage your daily, weekly and monthly schedules so that you will study regularly.",
+      "translation": "M：比如，你需要安排好每天、每周和每月的时间表，这样才能坚持学习。",
+      "start": 303.59,
+      "end": 310.51,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Be sure to attend all classes and leave enough time to finish assignments and prepare well for examinations.",
+      "translation": "一定要参加所有课程，并留出足够的时间完成作业，为考试做好充分准备。",
+      "start": 311.67,
+      "end": 317.89,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Okay, and what else is different?",
+      "translation": "W：好，那还有什么不同？",
+      "start": 318.85,
+      "end": 321.43,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Well, in college there are lots of distractions and you need to control yourself.",
+      "translation": "M：在大学里，有很多事情会分散你的注意力，你需要控制自己。",
+      "start": 321.99,
+      "end": 327.91,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You will make interesting friends, but you need only keep the friends who respect your student commitments.",
+      "translation": "你会结交有趣的朋友，但只应该和那些尊重你学生责任的朋友来往。",
+      "start": 328.69,
+      "end": 334.97,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Also, there are a lot of wonderful clubs, but you shouldn't allocate too much time to club activities, unless they are directly related to your study.",
+      "translation": "另外，大学里有很多很棒的社团，但你不应该在社团活动上花太多时间，除非这些活动与你的学习直接相关。",
+      "start": 336.32,
+      "end": 346.42,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's also your choice if you want to go out at night, but you will be foolish to let that affect your class performance during the day.",
+      "translation": "至于晚上要不要出去，也是你自己的选择，但如果让这影响到你白天的课堂表现，那就太不明智了。",
+      "start": 347.35,
+      "end": 356.15,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Well, I'm determined to do well at university and I guess I am going to have to grow up fast.",
+      "translation": "W：好吧，我决心要在大学里取得好成绩，我想我得赶快成熟起来了。",
+      "start": 356.69,
+      "end": 362.95,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions 5-8.",
+      "translation": "问题5 -8。",
+      "start": 364.03,
+      "end": 365.67
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "are based on the conversation you have just heard.",
+      "translation": "是基于你刚才听到的谈话",
+      "start": 366.05,
+      "end": 368.79
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 5.",
+      "translation": "问题5",
+      "start": 369.97,
+      "end": 370.85
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the man say about college students as compared with high schoolers?",
+      "translation": "与高中生相比 男生对大学生怎么说?",
+      "start": 371.86,
+      "end": 376.36
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 6.",
+      "translation": "问题6",
+      "start": 389.63,
+      "end": 390.47
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What are college students expected to do according to the man?",
+      "translation": "男生认为大学生应该做什么?",
+      "start": 391.07,
+      "end": 395.17
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 7.",
+      "translation": "问题7",
+      "start": 408.53,
+      "end": 409.35
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What kind of friends does the man suggest the woman make as a college student?",
+      "translation": "男人建议女人当大学生 交什么样的朋友?",
+      "start": 410.01,
+      "end": 414.51
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 8.",
+      "translation": "问题8",
+      "start": 427.94,
+      "end": 428.74
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What kind of club activities should college students engage in?",
+      "translation": "大学生应参加什么样的俱乐部活动?",
+      "start": 429.39,
+      "end": 433.75
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "according to the man.",
+      "translation": "根据男人。",
+      "start": 433.93,
+      "end": 435.01
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Section B, directions.",
+      "translation": "B节,方向。",
+      "start": 448.36,
+      "end": 449.8
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In this section you will hear two passages.",
+      "translation": "在本节中,你们将听到两段。",
+      "start": 451.11,
+      "end": 453.49
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "At the end of each passage you will hear three or four questions.",
+      "translation": "在每一段的结尾 你会听到三个或四个问题",
+      "start": 454.31,
+      "end": 458.35
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Both the passage and the questions will be spoken only once.",
+      "translation": "发言的通过和提问将只讲一次。",
+      "start": 459.37,
+      "end": 462.69
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "After you hear a question,",
+      "translation": "在你听到一个问题之后",
+      "start": 464.04,
+      "end": 465.36
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "you must choose the best answer from the four choices marked A, B, C, and D.",
+      "translation": "您必须选择四个选择中的最佳答案,即A、B、C和D。",
+      "start": 466.02,
+      "end": 471.2
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Then mark the corresponding letter on answer sheet 1,",
+      "translation": "然后在回答表1上标出相应的字母,",
+      "start": 472.28,
+      "end": 475.54
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "with a single line through the center.",
+      "translation": "中间有一条线",
+      "start": 475.85,
+      "end": 477.63
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Passage 1.",
+      "translation": "通行证1号。",
+      "start": 479.12,
+      "end": 479.9
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Most successful people are unorthodox persons whose minds wander outside traditional ways of thinking.",
+      "translation": "大多数成功人士都是不拘一格的人，他们的思维游离于传统的思考方式之外。",
+      "start": 481.53,
+      "end": 488.29,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Instead of trying to refine old formulas, they invent new ones.",
+      "translation": "他们不满足于改进旧的模式，而是创造新的模式。",
+      "start": 489.7,
+      "end": 494.14,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "When Jean-Claude Killy made the French national ski team in the early 1960s, he was prepared to work harder than anyone else to be the best.",
+      "translation": "20世纪60年代初，Jean-Claude Killy 入选法国国家滑雪队时，已经做好了比任何人都更加刻苦训练、争当最佳选手的准备。",
+      "start": 495.57,
+      "end": 506.26,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "At the crack of dawn he would run up the slopes with his skis on, an unbelievably backbreaking activity.",
+      "translation": "每天黎明时分，他都会穿着滑雪板跑上山坡，这是一项令人难以置信的艰苦活动。",
+      "start": 507.5,
+      "end": 514.96,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In the evening he would do weight lifting and running.",
+      "translation": "晚上，他还要进行举重和跑步训练。",
+      "start": 516.27,
+      "end": 519.05,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But the other team members were working as hard and long as he was.",
+      "translation": "然而，队里的其他成员训练得和他一样刻苦、一样持久。",
+      "start": 520.37,
+      "end": 524.51,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "He realized instinctively that simply training harder would never be enough.",
+      "translation": "他本能地意识到，仅仅更加努力地训练永远是不够的。",
+      "start": 525.68,
+      "end": 531.06,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Killy then began challenging the basic theories of racing technique.",
+      "translation": "于是，Killy 开始质疑竞速技术的基本理论。",
+      "start": 532.54,
+      "end": 536.46,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Each week he would try something different to see if he could find a better, faster way down the mountain.",
+      "translation": "每周他都会尝试不同的方法，看看能否找到一条更好、更快地下山路线。",
+      "start": 538.15,
+      "end": 544.61,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "His experiments resulted in a new style that was almost exactly opposite the accepted technique of the time.",
+      "translation": "他的实验带来了一种全新的姿势，几乎完全背离了当时公认的技术。",
+      "start": 545.98,
+      "end": 553.46,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It involved skiing with his legs apart for better balance and sitting back on the skis when he came to a turn.",
+      "translation": "这种姿势要求双腿分开滑行，以获得更好的平衡；转弯时则要向后坐在滑雪板上。",
+      "start": 554.95,
+      "end": 562.33,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "He also used ski poles in an unorthodox way—to propel himself as he skied.",
+      "translation": "他还以一种不合常规的方式使用滑雪杖，在滑行时借助滑雪杖推动自己。",
+      "start": 563.53,
+      "end": 569.63,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The explosive new style helped cut Killy's racing time dramatically.",
+      "translation": "这种爆发力十足的新姿势大幅缩短了 Killy 的比赛用时。",
+      "start": 570.77,
+      "end": 575.11,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In 1966 and 1967 he captured virtually every major skiing trophy.",
+      "translation": "1966年和1967年，他几乎赢得了所有重要的滑雪奖杯。",
+      "start": 576.56,
+      "end": 582.84,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The next year he won three gold medals in the Winter Olympics, a record in ski racing that has never been topped.",
+      "translation": "第二年，他在冬季奥运会上赢得三枚金牌，创下了滑雪竞速项目中至今无人超越的纪录。",
+      "start": 584.38,
+      "end": 592.1,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Killy learned an important secret shared by many creative people: innovations don't require genius, just a willingness to question the way things have always been done.",
+      "translation": "Killy 学到了一个许多富有创造力的人都明白的重要秘诀：创新并不需要天才，只需要愿意质疑一贯的做事方式。",
+      "start": 592.1,
+      "end": 606.3,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What is said to be Killy's biggest honour in his skiing",
+      "translation": "据说是Killy滑雪中 最大的荣誉",
+      "start": 650.83,
+      "end": 654.19
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "career?",
+      "translation": "职业?",
+      "start": 666.58,
+      "end": 669.267
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Scientific experiments have demonstrated incredible ways to kill a guinea pig, a small furry animal.",
+      "translation": "科学实验已经证明了杀死豚鼠这种小型毛茸茸动物的种种令人难以置信的方法。",
+      "start": 669.267,
+      "end": 678.621,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Emotional upsets generate powerful and deadly toxic substances.",
+      "translation": "情绪上的剧烈波动会产生强力而致命的有毒物质。",
+      "start": 678.621,
+      "end": 683.61,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Blood samples taken from persons experiencing intense fear or anger when injected into guinea pigs have killed them in less than two minutes.",
+      "translation": "从正在经历强烈恐惧或愤怒的人身上采集的血液样本，注射到豚鼠体内后，能在不到两分钟内将其杀死。",
+      "start": 683.61,
+      "end": 693.73,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Imagine what these poisonous substances can do to your own body.",
+      "translation": "想想这些有毒物质会对你自己的身体造成什么影响。",
+      "start": 694.86,
+      "end": 698.8,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Every thought that you have affects your body chemistry within a split second.",
+      "translation": "你的每一个想法都会在一瞬间影响你的身体化学反应。",
+      "start": 700.04,
+      "end": 705.44,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Remember how you feel when you're speeding down the highway and a big truck suddenly brakes twenty meters in front of you.",
+      "translation": "回想一下，当你在高速公路上飞驰，而一辆大卡车突然在你前方二十米处刹车时，你是什么感觉。",
+      "start": 706.29,
+      "end": 714.02,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "A shockwave shoots through your whole system.",
+      "translation": "一股冲击波会贯穿你的整个身体。",
+      "start": 714.82,
+      "end": 717.3,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Your mind produces instant reactions in your body.",
+      "translation": "你的思想会让身体立即产生反应。",
+      "start": 718.16,
+      "end": 721.24,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The toxic substances that fear, anger, frustration, and stress produce not only kill guinea pigs but kill us off in a similar manner.",
+      "translation": "恐惧、愤怒、挫折和压力所产生的有毒物质不仅会杀死豚鼠，也会以类似的方式置我们于死地。",
+      "start": 722.46,
+      "end": 733.34,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It is impossible to be fearful, anxious, irritated, and healthy at the same time.",
+      "translation": "一个人不可能同时处于恐惧、焦虑、恼怒的状态，又保持健康。",
+      "start": 734.22,
+      "end": 740.74,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It is not just difficult, it is impossible.",
+      "translation": "这不仅很难做到，而且根本不可能。",
+      "start": 741.36,
+      "end": 743.88,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Simply put, your body's health is a reflection of your mental health.",
+      "translation": "简单地说，你的身体健康状况是心理健康状况的反映。",
+      "start": 744.88,
+      "end": 749.54,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Sickness will often then be a result of unresolved inner conflicts which in time show up in the body.",
+      "translation": "因此，疾病往往是未解决的内心冲突所导致的结果，而这些冲突最终会在身体上表现出来。",
+      "start": 750.48,
+      "end": 757.8,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It is also fascinating how our subconscious mind shapes our health.",
+      "translation": "我们的潜意识如何塑造健康状况，同样令人着迷。",
+      "start": 759.11,
+      "end": 764.01,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Do you recall feeling sick on a day when you didn't want to go to school?",
+      "translation": "你是否记得，有一天你不想去上学时，自己感到身体不适？",
+      "start": 765.3,
+      "end": 769.36,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Headaches brought on by fear?",
+      "translation": "因恐惧而引发的头痛？",
+      "start": 769.99,
+      "end": 772.17,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The mind-body connection is such that if, for example, we want to avoid something, very often our subconscious mind will arrange it.",
+      "translation": "身心之间存在着这样的联系：例如，如果我们想要避开某件事，我们的潜意识往往会设法让这件事发生。",
+      "start": 773.06,
+      "end": 783.18,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Once we recognize that these things happen to us, we are halfway to doing something about them.",
+      "translation": "当我们认识到这些事情会发生在自己身上时，就已经完成了一半的工作，接下来便可以采取措施加以应对。",
+      "start": 783.9,
+      "end": 789.98,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions 12 to 15 are based on the passage you have just heard.",
+      "translation": "问题12至15是根据你们刚才听到的段落提出的。",
+      "start": 791.51,
+      "end": 795.91
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 12.",
+      "translation": "问题12。",
+      "start": 797.01,
+      "end": 797.83
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What happens to guinea pigs when blood samples of angry people are injected into them?",
+      "translation": "当愤怒者的血样被注入它们时, 鼠类会怎样呢?",
+      "start": 798.41,
+      "end": 803.81
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 13 What does the speaker say about every thought you have?",
+      "translation": "问题13 发言者对你的所有想法怎么说?",
+      "start": 816.82,
+      "end": 821.72
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 14 What does the speaker say is impossible?",
+      "translation": "问题14 发言者说什么是不可能的?",
+      "start": 834.85,
+      "end": 838.89
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 15 What does the passage say about our mind and body?",
+      "translation": "问题15 段落对我们的思维和身体有什么看法?",
+      "start": 852.34,
+      "end": 856.86
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Section C Directions In this section you will hear three recordings of lectures or talks",
+      "translation": "在本节中,你们将听到三场演讲或谈话录音",
+      "start": 870.35,
+      "end": 877.32
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "followed by three or four questions.",
+      "translation": "然后是三四个问题。",
+      "start": 877.95,
+      "end": 879.97
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The recordings will be played only once.",
+      "translation": "录音只播放一次。",
+      "start": 881.31,
+      "end": 883.31
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "After you hear a question, you must choose the best answer from the four choices marked A, B, C, and D.",
+      "translation": "在听到一个问题后,你必须从四个选择中选择最好的答案,这四个选择分别是A、B、C和D。",
+      "start": 884.28,
+      "end": 891.88
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "mark the corresponding letter on answer sheet one with a single line through the center.",
+      "translation": "在答题单单行的答题表一中标出相应的字母。",
+      "start": 893.34,
+      "end": 898.82
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Recording one.",
+      "translation": "记录一。",
+      "start": 900.15,
+      "end": 901.05
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Teachers and students alike have experienced the curious paradox that beginners, as a rule, tend to think too little about what they are doing because they think too much about what they are doing.",
+      "translation": "教师和学生都经历过这样一个奇特的悖论：初学者通常因为对自己正在做的事情想得太多，反而往往对其思考得太少。",
+      "start": 903.45,
+      "end": 916.3,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Take, for example, people who are learning to play basketball or the piano.",
+      "translation": "以学习打篮球或弹钢琴的人为例。",
+      "start": 917.42,
+      "end": 921.86,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They have to give so much thought and attention to the low-level mechanics of handling the ball or fingering the keys or reading the music, that they are unable to give any thought to the thing that matters—the game, or the music, respectively.",
+      "translation": "他们必须投入如此多的思考和注意力，去处理运球、指法或识谱等低层次的技术细节，以至于无法思考真正重要的事情——分别是比赛或音乐本身。",
+      "start": 922.74,
+      "end": 939.06,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "With experts, it's just the other way around.",
+      "translation": "专家的情况恰恰相反。",
+      "start": 939.85,
+      "end": 942.55,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They're open to the tactical possibilities and the musical challenges precisely because they're freed, through skill, from the need to pay attention to the low-level details of how to play.",
+      "translation": "正是因为通过技能训练摆脱了关注演奏方式等低层次细节的需要，他们才能专注于战术上的可能性和音乐上的挑战。",
+      "start": 943.27,
+      "end": 954.85,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Indeed, when the expert pays attention to the mechanics, this is liable to disrupt performance.",
+      "translation": "事实上，当专家把注意力放在技术动作上时，反而很可能会干扰发挥。",
+      "start": 956.44,
+      "end": 962.3,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This has led some to say that the expert operates in a zone \"beyond thought\", in a state of flow.",
+      "translation": "这使一些人认为，专家是在“超越思维”的区域中，以一种心流状态进行活动。",
+      "start": 964.11,
+      "end": 970.61,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But this is misleading.",
+      "translation": "但这种说法具有误导性。",
+      "start": 972.21,
+      "end": 973.15,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Expert performance is not beyond thought.",
+      "translation": "专家的表现并不是超越思维的。",
+      "start": 974.19,
+      "end": 976.93,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Smart basketball players or skilled musicians need to pay close attention to the demands of high performance, to the challenges to be overcome.",
+      "translation": "优秀的篮球运动员或技艺娴熟的音乐家需要密切关注高水平发挥的要求，以及必须克服的挑战。",
+      "start": 977.82,
+      "end": 987.24,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What they don't need to do—what would be a distraction—is to have to think about where their fingers are, or how to control the ball while running.",
+      "translation": "他们不需要做的事情——而且那会成为一种干扰——是去思考手指在哪里，或是在奔跑时如何控制球。",
+      "start": 989.01,
+      "end": 998.01,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's not mechanics, but the play itself, that absorbs the expert's intelligence.",
+      "translation": "他们的智慧所专注的不是技术动作，而是比赛或演奏本身。",
+      "start": 999.54,
+      "end": 1004.2,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "A nice video published online last month sheds light on expertise and the conscious mind.",
+      "translation": "上个月发布在网上的一段精彩视频，阐明了专业技能与意识之间的关系。",
+      "start": 1006.24,
+      "end": 1012.52,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The video reports a new study using an eye-tracking device.",
+      "translation": "这段视频介绍了一项使用眼动追踪设备进行的新研究。",
+      "start": 1013.93,
+      "end": 1017.91,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It turns out that the less skilled pianist spends more time looking at her fingers than does the expert who, in contrast, is more likely to be looking at the sheet of music, or looking ahead at keys he's not yet playing.",
+      "translation": "研究结果表明，技艺较差的钢琴家看自己手指的时间比专家更长；相比之下，专家更可能注视乐谱，或提前看向尚未弹奏的琴键。",
+      "start": 1018.91,
+      "end": 1033.87,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In general, the expert's gaze was calmer and more stable.",
+      "translation": "总体而言，专家的视线更加平静、稳定。",
+      "start": 1035.36,
+      "end": 1039.38,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This is not a surprising finding.",
+      "translation": "这并不是一个令人惊讶的发现。",
+      "start": 1040.49,
+      "end": 1042.37,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It supports what we might almost think of as conventional wisdom.",
+      "translation": "它印证了我们几乎可以称之为常识的看法。",
+      "start": 1043.03,
+      "end": 1046.89,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But it's remarkable for all that, nonetheless.",
+      "translation": "尽管如此，这一发现仍然十分引人注目。",
+      "start": 1048.53,
+      "end": 1050.93,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The eye tracker gives expert and learning performers a glimpse into what they do without thinking about it.",
+      "translation": "眼动追踪器让专家和正在学习的演奏者得以一窥自己无需思考便会做出的动作。",
+      "start": 1052.37,
+      "end": 1059.07,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The topic of the nature of skill—and the differences between beginners and experts—has been one of considerable discussion in cognitive science and philosophy.",
+      "translation": "技能的本质，以及初学者与专家之间的差异，一直是认知科学和哲学领域广泛讨论的话题。",
+      "start": 1059.86,
+      "end": 1070.18,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 18.",
+      "translation": "问题18。",
+      "start": 1116.59,
+      "end": 1117.67
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What do we learn about the new study published in an online video?",
+      "translation": "我们从网上视频上公布的新研究中了解到什么?",
+      "start": 1118.85,
+      "end": 1122.85
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Recording 2.",
+      "translation": "记录2。",
+      "start": 1136.03,
+      "end": 1136.97
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Every summer when I top up my selection of summer outfits from the department stores,",
+      "translation": "每年夏天,当我从百货商店 上调了夏季服装时",
+      "start": 1138.17,
+      "end": 1143.75
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'm overwhelmed with a wide range of different slimming products each year.",
+      "translation": "每年，各种各样的瘦身产品都会让我应接不暇。",
+      "start": 1148.19,
+      "end": 1152.95,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And more shockingly, these products are often advocated by very slim models.",
+      "translation": "更令人震惊的是，这些产品往往是由身材非常苗条的模特代言的。",
+      "start": 1153.89,
+      "end": 1159.43,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Having lived in Asia for almost 10 years now, I've seen various dieting tips come and go.",
+      "translation": "我在亚洲生活至今已有近十年，见过各种节食妙招兴起又消失。",
+      "start": 1160.37,
+      "end": 1167.11,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I remember in Japan, people heading directly to the fruit section in the supermarket, when the banana diet was at its peak.",
+      "translation": "我记得香蕉减肥法风靡一时的时候，日本人会直奔超市的水果区。",
+      "start": 1167.77,
+      "end": 1176.91,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Then there was the black tea and oolong tea diet, followed by the soybean diet and the tomato juice diet.",
+      "translation": "之后又出现了红茶减肥法和乌龙茶减肥法，接着是大豆减肥法和番茄汁减肥法。",
+      "start": 1178.03,
+      "end": 1186.84,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The list goes on and on.",
+      "translation": "类似的方法还有很多。",
+      "start": 1187.54,
+      "end": 1189.66,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Apart from what people eat, I've also seen many interesting slimming products.",
+      "translation": "除了人们吃什么之外，我还见过许多有趣的瘦身产品。",
+      "start": 1190.56,
+      "end": 1195.96,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In Hong Kong, I've seen girls wrapping their whole body or both legs up with a special type of slimming tape which is supposed to help make them thinner.",
+      "translation": "在香港，我见过女孩们用一种特殊的瘦身胶带把整个身体或双腿缠起来，据说这样可以帮助她们变瘦。",
+      "start": 1196.82,
+      "end": 1208.34,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But it just reminded me of the roasted ham my mother usually puts on the dinner table at Christmas.",
+      "translation": "但这只是让我想起了我母亲通常在圣诞节摆上餐桌的烤火腿。",
+      "start": 1209.0,
+      "end": 1215.06,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Then there were the face slimming rollers that were said to improve your blood circulation and make your face smaller.",
+      "translation": "后来又出现了面部瘦身滚轮，据说可以改善血液循环，让脸变小。",
+      "start": 1216.46,
+      "end": 1225.08,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Personally I do not believe in any of these slimming gadgets and I think I have a very different perspective when it comes to the definition of what is beautiful.",
+      "translation": "就我个人而言，我不相信这些瘦身小工具中的任何一种，而且在美的定义问题上，我认为自己的看法很不一样。",
+      "start": 1226.36,
+      "end": 1238.02,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Asian women prefer to avoid the sun, because being pale or white is considered beautiful whereas a tanned complexion is considered much more beautiful and sexy in the West.",
+      "translation": "亚洲女性喜欢避免晒太阳，因为肤色苍白或白皙被认为是美丽的，而在西方，古铜色的肤色则被认为更加美丽性感。",
+      "start": 1239.4,
+      "end": 1252.46,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It is most certainly shaped by a person's culture as well as how they were raised in their childhood.",
+      "translation": "这无疑受到一个人的文化以及童年时期所受教育的影响。",
+      "start": 1253.5,
+      "end": 1259.86,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "As each summer season approaches, there's no escape from it.",
+      "translation": "每当夏季临近，人们就无法逃避这种压力。",
+      "start": 1261.22,
+      "end": 1265.24,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But it's not only women who are affected by this pressure to look good.",
+      "translation": "但受到这种保持良好外表的压力影响的不只是女性。",
+      "start": 1265.94,
+      "end": 1270.28,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Men aspire to be able to show off their 6 packs, or their v-shaped backs and there's a growing market of slimming pills aimed at men too.",
+      "translation": "男性也渴望能够秀出自己的六块腹肌或V形背部，而针对男性的瘦身药市场也在不断扩大。",
+      "start": 1270.99,
+      "end": 1281.37,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I think no matter what diets we follow or what slimming products we obsess ourselves with, at the end of the day there's no magic trick to shape up for the summer.",
+      "translation": "我认为，无论我们采用什么节食方法，或是对什么瘦身产品着迷，到头来都没有什么神奇妙招能让我们在夏天到来时塑造好身材。",
+      "start": 1282.51,
+      "end": 1293.91,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Eat in a balanced way and incorporate the right level of physical activity.",
+      "translation": "饮食均衡，并配合适当程度的体育锻炼。",
+      "start": 1294.6,
+      "end": 1299.78,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "For me, this still seems to be the best plan.",
+      "translation": "对我来说，这似乎仍然是最好的计划。",
+      "start": 1300.74,
+      "end": 1304.32,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions 19-21 are based on the recording you have just heard.",
+      "translation": "问题19 -21是基于你刚才听到的录音",
+      "start": 1305.65,
+      "end": 1310.53
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "19.",
+      "translation": "19. 经济",
+      "start": 1311.82,
+      "end": 1312.3
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "overwhelms the speaker when she buys her summer outfits each year?",
+      "translation": "演讲者每年买暑期服装的时候 都压倒了演讲者?",
+      "start": 1313.73,
+      "end": 1317.91
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "20.",
+      "translation": "20. 20个",
+      "start": 1331.29,
+      "end": 1331.95
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the speaker think of girls wrapping their legs up with slimming tape?",
+      "translation": "演讲者对女孩们用胶带把腿包起来有什么看法?",
+      "start": 1332.88,
+      "end": 1337.12
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 21.",
+      "translation": "问题21",
+      "start": 1350.32,
+      "end": 1351.52
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the speaker think affects people's interpretation of beauty?",
+      "translation": "发言者认为什么影响人们对美的诠释?",
+      "start": 1352.52,
+      "end": 1356.52
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Recording 3.",
+      "translation": "记录3。",
+      "start": 1369.78,
+      "end": 1370.7
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Skin may seem like a superficial human attribute,",
+      "translation": "皮肤可能看起来像一个肤浅的人类属性",
+      "start": 1372.57,
+      "end": 1375.55
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "As a zoologist focusing on the studies of apes and monkeys, I've been studying why humans evolved to become the naked ape, and why skin comes in so many different shades around the world.",
+      "translation": "作为一名专门研究猿类和猴类的动物学家，我一直在研究人类为何进化成了“裸猿”，以及世界各地的人类皮肤为何呈现出如此多种不同的色调。",
+      "start": 1380.29,
+      "end": 1393.08,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We can make a very good estimate from the fossil record that humans probably evolved naked skin around a million and a half years ago, and meanwhile they mostly lost their coat of fur.",
+      "translation": "我们可以根据化石记录很好地推测，人类大约在150万年前进化出了裸露的皮肤，同时大部分失去了身上的毛发。",
+      "start": 1394.67,
+      "end": 1407.61,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Today we have a few patches of hair remaining on various parts of our bodies, but compared with apes and monkeys, we have very little.",
+      "translation": "如今，我们身体各处还残留着几小片毛发，但与猿类和猴类相比，我们的毛发少得多。",
+      "start": 1409.34,
+      "end": 1418.22,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Basically, we turned our skin darker to serve as a natural sun protector in the place of the hair we lost.",
+      "translation": "基本上，我们让皮肤颜色变深，以替代失去的毛发，充当天然的防晒保护。",
+      "start": 1419.7,
+      "end": 1426.51,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We think we lost this hair because of the need to keep ourselves cool when we were moving around vigorously in a hot environment.",
+      "translation": "我们认为我们失去了这头发 是因为我们需要保持冷静 当我们在热热的环境下 积极移动的时候",
+      "start": 1427.87,
+      "end": 1435.33
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We can't really lose heat by breathing quickly and loudly like dogs.",
+      "translation": "我们不能像狗一样 快速而大声的呼吸 真正失去热量",
+      "start": 1436.26,
+      "end": 1440.42
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We have to do it by sweating.",
+      "translation": "我们必须汗流成河",
+      "start": 1441.08,
+      "end": 1442.72
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So we evolved the ability to sweat plentifully and lost most of our fur.",
+      "translation": "于是我们进化了汗水充沛的能力 失去了我们大部分的毛皮",
+      "start": 1443.8,
+      "end": 1448.36
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Most animals protect themselves from the sun with fur.",
+      "translation": "大多数动物用毛发来保护自己免受阳光照射。",
+      "start": 1449.99,
+      "end": 1453.25,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What we did in our ancestry was to produce more permanent natural coloring in our skin cells.",
+      "translation": "我们的祖先所做的，是让皮肤细胞产生更加持久的天然色素。",
+      "start": 1454.06,
+      "end": 1460.48,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This was really an important revolution in human history because it allowed us to continue to evolve in equatorial environments.",
+      "translation": "这确实是人类历史上的一次重要变革，因为它使我们得以继续在赤道环境中进化。",
+      "start": 1461.53,
+      "end": 1470.19,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It really made it possible for us to continue along the path toward modern humans in Africa.",
+      "translation": "它真正使我们能够沿着通向现代人类的道路，在非洲继续发展。",
+      "start": 1471.41,
+      "end": 1477.23,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "For most of human history we all had dark skin.",
+      "translation": "在人类历史的大部分时期，我们都有深色皮肤。",
+      "start": 1478.89,
+      "end": 1482.41,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What we see today is the product of evolutionary events resulting from the dispersal of a few human populations out of Africa around 60,000 to 70,000 years ago.",
+      "translation": "如今我们所看到的情况，是大约6万至7万年前少数人类群体离开非洲并扩散到各地后，由此产生的一系列进化事件的结果。",
+      "start": 1483.33,
+      "end": 1496.03,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Our species originated around 200,000 years ago and underwent tremendous diversification—culturally, technologically, linguistically, artistically—for 130,000 years.",
+      "translation": "我们这个物种大约在20万年前起源，并在此后的13万年中经历了巨大的多样化，在文化、技术、语言和艺术方面都得到了发展。",
+      "start": 1497.62,
+      "end": 1513.22,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "After that, a few small populations left Africa to populate the rest of the world.",
+      "translation": "此后，少数几个小型群体离开非洲，开始在世界其他地区繁衍。",
+      "start": 1514.66,
+      "end": 1520.78,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "These early ancestors of modern Eurasians dispersed into parts of the world that had more seasonal sunshine and much lower levels of sun radiation.",
+      "translation": "这些现代欧亚人的早期祖先扩散到了阳光季节性更强、太阳辐射水平低得多的世界各地。",
+      "start": 1522.0,
+      "end": 1532.0,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's in these populations that we begin to see real changes in the genetic makeup of natural coloring.",
+      "translation": "正是在这些群体中，我们开始看到天然色素遗传构成发生了真正的变化。",
+      "start": 1533.65,
+      "end": 1540.17,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Today, skin color is evolving via new mixtures of people coming together and having children with new mixtures of skin color genes.",
+      "translation": "如今，随着不同人群相互融合并生育出拥有全新皮肤颜色基因组合的孩子，肤色也在不断进化。",
+      "start": 1541.18,
+      "end": 1551.23,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We can see this in almost every large city worldwide.",
+      "translation": "我们几乎可以在世界各地的每一座大城市中看到这一现象。",
+      "start": 1551.23,
+      "end": 1554.73,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Not only the coloring genes, but lots of other genes are getting mixed up, too.",
+      "translation": "不仅是肤色基因，许多其他基因也在发生混合。",
+      "start": 1555.89,
+      "end": 1561.07,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions 22 to 25 are based on the recording you have just heard.",
+      "translation": "问题22至25是基于你刚才听到的录音",
+      "start": 1562.66,
+      "end": 1567.78
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "22.",
+      "translation": "22. 妇女 22",
+      "start": 1568.96,
+      "end": 1569.86
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the speaker mainly talk about?",
+      "translation": "发言者主要谈什么?",
+      "start": 1570.65,
+      "end": 1573.43
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 23 What had probably caused humans to lose most of their hair one and a half million years ago?",
+      "translation": "问题23 是什么原因可能使人类在150万年前 失去大部分头发?",
+      "start": 1586.58,
+      "end": 1595.56
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 24 What does the speaker say protected early humans from the Sun?",
+      "translation": "问题24 发言者怎么说 保护早期人类不受太阳伤害?",
+      "start": 1608.7,
+      "end": 1615.43
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 25 What happened after humans migrated from Africa to other parts of the world?",
+      "translation": "问题25 人类从非洲迁移到世界其他地方之后发生了什么?",
+      "start": 1628.64,
+      "end": 1636.54
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This is the end of listening comprehension.",
+      "translation": "听觉理解的结束",
+      "start": 1649.45,
+      "end": 1652.07
+    }
+  ],
+  "translation_sources": [
+    "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/",
+    "Sams200/opus-mt-en-zh (unmatched sentences only)"
+  ]
+}

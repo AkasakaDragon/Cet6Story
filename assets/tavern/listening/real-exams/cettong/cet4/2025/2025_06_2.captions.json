@@ -1,0 +1,1645 @@
+{
+  "id": "cet4-2025_06_2",
+  "title": "2025年6月 第2套",
+  "level": 4,
+  "source_url": "https://www.cettong.cn/library/cet4/2025_06_2",
+  "material_source": "https://117.72.200.49/#/library",
+  "audio": "assets/tavern/listening/real-exams/cettong/cet4/2025/2025_06_2.mp3",
+  "caption_kind": "published_material_with_auxiliary_timing_and_translation",
+  "caption_models": [
+    "Systran/faster-whisper-base.en",
+    "Sams200/opus-mt-en-zh"
+  ],
+  "lines": [
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "A Florida teenager and an Atlanta woman won the overall men's and women's divisions Saturday at the annual 7 Mile Bridge Run.",
+      "translation": "佛罗里达州一名青少年和亚特兰大一名女性在周六的年度七英里大桥跑比赛中分别赢得男子组和女子组总冠军。",
+      "start": 44.38,
+      "end": 53.62,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Vaclav Bursa, 15, of Big Pine Key, Florida, finished first overall.",
+      "translation": "来自佛罗里达州Big Pine Key的15岁选手Vaclav Bursa获得总成绩第一名。",
+      "start": 54.52,
+      "end": 60.86,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "He completed the race in 41 minutes and 1 second and claimed the top spot in the men's division.",
+      "translation": "他以41分1秒的成绩完成比赛,夺得男子组冠军。",
+      "start": 61.7,
+      "end": 68.36,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Bursa won third place in the 2022 race.",
+      "translation": "Bursa在2022年的比赛中获得第三名。",
+      "start": 69.18,
+      "end": 72.82,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "He is a student at Marathon High School.",
+      "translation": "他是Marathon High School的学生。",
+      "start": 73.64,
+      "end": 75.74,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Joanna Stephens, 28, of Atlanta, completed the course in 41 minutes and 12 seconds.",
+      "translation": "28岁的Joanna Stephens来自亚特兰大,以41分12秒的成绩完成赛程。",
+      "start": 76.64,
+      "end": 83.74,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "She won the women's division title and placed second overall.",
+      "translation": "她赢得女子组冠军,总成绩排名第二。",
+      "start": 84.46,
+      "end": 88.68,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The race drew competitors from 41 US states.",
+      "translation": "本次比赛吸引了来自美国41个州的参赛者。",
+      "start": 89.58,
+      "end": 93.36,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "There were also runners from other countries, including Canada, the UK and Switzerland.",
+      "translation": "还有来自其他国家的选手,包括加拿大、英国和瑞士。",
+      "start": 94.22,
+      "end": 99.98,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The run closed the span between the Middle and Lower Keys to traffic for 3 hours Saturday.",
+      "translation": "比赛于周六封闭了连接Middle Keys和Lower Keys之间的桥梁路段3小时。",
+      "start": 101.12,
+      "end": 107.54,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The April contest is one of the most popular running events in the southeastern United States.",
+      "translation": "这项4月举办的赛事是美国东南部最受欢迎的跑步活动之一。",
+      "start": 108.37,
+      "end": 114.45,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The race field filled within minutes after online registration opened in January.",
+      "translation": "1月份网上报名开放后,参赛名额在几分钟内就被抢光。",
+      "start": 115.35,
+      "end": 120.57,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What do we learn about the April contest?",
+      "translation": "我们从四月比赛学到什么?",
+      "start": 149.83,
+      "end": 152.97
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "News report 2 British astronaut Tim Peake is stepping down permanently from his role as a European astronaut.",
+      "translation": "英国宇航员蒂姆·皮克 将永久退出他作为欧洲宇航员的角色",
+      "start": 168.1,
+      "end": 170.533
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "British astronaut Tim Peake is stepping down permanently from his role as a European astronaut.",
+      "translation": "英国宇航员Tim Peake将永久卸任欧洲宇航员职位。",
+      "start": 170.533,
+      "end": 176.82,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "He's going to take up a full-time position as ambassador for science and space instead—work he's been doing since 2019.",
+      "translation": "他将转而担任科学与太空大使的全职职务——这是他自2019年以来一直从事的工作。",
+      "start": 177.88,
+      "end": 186.62,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The former British Army Air Corps helicopter pilot was selected as a European Space Agency astronaut in 2009.",
+      "translation": "这位前英国陆军航空兵直升机飞行员于2009年被选为欧洲航天局宇航员。",
+      "start": 187.56,
+      "end": 195.99,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "He flew to the space station for a 6-month tour in 2015.",
+      "translation": "2015年,他飞往空间站执行为期6个月的任务。",
+      "start": 196.85,
+      "end": 201.41,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The tour saw him control a robot on earth remotely from orbit.",
+      "translation": "在此次任务中,他从轨道上远程控制了地球上的机器人,还协助完成了两艘航天器的对接。",
+      "start": 202.23,
+      "end": 206.85,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "He also helped dock two spacecraft.",
+      "translation": "Tim说:\"担任宇航员是最非凡的经历。",
+      "start": 207.91,
+      "end": 209.95,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Tim said, \"Being an astronaut has been the most extraordinary experience.",
+      "translation": "在过去13年里,我有幸与该机构一支杰出的团队共事。",
+      "start": 211.15,
+      "end": 215.37,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I've had the privilege of working with an exceptional team of individuals during the past 13 years with the agency.",
+      "translation": "这段经历令人无比兴奋且收获颇丰。",
+      "start": 216.14,
+      "end": 223.04,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It has been incredibly exciting and rewarding.",
+      "translation": "通过担任载人航天大使一职,我将继续支持欧洲和英国航天局。",
+      "start": 223.98,
+      "end": 226.7,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "By assuming the role of an ambassador for human flights to space, I'll continue to support the European and the UK space agencies.\"",
+      "translation": "\"",
+      "start": 227.56,
+      "end": 236.34,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What do we learn from the news report about Tim Peake?",
+      "translation": "我们从关于蒂姆皮克的新闻报导中了解到什么?",
+      "start": 244.25,
+      "end": 247.81
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 4.",
+      "translation": "问题4",
+      "start": 262.68,
+      "end": 263.52
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does Tim Peake say about his work with the European Space Agency?",
+      "translation": "蒂姆·皮克对他在欧洲航天局的工作怎么说?",
+      "start": 264.18,
+      "end": 268.86
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "News Report 3.",
+      "translation": "《新闻报告3》。",
+      "start": 284.01,
+      "end": 285.19
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "An Asda store in Wales is now home to five cats after they wandered in and made themselves comfortable.",
+      "translation": "威尔士的一家阿斯达商店现在住着五只猫,",
+      "start": 286.32,
+      "end": 293.66
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The supermarket is known for its loyal customers, but now has a different kind of visitor that has appeared over the last year.",
+      "translation": "超市以其忠诚的顾客闻名,",
+      "start": 294.76,
+      "end": 302.63
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Regular shoppers at the supermarket are familiar with the sight of several cats settling down in the shop aisles.",
+      "translation": "超市的常客很熟悉 几只猫在商店过道上安顿下来",
+      "start": 303.5,
+      "end": 311.18
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The unusual situation started about 12 months ago, when one cat routinely started visiting the store.",
+      "translation": "12个月前开始出现异常情况,当时有一只猫开始经常到商店看望。",
+      "start": 311.89,
+      "end": 319.31
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Local newspapers reported that puzzled customers posted on Facebook groups to try to find out if the cat was lost.",
+      "translation": "当地报纸报导, Facebook团体上张贴令人困惑的顾客,",
+      "start": 320.28,
+      "end": 328.3
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But its owner assured the concerned customers it was very much loved and fed at home.",
+      "translation": "但它的主人向有关客户保证,它在家里非常受人爱戴和喂养。",
+      "start": 329.37,
+      "end": 334.75
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It just enjoyed visiting the shop.",
+      "translation": "只是喜欢参观商店而已",
+      "start": 335.63,
+      "end": 337.57
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Staff did their best to discourage the pet from hanging around.",
+      "translation": "工作人员尽力阻止宠物到处游荡。",
+      "start": 338.72,
+      "end": 342.52
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But instead of leaving and never coming back, it invited its friends round.",
+      "translation": "但与其离开,再也不会回来,不如邀请朋友来转转。",
+      "start": 343.16,
+      "end": 348.62
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "There are now at least five different cats who come almost on a daily basis.",
+      "translation": "现在至少有五只不同的猫 几乎每天都来",
+      "start": 348.62,
+      "end": 353.82
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They visit the store so much that staff have been forced to put up signs, asking their customers not to feed them.",
+      "translation": "员工被迫贴上标志, 要求顾客不要喂养这些标志。",
+      "start": 354.7,
+      "end": 362.86
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 7.",
+      "translation": "问题7",
+      "start": 413.19,
+      "end": 414.07
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What are customers asked not to do?",
+      "translation": "顾客被要求不做什么?",
+      "start": 414.49,
+      "end": 417.17
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Section B.",
+      "translation": "B节。",
+      "start": 432.07,
+      "end": 432.75
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Directions.",
+      "translation": "方向",
+      "start": 433.39,
+      "end": 433.77
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In this section, you will hear two long conversations.",
+      "translation": "在本节中,你们将听到两次长长的谈话。",
+      "start": 434.95,
+      "end": 438.19
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "At the end of each conversation,",
+      "translation": "每次谈话结束时",
+      "start": 439.09,
+      "end": 440.67
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "you will hear four questions.",
+      "translation": "你会听到四个问题。",
+      "start": 441.47,
+      "end": 442.75
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Both the conversation and the questions will be spoken only once.",
+      "translation": "谈话和问题只谈一次",
+      "start": 443.51,
+      "end": 447.35
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "After you hear a question, you must choose the best answer from the four choices marked A, B, C and D.",
+      "translation": "在听到一个问题后,你必须从四个选择中选择最好的答案,这四个选择分别是A、B、C和D。",
+      "start": 448.19,
+      "end": 455.49
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Mark the corresponding letter on answer sheet one with a single line through the center.",
+      "translation": "在答题单单行中标出相应的字母。",
+      "start": 456.77,
+      "end": 462.27
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Conversation one.",
+      "translation": "交谈之一。",
+      "start": 463.62,
+      "end": 464.68
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I've been thinking about moving off campus next semester.",
+      "translation": "我一直在考虑下学期搬出学校住。",
+      "start": 465.39,
+      "end": 469.09,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Hmm… I don't know if that's a good idea as your mother and I would worry about you living all by yourself in an apartment so far from home.",
+      "translation": "嗯……我不知道这是不是个好主意，你妈妈和我会担心你一个人住在离家这么远的公寓里。",
+      "start": 469.49,
+      "end": 478.35,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And then there's the expense, too.",
+      "translation": "还有费用问题。",
+      "start": 479.03,
+      "end": 480.53,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'm not sure we can afford it.",
+      "translation": "我不确定我们负担得起。",
+      "start": 481.07,
+      "end": 482.57,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Well, I wouldn't be alone, actually.",
+      "translation": "其实我不会一个人住。",
+      "start": 483.13,
+      "end": 485.49,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Three of my friends from the dormitory would share the place with me.",
+      "translation": "宿舍里的三个朋友会和我一起合租。",
+      "start": 485.98,
+      "end": 489.56,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And with four of us, it wouldn't cost any more than living in the dorm.",
+      "translation": "我们四个人的话，花费不会比住宿舍多。",
+      "start": 490.22,
+      "end": 494.18,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Are you sure about that?",
+      "translation": "你确定吗?",
+      "start": 495.04,
+      "end": 496.16
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Rents in big cities are high, and then there's the cost of electricity and gas.",
+      "translation": "大城市的租金很高, 然后是电费和煤气费。",
+      "start": 496.72,
+      "end": 500.78
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Have you factored those in?",
+      "translation": "你考虑过那些吗?",
+      "start": 501.36,
+      "end": 502.56
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We've budgeted for those, and for Internet and transportation.",
+      "translation": "我们已经把这些都做了预算，还有网费和交通费。",
+      "start": 503.06,
+      "end": 506.92,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And if we move far enough from the city center, the rent is low enough for us to afford all of it.",
+      "translation": "如果我们搬得离市中心远一点，房租就足够低,我们能负担得起所有这些。",
+      "start": 508.14,
+      "end": 514.62,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What's about the commute to and from campus?",
+      "translation": "往返校园的往返交通怎么样?",
+      "start": 515.07,
+      "end": 517.17
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It sounds like you'll be wasting several hours every day on the road instead of studying.",
+      "translation": "听起来你每天都在路上浪费几个小时 而不是学习",
+      "start": 518.03,
+      "end": 522.51
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's about an hour to campus, but there's no reason I can't study on the bus.",
+      "translation": "到学校大约一小时，但我完全可以在公交车上学习。",
+      "start": 523.11,
+      "end": 527.81,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "After all, I did that during high school and my commute was even longer then.",
+      "translation": "毕竟我高中时就是这么做的，那时候通勤时间还更长呢。",
+      "start": 528.37,
+      "end": 533.73,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That's true.",
+      "translation": "这倒是真的。",
+      "start": 533.73,
+      "end": 534.43,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But I'm not sure why you want to leave campus and go through all that trouble when the cost is the same.",
+      "translation": "但我不明白既然费用一样，你为什么要离开学校，费这么大劲儿。",
+      "start": 535.09,
+      "end": 540.37,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "For a lot of reasons.",
+      "translation": "原因有很多。",
+      "start": 540.85,
+      "end": 541.99,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We'd have a kitchen, so we could cook ourselves.",
+      "translation": "我们会有厨房，可以自己做饭。",
+      "start": 542.65,
+      "end": 545.23,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And we'd each have our own bedroom, where we could study instead of going to the library.",
+      "translation": "而且我们每个人都有自己的卧室，可以在那里学习，不用去图书馆。",
+      "start": 546.27,
+      "end": 551.31,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We just have more space and privacy.",
+      "translation": "我们就是有更多空间和隐私。",
+      "start": 551.31,
+      "end": 554.65,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'm not convinced that the benefits are greater than the disadvantages, but I'll discuss this with your mother.",
+      "translation": "我还不确定好处是否大于坏处，但我会和你妈妈商量一下。",
+      "start": 555.73,
+      "end": 561.43,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions 8 to 11 are based on the conversation you have just heard.",
+      "translation": "问题8至11 是基于你刚才听到的谈话",
+      "start": 562.68,
+      "end": 566.98
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "8.",
+      "translation": "8. 预 算",
+      "start": 568.27,
+      "end": 568.65
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What has the woman been thinking of doing next semester?",
+      "translation": "她下学期想做什么?",
+      "start": 569.35,
+      "end": 572.99
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 9.",
+      "translation": "问题9",
+      "start": 587.6,
+      "end": 588.6
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the man suggest the woman take into consideration?",
+      "translation": "男人建议女人考虑什么?",
+      "start": 589.1,
+      "end": 592.7
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 10.",
+      "translation": "问题10。",
+      "start": 607.63,
+      "end": 608.45
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the woman say she did during high school?",
+      "translation": "那个女人说她在高中时做了什么?",
+      "start": 608.95,
+      "end": 612.21
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 11.",
+      "translation": "问题11。",
+      "start": 626.75,
+      "end": 627.61
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the man say he'll do at the end of the conversation?",
+      "translation": "谈话结束时他会怎么说?",
+      "start": 628.25,
+      "end": 631.81
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Conversation 2.",
+      "translation": "对话2。",
+      "start": 646.22,
+      "end": 647.78
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Good morning.",
+      "translation": "早上好。",
+      "start": 648.34,
+      "end": 649.1,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'm looking for a present for my nephew, Lawrence.",
+      "translation": "我想给我侄子Lawrence买个礼物。",
+      "start": 649.38,
+      "end": 652.1,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Hi.",
+      "translation": "您好。",
+      "start": 652.84,
+      "end": 653.2,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Do you have anything in mind?",
+      "translation": "您有什么想法吗?",
+      "start": 653.78,
+      "end": 655.14,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'm not sure.",
+      "translation": "我不太确定。",
+      "start": 655.66,
+      "end": 656.8,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "No.",
+      "translation": "没有。",
+      "start": 657.2,
+      "end": 657.44,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Do you know what boys aged around ten typically like?",
+      "translation": "您知道十岁左右的男孩一般喜欢什么吗?",
+      "start": 658.02,
+      "end": 661.82,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "For that age group, our biggest seller this year has been this action figure.",
+      "translation": "对于这个年龄段,我们今年卖得最好的是这个动作人偶。",
+      "start": 662.44,
+      "end": 667.4,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's called Bobo Man, and it's incredibly popular.",
+      "translation": "它叫Bobo Man,非常受欢迎。",
+      "start": 667.86,
+      "end": 670.92,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Does it do anything?",
+      "translation": "它能做什么吗?",
+      "start": 671.34,
+      "end": 672.24,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Not by itself.",
+      "translation": "它本身不会动。",
+      "start": 673.02,
+      "end": 673.68,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It has no batteries, if that's what you mean.",
+      "translation": "如果您是问它有没有电池的话,是没有的。",
+      "start": 674.68,
+      "end": 676.92,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "There's a Bobo Man cartoon popular amongst young children, you see.",
+      "translation": "您看,有一部叫Bobo Man的动画片在小孩子中很受欢迎。",
+      "start": 677.56,
+      "end": 681.12,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And this toy is the lead character from the show.",
+      "translation": "这个玩具就是剧中的主角。",
+      "start": 681.12,
+      "end": 684.14,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Oh, I understand now.",
+      "translation": "我现在明白了",
+      "start": 684.54,
+      "end": 686.42
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I've never heard of it, but I do know little Lawrence loves cartoons.",
+      "translation": "我从没听说过 但我知道小劳伦斯喜欢漫画",
+      "start": 686.81,
+      "end": 691.19
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Do you have any other popular toys?",
+      "translation": "你有其他流行玩具吗?",
+      "start": 692.41,
+      "end": 694.41
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Perhaps something educational.",
+      "translation": "或许是教育性的",
+      "start": 694.99,
+      "end": 696.27
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Yes, of course.",
+      "translation": "有的,当然有。",
+      "start": 697.07,
+      "end": 697.89,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Right over here, we have dozens of puzzles for children of all ages.",
+      "translation": "就在这边,我们有几十种适合各个年龄段儿童的拼图。",
+      "start": 698.59,
+      "end": 702.23,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They are fun, great for exercising the mind and can be played either alone or in groups.",
+      "translation": "它们很有趣,非常适合锻炼思维,而且可以单独玩也可以多人一起玩。",
+      "start": 703.01,
+      "end": 708.53,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I like this sort of idea.",
+      "translation": "我喜欢这种想法。",
+      "start": 709.41,
+      "end": 710.69,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Lawrence has a sister who is slightly older, so maybe a game that they can play together would be good.",
+      "translation": "Lawrence有个姐姐年龄稍大一点,所以也许买个他们可以一起玩的游戏会不错。",
+      "start": 711.35,
+      "end": 717.31,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What do you think of Battleships, then?",
+      "translation": "你觉得战舰怎么样?",
+      "start": 717.99,
+      "end": 720.27
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's a total classic.",
+      "translation": "这是经典经典",
+      "start": 720.81,
+      "end": 721.73
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It has been around since the 1930s.",
+      "translation": "从1930年代开始,它就一直存在。",
+      "start": 722.41,
+      "end": 724.95
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Oh, yeah.",
+      "translation": "哦,对。",
+      "start": 725.29,
+      "end": 725.75,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We had one of those when growing up.",
+      "translation": "我们小时候就有一套。",
+      "start": 726.03,
+      "end": 727.75,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Of course you did.",
+      "translation": "当然了。",
+      "start": 728.39,
+      "end": 729.25,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Everyone did.",
+      "translation": "每个人都有。",
+      "start": 729.81,
+      "end": 730.53,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And kids enjoy it just as much today as you and I did when we were young.",
+      "translation": "而且孩子们现在玩它和我们小时候一样喜欢。",
+      "start": 731.11,
+      "end": 735.23,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Some games just never get old.",
+      "translation": "有些游戏就是永远不会过时。",
+      "start": 735.87,
+      "end": 737.59,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I suppose you are right.",
+      "translation": "我想您说得对。",
+      "start": 738.21,
+      "end": 739.39,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I have fond memories playing Battleships when it was raining outside and we had to stay indoors.",
+      "translation": "我对在外面下雨不得不待在室内时玩海战棋有着美好的回忆。",
+      "start": 739.83,
+      "end": 745.27,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That's decided then.",
+      "translation": "那就这么定了。",
+      "start": 746.5,
+      "end": 747.42,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "How much?",
+      "translation": "多少钱?",
+      "start": 747.94,
+      "end": 748.2,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "19 pounds and 90 pence, please.",
+      "translation": "19英镑90便士。",
+      "start": 748.98,
+      "end": 751.34,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "There you are.",
+      "translation": "给您。",
+      "start": 751.92,
+      "end": 752.58,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Have a nice day.",
+      "translation": "祝您愉快。",
+      "start": 752.94,
+      "end": 753.58,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Thank you.",
+      "translation": "谢谢。",
+      "start": 754.1,
+      "end": 754.42,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You too.",
+      "translation": "您也是。",
+      "start": 754.96,
+      "end": 755.24,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions 12 to 15 are based on the conversation you have just heard.",
+      "translation": "问题12到15 是基于你刚才听到的谈话",
+      "start": 756.41,
+      "end": 760.99
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 12.",
+      "translation": "问题12。",
+      "start": 761.91,
+      "end": 762.59
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What is the woman doing?",
+      "translation": "那个女人在干什么?",
+      "start": 763.27,
+      "end": 764.27
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 13.",
+      "translation": "问题13。",
+      "start": 779.06,
+      "end": 779.92
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "How does the man describe Bobo Man?",
+      "translation": "这个人怎么形容波波人?",
+      "start": 780.72,
+      "end": 783.18
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The action figure.",
+      "translation": "动作图。",
+      "start": 783.64,
+      "end": 784.32
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 14.",
+      "translation": "问题14。",
+      "start": 799.17,
+      "end": 799.99
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What kind of game does the woman think would be good for Lawrence?",
+      "translation": "那个女人认为什么样的游戏对劳伦斯有好处?",
+      "start": 800.63,
+      "end": 804.45
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 15 What do we learn from the conversation about the game battleships?",
+      "translation": "问题15 我们从关于比赛战舰的谈话中 学到了什么?",
+      "start": 819.19,
+      "end": 824.77
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Section C Directions In this section you will hear three passages.",
+      "translation": "C节方向 在本节 你会听到三个段落。",
+      "start": 839.45,
+      "end": 844.89
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "At the end of each passage you will hear three or four questions.",
+      "translation": "在每一段的结尾 你会听到三个或四个问题",
+      "start": 845.49,
+      "end": 849.83
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Both the passage and the questions will be spoken only once.",
+      "translation": "发言的通过和提问将只讲一次。",
+      "start": 850.63,
+      "end": 854.55
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "After you hear a question",
+      "translation": "在听到一个问题后",
+      "start": 855.75,
+      "end": 856.93
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You must choose the best answer from the four choices, marked A, B, C, and D.",
+      "translation": "您必须从四个选择中选择最好的答案, 标记为 A、 B、 C 和 D 。",
+      "start": 857.37,
+      "end": 863.81
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "mark the corresponding letter on answer sheet one with a single line through the center.",
+      "translation": "在答题单单行的答题表一中标出相应的字母。",
+      "start": 864.71,
+      "end": 869.91
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We assume that if we offer our customers more choices, then they'll be more likely to buy our products.",
+      "translation": "我们假设如果给顾客提供更多选择，他们就更有可能购买我们的产品。",
+      "start": 873.033,
+      "end": 880.631,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But here's the paradox of choice: if a person is presented with too many choices, they are actually less likely to buy.",
+      "translation": "但这里存在选择悖论：如果一个人面对太多选择，他们实际上购买的可能性反而更低。",
+      "start": 880.631,
+      "end": 888.57,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In 2012, psychologists published a study about jams.",
+      "translation": "2012年，心理学家发表了一项关于果酱的研究。",
+      "start": 889.61,
+      "end": 893.35,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "On a regular day at a local food market, people would find a display table with 24 different kinds of jams.",
+      "translation": "在当地食品市场的普通日子里，人们会看到一张陈列桌上摆放着24种不同的果酱。",
+      "start": 894.35,
+      "end": 901.81,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Then on another day, at that same food market, people were given only 6 different types of jam choices.",
+      "translation": "然后在另一天，在同一个食品市场，人们只被提供6种不同类型的果酱选择。",
+      "start": 902.83,
+      "end": 909.87,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Guess which display table led to more sales?",
+      "translation": "猜猜哪张陈列桌带来了更多销售？",
+      "start": 910.77,
+      "end": 913.65,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The study found that while the bigger display table created more interest, people were almost 10 times less likely to purchase a jar of jam than in the case of the smaller display.",
+      "translation": "研究发现，虽然更大的陈列桌引起了更多兴趣，但与较小陈列桌的情况相比，人们购买一罐果酱的可能性几乎低了10倍。",
+      "start": 914.65,
+      "end": 926.04,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Customer satisfaction takes a hit as well.",
+      "translation": "顾客满意度也受到了影响。",
+      "start": 926.9,
+      "end": 929.34,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In the study, the bigger display of jams leads to lower customer satisfaction than the smaller display.",
+      "translation": "在该研究中，更大的果酱陈列带来的顾客满意度低于较小的陈列。",
+      "start": 930.06,
+      "end": 936.4,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In an extensive study published in 2015, researchers analyzed a total of 99 choice studies and specifically looked at those cases in which reducing choices helped to boost sales.",
+      "translation": "在2015年发表的一项广泛研究中，研究人员分析了总共99项选择研究，并专门关注那些减少选择有助于促进销售的案例。",
+      "start": 937.28,
+      "end": 950.97,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They found four rules that motivate consumers to buy: when people want to make a quick and easy choice, when the product is complex, when it's difficult to compare alternatives, and when consumers don't have clear preferences.",
+      "translation": "他们发现了四条激励消费者购买的规则：当人们想要做出快速简单的选择时，当产品复杂时，当难以比较替代品时，以及当消费者没有明确偏好时。",
+      "start": 952.08,
+      "end": 967.14,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So as you can see, when it comes to choices, less is more.",
+      "translation": "所以你可以看到，在选择方面，少即是多。",
+      "start": 968.18,
+      "end": 972.46,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions 16 to 18 are based on the passage you have just heard.",
+      "translation": "问题16至18是根据你刚才听到的段落提出的。",
+      "start": 973.33,
+      "end": 978.03
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "16.",
+      "translation": "16岁。",
+      "start": 979.14,
+      "end": 979.84
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What do we learn from the passage about the paradox of choice?",
+      "translation": "我们从关于选择悖论的段落中学到什么?",
+      "start": 980.8,
+      "end": 984.06
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 17.",
+      "translation": "问题17。",
+      "start": 998.78,
+      "end": 999.72
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What did the psychologist want to find out in their 2012 study about JMs?",
+      "translation": "心理学家在2012年关于JMs的研究中想了解什么?",
+      "start": 1000.5,
+      "end": 1005.78
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 18.",
+      "translation": "问题18。",
+      "start": 1020.58,
+      "end": 1021.26
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What is the finding of an extensive study published in 2015?",
+      "translation": "2015年发表的一份广泛研究报告的调查结果是什么?",
+      "start": 1022.0,
+      "end": 1026.4
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The new year has come and gone, and many may have already forgotten what they had resolved to do on January 1st.",
+      "translation": "新年已经来了又过去了,许多人可能已经忘记了他们在1月1日下定的决心。",
+      "start": 1042.95,
+      "end": 1050.63,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But if that resolution was to volunteer more, now is the best time to start.",
+      "translation": "但如果那个决心是多做志愿服务,现在正是开始的最佳时机。",
+      "start": 1051.29,
+      "end": 1056.29,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Volunteering can drop after the holiday season, and by February, some organizations lack the volunteers they had in surplus just a month ago.",
+      "translation": "志愿服务在假期季节后会减少,到2月份,一些组织缺少他们在一个月前还富余的志愿者。",
+      "start": 1057.46,
+      "end": 1067.52,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "According to one survey, only 26% of Americans volunteered, despite reports that many Americans view volunteering as worthwhile.",
+      "translation": "根据一项调查,尽管有报告显示许多美国人认为志愿服务是有价值的,但只有26%的美国人参与了志愿服务。",
+      "start": 1068.34,
+      "end": 1077.68,
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Why such a disconnect?",
+      "translation": "为什么断开这种联系?",
+      "start": 1078.6,
+      "end": 1079.78
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Most people cite time and conflicting work schedules as major barriers, but employees and employers would actually benefit if companies made employee volunteering part of the job.",
+      "translation": "多数人认为时间和工作时间表冲突是主要障碍,但是如果公司让雇员志愿工作,雇员和雇主实际上会受益。",
+      "start": 1080.88,
+      "end": 1092.86
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Researchers have found donating our time and talent to others can lower blood pressure, boost happiness and improve mental and physical health.",
+      "translation": "研究人员发现,将我们的时间和才能捐给他人,可以降低血压,促进幸福,改善身心健康。",
+      "start": 1093.64,
+      "end": 1102.64
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Studies have also linked employee volunteer programs with more productive employees.",
+      "translation": "研究还把雇员志愿方案与生产力更高的雇员联系起来。",
+      "start": 1103.34,
+      "end": 1109.0
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "With so much emphasis on employee wellness these days, company volunteer programs could be the perfect 2025 resolution.",
+      "translation": "由于这些天都非常强调雇员的健康,公司志愿者方案可以成为2025年的完美解决方案。",
+      "start": 1109.88,
+      "end": 1118.56
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But for volunteering to benefit employees and the workplace, the entire organization needs to be involved.",
+      "translation": "但是,为了志愿工作使雇员和工作场所受益,整个组织需要参与。",
+      "start": 1119.6,
+      "end": 1126.5
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "By allowing employees to donate their time during work hours, the workplace becomes an outlet for personal fulfillment without affecting personal time.",
+      "translation": "工作场所允许雇员在工作时间期间捐献时间,从而成为个人实现的出入口,而不影响个人的时间。",
+      "start": 1127.25,
+      "end": 1137.51
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In one survey, 89% of employees perceived companies that sponsored volunteer activities as creating a better working environment, and 75% said volunteering was critical to their well-being.",
+      "translation": "在一次调查中,89%的雇员认为赞助志愿活动的公司创造了更好的工作环境,75%的雇员认为志愿工作对其福祉至关重要。",
+      "start": 1138.27,
+      "end": 1207.666
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The vast majority of the UK's 200,000 tons of retail sector's annual food waste comes from supermarkets,",
+      "translation": "联合王国每年20万吨零售部门食品废物的绝大部分来自超市,",
+      "start": 1223.88,
+      "end": 1231.72
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But it's a problem that impacts independent luxury food suppliers too.",
+      "translation": "但这个问题也影响到了独立的奢侈食品供应商。",
+      "start": 1232.38,
+      "end": 1237.3
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The scale is small.",
+      "translation": "规模很小。",
+      "start": 1238.16,
+      "end": 1239.18
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's estimated at less than one per cent of the UK's food waste total.",
+      "translation": "估计不到英国食物浪费总量的百分之一",
+      "start": 1240.1,
+      "end": 1245.0
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But the quality from these suppliers is high.",
+      "translation": "但这些供应商的质量很高。",
+      "start": 1245.7,
+      "end": 1248.8
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Everything from specialist cheeses to sought-after coffee beans gets thrown away every day in the current food system.",
+      "translation": "日常食物系统每天都会丢弃所有东西,",
+      "start": 1250.04,
+      "end": 1257.52
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This is where French entrepreneur Sophie André comes in.",
+      "translation": "法国企业家苏菲·安德列就是在这里进来的",
+      "start": 1258.59,
+      "end": 1262.49
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In 2016 she moved to London and began by setting up a business delivering luxury hand-made food across the city.",
+      "translation": "2016年,她搬到伦敦,开始在全市建立企业,提供奢侈的手工食品。",
+      "start": 1263.09,
+      "end": 1271.67
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "\"Food delivery seems to be a big thing here,\" she says.",
+      "translation": "她说,“食品运送似乎是一个大问题,”",
+      "start": 1272.47,
+      "end": 1275.81
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "\"So I started delivering products by bicycle.",
+      "translation": "于是我开始用自行车运送产品。",
+      "start": 1276.55,
+      "end": 1279.39
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Talking with local producers I learned that a small part of the production is sometimes wasted due to problems with size or shape, but the quality of the products remains unchanged.\" Unlike many food waste projects that have sprung up in recent years, the idea is not simply to redistribute waste food, but to provide a high-quality product.",
+      "translation": "与当地生产商交谈时我了解到,由于大小或形状问题,生产量的一小部分有时被浪费,但产品的质量没有变化。 与近年来出现的许多食品浪费项目不同,我们的想法不仅仅是重新分配废弃食品,而是提供高质量的产品。",
+      "start": 1280.09,
+      "end": 1302.68
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "André's company Elysia offers breakfasts and snacks specifically aimed at business meetings and events.",
+      "translation": "André的公司Elysia提供早餐和零食,专门用于商业会议和活动。",
+      "start": 1302.68,
+      "end": 1310.42
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Once sourced, Elysia uses waste products to create \"simple, natural, straightforward\" meals and snacks.",
+      "translation": "Elysia利用废品创造“简单、自然、直截了当”的饭食和零食。",
+      "start": 1310.42,
+      "end": 1318.37
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Perhaps unlike other waste food, the supply is regular.",
+      "translation": "与其他废弃食品不同,供应正常。",
+      "start": 1319.47,
+      "end": 1322.47
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Suppliers will always have a certain amount of surplus.",
+      "translation": "供应商总是有一定数量的盈余。",
+      "start": 1323.41,
+      "end": 1326.09
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So the menus remain regular too.",
+      "translation": "所以菜单也是正常的",
+      "start": 1327.21,
+      "end": 1329.33
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "André believes this benefits both her business and her customers.",
+      "translation": "André认为这对她的生意和顾客都有好处。",
+      "start": 1329.33,
+      "end": 1333.55
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What do we learn about the UK's retail sector food waste?",
+      "translation": "英国零售部门食品浪费情况如何?",
+      "start": 1341.98,
+      "end": 1345.92
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 23 What does Sophie Andres business do in London?",
+      "translation": "问题23 Sophie Andres在伦敦做生意做什么?",
+      "start": 1360.74,
+      "end": 1366.2
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 24 In what way does Sophie Andres business differ from many food waste projects?",
+      "translation": "问题24:Sophie Andres企业与许多食品废物项目有何不同?",
+      "start": 1380.82,
+      "end": 1388.2
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 25 Why will suppliers always have a certain amount of surplus?",
+      "translation": "问题25:为什么供应商总是有一定数量的剩余?",
+      "start": 1402.96,
+      "end": 1408.08
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That's the end of listening comprehension",
+      "translation": "听觉理解到此结束",
+      "start": 1422.71,
+      "end": 1424.71
+    }
+  ],
+  "translation_sources": [
+    "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/",
+    "Sams200/opus-mt-en-zh (unmatched sentences only)"
+  ]
+}

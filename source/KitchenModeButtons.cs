@@ -1,0 +1,4 @@
+using System;using System.Drawing;using System.Windows.Forms;
+public partial class Game {
+ void AddKitchenModeButtons(KitchenRoomView view){var row=new Panel{Height=42,BackColor=Color.FromArgb(25,53,55)};view.Controls.Add(row);var choices=new VNButton[3];for(int i=0;i<choices.Length;i++){int at=i;choices[i]=PartyButton(KitchenVocabulary.Modes[i],()=>{KitchenState().wordMode=KitchenVocabulary.Modes[at];foreach(var button in choices)button.Active=button.Text==KitchenState().wordMode;Persist();view.Invalidate();},150,38);choices[i].Active=choices[i].Text==KitchenState().wordMode;row.Controls.Add(choices[i]);}Action layout=()=>{row.Bounds=new Rectangle(20,65,Math.Min(560,Math.Max(1,view.Width-40)),42);int width=(row.Width-12)/3;for(int i=0;i<choices.Length;i++)choices[i].Bounds=new Rectangle(i*(width+6),2,width,38);};view.Resize+=(s,e)=>layout();layout();row.BringToFront();}
+}

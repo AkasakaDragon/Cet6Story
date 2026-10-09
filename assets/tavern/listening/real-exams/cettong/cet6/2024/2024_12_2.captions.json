@@ -1,0 +1,1871 @@
+{
+  "id": "cet6-2024_12_2",
+  "title": "2024年12月 第2套",
+  "level": 6,
+  "source_url": "https://www.cettong.cn/library/cet6/2024_12_2",
+  "material_source": "https://117.72.200.49/#/library",
+  "audio": "assets/tavern/listening/real-exams/cettong/cet6/2024/2024_12_2.mp3",
+  "caption_kind": "published_material_with_auxiliary_timing_and_translation",
+  "caption_models": [
+    "Systran/faster-whisper-base.en",
+    "Sams200/opus-mt-en-zh"
+  ],
+  "lines": [
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Hi Alan, sorry for not calling you back sooner.",
+      "translation": "嗨艾伦,对不起 没有给你回电话早。",
+      "start": 37.24,
+      "end": 38.34
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Sorry for not calling you back sooner.",
+      "translation": "抱歉没能早点给你回电话。",
+      "start": 38.34,
+      "end": 40.02,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You said on the phone you had something you needed to discuss with me?",
+      "translation": "你在电话里说有件事想和我讨论？",
+      "start": 40.82,
+      "end": 43.76,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Well, to get right down to it, I'm having second thoughts about my major.",
+      "translation": "好吧，直说了吧，我开始重新考虑自己的专业了。",
+      "start": 44.38,
+      "end": 49.2,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "With my family situation getting more complicated and the end of my university education nearing, persisting with Art History just doesn't seem the right choice.",
+      "translation": "随着家里的情况变得越来越复杂，而我也即将结束大学学业，坚持学艺术史似乎已经不是正确的选择了。",
+      "start": 50.0,
+      "end": 60.1,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Alan, in the last 3 years, I have heard nothing but how passionate you are about the Art History programme.",
+      "translation": "艾伦，过去三年里，我听到的全都是你对艺术史专业有多么热情。",
+      "start": 61.09,
+      "end": 68.53,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You often told fellow classmates how fabulous the instructors were and that you finally felt accepted.",
+      "translation": "你经常告诉同学们这里的老师有多么出色，还说自己终于有了归属感。",
+      "start": 68.53,
+      "end": 74.09,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What would cause you to abandon it?",
+      "translation": "究竟是什么让你想放弃它？",
+      "start": 75.13,
+      "end": 76.81,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "My father's current financial situation has helped me realize that a more financially viable employment opportunity is not necessarily a bad thing.",
+      "translation": "我父亲目前的经济状况让我意识到，选择一个经济上更可行的就业机会未必是件坏事。",
+      "start": 77.75,
+      "end": 87.29,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Art History nourishes my soul, but does nothing to put food on my plate.",
+      "translation": "艺术史滋养了我的心灵，却无法解决我的温饱问题。",
+      "start": 87.95,
+      "end": 94.43,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What about all the work opportunities I discussed with you last month?",
+      "translation": "那我上个月和你谈过的那些工作机会呢？",
+      "start": 95.29,
+      "end": 98.93,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Have you gone to those places of business to investigate whether any legitimate positions might be available for someone with your background?",
+      "translation": "你有没有去那些公司了解一下，看看是否有适合你这种背景的人担任的正规职位？",
+      "start": 99.63,
+      "end": 106.51,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Ah, well…",
+      "translation": "啊，这个嘛……",
+      "start": 106.51,
+      "end": 109.42,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Look, Alan, if your heart is set on working in the art industry, you need to be more assertive and start talking with people.",
+      "translation": "听我说，艾伦，如果你一心想在艺术行业工作，就得更加主动，开始和人交流。",
+      "start": 109.42,
+      "end": 116.16,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Networking is key if you want to become a celebrity in the world of museums and galleries.",
+      "translation": "如果你想成为博物馆和画廊界的名人，人脉是关键。",
+      "start": 117.05,
+      "end": 122.15,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Time is a very precious commodity right now.",
+      "translation": "现在时间非常宝贵。",
+      "start": 123.29,
+      "end": 126.13,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "My social life does not exist.",
+      "translation": "我的社交生活根本不存在。",
+      "start": 126.63,
+      "end": 128.65,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I can barely keep up with my studies and thesis is due by the end of this year.",
+      "translation": "我连学业都勉强应付得来，而论文要在今年年底前提交。",
+      "start": 129.11,
+      "end": 134.07,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "When can I find time to research jobs when I have so much to do as it is?",
+      "translation": "我已经有这么多事情要做，哪儿还有时间去研究工作呢？",
+      "start": 135.11,
+      "end": 140.47,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What you do now will determine your future options.",
+      "translation": "你现在所做的一切将决定你未来的选择。",
+      "start": 141.05,
+      "end": 143.89,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Now is the optimum time to put forth your best effort.",
+      "translation": "现在正是拿出最大努力的最佳时机。",
+      "start": 144.54,
+      "end": 148.12,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I will take what you said into consideration.",
+      "translation": "我会考虑你说的话。",
+      "start": 149.41,
+      "end": 151.95,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The advice is much appreciated.",
+      "translation": "非常感谢你的建议。",
+      "start": 152.87,
+      "end": 154.49,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions 1-4 are based on the conversation you have just heard.",
+      "translation": "问题1 -4是基于你刚才听到的谈话",
+      "start": 156.0,
+      "end": 159.56
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "1.",
+      "translation": "1. 国家",
+      "start": 160.6,
+      "end": 160.98
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What did the man want to discuss with the woman?",
+      "translation": "那男人想和那女人谈什么?",
+      "start": 161.52,
+      "end": 164.12
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 2.",
+      "translation": "问题2",
+      "start": 177.75,
+      "end": 178.45
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Why does the man want to give up art history?",
+      "translation": "为什么这个人想放弃艺术史?",
+      "start": 178.85,
+      "end": 181.29
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 3.",
+      "translation": "问题3",
+      "start": 195.26,
+      "end": 195.94
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the woman advise the man to do?",
+      "translation": "女人建议男人做什么?",
+      "start": 196.36,
+      "end": 198.76
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question four.",
+      "translation": "问题4。",
+      "start": 212.24,
+      "end": 213.22
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the man say?",
+      "translation": "他说什么?",
+      "start": 213.88,
+      "end": 215.0
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "really lacks right now.",
+      "translation": "现在真的缺乏。",
+      "start": 215.3,
+      "end": 216.74
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Conversation two.",
+      "translation": "对话二",
+      "start": 230.08,
+      "end": 231.22
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Have you decided yet what your end of semester business project will be on?",
+      "translation": "M：你决定好学期末的商业项目要做什么了吗？",
+      "start": 232.38,
+      "end": 236.88,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Yes.",
+      "translation": "W：决定了。",
+      "start": 237.18,
+      "end": 237.5,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "How about you?",
+      "translation": "你呢？",
+      "start": 237.9,
+      "end": 238.54,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Yes.",
+      "translation": "W：决定了。",
+      "start": 239.56,
+      "end": 240.2,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Go on.",
+      "translation": "继续",
+      "start": 240.74,
+      "end": 241.1
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You go first.",
+      "translation": "你先说",
+      "start": 241.56,
+      "end": 242.18
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I am going to do it about beef.",
+      "translation": "W：我打算做牛肉方面的项目。",
+      "start": 242.18,
+      "end": 244.42,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Beef?",
+      "translation": "M：牛肉？",
+      "start": 245.34,
+      "end": 245.6,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Yeah, beef.",
+      "translation": "W：对，牛肉。",
+      "start": 246.2,
+      "end": 247.06,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I'm going to design a business case study for a cow farm that supplies beef for the domestic market.",
+      "translation": "我打算为一家向国内市场供应牛肉的养牛场设计一份商业案例研究。",
+      "start": 247.7,
+      "end": 253.74,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Well, that sounds very interesting and original.",
+      "translation": "M：听起来确实很有意思，也很有新意。",
+      "start": 253.74,
+      "end": 256.66,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Wherever did you get that idea?",
+      "translation": "你到底是怎么想到这个点子的？",
+      "start": 256.66,
+      "end": 259.61,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I don't know.",
+      "translation": "我不知道。 我不知道。 我不知道。 我不知道。",
+      "start": 260.05,
+      "end": 260.65
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It just came to me, I guess.",
+      "translation": "我想它刚刚来到我身边",
+      "start": 260.91,
+      "end": 262.23
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But think about it.",
+      "translation": "想想看,你应该好好想想",
+      "start": 263.03,
+      "end": 263.75
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Beef consumption has been rising strongly over the past 20 years.",
+      "translation": "在过去20年中,牛肉消费一直在大幅上升。",
+      "start": 264.69,
+      "end": 268.09
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "As the economy continues to grow, consumer demand is expected to continue to increase for the foreseeable future.",
+      "translation": "随着经济继续增长,预计消费者需求在可预见的未来将继续增长。",
+      "start": 268.81,
+      "end": 275.37
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And currently, most of the beef is imported, which brings with it added fees.",
+      "translation": "目前,大部分牛肉都是进口的, 随之而来的是附加费用。",
+      "start": 276.33,
+      "end": 280.85
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So why not raise cattle here?",
+      "translation": "为什么不在这里养牛呢?",
+      "start": 281.57,
+      "end": 283.31
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Of course.",
+      "translation": "M：当然可以。",
+      "start": 284.23,
+      "end": 284.87,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Makes perfect sense.",
+      "translation": "完全说得通。",
+      "start": 285.73,
+      "end": 286.71,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "There's plenty of land out west.",
+      "translation": "西部有的是土地。",
+      "start": 287.53,
+      "end": 289.07,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So, if done right, it should be very profitable to raise our own cattle.",
+      "translation": "所以，只要经营得当，自己养牛应该会非常赚钱。",
+      "start": 289.93,
+      "end": 294.03,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Exactly.",
+      "translation": "W：没错。",
+      "start": 294.85,
+      "end": 295.37,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Seriously, that sounds like a great idea.",
+      "translation": "M：说真的，这听起来是个很棒的主意。",
+      "start": 296.6,
+      "end": 299.26,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You should genuinely look into it once we get our degrees.",
+      "translation": "等我们拿到学位后，你确实应该好好研究一下。",
+      "start": 299.9,
+      "end": 303.12,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Thanks.",
+      "translation": "W：谢谢。",
+      "start": 303.82,
+      "end": 304.16,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So, your turn now.",
+      "translation": "现在轮到你了。",
+      "start": 304.68,
+      "end": 305.94,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What are you doing your case study on?",
+      "translation": "你的案例研究要做什么？",
+      "start": 306.46,
+      "end": 308.02,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I was thinking about a car wash, but it now seems like such a boring notion after hearing your brilliant idea.",
+      "translation": "M：我原本在考虑洗车店，但听了你这个绝妙的主意后，我的想法现在显得太无聊了。",
+      "start": 308.82,
+      "end": 314.95,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That's cool.",
+      "translation": "W：这想法不错。",
+      "start": 315.41,
+      "end": 315.95,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I could see that working.",
+      "translation": "我觉得能行。",
+      "start": 316.27,
+      "end": 317.21,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "After all, there's plenty of cars about and those aren't going away any time soon.",
+      "translation": "毕竟，车很多，而且短期内也不会减少。",
+      "start": 317.75,
+      "end": 323.03,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "While many people don't care how their car looks, many other people do.",
+      "translation": "虽然很多人不在乎自己的车看起来怎么样，但也有很多人在乎。",
+      "start": 323.55,
+      "end": 327.27,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You got yourself a vast and continual market.",
+      "translation": "这样一来，你就拥有了一个庞大而持续的市场。",
+      "start": 327.93,
+      "end": 330.47,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Right.",
+      "translation": "M：对。",
+      "start": 331.44,
+      "end": 332.04,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So the idea is a large self-cleaning car wash, but I mean really big and well-outfitted like they have in America.",
+      "translation": "所以我的想法是开一家大型自助洗车店，不过要像美国那种真正规模很大、设备齐全的洗车店。",
+      "start": 332.92,
+      "end": 340.46,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I was thinking of having it cater to high-end consumers in large cities.",
+      "translation": "我考虑让它面向大城市里的高端消费者。",
+      "start": 341.02,
+      "end": 345.5,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It could charge a profitable markup by offering just a bit more technical equipment and professional service than competitors.",
+      "translation": "只要比竞争对手多提供一些技术设备和专业服务，就可以收取有利可图的溢价。",
+      "start": 346.32,
+      "end": 352.8,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions 5-8 are based on the conversation you have just heard.",
+      "translation": "问题5 -8是基于你刚才听到的谈话",
+      "start": 354.04,
+      "end": 357.86
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 5.",
+      "translation": "问题5",
+      "start": 358.84,
+      "end": 359.5
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What are the speakers mainly talking about in the conversation?",
+      "translation": "发言者主要在谈话中谈什么?",
+      "start": 360.22,
+      "end": 362.8
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 6.",
+      "translation": "问题6",
+      "start": 376.77,
+      "end": 377.45
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the man say makes perfect sense?",
+      "translation": "男人说什么才说得通?",
+      "start": 378.01,
+      "end": 380.31
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "7.",
+      "translation": "7 个",
+      "start": 394.02,
+      "end": 394.72
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What business does the woman say has a vast and continual market?",
+      "translation": "女人说什么生意有庞大的市场 并且持续?",
+      "start": 395.21,
+      "end": 399.11
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 8 Who would the man's imagined business cater to?",
+      "translation": "问题8 这个男人想象中的生意会迎合谁?",
+      "start": 412.54,
+      "end": 417.43
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Section B, Directions In this section you will hear two passages.",
+      "translation": "B节 指示 在本节 你会听到两段",
+      "start": 430.49,
+      "end": 435.39
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "At the end of each passage you will hear three or four questions.",
+      "translation": "在每一段的结尾 你会听到三个或四个问题",
+      "start": 436.05,
+      "end": 439.49
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Both the passage and the questions will be spoken only once.",
+      "translation": "发言的通过和提问将只讲一次。",
+      "start": 440.13,
+      "end": 443.17
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "you hear a question, you must choose the best answer from the four choices marked A, B,",
+      "translation": "你听到一个问题,你必须选择最好的答案 从四个选择 标注A,B,",
+      "start": 444.03,
+      "end": 449.61
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "C and D, then mark the corresponding letter on answer sheet 1 with a single",
+      "translation": "C和D,然后在回答表1的相应字母上用单字母",
+      "start": 449.91,
+      "end": 454.87
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "line through the",
+      "translation": "线线通过",
+      "start": 455.77,
+      "end": 459.566
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Increased television time for young children has long been linked with poorer progress in some areas of development.",
+      "translation": "长期以来，幼儿看电视时间增加一直与其在某些发展领域进步较差有关。",
+      "start": 459.566,
+      "end": 462.094,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "One possible way to counter those negative effects is talking while watching the screen.",
+      "translation": "抵消这些负面影响的一种可能方式是在观看屏幕时进行交谈。",
+      "start": 462.094,
+      "end": 479.661,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "As a new study suggests, the more parents engaged in conversation with preschoolers during TV time, the more likely those children were to have higher curiosity levels when they reached kindergarten.",
+      "translation": "一项新研究表明，父母在电视时间与学龄前儿童进行的对话越多，这些儿童进入幼儿园时表现出较高好奇心水平的可能性就越大。",
+      "start": 479.661,
+      "end": 485.22,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This was particularly true for children with socioeconomic disadvantages.",
+      "translation": "对于处于社会经济劣势的儿童而言，这一点尤其明显。",
+      "start": 486.4,
+      "end": 491.18,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "\"Our findings reinforce the importance of parent conversation to promote early childhood development and curiosity,\" said lead author Prachi Shah at University of Michigan Health C.S.",
+      "translation": "密歇根大学健康C. S.的Prachi Shah主要作者表示:「我们的调查结果更强调家长对话对于促进幼儿发展和好奇的重要性。",
+      "start": 492.98,
+      "end": 505.36
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Mott Children's Hospital.",
+      "translation": "摩特儿童医院",
+      "start": 505.36,
+      "end": 506.98
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Researchers assessed hours of daily television exposure and frequency of parent-screen-time conversation among 1,500 preschoolers, and then measured early childhood curiosity in kindergarten.",
+      "translation": "研究人员评估了每天电视曝光的小时数和1 500名学龄前儿童进行家长-屏幕对话的频率,然后在幼儿园测量了幼儿好奇心。",
+      "start": 507.95,
+      "end": 521.57
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The study specifically focused on curiosity levels, which are associated with enhanced learning and higher academic achievement in reading and math at kindergarten, and behavioral-developmental benefits, especially for children from families with lower socioeconomic status.",
+      "translation": "这项研究特别侧重于好奇程度,这与提高幼儿园阅读和数学的学习水平和高学历以及行为发展福利有关,特别是对来自社会经济地位较低的家庭的儿童而言。",
+      "start": 522.97,
+      "end": 540.76
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "While many young children are now growing up with digital media exposure through mobile devices like tablets and phones, television remains a dominant screen activity, accounting for 72% of all screen time.",
+      "translation": "虽然许多幼儿现在通过平板电脑和电话等移动设备,通过数字媒体接触数字媒体,成长起来,但电视仍然是主要屏幕活动,占全部屏幕时间的72%。",
+      "start": 542.38,
+      "end": 556.02
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "TVs are in 98% of all homes, keeping television exposure a relevant developmental context in young children.",
+      "translation": "98%的家庭都拥有电视,使电视在幼儿中保持相关的发展环境。",
+      "start": 557.16,
+      "end": 565.1
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Excessive media exposure, including television, can displace exploratory activities such as play and parent-child interactions, which are believed to be key to cultivating curiosity in kids.",
+      "translation": "过度的媒体曝光,包括电视,可以取代游戏和父母与子女互动等探索性活动,据认为,这些活动是培养儿童好奇心的关键。",
+      "start": 566.16,
+      "end": 578.8
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "\"Our findings suggest the importance of parents finding opportunities to foster conversational exchanges in daily routines with their young children—including while watching television,\" Shah said.",
+      "translation": "Shah说:「我们的研究结果表明, 父母必须寻找机会,",
+      "start": 580.38,
+      "end": 592.68
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions 9-11 are based on the passage you have just heard.",
+      "translation": "问题9 -11是基于你刚才听到的段落",
+      "start": 594.18,
+      "end": 598.46
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "9.",
+      "translation": "9. 国家",
+      "start": 599.79,
+      "end": 600.21
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What do we learn from a new study about young children?",
+      "translation": "我们从关于幼儿的新研究中学到什么?",
+      "start": 600.75,
+      "end": 604.15
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 10.",
+      "translation": "问题10。",
+      "start": 617.54,
+      "end": 618.42
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What did Prachi Shah's study specifically focus on?",
+      "translation": "Prachi Shah的研究具体侧重于什么?",
+      "start": 618.92,
+      "end": 622.98
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 11.",
+      "translation": "问题11。",
+      "start": 636.48,
+      "end": 637.3
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the passage say about excessive media exposure?",
+      "translation": "媒体过度曝光有何说法?",
+      "start": 637.86,
+      "end": 641.82
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Humans are aspirational goal-seeking beings.",
+      "translation": "人类是有抱负、追求目标的存在。",
+      "start": 658.166,
+      "end": 661.76,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Each of us, according to research, has an inborn drive to acquire.",
+      "translation": "研究表明，我们每个人天生都具有获取的驱动力。",
+      "start": 661.76,
+      "end": 665.26,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The \"dark side\" of this drive to acquire is being mindlessly driven to possess more and more \"things\" and to socially compare our \"stuff\" with all the stuff other people have in their lives.",
+      "translation": "这种获取驱动力的“阴暗面”，在于不假思索地驱使自己拥有越来越多的“东西”，并将自己的“财物”与他人生活中拥有的一切进行社会比较。",
+      "start": 666.06,
+      "end": 680.4,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So the question is, how do we ensure we tap into our drive to acquire in positive ways that will benefit our well-being?",
+      "translation": "因此，问题在于，我们该如何确保以积极的方式运用这种获取驱动力，从而增进自身的幸福感？",
+      "start": 681.67,
+      "end": 692.5,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "One way is to become more intentionally aspirational.",
+      "translation": "一种方法是更加有意识地树立抱负。",
+      "start": 692.5,
+      "end": 696.22,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "To be intentionally aspirational includes consciously aspiring to be the person you need to be to succeed in your professional and personal life.",
+      "translation": "有意识地树立抱负，包括自觉追求成为一个能够在职业生活和个人生活中取得成功所需要成为的人。",
+      "start": 696.95,
+      "end": 706.35,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It also includes consciously aspiring to acquire things in your life that will positively impact your sense of well-being.",
+      "translation": "这也包括自觉追求获得生活中那些能够积极影响你幸福感的事物。",
+      "start": 707.23,
+      "end": 716.41,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "If you're not consciously, mindfully and intentionally harnessing this inborn drive to acquire, you might be mindlessly pursuing all the wrong things.",
+      "translation": "如果你没有有意识、专注而明确地驾驭这种与生俱来的获取驱动力，就可能会在不假思索地追求所有错误的事物。",
+      "start": 716.41,
+      "end": 729.33,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "While your intentional aspirational goals will include pursuit of acquiring things that will increase your sense of well-being, they ought to also include goals to help other people in your various life roles.",
+      "translation": "虽然你有意识树立的抱负目标会包括追求获得能够提升幸福感的事物，但这些目标也应包括在你所承担的各种生活角色中帮助他人的目标。",
+      "start": 730.8,
+      "end": 744.9,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Your intentional aspirational goals will also include striving to be your personal best—a person of \"good\" character, integrity, and trustworthiness.",
+      "translation": "你有意识树立的抱负目标还应包括努力做到最好的自己，成为一个具有“良好”品格、正直而值得信赖的人。",
+      "start": 746.0,
+      "end": 756.78,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Think about this from a practical, rather than theoretical viewpoint.",
+      "translation": "请从实际而非理论的角度思考这一点。",
+      "start": 758.02,
+      "end": 762.34,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "If you're not pursuing intentional aspirational goals, you have nothing to strive for.",
+      "translation": "如果你没有追求有意识树立的抱负目标，就没有任何目标可供努力。",
+      "start": 763.78,
+      "end": 769.72,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "If you have nothing to strive for, you're putting yourself in the dangerous position of simply drifting through life, and you will not be able to experience, live and enjoy all that life has to offer.",
+      "translation": "如果你没有任何目标可供努力，就会使自己处于一种危险境地，只是在生活中随波逐流，也就无法体验、生活并享受人生所能提供的一切。",
+      "start": 770.52,
+      "end": 785.16,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What might happen if we do not harness our inborn drive to acquire?",
+      "translation": "如果我们不利用我们新生的动力获取,会发生什么?",
+      "start": 811.95,
+      "end": 815.89
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 14.",
+      "translation": "问题14。",
+      "start": 829.57,
+      "end": 830.59
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the passage say about our intentional aspirational goals?",
+      "translation": "段落对我们的蓄意追求目标有什么看法?",
+      "start": 831.43,
+      "end": 835.71
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 15.",
+      "translation": "问题15。",
+      "start": 849.44,
+      "end": 850.38
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What will you end up doing without pursuing intentional aspirational goals?",
+      "translation": "你最终会做什么而不追求有意追求的目标呢?",
+      "start": 850.8,
+      "end": 855.56
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Section C.",
+      "translation": "C节。",
+      "start": 868.98,
+      "end": 869.92
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In this section you will hear three recordings of lectures or talks, followed by three or four questions.",
+      "translation": "在本节中,你们将听取三场讲座或会谈录音,然后是三四个问题。",
+      "start": 871.94,
+      "end": 878.6
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Recordings will be played only once.",
+      "translation": "录音只播放一次。",
+      "start": 879.38,
+      "end": 881.92
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "you hear a question, you must choose the best answer from the four choices marked A, B, C and D.",
+      "translation": "听到一个问题,你必须从四个选择中选择最好的答案 四个选择标注A、B、C和D",
+      "start": 882.82,
+      "end": 889.66
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Then mark the corresponding letter on answer sheet one with a single line through the center.",
+      "translation": "然后在答题单上用一条线标出相应的字母,通过中心。",
+      "start": 890.32,
+      "end": 894.74
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Recording 1.",
+      "translation": "记录1。",
+      "start": 896.18,
+      "end": 897.08
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's revision time for exams and dissertations.",
+      "translation": "现在是准备考试和论文的复习阶段。",
+      "start": 898.28,
+      "end": 901.38,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The pressure is on, so you want all the help you can get to aid your memory and raise your grades.",
+      "translation": "压力很大，因此你希望得到一切可能的帮助来增强记忆力、提高成绩。",
+      "start": 902.28,
+      "end": 908.04,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "As a nutrition expert, I want to say that eating well can make a real difference to your revision regime—so what brain-boosting food and drink would I recommend?",
+      "translation": "作为一名营养专家，我想说，吃得健康能让你的复习安排产生显著不同，那么我会推荐哪些能增强大脑功能的食物和饮品呢？",
+      "start": 909.04,
+      "end": 919.78,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Coffee can have numerous benefits.",
+      "translation": "咖啡有许多益处。",
+      "start": 921.03,
+      "end": 922.83,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "However, while coffee may make you more alert, individuals can build up a tolerance, meaning this is short-lived.",
+      "translation": "然而，虽然咖啡可能会让你更加警觉，但人们会逐渐产生耐受性，这意味着这种效果是短暂的。",
+      "start": 923.53,
+      "end": 931.97,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Coffee can also increase blood sugar and eventually cause lack of focus and energy.",
+      "translation": "咖啡还会升高血糖，最终导致注意力和精力不足。",
+      "start": 931.97,
+      "end": 937.11,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's also worth noting that people react differently to coffee.",
+      "translation": "同样值得注意的是，人们对咖啡的反应各不相同。",
+      "start": 937.8,
+      "end": 941.44,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Some people can drink it at midnight and go straight to sleep, whereas others get feelings of anxiety after a small amount.",
+      "translation": "有些人可以在午夜喝咖啡后直接入睡，而另一些人只喝少量咖啡就会感到焦虑。",
+      "start": 942.3,
+      "end": 949.82,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Also remember that coffee from a coffee shop may be stronger than coffee made at home.",
+      "translation": "还要记住，咖啡店的咖啡可能比家里冲的咖啡浓。",
+      "start": 951.06,
+      "end": 956.58,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So stop drinking coffee by 2 pm and have a maximum of 2 cups of coffee a day, but be aware of your own reaction to it.",
+      "translation": "因此，下午两点后就不要再喝咖啡了，每天最多喝两杯，但要留意自己对咖啡的反应。",
+      "start": 957.46,
+      "end": 966.76,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Whole grain foods will ward off hunger.",
+      "translation": "全谷物食品可以防止饥饿。",
+      "start": 966.76,
+      "end": 970.72,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Examples include porridge and whole wheat bread.",
+      "translation": "例子包括粥和全麦面包。",
+      "start": 971.52,
+      "end": 974.28,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Combining whole grain foods with protein will help keep your blood sugar levels balanced, which is essential for mood and concentration.",
+      "translation": "将全谷物食品与蛋白质搭配食用，有助于保持血糖水平平衡，而这对情绪和注意力至关重要。",
+      "start": 975.41,
+      "end": 983.59,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Berries and nuts are a convenient and nutritious snack.",
+      "translation": "浆果和坚果是方便又有营养的零食。",
+      "start": 985.4,
+      "end": 988.74,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Blueberries, like many dark colored fruits and vegetables, can slow down brain damage and age-related decline.",
+      "translation": "蓝莓和许多深色水果、蔬菜一样，可以减缓大脑损伤和与年龄相关的衰退。",
+      "start": 989.56,
+      "end": 996.74,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Frozen berries are also a good choice.",
+      "translation": "冷冻浆果也是不错的选择。",
+      "start": 997.67,
+      "end": 1000.07,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They are usually cheap, last longer and don't lose their nutrients when frozen.",
+      "translation": "它们通常价格便宜、保存时间更长，而且冷冻后不会损失营养成分。",
+      "start": 1000.97,
+      "end": 1005.67,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But flavored and coated nuts are less healthy as they contain added oil, salt, and sugar.",
+      "translation": "但调味坚果和裹层坚果不那么健康，因为其中含有额外添加的油、盐和糖。",
+      "start": 1007.19,
+      "end": 1013.59,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Doctors often recommend taking vitamin supplements to top up on the nutrients you need.",
+      "translation": "医生经常建议服用维生素补充剂，以补充你所需的营养物质。",
+      "start": 1015.32,
+      "end": 1020.28,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But I would say food should always come before supplements and the key to getting as many nutrients as possible is to eat a varied diet with lots of different colors such as frozen berries and dark green vegetables.",
+      "translation": "但我认为，食物始终应该优先于补充剂，而获得尽可能多营养的关键，是食用包含多种不同颜色食物的多样化饮食，例如冷冻浆果和深绿色蔬菜。",
+      "start": 1021.06,
+      "end": 1034.17,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's better to get everything you need from food and drink.",
+      "translation": "最好从食物和饮品中获取你所需要的一切。",
+      "start": 1035.29,
+      "end": 1037.95,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "For example, oranges contain not only vitamin C which boosts the immune system, but also fiber and other components that you can't get packaged together in a tablet.",
+      "translation": "例如，橙子不仅含有能增强免疫系统的维生素C，还含有纤维和其他无法在一片药片中同时获得的成分。",
+      "start": 1039.5,
+      "end": 1050.22,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Don't forget to drink a proper amount of water, which can boost attention by almost 25 percent and can elevate your mood as well.",
+      "translation": "别忘了饮用适量的水，这可以将注意力提高近25%，也能改善你的情绪。",
+      "start": 1051.22,
+      "end": 1059.56,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Finally, don't skip meals.",
+      "translation": "最后，不要不吃饭。",
+      "start": 1061.33,
+      "end": 1062.69,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Eating regularly will help keep blood sugar balanced and feed the brain with the fuel it needs.",
+      "translation": "规律进食有助于保持血糖平衡，并为大脑提供所需的能量。",
+      "start": 1063.59,
+      "end": 1068.93,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 17 What does the speaker warn against about coffee?",
+      "translation": "问题17 发言者对咖啡有何警告?",
+      "start": 1093.68,
+      "end": 1099.88
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "18 How can we get sufficient nutrients according to the speaker?",
+      "translation": "18 发言人说,我们如何获得足够的营养?",
+      "start": 1113.74,
+      "end": 1119.34
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Recording 2 The late Swedish academic Hans Rosling has identified a worrying trend Not only do many people across advanced economies have no idea that the world is becoming a much better place",
+      "translation": "已故瑞典学者汉斯·罗斯林(Hans Rosling)指出一个令人担忧的趋势,不仅发达经济体的许多人不知道世界正在变得更好,而且他们不知道世界正在变得更加美好。",
+      "start": 1132.86,
+      "end": 1134.7
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The late Swedish academic Hans Rosling has identified a worrying trend: not only do many people across advanced economies have no idea that the world is becoming a much better place, but they actually even think the opposite.",
+      "translation": "已故瑞典学者汉斯·罗斯林发现了一个令人担忧的趋势：不仅许多发达经济体中的人们根本不知道世界正在变得越来越美好，实际上他们甚至认为情况恰恰相反。",
+      "start": 1134.7,
+      "end": 1151.56,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This is no wonder, when the news focuses on reporting catastrophes, terrorist attacks, wars, and famines.",
+      "translation": "当新闻集中报道灾难、恐怖袭击、战争和饥荒时，这也就不足为奇了。",
+      "start": 1153.04,
+      "end": 1161.2,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Who wants to hear about the fact that every day some 200,000 people around the world are lifted above the $2-a-day poverty line?",
+      "translation": "谁愿意听到这样的事实：世界各地每天约有20万人脱离每日2美元的贫困线？",
+      "start": 1162.63,
+      "end": 1171.61,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Or that more than 300,000 people get access to electricity and clean water for the first time every day?",
+      "translation": "或者每天有超过30万人首次用上电并获得清洁饮用水？",
+      "start": 1172.53,
+      "end": 1180.23,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "These stories in people in low-income countries simply don't make for exciting news coverage.",
+      "translation": "这些关于低收入国家民众的故事，确实难以成为令人兴奋的新闻报道内容。",
+      "start": 1181.36,
+      "end": 1187.58,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But, as Rosling pointed out in his book Factfulness, it's important to put all the bad news in perspective.",
+      "translation": "但是，正如罗斯林在他的《事实》一书中指出的那样，重要的是要把所有坏消息放在整体背景下加以看待。",
+      "start": 1188.83,
+      "end": 1196.43,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "While it is true that globalization has put some downward pressure on middle-class wages in advanced economies in recent decades, it has also helped lift hundreds of millions of people above the global poverty line.",
+      "translation": "诚然，近几十年来，全球化对发达经济体中产阶级的工资造成了一定的下行压力，但它也帮助数亿人脱离了全球贫困线。",
+      "start": 1198.27,
+      "end": 1213.23,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "If we really care about global welfare, globalization is the only way forward to ensure that economic prosperity is shared among all countries and not only a select few advanced economies.",
+      "translation": "如果我们确实关心全球福祉，那么全球化就是确保经济繁荣惠及所有国家，而不仅仅是少数发达经济体的唯一前进道路。",
+      "start": 1214.76,
+      "end": 1228.94,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "While some people glorify the past, one of the big facts of economic history is that until quite recently a significant part of the world population has lived under quite miserable conditions—and this has been true throughout most of human history.",
+      "translation": "虽然有些人美化过去，但经济史的一大事实是，直到相当晚近的时候，世界人口中仍有相当一部分生活在十分悲惨的条件下，而这在绝大部分人类历史时期一直如此。",
+      "start": 1230.28,
+      "end": 1247.24,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "While there were many long-lasting ups and downs, like the Great Depression or the recent Great Recession, the constancy of the long-run growth rate is actually quite miraculous.",
+      "translation": "尽管长期以来经历了许多持续时间较长的起伏，例如大萧条或近期的大衰退，但长期增长率的稳定性实际上相当不可思议。",
+      "start": 1248.63,
+      "end": 1260.63,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Low-income countries, including China and India, have been growing at a significantly faster pace in recent decades and are quickly catching up to the West.",
+      "translation": "包括中国和印度在内的低收入国家，近几十年来一直以明显更快的速度增长，并且正在迅速追赶西方。",
+      "start": 1260.63,
+      "end": 1272.5,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "A 10% growth rate over a prolonged period means that income levels double roughly every seven years.",
+      "translation": "长期保持10%的增长率，意味着收入水平大约每七年翻一番。",
+      "start": 1273.32,
+      "end": 1280.94,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It is obviously good news if prosperity is more shared across the globe.",
+      "translation": "如果繁荣能够在全球范围内得到更广泛的共享，这显然是个好消息。",
+      "start": 1281.66,
+      "end": 1287.06,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "While inequality within countries has gone up as a result of globalization, global inequality has been on a steady downward trend for several decades.",
+      "translation": "虽然全球化导致各国内部的不平等程度上升，但几十年来，全球不平等一直呈稳步下降趋势。",
+      "start": 1288.27,
+      "end": 1299.59,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This is mostly a result of the improvement of hundreds of millions of people's living standards.",
+      "translation": "这主要是数亿人的生活水平得到改善的结果。",
+      "start": 1300.68,
+      "end": 1307.42,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In fact, for the first time ever since the Industrial Revolution, about half of the global population can be considered middle class.",
+      "translation": "事实上，这是自工业革命以来，全球人口中约有一半首次可以被视为中产阶级。",
+      "start": 1308.22,
+      "end": 1316.74,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions 19-21 are based on the recording you have just heard.",
+      "translation": "问题19 -21是基于你刚才听到的录音",
+      "start": 1318.15,
+      "end": 1322.65
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "19.",
+      "translation": "19. 经济",
+      "start": 1323.85,
+      "end": 1324.47
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What is the worrying trend the late Swedish academic has identified?",
+      "translation": "已故瑞典学术界人士确定的令人担忧的趋势是什么?",
+      "start": 1325.47,
+      "end": 1329.17
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "20.",
+      "translation": "20. 20个",
+      "start": 1343.37,
+      "end": 1344.11
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the speaker say about globalization?",
+      "translation": "发言者对全球化说了什么?",
+      "start": 1344.61,
+      "end": 1346.65
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "21.",
+      "translation": "21 个",
+      "start": 1361.1,
+      "end": 1361.94
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What do we learn about half of the global population?",
+      "translation": "我们对全球人口的一半了解多少?",
+      "start": 1362.52,
+      "end": 1365.3
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Recording 3.",
+      "translation": "记录3。",
+      "start": 1379.71,
+      "end": 1380.47
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We all know that the sense of smell is powerful.",
+      "translation": "我们都知道，嗅觉的力量十分强大。",
+      "start": 1381.66,
+      "end": 1384.12,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The delicious scent of bread, for example, can act like a time machine.",
+      "translation": "例如，面包的诱人香气就像一台时光机。",
+      "start": 1385.18,
+      "end": 1388.83,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "One sniff can bring back a memory from many years ago.",
+      "translation": "闻一下，就能唤回许多年前的一段记忆。",
+      "start": 1389.71,
+      "end": 1392.75,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Indeed, scent particles, in general, can revive memories that have been long forgotten.",
+      "translation": "事实上，气味分子通常能够唤醒那些早已被遗忘的记忆。",
+      "start": 1393.87,
+      "end": 1399.09,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But why do smells sometimes trigger powerful memories, especially emotional ones?",
+      "translation": "但为什么气味有时会触发强烈的记忆，尤其是情感记忆呢？",
+      "start": 1399.94,
+      "end": 1405.2,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The short answer is that the brain regions that handle smells, memories and emotions are linked.",
+      "translation": "简而言之，负责处理气味、记忆和情感的大脑区域彼此相连。",
+      "start": 1406.3,
+      "end": 1412.14,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "A scent is a chemical particle that floats in through the nose and into the region of the brain responsible for smell, where the sensation is first processed into a form that the brain can read.",
+      "translation": "气味是一种化学微粒，它经由鼻腔飘入大脑中负责嗅觉的区域，在那里，这种感觉首先被处理成大脑能够读取的形式。",
+      "start": 1413.48,
+      "end": 1424.9,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Brain cells then carry that information to the area of the brain where emotions are processed, and then to an adjacent area of the brain where learning and memory formation take place.",
+      "translation": "随后，脑细胞将这些信息传递到负责处理情感的大脑区域，再传递到相邻的、负责学习和记忆形成的大脑区域。",
+      "start": 1426.16,
+      "end": 1437.66,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Scents are the only sensations that travel such a direct path to the emotional and memory centers of the brain.",
+      "translation": "气味是唯一能够沿着如此直接的路径到达大脑情感中枢和记忆中枢的感觉。",
+      "start": 1437.66,
+      "end": 1445.37,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That results in an intimate connection between emotions, memories and scents, which is why memories triggered by scents are experienced as more emotional than those triggered by sight or sound.",
+      "translation": "这就形成了情感、记忆和气味之间的密切联系，也正因如此，气味触发的记忆往往比视觉或听觉触发的记忆更具情感色彩。",
+      "start": 1446.31,
+      "end": 1458.47,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Let's take a closer look at how those memories are activated.",
+      "translation": "让我们更仔细地看看这些记忆是如何被激活的。",
+      "start": 1460.01,
+      "end": 1463.19,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Usually, when a person smells something that's connected to a meaningful event in their past, they'll first have an emotional response to the sensation and then a memory might follow.",
+      "translation": "通常，当一个人闻到某种与过去某个重要事件有关的气味时，他首先会对这种感觉产生情绪反应，随后记忆可能会浮现出来。",
+      "start": 1464.34,
+      "end": 1475.38,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But sometimes, the memory doesn't come to the surface.",
+      "translation": "但有时，记忆并不会浮现。",
+      "start": 1476.45,
+      "end": 1479.35,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The person might feel the emotion of something that happened in the past but won't remember what they experienced.",
+      "translation": "这个人可能会感受到过去发生的某件事所带来的情绪，却想不起自己当时经历了什么。",
+      "start": 1480.13,
+      "end": 1485.51,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What causes this baffling phenomenon?",
+      "translation": "是什么导致了这种令人困惑的现象？",
+      "start": 1486.6,
+      "end": 1488.46,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The explanation is context.",
+      "translation": "答案在于情境。",
+      "start": 1489.93,
+      "end": 1491.29,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Imagine this scenario—a person is walking down the street smelling a scent that they first encountered decades ago, which activates an emotional response.",
+      "translation": "想象这样一个场景：一个人走在街上，闻到一种他几十年前第一次接触到的气味，这激活了他的情绪反应。",
+      "start": 1492.55,
+      "end": 1501.94,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "If the person had first come across that smell in a very different context, it will be much more difficult to recover the associated memory, because the brain uses the context to give meaning to the information and find that memory.",
+      "translation": "如果这个人当初是在一个截然不同的情境中第一次闻到这种气味的，那么他就会更难回忆起与之相关的记忆，因为大脑会利用情境赋予信息意义，并找出那段记忆。",
+      "start": 1503.09,
+      "end": 1516.45,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The special nature of memories brought back by scents notwithstanding, they have the same drawbacks as other memories.",
+      "translation": "尽管气味唤回的记忆具有特殊性，但它们也存在与其他记忆相同的缺陷。",
+      "start": 1517.81,
+      "end": 1524.16,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They aren't always accurate, and they can change over time.",
+      "translation": "它们并不总是准确的，而且会随着时间发生变化。",
+      "start": 1525.08,
+      "end": 1528.26,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In fact, each time we remember something, that memory can become distorted.",
+      "translation": "事实上，每当我们回忆某件事时，那段记忆都有可能被扭曲。",
+      "start": 1529.14,
+      "end": 1533.54,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But, because of the strong emotional associations these memories evoke, people who remember something due to a scent are often convinced that the memories are accurate, even when they aren't.",
+      "translation": "但是，由于这些记忆唤起了强烈的情感联系，那些因某种气味而回忆起某件事的人往往坚信自己的记忆是准确的，即使事实并非如此。",
+      "start": 1534.78,
+      "end": 1546.66,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions 22 to 25 are based on the recording you have just heard.",
+      "translation": "问题22至25是基于你刚才听到的录音",
+      "start": 1547.73,
+      "end": 1552.71
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "22.",
+      "translation": "22. 妇女 22",
+      "start": 1554.32,
+      "end": 1554.84
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What question does the speaker try to answer in this talk?",
+      "translation": "发言者试图在谈话中回答什么问题?",
+      "start": 1555.52,
+      "end": 1559.68
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "23.",
+      "translation": "23 号",
+      "start": 1573.32,
+      "end": 1573.98
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What is said to result in an intimate connection between emotions,",
+      "translation": "据说这导致情感之间的密切联系,",
+      "start": 1575.19,
+      "end": 1579.29
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "memories and sense?",
+      "translation": "记忆和感觉?",
+      "start": 1580.07,
+      "end": 1581.31
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 24.",
+      "translation": "问题24。",
+      "start": 1595.07,
+      "end": 1595.83
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the brain use to give meaning to information and find a memory?",
+      "translation": "大脑用什么来赋予信息意义 并找到记忆?",
+      "start": 1596.45,
+      "end": 1601.65
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 25.",
+      "translation": "问题25。",
+      "start": 1614.76,
+      "end": 1616.0
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What drawback do memories of sense share with other memories?",
+      "translation": "感知记忆与其他记忆有什么共同之处?",
+      "start": 1617.4,
+      "end": 1622.74
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That's the end of listening comprehension.",
+      "translation": "听觉理解到此结束",
+      "start": 1636.3,
+      "end": 1638.38
+    }
+  ],
+  "translation_sources": [
+    "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/",
+    "Sams200/opus-mt-en-zh (unmatched sentences only)"
+  ]
+}

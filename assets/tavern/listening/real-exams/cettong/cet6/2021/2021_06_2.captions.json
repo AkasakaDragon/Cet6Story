@@ -1,0 +1,1731 @@
+{
+  "id": "cet6-2021_06_2",
+  "title": "2021年6月 第2套",
+  "level": 6,
+  "source_url": "https://www.cettong.cn/library/cet6/2021_06_2",
+  "material_source": "https://117.72.200.49/#/library",
+  "audio": "assets/tavern/listening/real-exams/cettong/cet6/2021/2021_06_2.exampace-playback.mp3",
+  "caption_kind": "published_material_with_auxiliary_timing_and_translation",
+  "caption_models": [
+    "Systran/faster-whisper-base.en",
+    "Sams200/opus-mt-en-zh"
+  ],
+  "lines": [
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "How are you enjoying your new job?",
+      "translation": "你觉得新工作怎么样？",
+      "start": 44.38,
+      "end": 46.18,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So far, so good, I don't miss having managers who deliver blunt, harsh feedback in the name of efficiency.",
+      "translation": "到目前为止，一切都不错。我一点也不怀念那些以效率为名，给出直白而严厉反馈的经理。",
+      "start": 46.82,
+      "end": 53.78,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "From the way you described your last company, no wonder they had a problem with high staff turnover.",
+      "translation": "从你描述上一家公司的情况来看，难怪他们会有员工流动率高的问题。",
+      "start": 55.27,
+      "end": 61.26,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Yeah.",
+      "translation": "是啊。",
+      "start": 62.02,
+      "end": 62.36,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I couldn't wait to get out of there once my contract expired.",
+      "translation": "合同一到期，我就迫不及待地离开了那里。",
+      "start": 62.62,
+      "end": 65.7,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The problem with a company culture that prizes directness above all else is that it creates a toxic culture of brilliant jerks that drives people out and erodes itself from within.",
+      "translation": "一种把直率看得高于一切的公司文化，问题在于它会造就一种充满才华却为人刻薄的有毒文化，把员工赶走，并从内部逐渐瓦解自身。",
+      "start": 66.56,
+      "end": 78.84,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "My company's managers tend to be accommodating and kind, overlooking mistakes or issues so as not to hurt feelings.",
+      "translation": "我们公司的经理往往比较体谅人，也很友善，为了不伤害员工的感情，他们会忽略错误或问题。",
+      "start": 79.88,
+      "end": 86.84,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Issues often get ignored there until they build up and reach a crisis point.",
+      "translation": "那里的问题经常一直被忽视，直到越积越多，最终演变成危机。",
+      "start": 87.73,
+      "end": 92.41,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That's not surprising.",
+      "translation": "这并不奇怪。",
+      "start": 92.89,
+      "end": 93.77,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "My new company seems to employ a feedback policy that combines compassion and directness.",
+      "translation": "我现在的公司似乎采用了一套兼顾同理心和直率的反馈政策。",
+      "start": 94.79,
+      "end": 100.89,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Employees have the power to speak up, give feedback, disagree and discuss problems in real time.",
+      "translation": "员工有权表达自己的看法、提出反馈、表示不同意见，并实时讨论问题。",
+      "start": 101.67,
+      "end": 108.31,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It seems to help us to course correct, improve and meet challenges while also building teams that collaborate and care for one another.",
+      "translation": "这似乎有助于我们及时调整方向、不断改进、应对挑战，同时也能建立起彼此协作、互相关心的团队。",
+      "start": 109.27,
+      "end": 117.59,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But that would be based on an atmosphere of mutual trust, wouldn't it?",
+      "translation": "但这应该建立在相互信任的氛围之上，对吧？",
+      "start": 118.66,
+      "end": 122.44,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Otherwise, people might interpret feedback as some kind of personal attack.",
+      "translation": "否则，人们可能会把反馈理解成某种人身攻击。",
+      "start": 123.04,
+      "end": 127.02,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "True.",
+      "translation": "没错。",
+      "start": 127.52,
+      "end": 127.88,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Without an atmosphere of trust, feedback can create stress and self-doubt.",
+      "translation": "没有信任的氛围，反馈可能会带来压力和自我怀疑。",
+      "start": 128.76,
+      "end": 133.96,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But I think when we get feedback from someone we trust, we understand that the feedback isn't some kind of personal attack.",
+      "translation": "但我认为，当我们从信任的人那里得到反馈时，我们会明白这并不是什么人身攻击。",
+      "start": 133.96,
+      "end": 141.4,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's actually a kind of support because it's offered in the spirit of helping us improve.",
+      "translation": "实际上，这是一种支持，因为对方是本着帮助我们进步的态度提出反馈的。",
+      "start": 142.24,
+      "end": 147.27,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "I think sometimes people need to shift their mindsets around how they receive feedback.",
+      "translation": "我觉得，有时候人们需要改变自己接受反馈的心态。",
+      "start": 148.31,
+      "end": 153.21,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Yes.",
+      "translation": "是的。",
+      "start": 153.81,
+      "end": 154.43,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Constructive feedback, after all, is how we learn and grow.",
+      "translation": "毕竟，建设性的反馈正是我们学习和成长的方式。",
+      "start": 154.95,
+      "end": 158.39,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's the basis for healthy parenting, lasting friendships, career development, and so much more.",
+      "translation": "它是健康亲子关系、长久友谊、职业发展的基础，作用远不止这些。",
+      "start": 159.35,
+      "end": 165.61,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "If we shelter our children, friends, and colleagues from information that might enrich and enhance their lives, we're not being caring.",
+      "translation": "如果我们不让孩子、朋友和同事接触那些可能丰富并改善他们生活的信息，那就不是在关心他们。",
+      "start": 166.45,
+      "end": 174.44,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We're actually doing harm to them.",
+      "translation": "实际上，我们是在伤害他们。",
+      "start": 175.22,
+      "end": 176.68,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That's exactly right.",
+      "translation": "完全正确。",
+      "start": 177.04,
+      "end": 178.48,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions one to four are based on the conversation you have just heard.",
+      "translation": "问题一至问题四 是基于你刚才听到的谈话",
+      "start": 179.29,
+      "end": 182.91
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question one.",
+      "translation": "问题一。",
+      "start": 183.83,
+      "end": 184.45
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the man say about his company's managers?",
+      "translation": "他对他公司的经理怎么说?",
+      "start": 202.95,
+      "end": 206.23
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question three.",
+      "translation": "问题三。",
+      "start": 220.06,
+      "end": 220.82
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the woman say the employees in her new company can do?",
+      "translation": "女员工在她的新公司里能做什么?",
+      "start": 221.7,
+      "end": 225.06
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question four.",
+      "translation": "问题4。",
+      "start": 238.48,
+      "end": 239.32
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the man say?",
+      "translation": "他说什么?",
+      "start": 239.74,
+      "end": 241.28
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "about constructive feedback.",
+      "translation": "关于建设性反馈。",
+      "start": 241.57,
+      "end": 242.87
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Conversation 2.",
+      "translation": "对话2。",
+      "start": 256.67,
+      "end": 257.77
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "How was your holiday?",
+      "translation": "你的假期过得怎么样？",
+      "start": 258.45,
+      "end": 259.37,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Not too many other tourists around, were there?",
+      "translation": "周围没太多其他游客吧？",
+      "start": 260.09,
+      "end": 262.75,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "No, very few relatively.",
+      "translation": "没有，相对来说非常少。",
+      "start": 263.44,
+      "end": 265.76,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But I found myself moving from one accommodation to another, trying to find the perfect place.",
+      "translation": "但我发现自己一直从一个住处搬到另一个住处，试图找到最完美的地方。",
+      "start": 266.66,
+      "end": 272.54,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It made me realize that indecision is a big problem for me.",
+      "translation": "这让我意识到，优柔寡断对我来说是个大问题。",
+      "start": 273.66,
+      "end": 278.2,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Instead of relaxing, I was looking for the best spot.",
+      "translation": "我没有放松下来，反而一直在寻找最好的地方。",
+      "start": 278.74,
+      "end": 282.86,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It seems you suffer from \"Fear of Better Options.\" I've read about it.",
+      "translation": "看来你患上了\"害怕更好的选择\" 我读过",
+      "start": 283.44,
+      "end": 288.24
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It describes this loop of indecision as part of our programming.",
+      "translation": "它描述这种不决策循环,作为我们方案拟订的一部分。",
+      "start": 288.68,
+      "end": 292.1
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Essentially, we have this tendency to keep stretching out the decision-making process, because as human beings, we are hard-wired to optimize.",
+      "translation": "从根本上说,我们有这样一种趋势,即不断扩大决策进程,因为作为人类,我们是难以优化的。",
+      "start": 292.9,
+      "end": 302.0
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We have always looked to get the best things we can as a sort of survival of the fittest.",
+      "translation": "我们总是想尽我们所能 获得最好的东西 作为适者生存的一种方式。",
+      "start": 302.98,
+      "end": 308.36
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Optimizing isn't the problem, but rather the process that we go through.",
+      "translation": "最佳化不是问题所在,而是我们经历的过程。",
+      "start": 309.56,
+      "end": 313.44
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Well, that makes me feel better.",
+      "translation": "嗯，这让我感觉好受多了。",
+      "start": 314.12,
+      "end": 316.14,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But I think thanks to technology, we can make comparisons more easily and have more access to choice and customization.",
+      "translation": "但我觉得多亏了科技，我们可以更容易地进行比较，也能有更多选择和定制的机会。",
+      "start": 317.18,
+      "end": 323.3,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We can now see what we could have, how we might get it, and what others have that we might want.",
+      "translation": "现在我们可以看到自己可能拥有什么、可能如何得到它，以及别人拥有而我们可能想要的东西。",
+      "start": 324.6,
+      "end": 331.92,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "We keep looking over and return to the same options again and again.",
+      "translation": "我们不断回头查看，又一次次回到相同的选项上。",
+      "start": 332.78,
+      "end": 338.04,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Yes.",
+      "translation": "是的。",
+      "start": 338.5,
+      "end": 338.9,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "\"Fear of Better Options\" offers little benefit.",
+      "translation": "“更好选择恐惧症”几乎没有什么好处。",
+      "start": 339.42,
+      "end": 342.0,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's an ailment of abundance.",
+      "translation": "这是过度丰富带来的问题。",
+      "start": 342.94,
+      "end": 343.96,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "You must have choices to have that fear of missing out on better options.",
+      "translation": "你必须拥有选择，才会害怕错过更好的选项。",
+      "start": 344.88,
+      "end": 348.36,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Yes, I need to note when I'm worrying about inconsequential things, I guess.",
+      "translation": "是的，我想我需要留意自己什么时候在为无关紧要的事情操心。",
+      "start": 349.32,
+      "end": 354.94,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "If I'm spending too much time worrying over what to have for lunch, I'm robbing myself of the energy to focus on the things that matter.",
+      "translation": "如果我花太多时间纠结午饭吃什么，就等于消耗了自己的精力，没法专注于真正重要的事情。",
+      "start": 355.71,
+      "end": 364.19,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Exactly.",
+      "translation": "没错。",
+      "start": 364.85,
+      "end": 365.43,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But for more important matters, I think gut instinct might be overrated.",
+      "translation": "不过对于更重要的事情，我觉得凭直觉行事可能被高估了。",
+      "start": 366.27,
+      "end": 370.75,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "When you have 30 odd options, trusting your gut is not practical.",
+      "translation": "当你有三十来个选项时，相信直觉并不实际。",
+      "start": 371.61,
+      "end": 375.63,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What you need to do is research: have a process, invest time exploring your options, and eliminate as many things as you can.",
+      "translation": "你需要做的是进行调查研究：建立一个流程，投入时间去了解各种选择，并尽可能排除更多选项。",
+      "start": 376.73,
+      "end": 384.53,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The most toxic part of decision making is going over the same options time and time again.",
+      "translation": "决策过程中最有害的部分，就是一遍又一遍地重复考虑相同的选项。",
+      "start": 385.51,
+      "end": 391.37,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions 5 to 8 are based on the conversation you have just heard.",
+      "translation": "问题5到8是基于你刚才听到的谈话",
+      "start": 392.81,
+      "end": 396.57
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 5.",
+      "translation": "问题5",
+      "start": 397.66,
+      "end": 398.36
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the man say about his holiday?",
+      "translation": "那个人怎么说他的假期?",
+      "start": 398.92,
+      "end": 401.78
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 6.",
+      "translation": "问题6",
+      "start": 415.48,
+      "end": 416.22
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the woman say people tend to do when making decisions?",
+      "translation": "妇女说人们在决策时往往会做什么?",
+      "start": 417.26,
+      "end": 420.66
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 7.",
+      "translation": "问题7",
+      "start": 434.48,
+      "end": 435.38
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What has made decision-making increasingly difficult?",
+      "translation": "是什么使决策越来越困难?",
+      "start": 435.86,
+      "end": 439.78
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "8.",
+      "translation": "8. 预 算",
+      "start": 453.56,
+      "end": 454.14
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "According to the woman, what should people do when making important decisions?",
+      "translation": "妇女认为,人们在作出重要决定时应该做些什么?",
+      "start": 454.78,
+      "end": 459.26
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "At the end of each passage, you will hear three or four questions.",
+      "translation": "在每一段的结尾,你将听到三四个问题。",
+      "start": 478.65,
+      "end": 482.33
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Both the passage and the questions will be spoken only once.",
+      "translation": "发言的通过和提问将只讲一次。",
+      "start": 483.37,
+      "end": 486.93
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "After you hear a question, you must choose the best answer from the four choices marked A, B,",
+      "translation": "在听到一个问题后,你必须从四个选择中选择最好的答案,四个选择标注A,B,",
+      "start": 488.05,
+      "end": 494.55
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "C, and D.",
+      "translation": "C,和D., 和D., 和D.",
+      "start": 495.15,
+      "end": 496.31
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Then mark the corresponding letter on answer sheet one with a single line through the center.",
+      "translation": "然后在答题单上用一条线标出相应的字母,通过中心。",
+      "start": 497.61,
+      "end": 502.63
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The role of homework in classrooms is not a new debate.",
+      "translation": "家庭作业在课堂教学中的作用并不是一个新争论。",
+      "start": 505.45,
+      "end": 509.61,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Many parents and teachers are ardent supporters of homework.",
+      "translation": "许多家长和教师都是家庭作业的热烈支持者。",
+      "start": 510.47,
+      "end": 514.17,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But do all students benefit from homework?",
+      "translation": "但所有学生都能从家庭作业中受益吗？",
+      "start": 515.05,
+      "end": 517.39,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "A 2006 research paper suggested some correlation between the amount of homework done by a student and future academic achievement for middle and high school students but not so much for younger kids.",
+      "translation": "2006年的一篇研究论文指出，对于初中和高中生而言，学生完成的作业量与未来的学业成就之间存在一定的相关性，但对于年龄更小的孩子来说则不然。",
+      "start": 518.53,
+      "end": 531.8,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "A Stanford study in 2014 suggested the same was true for students in California's affluent communities.",
+      "translation": "2014年斯坦福的一项研究显示,加利福尼亚富人社区的学生情况也是如此。",
+      "start": 532.62,
+      "end": 539.48
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The findings challenged the idea that homework was \"inherently good.\" The researchers concluded that there was an upper limit to the correlation between homework and achievement, suggesting that high school students shouldn't be doing more than two hours of homework a night.",
+      "translation": "研究结果质疑了家庭作业是“内在的好”的观点。 研究人员得出结论,家庭作业与成就之间的关系有上限,这表明高中学生每晚不应做两个小时以上的家庭作业。",
+      "start": 540.78,
+      "end": 557.8
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And the most valuable kind of homework for elementary-level children was simply assigned free reading.",
+      "translation": "小学儿童最有价值的家庭作业 就是免费阅读",
+      "start": 558.51,
+      "end": 564.37
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The topic gets more complicated when we talk about the divide between rural and urban communities.",
+      "translation": "当我们谈到城乡社区之间的差距时，这个话题变得更加复杂。",
+      "start": 565.76,
+      "end": 572.06,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Studies found that in remote areas, the poor quality or lack of internet access can put students at a disadvantage because 70% of teachers in these areas assign homework that requires internet access.",
+      "translation": "研究发现，在偏远地区，网络质量差或缺乏网络连接会使学生处于不利地位，因为这些地区70%的教师布置的家庭作业都需要使用网络。",
+      "start": 573.09,
+      "end": 588.45,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But one in three households doesn't have internet.",
+      "translation": "但三分之一的家庭没有网络。",
+      "start": 589.26,
+      "end": 593.9,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Experts assert homework requiring the internet isn't fair.",
+      "translation": "专家断言，需要使用网络的家庭作业是不公平的。",
+      "start": 595.27,
+      "end": 600.03,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "While the debate continues about the effect of homework on academic achievements, there are studies focusing on other benefits of homework.",
+      "translation": "尽管关于家庭作业对学业成就影响的争论仍在继续，但也有研究关注家庭作业的其他益处。",
+      "start": 601.37,
+      "end": 610.81,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "A study in Germany found that homework could have an effect on students' personalities, suggesting that doing homework might help kids to become more conscientious and independent learners.",
+      "translation": "德国的一项研究发现，家庭作业可能会对学生的性格产生影响，这表明做家庭作业可能有助于孩子们成为更认真尽责、更独立的学习者。",
+      "start": 611.59,
+      "end": 624.42,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Robert Goddard, an American born in 1882, is widely regarded as the world's first rocket scientist.",
+      "translation": "罗伯特·戈达德是一位1882年出生的美国人，被广泛认为是世界上第一位火箭科学家。",
+      "start": 687.99,
+      "end": 695.53,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "At age 27, Goddard published his first book in which he hypothesized that a rocket launched from Earth could reach the Moon.",
+      "translation": "27岁时，戈达德出版了他的第一本书，在书中提出了从地球发射的火箭可以抵达月球的假说。",
+      "start": 697.04,
+      "end": 705.36,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Like many visionaries, the young scientist encountered numerous skeptics.",
+      "translation": "像许多有远见的人一样，这位年轻的科学家遇到了众多质疑者。",
+      "start": 706.51,
+      "end": 710.41,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In January 1920, The New York Times ridiculed Goddard's theory that rockets could be utilized for space exploration.",
+      "translation": "1920年1月，《纽约时报》嘲笑了戈达德关于火箭可以用于太空探索的理论。",
+      "start": 712.11,
+      "end": 720.44,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Forty-nine years later, Apollo 11 reached the Moon and the famed newspaper published an apology to Goddard.",
+      "translation": "49年后，阿波罗11号抵达月球，这家著名报纸发表了一篇向戈达德道歉的文章。",
+      "start": 720.44,
+      "end": 728.83,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Goddard launched his first rocket from an aunt's farm in his native Massachusetts in March, 1926.",
+      "translation": "1926年3月，戈达德从家乡马萨诸塞州一位姨母的农场发射了他的第一枚火箭。",
+      "start": 729.67,
+      "end": 736.27,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "His maiden rocket voyage lasted a mere 3 seconds.",
+      "translation": "这枚火箭的首次飞行仅持续了3秒。",
+      "start": 737.61,
+      "end": 741.13,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It scaled an altitude of only 12 meters.",
+      "translation": "它达到的高度只有12米。",
+      "start": 741.77,
+      "end": 744.13,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Nonetheless, it was a milestone in rocket science.",
+      "translation": "尽管如此，这仍是火箭科学领域的一个里程碑。",
+      "start": 744.89,
+      "end": 747.95,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Goddard later consulted with a weather expert and determined that the climate of New Mexico was ideal for year-round rocket launches.",
+      "translation": "后来，戈达德向一位气象专家进行了咨询，并确定新墨西哥州的气候非常适合全年发射火箭。",
+      "start": 749.18,
+      "end": 757.6,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In 1930, Goddard and his family relocated there, to a remote valley in the southwest of the country.",
+      "translation": "1930年，戈达德和家人搬到了那里，定居在美国西南部一个偏远的山谷中。",
+      "start": 758.75,
+      "end": 765.89,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "There he established a laboratory and test range.",
+      "translation": "他在那里建立了一个实验室和试验场。",
+      "start": 767.04,
+      "end": 770.1,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "However, the ambitious scientist received negligible support from the government.",
+      "translation": "然而，这位雄心勃勃的科学家几乎没有得到政府的支持。",
+      "start": 770.83,
+      "end": 775.25,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "For four years, wealthy businessman Daniel Guggenheim provided Goddard with an annual 25,000 dollars grant to pursue his dreams.",
+      "translation": "四年来，富有的商人丹尼尔·古根海姆每年向戈达德提供2.5万美元的资助，以支持他追逐梦想。",
+      "start": 776.49,
+      "end": 785.03,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Other rocket enthusiasts also raised funds for him.",
+      "translation": "其他火箭爱好者也为他筹集资金。",
+      "start": 786.44,
+      "end": 789.72,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Over time, Goddard's rocket grew more sophisticated and included the installation of instruments.",
+      "translation": "随着时间的推移，戈达德的火箭变得越来越复杂，并增设了各种仪器。",
+      "start": 790.6,
+      "end": 796.32,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In spite of his many successes, Goddard was never able to interest the US military in rocket-propelled weapons.",
+      "translation": "尽管取得了许多成功，戈达德始终未能使美国军方对火箭推进武器产生兴趣。",
+      "start": 797.79,
+      "end": 804.83,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "He was granted over 200 patents and continued to pioneer rocket technology until his death in 1945.",
+      "translation": "他获得了200多项专利，并一直致力于开创火箭技术，直到1945年去世。",
+      "start": 806.11,
+      "end": 813.77,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "about Goddard's first rocket launch.",
+      "translation": "关于戈达第第一次发射火箭的事",
+      "start": 843.14,
+      "end": 845.22
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "14.",
+      "translation": "14. 14个",
+      "start": 859.12,
+      "end": 859.66
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Why did Goddard move to New Mexico?",
+      "translation": "为什么戈达德搬到新墨西哥州?",
+      "start": 860.38,
+      "end": 862.3
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 15.",
+      "translation": "问题15。",
+      "start": 875.96,
+      "end": 876.72
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the passage say about Goddard's achievements?",
+      "translation": "这段话对戈达德的成就怎么说?",
+      "start": 877.18,
+      "end": 880.08
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "From the four choices marked A, B,",
+      "translation": "从四个选择中 标有A,B,",
+      "start": 911.12,
+      "end": 913.76
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "C, and D.",
+      "translation": "C,和D., 和D., 和D.",
+      "start": 914.38,
+      "end": 915.38
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "mark the corresponding letter on answer sheet one with a single line through the center.",
+      "translation": "在答题单单行的答题表一中标出相应的字母。",
+      "start": 916.66,
+      "end": 921.6
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Recording one.",
+      "translation": "记录一。",
+      "start": 922.79,
+      "end": 923.61
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Working for a new venture comes with a lot of risks.",
+      "translation": "为一家新创企业工作伴随着诸多风险。",
+      "start": 924.63,
+      "end": 927.61,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "There's instability, unclear responsibilities, and the need to be a master of all trades.",
+      "translation": "企业可能缺乏稳定性，职责也不明确，而且需要一个人样样都能胜任。",
+      "start": 928.59,
+      "end": 934.81,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But the primary benefit is usually the passion and excitement associated with playing a role in a promising new company.",
+      "translation": "但其主要益处通常在于，能够参与一家前景可观的新公司，并从中获得激情与兴奋感。",
+      "start": 935.95,
+      "end": 944.15,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The person to thank for that passion and excitement is almost always the entrepreneur.",
+      "translation": "几乎总是应该感谢企业家的，正是这种激情与兴奋感。",
+      "start": 945.22,
+      "end": 950.04,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "There's something about the founder's energy and enthusiasm that infects the rest of the team.",
+      "translation": "创始人的活力与热情总有一种感染团队其他成员的力量。",
+      "start": 951.2,
+      "end": 957.62,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The willingness to take risks may inspire others to be more courageous.",
+      "translation": "敢于承担风险的意愿可能会激励他人变得更加勇敢。",
+      "start": 958.64,
+      "end": 962.88,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The optimism and positivity may motivate people to focus less on trivial and unimportant matters.",
+      "translation": "乐观积极的态度可能促使人们少关注琐碎且无关紧要的事情。",
+      "start": 964.2,
+      "end": 971.85,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The celebration of milestones may prompt staff to be more grateful about their own accomplishments and privileges.",
+      "translation": "对里程碑的庆祝可能会促使员工更加感激自己的成就与所拥有的优势。",
+      "start": 972.97,
+      "end": 979.69,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What becomes set in the firm's culture is a contagious collection of affirmative and positive emotions which are usually shared among the team.",
+      "translation": "公司文化中出现的情况是,在团队中通常共享的具有传染性的正面和正面情绪。",
+      "start": 981.24,
+      "end": 990.78
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Science has already done a good job of proving the results that follow.",
+      "translation": "科学在证明随后的结果方面已经做了很好的工作。",
+      "start": 991.71,
+      "end": 996.12
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "These include better processes, greater team cohesion, reduced conflict and sharper alertness.",
+      "translation": "其中包括改进进程、加强团队凝聚力、减少冲突以及提高警惕。",
+      "start": 997.51,
+      "end": 1005.04
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But what is yet to be demonstrated is whether the founder's passion leads to increased team performance.",
+      "translation": "但创始人的激情是否会带来团队绩效的提升，尚未得到证明。",
+      "start": 1005.93,
+      "end": 1012.61,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "This was recently tested in research, which analyzed the teams of 73 new companies across a range of industries such as IT, medicine and energy.",
+      "translation": "最近，一项研究对此进行了检验，分析了73家新公司的团队，这些公司涵盖IT、医疗和能源等多个行业。",
+      "start": 1013.72,
+      "end": 1026.61,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The CEOs were consulted once again, years after the initial analysis.",
+      "translation": "研究人员在初次分析数年后再次向这些公司的首席执行官进行了咨询。",
+      "start": 1028.03,
+      "end": 1032.85,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And most shared their firm's performance reports, so that their success could be more objectively measured.",
+      "translation": "大多数首席执行官都提供了公司的绩效报告，从而使研究人员能够更加客观地衡量其成功程度。",
+      "start": 1032.85,
+      "end": 1040.19,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Entrepreneurial teams generally progress through three phases.",
+      "translation": "创业团队通常会经历三个阶段。",
+      "start": 1041.69,
+      "end": 1046.01,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The first is inventing a product or service, the second is founding the venture to sell that product or service, and the third is developing the firm so it continues to grow.",
+      "translation": "第一阶段是发明一种产品或服务，第二阶段是创办企业来销售该产品或服务，第三阶段则是发展公司，使其能够持续增长。",
+      "start": 1046.97,
+      "end": 1059.08,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The researchers discovered that when the team is passionate about the third phase—developing the firm—there's a clear link to performance.",
+      "translation": "研究人员发现，当团队对第三阶段，也就是发展公司，充满热情时，这与绩效之间存在明确的联系。",
+      "start": 1060.34,
+      "end": 1068.78,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But the first phase—a passion for invention—is not a reliable indicator that the firm will still be open for business a few years later.",
+      "translation": "但第一阶段，即对发明的热情，并不能可靠地表明这家公司几年后仍会继续营业。",
+      "start": 1069.88,
+      "end": 1080.12,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Likewise, the second—a passion for founding the venture—doesn't necessarily translate into great success.",
+      "translation": "同样，第二阶段，即对创办企业的热情，也未必能转化为巨大的成功。",
+      "start": 1080.96,
+      "end": 1088.64,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The solution to great team performance stems from a willingness to recruit others who could direct their passion towards the third phase of entrepreneurialism: developing the business.",
+      "translation": "团队取得出色绩效的关键，在于愿意招募那些能够将热情投入创业第三阶段，即发展业务的人。",
+      "start": 1090.0,
+      "end": 1101.54,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Employing more staff can in itself be a risk for an entrepreneur, as is paying them big dollars to attract them.",
+      "translation": "雇用更多员工本身就可能给企业家带来风险，为了吸引他们而支付高额薪酬也是如此。",
+      "start": 1102.36,
+      "end": 1110.82,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "On many occasions, the entrepreneurs reported not paying themselves a wage at all initially, in order to cover salaries and expenses.",
+      "translation": "在许多情况下，企业家都表示，起初为了支付员工薪资和各项开支，他们甚至完全不给自己发工资。",
+      "start": 1111.5,
+      "end": 1119.76,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 16-18 are based on the recording you have just heard.",
+      "translation": "问题16-18是基于你刚才听到的录音。",
+      "start": 1121.23,
+      "end": 1125.23
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "16.",
+      "translation": "16岁。",
+      "start": 1126.69,
+      "end": 1127.35
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "does the speaker say about working for a new venture?",
+      "translation": "发言人有没有说要为新事业工作?",
+      "start": 1128.78,
+      "end": 1131.56
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "17.",
+      "translation": "17岁",
+      "start": 1145.33,
+      "end": 1146.07
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What has science demonstrated regarding the positive culture of a new venture?",
+      "translation": "科学在新企业的积极文化方面展示了什么?",
+      "start": 1146.97,
+      "end": 1151.25
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "18.",
+      "translation": "18岁",
+      "start": 1165.08,
+      "end": 1165.48
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "What does the speaker say about entrepreneurs at the initial stage of a new venture?",
+      "translation": "这位发言者对新企业初始阶段的企业家有何看法?",
+      "start": 1166.22,
+      "end": 1171.36
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Recording to.",
+      "translation": "记录。",
+      "start": 1184.92,
+      "end": 1185.72
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Ageing is a curious thing and people's desire to beat it—and death—has become an industry worth hundreds of billions of dollars.",
+      "translation": "衰老是一件奇妙的事情，而人们想要战胜衰老乃至死亡的愿望，已经催生了一个价值数千亿美元的产业。",
+      "start": 1187.0,
+      "end": 1196.5,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Despite the huge investment into research, ageing remains somewhat obscure, although there are certain things researchers do understand.",
+      "translation": "尽管投入了巨资进行研究，衰老仍然在一定程度上鲜为人知，不过研究人员确实了解一些情况。",
+      "start": 1197.44,
+      "end": 1206.3,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They know that women tend to have longer lifespans, living on average six years longer than men.",
+      "translation": "他们知道，女性往往寿命更长，平均比男性多活六年。",
+      "start": 1207.08,
+      "end": 1213.58,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "No one is really certain of the reason for this, although the speculation centers around the idea that women are more capable of surviving or handling disease than men.",
+      "translation": "没有人真正确定其中的原因，不过有人推测，这可能是因为女性比男性更有能力挺过疾病或应对疾病。",
+      "start": 1214.18,
+      "end": 1224.58,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "For virtually every disease, the effects are greater on men than they are on women.",
+      "translation": "几乎对于每一种疾病，男性受到的影响都比女性更大。",
+      "start": 1225.22,
+      "end": 1229.38,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Some suggest that women's immune systems benefit from their tendency to prioritize and nurture social connections.",
+      "translation": "有人认为，女性倾向于优先维系和培养社会关系，这使她们的免疫系统受益。",
+      "start": 1230.19,
+      "end": 1237.49,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But for me, this explanation is hardly convincing.",
+      "translation": "但对我而言，这种解释很难令人信服。",
+      "start": 1238.57,
+      "end": 1241.87,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Researchers also know, to an extent, what causes ageing.",
+      "translation": "研究人员也在一定程度上了解衰老的原因。",
+      "start": 1243.1,
+      "end": 1247.97,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "For 60 years, it was believed that cells would continue to divide forever.",
+      "translation": "在长达60年的时间里，人们一直认为细胞会不断分裂下去，永远不会停止。",
+      "start": 1247.97,
+      "end": 1251.93,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It was only uncovered in relatively recent times that older people's cells divide a smaller number of times than younger people's.",
+      "translation": "直到相对较近的时期，人们才发现，老年人的细胞分裂次数少于年轻人的。",
+      "start": 1253.22,
+      "end": 1262.04,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Only cancer cells, in fact, are capable of dividing forever.",
+      "translation": "事实上，只有癌细胞能够无限分裂。",
+      "start": 1262.77,
+      "end": 1266.71,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Human cells have a limited reproductive ability.",
+      "translation": "人体细胞的繁殖能力是有限的。",
+      "start": 1267.56,
+      "end": 1270.44,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "To an extent, we can postpone the eventual stop of cells' dividing, through nutrition, exercise, good sleep, and even relaxation techniques.",
+      "translation": "在一定程度上，我们可以通过营养、锻炼、良好的睡眠，甚至放松技巧，推迟细胞最终停止分裂的时间。",
+      "start": 1271.6,
+      "end": 1281.64,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But we cannot stop the ageing process.",
+      "translation": "但我们无法阻止衰老过程。",
+      "start": 1282.85,
+      "end": 1285.01,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And researchers are yet to answer the ultimate question of ageing.",
+      "translation": "研究人员尚未回答老龄化这一最终问题。",
+      "start": 1286.5,
+      "end": 1290.61
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Why does the body ultimately fall to pieces?",
+      "translation": "为什么身体最终会变成碎片?",
+      "start": 1290.61,
+      "end": 1293.17
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In the opinion of some of the world's best scientific minds on the subject, part of the reason we don't yet have an answer is because many researchers are looking in the wrong direction.",
+      "translation": "在该领域一些世界顶尖科学家的看法中，我们至今尚未找到答案，部分原因在于许多研究人员的研究方向错了。",
+      "start": 1294.32,
+      "end": 1305.38,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Many public health policy makers believe that the resolution of age-associated disease will tell us something fundamental about the ageing process, but say some top scientists, that's completely erroneous.",
+      "translation": "许多公共卫生政策制定者认为，解决与年龄相关的疾病将使我们了解衰老过程中的某些根本问题，但一些顶尖科学家说，这种看法完全错误。",
+      "start": 1306.2,
+      "end": 1320.44,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They point to when the diseases of childhood were eliminated, but this did not provide any insight into childhood development.",
+      "translation": "他们指出，儿童期疾病被消除之后，并没有因此让人们对儿童成长发育有任何深入了解。",
+      "start": 1321.48,
+      "end": 1328.5,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In the same way, the idea that the resolution of age-associated disease like heart disease and stroke will inform us about ageing is not based on sound science or logic.",
+      "translation": "同样，认为解决心脏病和中风等与年龄相关的疾病就能让我们了解衰老，这一想法没有坚实的科学或逻辑依据。",
+      "start": 1329.52,
+      "end": 1340.9,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "At best, if the major causes of death in developed countries were eliminated, this would only add a decade to average life expectancy.",
+      "translation": "充其量，即使发达国家消除了导致死亡的主要原因，也只能使平均预期寿命增加十年。",
+      "start": 1341.98,
+      "end": 1350.02,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But while there is money available to be spent on it, the search to understand the secrets of ageing will be ongoing.",
+      "translation": "不过，只要还有资金可以投入，对衰老奥秘的探索就将持续下去。",
+      "start": 1351.18,
+      "end": 1357.9,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Good afternoon.",
+      "translation": "下午好。",
+      "start": 1422.28,
+      "end": 1423.28,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In today's talk, we'll discuss how managers can get their staff to do what they are asked.",
+      "translation": "今天的讲座中，我们将讨论管理者如何让员工按照要求完成工作。",
+      "start": 1424.14,
+      "end": 1429.6,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Much to their frustration, managers often struggle to get their staff to comply with even simple instructions.",
+      "translation": "令管理者深感沮丧的是，他们常常难以让员工遵守哪怕是简单的指示。",
+      "start": 1430.82,
+      "end": 1437.4,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Often they blame their employees: \"They don't read emails, they don't listen, they don't care\"-that kind of thing.",
+      "translation": "他们往往把责任归咎于员工：“他们不读邮件，不听指示，也不在乎——诸如此类。",
+      "start": 1438.4,
+      "end": 1446.5,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "But according to recent research conducted in Australia, it looks like it's not the employees' fault but the managers'.",
+      "translation": "”但根据澳大利亚近期开展的一项研究，问题似乎不在员工，而在管理者。",
+      "start": 1447.16,
+      "end": 1454.47,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It's easy to understand why people sometimes disobey procedures intentionally.",
+      "translation": "人们有时会故意不遵守程序，这一点很容易理解。",
+      "start": 1455.67,
+      "end": 1459.97,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Occasionally, it's because they're pressured to finish in a short time.",
+      "translation": "有时是因为他们受到压力，必须在很短的时间内完成工作。",
+      "start": 1461.07,
+      "end": 1465.35,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "At other times, they may disagree with the spirit of the procedure, the effort demanded, the time consumed, the lack of potential effectiveness.",
+      "translation": "另一些时候，他们可能不同意程序的宗旨，或认为程序要求付出的努力太多、耗费的时间太长，或者潜在的成效不足。",
+      "start": 1466.33,
+      "end": 1475.65,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And every now and then, they just don't want to, maybe deliberately or out of stubbornness.",
+      "translation": "还有些时候，他们只是不想遵守，可能是故意如此，也可能是出于固执。",
+      "start": 1476.9,
+      "end": 1483.55,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "So apart from that, what else gets in the way of procedural compliance?",
+      "translation": "那么，除此之外，还有什么因素会妨碍人们遵守程序呢？",
+      "start": 1484.32,
+      "end": 1488.76,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "The research scholars surveyed 152 blue-collar workers from two separate sites in the mining industry.",
+      "translation": "研究人员对采矿业两个不同工作地点的152名蓝领工人进行了调查。",
+      "start": 1490.26,
+      "end": 1497.96,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They asked the workers a range of procedure-related questions, such as whether they found the procedures useful, how confident they felt in their job, how comfortable they were to speak up in the workplace, and how closely they followed any new procedures set by their managers.",
+      "translation": "他们向工人提出了一系列与程序有关的问题，例如他们是否认为这些程序有用、对自己的工作有多大信心、在工作场所发言时是否感到自在，以及他们在多大程度上遵循管理者制定的任何新程序。",
+      "start": 1498.86,
+      "end": 1517.07,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They were also asked to rate the extent to which they perceived their supervisors to be helpful.",
+      "translation": "他们还被要求评价自己认为主管在多大程度上能够提供帮助。",
+      "start": 1518.59,
+      "end": 1524.35,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That last statement was the most instructive because, as the researchers found, there was a remarkably strong correlation between how helpful supervisors were perceived to be and how likely their employees were to follow their directives.",
+      "translation": "最后一点最能说明问题，因为研究人员发现，人们认为主管是否乐于提供帮助，与员工是否愿意遵循主管的指示之间存在显著的强相关性。",
+      "start": 1525.97,
+      "end": 1541.86,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Supervisors' helping behavior was found to be motivational in nature.",
+      "translation": "研究发现，主管的帮助行为具有激励作用。",
+      "start": 1543.1,
+      "end": 1548.1,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "It increased employees' perception of the likelihood of success in the attainment of job goals, and therefore fostered a willingness to dedicate their effort and ability to their work.",
+      "translation": "这种行为提高了员工对实现工作目标成功可能性的认识，因此促使他们愿意将自己的努力和能力投入工作。",
+      "start": 1549.26,
+      "end": 1561.58,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "In short, managers should be ongoing role models for the change.",
+      "translation": "简而言之，管理者应当持续以身作则，推动变革。",
+      "start": 1562.82,
+      "end": 1567.4,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "As the saying goes: \"Do as I do, not as I say\".",
+      "translation": "正如俗话所说：“照我做，而不是照我说的做。",
+      "start": 1567.4,
+      "end": 1572.08,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "To affect behavioral change, what's most required is interaction and involvement—the human touch—and, naturally, processes that add value.",
+      "translation": "”要促进行为改变，最需要的是互动和参与——人与人之间的沟通——当然还需要能够创造价值的流程。",
+      "start": 1573.28,
+      "end": 1586.14,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Although procedures are designed to guide and support employees' work, employees, it seems, can't always be expected to comply with procedures that are not seen as useful.",
+      "translation": "虽然程序旨在指导和支持员工的工作，但看来，我们不能总是期待员工遵守那些被认为没有用处的程序。",
+      "start": 1587.17,
+      "end": 1598.71,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "And of course, managers shouldn't keep resending emails.",
+      "translation": "当然，管理者也不应一遍遍地重新发送邮件。",
+      "start": 1599.79,
+      "end": 1603.7,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "They're an effective tool for the sharing of data and reports, but they're a hopeless tool if what a manager is desiring is a change in behavior.",
+      "translation": "邮件是分享数据和报告的有效工具，但如果管理者想要改变员工的行为，邮件就完全不起作用了。",
+      "start": 1604.79,
+      "end": 1614.09,
+      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Questions 22 to 25 are based on the recording you have just heard.",
+      "translation": "问题22至25是基于你刚才听到的录音",
+      "start": 1615.49,
+      "end": 1619.97
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "22.",
+      "translation": "22. 妇女 22",
+      "start": 1621.41,
+      "end": 1622.15
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Why are managers often frustrated with their employees?",
+      "translation": "为什么管理人员经常对雇员感到沮丧?",
+      "start": 1623.67,
+      "end": 1626.71
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 23.",
+      "translation": "问题23。",
+      "start": 1640.57,
+      "end": 1641.43
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Why do employees sometimes disobey procedures intentionally?",
+      "translation": "为什么雇员有时故意不服从程序?",
+      "start": 1642.38,
+      "end": 1646.98
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 24 When are employees more likely to follow instructions according to the researchers?",
+      "translation": "问题24:雇员何时更有可能按照研究人员的指示行事?",
+      "start": 1660.81,
+      "end": 1667.49
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "Question 25 What does the speaker say about e-mail?",
+      "translation": "问题25 发言者对电子邮件怎么说?",
+      "start": 1681.45,
+      "end": 1685.93
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "That's the end of listening comprehension",
+      "translation": "听觉理解到此结束",
+      "start": 1699.3,
+      "end": 1701.34
+    }
+  ],
+  "translation_sources": [
+    "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/",
+    "Sams200/opus-mt-en-zh (unmatched sentences only)"
+  ]
+}
