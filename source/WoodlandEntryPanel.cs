@@ -1,14 +1,14 @@
 ﻿using System;using System.Drawing;using System.Windows.Forms;using System.Collections.Generic;
 public sealed class WoodlandEntryPanel:BattleGlassPanel {
  readonly bool continuing;readonly OutlinedLabel title,intro,heading,rule;readonly List<VNButton> modes=new List<VNButton>();readonly VNButton enter,secondary,back;public string VocabularyMode{get;private set;}
- public WoodlandEntryPanel(bool active,string description,string mode,Action<string> chooseMode,Action start,Action configureOrAbandon,Action returnToTavern){
+ public WoodlandEntryPanel(bool active,string description,string mode,Action<string> chooseMode,Action start,Action configureOrAbandon,Action returnToTavern,Func<string,string> progress=null){
   continuing=active;VocabularyMode=mode;Size=new Size(620,440);
   title=Label("支线远征 · 剧毒林地",GuildChrome.Gold);
   intro=Label(description,GuildChrome.Ivory);
   heading=Label(active?"训练词库 · "+mode:"选择训练词库",GuildChrome.Gold);
-  rule=Label("连对3次退场 · 选择与拼写交替\n间隔复习 · 跨战斗保存学习进度",GuildChrome.Muted);
+  rule=Label(progress==null?"连对3次退场 · 选择与拼写交替\n间隔复习 · 与厨房共享学习进度":progress(mode)+"\n选择与拼写交替 · 与厨房共享学习进度",GuildChrome.Muted);
   if(!active)foreach(var name in new[]{"四级词汇","六级词汇","四六级混合"}){
-   var selected=name;var button=Button(name,()=>{if(VocabularyMode==selected)return;VocabularyMode=selected;foreach(var item in modes){item.Active=item.Text==selected;item.AccessibleName=item.Text+(item.Active?" · 已选择":"");item.Invalidate();}chooseMode(selected);});button.Active=name==mode;button.AccessibleName=name+(button.Active?" · 已选择":"");modes.Add(button);
+   var selected=name;var button=Button(name,()=>{if(VocabularyMode==selected)return;VocabularyMode=selected;foreach(var item in modes){item.Active=item.Text==selected;item.AccessibleName=item.Text+(item.Active?" · 已选择":"");item.Invalidate();}chooseMode(selected);if(progress!=null)rule.Text=progress(selected)+"\n选择与拼写交替 · 与厨房共享学习进度";});button.Active=name==mode;button.AccessibleName=name+(button.Active?" · 已选择":"");modes.Add(button);
   }
   enter=Button(active?"继续上次远征":"整备完毕 · 出发",start);
   secondary=Button(active?"放弃上次远征":"配置男女主技能",configureOrAbandon);

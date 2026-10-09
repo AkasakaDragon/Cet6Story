@@ -1,4 +1,15 @@
-using System;using System.Drawing;using System.Windows.Forms;
+﻿using System;using System.Drawing;using System.Windows.Forms;using System.Collections.Generic;
 public partial class Game {
- void AddKitchenModeButtons(KitchenRoomView view){var row=new Panel{Height=42,BackColor=Color.FromArgb(25,53,55)};view.Controls.Add(row);var choices=new VNButton[3];for(int i=0;i<choices.Length;i++){int at=i;choices[i]=PartyButton(KitchenVocabulary.Modes[i],()=>{KitchenState().wordMode=KitchenVocabulary.Modes[at];foreach(var button in choices)button.Active=button.Text==KitchenState().wordMode;Persist();view.Invalidate();},150,38);choices[i].Active=choices[i].Text==KitchenState().wordMode;row.Controls.Add(choices[i]);}Action layout=()=>{row.Bounds=new Rectangle(20,65,Math.Min(560,Math.Max(1,view.Width-40)),42);int width=(row.Width-12)/3;for(int i=0;i<choices.Length;i++)choices[i].Bounds=new Rectangle(i*(width+6),2,width,38);};view.Resize+=(s,e)=>layout();layout();row.BringToFront();}
+ Action refreshKitchenProgress;
+ void AddKitchenModeButtons(KitchenRoomView view){refreshKitchenProgress=()=>{if(!view.IsDisposed){view.WordProgress=KitchenState().wordMode+" · "+VocabularyProgressText(KitchenState().wordMode);view.Invalidate();}};refreshKitchenProgress();}
+ void ShowKitchenVocabularySelection(){
+  string chosen=null;
+  using(var dialog=SpellDialog("厨房工作 · 选择词库",700,440)){
+   var body=new Panel{Dock=DockStyle.Fill,BackColor=dialog.BackColor};dialog.Controls.Add(body);
+   var title=new OutlinedLabel{Text="选择本次厨房词库 · 与支线远征共享学习进度",Font=GameTheme.Body(12),ForeColor=GuildChrome.Ivory};body.Controls.Add(title);
+   var buttons=new List<VNButton>();foreach(string mode in KitchenVocabulary.Modes){string selected=mode;var button=PartyButton(mode+"\n"+VocabularyProgressText(mode),()=>{chosen=selected;dialog.Close();},560,68);button.Font=GameTheme.Body(11);button.Active=mode==KitchenState().wordMode;buttons.Add(button);body.Controls.Add(button);}
+   Action layout=()=>{int w=body.Width;title.Bounds=new Rectangle(0,0,w,48);int gap=8;int height=Math.Min(72,Math.Max(48,(body.Height-58-gap*2)/3));for(int i=0;i<buttons.Count;i++)buttons[i].Bounds=new Rectangle(0,58+i*(height+gap),w,height);};body.Resize+=(s,e)=>layout();layout();dialog.ShowDialog(this);
+  }
+  if(chosen==null)return;KitchenState().wordMode=chosen;Persist();ShowKitchenWork();
+ }
 }
