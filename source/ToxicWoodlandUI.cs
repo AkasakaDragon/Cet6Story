@@ -1,4 +1,4 @@
-﻿using System;using System.Linq;using System.Drawing;using System.Drawing.Drawing2D;using System.Windows.Forms;using System.Collections.Generic;using System.Diagnostics;
+using System;using System.Linq;using System.Drawing;using System.Drawing.Drawing2D;using System.Windows.Forms;using System.Collections.Generic;using System.Diagnostics;
 public sealed class WoodlandRouteMap:Panel {
  public ToxicWoodlandRun Run;public Image Art;public Action<string> Selected;readonly Dictionary<string,Rectangle> hits=new Dictionary<string,Rectangle>();public int SidebarWidth=310;public Action InterfaceCleanup;
  protected override void Dispose(bool disposing){if(disposing&&InterfaceCleanup!=null){InterfaceCleanup();InterfaceCleanup=null;}base.Dispose(disposing);}
@@ -21,7 +21,26 @@ public sealed class WoodlandCrossfade:Control {
 public partial class Game {
  WoodlandRouteMap woodlandMap;bool woodlandChanging;
  Image ToxicBattleBackground(){return CachedImage(System.IO.Path.Combine(root,"assets","dungeons","toxic-woodland","battle-glade-muted.png"));}
- void ToxicTransition(Action action){if(woodlandChanging)return;woodlandChanging=true;var overlay=new WoodlandCrossfade{Bounds=content.Bounds,Anchor=AnchorStyles.Left|AnchorStyles.Right|AnchorStyles.Top|AnchorStyles.Bottom};if(content.Width>0&&content.Height>0){overlay.Before=new Bitmap(content.Width,content.Height);content.DrawToBitmap(overlay.Before,new Rectangle(Point.Empty,overlay.Before.Size));}Controls.Add(overlay);overlay.BringToFront();overlay.Refresh();try{using(var redraw=new BattleRedrawScope(content)){action();content.PerformLayout();overlay.After=new Bitmap(Math.Max(1,content.Width),Math.Max(1,content.Height));content.DrawToBitmap(overlay.After,new Rectangle(Point.Empty,overlay.After.Size));}}catch{Controls.Remove(overlay);overlay.Dispose();woodlandChanging=false;throw;}overlay.Completed=()=>{Controls.Remove(overlay);overlay.Dispose();woodlandChanging=false;content.Focus();UpdateRogueAudio();};overlay.Start();}
+ void ToxicTransition(Action action){
+  if(woodlandChanging)return;woodlandChanging=true;
+  var overlay=new WoodlandCrossfade{Bounds=content.Bounds,Anchor=AnchorStyles.Left|AnchorStyles.Right|AnchorStyles.Top|AnchorStyles.Bottom};
+  Action release=()=>{try{if(!IsDisposed){content.PerformLayout();content.Invalidate(true);Controls.Remove(overlay);content.Refresh();content.Focus();UpdateRogueAudio();}}finally{overlay.Dispose();woodlandChanging=false;}};
+  try{
+   content.PerformLayout();
+   if(content.Width>0&&content.Height>0){overlay.Before=new Bitmap(content.Width,content.Height);content.DrawToBitmap(overlay.Before,new Rectangle(Point.Empty,overlay.Before.Size));}
+   Controls.Add(overlay);overlay.BringToFront();overlay.Refresh();
+   using(var redraw=new BattleRedrawScope(content)){action();}
+   // ResumeLayout must run before capturing the destination: PerformLayout
+   // inside the redraw scope is deferred and leaves new docked pages at 200x100.
+   content.PerformLayout();
+   foreach(Control child in content.Controls)child.PerformLayout();
+   overlay.Bounds=content.Bounds;
+   overlay.After=new Bitmap(Math.Max(1,content.Width),Math.Max(1,content.Height));
+   content.DrawToBitmap(overlay.After,new Rectangle(Point.Empty,overlay.After.Size));
+   overlay.Completed=release;overlay.Start();
+  }catch{release();throw;}
+ }
+
  void ShowToxicWoodlandEntry(){
   if(save.toxicWoodland!=null&&save.toxicWoodland.version<2){var old=save.toxicWoodland;var learning=ExpeditionVocabulary.Profile(save.rogue);old.learnedStart=learning.learned;old.reviewedStart=learning.reviewed;old.version=2;}
   ToxicTransition(()=>{

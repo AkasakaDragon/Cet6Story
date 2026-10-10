@@ -129,11 +129,13 @@ public partial class Game {
   ShowStory();BeginInvoke((Action)(()=>{if(page=="story"&&TavernStory.Is(current))PlayCurrent();}));
  }
  bool TryTavernBattle(){
+  if(TryMineStoryBattle())return true;
   if(!TavernStory.Is(current)||index!=TavernStory.BattleLine||save.storyFlags.Contains(TavernStory.BattleFlag))return false;
   if(menuLoading!=null&&!menuLoading.IsDisposed)return true;
   StopAudio();NavigateMenu(ShowTavernBattle,"战斗",false);return true;
  }
  void ShowTavernBattle(){
+  if(MineStoryBattle.Is(current)){ShowMineStoryBattle();return;}
   if(save.tavernBattle==null)save.tavernBattle=TavernStory.NewBattle(save.rogue);
   var r=save.tavernBattle;r.cardBattle.monster="荆棘孢子兽";r.mode="破败驿站 · 角色技能战斗";r.theme=0;Persist();RenderFullBattle(r);
  }
@@ -142,6 +144,7 @@ public partial class Game {
   return CardBattle.EndTurn(r);
  }
  void ContinueTavernBattle(){
+  if(save.tavernBattle!=null&&save.tavernBattle.id==MineStoryBattle.RunId){ContinueMineStoryBattle();return;}
   var r=save.tavernBattle;if(r.state=="won"){
    if(menuLoading!=null&&!menuLoading.IsDisposed)return;
    NavigateMenu(()=>{

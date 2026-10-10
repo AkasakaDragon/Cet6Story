@@ -17,7 +17,7 @@ public static class SectionRules {
  }
 }
 
-public class SectionAttempt { public bool introShown {get;set;} public bool endingShown {get;set;}
+public class SectionAttempt { public bool introShown {get;set;} public bool endingShown {get;set;} public bool mineBattleWon {get;set;}
  public bool? chineseSubtitles {get;set;} public bool? englishSubtitles {get;set;} public bool subtitlesChosen {get;set;} public bool usedChineseSubtitles {get;set;} public bool usedEnglishSubtitles {get;set;}
  public long? elapsedTicks {get;set;}
  public bool rulesShown {get;set;} public long started {get;set;} public long finished {get;set;} public bool usedReplay {get;set;} public bool review {get;set;} public int replayAfterLine {get;set;}
@@ -46,7 +46,7 @@ public partial class Game {
  }
  void RefreshListeningProgress(){if(!originalPlaying||current==null)return;var position=new System.Text.StringBuilder(64);mciSendString("status storyaudio position",position,position.Capacity,IntPtr.Zero);long milliseconds;if(long.TryParse(position.ToString(),out milliseconds))RecordListeningProgress((long)Math.Round(milliseconds*save.storySpeed));}
  void RecordListening(){if(listeningChapter!=current.id||listeningFrom<0)return;for(int i=listeningFrom;i<=listeningTo;i++)if(!save.heardLines.Contains(HeardKey(i)))save.heardLines.Add(HeardKey(i));if(allPlaying)index=listeningTo;listeningFrom=-1;listeningTo=-1;Persist();UpdateLine();}
- void ResetSection(){StoryRoutes.Normalize(save);save.storyRoutes.Remove(current.id);string prefix=current.id+"/q/";foreach(var k in save.quizAnswers.Keys.Where(k=>k.StartsWith(prefix)).ToList())save.quizAnswers.Remove(k);foreach(var k in save.answerStarted.Keys.Where(k=>k.StartsWith(prefix)).ToList())save.answerStarted.Remove(k);foreach(var k in save.answerTimely.Keys.Where(k=>k.StartsWith(prefix)).ToList())save.answerTimely.Remove(k);save.heardLines.RemoveAll(k=>k.StartsWith(current.id+"/line/"));save.sectionAttempts[current.id]=new SectionAttempt();index=0;save.positions[current.id]=0;Persist();}
+ void ResetSection(){if(MineStoryBattle.Is(current)&&save.tavernBattle!=null&&save.tavernBattle.id==MineStoryBattle.RunId)save.tavernBattle=null;StoryRoutes.Normalize(save);save.storyRoutes.Remove(current.id);string prefix=current.id+"/q/";foreach(var k in save.quizAnswers.Keys.Where(k=>k.StartsWith(prefix)).ToList())save.quizAnswers.Remove(k);foreach(var k in save.answerStarted.Keys.Where(k=>k.StartsWith(prefix)).ToList())save.answerStarted.Remove(k);foreach(var k in save.answerTimely.Keys.Where(k=>k.StartsWith(prefix)).ToList())save.answerTimely.Remove(k);save.heardLines.RemoveAll(k=>k.StartsWith(current.id+"/line/"));save.sectionAttempts[current.id]=new SectionAttempt();index=0;save.positions[current.id]=0;Persist();}
  void ClearAnsweredReplay(){if(!current.inlineQuestions)return;var a=Attempt();if(a.replayAfterLine==index&&save.quizAnswers.ContainsKey(current.id+"/q/"+index)){a.replayAfterLine=-1;Persist();}}
  void ReplayQuestion(QuizQuestion q){StopAudio();var a=Attempt();a.usedReplay=true;a.replayAfterLine=q.afterLine;index=SegmentFirst(q);Persist();UpdateLine();allPlaying=true;StartLine(true);}
  void ReviewSection(){StopAudio();var a=Attempt();a.review=true;a.replayAfterLine=-1;index=0;englishVisible=true;Persist();UpdateLine();allPlaying=true;StartLine(true);}

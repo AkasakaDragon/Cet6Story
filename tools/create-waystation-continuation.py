@@ -118,7 +118,7 @@ async def main():
         questions = [dict(afterLine=at, skill=skill, prompt=prompt, options=options, answer=answer, explanation=explanation)
                      for at, skill, prompt, options, answer, explanation in section['questions']]
         chapter = dict(id=f'tavern-01-{number:02}', title=f'第一章：今天开始营业 · 第{number}节：' + section['name'],
-                       timeOfDay=section.get('timeOfDay'), description=section['ending'], source='原创奇幻剧情与四道分段听力题，非考试原文。',
+                       timeOfDay=section.get('timeOfDay'), description=section['ending'], source=f'原创奇幻剧情与{len(questions)}道分段听力题，非考试原文。',
                        audio=f'audio/tavern/{media}/story.wav', audioLabel='离线固定角色英文配音',
                        background=lines[0]['scene'], unlockLevel=1, sortOrder=1000 + number * 10,
                        pixelArt=True, inlineQuestions=True, timeLimitSeconds=1200,

@@ -70,10 +70,9 @@ public static class GameMessage {
 }
 
 public partial class Game {
- WindowGlyph windowClose,windowMin,windowMax;
- void InitWindowControls(){Padding=new Padding(8,34,8,8);windowClose=new WindowGlyph{Kind="close",AccessibleName="退出游戏"};windowMin=new WindowGlyph{Kind="min",AccessibleName="最小化"};windowMax=new WindowGlyph{Kind="max",AccessibleName="全屏切换"};windowClose.Click+=(s,e)=>Close();windowMin.Click+=(s,e)=>WindowState=FormWindowState.Minimized;windowMax.Click+=(s,e)=>ToggleFullscreen();Controls.AddRange(new Control[]{windowMin,windowMax,windowClose});Resize+=(s,e)=>LayoutWindowControls();LayoutWindowControls();}
- void LayoutWindowControls(){if(windowClose==null)return;int x=ClientSize.Width-40;windowClose.Location=new Point(x,2);windowMax.Location=new Point(x-36,2);windowMin.Location=new Point(x-72,2);foreach(var button in new[]{windowClose,windowMax,windowMin})button.BringToFront();}
- protected override void WndProc(ref Message m){if(GameTheme.HitTest(this,ref m,!windowFullscreenApplied,!windowFullscreenApplied))return;base.WndProc(ref m);}
+ void InitWindowControls(){Padding=Padding.Empty;}
+
+ protected override void WndProc(ref Message m){if(GameTheme.HitTest(this,ref m,!windowFullscreenApplied,false))return;base.WndProc(ref m);}
 }
 
 public class MainMenuPanel:Panel {

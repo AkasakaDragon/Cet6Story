@@ -2,7 +2,7 @@
   "id": "tavern-01-05",
   "title": "第一章：今天开始营业 · 第5节：旧矿道：第一次主动出发",
   "description": "三人取得第一块修复碎晶，记录异常拖痕后返回。更深处的调查留待准备充分之后。",
-  "source": "原创奇幻剧情与四道分段听力题，非考试原文。",
+  "source": "原创奇幻剧情与三道分段听力题，非考试原文。",
   "audio": "audio/tavern/chapter-five/story.wav",
   "audioLabel": "离线固定角色英文配音 · 莉瑟：MiniMax 温暖少女",
   "background": "art/tavern/chapter-one-mine-night.png",
@@ -115,60 +115,12 @@
       "speaker": "艾莉娅",
       "voiceRole": "艾莉娅",
       "actor": "aelia",
-      "text": "Do not run blindly backward! The left side is clear. Lu Chuan, help me see where it lands.",
-      "translation": "别往后乱跑！左侧空着，陆川，帮我照清它的落点。",
-      "scene": "art/tavern/chapter-one-mine-night.png",
-      "sceneSingle": true,
-      "start": 56.326,
-      "end": 64.606,
-      "timeOfDay": "night"
-    },
-    {
-      "speaker": "陆川",
-      "voiceRole": "陆川",
-      "actor": "luchuan",
-      "text": "The card says 'restrain', not 'attack'. I will limit its movement, then you can push it back.",
-      "translation": "卡牌上的“牵制”不是攻击。我先限制它移动，你再把它挡开。",
-      "scene": "art/tavern/chapter-one-mine-night.png",
-      "sceneSingle": true,
-      "start": 64.856,
-      "end": 71.984,
-      "timeOfDay": "night"
-    },
-    {
-      "speaker": "莉瑟",
-      "voiceRole": "莉瑟",
-      "actor": "lyse",
-      "text": "I will hold the light to the left, away from your eyes. It is about to leap again!",
-      "translation": "灯放左边，不照你的眼睛。它又要扑了！",
-      "scene": "art/tavern/chapter-one-mine-night.png",
-      "sceneSingle": true,
-      "start": 72.234,
-      "end": 77.634,
-      "timeOfDay": "night"
-    },
-    {
-      "speaker": "旁白",
-      "voiceRole": "旁白",
-      "actor": "",
-      "text": "The word pact binds the creature's front claws. Aelia drives it behind the cart with her shield, and the three regain their footing.",
-      "translation": "言契束住怪物的前爪，艾莉娅用盾将它逼回废矿车后。三人重新站稳。",
-      "scene": "art/tavern/chapter-one-mine-night.png",
-      "sceneSingle": true,
-      "start": 77.884,
-      "end": 86.62,
-      "timeOfDay": "night"
-    },
-    {
-      "speaker": "艾莉娅",
-      "voiceRole": "艾莉娅",
-      "actor": "aelia",
       "text": "That is enough. Do not chase it. It has withdrawn; we will inspect the stone ledge before the junction.",
       "translation": "够了，不追。它退开了，我们继续看岔路前的石台。",
       "scene": "art/tavern/chapter-one-mine-night.png",
       "sceneSingle": true,
-      "start": 86.87,
-      "end": 95.03,
+      "start": 56.326,
+      "end": 64.486,
       "timeOfDay": "night"
     },
     {
@@ -179,8 +131,8 @@
       "translation": "这里的拖痕都朝着石台，不像随便路过。它们可能在找同一个东西。",
       "scene": "art/tavern/chapter-one-mine-night.png",
       "sceneSingle": true,
-      "start": 95.28,
-      "end": 102.72,
+      "start": 64.736,
+      "end": 72.176,
       "timeOfDay": "night"
     },
     {
@@ -191,8 +143,8 @@
       "translation": "光蝶停在石缝上了。缝里有一块晶体，颜色和你们吧台上的一样。",
       "scene": "art/tavern/chapter-one-mine-night.png",
       "sceneSingle": true,
-      "start": 102.97,
-      "end": 109.53,
+      "start": 72.426,
+      "end": 78.986,
       "timeOfDay": "night"
     },
     {
@@ -203,8 +155,8 @@
       "translation": "先别伸手。石台底下还有动静，我来挡住。",
       "scene": "art/tavern/chapter-one-mine-night.png",
       "sceneSingle": true,
-      "start": 109.78,
-      "end": 116.62,
+      "start": 79.236,
+      "end": 86.076,
       "timeOfDay": "night"
     },
     {
@@ -215,8 +167,8 @@
       "translation": "标记旁边写着“先松扣，再抬盖”。硬拉会把石缝压紧。",
       "scene": "art/tavern/chapter-one-mine-night.png",
       "sceneSingle": true,
-      "start": 116.87,
-      "end": 123.902,
+      "start": 86.326,
+      "end": 93.358,
       "timeOfDay": "night"
     },
     {
@@ -227,8 +179,8 @@
       "translation": "我找到了扣环。按说明来，晶体没有卡住了。",
       "scene": "art/tavern/chapter-one-mine-night.png",
       "sceneSingle": true,
-      "start": 124.152,
-      "end": 128.582,
+      "start": 93.608,
+      "end": 98.038,
       "timeOfDay": "night"
     },
     {
@@ -239,20 +191,20 @@
       "translation": "莉瑟取出碎晶，用布包好。提灯的光缩成一圈，绕在她掌心。",
       "scene": "art/tavern/chapter-one-mine-night.png",
       "sceneSingle": true,
-      "start": 128.832,
-      "end": 136.464,
+      "start": 98.288,
+      "end": 105.92,
       "timeOfDay": "night"
     },
     {
       "speaker": "旁白",
       "voiceRole": "旁白",
       "actor": "",
-      "text": "The guardian beneath the ledge strikes the shield. Aelia steadies herself a step back as Lu Chuan opens the restraint card again.",
-      "translation": "石台下的守卫兽撞向盾面。艾莉娅退半步站稳，陆川再次展开牵制卡。",
+      "text": "The guardian beneath the ledge strikes the shield. Aelia steadies herself a step back as Lu Chuan immediately casts a barrier.",
+      "translation": "石台下的守卫兽撞向盾面。艾莉娅退半步站稳，陆川立马发动屏障。",
       "scene": "art/tavern/chapter-one-mine-night.png",
       "sceneSingle": true,
-      "start": 136.714,
-      "end": 145.306,
+      "start": 106.17,
+      "end": 114.738,
       "timeOfDay": "night"
     },
     {
@@ -263,8 +215,8 @@
       "translation": "碎片拿到了，沿标记退！我挡最后一下，不需要在这里打到底。",
       "scene": "art/tavern/chapter-one-mine-night.png",
       "sceneSingle": true,
-      "start": 145.556,
-      "end": 154.748,
+      "start": 114.988,
+      "end": 124.18,
       "timeOfDay": "night"
     },
     {
@@ -275,8 +227,8 @@
       "translation": "原路两处箭头，出口在转角左边。莉瑟先走，我跟着，艾莉娅断后。",
       "scene": "art/tavern/chapter-one-mine-night.png",
       "sceneSingle": true,
-      "start": 154.998,
-      "end": 163.638,
+      "start": 124.43,
+      "end": 133.07,
       "timeOfDay": "night"
     },
     {
@@ -287,8 +239,8 @@
       "translation": "深处还有回声……但我们答应过只看第一处岔路。今天不追了。",
       "scene": "art/tavern/chapter-one-mine-night.png",
       "sceneSingle": true,
-      "start": 163.888,
-      "end": 170.281292,
+      "start": 133.32,
+      "end": 139.713292,
       "timeOfDay": "night"
     },
     {
@@ -299,8 +251,8 @@
       "translation": "回去把拖痕的位置交给守卫。下次来，得有地图和更多准备。",
       "scene": "art/tavern/chapter-one-mine-night.png",
       "sceneSingle": true,
-      "start": 170.531292,
-      "end": 176.987292,
+      "start": 139.963292,
+      "end": 146.419292,
       "timeOfDay": "night"
     },
     {
@@ -311,8 +263,8 @@
       "translation": "三人走出铁栏时，夜风吹散了石尘。陆川回头确认，每个人都在。",
       "scene": "art/tavern/chapter-one-mine-night.png",
       "sceneSingle": true,
-      "start": 177.237292,
-      "end": 186.165292,
+      "start": 146.669292,
+      "end": 155.597292,
       "timeOfDay": "night"
     }
   ],
@@ -331,20 +283,7 @@
       "explanation": "路牌提示西道通风、东道塌陷，提灯不能代替安全判断。"
     },
     {
-      "afterLine": 11,
-      "skill": "协作与卡牌含义",
-      "prompt": "How does Lu Chuan help during the first encounter?",
-      "options": [
-        "He chases the creature into the depths.",
-        "He replaces Aelia's shield.",
-        "He extinguishes the lantern.",
-        "He restricts the creature's movement so Aelia can push it back."
-      ],
-      "answer": 3,
-      "explanation": "牵制卡限制移动，艾莉娅以盾逼退怪物；没有追击。"
-    },
-    {
-      "afterLine": 17,
+      "afterLine": 13,
       "skill": "操作顺序",
       "prompt": "What must they do before lifting the cover?",
       "options": [
@@ -357,7 +296,7 @@
       "explanation": "说明明确要求先松扣，再抬盖，硬拉反而压紧石缝。"
     },
     {
-      "afterLine": 23,
+      "afterLine": 19,
       "skill": "行动目的与撤退",
       "prompt": "Why do they return instead of following the deeper echo?",
       "options": [

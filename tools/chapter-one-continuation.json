@@ -447,26 +447,6 @@
       ],
       [
         "艾莉娅",
-        "别往后乱跑！左侧空着，陆川，帮我照清它的落点。",
-        "Do not run blindly backward! The left side is clear. Lu Chuan, help me see where it lands."
-      ],
-      [
-        "陆川",
-        "卡牌上的“牵制”不是攻击。我先限制它移动，你再把它挡开。",
-        "The card says 'restrain', not 'attack'. I will limit its movement, then you can push it back."
-      ],
-      [
-        "莉瑟",
-        "灯放左边，不照你的眼睛。它又要扑了！",
-        "I will hold the light to the left, away from your eyes. It is about to leap again!"
-      ],
-      [
-        "旁白",
-        "言契束住怪物的前爪，艾莉娅用盾将它逼回废矿车后。三人重新站稳。",
-        "The word pact binds the creature's front claws. Aelia drives it behind the cart with her shield, and the three regain their footing."
-      ],
-      [
-        "艾莉娅",
         "够了，不追。它退开了，我们继续看岔路前的石台。",
         "That is enough. Do not chase it. It has withdrawn; we will inspect the stone ledge before the junction."
       ],
@@ -502,8 +482,8 @@
       ],
       [
         "旁白",
-        "石台下的守卫兽撞向盾面。艾莉娅退半步站稳，陆川再次展开牵制卡。",
-        "The guardian beneath the ledge strikes the shield. Aelia steadies herself a step back as Lu Chuan opens the restraint card again."
+        "石台下的守卫兽撞向盾面。艾莉娅退半步站稳，陆川立马发动屏障。",
+        "The guardian beneath the ledge strikes the shield. Aelia steadies herself a step back as Lu Chuan immediately casts a barrier."
       ],
       [
         "艾莉娅",
@@ -546,20 +526,7 @@
         "路牌提示西道通风、东道塌陷，提灯不能代替安全判断。"
       ],
       [
-        11,
-        "协作与卡牌含义",
-        "How does Lu Chuan help during the first encounter?",
-        [
-          "He chases the creature into the depths.",
-          "He replaces Aelia's shield.",
-          "He extinguishes the lantern.",
-          "He restricts the creature's movement so Aelia can push it back."
-        ],
-        3,
-        "牵制卡限制移动，艾莉娅以盾逼退怪物；没有追击。"
-      ],
-      [
-        17,
+        13,
         "操作顺序",
         "What must they do before lifting the cover?",
         [
@@ -572,7 +539,7 @@
         "说明明确要求先松扣，再抬盖，硬拉反而压紧石缝。"
       ],
       [
-        23,
+        19,
         "行动目的与撤退",
         "Why do they return instead of following the deeper echo?",
         [
