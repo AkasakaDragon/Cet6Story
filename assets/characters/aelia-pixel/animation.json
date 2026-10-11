@@ -1,0 +1,63 @@
+{
+  "frameCount": 38,
+  "frameSize": [
+    150,
+    150
+  ],
+  "columns": 8,
+  "millisecondsPerFrame": 40,
+  "hitFrame": 20,
+  "facing": "right",
+  "source": "knight-approved-40",
+  "anchor": [
+    94,
+    132
+  ],
+  "standingHeight": 91,
+  "frameDurations": [
+    80,
+    40,
+    40,
+    40,
+    40,
+    40,
+    40,
+    40,
+    40,
+    40,
+    40,
+    40,
+    40,
+    40,
+    40,
+    40,
+    40,
+    40,
+    40,
+    60,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    30,
+    50,
+    50,
+    50,
+    40,
+    40,
+    40,
+    40,
+    100
+  ],
+  "duration": 1570,
+  "impactTime": 800,
+  "removedOriginalFrames": [
+    8,
+    9
+  ]
+}

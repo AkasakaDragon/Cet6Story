@@ -1,0 +1,674 @@
+{
+  "version": 1,
+  "width": 200,
+  "height": 272,
+  "facing": "right",
+  "frameSeconds": 0.12,
+  "bones": [
+    {
+      "name": "root",
+      "parent": "",
+      "x": 137.5,
+      "y": 266.0,
+      "label": "整体",
+      "group": "body"
+    },
+    {
+      "name": "pelvis",
+      "parent": "root",
+      "x": 138.5,
+      "y": 127.5,
+      "label": "骨盆",
+      "group": "body"
+    },
+    {
+      "name": "chest",
+      "parent": "pelvis",
+      "x": 142.0,
+      "y": 79.0,
+      "label": "胸部",
+      "group": "body"
+    },
+    {
+      "name": "neck",
+      "parent": "chest",
+      "x": 142.0,
+      "y": 56.0,
+      "label": "颈部",
+      "group": "body"
+    },
+    {
+      "name": "head",
+      "parent": "neck",
+      "x": 142.5,
+      "y": 34.0,
+      "label": "头部",
+      "group": "body"
+    },
+    {
+      "name": "weapon",
+      "parent": "chest",
+      "x": 156.5,
+      "y": 103.0,
+      "label": "剑与握柄",
+      "group": "body"
+    },
+    {
+      "name": "far_upper",
+      "parent": "chest",
+      "x": 165.5,
+      "y": 82.0,
+      "label": "远侧上臂",
+      "group": "body"
+    },
+    {
+      "name": "far_lower",
+      "parent": "far_upper",
+      "x": 175.5,
+      "y": 104.0,
+      "label": "远侧前臂",
+      "group": "body"
+    },
+    {
+      "name": "far_hand",
+      "parent": "far_lower",
+      "x": 156.5,
+      "y": 97.5,
+      "label": "远侧手",
+      "group": "body"
+    },
+    {
+      "name": "near_upper",
+      "parent": "chest",
+      "x": 119.5,
+      "y": 72.5,
+      "label": "近侧上臂",
+      "group": "body"
+    },
+    {
+      "name": "near_lower",
+      "parent": "near_upper",
+      "x": 119.5,
+      "y": 104.5,
+      "label": "近侧前臂",
+      "group": "body"
+    },
+    {
+      "name": "near_hand",
+      "parent": "near_lower",
+      "x": 154.5,
+      "y": 109.5,
+      "label": "近侧手",
+      "group": "body"
+    },
+    {
+      "name": "far_thigh",
+      "parent": "pelvis",
+      "x": 162.5,
+      "y": 151.0,
+      "label": "远侧大腿",
+      "group": "body"
+    },
+    {
+      "name": "far_shin",
+      "parent": "far_thigh",
+      "x": 165.0,
+      "y": 188.5,
+      "label": "远侧小腿",
+      "group": "body"
+    },
+    {
+      "name": "far_foot",
+      "parent": "far_shin",
+      "x": 159.5,
+      "y": 234.5,
+      "label": "远侧脚",
+      "group": "body"
+    },
+    {
+      "name": "near_thigh",
+      "parent": "pelvis",
+      "x": 127.5,
+      "y": 151.5,
+      "label": "近侧大腿",
+      "group": "body"
+    },
+    {
+      "name": "near_shin",
+      "parent": "near_thigh",
+      "x": 122.5,
+      "y": 188.5,
+      "label": "近侧小腿",
+      "group": "body"
+    },
+    {
+      "name": "near_foot",
+      "parent": "near_shin",
+      "x": 110.5,
+      "y": 233.5,
+      "label": "近侧脚",
+      "group": "body"
+    },
+    {
+      "name": "hair_top0",
+      "parent": "head",
+      "x": 113.5,
+      "y": 34.5,
+      "label": "发束top · 1",
+      "group": "hair"
+    },
+    {
+      "name": "hair_top1",
+      "parent": "hair_top0",
+      "x": 82.0,
+      "y": 45.0,
+      "label": "发束top · 2",
+      "group": "hair"
+    },
+    {
+      "name": "hair_top2",
+      "parent": "hair_top1",
+      "x": 45.5,
+      "y": 58.0,
+      "label": "发束top · 3",
+      "group": "hair"
+    },
+    {
+      "name": "hair_top3",
+      "parent": "hair_top2",
+      "x": 19.5,
+      "y": 75.0,
+      "label": "发束top · 4",
+      "group": "hair"
+    },
+    {
+      "name": "hair_mid0",
+      "parent": "head",
+      "x": 117.5,
+      "y": 51.5,
+      "label": "发束mid · 1",
+      "group": "hair"
+    },
+    {
+      "name": "hair_mid1",
+      "parent": "hair_mid0",
+      "x": 88.5,
+      "y": 69.5,
+      "label": "发束mid · 2",
+      "group": "hair"
+    },
+    {
+      "name": "hair_mid2",
+      "parent": "hair_mid1",
+      "x": 60.5,
+      "y": 89.5,
+      "label": "发束mid · 3",
+      "group": "hair"
+    },
+    {
+      "name": "hair_mid3",
+      "parent": "hair_mid2",
+      "x": 35.0,
+      "y": 99.5,
+      "label": "发束mid · 4",
+      "group": "hair"
+    },
+    {
+      "name": "hair_low0",
+      "parent": "head",
+      "x": 116.0,
+      "y": 74.0,
+      "label": "发束low · 1",
+      "group": "hair"
+    },
+    {
+      "name": "hair_low1",
+      "parent": "hair_low0",
+      "x": 101.0,
+      "y": 94.5,
+      "label": "发束low · 2",
+      "group": "hair"
+    },
+    {
+      "name": "hair_low2",
+      "parent": "hair_low1",
+      "x": 80.0,
+      "y": 110.0,
+      "label": "发束low · 3",
+      "group": "hair"
+    },
+    {
+      "name": "hair_low3",
+      "parent": "hair_low2",
+      "x": 55.5,
+      "y": 118.0,
+      "label": "发束low · 4",
+      "group": "hair"
+    },
+    {
+      "name": "cape_a0",
+      "parent": "chest",
+      "x": 123.0,
+      "y": 95.0,
+      "label": "披风a · 1",
+      "group": "cape"
+    },
+    {
+      "name": "cape_a1",
+      "parent": "cape_a0",
+      "x": 105.5,
+      "y": 128.5,
+      "label": "披风a · 2",
+      "group": "cape"
+    },
+    {
+      "name": "cape_a2",
+      "parent": "cape_a1",
+      "x": 65.5,
+      "y": 153.5,
+      "label": "披风a · 3",
+      "group": "cape"
+    },
+    {
+      "name": "cape_a3",
+      "parent": "cape_a2",
+      "x": 25.0,
+      "y": 151.5,
+      "label": "披风a · 4",
+      "group": "cape"
+    },
+    {
+      "name": "cape_b0",
+      "parent": "chest",
+      "x": 135.5,
+      "y": 120.0,
+      "label": "披风b · 1",
+      "group": "cape"
+    },
+    {
+      "name": "cape_b1",
+      "parent": "cape_b0",
+      "x": 114.0,
+      "y": 150.0,
+      "label": "披风b · 2",
+      "group": "cape"
+    },
+    {
+      "name": "cape_b2",
+      "parent": "cape_b1",
+      "x": 94.5,
+      "y": 179.5,
+      "label": "披风b · 3",
+      "group": "cape"
+    },
+    {
+      "name": "cape_b3",
+      "parent": "cape_b2",
+      "x": 86.5,
+      "y": 207.0,
+      "label": "披风b · 4",
+      "group": "cape"
+    }
+  ],
+  "layers": [
+    {
+      "name": "cape_under",
+      "bone": "cape_a0",
+      "image": "cape_under.png",
+      "variants": [],
+      "skin": "cape",
+      "z": -1
+    },
+    {
+      "name": "cape",
+      "bone": "cape_a0",
+      "image": "cape.png",
+      "variants": [
+        "cape-0.png",
+        "cape-1.png",
+        "cape-2.png",
+        "cape-3.png",
+        "cape-4.png",
+        "cape-5.png",
+        "cape-6.png",
+        "cape-7.png"
+      ],
+      "skin": "cape",
+      "z": 0
+    },
+    {
+      "name": "hair",
+      "bone": "hair_mid0",
+      "image": "hair.png",
+      "variants": [
+        "hair-0.png",
+        "hair-1.png",
+        "hair-2.png",
+        "hair-3.png",
+        "hair-4.png",
+        "hair-5.png",
+        "hair-6.png",
+        "hair-7.png"
+      ],
+      "skin": "hair",
+      "z": 10
+    },
+    {
+      "name": "far_thigh_under",
+      "bone": "far_thigh",
+      "image": "far_thigh_under.png",
+      "variants": [],
+      "skin": "",
+      "z": 19
+    },
+    {
+      "name": "far_thigh",
+      "bone": "far_thigh",
+      "image": "far_thigh.png",
+      "variants": [],
+      "skin": "",
+      "z": 20
+    },
+    {
+      "name": "far_shin_under",
+      "bone": "far_shin",
+      "image": "far_shin_under.png",
+      "variants": [],
+      "skin": "",
+      "z": 29
+    },
+    {
+      "name": "far_shin",
+      "bone": "far_shin",
+      "image": "far_shin.png",
+      "variants": [],
+      "skin": "",
+      "z": 30
+    },
+    {
+      "name": "far_foot_under",
+      "bone": "far_foot",
+      "image": "far_foot_under.png",
+      "variants": [],
+      "skin": "",
+      "z": 39
+    },
+    {
+      "name": "far_foot",
+      "bone": "far_foot",
+      "image": "far_foot.png",
+      "variants": [],
+      "skin": "",
+      "z": 40
+    },
+    {
+      "name": "near_thigh",
+      "bone": "near_thigh",
+      "image": "near_thigh.png",
+      "variants": [],
+      "skin": "",
+      "z": 50
+    },
+    {
+      "name": "near_shin",
+      "bone": "near_shin",
+      "image": "near_shin.png",
+      "variants": [],
+      "skin": "",
+      "z": 60
+    },
+    {
+      "name": "near_foot",
+      "bone": "near_foot",
+      "image": "near_foot.png",
+      "variants": [],
+      "skin": "",
+      "z": 70
+    },
+    {
+      "name": "pelvis_under",
+      "bone": "pelvis",
+      "image": "pelvis_under.png",
+      "variants": [],
+      "skin": "",
+      "z": 79
+    },
+    {
+      "name": "pelvis",
+      "bone": "pelvis",
+      "image": "pelvis.png",
+      "variants": [],
+      "skin": "",
+      "z": 80
+    },
+    {
+      "name": "torso_under",
+      "bone": "chest",
+      "image": "torso_under.png",
+      "variants": [],
+      "skin": "",
+      "z": 89
+    },
+    {
+      "name": "torso",
+      "bone": "chest",
+      "image": "torso.png",
+      "variants": [],
+      "skin": "",
+      "z": 90
+    },
+    {
+      "name": "far_upper",
+      "bone": "far_upper",
+      "image": "far_upper.png",
+      "variants": [],
+      "skin": "",
+      "z": 100
+    },
+    {
+      "name": "far_lower",
+      "bone": "far_lower",
+      "image": "far_lower.png",
+      "variants": [],
+      "skin": "",
+      "z": 110
+    },
+    {
+      "name": "near_upper",
+      "bone": "near_upper",
+      "image": "near_upper.png",
+      "variants": [],
+      "skin": "",
+      "z": 120
+    },
+    {
+      "name": "near_lower",
+      "bone": "near_lower",
+      "image": "near_lower.png",
+      "variants": [],
+      "skin": "",
+      "z": 130
+    },
+    {
+      "name": "head",
+      "bone": "head",
+      "image": "head.png",
+      "variants": [],
+      "skin": "",
+      "z": 140
+    },
+    {
+      "name": "sword",
+      "bone": "weapon",
+      "image": "sword.png",
+      "variants": [],
+      "skin": "",
+      "z": 150
+    },
+    {
+      "name": "far_hand",
+      "bone": "far_hand",
+      "image": "far_hand.png",
+      "variants": [],
+      "skin": "",
+      "z": 160
+    },
+    {
+      "name": "near_hand",
+      "bone": "near_hand",
+      "image": "near_hand.png",
+      "variants": [],
+      "skin": "",
+      "z": 170
+    }
+  ],
+  "clips": [
+    {
+      "name": "idle",
+      "label": "待机呼吸",
+      "duration": 2.4,
+      "loop": true,
+      "keys": [
+        {
+          "t": 0,
+          "chestY": 0
+        },
+        {
+          "t": 0.6,
+          "chestY": -0.8
+        },
+        {
+          "t": 1.2,
+          "chestY": 0
+        },
+        {
+          "t": 1.8,
+          "chestY": 0.4
+        },
+        {
+          "t": 2.4,
+          "chestY": 0
+        }
+      ]
+    },
+    {
+      "name": "attack",
+      "label": "双手挥剑",
+      "duration": 1.1,
+      "loop": false,
+      "keys": [
+        {
+          "t": 0
+        },
+        {
+          "t": 0.3,
+          "chestAngle": -5,
+          "weaponAngle": -125,
+          "weaponY": -10
+        },
+        {
+          "t": 0.46,
+          "rootX": 9,
+          "chestAngle": 9,
+          "weaponAngle": -42,
+          "weaponX": 4,
+          "weaponY": -4
+        },
+        {
+          "t": 0.54,
+          "rootX": 9,
+          "chestAngle": 9,
+          "weaponAngle": -42,
+          "weaponX": 4,
+          "weaponY": -4
+        },
+        {
+          "t": 0.8,
+          "rootX": 3,
+          "chestAngle": 3,
+          "weaponAngle": -12
+        },
+        {
+          "t": 1.1
+        }
+      ]
+    },
+    {
+      "name": "hit",
+      "label": "受击后仰",
+      "duration": 0.65,
+      "loop": false,
+      "keys": [
+        {
+          "t": 0
+        },
+        {
+          "t": 0.1,
+          "rootX": -6,
+          "chestAngle": -10,
+          "headAngle": -5,
+          "weaponAngle": 8
+        },
+        {
+          "t": 0.2,
+          "rootX": -6,
+          "chestAngle": -10,
+          "headAngle": -5,
+          "weaponAngle": 8
+        },
+        {
+          "t": 0.4,
+          "rootX": -2,
+          "chestAngle": -4
+        },
+        {
+          "t": 0.65
+        }
+      ]
+    }
+  ],
+  "registrations": [
+    {
+      "frame": 0,
+      "dx": 0,
+      "dy": 0
+    },
+    {
+      "frame": 1,
+      "dx": 0,
+      "dy": 0
+    },
+    {
+      "frame": 2,
+      "dx": 6,
+      "dy": 0
+    },
+    {
+      "frame": 3,
+      "dx": 7,
+      "dy": 0
+    },
+    {
+      "frame": 4,
+      "dx": 0,
+      "dy": 1
+    },
+    {
+      "frame": 5,
+      "dx": 0,
+      "dy": 1
+    },
+    {
+      "frame": 6,
+      "dx": 6,
+      "dy": 1
+    },
+    {
+      "frame": 7,
+      "dx": 7,
+      "dy": 1
+    }
+  ],
+  "source": "source-sheet.png",
+  "notes": "Measured original cutout + six generated hidden-surface repair layers. Three-quarter view; extreme rotations still need additional views."
+}

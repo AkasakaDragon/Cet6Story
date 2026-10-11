@@ -7,7 +7,7 @@ public static class HallFurniture {
  public static PointF[] BarFront{get{return new[]{new PointF(651,453),new PointF(1110,587),new PointF(1110,655),new PointF(651,521)};}}
 }
 public sealed partial class TavernHallCanvas {
- void FurniturePatch(Graphics g,PointF[] outline){var saved=g.Save();using(var path=new GraphicsPath()){path.AddPolygon(outline);g.SetClip(path,CombineMode.Intersect);g.DrawImage(Art,0,0,1400,1132);}g.Restore(saved);}
+ void FurniturePatch(Graphics g,PointF[] outline){var saved=g.Save();using(var path=new GraphicsPath()){path.AddPolygon(outline);g.SetClip(path,CombineMode.Intersect);PaintFurnitureImage(g);}g.Restore(saved);}
  void ChairFront(Graphics g,int table){var p=HallFurniture.Cushions[table];FurniturePatch(g,new[]{new PointF(p.X-23,p.Y+8),new PointF(p.X+23,p.Y-16),new PointF(p.X+29,p.Y-10),new PointF(p.X-16,p.Y+16)});FurniturePatch(g,new[]{new PointF(p.X+17,p.Y-9),new PointF(p.X+27,p.Y-14),new PointF(p.X+27,p.Y+31),new PointF(p.X+17,p.Y+37)});}
- void BarFront(Graphics g){FurniturePatch(g,HallFurniture.BarFront);}
+ void BarFront(Graphics g){FurniturePatch(g,Panorama?new[]{WorldToHall(new PointF(563,430)),WorldToHall(new PointF(810,493)),WorldToHall(new PointF(810,530)),WorldToHall(new PointF(563,467))}:HallFurniture.BarFront);}
 }

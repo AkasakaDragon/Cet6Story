@@ -3,6 +3,10 @@ using System.IO;
 
 public partial class Game {
  Image BattleCharacter(string name){
+  if(name=="hero-female"){
+   string pixel=Path.Combine(root,"assets","characters","aelia-pixel","portrait.png");
+   if(File.Exists(pixel))return CachedImage(pixel);
+  }
   string path=Path.Combine(root,"assets","rogue","combat",name+".png");if(!File.Exists(path))return null;
   string key="battle-character:"+name;Image cached;if(imageCache.TryGetValue(key,out cached))return cached;
   using(var bitmap=new Bitmap(CachedImage(path))){int left=bitmap.Width,top=bitmap.Height,right=-1,bottom=-1;
