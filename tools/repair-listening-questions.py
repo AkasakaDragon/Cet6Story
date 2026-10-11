@@ -69,6 +69,9 @@ def repair():
             row = dict(speaker='听力原声', actor='', text=str(question['number'])+'. '+question['prompt'],
                        translation='第 '+str(question['number'])+' 题：'+translation,
                        start=round(start,3),end=round(end,3),questionNumber=question['number'])
+            if 'spoken_number_start' in question:
+                row['start'] = min(row['start'], question['spoken_number_start'])
+                row['spoken_number_start'] = question['spoken_number_start']
             rows = keep+[row]
             question['start'], question['end'] = row['start'], row['end']
             question['spoken_text'] = match['text']

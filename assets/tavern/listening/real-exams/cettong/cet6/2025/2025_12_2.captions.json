@@ -19,7 +19,10 @@
       "start": 38.95,
       "end": 41.23,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 41.588
+      "playback_end": 41.588,
+      "alignment_start": 38.95,
+      "alignment_end": 41.23,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -29,7 +32,10 @@
       "start": 41.67,
       "end": 43.03,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 43.442
+      "playback_end": 43.442,
+      "alignment_start": 41.67,
+      "alignment_end": 43.03,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -39,7 +45,10 @@
       "start": 43.51,
       "end": 46.41,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 46.887
+      "playback_end": 46.887,
+      "alignment_start": 43.51,
+      "alignment_end": 46.41,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -49,7 +58,10 @@
       "start": 47.43,
       "end": 48.19,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 48.526
+      "playback_end": 48.526,
+      "alignment_start": 47.43,
+      "alignment_end": 48.19,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -59,7 +71,10 @@
       "start": 48.79,
       "end": 49.37,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 49.673
+      "playback_end": 49.673,
+      "alignment_start": 48.79,
+      "alignment_end": 49.37,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -69,7 +84,10 @@
       "start": 49.77,
       "end": 50.91,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 51.357
+      "playback_end": 51.357,
+      "alignment_start": 49.77,
+      "alignment_end": 50.91,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -79,7 +97,10 @@
       "start": 51.61,
       "end": 55.45,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 55.785
+      "playback_end": 55.785,
+      "alignment_start": 51.61,
+      "alignment_end": 55.45,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -89,7 +110,10 @@
       "start": 55.81,
       "end": 56.29,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 56.672
+      "playback_end": 56.672,
+      "alignment_start": 55.81,
+      "alignment_end": 56.29,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -99,7 +123,10 @@
       "start": 56.91,
       "end": 58.03,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 58.475
+      "playback_end": 58.475,
+      "alignment_start": 56.91,
+      "alignment_end": 58.03,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -109,7 +136,10 @@
       "start": 58.53,
       "end": 60.89,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 61.314
+      "playback_end": 61.37,
+      "alignment_start": 58.53,
+      "alignment_end": 60.89,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -119,7 +149,10 @@
       "start": 61.59,
       "end": 66.41,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 66.41
+      "playback_end": 66.41,
+      "alignment_start": 61.59,
+      "alignment_end": 66.41,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -129,7 +162,10 @@
       "start": 66.41,
       "end": 68.33,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 68.57
+      "playback_end": 68.57,
+      "alignment_start": 66.41,
+      "alignment_end": 68.33,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -139,7 +175,10 @@
       "start": 69.09,
       "end": 72.45,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 72.666
+      "playback_end": 72.666,
+      "alignment_start": 69.09,
+      "alignment_end": 72.45,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -149,17 +188,23 @@
       "start": 72.91,
       "end": 78.23,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 78.23
+      "playback_end": 78.612,
+      "alignment_start": 72.91,
+      "alignment_end": 78.23,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
       "actor": "",
       "text": "Um, yes, desserts are overpriced.",
       "translation": "嗯，是的，甜点确实定价过高。",
-      "start": 78.23,
+      "start": 78.612,
       "end": 81.21,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 81.602
+      "playback_end": 81.602,
+      "alignment_start": 78.23,
+      "alignment_end": 81.21,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -169,7 +214,10 @@
       "start": 81.65,
       "end": 82.31,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 82.56
+      "playback_end": 82.56,
+      "alignment_start": 81.65,
+      "alignment_end": 82.31,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -179,7 +227,10 @@
       "start": 82.93,
       "end": 86.31,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 86.567
+      "playback_end": 86.567,
+      "alignment_start": 82.93,
+      "alignment_end": 86.31,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -189,7 +240,10 @@
       "start": 86.77,
       "end": 90.45,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 90.937
+      "playback_end": 90.937,
+      "alignment_start": 86.77,
+      "alignment_end": 90.45,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -199,7 +253,10 @@
       "start": 91.69,
       "end": 94.45,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 94.861
+      "playback_end": 94.861,
+      "alignment_start": 91.69,
+      "alignment_end": 94.45,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -209,17 +266,23 @@
       "start": 94.97,
       "end": 96.39,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 96.39
+      "playback_end": 96.92,
+      "alignment_start": 94.97,
+      "alignment_end": 96.39,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
       "actor": "",
       "text": "Yeah, those are good.",
       "translation": "是啊，那些炒鸡蛋很好吃。",
-      "start": 96.39,
+      "start": 97.52,
       "end": 99.0,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 99.296
+      "playback_end": 99.296,
+      "alignment_start": 96.39,
+      "alignment_end": 99.0,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -229,37 +292,49 @@
       "start": 99.76,
       "end": 101.24,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 101.24
+      "playback_end": 101.628,
+      "alignment_start": 99.76,
+      "alignment_end": 101.24,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
       "actor": "",
       "text": "Actually, that's one of the best things about the canteen — the speed.",
       "translation": "其实，这是食堂最棒的地方之一——速度。",
-      "start": 101.24,
+      "start": 101.837,
       "end": 105.8,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 105.8
+      "playback_end": 106.119,
+      "alignment_start": 101.24,
+      "alignment_end": 105.8,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
       "actor": "",
       "text": "If I fancy something more substantial than a sandwich, but I don't have much time for lunch, the university canteen is always a good option.",
       "translation": "如果我想吃点比三明治更实在的东西，但午餐时间又不多，大学食堂总是个不错的选择。",
-      "start": 105.8,
+      "start": 106.357,
       "end": 114.14,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 114.14
+      "playback_end": 114.368,
+      "alignment_start": 105.8,
+      "alignment_end": 114.14,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
       "actor": "",
       "text": "The kitchen staff work at such a brisk pace.",
       "translation": "厨房工作人员干活特别利索。",
-      "start": 114.14,
+      "start": 114.829,
       "end": 117.24,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 117.536
+      "playback_end": 117.536,
+      "alignment_start": 114.14,
+      "alignment_end": 117.24,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -269,17 +344,23 @@
       "start": 117.8,
       "end": 119.86,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 119.86
+      "playback_end": 120.071,
+      "alignment_start": 117.8,
+      "alignment_end": 119.86,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
       "actor": "",
       "text": "Totally, and it's such a great environment too.",
       "translation": "完全同意，而且那里的环境也特别好。",
-      "start": 119.86,
+      "start": 120.199,
       "end": 123.14,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 123.526
+      "playback_end": 123.526,
+      "alignment_start": 119.86,
+      "alignment_end": 123.14,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -289,7 +370,10 @@
       "start": 123.74,
       "end": 125.54,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 126.074
+      "playback_end": 126.074,
+      "alignment_start": 123.74,
+      "alignment_end": 125.54,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -299,7 +383,10 @@
       "start": 126.14,
       "end": 127.0,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 127.377
+      "playback_end": 127.377,
+      "alignment_start": 126.14,
+      "alignment_end": 127.0,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -308,7 +395,10 @@
       "translation": "巨大的玻璃窗能改变一切",
       "start": 127.44,
       "end": 129.82,
-      "playback_end": 130.282
+      "playback_end": 130.282,
+      "alignment_start": 127.44,
+      "alignment_end": 129.82,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -317,7 +407,10 @@
       "translation": "我觉得他们很酷",
       "start": 130.34,
       "end": 131.38,
-      "playback_end": 131.694
+      "playback_end": 131.694,
+      "alignment_start": 130.34,
+      "alignment_end": 131.38,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -326,7 +419,10 @@
       "translation": "显然,他们几年前做了大规模的翻修。",
       "start": 131.92,
       "end": 135.24,
-      "playback_end": 135.488
+      "playback_end": 135.488,
+      "alignment_start": 131.92,
+      "alignment_end": 135.24,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -335,17 +431,23 @@
       "translation": "花了他们一小分钱",
       "start": 135.6,
       "end": 136.74,
-      "playback_end": 136.74
+      "playback_end": 137.147,
+      "alignment_start": 135.6,
+      "alignment_end": 136.74,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
       "actor": "",
       "text": "Yeah, I'm not surprised.",
       "translation": "是啊，我一点也不意外。",
-      "start": 136.74,
+      "start": 137.275,
       "end": 138.0,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 138.594
+      "playback_end": 138.594,
+      "alignment_start": 136.74,
+      "alignment_end": 138.0,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -355,7 +457,10 @@
       "start": 138.86,
       "end": 142.88,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 143.291
+      "playback_end": 143.291,
+      "alignment_start": 138.86,
+      "alignment_end": 142.88,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -365,7 +470,10 @@
       "start": 143.5,
       "end": 144.16,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 144.511
+      "playback_end": 144.511,
+      "alignment_start": 143.5,
+      "alignment_end": 144.16,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -375,7 +483,10 @@
       "start": 144.62,
       "end": 146.02,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 146.406
+      "playback_end": 146.406,
+      "alignment_start": 144.62,
+      "alignment_end": 146.02,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -385,7 +496,10 @@
       "start": 146.64,
       "end": 148.66,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 148.985
+      "playback_end": 148.985,
+      "alignment_start": 146.64,
+      "alignment_end": 148.66,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -395,47 +509,66 @@
       "start": 149.1,
       "end": 152.56,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 152.768
+      "playback_end": 152.768,
+      "alignment_start": 149.1,
+      "alignment_end": 152.56,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
       "actor": "",
       "text": "1. What does the woman say about the food at the canteen?",
       "translation": "第 1 题：女士对食堂的食物有何评价?",
-      "start": 159.65,
+      "start": 158.35,
       "end": 163.123,
       "questionNumber": 1,
-      "playback_end": 163.123
+      "playback_end": 163.123,
+      "alignment_start": 158.35,
+      "alignment_end": 163.123,
+      "replay_boundary_kind": "verified_question",
+      "spoken_number_start": 158.35
     },
     {
       "speaker": "听力原声",
       "actor": "",
       "text": "2. How does the woman feel about the canteen's sweet things or fancy delicacies?",
       "translation": "第 2 题：女士对食堂的甜食或精致美食有何感受?",
-      "start": 175.67,
+      "start": 175.61,
       "end": 182.812,
       "questionNumber": 2,
-      "playback_end": 182.812
+      "playback_end": 182.812,
+      "alignment_start": 175.61,
+      "alignment_end": 182.812,
+      "replay_boundary_kind": "verified_question",
+      "spoken_number_start": 175.61
     },
     {
       "speaker": "听力原声",
       "actor": "",
       "text": "3. What does the man say is one of the best things about the canteen?",
       "translation": "第 3 题：男士说食堂最好的一点是什么?",
-      "start": 195.57,
+      "start": 195.51,
       "end": 201.163,
       "questionNumber": 3,
-      "playback_end": 201.163
+      "playback_end": 201.163,
+      "alignment_start": 195.51,
+      "alignment_end": 201.163,
+      "replay_boundary_kind": "verified_question",
+      "spoken_number_start": 195.51
     },
     {
       "speaker": "听力原声",
       "actor": "",
       "text": "4. What did the canteen undergo a few years ago?",
       "translation": "第 4 题：食堂几年前经历了什么?",
-      "start": 215.51,
+      "start": 213.51,
       "end": 218.727,
       "questionNumber": 4,
-      "playback_end": 218.727
+      "playback_end": 218.727,
+      "alignment_start": 213.51,
+      "alignment_end": 218.727,
+      "replay_boundary_kind": "verified_question",
+      "spoken_number_start": 213.51
     },
     {
       "speaker": "听力原声",
@@ -444,7 +577,10 @@
       "translation": "对话2。",
       "start": 231.73,
       "end": 233.05,
-      "playback_end": 233.232
+      "playback_end": 233.232,
+      "alignment_start": 231.73,
+      "alignment_end": 233.05,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -454,7 +590,10 @@
       "start": 233.84,
       "end": 239.38,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 239.693
+      "playback_end": 239.693,
+      "alignment_start": 233.84,
+      "alignment_end": 239.38,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -464,7 +603,10 @@
       "start": 240.51,
       "end": 243.89,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 244.286
+      "playback_end": 244.286,
+      "alignment_start": 240.51,
+      "alignment_end": 243.89,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -474,7 +616,10 @@
       "start": 244.51,
       "end": 246.63,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 246.936
+      "playback_end": 246.936,
+      "alignment_start": 244.51,
+      "alignment_end": 246.63,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -484,7 +629,10 @@
       "start": 247.21,
       "end": 247.75,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 248.178
+      "playback_end": 248.178,
+      "alignment_start": 247.21,
+      "alignment_end": 247.75,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -494,7 +642,10 @@
       "start": 249.15,
       "end": 253.95,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 254.44
+      "playback_end": 254.44,
+      "alignment_start": 249.15,
+      "alignment_end": 253.95,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -504,7 +655,10 @@
       "start": 254.75,
       "end": 259.87,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 260.254
+      "playback_end": 260.254,
+      "alignment_start": 254.75,
+      "alignment_end": 259.87,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -514,7 +668,10 @@
       "start": 260.57,
       "end": 263.95,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 264.257
+      "playback_end": 264.257,
+      "alignment_start": 260.57,
+      "alignment_end": 263.95,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -524,7 +681,10 @@
       "start": 264.53,
       "end": 270.77,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 270.985
+      "playback_end": 270.985,
+      "alignment_start": 264.53,
+      "alignment_end": 270.77,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -534,7 +694,10 @@
       "start": 271.34,
       "end": 276.64,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 277.198
+      "playback_end": 277.198,
+      "alignment_start": 271.34,
+      "alignment_end": 276.64,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -544,7 +707,10 @@
       "start": 277.32,
       "end": 277.74,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 278.26
+      "playback_end": 278.26,
+      "alignment_start": 277.32,
+      "alignment_end": 277.74,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -554,7 +720,10 @@
       "start": 278.4,
       "end": 285.75,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 286.034
+      "playback_end": 286.034,
+      "alignment_start": 278.4,
+      "alignment_end": 285.75,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -564,7 +733,10 @@
       "start": 286.29,
       "end": 286.73,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 287.097
+      "playback_end": 287.097,
+      "alignment_start": 286.29,
+      "alignment_end": 286.73,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -574,17 +746,23 @@
       "start": 287.11,
       "end": 289.77,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 289.913
+      "playback_end": 289.913,
+      "alignment_start": 287.11,
+      "alignment_end": 289.77,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
       "actor": "",
       "text": "Young people will work extremely hard during their defined work hours, but they expect to have their time off, like weekends and nights free from work.",
       "translation": "年轻人在规定的工作时间内会非常努力地工作，但他们希望自己的休息时间，比如周末和晚上，不受工作打扰。",
-      "start": 290.05,
+      "start": 290.084,
       "end": 298.57,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 298.832
+      "playback_end": 298.832,
+      "alignment_start": 290.05,
+      "alignment_end": 298.57,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -594,7 +772,10 @@
       "start": 299.29,
       "end": 302.99,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 303.682
+      "playback_end": 303.682,
+      "alignment_start": 299.29,
+      "alignment_end": 302.99,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -604,7 +785,10 @@
       "start": 304.03,
       "end": 314.48,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 314.728
+      "playback_end": 314.728,
+      "alignment_start": 304.03,
+      "alignment_end": 314.48,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -614,7 +798,10 @@
       "start": 314.88,
       "end": 320.1,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 320.44
+      "playback_end": 320.44,
+      "alignment_start": 314.88,
+      "alignment_end": 320.1,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -624,7 +811,10 @@
       "start": 320.78,
       "end": 326.12,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 326.539
+      "playback_end": 326.539,
+      "alignment_start": 320.78,
+      "alignment_end": 326.12,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -634,7 +824,10 @@
       "start": 327.06,
       "end": 330.06,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 330.324
+      "playback_end": 330.324,
+      "alignment_start": 327.06,
+      "alignment_end": 330.06,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -644,7 +837,10 @@
       "start": 330.86,
       "end": 333.08,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 333.262
+      "playback_end": 333.311,
+      "alignment_start": 330.86,
+      "alignment_end": 333.08,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -654,7 +850,10 @@
       "start": 333.7,
       "end": 338.86,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 339.208
+      "playback_end": 339.208,
+      "alignment_start": 333.7,
+      "alignment_end": 338.86,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -664,7 +863,10 @@
       "start": 339.39,
       "end": 344.17,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 344.367
+      "playback_end": 344.367,
+      "alignment_start": 339.39,
+      "alignment_end": 344.17,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -674,7 +876,10 @@
       "start": 344.73,
       "end": 345.85,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 346.334
+      "playback_end": 346.334,
+      "alignment_start": 344.73,
+      "alignment_end": 345.85,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -683,47 +888,66 @@
       "translation": "问题5 -8是基于你刚才听到的谈话",
       "start": 347.6,
       "end": 351.7,
-      "playback_end": 351.902
+      "playback_end": 351.902,
+      "alignment_start": 347.6,
+      "alignment_end": 351.7,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
       "actor": "",
       "text": "5. According to the woman, what view about today's young people is not really justified?",
       "translation": "第 5 题：根据这位女士的说法,关于当今年轻人的哪种看法其实并不合理?",
-      "start": 352.77,
+      "start": 352.71,
       "end": 359.975,
       "questionNumber": 5,
-      "playback_end": 359.975
+      "playback_end": 359.975,
+      "alignment_start": 352.71,
+      "alignment_end": 359.975,
+      "replay_boundary_kind": "verified_question",
+      "spoken_number_start": 352.71
     },
     {
       "speaker": "听力原声",
       "actor": "",
       "text": "6. What does the man say is important for managers to get along better with young workers?",
       "translation": "第 6 题：这位男士认为管理者要与年轻员工更好地相处,什么是重要的?",
-      "start": 373.18,
+      "start": 373.12,
       "end": 379.575,
       "questionNumber": 6,
-      "playback_end": 379.575
+      "playback_end": 379.575,
+      "alignment_start": 373.12,
+      "alignment_end": 379.575,
+      "replay_boundary_kind": "verified_question",
+      "spoken_number_start": 373.12
     },
     {
       "speaker": "听力原声",
       "actor": "",
       "text": "7. How do young people measure their productivity levels according to the man?",
       "translation": "第 7 题：根据这位男士的说法,年轻人如何衡量他们的生产力水平?",
-      "start": 394.38,
+      "start": 391.68,
       "end": 398.81,
       "questionNumber": 7,
-      "playback_end": 398.81
+      "playback_end": 398.81,
+      "alignment_start": 391.68,
+      "alignment_end": 398.81,
+      "replay_boundary_kind": "verified_question",
+      "spoken_number_start": 391.68
     },
     {
       "speaker": "听力原声",
       "actor": "",
       "text": "8. What companies does the man think would appeal to young workers?",
       "translation": "第 8 题：这位男士认为什么样的公司会吸引年轻员工?",
-      "start": 412.1,
+      "start": 412.04,
       "end": 417.433,
       "questionNumber": 8,
-      "playback_end": 417.433
+      "playback_end": 417.433,
+      "alignment_start": 412.04,
+      "alignment_end": 417.433,
+      "replay_boundary_kind": "verified_question",
+      "spoken_number_start": 412.04
     },
     {
       "speaker": "听力原声",
@@ -732,7 +956,10 @@
       "translation": "B节,方向。",
       "start": 430.78,
       "end": 432.46,
-      "playback_end": 433.066
+      "playback_end": 433.066,
+      "alignment_start": 430.78,
+      "alignment_end": 432.46,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -741,7 +968,10 @@
       "translation": "在本节中,你们将听到两段。",
       "start": 433.56,
       "end": 435.62,
-      "playback_end": 436.084
+      "playback_end": 436.084,
+      "alignment_start": 433.56,
+      "alignment_end": 435.62,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -750,7 +980,10 @@
       "translation": "在每一段的结尾 你会听到三个或四个问题",
       "start": 436.54,
       "end": 440.34,
-      "playback_end": 440.665
+      "playback_end": 440.665,
+      "alignment_start": 436.54,
+      "alignment_end": 440.34,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -759,7 +992,10 @@
       "translation": "发言的通过和提问将只讲一次。",
       "start": 441.12,
       "end": 444.76,
-      "playback_end": 445.124
+      "playback_end": 445.124,
+      "alignment_start": 441.12,
+      "alignment_end": 444.76,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -768,7 +1004,10 @@
       "translation": "听到一个问题 你必须选择最好的答案",
       "start": 445.68,
       "end": 448.62,
-      "playback_end": 448.77
+      "playback_end": 448.77,
+      "alignment_start": 445.68,
+      "alignment_end": 448.62,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -777,16 +1016,22 @@
       "translation": "从四个选项中选择A、B、C和D。",
       "start": 448.83,
       "end": 453.11,
-      "playback_end": 453.314
+      "playback_end": 453.314,
+      "alignment_start": 448.83,
+      "alignment_end": 453.11,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
       "actor": "",
       "text": "mark the corresponding letter on answer sheet one with a single line through the center.",
       "translation": "在答题单单行的答题表一中标出相应的字母。",
-      "start": 453.93,
+      "start": 454.213,
       "end": 459.05,
-      "playback_end": 459.248
+      "playback_end": 459.248,
+      "alignment_start": 453.93,
+      "alignment_end": 459.05,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -796,7 +1041,10 @@
       "start": 460.924,
       "end": 471.594,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 471.594
+      "playback_end": 471.594,
+      "alignment_start": 460.924,
+      "alignment_end": 471.594,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -806,7 +1054,10 @@
       "start": 471.594,
       "end": 483.75,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 484.268
+      "playback_end": 484.268,
+      "alignment_start": 471.594,
+      "alignment_end": 483.75,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -815,7 +1066,10 @@
       "translation": "研究的作者之一行为科学家琳达·培根说,“耐久剂可以对环境产生积极影响,鼓励顾客选择更多植物食物和较少肉类。",
       "start": 485.37,
       "end": 499.18,
-      "playback_end": 499.513
+      "playback_end": 499.513,
+      "alignment_start": 485.37,
+      "alignment_end": 499.18,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -824,7 +1078,10 @@
       "translation": "然而,我们的研究结果表明,尽管某些餐厅菜单的设计可以鼓励某些消费者做出有利于环境的食品选择,但它们可以对其他人产生相反的影响。 这项研究涉及750人,其中一半人经常吃素食,一半人很少吃。",
       "start": 500.3,
       "end": 521.32,
-      "playback_end": 521.498
+      "playback_end": 521.498,
+      "alignment_start": 500.3,
+      "alignment_end": 521.32,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -833,7 +1090,10 @@
       "translation": "没有包括素食者。",
       "start": 522.1,
       "end": 523.74,
-      "playback_end": 524.128
+      "playback_end": 524.128,
+      "alignment_start": 522.1,
+      "alignment_end": 523.74,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -842,7 +1102,10 @@
       "translation": "他们得到不同的菜单,要求他们选择一顿饭,好像他们与朋友一起吃饭一样。",
       "start": 525.33,
       "end": 529.85,
-      "playback_end": 530.01
+      "playback_end": 530.01,
+      "alignment_start": 525.33,
+      "alignment_end": 529.85,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -851,7 +1114,10 @@
       "translation": "将素食餐单单列一节,对不常见的素食者的选择没有重大影响。",
       "start": 531.14,
       "end": 539.68,
-      "playback_end": 539.86
+      "playback_end": 539.86,
+      "alignment_start": 531.14,
+      "alignment_end": 539.68,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -860,7 +1126,10 @@
       "translation": "但对于经常吃东西的人来说 确实有显著的影响 使他们选择素食者的机会 降低了65%",
       "start": 539.96,
       "end": 548.95,
-      "playback_end": 548.973
+      "playback_end": 549.05,
+      "alignment_start": 539.96,
+      "alignment_end": 548.95,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -869,7 +1138,10 @@
       "translation": "研究人员还发现,将素食餐作为主厨的建议,或列入对非肉食的更有吸引力的描述,导致更多不经常的素食者选择食用素食。",
       "start": 549.11,
       "end": 565.86,
-      "playback_end": 566.251
+      "playback_end": 566.251,
+      "alignment_start": 549.11,
+      "alignment_end": 565.86,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -878,37 +1150,52 @@
       "translation": "但同样,这些改变的菜单设计与那些更经常吃素食的人反弹,导致他们更不可能选择素食餐。",
       "start": 567.06,
       "end": 577.02,
-      "playback_end": 577.492
+      "playback_end": 577.492,
+      "alignment_start": 567.06,
+      "alignment_end": 577.02,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
       "actor": "",
       "text": "9. What does a new study suggest about restaurants including vegetarian sections on their menus?",
       "translation": "第 9 题：一项新研究对餐厅在菜单上包含素食区域有何看法?",
-      "start": 584.27,
+      "start": 583.37,
       "end": 590.56,
       "questionNumber": 9,
-      "playback_end": 590.56
+      "playback_end": 590.56,
+      "alignment_start": 583.37,
+      "alignment_end": 590.56,
+      "replay_boundary_kind": "verified_question",
+      "spoken_number_start": 583.37
     },
     {
       "speaker": "听力原声",
       "actor": "",
       "text": "10. How was the study carried out on 750 participants?",
       "translation": "第 10 题：对750名参与者进行的研究是如何开展的?",
-      "start": 604.91,
+      "start": 603.05,
       "end": 609.23,
       "questionNumber": 10,
-      "playback_end": 609.23
+      "playback_end": 609.23,
+      "alignment_start": 603.05,
+      "alignment_end": 609.23,
+      "replay_boundary_kind": "verified_question",
+      "spoken_number_start": 603.05
     },
     {
       "speaker": "听力原声",
       "actor": "",
       "text": "11. How do altered menu designs affect frequent eaters of vegetarian food?",
       "translation": "第 11 题：改变后的菜单设计如何影响经常食用素食的人?",
-      "start": 622.4,
+      "start": 622.34,
       "end": 628.521,
       "questionNumber": 11,
-      "playback_end": 628.521
+      "playback_end": 628.521,
+      "alignment_start": 622.34,
+      "alignment_end": 628.521,
+      "replay_boundary_kind": "verified_question",
+      "spoken_number_start": 622.34
     },
     {
       "speaker": "听力原声",
@@ -917,7 +1204,10 @@
       "translation": "通行证2。",
       "start": 641.79,
       "end": 642.53,
-      "playback_end": 642.68
+      "playback_end": 642.68,
+      "alignment_start": 641.79,
+      "alignment_end": 642.53,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -927,7 +1217,10 @@
       "start": 643.62,
       "end": 653.18,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 653.591
+      "playback_end": 653.591,
+      "alignment_start": 643.62,
+      "alignment_end": 653.18,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -937,7 +1230,10 @@
       "start": 654.22,
       "end": 665.7,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 665.95
+      "playback_end": 665.95,
+      "alignment_start": 654.22,
+      "alignment_end": 665.7,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -947,7 +1243,10 @@
       "start": 666.65,
       "end": 669.41,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 670.047
+      "playback_end": 670.047,
+      "alignment_start": 666.65,
+      "alignment_end": 669.41,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -957,7 +1256,10 @@
       "start": 670.49,
       "end": 678.91,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 679.16
+      "playback_end": 679.16,
+      "alignment_start": 670.49,
+      "alignment_end": 678.91,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -966,7 +1268,10 @@
       "translation": "城市的户外空气污染是一个全球性问题,不管是烟雾困扰加尔各答还是空气不良影响伦敦学校儿童的健康。",
       "start": 680.06,
       "end": 689.44,
-      "playback_end": 689.889
+      "playback_end": 689.889,
+      "alignment_start": 680.06,
+      "alignment_end": 689.44,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -975,7 +1280,10 @@
       "translation": "虽然有一些现有技术可以净化室内空气,但它们可能效率低下、费用昂贵或产生有害的副产品。",
       "start": 690.64,
       "end": 698.92,
-      "playback_end": 699.258
+      "playback_end": 699.258,
+      "alignment_start": 690.64,
+      "alignment_end": 698.92,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -984,7 +1292,10 @@
       "translation": "当户外空气质量差时,人们往往在室内花费更多的时间。",
       "start": 699.8,
       "end": 704.4,
-      "playback_end": 704.89
+      "playback_end": 704.89,
+      "alignment_start": 699.8,
+      "alignment_end": 704.4,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -993,7 +1304,10 @@
       "translation": "但户外污染也导致室内污染,人们仍然受苦。",
       "start": 705.16,
       "end": 710.02,
-      "playback_end": 710.275
+      "playback_end": 710.275,
+      "alignment_start": 705.16,
+      "alignment_end": 710.02,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1002,7 +1316,10 @@
       "translation": "据估计,污染与英国每年4万多起早期死亡有关。",
       "start": 710.97,
       "end": 715.91,
-      "playback_end": 716.144
+      "playback_end": 716.144,
+      "alignment_start": 710.97,
+      "alignment_end": 715.91,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1011,7 +1328,10 @@
       "translation": "中国科学院的江潘教授说,“我们在实验中展示了,只要通过一个小冷冻室传播被污染的空气,我们就能消除大部分微粒和气体污染物。",
       "start": 717.1,
       "end": 729.92,
-      "playback_end": 730.425
+      "playback_end": 730.425,
+      "alignment_start": 717.1,
+      "alignment_end": 729.92,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1020,7 +1340,10 @@
       "translation": "我们的研究使得有可能在空气条件可能极其差的地区,在家用电器中增加一个空气清洁的选择。",
       "start": 730.92,
       "end": 739.4,
-      "playback_end": 739.928
+      "playback_end": 739.928,
+      "alignment_start": 730.92,
+      "alignment_end": 739.4,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1029,7 +1352,10 @@
       "translation": "通过控制室内空气污染, 改善空气质量, 这项工作会大大有利于公众健康」。",
       "start": 740.45,
       "end": 747.59,
-      "playback_end": 747.908
+      "playback_end": 747.908,
+      "alignment_start": 740.45,
+      "alignment_end": 747.59,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1038,56 +1364,78 @@
       "translation": "问题12 -15是基于你刚才听到的段落",
       "start": 748.9,
       "end": 753.1,
-      "playback_end": 753.37
+      "playback_end": 753.37,
+      "alignment_start": 748.9,
+      "alignment_end": 753.1,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
       "actor": "",
       "text": "12. What does the passage say about Nottingham Trent University and the Chinese Academy of Sciences?",
       "translation": "第 12 题：文章关于诺丁汉特伦特大学和中国科学院说了什么?",
-      "start": 754.2,
+      "start": 754.14,
       "end": 762.376,
       "questionNumber": 12,
-      "playback_end": 762.376
+      "playback_end": 762.376,
+      "alignment_start": 754.14,
+      "alignment_end": 762.376,
+      "replay_boundary_kind": "verified_question",
+      "spoken_number_start": 754.14
     },
     {
       "speaker": "听力原声",
       "actor": "",
       "text": "13. What do we learn from the passage about existing technologies to purify indoor air?",
       "translation": "第 13 题：从文章中我们了解到关于现有净化室内空气技术的什么信息?",
-      "start": 775.59,
+      "start": 775.53,
       "end": 782.595,
       "questionNumber": 13,
-      "playback_end": 782.595
+      "playback_end": 782.595,
+      "alignment_start": 775.53,
+      "alignment_end": 782.595,
+      "replay_boundary_kind": "verified_question",
+      "spoken_number_start": 775.53
     },
     {
       "speaker": "听力原声",
       "actor": "",
       "text": "14. What do people tend to do when outdoor air quality is poor?",
       "translation": "第 14 题：当室外空气质量差时,人们往往会做什么?",
-      "start": 795.86,
+      "start": 795.8,
       "end": 801.382,
       "questionNumber": 14,
-      "playback_end": 801.382
+      "playback_end": 801.382,
+      "alignment_start": 795.8,
+      "alignment_end": 801.382,
+      "replay_boundary_kind": "verified_question",
+      "spoken_number_start": 795.8
     },
     {
       "speaker": "听力原声",
       "actor": "",
       "text": "15. What did Professor Gang Pan of the Chinese Academy of Sciences say about their study?",
       "translation": "第 15 题：中国科学院的潘刚教授关于他们的研究说了什么?",
-      "start": 814.92,
+      "start": 814.86,
       "end": 822.113,
       "questionNumber": 15,
-      "playback_end": 822.113
+      "playback_end": 822.113,
+      "alignment_start": 814.86,
+      "alignment_end": 822.113,
+      "replay_boundary_kind": "verified_question",
+      "spoken_number_start": 814.86
     },
     {
       "speaker": "听力原声",
       "actor": "",
       "text": "their",
       "translation": "其",
-      "start": 833.78,
+      "start": 853.848,
       "end": 856.78,
-      "playback_end": 857.075
+      "playback_end": 857.075,
+      "alignment_start": 833.78,
+      "alignment_end": 856.78,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1096,7 +1444,10 @@
       "translation": "与",
       "start": 857.16,
       "end": 857.42,
-      "playback_end": 857.92
+      "playback_end": 857.92,
+      "alignment_start": 857.16,
+      "alignment_end": 857.42,
+      "replay_boundary_kind": "no_clear_pause"
     },
     {
       "speaker": "听力原声",
@@ -1105,7 +1456,10 @@
       "translation": "单",
       "start": 858.13,
       "end": 861.372,
-      "playback_end": 861.372
+      "playback_end": 861.372,
+      "alignment_start": 858.13,
+      "alignment_end": 861.372,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1115,7 +1469,10 @@
       "start": 861.372,
       "end": 872.934,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 872.934
+      "playback_end": 872.934,
+      "alignment_start": 861.372,
+      "alignment_end": 872.934,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1125,7 +1482,10 @@
       "start": 872.934,
       "end": 885.971,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 885.971
+      "playback_end": 885.971,
+      "alignment_start": 872.934,
+      "alignment_end": 885.971,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1135,7 +1495,10 @@
       "start": 885.971,
       "end": 886.064,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 886.064
+      "playback_end": 886.064,
+      "alignment_start": 885.971,
+      "alignment_end": 886.064,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1145,7 +1508,10 @@
       "start": 886.064,
       "end": 886.25,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 886.25
+      "playback_end": 886.25,
+      "alignment_start": 886.064,
+      "alignment_end": 886.25,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1155,7 +1521,10 @@
       "start": 886.25,
       "end": 894.75,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 895.296
+      "playback_end": 895.296,
+      "alignment_start": 886.25,
+      "alignment_end": 894.75,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1165,7 +1534,10 @@
       "start": 896.58,
       "end": 900.2,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 900.693
+      "playback_end": 900.693,
+      "alignment_start": 896.58,
+      "alignment_end": 900.2,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1175,7 +1547,10 @@
       "start": 901.12,
       "end": 904.18,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 904.622
+      "playback_end": 904.622,
+      "alignment_start": 901.12,
+      "alignment_end": 904.18,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1185,7 +1560,10 @@
       "start": 905.89,
       "end": 908.91,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 909.261
+      "playback_end": 909.261,
+      "alignment_start": 905.89,
+      "alignment_end": 908.91,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1195,7 +1573,10 @@
       "start": 909.95,
       "end": 920.36,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 920.796
+      "playback_end": 920.796,
+      "alignment_start": 909.95,
+      "alignment_end": 920.36,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1205,7 +1586,10 @@
       "start": 922.64,
       "end": 931.24,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 931.532
+      "playback_end": 931.532,
+      "alignment_start": 922.64,
+      "alignment_end": 931.24,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1215,7 +1599,10 @@
       "start": 933.07,
       "end": 940.53,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 940.857
+      "playback_end": 940.867,
+      "alignment_start": 933.07,
+      "alignment_end": 940.53,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1225,7 +1612,10 @@
       "start": 941.91,
       "end": 949.1,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 949.467
+      "playback_end": 949.467,
+      "alignment_start": 941.91,
+      "alignment_end": 949.1,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1235,7 +1625,10 @@
       "start": 950.58,
       "end": 961.56,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 962.0
+      "playback_end": 962.0,
+      "alignment_start": 950.58,
+      "alignment_end": 961.56,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1245,7 +1638,10 @@
       "start": 963.26,
       "end": 975.44,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 975.914
+      "playback_end": 975.914,
+      "alignment_start": 963.26,
+      "alignment_end": 975.44,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1255,7 +1651,10 @@
       "start": 976.34,
       "end": 984.28,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 984.527
+      "playback_end": 984.527,
+      "alignment_start": 976.34,
+      "alignment_end": 984.28,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1265,7 +1664,10 @@
       "start": 985.16,
       "end": 993.46,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 993.667
+      "playback_end": 993.667,
+      "alignment_start": 985.16,
+      "alignment_end": 993.46,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1275,7 +1677,10 @@
       "start": 994.62,
       "end": 998.0,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 998.422
+      "playback_end": 998.422,
+      "alignment_start": 994.62,
+      "alignment_end": 998.0,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1285,7 +1690,10 @@
       "start": 999.02,
       "end": 1005.46,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 1005.892
+      "playback_end": 1005.892,
+      "alignment_start": 999.02,
+      "alignment_end": 1005.46,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1295,7 +1703,10 @@
       "start": 1006.25,
       "end": 1013.55,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 1013.943
+      "playback_end": 1013.943,
+      "alignment_start": 1006.25,
+      "alignment_end": 1013.55,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1305,37 +1716,52 @@
       "start": 1014.49,
       "end": 1026.93,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 1027.194
+      "playback_end": 1027.194,
+      "alignment_start": 1014.49,
+      "alignment_end": 1026.93,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
       "actor": "",
       "text": "16. What do we learn about the well-known mirror test?",
       "translation": "第 16 题：关于著名的镜像测试，我们了解到什么？",
-      "start": 1034.91,
+      "start": 1033.43,
       "end": 1037.902,
       "questionNumber": 16,
-      "playback_end": 1037.902
+      "playback_end": 1037.902,
+      "alignment_start": 1033.43,
+      "alignment_end": 1037.902,
+      "replay_boundary_kind": "verified_question",
+      "spoken_number_start": 1033.43
     },
     {
       "speaker": "听力原声",
       "actor": "",
       "text": "17. What does the study by the speaker's team show about the fish they experimented with?",
       "translation": "第 17 题：演讲者团队对所实验鱼类的研究表明了什么？",
-      "start": 1051.06,
+      "start": 1051.0,
       "end": 1057.634,
       "questionNumber": 17,
-      "playback_end": 1057.634
+      "playback_end": 1057.634,
+      "alignment_start": 1051.0,
+      "alignment_end": 1057.634,
+      "replay_boundary_kind": "verified_question",
+      "spoken_number_start": 1051.0
     },
     {
       "speaker": "听力原声",
       "actor": "",
       "text": "18. What does the speaker say about the results of their research?",
       "translation": "第 18 题：关于他们的研究结果，演讲者说了什么？",
-      "start": 1070.7,
+      "start": 1070.64,
       "end": 1075.901,
       "questionNumber": 18,
-      "playback_end": 1075.901
+      "playback_end": 1075.901,
+      "alignment_start": 1070.64,
+      "alignment_end": 1075.901,
+      "replay_boundary_kind": "verified_question",
+      "spoken_number_start": 1070.64
     },
     {
       "speaker": "听力原声",
@@ -1344,7 +1770,10 @@
       "translation": "与年幼的孩子一起阅读很重要。",
       "start": 1089.3,
       "end": 1092.97,
-      "playback_end": 1093.5
+      "playback_end": 1093.5,
+      "alignment_start": 1089.3,
+      "alignment_end": 1092.97,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1354,7 +1783,10 @@
       "start": 1093.63,
       "end": 1097.65,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 1097.975
+      "playback_end": 1097.975,
+      "alignment_start": 1093.63,
+      "alignment_end": 1097.65,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1364,7 +1796,10 @@
       "start": 1098.31,
       "end": 1102.25,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 1102.716
+      "playback_end": 1102.716,
+      "alignment_start": 1098.31,
+      "alignment_end": 1102.25,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1374,7 +1809,10 @@
       "start": 1102.87,
       "end": 1121.01,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 1121.369
+      "playback_end": 1121.369,
+      "alignment_start": 1102.87,
+      "alignment_end": 1121.01,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1384,7 +1822,10 @@
       "start": 1121.49,
       "end": 1124.93,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 1125.155
+      "playback_end": 1125.155,
+      "alignment_start": 1121.49,
+      "alignment_end": 1124.93,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1394,7 +1835,10 @@
       "start": 1126.43,
       "end": 1138.03,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 1138.349
+      "playback_end": 1138.349,
+      "alignment_start": 1126.43,
+      "alignment_end": 1138.03,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1404,7 +1848,10 @@
       "start": 1139.31,
       "end": 1148.63,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 1148.956
+      "playback_end": 1148.956,
+      "alignment_start": 1139.31,
+      "alignment_end": 1148.63,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1414,7 +1861,10 @@
       "start": 1149.51,
       "end": 1160.01,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 1160.346
+      "playback_end": 1160.346,
+      "alignment_start": 1149.51,
+      "alignment_end": 1160.01,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1424,7 +1874,10 @@
       "start": 1161.49,
       "end": 1168.63,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 1168.83
+      "playback_end": 1168.83,
+      "alignment_start": 1161.49,
+      "alignment_end": 1168.63,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1434,7 +1887,10 @@
       "start": 1169.27,
       "end": 1176.31,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 1176.724
+      "playback_end": 1176.724,
+      "alignment_start": 1169.27,
+      "alignment_end": 1176.31,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1444,7 +1900,10 @@
       "start": 1177.33,
       "end": 1186.23,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 1186.528
+      "playback_end": 1186.558,
+      "alignment_start": 1177.33,
+      "alignment_end": 1186.23,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1454,7 +1913,10 @@
       "start": 1187.03,
       "end": 1194.47,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 1194.775
+      "playback_end": 1194.775,
+      "alignment_start": 1187.03,
+      "alignment_end": 1194.47,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1464,7 +1926,10 @@
       "start": 1195.7,
       "end": 1203.48,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 1203.89
+      "playback_end": 1203.89,
+      "alignment_start": 1195.7,
+      "alignment_end": 1203.48,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1474,7 +1939,10 @@
       "start": 1204.44,
       "end": 1206.22,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 1206.641
+      "playback_end": 1206.641,
+      "alignment_start": 1204.44,
+      "alignment_end": 1206.22,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1484,7 +1952,10 @@
       "start": 1207.24,
       "end": 1215.74,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 1216.089
+      "playback_end": 1216.089,
+      "alignment_start": 1207.24,
+      "alignment_end": 1215.74,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1494,7 +1965,10 @@
       "start": 1216.43,
       "end": 1221.15,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 1221.54
+      "playback_end": 1221.565,
+      "alignment_start": 1216.43,
+      "alignment_end": 1221.15,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1504,7 +1978,10 @@
       "start": 1222.97,
       "end": 1226.47,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 1226.714
+      "playback_end": 1226.714,
+      "alignment_start": 1222.97,
+      "alignment_end": 1226.47,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1514,7 +1991,10 @@
       "start": 1227.15,
       "end": 1233.23,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 1233.625
+      "playback_end": 1233.625,
+      "alignment_start": 1227.15,
+      "alignment_end": 1233.23,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1524,7 +2004,10 @@
       "start": 1234.23,
       "end": 1241.33,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 1241.602
+      "playback_end": 1241.602,
+      "alignment_start": 1234.23,
+      "alignment_end": 1241.33,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1534,7 +2017,10 @@
       "start": 1242.51,
       "end": 1244.51,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 1244.843
+      "playback_end": 1244.843,
+      "alignment_start": 1242.51,
+      "alignment_end": 1244.51,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1544,37 +2030,52 @@
       "start": 1245.16,
       "end": 1258.08,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 1258.284
+      "playback_end": 1258.284,
+      "alignment_start": 1245.16,
+      "alignment_end": 1258.08,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
       "actor": "",
       "text": "19. What finding from the new study might come as a huge surprise?",
       "translation": "第 19 题：这项新研究的哪一发现可能会令人极为意外？",
-      "start": 1265.02,
+      "start": 1264.96,
       "end": 1270.881,
       "questionNumber": 19,
-      "playback_end": 1270.881
+      "playback_end": 1270.881,
+      "alignment_start": 1264.96,
+      "alignment_end": 1270.881,
+      "replay_boundary_kind": "verified_question",
+      "spoken_number_start": 1264.96
     },
     {
       "speaker": "听力原声",
       "actor": "",
       "text": "20. What do we learn about previous studies of young children reading electronic books?",
       "translation": "第 20 题：关于幼儿阅读电子书的以往研究，我们了解到什么？",
-      "start": 1285.68,
+      "start": 1283.46,
       "end": 1290.909,
       "questionNumber": 20,
-      "playback_end": 1290.909
+      "playback_end": 1290.909,
+      "alignment_start": 1283.46,
+      "alignment_end": 1290.909,
+      "replay_boundary_kind": "verified_question",
+      "spoken_number_start": 1283.46
     },
     {
       "speaker": "听力原声",
       "actor": "",
       "text": "21. What extra features should be included in electronic books to bolster children's learning?",
       "translation": "第 21 题：电子书中应加入哪些额外功能来促进儿童学习？",
-      "start": 1304.22,
+      "start": 1304.16,
       "end": 1311.821,
       "questionNumber": 21,
-      "playback_end": 1311.821
+      "playback_end": 1311.821,
+      "alignment_start": 1304.16,
+      "alignment_end": 1311.821,
+      "replay_boundary_kind": "verified_question",
+      "spoken_number_start": 1304.16
     },
     {
       "speaker": "听力原声",
@@ -1583,7 +2084,10 @@
       "translation": "让我来",
       "start": 1325.0,
       "end": 1325.78,
-      "playback_end": 1326.105
+      "playback_end": 1326.105,
+      "alignment_start": 1325.0,
+      "alignment_end": 1325.78,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1592,7 +2096,10 @@
       "translation": "跟你说实话",
       "start": 1326.71,
       "end": 1326.94,
-      "playback_end": 1326.94
+      "playback_end": 1326.94,
+      "alignment_start": 1326.71,
+      "alignment_end": 1326.94,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1602,17 +2109,23 @@
       "start": 1326.94,
       "end": 1328.87,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 1329.105
+      "playback_end": 1329.105,
+      "alignment_start": 1326.94,
+      "alignment_end": 1328.87,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
       "actor": "",
       "text": "If you're living your life full of regrets, you're wasting your time.",
       "translation": "如果你满怀悔恨地生活，就是在浪费时间。",
-      "start": 1329.33,
+      "start": 1329.59,
       "end": 1333.25,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 1333.506
+      "playback_end": 1333.506,
+      "alignment_start": 1329.33,
+      "alignment_end": 1333.25,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1622,7 +2135,10 @@
       "start": 1333.91,
       "end": 1338.73,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 1339.085
+      "playback_end": 1339.085,
+      "alignment_start": 1333.91,
+      "alignment_end": 1338.73,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1632,7 +2148,10 @@
       "start": 1339.37,
       "end": 1344.63,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 1344.873
+      "playback_end": 1344.873,
+      "alignment_start": 1339.37,
+      "alignment_end": 1344.63,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1642,7 +2161,10 @@
       "start": 1345.07,
       "end": 1345.45,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 1345.746
+      "playback_end": 1345.746,
+      "alignment_start": 1345.07,
+      "alignment_end": 1345.45,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1652,7 +2174,10 @@
       "start": 1346.31,
       "end": 1351.45,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 1351.855
+      "playback_end": 1351.855,
+      "alignment_start": 1346.31,
+      "alignment_end": 1351.45,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1662,7 +2187,10 @@
       "start": 1352.25,
       "end": 1357.55,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 1357.861
+      "playback_end": 1357.861,
+      "alignment_start": 1352.25,
+      "alignment_end": 1357.55,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1672,7 +2200,10 @@
       "start": 1358.29,
       "end": 1364.47,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 1364.719
+      "playback_end": 1364.719,
+      "alignment_start": 1358.29,
+      "alignment_end": 1364.47,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1682,7 +2213,10 @@
       "start": 1364.99,
       "end": 1369.41,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 1369.66
+      "playback_end": 1369.66,
+      "alignment_start": 1364.99,
+      "alignment_end": 1369.41,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1692,7 +2226,10 @@
       "start": 1370.4,
       "end": 1376.2,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 1376.624
+      "playback_end": 1376.624,
+      "alignment_start": 1370.4,
+      "alignment_end": 1376.2,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1702,7 +2239,10 @@
       "start": 1377.18,
       "end": 1381.76,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 1382.133
+      "playback_end": 1382.133,
+      "alignment_start": 1377.18,
+      "alignment_end": 1381.76,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1712,7 +2252,10 @@
       "start": 1382.52,
       "end": 1385.98,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 1386.313
+      "playback_end": 1386.313,
+      "alignment_start": 1382.52,
+      "alignment_end": 1385.98,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1722,7 +2265,10 @@
       "start": 1387.18,
       "end": 1391.86,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 1392.123
+      "playback_end": 1392.123,
+      "alignment_start": 1387.18,
+      "alignment_end": 1391.86,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1732,7 +2278,10 @@
       "start": 1392.75,
       "end": 1396.63,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 1397.35
+      "playback_end": 1397.35,
+      "alignment_start": 1392.75,
+      "alignment_end": 1396.63,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1742,7 +2291,10 @@
       "start": 1397.5,
       "end": 1400.66,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 1401.105
+      "playback_end": 1401.105,
+      "alignment_start": 1397.5,
+      "alignment_end": 1400.66,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1752,7 +2304,10 @@
       "start": 1402.26,
       "end": 1408.62,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 1408.967
+      "playback_end": 1408.967,
+      "alignment_start": 1402.26,
+      "alignment_end": 1408.62,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1762,7 +2317,10 @@
       "start": 1409.65,
       "end": 1414.37,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 1414.646
+      "playback_end": 1414.646,
+      "alignment_start": 1409.65,
+      "alignment_end": 1414.37,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1772,7 +2330,10 @@
       "start": 1415.11,
       "end": 1420.15,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 1420.597
+      "playback_end": 1420.597,
+      "alignment_start": 1415.11,
+      "alignment_end": 1420.15,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1782,7 +2343,10 @@
       "start": 1421.2,
       "end": 1429.27,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 1429.771
+      "playback_end": 1429.771,
+      "alignment_start": 1421.2,
+      "alignment_end": 1429.27,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1792,7 +2356,10 @@
       "start": 1430.66,
       "end": 1434.98,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 1435.157
+      "playback_end": 1435.157,
+      "alignment_start": 1430.66,
+      "alignment_end": 1434.98,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1802,7 +2369,10 @@
       "start": 1435.58,
       "end": 1436.48,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 1436.771
+      "playback_end": 1436.771,
+      "alignment_start": 1435.58,
+      "alignment_end": 1436.48,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1812,7 +2382,10 @@
       "start": 1437.18,
       "end": 1438.94,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 1439.281
+      "playback_end": 1439.324,
+      "alignment_start": 1437.18,
+      "alignment_end": 1438.94,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1822,7 +2395,10 @@
       "start": 1439.76,
       "end": 1442.98,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 1443.496
+      "playback_end": 1443.516,
+      "alignment_start": 1439.76,
+      "alignment_end": 1442.98,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1832,7 +2408,10 @@
       "start": 1443.66,
       "end": 1444.74,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 1445.198
+      "playback_end": 1445.198,
+      "alignment_start": 1443.66,
+      "alignment_end": 1444.74,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1842,7 +2421,10 @@
       "start": 1446.26,
       "end": 1453.14,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 1453.411
+      "playback_end": 1453.411,
+      "alignment_start": 1446.26,
+      "alignment_end": 1453.14,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1852,17 +2434,23 @@
       "start": 1453.8,
       "end": 1460.73,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 1461.076
+      "playback_end": 1461.076,
+      "alignment_start": 1453.8,
+      "alignment_end": 1460.73,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
       "actor": "",
       "text": "Think about every decision you've ever made.",
       "translation": "想想你曾经做出的每一个决定。",
-      "start": 1461.56,
+      "start": 1461.623,
       "end": 1463.84,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 1464.069
+      "playback_end": 1464.069,
+      "alignment_start": 1461.56,
+      "alignment_end": 1463.84,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1872,7 +2460,10 @@
       "start": 1464.34,
       "end": 1465.34,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 1465.739
+      "playback_end": 1465.739,
+      "alignment_start": 1464.34,
+      "alignment_end": 1465.34,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1882,7 +2473,10 @@
       "start": 1465.96,
       "end": 1466.52,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 1466.721
+      "playback_end": 1466.721,
+      "alignment_start": 1465.96,
+      "alignment_end": 1466.52,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1892,7 +2486,10 @@
       "start": 1467.2,
       "end": 1469.54,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
-      "playback_end": 1469.826
+      "playback_end": 1469.826,
+      "alignment_start": 1467.2,
+      "alignment_end": 1469.54,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
@@ -1901,47 +2498,66 @@
       "translation": "问题22 -25是基于你刚才听到的录音",
       "start": 1471.32,
       "end": 1476.26,
-      "playback_end": 1476.477
+      "playback_end": 1476.477,
+      "alignment_start": 1471.32,
+      "alignment_end": 1476.26,
+      "replay_boundary_kind": "audio_pause"
     },
     {
       "speaker": "听力原声",
       "actor": "",
       "text": "22. What should we do with the unfavorable decisions we've made?",
       "translation": "第 22 题：我们应该如何看待自己所作出的那些不理想的决定？",
-      "start": 1477.51,
+      "start": 1477.45,
       "end": 1482.6,
       "questionNumber": 22,
-      "playback_end": 1482.6
+      "playback_end": 1482.6,
+      "alignment_start": 1477.45,
+      "alignment_end": 1482.6,
+      "replay_boundary_kind": "verified_question",
+      "spoken_number_start": 1477.45
     },
     {
       "speaker": "听力原声",
       "actor": "",
       "text": "23. What does the speaker say about every single decision we've ever made?",
       "translation": "第 23 题：关于我们曾经作出的每一个决定，讲话者说了什么？",
-      "start": 1495.99,
+      "start": 1495.93,
       "end": 1501.718,
       "questionNumber": 23,
-      "playback_end": 1501.718
+      "playback_end": 1501.718,
+      "alignment_start": 1495.93,
+      "alignment_end": 1501.718,
+      "replay_boundary_kind": "verified_question",
+      "spoken_number_start": 1495.93
     },
     {
       "speaker": "听力原声",
       "actor": "",
       "text": "24. What is life full of according to the speaker?",
       "translation": "第 24 题：讲话者认为生活充满了什么？",
-      "start": 1515.02,
+      "start": 1514.96,
       "end": 1519.498,
       "questionNumber": 24,
-      "playback_end": 1519.498
+      "playback_end": 1519.498,
+      "alignment_start": 1514.96,
+      "alignment_end": 1519.498,
+      "replay_boundary_kind": "verified_question",
+      "spoken_number_start": 1514.96
     },
     {
       "speaker": "听力原声",
       "actor": "",
       "text": "25. What is said to be of real importance when we make poor decisions in life?",
       "translation": "第 25 题：当我们在生活中作出糟糕的决定时，什么被认为是真正重要的？",
-      "start": 1532.71,
+      "start": 1532.65,
       "end": 1539.009,
       "questionNumber": 25,
-      "playback_end": 1539.009
+      "playback_end": 1539.009,
+      "alignment_start": 1532.65,
+      "alignment_end": 1539.009,
+      "replay_boundary_kind": "verified_question",
+      "spoken_number_start": 1532.65
     },
     {
       "speaker": "听力原声",
@@ -1950,7 +2566,10 @@
       "translation": "听觉理解到此结束",
       "start": 1552.05,
       "end": 1554.17,
-      "playback_end": 1554.705
+      "playback_end": 1554.753,
+      "alignment_start": 1552.05,
+      "alignment_end": 1554.17,
+      "replay_boundary_kind": "audio_pause"
     }
   ],
   "translation_sources": [
@@ -1958,5 +2577,12 @@
     "Sams200/opus-mt-en-zh (unmatched sentences only)"
   ],
   "question_verification": "All 25 published question prompts located in original audio; numbers and prompts share one replay unit.",
-  "replay_boundary_source": "original_audio_pauses_with_caption_fallback"
+  "replay_boundary_source": "original_audio_pauses_and_word_onset_audit",
+  "replay_boundary_audit": {
+    "pause_ends": 172,
+    "no_clear_pause": 1,
+    "corrected_onsets": 12,
+    "corrected_ends": 0
+  },
+  "audio_duration": 1555.13
 }

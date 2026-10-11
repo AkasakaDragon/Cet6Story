@@ -67,7 +67,7 @@ public partial class Game {
 
 
  string RogueFeedbackText(RogueRun r){
-  var entry=r.question.entry;string zh=entry.exampleZh;
+  var entry=r.question.entry;string zh=entry.exampleZh;bool importedExample=(String.IsNullOrWhiteSpace(entry.example)||entry.example.StartsWith("Practice the word"))&&ImportedWordExamples(entry.word).Count>0;
   if(String.IsNullOrWhiteSpace(zh)){
    var original=RogueBank().FirstOrDefault(w=>w.word.Equals(entry.word,StringComparison.OrdinalIgnoreCase)&&w.example==entry.example);
    if(original!=null)zh=original.exampleZh;
@@ -86,7 +86,8 @@ public partial class Game {
    lines[0]+=" · 护盾抵挡 "+blocked;
   }
   if(r.cardBattle!=null&&r.cardBattle.burnDamage>0)lines.Insert(Math.Min(1,lines.Count),"燃烧结算 · 造成 "+r.cardBattle.burnDamage+" 伤害");
-  if(!String.IsNullOrWhiteSpace(zh))lines.Insert(Object.ReferenceEquals(r,save.tavernBattle)?lines.Count:Math.Min(3,lines.Count),"例句译文："+zh);
+  if(importedExample){string oldExample=PlainWordExample(entry.word,entry.example);lines=lines.Where(line=>!String.IsNullOrWhiteSpace(line)&&line!=oldExample).ToList();lines.Add(ImportedExampleFeedback(entry.word));}
+  else if(!String.IsNullOrWhiteSpace(zh))lines.Insert(Object.ReferenceEquals(r,save.tavernBattle)?lines.Count:Math.Min(3,lines.Count),"例句译文："+zh);
   return String.Join("\n",lines);
  }
  Control RogueFeedbackIcon(RogueEntry entry,string kind){

@@ -68,6 +68,8 @@ def attach_verified_questions(reference, rows):
         assert question.get('audio_match_score', 0) >= .75
         retained = []
         for row in rows:
+            if re.search(r'\bquestion\b', row['text'], re.I) and re.sub(r'[^a-z0-9]', '', question['prompt'].lower()) in re.sub(r'[^a-z0-9]', '', row['text'].lower()) and start-7 <= row['start'] < end:
+                continue
             if row['start'] < end+.15 and row['end'] > start-.15:
                 if row['start'] < start-2 and not re.match(r'^(?:Question\b|\d+[.:])', row['text'], re.I):
                     retained.append(dict(row, end=start))
@@ -75,8 +77,11 @@ def attach_verified_questions(reference, rows):
                 retained.append(row)
         native = re.search(r'【翻译】\s*(.+?)(?=\s*A\s*[)）.、]|【|$)', question.get('explanation', ''), re.S)
         zh = '第 '+str(question['number'])+' 题：'+re.sub(r'\s+', ' ', native.group(1)).strip() if native else ''
-        retained.append(dict(speaker='听力原声', actor='', text=str(question['number'])+'. '+question['prompt'],
-                             translation=zh, start=start, end=end, questionNumber=question['number']))
+        row = dict(speaker='听力原声', actor='', text=str(question['number'])+'. '+question['prompt'],
+                   translation=zh, start=start, end=end, questionNumber=question['number'])
+        if 'spoken_number_start' in question:
+            row['spoken_number_start'] = question['spoken_number_start']
+        retained.append(row)
         rows = retained
     rows.sort(key=lambda row: row['start'])
     for index,row in enumerate(rows[:-1]):

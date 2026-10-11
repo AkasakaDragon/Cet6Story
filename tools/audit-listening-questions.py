@@ -5,6 +5,11 @@ import json
 import re
 from pathlib import Path
 from listening_sentences import answer_pauses
+import importlib.util
+
+_lead_spec = importlib.util.spec_from_file_location('question_leads', Path(__file__).with_name('audit-listening-question-leads.py'))
+_lead_module = importlib.util.module_from_spec(_lead_spec)
+_lead_spec.loader.exec_module(_lead_module)
 
 ROOT = Path(__file__).resolve().parents[1]
 FOLDER = ROOT / 'assets/tavern/listening/real-exams/cettong'
@@ -66,6 +71,9 @@ def audit():
         ordinal = raw.with_name(raw.stem+'-questions-ordinal.json')
         if ordinal.exists():
             extra_segments += json.loads(ordinal.read_text(encoding='utf-8'))
+        lead_transcript = raw.with_name(raw.stem+'-question-leads.json')
+        if lead_transcript.exists():
+            extra_segments += json.loads(lead_transcript.read_text(encoding='utf-8'))
         # A decoder can split a question at a chunk boundary.
         joined = []
         for a,b in zip(extra_segments,extra_segments[1:]):
@@ -90,11 +98,12 @@ def audit():
                     if candidate['score'] > match['score']:
                         match = candidate
                 # Include the spoken number in the same audio replay as its prompt.
-                numbers = [w for w in nearby if ''.join(tokens(w['word'])) == str(question['number']) and match['start']-3 <= w['start'] < match['start'] and w['end'] <= match['start']+.1]
-                if numbers:
-                    number_start = max(w['start'] for w in numbers)
-                    leads = [w['start'] for w in nearby if ''.join(tokens(w['word'])) == 'question' and number_start-1 <= w['start'] < number_start]
-                    match['start'] = min(leads) if leads else number_start
+                leads = _lead_module.spoken_lead(words, question['number'], match['start'])
+                leads += [lead for segment in extra_segments for lead in _lead_module.spoken_lead(segment['words'], question['number'], match['start'])]
+                explicit = [start for start, strong in leads if strong]
+                starts = explicit or [start for start, strong in leads]
+                if starts:
+                    match['start'] = max(group['start'], min(starts)-.06)
                 match.update(number=question['number'], group=group['id'], prompt=question['prompt'])
                 matches.append(match)
         results.append(dict(exam=exam['id'], questions=matches))

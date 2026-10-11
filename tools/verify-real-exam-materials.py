@@ -29,6 +29,9 @@ for exam in exams:
         assert not re.fullmatch(r'(?:Question\s*)?\d+[.:]?',line['text'].strip(),re.I),source['id']+' standalone question number'
         assert 0<=line['start']<line['end']
         if i:assert line['start']>=lines[i-1]['end']-.001,source['id']+' overlap'
+        if 'playback_end' in line:
+            assert line['playback_end']>=line['end']-.001,source['id']+' replay cuts caption tail'
+            if i+1<len(lines):assert line['playback_end']<=lines[i+1]['start']+.001,source['id']+' replay enters next sentence'
     for group in source['groups']:
         assert any(group['start']-.5<=line['start']<group['end'] for line in lines),source['id']+' empty group'
         questions=sorted([q for q in source['questions'] if q['group_id']==group['id']],key=lambda q:q['number'])
@@ -41,8 +44,11 @@ for exam in exams:
             assert line['text']==str(q['number'])+'. '+q['prompt']
             assert group['start']-.2<=line['start']<line['end']<=group['end']
             assert line['start']==q['start'] and line['end']==q['end']
+            assert 'spoken_number_start' in q and 'spoken_number_start' in line,source['id']+' question number not audited '+str(q['number'])
+            assert line['start']<=line['spoken_number_start']+.001,source['id']+' replay skips spoken number '+str(q['number'])
+            assert line['spoken_number_start']==q['spoken_number_start'],source['id']+' inconsistent spoken-number timing'
     total_lines+=len(lines);total_questions+=len(source['questions']);checked+=1
-    playback.append((ROOT/captions['audio'],max(r['end'] for r in lines)))
+    playback.append((ROOT/captions['audio'],max(r.get('playback_end',r['end']) for r in lines)))
 if args.decode:
     def decode(item):
         file,last=item

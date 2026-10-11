@@ -8,7 +8,7 @@ public partial class Game {
  void AddWordbookIcons(RogueCard card,Word word){
   var title=(Label)card.Controls[0];card.Controls.Remove(title);
   var row=new FlowLayoutPanel{AutoSize=true,AutoSizeMode=AutoSizeMode.GrowAndShrink,WrapContents=false,Margin=new Padding(0),BackColor=Color.Transparent};
-  title.Margin=new Padding(6,8,10,6);row.Controls.Add(title);
+  title.Margin=new Padding(6,8,10,6);title.Cursor=Cursors.Hand;title.AccessibleName="查看 "+word.text+" 的词义和例句";title.Click+=(sender,e)=>AddWord(word.text,word.example);tips.SetToolTip(title,"点击查看词义和双语例句");row.Controls.Add(title);
   var hear=new RogueIcon{Kind="speaker",AccessibleName="听单词",Size=new Size(32,32),TransparentBackground=true,BackColor=Color.FromArgb(25,53,55)};
   hear.Click+=(sender,e)=>SpeakWord(word.text);tips.SetToolTip(hear,"播放单词发音");row.Controls.Add(hear);
   var favorite=new RogueIcon{Kind="star",Selected=true,AccessibleName="取消收藏单词",Size=new Size(32,32),TransparentBackground=true,BackColor=Color.FromArgb(25,53,55)};
