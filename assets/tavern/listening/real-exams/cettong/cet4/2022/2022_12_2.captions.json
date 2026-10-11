@@ -18,7 +18,8 @@
       "translation": "世界风笛乐队锦标赛将于周六在格拉斯哥举行。",
       "start": 41.3,
       "end": 46.366,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 46.366
     },
     {
       "speaker": "听力原声",
@@ -27,7 +28,8 @@
       "translation": "超过120支世界顶尖风笛乐队将参加锦标赛。",
       "start": 46.366,
       "end": 51.855,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 51.855
     },
     {
       "speaker": "听力原声",
@@ -36,7 +38,8 @@
       "translation": "预计超过4000名风笛手和鼓手将涌入该市参加这一年度盛事。",
       "start": 51.855,
       "end": 58.61,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 58.61
     },
     {
       "speaker": "听力原声",
@@ -44,7 +47,8 @@
       "text": "It will take place at the St. James Playing Fields in Glasgow on Saturday, 18 May from 10:00 am until 7:00 pm.",
       "translation": "会议将于5月18日星期六上午10:00至下午7:00在格拉斯哥圣詹姆斯游戏场举行。",
       "start": 58.61,
-      "end": 68.13
+      "end": 68.13,
+      "playback_end": 68.13
     },
     {
       "speaker": "听力原声",
@@ -53,7 +57,8 @@
       "translation": "该活动免费入场。",
       "start": 68.13,
       "end": 69.03,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 69.327
     },
     {
       "speaker": "听力原声",
@@ -62,7 +67,8 @@
       "translation": "此外,将有免费班车往返于活动停车场和比赛场地之间。",
       "start": 69.71,
       "end": 74.95,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 75.143
     },
     {
       "speaker": "听力原声",
@@ -71,7 +77,8 @@
       "translation": "班车从上午8点至晚上8点每15分钟一班。",
       "start": 75.67,
       "end": 81.95,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 81.95
     },
     {
       "speaker": "听力原声",
@@ -80,7 +87,8 @@
       "translation": "格拉斯哥市议会表示,预计该活动将为当地经济带来30万英镑的收益。",
       "start": 81.95,
       "end": 88.21,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 88.493
     },
     {
       "speaker": "听力原声",
@@ -89,7 +97,8 @@
       "translation": "首届世界风笛乐队锦标赛于1947年在爱丁堡举行。",
       "start": 88.74,
       "end": 93.6,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 94.311
     },
     {
       "speaker": "听力原声",
@@ -98,7 +107,8 @@
       "translation": "该活动于1948年首次在格拉斯哥举办。",
       "start": 94.7,
       "end": 97.36,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 98.148
     },
     {
       "speaker": "听力原声",
@@ -107,7 +117,8 @@
       "translation": "自1986年以来一直定期在格拉斯哥举行。",
       "start": 98.56,
       "end": 101.98,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 102.356
     },
     {
       "speaker": "听力原声",
@@ -116,7 +127,8 @@
       "translation": "第 1 题：什么活动将在格拉斯哥举行?",
       "start": 109.01,
       "end": 113.097,
-      "questionNumber": 1
+      "questionNumber": 1,
+      "playback_end": 113.097
     },
     {
       "speaker": "听力原声",
@@ -125,7 +137,8 @@
       "translation": "第 2 题：格拉斯哥市议会说这个活动将会做什么?",
       "start": 127.79,
       "end": 133.579,
-      "questionNumber": 2
+      "questionNumber": 2,
+      "playback_end": 133.579
     },
     {
       "speaker": "听力原声",
@@ -133,7 +146,8 @@
       "text": "News report too.",
       "translation": "新闻报告也。",
       "start": 148.33,
-      "end": 149.77
+      "end": 149.77,
+      "playback_end": 149.985
     },
     {
       "speaker": "听力原声",
@@ -142,7 +156,8 @@
       "translation": "距离夏季开始还有两天,但科学家们已经对格陵兰岛目前正在发生的危险冰层融化发出警报。",
       "start": 150.81,
       "end": 159.95,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 160.419
     },
     {
       "speaker": "听力原声",
@@ -151,7 +166,8 @@
       "translation": "这座广袤的岛屿通常将足够多的淡水锁在其冰盖中,如果融化可使全球海平面上升六米。",
       "start": 161.07,
       "end": 170.73,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 171.222
     },
     {
       "speaker": "听力原声",
@@ -160,7 +176,8 @@
       "translation": "研究表明,近年来其冰层融化速度比以往任何时候都快。",
       "start": 171.71,
       "end": 176.93,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 177.32
     },
     {
       "speaker": "听力原声",
@@ -169,7 +186,8 @@
       "translation": "本月,随着格陵兰岛西北部气温接近历史最高值,研究人员在该地区遇到了异常且令人惊讶的冰层融化水平。",
       "start": 177.58,
       "end": 188.94,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 189.3
     },
     {
       "speaker": "听力原声",
@@ -178,7 +196,8 @@
       "translation": "这里最重大的担忧是这一切发生得如此之早。",
       "start": 189.96,
       "end": 194.3,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 194.65
     },
     {
       "speaker": "听力原声",
@@ -187,7 +206,8 @@
       "translation": "格陵兰岛经历着年度冰层融化和增长周期。",
       "start": 195.3,
       "end": 198.62,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 198.991
     },
     {
       "speaker": "听力原声",
@@ -196,7 +216,8 @@
       "translation": "但今年,融化季节始于五月初。",
       "start": 199.1,
       "end": 202.4,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 202.772
     },
     {
       "speaker": "听力原声",
@@ -205,7 +226,8 @@
       "translation": "这比正常情况提前了一个月,而且在历史记录中只在2016年发生过一次。",
       "start": 203.63,
       "end": 211.95,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 212.558
     },
     {
       "speaker": "听力原声",
@@ -214,7 +236,8 @@
       "translation": "这意味着冰层不仅融化得非常快,而且今年夏天它有比正常气候系统中更多的时间融化。",
       "start": 213.21,
       "end": 221.83,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 222.08
     },
     {
       "speaker": "听力原声",
@@ -223,7 +246,8 @@
       "translation": "像这样更长的融化季节似乎会导致对海平面上升的贡献远大于前几十年。",
       "start": 222.63,
       "end": 230.69,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 231.227
     },
     {
       "speaker": "听力原声",
@@ -231,7 +255,8 @@
       "text": "Questions 3 and 4 are based on the news report you have just heard.",
       "translation": "问题3和4 是基于你刚刚听到的新闻报导。",
       "start": 231.58,
-      "end": 235.9
+      "end": 235.9,
+      "playback_end": 236.115
     },
     {
       "speaker": "听力原声",
@@ -240,7 +265,8 @@
       "translation": "第 3 题：新闻报道中科学家们发出了什么警告?",
       "start": 236.87,
       "end": 241.472,
-      "questionNumber": 3
+      "questionNumber": 3,
+      "playback_end": 241.472
     },
     {
       "speaker": "听力原声",
@@ -249,7 +275,8 @@
       "translation": "第 4 题：关于今年的冰层融化我们了解到什么?",
       "start": 256.45,
       "end": 261.89,
-      "questionNumber": 4
+      "questionNumber": 4,
+      "playback_end": 261.89
     },
     {
       "speaker": "听力原声",
@@ -257,7 +284,8 @@
       "text": "Report 3.",
       "translation": "报告3。",
       "start": 277.27,
-      "end": 278.13
+      "end": 278.13,
+      "playback_end": 278.257
     },
     {
       "speaker": "听力原声",
@@ -265,7 +293,8 @@
       "text": "Bundles containing thousands of pounds in cash keep turning up on the streets of black-hall collary in northern England, according to police.",
       "translation": "据警方说 装有数千磅现金的套装 一直出现在英格兰北部 黑厅的街头",
       "start": 278.89,
-      "end": 287.53
+      "end": 287.53,
+      "playback_end": 287.925
     },
     {
       "speaker": "听力原声",
@@ -274,7 +303,8 @@
       "translation": "这个村庄的居民一直在Durham郡这个前矿业村发现成捆的20英镑纸币——通常价值2000英镑。",
       "start": 288.77,
       "end": 298.37,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 298.709
     },
     {
       "speaker": "听力原声",
@@ -283,7 +313,8 @@
       "translation": "最近一次发现是在周一,这意味着今年已有四个这样的现金捆包被上交,自2014年以来共有13个。",
       "start": 299.37,
       "end": 307.51,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 307.766
     },
     {
       "speaker": "听力原声",
@@ -292,7 +323,8 @@
       "translation": "这些捆包通常被放置在显眼位置,散布在这个沿海小村庄各处。",
       "start": 308.73,
       "end": 314.05,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 314.444
     },
     {
       "speaker": "听力原声",
@@ -301,7 +333,8 @@
       "translation": "据Peterlee警方称,失主有两周时间来认领现金,如果无人认领,现金将归还给发现者。",
       "start": 314.97,
       "end": 322.45,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 322.936
     },
     {
       "speaker": "听力原声",
@@ -310,7 +343,8 @@
       "translation": "Durham警方发言人表示,除了昨天的情况外,所有案例中的钱款都已归还给幸运的发现者。",
       "start": 323.63,
       "end": 330.03,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 330.3
     },
     {
       "speaker": "听力原声",
@@ -319,7 +353,8 @@
       "translation": "警察John Forster在一份声明中说:\"具体情况仍是一个谜,因此我们欢迎任何能帮助我们查明这些随机事件真相的信息。\"",
       "start": 330.89,
       "end": 342.07,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 342.659
     },
     {
       "speaker": "听力原声",
@@ -328,7 +363,8 @@
       "translation": "他告诉The Northern Echo:\"这里并不是一个富裕的地方,所以他们发现那么多现金后立即想到送到警察局,这显示了当地的社区精神。\"",
       "start": 343.07,
       "end": 355.76,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 355.982
     },
     {
       "speaker": "听力原声",
@@ -337,7 +373,8 @@
       "translation": "第 5 题：Blackhall Colliery 的街道上发生了什么？",
       "start": 361.92,
       "end": 366.009,
-      "questionNumber": 5
+      "questionNumber": 5,
+      "playback_end": 366.009
     },
     {
       "speaker": "听力原声",
@@ -346,7 +383,8 @@
       "translation": "第 6 题：如果两周内无人认领，当地警方会如何处理这笔钱？",
       "start": 380.79,
       "end": 387.741,
-      "questionNumber": 6
+      "questionNumber": 6,
+      "playback_end": 387.741
     },
     {
       "speaker": "听力原声",
@@ -355,7 +393,8 @@
       "translation": "第 7 题：警察 John Forster 对村民们说了什么？",
       "start": 404.22,
       "end": 408.474,
-      "questionNumber": 7
+      "questionNumber": 7,
+      "playback_end": 408.474
     },
     {
       "speaker": "听力原声",
@@ -363,7 +402,8 @@
       "text": "Section B. In this section, you will hear two long conversations.",
       "translation": "B节. 在本节中,你们将听到两场长长的谈话。",
       "start": 423.25,
-      "end": 428.89
+      "end": 428.89,
+      "playback_end": 429.541
     },
     {
       "speaker": "听力原声",
@@ -371,7 +411,8 @@
       "text": "At the end of each conversation,",
       "translation": "每次谈话结束时",
       "start": 429.73,
-      "end": 431.03
+      "end": 431.03,
+      "playback_end": 431.553
     },
     {
       "speaker": "听力原声",
@@ -379,7 +420,8 @@
       "text": "you will hear four questions.",
       "translation": "你会听到四个问题。",
       "start": 431.77,
-      "end": 433.07
+      "end": 433.07,
+      "playback_end": 433.436
     },
     {
       "speaker": "听力原声",
@@ -387,7 +429,8 @@
       "text": "Both the conversation and the questions will be spoken only once.",
       "translation": "谈话和问题只谈一次",
       "start": 433.79,
-      "end": 437.37
+      "end": 437.37,
+      "playback_end": 437.411
     },
     {
       "speaker": "听力原声",
@@ -395,7 +438,8 @@
       "text": "After you hear a question, you must choose the best answer from the four choices marked A, B, C, and D. Then...",
       "translation": "在听到一个问题后,你必须从四个选择中选择最好的答案,这四个选择分别是A、B、C和D。 然后...",
       "start": 438.29,
-      "end": 446.29
+      "end": 446.29,
+      "playback_end": 446.29
     },
     {
       "speaker": "听力原声",
@@ -403,7 +447,8 @@
       "text": "Mark the corresponding letter on answer sheet one with a single line through the center.",
       "translation": "在答题单单行中标出相应的字母。",
       "start": 446.29,
-      "end": 451.27
+      "end": 451.27,
+      "playback_end": 451.402
     },
     {
       "speaker": "听力原声",
@@ -412,7 +457,8 @@
       "translation": "下周就是你的生日了。",
       "start": 453.64,
       "end": 455.56,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 455.612
     },
     {
       "speaker": "听力原声",
@@ -421,7 +467,8 @@
       "translation": "你有什么计划吗？",
       "start": 455.94,
       "end": 456.76,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 457.254
     },
     {
       "speaker": "听力原声",
@@ -430,7 +477,8 @@
       "translation": "我还不确定。",
       "start": 457.62,
       "end": 458.5,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 458.832
     },
     {
       "speaker": "听力原声",
@@ -439,7 +487,8 @@
       "translation": "我在生日的时候经常感觉怪怪的。",
       "start": 459.06,
       "end": 460.88,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 461.184
     },
     {
       "speaker": "听力原声",
@@ -448,7 +497,8 @@
       "translation": "就好像我的大脑决定要来一场危机。",
       "start": 461.34,
       "end": 463.4,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 463.903
     },
     {
       "speaker": "听力原声",
@@ -457,7 +507,8 @@
       "translation": "在生日前后感到焦虑或悲伤并不完全罕见。",
       "start": 464.3,
       "end": 468.84,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 469.135
     },
     {
       "speaker": "听力原声",
@@ -466,7 +517,8 @@
       "translation": "生日会触及人们担心的很多事情，包括他们过去十年的人生成就，或者过去一年的成绩。",
       "start": 469.56,
       "end": 479.45,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 479.734
     },
     {
       "speaker": "听力原声",
@@ -475,7 +527,8 @@
       "translation": "许多人开始寻找自己存在的意义，导致一些行为，比如结束或开始一段关系，或者制定计划，比如开始严格的饮食或健身计划。",
       "start": 480.15,
       "end": 491.47,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 491.92
     },
     {
       "speaker": "听力原声",
@@ -484,7 +537,8 @@
       "translation": "我有很棒的朋友，我也喜欢庆祝他们的生日。",
       "start": 492.15,
       "end": 496.13,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 496.442
     },
     {
       "speaker": "听力原声",
@@ -493,7 +547,8 @@
       "translation": "但我不喜欢成为关注的焦点，收礼物，被大家围着忙活。",
       "start": 496.57,
       "end": 501.67,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 501.926
     },
     {
       "speaker": "听力原声",
@@ -502,7 +557,8 @@
       "translation": "这似乎会引发一种社交焦虑。",
       "start": 502.15,
       "end": 504.67,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 505.312
     },
     {
       "speaker": "听力原声",
@@ -511,7 +567,8 @@
       "translation": "我觉得社交媒体也会让事情更严重，因为现在生日更多是公开展示的。",
       "start": 505.69,
       "end": 511.01,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 511.405
     },
     {
       "speaker": "听力原声",
@@ -520,7 +577,8 @@
       "translation": "生日提醒可能有帮助,但我有点担心我没法把自己的生日搞得看起来像应该的那么激动人心。",
       "start": 511.75,
       "end": 520.49,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 520.682
     },
     {
       "speaker": "听力原声",
@@ -529,7 +587,8 @@
       "translation": "嗯，要应对生日忧郁，你不应该把自己孤立起来。",
       "start": 520.89,
       "end": 525.03,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 525.546
     },
     {
       "speaker": "听力原声",
@@ -538,7 +597,8 @@
       "translation": "最好是和你信任的人一起逐渐面对你的生日。",
       "start": 525.87,
       "end": 529.33,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 529.761
     },
     {
       "speaker": "听力原声",
@@ -547,7 +607,8 @@
       "translation": "这会帮助你学会自我接纳，或者说成为焦点也没关系。",
       "start": 529.9,
       "end": 534.54,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 534.985
     },
     {
       "speaker": "听力原声",
@@ -556,7 +617,8 @@
       "translation": "也许吧。",
       "start": 535.22,
       "end": 535.72,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 536.274
     },
     {
       "speaker": "听力原声",
@@ -565,7 +627,8 @@
       "translation": "或者我可以把生日看作是为别人做点什么的机会，比如请人们捐款而不是买礼物。",
       "start": 536.3,
       "end": 544.44,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 544.635
     },
     {
       "speaker": "听力原声",
@@ -574,7 +637,8 @@
       "translation": "没错。",
       "start": 544.94,
       "end": 545.38,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 545.92
     },
     {
       "speaker": "听力原声",
@@ -583,7 +647,8 @@
       "translation": "或者甚至可以简单地把你的生日看作是把大家聚在一起让他们开心的机会。",
       "start": 545.92,
       "end": 552.02,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 552.336
     },
     {
       "speaker": "听力原声",
@@ -591,7 +656,8 @@
       "text": "Questions 8-11 are based on the conversation you have just heard.",
       "translation": "问题8 -11是基于你刚才听到的谈话",
       "start": 552.58,
-      "end": 557.04
+      "end": 557.04,
+      "playback_end": 557.261
     },
     {
       "speaker": "听力原声",
@@ -600,7 +666,8 @@
       "translation": "第 8 题：这位男士在生日时常常有什么感觉?",
       "start": 558.04,
       "end": 561.981,
-      "questionNumber": 8
+      "questionNumber": 8,
+      "playback_end": 561.981
     },
     {
       "speaker": "听力原声",
@@ -609,7 +676,8 @@
       "translation": "第 9 题：这位女士说许多人在生日时往往会做什么?",
       "start": 577.06,
       "end": 582.155,
-      "questionNumber": 9
+      "questionNumber": 9,
+      "playback_end": 582.155
     },
     {
       "speaker": "听力原声",
@@ -618,7 +686,8 @@
       "translation": "第 10 题：这位男士对生日庆祝有什么看法?",
       "start": 597.1,
       "end": 601.504,
-      "questionNumber": 10
+      "questionNumber": 10,
+      "playback_end": 601.504
     },
     {
       "speaker": "听力原声",
@@ -627,7 +696,8 @@
       "translation": "第 11 题：在对话结束时,这位女士建议这位男士如何处理他的生日庆祝?",
       "start": 616.38,
       "end": 624.041,
-      "questionNumber": 11
+      "questionNumber": 11,
+      "playback_end": 624.041
     },
     {
       "speaker": "听力原声",
@@ -635,7 +705,8 @@
       "text": "Conversation 2.",
       "translation": "对话2。",
       "start": 639.18,
-      "end": 640.28
+      "end": 640.28,
+      "playback_end": 640.464
     },
     {
       "speaker": "听力原声",
@@ -644,7 +715,8 @@
       "translation": "今天早上地铁真是糟糕透了。",
       "start": 641.25,
       "end": 644.39,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 644.657
     },
     {
       "speaker": "听力原声",
@@ -653,7 +725,8 @@
       "translation": "哦,是晚点了吗?",
       "start": 644.79,
       "end": 646.03,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 646.374
     },
     {
       "speaker": "听力原声",
@@ -662,7 +735,8 @@
       "translation": "不是,但是车厢挤得我几乎动弹不得,连呼吸都困难。",
       "start": 646.46,
       "end": 652.44,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 652.805
     },
     {
       "speaker": "听力原声",
@@ -671,7 +745,8 @@
       "translation": "每到一站,就有更多人挤进来,我被越挤越往里面。",
       "start": 653.0,
       "end": 658.12,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 658.697
     },
     {
       "speaker": "听力原声",
@@ -680,7 +755,8 @@
       "translation": "到我那站的时候,我几乎下不了车。",
       "start": 658.86,
       "end": 661.22,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 661.532
     },
     {
       "speaker": "听力原声",
@@ -689,7 +765,8 @@
       "translation": "好不容易出来了,整个人都累瘫了。",
       "start": 661.76,
       "end": 664.08,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 664.78
     },
     {
       "speaker": "听力原声",
@@ -698,7 +775,8 @@
       "translation": "听起来像噩梦一样。",
       "start": 664.94,
       "end": 666.3,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 666.919
     },
     {
       "speaker": "听力原声",
@@ -707,7 +785,8 @@
       "translation": "你为什么不坐公交车呢?",
       "start": 667.02,
       "end": 668.24,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 668.72
     },
     {
       "speaker": "听力原声",
@@ -716,7 +795,8 @@
       "translation": "公交车要花两倍的时间,而且一样挤。",
       "start": 668.72,
       "end": 672.1,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 672.542
     },
     {
       "speaker": "听力原声",
@@ -724,7 +804,8 @@
       "text": "Well, what's the alternative?",
       "translation": "那么,还有什么选择呢?",
       "start": 672.78,
-      "end": 674.4
+      "end": 674.4,
+      "playback_end": 674.833
     },
     {
       "speaker": "听力原声",
@@ -732,7 +813,8 @@
       "text": "Haven't you got a car?",
       "translation": "你没有车吗?",
       "start": 674.98,
-      "end": 675.92
+      "end": 675.92,
+      "playback_end": 676.177
     },
     {
       "speaker": "听力原声",
@@ -741,7 +823,8 @@
       "translation": "我有驾照,但也就仅此而已。",
       "start": 676.33,
       "end": 678.89,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 679.177
     },
     {
       "speaker": "听力原声",
@@ -750,7 +833,8 @@
       "translation": "我在攒钱买辆比较小巧可爱的车,但对我来说还是有点贵,还得攒一阵子才够。",
       "start": 679.49,
       "end": 687.81,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 688.053
     },
     {
       "speaker": "听力原声",
@@ -759,7 +843,8 @@
       "translation": "你考虑过买电动摩托车吗?",
       "start": 688.21,
       "end": 690.59,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 690.695
     },
     {
       "speaker": "听力原声",
@@ -768,7 +853,8 @@
       "translation": "我可能考虑了一分钟吧。",
       "start": 690.99,
       "end": 693.49,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 693.77
     },
     {
       "speaker": "听力原声",
@@ -777,7 +863,8 @@
       "translation": "但说实话,我见过太多涉及那些危险怪物的可怕事故了。",
       "start": 693.85,
       "end": 699.69,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 700.477
     },
     {
       "speaker": "听力原声",
@@ -785,7 +872,8 @@
       "text": "What about those popular shared bikes?",
       "translation": "那些流行的共用自行车呢?",
       "start": 700.63,
-      "end": 703.07
+      "end": 703.07,
+      "playback_end": 703.07
     },
     {
       "speaker": "听力原声",
@@ -793,7 +881,8 @@
       "text": "You could register to use one.",
       "translation": "您可以注册使用 。",
       "start": 703.07,
-      "end": 704.63
+      "end": 704.63,
+      "playback_end": 704.81
     },
     {
       "speaker": "听力原声",
@@ -802,7 +891,8 @@
       "translation": "嗯,这倒是个可能。",
       "start": 704.97,
       "end": 706.49,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 707.077
     },
     {
       "speaker": "听力原声",
@@ -811,7 +901,8 @@
       "translation": "我们小区门口总有好几辆那种车。",
       "start": 707.45,
       "end": 711.13,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 711.388
     },
     {
       "speaker": "听力原声",
@@ -820,7 +911,8 @@
       "translation": "或者你可以走路去上班。",
       "start": 711.87,
       "end": 713.67,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 713.777
     },
     {
       "speaker": "听力原声",
@@ -829,7 +921,8 @@
       "translation": "嗯,从家到办公室有五公里。",
       "start": 714.19,
       "end": 717.57,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 717.999
     },
     {
       "speaker": "听力原声",
@@ -838,7 +931,8 @@
       "translation": "不过你倒是给了我一个想法。",
       "start": 718.09,
       "end": 719.59,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 719.851
     },
     {
       "speaker": "听力原声",
@@ -847,7 +941,8 @@
       "translation": "我可以带套换洗衣服,跑步去上班。",
       "start": 720.21,
       "end": 722.85,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 723.152
     },
     {
       "speaker": "听力原声",
@@ -856,7 +951,8 @@
       "translation": "但这个时节,空气污染真的是个问题。",
       "start": 723.51,
       "end": 726.91,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 727.262
     },
     {
       "speaker": "听力原声",
@@ -865,7 +961,8 @@
       "translation": "哦,对。",
       "start": 727.35,
       "end": 727.87,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 728.266
     },
     {
       "speaker": "听力原声",
@@ -874,7 +971,8 @@
       "translation": "我没想到这个。",
       "start": 728.31,
       "end": 729.35,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 729.35
     },
     {
       "speaker": "听力原声",
@@ -883,7 +981,8 @@
       "translation": "实在不行你可以打车。",
       "start": 729.35,
       "end": 731.49,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 731.749
     },
     {
       "speaker": "听力原声",
@@ -892,7 +991,8 @@
       "translation": "嗯,那上班成本太高了。",
       "start": 731.87,
       "end": 734.67,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 734.864
     },
     {
       "speaker": "听力原声",
@@ -901,7 +1001,8 @@
       "translation": "如果用拼车软件就不贵了。",
       "start": 735.21,
       "end": 737.09,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 737.175
     },
     {
       "speaker": "听力原声",
@@ -910,7 +1011,8 @@
       "translation": "好主意。",
       "start": 737.55,
       "end": 738.15,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 738.514
     },
     {
       "speaker": "听力原声",
@@ -919,7 +1021,8 @@
       "translation": "我马上下载一个。",
       "start": 738.81,
       "end": 740.05,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 740.542
     },
     {
       "speaker": "听力原声",
@@ -928,7 +1031,8 @@
       "translation": "谢谢你。",
       "start": 740.75,
       "end": 741.19,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 741.454
     },
     {
       "speaker": "听力原声",
@@ -936,7 +1040,8 @@
       "text": "Questions 12 to 15 are based on the conversation you have just heard.",
       "translation": "问题12到15 是基于你刚才听到的谈话",
       "start": 741.94,
-      "end": 746.44
+      "end": 746.44,
+      "playback_end": 746.674
     },
     {
       "speaker": "听力原声",
@@ -945,7 +1050,8 @@
       "translation": "第 12 题：女士对她乘坐地铁的经历有何评价?",
       "start": 747.58,
       "end": 751.426,
-      "questionNumber": 12
+      "questionNumber": 12,
+      "playback_end": 751.426
     },
     {
       "speaker": "听力原声",
@@ -954,7 +1060,8 @@
       "translation": "第 13 题：女士为什么没有自己的汽车?",
       "start": 766.58,
       "end": 770.674,
-      "questionNumber": 13
+      "questionNumber": 13,
+      "playback_end": 770.674
     },
     {
       "speaker": "听力原声",
@@ -963,7 +1070,8 @@
       "translation": "第 14 题：女士对电动摩托车有何评价?",
       "start": 785.74,
       "end": 790.421,
-      "questionNumber": 14
+      "questionNumber": 14,
+      "playback_end": 790.421
     },
     {
       "speaker": "听力原声",
@@ -972,7 +1080,8 @@
       "translation": "第 15 题：女士打算如何去上班?",
       "start": 805.59,
       "end": 809.452,
-      "questionNumber": 15
+      "questionNumber": 15,
+      "playback_end": 809.452
     },
     {
       "speaker": "听力原声",
@@ -980,7 +1089,8 @@
       "text": "Section C,",
       "translation": "C节,",
       "start": 824.8,
-      "end": 825.56
+      "end": 825.56,
+      "playback_end": 825.778
     },
     {
       "speaker": "听力原声",
@@ -988,7 +1098,8 @@
       "text": "In this section, you will hear three passages.",
       "translation": "在本节中,你们将听到三个段落。",
       "start": 827.34,
-      "end": 829.74
+      "end": 829.74,
+      "playback_end": 830.271
     },
     {
       "speaker": "听力原声",
@@ -996,7 +1107,8 @@
       "text": "At the end of each passage, you will hear three or four questions.",
       "translation": "在每一段的结尾,你将听到三四个问题。",
       "start": 830.54,
-      "end": 834.18
+      "end": 834.18,
+      "playback_end": 834.604
     },
     {
       "speaker": "听力原声",
@@ -1004,7 +1116,8 @@
       "text": "Both the passage and the questions will be spoken only once.",
       "translation": "发言的通过和提问将只讲一次。",
       "start": 834.98,
-      "end": 838.36
+      "end": 838.36,
+      "playback_end": 838.793
     },
     {
       "speaker": "听力原声",
@@ -1012,7 +1125,8 @@
       "text": "you hear a question, you must choose the best answer from the four choices marked A, B,",
       "translation": "你听到一个问题,你必须选择最好的答案 从四个选择 标注A,B,",
       "start": 839.5,
-      "end": 845.2
+      "end": 845.2,
+      "playback_end": 845.526
     },
     {
       "speaker": "听力原声",
@@ -1020,7 +1134,8 @@
       "text": "C, D. Then marked the corresponding letter on answer sheet 1 with the single line through",
       "translation": "C、D. 然后在答复表1上用单行横线标出相应字母的对应字母。",
       "start": 845.86,
-      "end": 851.84
+      "end": 851.84,
+      "playback_end": 852.48
     },
     {
       "speaker": "听力原声",
@@ -1028,7 +1143,8 @@
       "text": "the",
       "translation": "排",
       "start": 852.48,
-      "end": 855.7
+      "end": 855.7,
+      "playback_end": 855.7
     },
     {
       "speaker": "听力原声",
@@ -1037,7 +1153,8 @@
       "translation": "Steve Miller 在 20 世纪 80 年代末开始了他的 IT 职业生涯。",
       "start": 855.7,
       "end": 860.643,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 860.643
     },
     {
       "speaker": "听力原声",
@@ -1046,7 +1163,8 @@
       "translation": "作为一名科技行业的失聪人士,需要在组织协调方面付出巨大努力。",
       "start": 860.643,
       "end": 866.411,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 866.411
     },
     {
       "speaker": "听力原声",
@@ -1055,7 +1173,8 @@
       "translation": "因为那时没有电子邮件或短信服务,一切都必须面对面进行,或者通过电话完成。",
       "start": 866.411,
       "end": 874.65,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 874.65
     },
     {
       "speaker": "听力原声",
@@ -1064,7 +1183,8 @@
       "translation": "在会议中交流非常困难。",
       "start": 874.65,
       "end": 877.33,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 877.692
     },
     {
       "speaker": "听力原声",
@@ -1073,7 +1193,8 @@
       "translation": "他每次会议都需要一名手语翻译,但协调这件事需要付出巨大努力。",
       "start": 877.95,
       "end": 883.13,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 883.608
     },
     {
       "speaker": "听力原声",
@@ -1082,7 +1203,8 @@
       "translation": "Miller 说,如今尽管挑战依然存在,但对于科技行业的失聪人士来说是个好时代。",
       "start": 884.2,
       "end": 890.56,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 890.907
     },
     {
       "speaker": "听力原声",
@@ -1091,7 +1213,8 @@
       "translation": "语音识别技术的重大进步使得通信工具能够在智能手机或笔记本电脑上实时将现场语音转换为文本,也能将手语转换为文本。",
       "start": 891.52,
       "end": 904.76,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 905.07
     },
     {
       "speaker": "听力原声",
@@ -1100,7 +1223,8 @@
       "translation": "新技术加上助听器技术的改进和医学进步,意味着 Miller 能够更加专注于他的工作。",
       "start": 905.5,
       "end": 914.52,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 914.665
     },
     {
       "speaker": "听力原声",
@@ -1109,7 +1233,8 @@
       "translation": "他从耳中的一个微型助听设备中获益匪浅。",
       "start": 915.42,
       "end": 919.58,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 919.875
     },
     {
       "speaker": "听力原声",
@@ -1118,7 +1243,8 @@
       "translation": "它给了他一定程度的听力,他可以根据情况使用各种交流方式。",
       "start": 920.32,
       "end": 926.22,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 926.876
     },
     {
       "speaker": "听力原声",
@@ -1127,7 +1253,8 @@
       "translation": "他可以使用唇读,通过视频而不是电话进行会议。",
       "start": 927.22,
       "end": 932.22,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 932.22
     },
     {
       "speaker": "听力原声",
@@ -1136,7 +1263,8 @@
       "translation": "这些事情带来了巨大的改变。",
       "start": 932.22,
       "end": 935.0,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 935.0
     },
     {
       "speaker": "听力原声",
@@ -1145,7 +1273,8 @@
       "translation": "他不再需要担心自己能否理解。",
       "start": 935.0,
       "end": 938.94,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 938.94
     },
     {
       "speaker": "听力原声",
@@ -1154,7 +1283,8 @@
       "translation": "他可以只专注于会议可能有多有趣,以及他需要从中获得什么才能取得进展。",
       "start": 938.94,
       "end": 946.54,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 946.99
     },
     {
       "speaker": "听力原声",
@@ -1163,7 +1293,8 @@
       "translation": "第 16 题：关于Steve Miller我们了解到什么?",
       "start": 951.9,
       "end": 956.635,
-      "questionNumber": 16
+      "questionNumber": 16,
+      "playback_end": 956.635
     },
     {
       "speaker": "听力原声",
@@ -1172,7 +1303,8 @@
       "translation": "第 17 题：Miller说什么正在改善像他这样的人的处境?",
       "start": 971.73,
       "end": 977.358,
-      "questionNumber": 17
+      "questionNumber": 17,
+      "playback_end": 977.358
     },
     {
       "speaker": "听力原声",
@@ -1181,7 +1313,8 @@
       "translation": "第 18 题：Miller通过视频参加会议能在哪方面受益?",
       "start": 992.42,
       "end": 998.776,
-      "questionNumber": 18
+      "questionNumber": 18,
+      "playback_end": 998.776
     },
     {
       "speaker": "听力原声",
@@ -1189,7 +1322,8 @@
       "text": "Passage 2.",
       "translation": "通行证2。",
       "start": 1014.01,
-      "end": 1014.81
+      "end": 1014.81,
+      "playback_end": 1015.019
     },
     {
       "speaker": "听力原声",
@@ -1197,7 +1331,8 @@
       "text": "Color is now spreading through our homes,",
       "translation": "色彩正在我们家里传播",
       "start": 1015.73,
-      "end": 1015.966
+      "end": 1015.966,
+      "playback_end": 1015.966
     },
     {
       "speaker": "听力原声",
@@ -1206,7 +1341,8 @@
       "translation": "色彩正在我们的家中蔓延，爬上楼梯，延伸至木框架和天花板，填充着中性色空间。",
       "start": 1015.966,
       "end": 1023.77,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 1024.251
     },
     {
       "speaker": "听力原声",
@@ -1215,7 +1351,8 @@
       "translation": "据一位室内设计师说,当人们回到家时,他们想看到能让他们振奋精神、给予他们拥抱的色彩。",
       "start": 1024.65,
       "end": 1031.95,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 1032.282
     },
     {
       "speaker": "听力原声",
@@ -1224,7 +1361,8 @@
       "translation": "纯白色的墙壁根本做不到这一点。",
       "start": 1032.49,
       "end": 1035.17,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 1035.371
     },
     {
       "speaker": "听力原声",
@@ -1233,7 +1371,8 @@
       "translation": "它们不会照顾你。",
       "start": 1035.67,
       "end": 1036.85,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 1037.021
     },
     {
       "speaker": "听力原声",
@@ -1242,7 +1381,8 @@
       "translation": "另一位室内设计师评论说,某些色彩组合可以触及更深层次的东西,将你带到不同的时刻。",
       "start": 1037.57,
       "end": 1046.65,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 1046.962
     },
     {
       "speaker": "听力原声",
@@ -1251,7 +1391,8 @@
       "translation": "这就是色彩的力量。",
       "start": 1047.37,
       "end": 1049.97,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 1049.97
     },
     {
       "speaker": "听力原声",
@@ -1260,7 +1401,8 @@
       "translation": "如果你正在考虑在一些中性色墙面上尝试色彩,建议非常简单:选择一个你真正喜欢的颜色。",
       "start": 1049.97,
       "end": 1058.09,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 1058.209
     },
     {
       "speaker": "听力原声",
@@ -1269,7 +1411,8 @@
       "translation": "不要因为某种颜色流行或你在杂志上看到过就选择它。",
       "start": 1058.85,
       "end": 1062.84,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 1063.241
     },
     {
       "speaker": "听力原声",
@@ -1278,7 +1421,8 @@
       "translation": "如果你对全彩色心存疑虑,可以用较小的空间测试你的接受度,比如橱柜内部或明亮的窗框。",
       "start": 1063.94,
       "end": 1072.54,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 1072.815
     },
     {
       "speaker": "听力原声",
@@ -1287,7 +1431,8 @@
       "translation": "如果每次打开橱柜它都能给你带来快乐,你就可以开始进一步尝试。",
       "start": 1073.22,
       "end": 1077.76,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 1078.095
     },
     {
       "speaker": "听力原声",
@@ -1296,7 +1441,8 @@
       "translation": "人们还可以将木框架漆成与墙壁相同的颜色,帮助房间看起来更大。",
       "start": 1078.74,
       "end": 1084.28,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 1084.652
     },
     {
       "speaker": "听力原声",
@@ -1305,7 +1451,8 @@
       "translation": "在厨房里,将吊柜和墙壁漆成相同的颜色可以让空间感觉更宽敞。",
       "start": 1085.08,
       "end": 1090.98,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 1090.98
     },
     {
       "speaker": "听力原声",
@@ -1314,7 +1461,8 @@
       "translation": "在粉刷厨房台面时,大胆的色彩可以让一切感觉更开阔、更轻盈。",
       "start": 1090.98,
       "end": 1097.48,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 1097.817
     },
     {
       "speaker": "听力原声",
@@ -1323,7 +1471,8 @@
       "translation": "此外,粉刷天花板是一件神奇的事情,既不会太明显,也能影响空间的感觉。",
       "start": 1099.16,
       "end": 1106.84,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 1107.07
     },
     {
       "speaker": "听力原声",
@@ -1331,7 +1480,8 @@
       "text": "Questions 19 to 21 are based on the passage you have just heard.",
       "translation": "问题19至21是根据你刚才听到的段落提出的。",
       "start": 1107.82,
-      "end": 1112.28
+      "end": 1112.28,
+      "playback_end": 1112.539
     },
     {
       "speaker": "听力原声",
@@ -1340,7 +1490,8 @@
       "translation": "第 19 题：根据文章,人们回到家后想要什么?",
       "start": 1113.28,
       "end": 1119.045,
-      "questionNumber": 19
+      "questionNumber": 19,
+      "playback_end": 1119.045
     },
     {
       "speaker": "听力原声",
@@ -1349,7 +1500,8 @@
       "translation": "第 20 题：文章说人们在家居装饰中应该避免做什么?",
       "start": 1134.0,
       "end": 1140.316,
-      "questionNumber": 20
+      "questionNumber": 20,
+      "playback_end": 1140.316
     },
     {
       "speaker": "听力原声",
@@ -1358,7 +1510,8 @@
       "translation": "第 21 题：怎样做可以让房间看起来更大?",
       "start": 1155.49,
       "end": 1160.19,
-      "questionNumber": 21
+      "questionNumber": 21,
+      "playback_end": 1160.19
     },
     {
       "speaker": "听力原声",
@@ -1366,7 +1519,8 @@
       "text": "Passage 3.",
       "translation": "通行证3。",
       "start": 1175.42,
-      "end": 1176.28
+      "end": 1176.28,
+      "playback_end": 1176.544
     },
     {
       "speaker": "听力原声",
@@ -1374,7 +1528,8 @@
       "text": "Parents often hear that reading to their children is critical for supporting development,",
       "translation": "父母经常听到,向子女阅读对于支持发展至关重要,",
       "start": 1177.31,
-      "end": 1182.17
+      "end": 1182.17,
+      "playback_end": 1182.643
     },
     {
       "speaker": "听力原声",
@@ -1383,7 +1538,8 @@
       "translation": "事实上，在美国，2007年有略高于一半的三至五岁儿童每天被朗读，而2012年同一国家该年龄段83%的儿童每周被朗读三次或更多次。",
       "start": 1185.51,
       "end": 1203.73,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 1204.309
     },
     {
       "speaker": "听力原声",
@@ -1392,7 +1548,8 @@
       "translation": "这是个好消息,因为给幼儿读书有助于他们的语言和大脑发育。",
       "start": 1204.97,
       "end": 1210.19,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 1210.651
     },
     {
       "speaker": "听力原声",
@@ -1401,7 +1558,8 @@
       "translation": "事实上,最近的研究发现,婴儿期共享读书的质量和数量都能预测儿童后期的词汇量和阅读技能。",
       "start": 1211.01,
       "end": 1221.82,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 1222.243
     },
     {
       "speaker": "听力原声",
@@ -1410,7 +1568,8 @@
       "translation": "换句话说,父母花在阅读上的时间越多,他们四岁孩子的发育益处就越大。",
       "start": 1222.78,
       "end": 1230.08,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
+      "playback_end": 1230.446
     },
     {
       "speaker": "听力原声",
@@ -1418,7 +1577,8 @@
       "text": "This is an important finding.",
       "translation": "这是一项重要的调查结果。",
       "start": 1230.82,
-      "end": 1232.42
+      "end": 1232.42,
+      "playback_end": 1232.83
     },
     {
       "speaker": "听力原声",
@@ -1426,7 +1586,8 @@
       "text": "But does it matter what books parents read?",
       "translation": "但父母读什么书有关系吗?",
       "start": 1232.96,
-      "end": 1236.04
+      "end": 1236.04,
+      "playback_end": 1236.362
     },
     {
       "speaker": "听力原声",
@@ -1434,7 +1595,8 @@
       "text": "A new study has investigated this question.",
       "translation": "一项新的研究调查了这个问题。",
       "start": 1236.7,
-      "end": 1238.86
+      "end": 1238.86,
+      "playback_end": 1239.17
     },
     {
       "speaker": "听力原声",
@@ -1442,7 +1604,8 @@
       "text": "It followed infants across the second six months of life and found that when parents showed babies books that had faces or objects with specific labels, they learned more.",
       "translation": "它跟踪婴儿出生后六个月,发现当父母展示带有特定标签的面孔或物品的婴儿书籍时,他们学到的更多。",
       "start": 1239.5,
-      "end": 1250.16
+      "end": 1250.16,
+      "playback_end": 1250.51
     },
     {
       "speaker": "听力原声",
@@ -1450,7 +1613,8 @@
       "text": "This is in contrast to books that did not name images, or books that had the same label under each image.",
       "translation": "这与没有命名图像的书籍或每个图像下有相同标签的书籍形成对照。",
       "start": 1251.31,
-      "end": 1257.61
+      "end": 1257.61,
+      "playback_end": 1257.92
     },
     {
       "speaker": "听力原声",
@@ -1458,7 +1622,8 @@
       "text": "Books that named different characters also promoted greater learning.",
       "translation": "写有不同角色的书籍也促进了更多的学习。",
       "start": 1258.39,
-      "end": 1262.53
+      "end": 1262.53,
+      "playback_end": 1262.872
     },
     {
       "speaker": "听力原声",
@@ -1466,7 +1631,8 @@
       "text": "So what does this mean for parents?",
       "translation": "这对父母意味着什么?",
       "start": 1263.66,
-      "end": 1265.16
+      "end": 1265.16,
+      "playback_end": 1265.655
     },
     {
       "speaker": "听力原声",
@@ -1474,7 +1640,8 @@
       "text": "Not all books are created equal, so parents need to choose the books they share with their children with great care.",
       "translation": "并非所有的书都是平等的, 所以父母需要选择他们与孩子分享的书, 并且非常小心。",
       "start": 1265.94,
-      "end": 1273.1
+      "end": 1273.1,
+      "playback_end": 1273.472
     },
     {
       "speaker": "听力原声",
@@ -1482,7 +1649,8 @@
       "text": "are based on the passage you have just heard.",
       "translation": "依据你刚才听到的段落",
       "start": 1276.81,
-      "end": 1278.85
+      "end": 1278.85,
+      "playback_end": 1279.07
     },
     {
       "speaker": "听力原声",
@@ -1491,7 +1659,8 @@
       "translation": "第 22 题：文章指出父母越来越理解什么?",
       "start": 1279.69,
       "end": 1284.855,
-      "questionNumber": 22
+      "questionNumber": 22,
+      "playback_end": 1284.855
     },
     {
       "speaker": "听力原声",
@@ -1500,7 +1669,8 @@
       "translation": "第 23 题：根据近期研究,什么可以预测孩子的阅读能力?",
       "start": 1300.02,
       "end": 1305.623,
-      "questionNumber": 23
+      "questionNumber": 23,
+      "playback_end": 1305.623
     },
     {
       "speaker": "听力原声",
@@ -1509,7 +1679,8 @@
       "translation": "第 24 题：什么样的书据说能帮助婴儿学到更多?",
       "start": 1320.74,
       "end": 1325.578,
-      "questionNumber": 24
+      "questionNumber": 24,
+      "playback_end": 1325.578
     },
     {
       "speaker": "听力原声",
@@ -1518,7 +1689,8 @@
       "translation": "第 25 题：文章结尾建议父母做什么?",
       "start": 1341.02,
       "end": 1346.371,
-      "questionNumber": 25
+      "questionNumber": 25,
+      "playback_end": 1346.371
     },
     {
       "speaker": "听力原声",
@@ -1526,12 +1698,14 @@
       "text": "That's the end of listening comprehension.",
       "translation": "听觉理解到此结束",
       "start": 1361.1,
-      "end": 1363.28
+      "end": 1363.28,
+      "playback_end": 1364.091
     }
   ],
   "translation_sources": [
     "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
     "Sams200/opus-mt-en-zh (unmatched sentences only)"
   ],
-  "question_verification": "All 25 published question prompts located in original audio; numbers and prompts share one replay unit."
+  "question_verification": "All 25 published question prompts located in original audio; numbers and prompts share one replay unit.",
+  "replay_boundary_source": "original_audio_pauses_with_caption_fallback"
 }

@@ -17,7 +17,8 @@
       "text": "Six people had to move away from their home to another place after a fire broke out in a building on Main Street Saturday, officials said.",
       "translation": "官方官员说,6人不得不离开家搬到另一个地方,",
       "start": 40.5,
-      "end": 51.603
+      "end": 51.603,
+      "playback_end": 51.603
     },
     {
       "speaker": "听力原声",
@@ -25,7 +26,8 @@
       "text": "Firefighters responded to the three-story building shortly after 1 p.m. for a reported structure fire, according to Norwalk Deputy Fire Chief Adam Markowitz.",
       "translation": "Norwalk消防局副局长Adam Markowitz说,下午1时后不久,消防员对三层楼的建筑进行了反应,因为据报发生了一次结构火灾。",
       "start": 51.603,
-      "end": 61.45
+      "end": 61.45,
+      "playback_end": 61.986
     },
     {
       "speaker": "听力原声",
@@ -34,7 +36,8 @@
       "translation": "Markowitz说,消防人员到达时遇到从二楼冒出的浓烟。",
       "start": 62.29,
       "end": 68.67,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 69.048
     },
     {
       "speaker": "听力原声",
@@ -43,7 +46,8 @@
       "translation": "随后约25名消防员组成的队伍花了大约25分钟扑灭了火焰。",
       "start": 69.45,
       "end": 75.79,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 76.255
     },
     {
       "speaker": "听力原声",
@@ -52,7 +56,8 @@
       "translation": "官员将该建筑描述为一栋混合用途建筑,一楼为商业店铺,二楼和三楼为住宅。",
       "start": 77.28,
       "end": 87.14,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 87.551
     },
     {
       "speaker": "听力原声",
@@ -61,7 +66,8 @@
       "translation": "城镇记录显示该建筑内有四套公寓。",
       "start": 87.83,
       "end": 90.67,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 90.999
     },
     {
       "speaker": "听力原声",
@@ -70,7 +76,8 @@
       "translation": "官员称,由于烟雾和高温破坏,这四套公寓被宣布不适宜居住,六名居民不得不搬到另一个地方。",
       "start": 91.88,
       "end": 101.28,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 101.528
     },
     {
       "speaker": "听力原声",
@@ -79,7 +86,8 @@
       "translation": "没有关于火灾造成人员伤亡的报告。",
       "start": 102.31,
       "end": 105.15,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 105.514
     },
     {
       "speaker": "听力原声",
@@ -88,7 +96,8 @@
       "translation": "Norwalk消防局长正在调查火灾的原因和起源。",
       "start": 105.99,
       "end": 110.27,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 110.607
     },
     {
       "speaker": "听力原声",
@@ -97,7 +106,8 @@
       "translation": "第 1 题：为什么六名居民不得不另寻住处?",
       "start": 117.99,
       "end": 122.414,
-      "questionNumber": 1
+      "questionNumber": 1,
+      "playback_end": 122.414
     },
     {
       "speaker": "听力原声",
@@ -106,7 +116,8 @@
       "translation": "第 2 题：新闻报道称Norwalk消防局长正在做什么?",
       "start": 137.47,
       "end": 143.014,
-      "questionNumber": 2
+      "questionNumber": 2,
+      "playback_end": 143.014
     },
     {
       "speaker": "听力原声",
@@ -114,7 +125,8 @@
       "text": "News reports 2 A new study has cast doubt on historic research suggesting that the season or month of someone's birth is associated with an increased risk of certain mental health conditions.",
       "translation": "2 一项新的研究对历史研究产生了怀疑,认为某人出生的季节或月与某些精神健康条件的风险增加有关。",
       "start": 158.28,
-      "end": 160.366
+      "end": 160.366,
+      "playback_end": 160.366
     },
     {
       "speaker": "听力原声",
@@ -123,7 +135,8 @@
       "translation": "一项新研究对历史研究提出了质疑,这些历史研究认为某人的出生季节或月份与某些心理健康状况的风险增加有关。",
       "start": 160.366,
       "end": 172.19,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 172.68
     },
     {
       "speaker": "听力原声",
@@ -132,7 +145,8 @@
       "translation": "该研究调查了欧洲超过7万名老年人的焦虑和抑郁症状。",
       "start": 172.85,
       "end": 180.54,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 180.836
     },
     {
       "speaker": "听力原声",
@@ -141,7 +155,8 @@
       "translation": "过去的许多研究发现了出生季节与心理健康诊断之间的联系。",
       "start": 181.93,
       "end": 187.71,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 188.098
     },
     {
       "speaker": "听力原声",
@@ -150,7 +165,8 @@
       "translation": "研究人员认为,这种联系可能源于各种因素。",
       "start": 188.6,
       "end": 192.66,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 193.028
     },
     {
       "speaker": "听力原声",
@@ -159,7 +175,8 @@
       "translation": "这些因素包括全年不同时期的营养摄入、阳光照射、气候和疾病暴露的变化。",
       "start": 193.6,
       "end": 202.04,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 202.272
     },
     {
       "speaker": "听力原声",
@@ -168,7 +185,8 @@
       "translation": "然而,证据一直是混杂的。",
       "start": 202.97,
       "end": 205.03,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 205.397
     },
     {
       "speaker": "听力原声",
@@ -177,7 +195,8 @@
       "translation": "最近的研究表明,社会阶层或经济背景等因素与这些诊断的关系比出生月份更大。",
       "start": 205.83,
       "end": 215.25,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 215.6
     },
     {
       "speaker": "听力原声",
@@ -186,7 +205,8 @@
       "translation": "总体而言,这项新研究发现参与者的出生月份与抑郁或焦虑症状之间没有显著关系。",
       "start": 216.54,
       "end": 225.18,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 225.687
     },
     {
       "speaker": "听力原声",
@@ -195,7 +215,8 @@
       "translation": "在一些国家存在一些变化。",
       "start": 226.25,
       "end": 228.71,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 229.169
     },
     {
       "speaker": "听力原声",
@@ -204,7 +225,8 @@
       "translation": "在波兰,抑郁症状根据出生月份有轻微波动。",
       "start": 229.61,
       "end": 234.74,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 235.004
     },
     {
       "speaker": "听力原声",
@@ -213,7 +235,8 @@
       "translation": "在捷克共和国,焦虑症状也是如此。",
       "start": 235.58,
       "end": 238.98,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 239.474
     },
     {
       "speaker": "听力原声",
@@ -222,7 +245,8 @@
       "translation": "但总的来说,没有系统性模式。",
       "start": 240.04,
       "end": 242.4,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 242.763
     },
     {
       "speaker": "听力原声",
@@ -231,7 +255,8 @@
       "translation": "第 3 题：过去的许多研究发现出生季节有什么影响?",
       "start": 248.92,
       "end": 254.648,
-      "questionNumber": 3
+      "questionNumber": 3,
+      "playback_end": 254.648
     },
     {
       "speaker": "听力原声",
@@ -240,7 +265,8 @@
       "translation": "第 4 题：这项新研究发现参与者的出生月份与抑郁症状之间存在什么关系?",
       "start": 269.2,
       "end": 279.073,
-      "questionNumber": 4
+      "questionNumber": 4,
+      "playback_end": 279.073
     },
     {
       "speaker": "听力原声",
@@ -248,7 +274,8 @@
       "text": "News report 3.",
       "translation": "《新闻报告3》。",
       "start": 294.49,
-      "end": 295.59
+      "end": 295.59,
+      "playback_end": 295.767
     },
     {
       "speaker": "听力原声",
@@ -257,7 +284,8 @@
       "translation": "中国的遗传研究人员克隆了一只明星警犬。",
       "start": 297.14,
       "end": 301.38,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 301.671
     },
     {
       "speaker": "听力原声",
@@ -266,7 +294,8 @@
       "translation": "该克隆犬于12月在北京的一个实验室出生。",
       "start": 302.24,
       "end": 306.12,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 306.424
     },
     {
       "speaker": "听力原声",
@@ -275,7 +304,8 @@
       "translation": "测试显示,克隆犬与其母犬在基因上几乎完全相同。",
       "start": 307.39,
       "end": 311.69,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 312.373
     },
     {
       "speaker": "听力原声",
@@ -284,7 +314,8 @@
       "translation": "母犬曾协助侦破多起谋杀案和许多其他犯罪案件。",
       "start": 312.89,
       "end": 316.71,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 317.189
     },
     {
       "speaker": "听力原声",
@@ -293,7 +324,8 @@
       "translation": "克隆犬已经在多项测试中表现得优于传统繁育的犬只。",
       "start": 317.58,
       "end": 322.96,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 323.507
     },
     {
       "speaker": "听力原声",
@@ -302,7 +334,8 @@
       "translation": "如果克隆犬继续按预期表现良好,这可能意味着警犬训练时间的大幅缩减,而警犬训练通常需要约五年时间。",
       "start": 324.46,
       "end": 335.14,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 335.55
     },
     {
       "speaker": "听力原声",
@@ -311,7 +344,8 @@
       "translation": "科学家的最终目标是培育出优秀警犬的克隆体,使其能够在数月而非数年内完成训练。",
       "start": 336.18,
       "end": 343.82,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 344.248
     },
     {
       "speaker": "听力原声",
@@ -320,7 +354,8 @@
       "translation": "然而,由于目前该技术的成本,这一目标尚无法实现。",
       "start": 344.7,
       "end": 350.29,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 350.84
     },
     {
       "speaker": "听力原声",
@@ -329,7 +364,8 @@
       "translation": "这并非首次克隆明星警犬。",
       "start": 351.62,
       "end": 355.36,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 355.661
     },
     {
       "speaker": "听力原声",
@@ -338,7 +374,8 @@
       "translation": "在韩国,六只克隆犬于2008年开始与警方合作。",
       "start": 356.24,
       "end": 361.04,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 361.445
     },
     {
       "speaker": "听力原声",
@@ -347,7 +384,8 @@
       "translation": "第 5 题：研究人员的测试表明克隆犬有什么特点?",
       "start": 368.57,
       "end": 372.943,
-      "questionNumber": 5
+      "questionNumber": 5,
+      "playback_end": 372.943
     },
     {
       "speaker": "听力原声",
@@ -356,7 +394,8 @@
       "translation": "第 6 题：科学家克隆警犬的目的是什么?",
       "start": 387.66,
       "end": 393.063,
-      "questionNumber": 6
+      "questionNumber": 6,
+      "playback_end": 393.063
     },
     {
       "speaker": "听力原声",
@@ -365,7 +404,8 @@
       "translation": "第 7 题：为什么新闻报道称科学家的目标尚不可能实现?",
       "start": 408.14,
       "end": 414.344,
-      "questionNumber": 7
+      "questionNumber": 7,
+      "playback_end": 414.344
     },
     {
       "speaker": "听力原声",
@@ -373,7 +413,8 @@
       "text": "Section B, directions.",
       "translation": "B节,方向。",
       "start": 429.47,
-      "end": 430.99
+      "end": 430.99,
+      "playback_end": 431.788
     },
     {
       "speaker": "听力原声",
@@ -381,7 +422,8 @@
       "text": "In this section you will hear two long conversations.",
       "translation": "在本节中,你们将听到两个长长的谈话。",
       "start": 432.31,
-      "end": 435.33
+      "end": 435.33,
+      "playback_end": 435.993
     },
     {
       "speaker": "听力原声",
@@ -389,7 +431,8 @@
       "text": "At the end of each conversation you will hear four questions.",
       "translation": "每次谈话结束时,你将听到四个问题。",
       "start": 436.45,
-      "end": 439.81
+      "end": 439.81,
+      "playback_end": 440.227
     },
     {
       "speaker": "听力原声",
@@ -397,7 +440,8 @@
       "text": "Both the conversation and the questions will be spoken only once.",
       "translation": "谈话和问题只谈一次",
       "start": 441.14,
-      "end": 445.24
+      "end": 445.24,
+      "playback_end": 445.326
     },
     {
       "speaker": "听力原声",
@@ -405,7 +449,8 @@
       "text": "After you hear a question you must choose the best answer from the four choices marked A,",
       "translation": "在听到一个问题后,你必须从四个A类选择中选择最好的答案",
       "start": 446.81,
-      "end": 452.89
+      "end": 452.89,
+      "playback_end": 453.2
     },
     {
       "speaker": "听力原声",
@@ -413,7 +458,8 @@
       "text": "B, C, and D. Then mark the corresponding letter on answer sheet one with a single line through the center.",
       "translation": "B、C和D. 然后在答题单上用单行通过中心标出相应的字母。",
       "start": 453.23,
-      "end": 461.05
+      "end": 461.05,
+      "playback_end": 461.288
     },
     {
       "speaker": "听力原声",
@@ -421,7 +467,8 @@
       "text": "Conversation one.",
       "translation": "交谈之一。",
       "start": 462.48,
-      "end": 463.48
+      "end": 463.48,
+      "playback_end": 463.706
     },
     {
       "speaker": "听力原声",
@@ -430,7 +477,8 @@
       "translation": "Tom，你看到网上关于根据《三体》这本书改编的新电视剧的文章了吗？",
       "start": 464.82,
       "end": 471.22,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 471.506
     },
     {
       "speaker": "听力原声",
@@ -439,7 +487,8 @@
       "translation": "有同事提到过这本书，但我一直忙着写论文，已经好几个月没能读闲书了。",
       "start": 472.07,
       "end": 478.51,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 478.877
     },
     {
       "speaker": "听力原声",
@@ -448,7 +497,8 @@
       "translation": "听起来如果你要读点消遣的东西，就该读这本书。",
       "start": 479.21,
       "end": 483.23,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 483.36
     },
     {
       "speaker": "听力原声",
@@ -457,7 +507,8 @@
       "translation": "它是一位中国科幻作家写的。",
       "start": 483.66,
       "end": 486.1,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 486.456
     },
     {
       "speaker": "听力原声",
@@ -466,7 +517,8 @@
       "translation": "我记不得他的名字了，但他一共写了三本书，《三体》是系列的第一部。",
       "start": 486.64,
       "end": 493.58,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 494.037
     },
     {
       "speaker": "听力原声",
@@ -475,7 +527,8 @@
       "translation": "我不想说太多剧透，但里面确实有一些很棒的技术和社会学概念。",
       "start": 494.52,
       "end": 503.02,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 503.283
     },
     {
       "speaker": "听力原声",
@@ -484,7 +537,8 @@
       "translation": "听起来确实符合我的口味，但如果他们现在要根据它拍电视剧，我不知道该先读书还是先看剧。",
       "start": 503.75,
       "end": 513.55,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 513.925
     },
     {
       "speaker": "听力原声",
@@ -493,7 +547,8 @@
       "translation": "我觉得最好先读书。",
       "start": 514.27,
       "end": 516.09,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 516.485
     },
     {
       "speaker": "听力原声",
@@ -502,7 +557,8 @@
       "translation": "电视剧或电影比书好的情况很少见。",
       "start": 516.59,
       "end": 519.61,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 519.745
     },
     {
       "speaker": "听力原声",
@@ -511,7 +567,8 @@
       "translation": "而且如果剧拍得不好，你就把书给毁了。",
       "start": 520.25,
       "end": 524.57,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 524.983
     },
     {
       "speaker": "听力原声",
@@ -520,7 +577,8 @@
       "translation": "这个剧什么时候开播？",
       "start": 525.33,
       "end": 527.07,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 527.442
     },
     {
       "speaker": "听力原声",
@@ -529,7 +587,8 @@
       "translation": "我现在还有大量数据要收集才能完成论文，有点应接不暇。",
       "start": 527.69,
       "end": 531.95,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 532.69
     },
     {
       "speaker": "听力原声",
@@ -538,7 +597,8 @@
       "translation": "但我还是需要偶尔放松一下。",
       "start": 532.89,
       "end": 534.81,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 535.476
     },
     {
       "speaker": "听力原声",
@@ -547,7 +607,8 @@
       "translation": "我记不太清了。",
       "start": 535.63,
       "end": 536.67,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 537.302
     },
     {
       "speaker": "听力原声",
@@ -556,7 +617,8 @@
       "translation": "挺快的，而且会很长。",
       "start": 537.39,
       "end": 540.05,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 540.4
     },
     {
       "speaker": "听力原声",
@@ -565,7 +627,8 @@
       "translation": "有24集。",
       "start": 540.45,
       "end": 542.19,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 542.768
     },
     {
       "speaker": "听力原声",
@@ -574,7 +637,8 @@
       "translation": "也许你可以下载电子版的书，在剧开播前试着读完。",
       "start": 543.29,
       "end": 548.81,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 548.822
     },
     {
       "speaker": "听力原声",
@@ -583,7 +647,8 @@
       "translation": "这主意不错。",
       "start": 549.39,
       "end": 550.29,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 550.631
     },
     {
       "speaker": "听力原声",
@@ -592,7 +657,8 @@
       "translation": "然后也许我们可以一起看这部剧。",
       "start": 550.91,
       "end": 553.39,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 553.707
     },
     {
       "speaker": "听力原声",
@@ -601,7 +667,8 @@
       "translation": "谢谢你的建议，Alice。",
       "start": 554.29,
       "end": 555.31,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 555.687
     },
     {
       "speaker": "听力原声",
@@ -610,7 +677,8 @@
       "translation": "不客气。",
       "start": 555.81,
       "end": 556.33,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 556.776
     },
     {
       "speaker": "听力原声",
@@ -618,7 +686,8 @@
       "text": "Questions 8 to 11 are based on the conversation you have just heard.",
       "translation": "问题8至11 是基于你刚才听到的谈话",
       "start": 558.12,
-      "end": 562.28
+      "end": 562.28,
+      "playback_end": 562.522
     },
     {
       "speaker": "听力原声",
@@ -627,7 +696,8 @@
       "translation": "第 8 题：这位男士是如何了解到《三体》这本书的?",
       "start": 563.56,
       "end": 568.779,
-      "questionNumber": 8
+      "questionNumber": 8,
+      "playback_end": 568.779
     },
     {
       "speaker": "听力原声",
@@ -636,7 +706,8 @@
       "translation": "第 9 题：这位女士说她记不得这本书作者的什么?",
       "start": 584.1,
       "end": 589.333,
-      "questionNumber": 9
+      "questionNumber": 9,
+      "playback_end": 589.333
     },
     {
       "speaker": "听力原声",
@@ -645,7 +716,8 @@
       "translation": "第 10 题：这位男士需要做什么来完成他的论文?",
       "start": 604.6,
       "end": 609.511,
-      "questionNumber": 10
+      "questionNumber": 10,
+      "playback_end": 609.511
     },
     {
       "speaker": "听力原声",
@@ -654,7 +726,8 @@
       "translation": "第 11 题：对话结束后这位男士最有可能先做什么?",
       "start": 624.66,
       "end": 630.998,
-      "questionNumber": 11
+      "questionNumber": 11,
+      "playback_end": 630.998
     },
     {
       "speaker": "听力原声",
@@ -662,7 +735,8 @@
       "text": "Conversation 2 Hello,",
       "translation": "交谈2 你好",
       "start": 645.88,
-      "end": 648.18
+      "end": 648.18,
+      "playback_end": 648.2
     },
     {
       "speaker": "听力原声",
@@ -671,7 +745,8 @@
       "translation": "你好，下午好。",
       "start": 648.2,
       "end": 649.3,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 649.783
     },
     {
       "speaker": "听力原声",
@@ -680,7 +755,8 @@
       "translation": "我有个问题想咨询一下。",
       "start": 649.84,
       "end": 651.0,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 651.317
     },
     {
       "speaker": "听力原声",
@@ -689,7 +765,8 @@
       "translation": "是关于你们8月19日在纽卡斯尔市政厅举办的素食美食节的。",
       "start": 651.62,
       "end": 657.2,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 657.2
     },
     {
       "speaker": "听力原声",
@@ -698,7 +775,8 @@
       "translation": "好的，当然可以。",
       "start": 657.2,
       "end": 658.56,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 658.992
     },
     {
       "speaker": "听力原声",
@@ -707,7 +785,8 @@
       "translation": "我叫Philip。",
       "start": 659.18,
       "end": 659.74,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 660.017
     },
     {
       "speaker": "听力原声",
@@ -716,7 +795,8 @@
       "translation": "有什么可以帮您的吗?",
       "start": 660.16,
       "end": 661.06,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 661.248
     },
     {
       "speaker": "听力原声",
@@ -725,7 +805,8 @@
       "translation": "你们网站上说还在招募摊主，我在自己的农场种植有机蔬菜，同时也自己在家烘焙。",
       "start": 661.68,
       "end": 669.82,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 670.254
     },
     {
       "speaker": "听力原声",
@@ -734,7 +815,8 @@
       "translation": "我能在美食节上同时售卖蔬菜和用这些蔬菜烘焙的食品吗?",
       "start": 670.57,
       "end": 675.91,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 676.252
     },
     {
       "speaker": "听力原声",
@@ -742,7 +824,8 @@
       "text": "That's exactly the type of thing we are looking for.",
       "translation": "这正是我们要找的东西的类型",
       "start": 676.87,
-      "end": 679.77
+      "end": 679.77,
+      "playback_end": 679.77
     },
     {
       "speaker": "听力原声",
@@ -750,7 +833,8 @@
       "text": "We're getting close to the deadline, however.",
       "translation": "不过我们快到最后期限了",
       "start": 679.77,
-      "end": 682.21
+      "end": 682.21,
+      "playback_end": 682.625
     },
     {
       "speaker": "听力原声",
@@ -758,7 +842,8 @@
       "text": "Do you prefer to fill out an application on the web, or to print it out and fill it in by hand and then post it back to us?",
       "translation": "您更喜欢在网上填写申请表, 还是打印出来, 并用手填写, 然后寄回给我们?",
       "start": 683.11,
-      "end": 690.13
+      "end": 690.13,
+      "playback_end": 690.364
     },
     {
       "speaker": "听力原声",
@@ -766,7 +851,8 @@
       "text": "Remember that you will have to have all your certificates to hand when you are filling out the forms, as the standards are high and they'll be carefully checked before anyone will be able to sell their produce at the event.",
       "translation": "请记住,在填写表格时,你必须出示所有证书,因为标准很高,而且要仔细检查,才能让任何人在活动上出售其产品。",
       "start": 690.75,
-      "end": 703.11
+      "end": 703.11,
+      "playback_end": 703.511
     },
     {
       "speaker": "听力原声",
@@ -775,7 +861,8 @@
       "translation": "我在你们网站上填应该没问题，而且我已经有所有证书了，因为我们也经营一家小型农场商店。",
       "start": 703.73,
       "end": 710.61,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 710.917
     },
     {
       "speaker": "听力原声",
@@ -784,7 +871,8 @@
       "translation": "不过你还是能把邮寄地址给我吗?",
       "start": 711.27,
       "end": 713.05,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 713.408
     },
     {
       "speaker": "听力原声",
@@ -793,7 +881,8 @@
       "translation": "当然。",
       "start": 713.65,
       "end": 713.95,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 714.282
     },
     {
       "speaker": "听力原声",
@@ -802,7 +891,8 @@
       "translation": "请寄到Organic Organization，Vendor Applications，112 Queens Road，Newcastle，Northumbria。",
       "start": 714.44,
       "end": 724.14,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 724.395
     },
     {
       "speaker": "听力原声",
@@ -811,7 +901,8 @@
       "translation": "邮编是NU 29 3LJ。",
       "start": 724.78,
       "end": 728.28,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 728.585
     },
     {
       "speaker": "听力原声",
@@ -820,7 +911,8 @@
       "translation": "请记住截止日期是下周二，6月28日。",
       "start": 728.98,
       "end": 733.46,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 733.715
     },
     {
       "speaker": "听力原声",
@@ -829,7 +921,8 @@
       "translation": "太好了。",
       "start": 734.06,
       "end": 735.26,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 735.737
     },
     {
       "speaker": "听力原声",
@@ -838,7 +931,8 @@
       "translation": "非常感谢你的帮助。",
       "start": 735.92,
       "end": 737.2,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 737.306
     },
     {
       "speaker": "听力原声",
@@ -847,7 +941,8 @@
       "translation": "再见。",
       "start": 737.58,
       "end": 737.66,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 738.19
     },
     {
       "speaker": "听力原声",
@@ -855,7 +950,8 @@
       "text": "12 to 15 are based on the conversation you have just heard.",
       "translation": "12到15基于你刚才听到的谈话",
       "start": 739.63,
-      "end": 743.93
+      "end": 743.93,
+      "playback_end": 744.189
     },
     {
       "speaker": "听力原声",
@@ -864,7 +960,8 @@
       "translation": "第 12 题：女士为什么给男士打电话?",
       "start": 744.78,
       "end": 748.573,
-      "questionNumber": 12
+      "questionNumber": 12,
+      "playback_end": 748.573
     },
     {
       "speaker": "听力原声",
@@ -873,7 +970,8 @@
       "translation": "第 13 题：男士还在寻找什么?",
       "start": 763.97,
       "end": 767.774,
-      "questionNumber": 13
+      "questionNumber": 13,
+      "playback_end": 767.774
     },
     {
       "speaker": "听力原声",
@@ -882,7 +980,8 @@
       "translation": "第 14 题：男士说他们正在接近什么?",
       "start": 783.05,
       "end": 787.787,
-      "questionNumber": 14
+      "questionNumber": 14,
+      "playback_end": 787.787
     },
     {
       "speaker": "听力原声",
@@ -891,7 +990,8 @@
       "translation": "第 15 题：男士最后要求女士记住什么?",
       "start": 803.11,
       "end": 808.452,
-      "questionNumber": 15
+      "questionNumber": 15,
+      "playback_end": 808.452
     },
     {
       "speaker": "听力原声",
@@ -899,7 +999,8 @@
       "text": "Both the passage and the questions will be spoken only once.",
       "translation": "发言的通过和提问将只讲一次。",
       "start": 834.24,
-      "end": 838.1
+      "end": 838.1,
+      "playback_end": 838.441
     },
     {
       "speaker": "听力原声",
@@ -907,7 +1008,8 @@
       "text": "After you hear a question, you must choose the best answer from the four choices marked A, B, C, and D.",
       "translation": "在听到一个问题后,你必须从四个选择中选择最好的答案,这四个选择分别是A、B、C和D。",
       "start": 838.9,
-      "end": 847.24
+      "end": 847.24,
+      "playback_end": 847.454
     },
     {
       "speaker": "听力原声",
@@ -915,7 +1017,8 @@
       "text": "mark the corresponding letter on answer sheet one with a single line through the center.",
       "translation": "在答题单单行的答题表一中标出相应的字母。",
       "start": 848.24,
-      "end": 853.4
+      "end": 853.4,
+      "playback_end": 853.676
     },
     {
       "speaker": "听力原声",
@@ -924,7 +1027,8 @@
       "translation": "支持者称之为\"野外露营\"；反对者称之为\"非法露营\"。",
       "start": 857.333,
       "end": 862.674,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 862.674
     },
     {
       "speaker": "听力原声",
@@ -933,7 +1037,8 @@
       "translation": "双方都承认的是，过去几个月出现了激增现象，越来越多的游客在英国任何他们看中的土地上搭起帐篷。",
       "start": 862.674,
       "end": 873.67,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 874.095
     },
     {
       "speaker": "听力原声",
@@ -942,7 +1047,8 @@
       "translation": "这在一定程度上反映了一个事实，即官方露营地已经全部或部分关闭，或者在这个出国人数较少的夏天已经人满为患。",
       "start": 874.53,
       "end": 884.83,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 885.24
     },
     {
       "speaker": "听力原声",
@@ -951,7 +1057,8 @@
       "translation": "在许多人担心未来经济前景的时候，这也很便宜。",
       "start": 885.99,
       "end": 891.77,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 892.173
     },
     {
       "speaker": "听力原声",
@@ -960,7 +1067,8 @@
       "translation": "但这也可能是一种对户外活动渴望的表达——一种对数月封锁的回应。",
       "start": 892.82,
       "end": 899.42,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 899.891
     },
     {
       "speaker": "听力原声",
@@ -969,7 +1077,8 @@
       "translation": "关于野外露营热潮的大部分报道都是负面的。",
       "start": 900.94,
       "end": 904.58,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 905.014
     },
     {
       "speaker": "听力原声",
@@ -978,7 +1087,8 @@
       "translation": "由于露营者在草地上倾倒垃圾、人类排泄物甚至他们的帐篷，公共公园现已禁止在8月和9月初进行露营。",
       "start": 905.48,
       "end": 916.94,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 917.238
     },
     {
       "speaker": "听力原声",
@@ -987,7 +1097,8 @@
       "translation": "即使在苏格兰也采取了类似的行动，而那里通常允许在其大部分开放土地上露营。",
       "start": 917.65,
       "end": 924.23,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 924.499
     },
     {
       "speaker": "听力原声",
@@ -996,7 +1107,8 @@
       "translation": "显然必须有规则。",
       "start": 925.21,
       "end": 927.03,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 927.495
     },
     {
       "speaker": "听力原声",
@@ -1005,7 +1117,8 @@
       "translation": "野外露营者需要向土地所有者征求露营许可是合理的,特别是在苏格兰以外的地区，那里的法律要严格得多。",
       "start": 927.95,
       "end": 938.23,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 938.612
     },
     {
       "speaker": "听力原声",
@@ -1014,7 +1127,8 @@
       "translation": "人们使用小帐篷并不留下任何访问痕迹是常识。",
       "start": 939.09,
       "end": 943.99,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 944.339
     },
     {
       "speaker": "听力原声",
@@ -1023,7 +1137,8 @@
       "translation": "他们被这片如此接近荒野的土地所吸引，保持其原貌是他们的责任。",
       "start": 944.75,
       "end": 958.41,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 958.41
     },
     {
       "speaker": "听力原声",
@@ -1032,7 +1147,8 @@
       "translation": "第 16 题：为什么野外露营在英国变得流行了？",
       "start": 958.41,
       "end": 963.367,
-      "questionNumber": 16
+      "questionNumber": 16,
+      "playback_end": 963.367
     },
     {
       "speaker": "听力原声",
@@ -1041,7 +1157,8 @@
       "translation": "第 17 题：为什么公共公园在夏季部分时间禁止露营？",
       "start": 978.51,
       "end": 984.238,
-      "questionNumber": 17
+      "questionNumber": 17,
+      "playback_end": 984.238
     },
     {
       "speaker": "听力原声",
@@ -1050,7 +1167,8 @@
       "translation": "第 18 题：说话者建议露营者做什么？",
       "start": 998.73,
       "end": 1003.575,
-      "questionNumber": 18
+      "questionNumber": 18,
+      "playback_end": 1003.575
     },
     {
       "speaker": "听力原声",
@@ -1059,7 +1177,8 @@
       "translation": "想象一下，你正在亚马逊河上划船，专心做着自己的事——平静地留意着那些大得惊人的蛇——这时一只好奇的粉红色海豚出现在你身边游动。",
       "start": 1020.366,
       "end": 1033.04,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 1033.524
     },
     {
       "speaker": "听力原声",
@@ -1068,7 +1187,8 @@
       "translation": "虽然这看起来像是神话中的生物，但粉红色海豚确实存在于亚马逊地区。",
       "start": 1034.26,
       "end": 1039.74,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 1040.169
     },
     {
       "speaker": "听力原声",
@@ -1077,7 +1197,8 @@
       "translation": "亚马逊河豚是其物种中的巨型成员。",
       "start": 1041.22,
       "end": 1043.98,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 1044.521
     },
     {
       "speaker": "听力原声",
@@ -1086,7 +1207,8 @@
       "translation": "它的体长可达2米，体重约204千克。",
       "start": 1044.94,
       "end": 1049.86,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 1050.58
     },
     {
       "speaker": "听力原声",
@@ -1095,7 +1217,8 @@
       "translation": "体型并不是亚马逊河豚与众不同的唯一特征。",
       "start": 1051.27,
       "end": 1055.65,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 1055.939
     },
     {
       "speaker": "听力原声",
@@ -1104,7 +1227,8 @@
       "translation": "这种淡水豚栖息在南美洲的河流和季节性洪水形成的临时湖泊中，有时会呈现出令人震惊的粉红色。",
       "start": 1056.62,
       "end": 1065.62,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 1065.842
     },
     {
       "speaker": "听力原声",
@@ -1113,7 +1237,8 @@
       "translation": "虽然出生时是灰色的，但该物种的雄性在进入成年期后很容易通过明显的粉红色阴影来识别。",
       "start": 1066.84,
       "end": 1074.22,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 1074.595
     },
     {
       "speaker": "听力原声",
@@ -1122,7 +1247,8 @@
       "translation": "它们不寻常的颜色被认为是海豚打斗留下的疤痕组织的结果——无论是嬉戏打闹还是为争夺配偶的激烈竞争。",
       "start": 1075.2,
       "end": 1084.58,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 1084.913
     },
     {
       "speaker": "听力原声",
@@ -1131,7 +1257,8 @@
       "translation": "粉红色越深，雄性被认为越有吸引力，而雄性年龄越大，粉红色就越多。",
       "start": 1085.72,
       "end": 1092.16,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 1092.439
     },
     {
       "speaker": "听力原声",
@@ -1140,7 +1267,8 @@
       "translation": "还有一种理论认为，这种颜色有助于海豚更容易地与周围环境融为一体。",
       "start": 1093.21,
       "end": 1098.71,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 1099.197
     },
     {
       "speaker": "听力原声",
@@ -1149,7 +1277,8 @@
       "translation": "在大雨期间，亚马逊雨林沿岸的河流会呈现粉红色，雄性海豚也因此更难被发现。",
       "start": 1099.81,
       "end": 1109.19,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 1109.624
     },
     {
       "speaker": "听力原声",
@@ -1158,7 +1287,8 @@
       "translation": "由亚马逊河滋养的亚马逊湿地系统是粉红色海豚繁殖的关键场所，自2018年以来已被授予国际保护地位。",
       "start": 1110.16,
       "end": 1122.16,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 1122.637
     },
     {
       "speaker": "听力原声",
@@ -1167,7 +1297,8 @@
       "translation": "第 19 题：文章关于粉红海豚说了什么?",
       "start": 1130.88,
       "end": 1134.359,
-      "questionNumber": 19
+      "questionNumber": 19,
+      "playback_end": 1134.359
     },
     {
       "speaker": "听力原声",
@@ -1176,7 +1307,8 @@
       "translation": "第 20 题：粉红海豚不寻常的颜色被认为源于什么?",
       "start": 1151.28,
       "end": 1156.768,
-      "questionNumber": 20
+      "questionNumber": 20,
+      "playback_end": 1156.768
     },
     {
       "speaker": "听力原声",
@@ -1185,7 +1317,8 @@
       "translation": "第 21 题：自2018年以来亚马逊湿地系统发生了什么变化?",
       "start": 1171.82,
       "end": 1177.916,
-      "questionNumber": 21
+      "questionNumber": 21,
+      "playback_end": 1177.916
     },
     {
       "speaker": "听力原声",
@@ -1193,7 +1326,8 @@
       "text": "passage 3 In a new Merrill Lynch age wave survey a full 70% of the early adults said they've received financial support from their parents in the past year and 58% said",
       "translation": "3 在新的美林林林区年龄波调查中 70%的早期成年人 表示他们在过去一年里 得到了父母的资助 58%的人说",
       "start": 1193.09,
-      "end": 1194.7
+      "end": 1194.7,
+      "playback_end": 1194.7
     },
     {
       "speaker": "听力原声",
@@ -1202,7 +1336,8 @@
       "translation": "在 Merrill Lynch/Age Wave 的一项新调查中，70% 的年轻成年人表示他们在过去一年中得到了父母的经济支持，58% 的人表示如果没有这些支持，他们无法负担目前的生活方式。",
       "start": 1194.7,
       "end": 1209.97,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 1210.182
     },
     {
       "speaker": "听力原声",
@@ -1211,7 +1346,8 @@
       "translation": "最常见的经济支持类型包括手机套餐、食物、学费和汽车开支。",
       "start": 1211.05,
       "end": 1219.95,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 1220.37
     },
     {
       "speaker": "听力原声",
@@ -1220,7 +1356,8 @@
       "translation": "Age Wave 首席执行官 Ken Dychtwald 表示，父母对年轻成年人的经济支持是\"新常态\"。",
       "start": 1220.89,
       "end": 1228.51,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 1228.736
     },
     {
       "speaker": "听力原声",
@@ -1229,7 +1366,8 @@
       "translation": "但 64% 接受调查的年轻成年人表示,父母对 25 至 34 岁子女的经济支持是\"坏事\",因为这会让这些孩子产生依赖性。",
       "start": 1229.46,
       "end": 1241.76,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 1242.299
     },
     {
       "speaker": "听力原声",
@@ -1238,7 +1376,8 @@
       "translation": "相比之下,只有 29% 的人认为支持 18 至 24 岁的男性和女性是坏事;其余 71% 的人认为这种援助\"帮助成年子女取得进步\"。",
       "start": 1242.6,
       "end": 1255.88,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 1255.88
     },
     {
       "speaker": "听力原声",
@@ -1247,7 +1386,8 @@
       "translation": "Dychtwald 认为,接受调查的年轻女性和男性表达的意思是,到 25 岁时,年轻成年人应该在经济上独立。",
       "start": 1255.88,
       "end": 1266.01,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 1266.748
     },
     {
       "speaker": "听力原声",
@@ -1256,7 +1396,8 @@
       "translation": "事实上,受访者表示,经济独立定义了成年。",
       "start": 1267.07,
       "end": 1272.12,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 1272.376
     },
     {
       "speaker": "听力原声",
@@ -1265,7 +1406,8 @@
       "translation": "\"经济独立是他们正在努力应对和面临挑战的事情。",
       "start": 1272.96,
       "end": 1277.52,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 1277.781
     },
     {
       "speaker": "听力原声",
@@ -1274,7 +1416,8 @@
       "translation": "这让他们有点害怕,\" Dychtwald 说。",
       "start": 1278.34,
       "end": 1280.5,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 1280.736
     },
     {
       "speaker": "听力原声",
@@ -1283,7 +1426,8 @@
       "translation": "他们面临困难的一个重要原因归结于大学贷款,平均金额为 37,000 美元。",
       "start": 1281.5,
       "end": 1290.11,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 1290.11
     },
     {
       "speaker": "听力原声",
@@ -1292,7 +1436,8 @@
       "translation": "许多父母也为孩子承担了大学贷款,有时以牺牲自己的财务状况为代价。",
       "start": 1290.11,
       "end": 1297.15,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 1297.707
     },
     {
       "speaker": "听力原声",
@@ -1301,7 +1446,8 @@
       "translation": "在调查中,60% 的年轻成年人将经济成功定义为无债务。",
       "start": 1298.27,
       "end": 1305.47,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 1305.47
     },
     {
       "speaker": "听力原声",
@@ -1310,7 +1456,8 @@
       "translation": "这是否可能,甚至是否有可能在短期内实现,谁也说不准。",
       "start": 1305.47,
       "end": 1310.41,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
+      "playback_end": 1310.769
     },
     {
       "speaker": "听力原声",
@@ -1319,7 +1466,8 @@
       "translation": "第 22 题：从美林证券/Age Wave 的一项新调查中我们了解到什么?",
       "start": 1318.56,
       "end": 1324.452,
-      "questionNumber": 22
+      "questionNumber": 22,
+      "playback_end": 1324.452
     },
     {
       "speaker": "听力原声",
@@ -1328,7 +1476,8 @@
       "translation": "第 23 题：为什么调查中大多数年轻成年人说对25至34岁子女的经济支持是件坏事?",
       "start": 1341.06,
       "end": 1349.653,
-      "questionNumber": 23
+      "questionNumber": 23,
+      "playback_end": 1349.653
     },
     {
       "speaker": "听力原声",
@@ -1337,7 +1486,8 @@
       "translation": "第 24 题：调查中的受访者对经济独立有何看法?",
       "start": 1364.88,
       "end": 1370.967,
-      "questionNumber": 24
+      "questionNumber": 24,
+      "playback_end": 1370.967
     },
     {
       "speaker": "听力原声",
@@ -1346,7 +1496,8 @@
       "translation": "第 25 题：年轻成年人陷入困境的一个重要原因是什么?",
       "start": 1386.3,
       "end": 1391.178,
-      "questionNumber": 25
+      "questionNumber": 25,
+      "playback_end": 1391.178
     },
     {
       "speaker": "听力原声",
@@ -1354,12 +1505,14 @@
       "text": "That's the end of listening comprehension.",
       "translation": "听觉理解到此结束",
       "start": 1406.25,
-      "end": 1408.53
+      "end": 1408.53,
+      "playback_end": 1409.053
     }
   ],
   "translation_sources": [
     "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
     "Sams200/opus-mt-en-zh (unmatched sentences only)"
   ],
-  "question_verification": "All 25 published question prompts located in original audio; numbers and prompts share one replay unit."
+  "question_verification": "All 25 published question prompts located in original audio; numbers and prompts share one replay unit.",
+  "replay_boundary_source": "original_audio_pauses_with_caption_fallback"
 }

@@ -1,4 +1,4 @@
-using System;using System.Collections.Generic;using System.Linq;using System.Text.RegularExpressions;
+﻿using System;using System.Collections.Generic;using System.Linq;using System.Text.RegularExpressions;
 
 // Keep a spoken question number and its text on the same subtitle and replay unit.
 public static class ListeningCaptionIntegrity {
@@ -14,11 +14,11 @@ public static class ListeningCaptionIntegrity {
    if(result.Count>0&&IsNumber(result[result.Count-1].text)){
     var previous=result[result.Count-1];var group=groups==null?null:groups.FirstOrDefault(g=>g.start-.5<=previous.start&&previous.start<g.end);
     if(line.start>=previous.end-.001&&line.start-previous.end<5&&(group==null||line.start<group.end)){
-     previous.text=previous.text.Trim()+" "+line.text;previous.translation="第 "+Regex.Match(previous.text,@"\d+").Value+" 题："+line.translation;previous.end=line.end;continue;
+     previous.text=previous.text.Trim()+" "+line.text;previous.translation="第 "+Regex.Match(previous.text,@"\d+").Value+" 题："+line.translation;previous.end=line.end;previous.playback_end=line.playback_end;continue;
     }
     result.RemoveAt(result.Count-1);
    }
-   result.Add(new Line{speaker=line.speaker,actor=line.actor,text=line.text,translation=line.translation,start=line.start,end=line.end});
+   result.Add(new Line{speaker=line.speaker,actor=line.actor,text=line.text,translation=line.translation,start=line.start,end=line.end,playback_end=line.playback_end});
   }
   if(result.Count>0&&IsNumber(result[result.Count-1].text))result.RemoveAt(result.Count-1);
   return result;

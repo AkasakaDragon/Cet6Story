@@ -1,4 +1,4 @@
-using System;using System.Linq;using System.IO;using System.Drawing;using System.Windows.Forms;using System.Collections.Generic;using System.Diagnostics;using System.Security.Cryptography;using System.Text;
+﻿using System;using System.Linq;using System.IO;using System.Drawing;using System.Windows.Forms;using System.Collections.Generic;using System.Diagnostics;using System.Security.Cryptography;using System.Text;
 public class SpellPracticeProgress {
  public int level{get;set;}public Dictionary<string,int> positions{get;set;}public Dictionary<string,int> answers{get;set;}public List<string> attempted{get;set;}
  public SpellPracticeProgress(){level=4;positions=new Dictionary<string,int>();answers=new Dictionary<string,int>();attempted=new List<string>();}
@@ -9,7 +9,8 @@ public class RealListeningExam {public string id{get;set;}public string title{ge
 public static class SpellPracticeAudio {
  // Word alignment can end inside a trailing sound. Keep the sentence tail,
  // stopping before the next sentence rather than playing its first word.
- public static long SentenceEndMs(List<Line> lines,int at){long end=(long)Math.Round(lines[at].end*1000);long padded=end+1000;if(at+1<lines.Count)padded=Math.Min(padded,(long)Math.Round(lines[at+1].start*1000));return Math.Max(end,padded);}
+ public static long SentenceEndMs(List<Line> lines,int at){var line=lines[at];long start=(long)Math.Round(line.start*1000);long end=(long)Math.Round(line.end*1000);long stop=line.playback_end+.001>=line.end&&line.playback_end>0?(long)Math.Round(line.playback_end*1000):end+500;if(at+1<lines.Count)stop=Math.Min(stop,(long)Math.Round(lines[at+1].start*1000));return Math.Max(start+1,stop);}
+
  public static string Prepare(string root,string relative){string source=Engine.SafePath(root,relative);var info=new FileInfo(source);string hash;using(var digest=SHA256.Create())hash=BitConverter.ToString(digest.ComputeHash(Encoding.UTF8.GetBytes(source+"|"+info.Length+"|"+info.LastWriteTimeUtc.Ticks))).Replace("-","").Substring(0,16);string folder=Path.Combine(root,".audio-cache");Directory.CreateDirectory(folder);string target=Path.Combine(folder,"spell-"+hash+".wav");if(File.Exists(target))return target;string temporary=target+".tmp.wav";var command=new ProcessStartInfo(Path.Combine(root,"tools","ffmpeg","ffmpeg.exe"),"-nostdin -hide_banner -loglevel error -y -i \""+source+"\" -vn -ar 24000 -ac 1 -c:a pcm_s16le \""+temporary+"\""){UseShellExecute=false,CreateNoWindow=true,RedirectStandardError=true};using(var process=Process.Start(command)){string error=process.StandardError.ReadToEnd();process.WaitForExit();if(process.ExitCode!=0){if(File.Exists(temporary))File.Delete(temporary);throw new IOException("真题音频准备失败："+error);}}File.Move(temporary,target);return target;}
 }
 public partial class Game {

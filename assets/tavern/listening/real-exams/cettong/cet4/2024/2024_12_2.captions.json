@@ -17,7 +17,8 @@
       "text": "U.S. families are looking to the winter with fear as energy costs soar.",
       "translation": "美国家庭正担心能源成本会飙升,",
       "start": 40.4,
-      "end": 46.48
+      "end": 46.48,
+      "playback_end": 46.48
     },
     {
       "speaker": "听力原声",
@@ -25,7 +26,8 @@
       "text": "A number of factors are creating a bad situation: Global energy consumption is up, but supplies have been reduced.",
       "translation": "若干因素正在造成一种坏局面:全球能源消费上升,但供应却减少了。",
       "start": 46.48,
-      "end": 55.366
+      "end": 55.366,
+      "playback_end": 55.366
     },
     {
       "speaker": "听力原声",
@@ -33,7 +35,8 @@
       "text": "The Energy Department projects heating bills will jump 28% this winter for those who rely on natural gas.",
       "translation": "能源部预计,今年冬天,对于依赖天然气的人来说,供暖费用将上升28%。",
       "start": 55.366,
-      "end": 62.43
+      "end": 62.43,
+      "playback_end": 62.86
     },
     {
       "speaker": "听力原声",
@@ -41,7 +44,8 @@
       "text": "Natural gas is used by nearly half of U.S. households for heat.",
       "translation": "美国近一半的家庭用天然气取暖。",
       "start": 63.15,
-      "end": 67.45
+      "end": 67.45,
+      "playback_end": 67.73
     },
     {
       "speaker": "听力原声",
@@ -49,7 +53,8 @@
       "text": "Heating oil is projected to be 27% higher and electricity 10% higher.",
       "translation": "预计供暖油将增加27%,电量将增加10%。",
       "start": 68.19,
-      "end": 73.73
+      "end": 73.73,
+      "playback_end": 73.98
     },
     {
       "speaker": "听力原声",
@@ -57,7 +62,8 @@
       "text": "That comes against inflation rates that accelerated last month with consumer prices growing 6.6%.",
       "translation": "与上个月消费物价上涨6.6%而加速上升的通货膨胀率相反。",
       "start": 74.45,
-      "end": 81.43
+      "end": 81.43,
+      "playback_end": 81.43
     },
     {
       "speaker": "听力原声",
@@ -65,7 +71,8 @@
       "text": "That's the fastest pace in four decades.",
       "translation": "这是四十年来最快的速度",
       "start": 81.43,
-      "end": 84.63
+      "end": 84.63,
+      "playback_end": 85.138
     },
     {
       "speaker": "听力原声",
@@ -74,7 +81,8 @@
       "translation": "在严重依赖取暖用油保持家庭温暖的地区,这种痛苦将尤为剧烈。",
       "start": 85.28,
       "end": 91.98,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 92.294
     },
     {
       "speaker": "听力原声",
@@ -83,7 +91,8 @@
       "translation": "预计今年冬天用取暖用油为一个典型家庭供暖将花费超过2300美元。",
       "start": 92.74,
       "end": 99.84,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 100.216
     },
     {
       "speaker": "听力原声",
@@ -92,7 +101,8 @@
       "translation": "上个月,联邦政府向低收入家庭能源援助计划增加了10亿美元资金,使总额达到48亿美元。",
       "start": 100.7,
       "end": 110.94,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 111.725
     },
     {
       "speaker": "听力原声",
@@ -101,7 +111,8 @@
       "translation": "但这比去年超过80亿美元的能源援助计划有所减少。",
       "start": 112.0,
       "end": 117.96,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 118.782
     },
     {
       "speaker": "听力原声",
@@ -110,7 +121,8 @@
       "translation": "第 1 题：为什么全美各地的家庭对今冬感到恐惧?",
       "start": 119.27,
       "end": 131.145,
-      "questionNumber": 1
+      "questionNumber": 1,
+      "playback_end": 131.145
     },
     {
       "speaker": "听力原声",
@@ -119,7 +131,8 @@
       "translation": "第 2 题：联邦政府上个月做了什么?",
       "start": 145.67,
       "end": 151.621,
-      "questionNumber": 2
+      "questionNumber": 2,
+      "playback_end": 151.621
     },
     {
       "speaker": "听力原声",
@@ -127,7 +140,8 @@
       "text": "Many Americans think they make healthy food choices, but they may be viewing their diet too optimistically.",
       "translation": "许多美国人认为他们做出了健康的食品选择, 但他们可能过于乐观地看待他们的饮食。",
       "start": 168.466,
-      "end": 176.37
+      "end": 176.37,
+      "playback_end": 176.712
     },
     {
       "speaker": "听力原声",
@@ -135,7 +149,8 @@
       "text": "That's the main finding of a new study by researchers at the U.S.",
       "translation": "这是美国研究人员 一项新研究的主要发现",
       "start": 177.15,
-      "end": 180.83
+      "end": 180.83,
+      "playback_end": 180.83
     },
     {
       "speaker": "听力原声",
@@ -143,7 +158,8 @@
       "text": "Department of Agriculture in Stoneville, Mississippi.",
       "translation": "密西西比州斯通维尔农业部",
       "start": 180.83,
-      "end": 184.19
+      "end": 184.19,
+      "playback_end": 184.462
     },
     {
       "speaker": "听力原声",
@@ -152,7 +168,8 @@
       "translation": "该研究旨在找出美国人认为自己吃得有多健康与实际情况之间的差距。",
       "start": 184.93,
       "end": 192.63,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 193.026
     },
     {
       "speaker": "听力原声",
@@ -161,7 +178,8 @@
       "translation": "在研究中，研究人员要求参与者将自己的饮食评为优秀、非常好、好、一般或差。",
       "start": 193.49,
       "end": 201.46,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 201.845
     },
     {
       "speaker": "听力原声",
@@ -170,7 +188,8 @@
       "translation": "参与者还完成了24小时食物问卷。",
       "start": 202.26,
       "end": 206.2,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 206.58
     },
     {
       "speaker": "听力原声",
@@ -179,7 +198,8 @@
       "translation": "然后，研究人员比较了答案，看两项调查的回答匹配程度如何。",
       "start": 207.12,
       "end": 213.3,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 213.578
     },
     {
       "speaker": "听力原声",
@@ -188,7 +208,8 @@
       "translation": "在9700多人中，大约85%的人在被要求评价自己的饮食质量时偏离了实际情况，而且几乎所有人都高估了饮食的健康程度。",
       "start": 214.24,
       "end": 227.3,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 227.678
     },
     {
       "speaker": "听力原声",
@@ -197,7 +218,8 @@
       "translation": "那些将自己的饮食评为差的人往往准确得多。",
       "start": 227.91,
       "end": 232.59,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 232.59
     },
     {
       "speaker": "听力原声",
@@ -206,7 +228,8 @@
       "translation": "他们的评价在十次中有九次以上与研究人员的评价相符。",
       "start": 232.59,
       "end": 238.27,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 238.564
     },
     {
       "speaker": "听力原声",
@@ -214,7 +237,8 @@
       "text": "the news report.",
       "translation": "新闻报导",
       "start": 241.98,
-      "end": 242.66
+      "end": 242.66,
+      "playback_end": 243.0
     },
     {
       "speaker": "听力原声",
@@ -222,7 +246,8 @@
       "text": "You have just heard Question three what is the main finding of a new study about many Americans?",
       "translation": "你刚刚听到问题三,关于许多美国人的新研究的主要结论是什么?",
       "start": 243.0,
-      "end": 245.36
+      "end": 245.36,
+      "playback_end": 245.36
     },
     {
       "speaker": "听力原声",
@@ -231,7 +256,8 @@
       "translation": "第 3 题：一项关于许多美国人的新研究的主要发现是什么?",
       "start": 245.36,
       "end": 250.144,
-      "questionNumber": 3
+      "questionNumber": 3,
+      "playback_end": 250.144
     },
     {
       "speaker": "听力原声",
@@ -240,7 +266,8 @@
       "translation": "第 4 题：在调查中,谁倾向于更准确地评价自己的饮食?",
       "start": 266.16,
       "end": 270.744,
-      "questionNumber": 4
+      "questionNumber": 4,
+      "playback_end": 270.744
     },
     {
       "speaker": "听力原声",
@@ -248,7 +275,8 @@
       "text": "report three?",
       "translation": "三号报告?",
       "start": 286.26,
-      "end": 287.3
+      "end": 287.3,
+      "playback_end": 287.523
     },
     {
       "speaker": "听力原声",
@@ -257,7 +285,8 @@
       "translation": "这是一个温馨的时刻，数十名印度救援人员齐心协力使用起重机营救一头困在20英尺深井底的大象。",
       "start": 288.2,
       "end": 299.26,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 299.614
     },
     {
       "speaker": "听力原声",
@@ -266,7 +295,8 @@
       "translation": "这次大规模救援行动上周在一个军营附近进行。",
       "start": 299.92,
       "end": 304.56,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 304.776
     },
     {
       "speaker": "听力原声",
@@ -275,7 +305,8 @@
       "translation": "这头大象从丛林中走出来后掉进了井里。",
       "start": 305.2,
       "end": 308.86,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 309.211
     },
     {
       "speaker": "听力原声",
@@ -284,7 +315,8 @@
       "translation": "军官们听到井里传来声音，发现有一头大象被困在深处。",
       "start": 309.72,
       "end": 315.94,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 316.375
     },
     {
       "speaker": "听力原声",
@@ -293,7 +325,8 @@
       "translation": "随后军官们向井里投放了一些食物，并向当地林业部门求助。",
       "start": 316.65,
       "end": 322.95,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 323.127
     },
     {
       "speaker": "听力原声",
@@ -302,7 +335,8 @@
       "translation": "救援行动的视频显示，救援队如何使用起重机将这头巨大的动物从井里吊起并放到卡车后部。",
       "start": 323.81,
       "end": 332.83,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 333.031
     },
     {
       "speaker": "听力原声",
@@ -311,7 +345,8 @@
       "translation": "随后大象被送往检查室评估是否有任何伤情。",
       "start": 333.77,
       "end": 338.29,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 338.824
     },
     {
       "speaker": "听力原声",
@@ -320,7 +355,8 @@
       "translation": "这头大象在密切监护下待了几天后被成功放归野外。",
       "start": 339.15,
       "end": 346.93,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 347.232
     },
     {
       "speaker": "听力原声",
@@ -329,7 +365,8 @@
       "translation": "第 5 题：报道称上周有数十名印度人做了什么?",
       "start": 354.7,
       "end": 359.371,
-      "questionNumber": 5
+      "questionNumber": 5,
+      "playback_end": 359.371
     },
     {
       "speaker": "听力原声",
@@ -338,7 +375,8 @@
       "translation": "第 6 题：军官们为什么给当地林业部门打电话?",
       "start": 373.98,
       "end": 380.295,
-      "questionNumber": 6
+      "questionNumber": 6,
+      "playback_end": 380.295
     },
     {
       "speaker": "听力原声",
@@ -347,7 +385,8 @@
       "translation": "第 7 题：新闻报道称最终发生了什么?",
       "start": 394.88,
       "end": 400.393,
-      "questionNumber": 7
+      "questionNumber": 7,
+      "playback_end": 400.393
     },
     {
       "speaker": "听力原声",
@@ -355,7 +394,8 @@
       "text": "In this section you'll hear two long conversations.",
       "translation": "在这段里,你会听到两个长长的谈话",
       "start": 418.2,
-      "end": 421.26
+      "end": 421.26,
+      "playback_end": 422.011
     },
     {
       "speaker": "听力原声",
@@ -363,7 +403,8 @@
       "text": "At the end of each conversation you'll hear four questions.",
       "translation": "每次谈话结束时你都会听到四个问题",
       "start": 422.32,
-      "end": 425.34
+      "end": 425.34,
+      "playback_end": 425.753
     },
     {
       "speaker": "听力原声",
@@ -371,7 +412,8 @@
       "text": "Both the conversation and the questions will be spoken only once.",
       "translation": "谈话和问题只谈一次",
       "start": 426.16,
-      "end": 429.64
+      "end": 429.64,
+      "playback_end": 430.02
     },
     {
       "speaker": "听力原声",
@@ -379,7 +421,8 @@
       "text": "you hear a question you must choose the best answer from the four choices marked A, B, C and D.",
       "translation": "听到一个问题,你必须从四个选择中选择最好的答案,四个选择标注A、B、C和D。",
       "start": 430.52,
-      "end": 437.98
+      "end": 437.98,
+      "playback_end": 438.181
     },
     {
       "speaker": "听力原声",
@@ -387,7 +430,8 @@
       "text": "mark the corresponding letter on answer sheet one with a single line through the centre.",
       "translation": "在答题表一中标出相应的字母,在中间线上标出单行。",
       "start": 438.58,
-      "end": 443.36
+      "end": 443.36,
+      "playback_end": 443.63
     },
     {
       "speaker": "听力原声",
@@ -396,7 +440,8 @@
       "translation": "我得去银行取点现金。",
       "start": 447.02,
       "end": 449.58,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 450.039
     },
     {
       "speaker": "听力原声",
@@ -405,7 +450,8 @@
       "translation": "为什么不直接用手机支付呢？",
       "start": 450.32,
       "end": 452.08,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 452.456
     },
     {
       "speaker": "听力原声",
@@ -414,7 +460,8 @@
       "translation": "嗯，实际上，我已经三个月没用线上支付了。",
       "start": 452.68,
       "end": 456.92,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 457.091
     },
     {
       "speaker": "听力原声",
@@ -423,7 +470,8 @@
       "translation": "不用线上支付了？",
       "start": 457.34,
       "end": 458.58,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 459.229
     },
     {
       "speaker": "听力原声",
@@ -432,7 +480,8 @@
       "translation": "哦，你一定是担心线上支付不安全吧。",
       "start": 459.56,
       "end": 462.96,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 463.337
     },
     {
       "speaker": "听力原声",
@@ -441,7 +490,8 @@
       "translation": "不，它们是安全的。",
       "start": 463.58,
       "end": 465.28,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 465.673
     },
     {
       "speaker": "听力原声",
@@ -450,7 +500,8 @@
       "translation": "但线上支付太方便了，我在不需要的东西上花了太多钱。",
       "start": 466.08,
       "end": 470.9,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 471.234
     },
     {
       "speaker": "听力原声",
@@ -459,7 +510,8 @@
       "translation": "哦，冲动消费对我来说也是个问题。",
       "start": 471.58,
       "end": 475.46,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 475.805
     },
     {
       "speaker": "听力原声",
@@ -468,7 +520,8 @@
       "translation": "我确实买过不需要的衣服和鞋子，因为它们在打折，而且用手机支付太容易了。",
       "start": 476.0,
       "end": 483.26,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 483.545
     },
     {
       "speaker": "听力原声",
@@ -477,7 +530,8 @@
       "translation": "但我发现如果每晚检查一下我的开支，就能控制住不花太多钱。",
       "start": 483.92,
       "end": 489.3,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 489.769
     },
     {
       "speaker": "听力原声",
@@ -486,7 +540,8 @@
       "translation": "我试过那个办法，但没用，因为我一整天都在忙着学习。",
       "start": 490.0,
       "end": 495.6,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 495.84
     },
     {
       "speaker": "听力原声",
@@ -495,7 +550,8 @@
       "translation": "然后，当我又累又饿的时候，我就会用手机点外卖，比如汉堡和其他垃圾食品，而不是去食堂，在那里我可以花一半的价钱吃到更健康的饭菜。",
       "start": 495.84,
       "end": 506.09,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 506.351
     },
     {
       "speaker": "听力原声",
@@ -504,7 +560,8 @@
       "translation": "那你现在怎么办呢？",
       "start": 506.69,
       "end": 508.49,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 508.73
     },
     {
       "speaker": "听力原声",
@@ -513,7 +570,8 @@
       "translation": "感觉你用现金也会有同样的问题啊。",
       "start": 509.05,
       "end": 511.31,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 511.828
     },
     {
       "speaker": "听力原声",
@@ -522,7 +580,8 @@
       "translation": "我每周去一次银行，其余时间把银行卡放在家里，这样我就取不到更多现金了。",
       "start": 512.19,
       "end": 518.95,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 519.171
     },
     {
       "speaker": "听力原声",
@@ -531,7 +590,8 @@
       "translation": "而且我还有个笔记本记录我的开支。",
       "start": 519.69,
       "end": 522.75,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 523.305
     },
     {
       "speaker": "听力原声",
@@ -540,7 +600,8 @@
       "translation": "但如果你想买东西，有什么能阻止你直接去银行取更多钱呢？",
       "start": 523.59,
       "end": 528.57,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 528.919
     },
     {
       "speaker": "听力原声",
@@ -549,7 +610,8 @@
       "translation": "第一个月我确实又取了两次额外的现金，但我为此感到内疚。",
       "start": 529.18,
       "end": 534.22,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 534.343
     },
     {
       "speaker": "听力原声",
@@ -558,7 +620,8 @@
       "translation": "之后我就拒绝花超出预算的钱，到现在这已经成了习惯。",
       "start": 534.56,
       "end": 540.82,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 541.047
     },
     {
       "speaker": "听力原声",
@@ -566,7 +629,8 @@
       "text": "Questions 8 to 11 are based on the conversation you have just heard.",
       "translation": "问题8至11 是基于你刚才听到的谈话",
       "start": 541.92,
-      "end": 545.96
+      "end": 545.96,
+      "playback_end": 546.251
     },
     {
       "speaker": "听力原声",
@@ -575,7 +639,8 @@
       "translation": "第 8 题：为什么这位男士在过去三个月里停止了网上支付?",
       "start": 547.02,
       "end": 552.434,
-      "questionNumber": 8
+      "questionNumber": 8,
+      "playback_end": 552.434
     },
     {
       "speaker": "听力原声",
@@ -584,7 +649,8 @@
       "translation": "第 9 题：这位女士说她可能也有什么问题?",
       "start": 568.03,
       "end": 572.835,
-      "questionNumber": 9
+      "questionNumber": 9,
+      "playback_end": 572.835
     },
     {
       "speaker": "听力原声",
@@ -593,7 +659,8 @@
       "translation": "第 10 题：这位男士说他在食堂可以做什么?",
       "start": 588.14,
       "end": 593.125,
-      "questionNumber": 10
+      "questionNumber": 10,
+      "playback_end": 593.125
     },
     {
       "speaker": "听力原声",
@@ -602,7 +669,8 @@
       "translation": "第 11 题：现在对这位男士来说什么只是一种习惯?",
       "start": 608.57,
       "end": 613.043,
-      "questionNumber": 11
+      "questionNumber": 11,
+      "playback_end": 613.043
     },
     {
       "speaker": "听力原声",
@@ -610,7 +678,8 @@
       "text": "Conversation 2.",
       "translation": "对话2。",
       "start": 628.29,
-      "end": 629.59
+      "end": 629.59,
+      "playback_end": 629.829
     },
     {
       "speaker": "听力原声",
@@ -618,7 +687,8 @@
       "text": "Please hear me out.",
       "translation": "请听我说完",
       "start": 630.133,
-      "end": 631.539
+      "end": 631.539,
+      "playback_end": 631.539
     },
     {
       "speaker": "听力原声",
@@ -626,7 +696,8 @@
       "text": "I don't want our son to spend his afternoons doing something he hates, even if it might prepare him for the future.",
       "translation": "我不想我们的儿子 花下午的时间做他讨厌的事 即使这能让他为未来做好准备",
       "start": 631.539,
-      "end": 639.271
+      "end": 639.271,
+      "playback_end": 639.272
     },
     {
       "speaker": "听力原声",
@@ -634,7 +705,8 @@
       "text": "What about getting him to join a sport, like soccer?",
       "translation": "那让他参加运动怎么样? 比如足球?",
       "start": 639.272,
-      "end": 642.786
+      "end": 642.786,
+      "playback_end": 642.786
     },
     {
       "speaker": "听力原声",
@@ -642,7 +714,8 @@
       "text": "From all the running and training, he could become quite athletic.",
       "translation": "从所有跑步和训练, 他可以变得非常运动。",
       "start": 642.786,
-      "end": 646.653
+      "end": 646.653,
+      "playback_end": 646.653
     },
     {
       "speaker": "听力原声",
@@ -650,7 +723,8 @@
       "text": "Not to mention the great physical benefits from exercising outside every day.",
       "translation": "更别提每天在外面锻炼会给身体带来的巨大好处了",
       "start": 646.653,
-      "end": 651.51
+      "end": 651.51,
+      "playback_end": 651.51
     },
     {
       "speaker": "听力原声",
@@ -658,7 +732,8 @@
       "text": "Um, I don't think he should be doing something so challenging with all his breathing issues.",
       "translation": "嗯,我不认为他应该 做的东西 如此具有挑战性 与他所有的呼吸问题。",
       "start": 651.51,
-      "end": 657.57
+      "end": 657.57,
+      "playback_end": 657.969
     },
     {
       "speaker": "听力原声",
@@ -666,7 +741,8 @@
       "text": "What about playing an indoor sport, like badminton?",
       "translation": "玩室内运动怎么样,像羽毛球一样?",
       "start": 658.41,
-      "end": 661.35
+      "end": 661.35,
+      "playback_end": 661.688
     },
     {
       "speaker": "听力原声",
@@ -674,7 +750,8 @@
       "text": "The environment is easier to control, and he can still get a good workout, in addition to improving his hand-eye coordination.",
       "translation": "环境更容易控制,除了改进手对眼的协调之外,他还可以找到良好的解决办法。",
       "start": 662.03,
-      "end": 668.99
+      "end": 668.99,
+      "playback_end": 669.561
     },
     {
       "speaker": "听力原声",
@@ -682,7 +759,8 @@
       "text": "Besides, I could teach him some of the basics from my time as a badminton player.",
       "translation": "此外,我可以教他一些基本知识 从我作为羽毛球手的时代。",
       "start": 670.05,
-      "end": 674.57
+      "end": 674.57,
+      "playback_end": 674.57
     },
     {
       "speaker": "听力原声",
@@ -691,7 +769,8 @@
       "translation": "嗯,我觉得应该选团队运动。",
       "start": 674.57,
       "end": 679.28,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 679.51
     },
     {
       "speaker": "听力原声",
@@ -700,7 +779,8 @@
       "translation": "没有什么比作为团队的一员去完成一个目标更好的了,比如赢得一场比赛甚至一个冠军。",
       "start": 679.86,
       "end": 685.6,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 686.048
     },
     {
       "speaker": "听力原声",
@@ -709,7 +789,8 @@
       "translation": "他可以试试篮球,因为现在很多球场都在室内,这项运动可以帮助他在与他人合作的同时理解团队精神。",
       "start": 686.56,
       "end": 695.58,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 695.852
     },
     {
       "speaker": "听力原声",
@@ -718,7 +799,8 @@
       "translation": "也许等他准备好了,他甚至可以加入学校篮球队。",
       "start": 696.36,
       "end": 699.82,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 700.178
     },
     {
       "speaker": "听力原声",
@@ -726,7 +808,8 @@
       "text": "Oh, oh, what about volleyball?",
       "translation": "哦,哦,排球怎么办?",
       "start": 700.68,
-      "end": 702.34
+      "end": 702.34,
+      "playback_end": 702.944
     },
     {
       "speaker": "听力原声",
@@ -734,7 +817,8 @@
       "text": "It's a team sport and they often have mixed-gender teams so he could socialize with both girls and boys.",
       "translation": "这是团队运动,他们经常有男女混合的团队 这样他就可以和男孩和女孩一起社交",
       "start": 703.24,
-      "end": 709.44
+      "end": 709.44,
+      "playback_end": 709.838
     },
     {
       "speaker": "听力原声",
@@ -742,7 +826,8 @@
       "text": "It's not as popular as some sports, which means he has better odds of possibly getting an athletic scholarship in the future.",
       "translation": "它不像一些运动那么受人欢迎 也就是说他将来更有可能 拿到体育奖学金",
       "start": 710.38,
-      "end": 717.26
+      "end": 717.26,
+      "playback_end": 717.576
     },
     {
       "speaker": "听力原声",
@@ -750,7 +835,8 @@
       "text": "I also believe you were a beach volleyball athlete yourself not so long ago.",
       "translation": "我也相信你不久前 也是海滩排球运动员",
       "start": 718.14,
-      "end": 722.34
+      "end": 722.34,
+      "playback_end": 722.738
     },
     {
       "speaker": "听力原声",
@@ -759,7 +845,8 @@
       "translation": "正如我之前说过很多次的,沙滩排球和室内排球是完全不同的。",
       "start": 723.0,
       "end": 729.92,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 730.336
     },
     {
       "speaker": "听力原声",
@@ -767,7 +854,8 @@
       "text": "Questions 12-15 are based on the conversation you have just heard.",
       "translation": "问题12 -15是基于你刚才听到的谈话",
       "start": 731.05,
-      "end": 735.73
+      "end": 735.73,
+      "playback_end": 736.011
     },
     {
       "speaker": "听力原声",
@@ -776,7 +864,8 @@
       "translation": "第 12 题：为什么这位女士反对他们的儿子参加像足球这样的运动?",
       "start": 736.9,
       "end": 742.687,
-      "questionNumber": 12
+      "questionNumber": 12,
+      "playback_end": 742.687
     },
     {
       "speaker": "听力原声",
@@ -785,7 +874,8 @@
       "translation": "第 13 题：这位男士建议他们的儿子尝试什么来理解团队精神?",
       "start": 758.35,
       "end": 764.904,
-      "questionNumber": 13
+      "questionNumber": 13,
+      "playback_end": 764.904
     },
     {
       "speaker": "听力原声",
@@ -794,7 +884,8 @@
       "translation": "第 14 题：这位女士为儿子选择运动时的考虑因素之一是什么?",
       "start": 780.55,
       "end": 786.541,
-      "questionNumber": 14
+      "questionNumber": 14,
+      "playback_end": 786.541
     },
     {
       "speaker": "听力原声",
@@ -803,7 +894,8 @@
       "translation": "第 15 题：这位男士关于沙滩排球说了什么?",
       "start": 802.01,
       "end": 806.454,
-      "questionNumber": 15
+      "questionNumber": 15,
+      "playback_end": 806.454
     },
     {
       "speaker": "听力原声",
@@ -811,7 +903,8 @@
       "text": "Section C,",
       "translation": "C节,",
       "start": 821.87,
-      "end": 822.65
+      "end": 822.65,
+      "playback_end": 822.95
     },
     {
       "speaker": "听力原声",
@@ -819,7 +912,8 @@
       "text": "In this section, you will hear three passages.",
       "translation": "在本节中,你们将听到三个段落。",
       "start": 824.71,
-      "end": 826.91
+      "end": 826.91,
+      "playback_end": 827.475
     },
     {
       "speaker": "听力原声",
@@ -827,7 +921,8 @@
       "text": "At the end of each passage, you will hear three or four questions.",
       "translation": "在每一段的结尾,你将听到三四个问题。",
       "start": 827.81,
-      "end": 831.37
+      "end": 831.37,
+      "playback_end": 831.82
     },
     {
       "speaker": "听力原声",
@@ -835,7 +930,8 @@
       "text": "Both the passage and the questions will be spoken only once.",
       "translation": "发言的通过和提问将只讲一次。",
       "start": 832.29,
-      "end": 835.75
+      "end": 835.75,
+      "playback_end": 835.841
     },
     {
       "speaker": "听力原声",
@@ -843,7 +939,8 @@
       "text": "After you hear a question, you must choose the best answer from the four choices marked A, B, C, and D. Then mark the corresponding letter on answer sheet one.",
       "translation": "在听到一个问题后,你必须从四个选项中选择最佳答案,四个选项标有A、B、C和D。然后在答题表一上标出相应的字母。",
       "start": 836.63,
-      "end": 847.65
+      "end": 847.65,
+      "playback_end": 847.892
     },
     {
       "speaker": "听力原声",
@@ -851,7 +948,8 @@
       "text": "with",
       "translation": "与",
       "start": 848.01,
-      "end": 848.29
+      "end": 848.29,
+      "playback_end": 848.79
     },
     {
       "speaker": "听力原声",
@@ -859,7 +957,8 @@
       "text": "a through the",
       "translation": "a 通过",
       "start": 849.67,
-      "end": 853.1
+      "end": 853.1,
+      "playback_end": 853.1
     },
     {
       "speaker": "听力原声",
@@ -868,7 +967,8 @@
       "translation": "发射通常是任何太空任务中对环境危害最大的阶段,在短短几分钟内燃烧掉大量燃料。",
       "start": 853.1,
       "end": 874.533,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 874.533
     },
     {
       "speaker": "听力原声",
@@ -877,7 +977,8 @@
       "translation": "例如,SpaceX的猎鹰9号消耗112吨精炼燃料,排放约336吨二氧化碳。",
       "start": 874.533,
       "end": 874.77,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 874.77
     },
     {
       "speaker": "听力原声",
@@ -886,7 +987,8 @@
       "translation": "这相当于普通汽车绕地球行驶近70圈所产生的排放量。",
       "start": 874.77,
       "end": 881.13,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 881.362
     },
     {
       "speaker": "听力原声",
@@ -895,7 +997,8 @@
       "translation": "除了温室气体,火箭发动机还排放破坏臭氧的颗粒物。",
       "start": 882.19,
       "end": 887.05,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 887.608
     },
     {
       "speaker": "听力原声",
@@ -904,7 +1007,8 @@
       "translation": "随着商业太空飞行的兴起,这些问题变得越来越紧迫。",
       "start": 888.09,
       "end": 892.41,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 892.804
     },
     {
       "speaker": "听力原声",
@@ -913,7 +1017,8 @@
       "translation": "2020年有114次太空发射,但未来每年可能多达1000次。",
       "start": 893.05,
       "end": 901.03,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 901.338
     },
     {
       "speaker": "听力原声",
@@ -922,7 +1027,8 @@
       "translation": "可持续燃料是实现更环保太空旅行的首要任务。",
       "start": 902.02,
       "end": 907.34,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 907.742
     },
     {
       "speaker": "听力原声",
@@ -931,7 +1037,8 @@
       "translation": "目前的航天器使用多种燃料,但大多数基于化石燃料。",
       "start": 908.18,
       "end": 913.66,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 914.141
     },
     {
       "speaker": "听力原声",
@@ -940,7 +1047,8 @@
       "translation": "一种潜在的更环保选择是液氢和液氧。",
       "start": 914.88,
       "end": 918.68,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 919.141
     },
     {
       "speaker": "听力原声",
@@ -949,7 +1057,8 @@
       "translation": "氢可以通过利用太阳能将水分解成氧和氢来可持续地获得。",
       "start": 919.62,
       "end": 926.92,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 927.317
     },
     {
       "speaker": "听力原声",
@@ -958,7 +1067,8 @@
       "translation": "可重复使用的火箭可以减少与太空飞行相关的一些浪费。",
       "start": 928.02,
       "end": 933.2,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 933.525
     },
     {
       "speaker": "听力原声",
@@ -967,7 +1077,8 @@
       "translation": "传统上,助推器、燃料箱和其他部件被视为一次性消耗品。",
       "start": 933.8,
       "end": 939.58,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 939.868
     },
     {
       "speaker": "听力原声",
@@ -976,7 +1087,8 @@
       "translation": "但以受控方式引导它们返回地球开辟了新的可能性——猎鹰9号的大部分部件可以重复使用多达100次。",
       "start": 940.42,
       "end": 950.78,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 951.267
     },
     {
       "speaker": "听力原声",
@@ -985,7 +1097,8 @@
       "translation": "真正环保的太空旅行仍有一段路要走。",
       "start": 952.11,
       "end": 956.95,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 957.294
     },
     {
       "speaker": "听力原声",
@@ -994,7 +1107,8 @@
       "translation": "但我们已经拥有许多开始限制其对地球影响所需的技术。",
       "start": 957.5,
       "end": 964.04,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 964.316
     },
     {
       "speaker": "听力原声",
@@ -1003,7 +1117,8 @@
       "translation": "第 16 题：从文章中我们了解到关于航天器升空的什么信息？",
       "start": 970.56,
       "end": 976.452,
-      "questionNumber": 16
+      "questionNumber": 16,
+      "playback_end": 976.452
     },
     {
       "speaker": "听力原声",
@@ -1012,7 +1127,8 @@
       "translation": "第 17 题：在太空飞行中，助推器、燃料箱和其他部件传统上会怎样处理？",
       "start": 991.22,
       "end": 1000.277,
-      "questionNumber": 17
+      "questionNumber": 17,
+      "playback_end": 1000.277
     },
     {
       "speaker": "听力原声",
@@ -1021,7 +1137,8 @@
       "translation": "第 18 题：文章说我们在太空飞行方面已经拥有什么？",
       "start": 1017.18,
       "end": 1022.039,
-      "questionNumber": 18
+      "questionNumber": 18,
+      "playback_end": 1022.039
     },
     {
       "speaker": "听力原声",
@@ -1029,7 +1146,8 @@
       "text": "Passage 2.",
       "translation": "通行证2。",
       "start": 1037.36,
-      "end": 1038.28
+      "end": 1038.28,
+      "playback_end": 1038.529
     },
     {
       "speaker": "听力原声",
@@ -1038,7 +1156,8 @@
       "translation": "帮助照顾宠物可以促进儿童情感发展的诸多方面。",
       "start": 1039.34,
       "end": 1045.58,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 1045.908
     },
     {
       "speaker": "听力原声",
@@ -1047,7 +1166,8 @@
       "translation": "研究表明,向忠诚且不评判的伙伴(如狗或猫)朗读可以鼓励不愿意读书的孩子大声朗读,这反过来会增强他们的自信心。",
       "start": 1046.32,
       "end": 1059.64,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 1059.64
     },
     {
       "speaker": "听力原声",
@@ -1056,7 +1176,8 @@
       "translation": "有一个可以倾诉感受的伙伴也能帮助儿童感到安全并发展沟通技能。",
       "start": 1059.64,
       "end": 1067.96,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 1068.305
     },
     {
       "speaker": "听力原声",
@@ -1065,7 +1186,8 @@
       "translation": "家庭宠物还可以培养儿童的责任感,因为家长会向他们解释保持宠物快乐和健康的必要过程。",
       "start": 1069.18,
       "end": 1080.06,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 1080.443
     },
     {
       "speaker": "听力原声",
@@ -1074,7 +1196,8 @@
       "translation": "随着儿童的成长,他们可以承担更多日常责任,增强独立感。",
       "start": 1081.19,
       "end": 1087.55,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 1088.276
     },
     {
       "speaker": "听力原声",
@@ -1083,7 +1206,8 @@
       "translation": "宠物还为研究和学习提供了绝佳的主题。",
       "start": 1089.04,
       "end": 1093.22,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 1093.435
     },
     {
       "speaker": "听力原声",
@@ -1092,7 +1216,8 @@
       "translation": "家长可以鼓励孩子在图书馆或在监督下的网络搜索中研究他们喜爱的宠物。",
       "start": 1093.74,
       "end": 1101.08,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 1101.505
     },
     {
       "speaker": "听力原声",
@@ -1101,7 +1226,8 @@
       "translation": "带孩子去宠物店购买食物和用品将有助于他们的认知发展,因为他们对学习的热情会蓬勃发展。",
       "start": 1102.42,
       "end": 1110.78,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 1111.22
     },
     {
       "speaker": "听力原声",
@@ -1110,7 +1236,8 @@
       "translation": "带宠物在新鲜空气中散步可以极大地促进儿童的身体发育。",
       "start": 1111.98,
       "end": 1117.6,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 1117.882
     },
     {
       "speaker": "听力原声",
@@ -1119,7 +1246,8 @@
       "translation": "甚至他们的精细运动技能也可以在照顾心爱的动物时得到运用。",
       "start": 1118.14,
       "end": 1123.08,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 1123.373
     },
     {
       "speaker": "听力原声",
@@ -1128,7 +1256,8 @@
       "translation": "当责任节奏得当且沟通良好时,儿童可以从参与养育一只快乐健康的宠物中受益匪浅。",
       "start": 1124.44,
       "end": 1132.52,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 1132.864
     },
     {
       "speaker": "听力原声",
@@ -1137,7 +1266,8 @@
       "translation": "当然,如果孩子自己家里没有宠物,他们在拜访有宠物的朋友时仍然可以从上述所有方面受益。",
       "start": 1133.82,
       "end": 1142.38,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 1142.849
     },
     {
       "speaker": "听力原声",
@@ -1145,7 +1275,8 @@
       "text": "Questions 19-21 are based on the passage you have just heard.",
       "translation": "问题19-21是根据你刚才听到的段落提出的。",
       "start": 1143.58,
-      "end": 1148.18
+      "end": 1148.18,
+      "playback_end": 1148.42
     },
     {
       "speaker": "听力原声",
@@ -1154,7 +1285,8 @@
       "translation": "第 19 题：研究表明,向一个忠诚且不评判的伙伴阅读会产生什么效果?",
       "start": 1148.62,
       "end": 1156.116,
-      "questionNumber": 19
+      "questionNumber": 19,
+      "playback_end": 1156.116
     },
     {
       "speaker": "听力原声",
@@ -1163,7 +1295,8 @@
       "translation": "第 20 题：家长如何使宠物成为孩子研究和学习的绝佳对象?",
       "start": 1171.69,
       "end": 1179.278,
-      "questionNumber": 20
+      "questionNumber": 20,
+      "playback_end": 1179.278
     },
     {
       "speaker": "听力原声",
@@ -1172,7 +1305,8 @@
       "translation": "第 21 题：即使家里没有宠物,孩子如何仍能从中受益?",
       "start": 1194.97,
       "end": 1201.981,
-      "questionNumber": 21
+      "questionNumber": 21,
+      "playback_end": 1201.981
     },
     {
       "speaker": "听力原声",
@@ -1181,7 +1315,8 @@
       "translation": "俄亥俄州立法机构的一项新法案将要求州立公立大学和学院向潜在学生发送一份信息包。",
       "start": 1218.92,
       "end": 1227.72,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 1228.3
     },
     {
       "speaker": "听力原声",
@@ -1190,7 +1325,8 @@
       "translation": "其中将包括大学费用、助学金和奖学金。",
       "start": 1228.76,
       "end": 1232.98,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 1233.217
     },
     {
       "speaker": "听力原声",
@@ -1199,7 +1335,8 @@
       "translation": "还将包括预期的月贷款还款额以及大学毕业后的预期薪资。",
       "start": 1234.14,
       "end": 1240.2,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 1240.657
     },
     {
       "speaker": "听力原声",
@@ -1208,7 +1345,8 @@
       "translation": "州众议员Adam Mathews是提出该法案的两位立法者之一。",
       "start": 1241.58,
       "end": 1246.98,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 1247.214
     },
     {
       "speaker": "听力原声",
@@ -1217,7 +1355,8 @@
       "translation": "他表示，这将为潜在学生提供更多关于毕业后预期情况的信息。",
       "start": 1247.95,
       "end": 1253.91,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 1254.464
     },
     {
       "speaker": "听力原声",
@@ -1226,7 +1365,8 @@
       "translation": "Mathews说：\"将这些信息呈现在他们面前，将使他们有最好的机会将自己的技能和梦想与我们学校所能提供的相匹配。",
       "start": 1255.28,
       "end": 1266.45,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 1266.45
     },
     {
       "speaker": "听力原声",
@@ -1235,7 +1375,8 @@
       "translation": "\"他指出，州只能以这种方式监管公立机构，但他希望俄亥俄州的私立机构效仿州的做法并发布类似信息。",
       "start": 1266.45,
       "end": 1278.45,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 1279.058
     },
     {
       "speaker": "听力原声",
@@ -1244,7 +1385,8 @@
       "translation": "他相信，提供这些信息将有助于俄亥俄州的大学和学院提高竞争力。",
       "start": 1279.23,
       "end": 1286.05,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 1286.688
     },
     {
       "speaker": "听力原声",
@@ -1253,7 +1395,8 @@
       "translation": "这些信息将突显出它们以非常合理的成本提供了巨大的价值。",
       "start": 1287.07,
       "end": 1292.47,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 1292.748
     },
     {
       "speaker": "听力原声",
@@ -1262,7 +1405,8 @@
       "translation": "俄亥俄州的学校已经很有竞争力。",
       "start": 1293.61,
       "end": 1296.07,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 1296.778
     },
     {
       "speaker": "听力原声",
@@ -1271,7 +1415,8 @@
       "translation": "该州吸引的本科生数量超过了流失到州外大学的数量。",
       "start": 1297.21,
       "end": 1302.29,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 1302.725
     },
     {
       "speaker": "听力原声",
@@ -1280,7 +1425,8 @@
       "translation": "许多大学和学院目前在其网站上提供类似信息。",
       "start": 1303.56,
       "end": 1308.7,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 1308.951
     },
     {
       "speaker": "听力原声",
@@ -1289,7 +1435,8 @@
       "translation": "这包括学费、费用、毕业率等。",
       "start": 1309.48,
       "end": 1314.8,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 1315.109
     },
     {
       "speaker": "听力原声",
@@ -1298,7 +1445,8 @@
       "translation": "但学生需要主动搜索这些信息。",
       "start": 1315.58,
       "end": 1317.78,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 1318.386
     },
     {
       "speaker": "听力原声",
@@ -1307,7 +1455,8 @@
       "translation": "该法案将要求大学和学院直接向学生发送信息包。",
       "start": 1318.86,
       "end": 1324.74,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
+      "playback_end": 1325.211
     },
     {
       "speaker": "听力原声",
@@ -1315,7 +1464,8 @@
       "text": "Questions 22-25 are based on the passage you have just heard.",
       "translation": "问题22-25是根据你刚才听到的段落提出的。",
       "start": 1326.1,
-      "end": 1330.46
+      "end": 1330.46,
+      "playback_end": 1330.759
     },
     {
       "speaker": "听力原声",
@@ -1324,7 +1474,8 @@
       "translation": "第 22 题：俄亥俄州立法机构的新法案将要求公立学院和大学做什么?",
       "start": 1331.64,
       "end": 1339.684,
-      "questionNumber": 22
+      "questionNumber": 22,
+      "playback_end": 1339.684
     },
     {
       "speaker": "听力原声",
@@ -1333,7 +1484,8 @@
       "translation": "第 23 题：根据Adam Mathews的说法,州政府只能做什么?",
       "start": 1355.22,
       "end": 1361.034,
-      "questionNumber": 23
+      "questionNumber": 23,
+      "playback_end": 1361.034
     },
     {
       "speaker": "听力原声",
@@ -1342,7 +1494,8 @@
       "translation": "第 24 题：从文章中我们对俄亥俄州的学校了解到什么?",
       "start": 1376.59,
       "end": 1382.324,
-      "questionNumber": 24
+      "questionNumber": 24,
+      "playback_end": 1382.324
     },
     {
       "speaker": "听力原声",
@@ -1351,7 +1504,8 @@
       "translation": "第 25 题：学校在其网站上提供信息存在什么问题?",
       "start": 1397.96,
       "end": 1404.699,
-      "questionNumber": 25
+      "questionNumber": 25,
+      "playback_end": 1404.699
     },
     {
       "speaker": "听力原声",
@@ -1359,12 +1513,14 @@
       "text": "That's the end of listening comprehension.",
       "translation": "听觉理解到此结束",
       "start": 1419.58,
-      "end": 1421.92
+      "end": 1421.92,
+      "playback_end": 1422.565
     }
   ],
   "translation_sources": [
     "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
     "Sams200/opus-mt-en-zh (unmatched sentences only)"
   ],
-  "question_verification": "All 25 published question prompts located in original audio; numbers and prompts share one replay unit."
+  "question_verification": "All 25 published question prompts located in original audio; numbers and prompts share one replay unit.",
+  "replay_boundary_source": "original_audio_pauses_with_caption_fallback"
 }

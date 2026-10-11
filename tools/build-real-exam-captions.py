@@ -1,4 +1,4 @@
-"""Build offline, word-timed listening captions; generated captions are auxiliary.
+﻿"""Build offline, word-timed listening captions; generated captions are auxiliary.
 Uses locally cached faster-whisper base.en and OPUS-MT en-zh (CC-BY-4.0).
 Run with the bundled Python 3.12 and .validation/asr-deps installed.
 """
@@ -99,6 +99,8 @@ def main():
         assert rows and all(r['translation'] for r in rows)
         doc=dict(id=entry['level']+'-'+entry['exam_id'],title=entry['title'],level=int(entry['level'][-1]),source_url=entry['page_url'],material_source=reference['material_source'],audio=reference['audio'],caption_kind='published_material_with_auxiliary_timing_and_translation',caption_models=['Systran/faster-whisper-base.en','Sams200/opus-mt-en-zh'],lines=rows)
         out.write_text(json.dumps(doc,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
+        import runpy
+        runpy.run_path(str(ROOT/'tools/refine-listening-replay-ends.py'))['refine'](out)
         print('Completed '+entry['level']+'/'+entry['exam_id']+' '+str(len(rows))+' lines in '+str(round(time.monotonic()-started,1))+'s',flush=True)
 
 def align_materials(reference,segments):

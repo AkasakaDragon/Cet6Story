@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.IO;
 using System.Linq;
 using System.Text;
@@ -13,7 +13,7 @@ using System.Drawing.Imaging;
 using System.Text.RegularExpressions;
 using System.IO.Compression;
 
-public class Line { public bool hidePortraits {get;set;} public string timeOfDay {get;set;} public bool sceneSingle {get;set;} public string scene {get;set;} public int sceneCell {get;set;} public int? pose {get;set;} public string speaker {get;set;} public string actor {get;set;} public string text {get;set;} public string translation {get;set;} public string voiceRole {get;set;} public double start {get;set;} public double end {get;set;} }
+public class Line { public double playback_end {get;set;} public bool hidePortraits {get;set;} public string timeOfDay {get;set;} public bool sceneSingle {get;set;} public string scene {get;set;} public int sceneCell {get;set;} public int? pose {get;set;} public string speaker {get;set;} public string actor {get;set;} public string text {get;set;} public string translation {get;set;} public string voiceRole {get;set;} public double start {get;set;} public double end {get;set;} }
 public class Option { public string text {get;set;} public string feedback {get;set;} public int trust {get;set;} }
 public class Decision { public int afterLine {get;set;} public string prompt {get;set;} public List<Option> options {get;set;} }
 public class Actor { public string id {get;set;} public string image {get;set;} public string side {get;set;} public string voice {get;set;} public string gender {get;set;} }
