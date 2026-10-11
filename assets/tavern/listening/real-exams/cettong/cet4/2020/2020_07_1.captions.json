@@ -54,17 +54,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "That is a warning for snow that has never been seen since the modern system came into place in Scotland.\" The orange warning has been extended until 6 p.m.",
-      "translation": "这是自现代系统在苏格兰建立以来从未见过的雪雪警示。 橙色警示已延长到下午6时。",
+      "text": "That is a warning for snow that has never been seen since the modern system came into place in Scotland.\" The orange warning has been extended until 6 p.m. on Thursday.",
+      "translation": "这是自现代系统在苏格兰建立以来从未见过的雪雪警示。 橙色警示已延长到星期四下午6时。",
       "start": 72.93,
-      "end": 84.06
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "on Thursday.",
-      "translation": "星期四开始",
-      "start": 84.06,
       "end": 84.96
     },
     {
@@ -237,20 +229,10 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "\"I looked at her and said 'I missed my graduation.'\" The school's principal Mr.",
-      "translation": "\"我看着她说'我错过了毕业典礼。",
+      "text": "\"I looked at her and said 'I missed my graduation.'\" The school's principal Mr. Fausey called Scott's mom Karen and said that everybody wanted to do something special for him.",
+      "translation": "\"我看着她说\"我错过毕业典礼了\" 学校校长Fausey先生给Scott的妈妈Karen打电话 说每个人都想为他做点特别的事",
       "start": 335.54,
-      "end": 341.67,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Fausey called Scott's mom Karen and said that everybody wanted to do something special for him.",
-      "translation": "'\"学校校长Fausey先生打电话给Scott的妈妈Karen，说大家都想为他做点特别的事。",
-      "start": 341.67,
-      "end": 348.69,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-07-1/"
+      "end": 348.69
     },
     {
       "speaker": "听力原声",

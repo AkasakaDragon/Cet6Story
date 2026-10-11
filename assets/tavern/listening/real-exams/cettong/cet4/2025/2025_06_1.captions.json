@@ -342,17 +342,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Section B.",
-      "translation": "B节。",
+      "text": "Section B. Directions.",
+      "translation": "B节. 指示。",
       "start": 431.36,
-      "end": 431.96
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Directions.",
-      "translation": "方向",
-      "start": 432.62,
       "end": 433.0
     },
     {

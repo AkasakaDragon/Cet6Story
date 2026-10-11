@@ -1129,17 +1129,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "C, D.",
-      "translation": "C, D. , C, D. , C.",
+      "text": "C, D. Then mark the corresponding letter on answer sheet one with a single line through",
+      "translation": "C、D. 然后在答复表一上用单行横线标出相应的字母",
       "start": 852.68,
-      "end": 853.58
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Then mark the corresponding letter on answer sheet one with a single line through",
-      "translation": "然后用单行通过",
-      "start": 853.97,
       "end": 858.71
     },
     {

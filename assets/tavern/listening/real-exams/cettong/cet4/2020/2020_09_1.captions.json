@@ -128,17 +128,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "A security worker had guarded the store each night from 7 p.m.",
-      "translation": "从晚上7点起,每天晚上有一位保安人员看守商店。",
+      "text": "A security worker had guarded the store each night from 7 p.m. until 12 a.m., but that had stopped suddenly on Monday, employees said.",
+      "translation": "一名保安人员每天晚上从下午7点到凌晨12点守卫商店,但雇员说,星期一突然停工。",
       "start": 186.61,
-      "end": 191.15
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "until 12 a.m., but that had stopped suddenly on Monday, employees said.",
-      "translation": "员工说,直到12点,但星期一突然停工。",
-      "start": 191.15,
       "end": 196.75
     },
     {
@@ -296,17 +288,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "After you hear a question, you must choose the best answer from the four choices marked A, B, C, and D.",
-      "translation": "在听到一个问题后,你必须从四个选择中选择最好的答案,这四个选择分别是A、B、C和D。",
+      "text": "After you hear a question, you must choose the best answer from the four choices marked A, B, C, and D. Then mark the corresponding letter on answer sheet one with a single line through the center.",
+      "translation": "在听到一个问题后,您必须选择四个选项中的最佳答案, 四个选项标有 A、 B、 C 和 D 。 然后在答题表一上用单行横穿中心标出相应的字母 。",
       "start": 453.81,
-      "end": 461.85
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Then mark the corresponding letter on answer sheet one with a single line through the center.",
-      "translation": "然后在答题单上用一条线标出相应的字母,通过中心。",
-      "start": 462.76,
       "end": 468.14
     },
     {
@@ -522,17 +506,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Hello Mr.",
-      "translation": "你好,先生。 你好,先生。 你好。",
+      "text": "Hello Mr. I was expecting your call.",
+      "translation": "你好 先生 我在等你的电话",
       "start": 657.44,
-      "end": 658.2
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "I was expecting your call.",
-      "translation": "我在等你的电话",
-      "start": 658.8,
       "end": 660.06
     },
     {
@@ -653,17 +629,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Do you mind describing the chairs that were delivered to your apartment, Mr.",
-      "translation": "你介意描述一下 送到你公寓的椅子吗?",
+      "text": "Do you mind describing the chairs that were delivered to your apartment, Mr. Brown?",
+      "translation": "你介意描述一下 送到你公寓的椅子吗 布朗先生?",
       "start": 695.22,
-      "end": 698.88
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Brown?",
-      "translation": "布朗?",
-      "start": 699.06,
       "end": 699.1
     },
     {
@@ -745,27 +713,10 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Will tomorrow 9 a.m.",
-      "translation": "明天早上9点",
+      "text": "Will tomorrow 9 a.m. be okay, Mr. Yes, that would be great.",
+      "translation": "明天早上9点会好起来的,先生,那太好了",
       "start": 731.4,
-      "end": 733.04
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "be okay, Mr.",
-      "translation": "没事了 先生",
-      "start": 733.04,
-      "end": 733.96
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Yes, that would be great.",
-      "translation": "可以，那太好了。",
-      "start": 734.7,
-      "end": 736.36,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-09-1/"
+      "end": 736.36
     },
     {
       "speaker": "听力原声",

@@ -865,17 +865,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Section C.",
-      "translation": "C节。",
+      "text": "Section C. In this section you will hear three recordings of lectures or talks followed by three or four questions.",
+      "translation": "C节:在本节,你们将听取三场讲座或会谈录音,然后是三四个问题。",
       "start": 856.87,
-      "end": 857.69
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "In this section you will hear three recordings of lectures or talks followed by three or four questions.",
-      "translation": "在本节中,你们将听取三场演讲或会谈录音,然后是三四个问题。",
-      "start": 859.63,
       "end": 865.13
     },
     {
@@ -1315,20 +1307,10 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Dr.",
-      "translation": "自然历史博物馆生命科学部负责人蒂姆·利特尔伍德博士说：“无论你对食物还是疾病感兴趣，地球上每一种生物如何适应其环境的历史，都记录在它的遗传构成中。",
+      "text": "Dr. Tim Littlewood, head of Life Sciences Department at the Natural History Museum, said, \"Whether you are interested in food or disease, the history of how every organism on the planet has adapted to its environment is recorded in its genetic makeup.",
+      "translation": "自然历史博物馆生命科学系主任蒂姆·利特伍德博士说,“无论你对食物或疾病感兴趣,地球上每个生物体如何适应其环境的历史记录在基因构成中。",
       "start": 1212.3,
-      "end": 1212.58,
-      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Tim Littlewood, head of Life Sciences Department at the Natural History Museum, said, \"Whether you are interested in food or disease, the history of how every organism on the planet has adapted to its environment is recorded in its genetic makeup.",
-      "translation": "你如何利用这些信息，取决于你理解它的能力。",
-      "start": 1212.94,
-      "end": 1227.46,
-      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+      "end": 1227.46
     },
     {
       "speaker": "听力原声",

@@ -52,6 +52,7 @@ public partial class Game {
   var jump=Btn("跳到所选远征节点",()=>{var selected=target.SelectedItem as DebugDestination;if(selected!=null)DebugJumpRogue(mode.Text,selected);});rogue.Controls.Add(jump);
   var newRun=Btn("重新开始调试远征",()=>{save.rogue.preparationActive=false;RogueEngine.NewRun(save.rogue,TrainingPool(mode.Text),mode.Text,Environment.TickCount);Persist();RenderRogue();});rogue.Controls.Add(newRun);
   var note=Lab("调试跳转会写入当前存档。",10,Muted);rogue.Controls.Add(note);
+  rogue.Controls.Add(Btn("试玩酒馆大厅",ShowTavernHall));
   Action fit=()=>{int left=Math.Max(160,story.ClientSize.Width-story.Padding.Horizontal-14),right=Math.Max(160,rogue.ClientSize.Width-rogue.Padding.Horizontal-14);foreach(Control control in story.Controls)control.Width=left;foreach(Control control in rogue.Controls)control.Width=right;};columns.Resize+=(s,e)=>fit();story.Resize+=(s,e)=>fit();rogue.Resize+=(s,e)=>fit();fit();
  }
 

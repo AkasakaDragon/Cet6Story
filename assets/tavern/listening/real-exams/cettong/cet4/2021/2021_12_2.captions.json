@@ -421,17 +421,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Section B.",
-      "translation": "B节。",
+      "text": "Section B. Directions.",
+      "translation": "B节. 指示。",
       "start": 408.03,
-      "end": 408.69
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Directions.",
-      "translation": "方向",
-      "start": 409.23,
       "end": 409.59
     },
     {
@@ -477,17 +469,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "C and D.",
-      "translation": "C和D。",
+      "text": "C and D. Then mark the corresponding letter on answer sheet one with a single line through the center.",
+      "translation": "C和D 然后在答题单上用单行通过中心标出相应的字母。",
       "start": 432.11,
-      "end": 433.07
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Then mark the corresponding letter on answer sheet one with a single line through the center.",
-      "translation": "然后在答题单上用一条线标出相应的字母,通过中心。",
-      "start": 433.77,
       "end": 439.33
     },
     {
@@ -1260,17 +1244,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Section C.",
-      "translation": "C节。",
+      "text": "Section C. In this section, you will hear three passages.",
+      "translation": "C节. 在本节,你将听到三个段落。",
       "start": 832.84,
-      "end": 833.58
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "In this section, you will hear three passages.",
-      "translation": "在本节中,你们将听到三个段落。",
-      "start": 835.24,
       "end": 838.42
     },
     {
@@ -1292,17 +1268,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "After you hear a question, you must choose the best answer from the four choices marked A, B, C, and D.",
-      "translation": "在听到一个问题后,你必须从四个选择中选择最好的答案,这四个选择分别是A、B、C和D。",
+      "text": "After you hear a question, you must choose the best answer from the four choices marked A, B, C, and D. Then mark the corresponding letter on answer sheet one with a single line through the center.",
+      "translation": "在听到一个问题后,您必须选择四个选项中的最佳答案, 四个选项标有 A、 B、 C 和 D 。 然后在答题表一上用单行横穿中心标出相应的字母 。",
       "start": 848.48,
-      "end": 857.34
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Then mark the corresponding letter on answer sheet one with a single line through the center.",
-      "translation": "然后在答题单上用一条线标出相应的字母,通过中心。",
-      "start": 857.96,
       "end": 863.82
     },
     {

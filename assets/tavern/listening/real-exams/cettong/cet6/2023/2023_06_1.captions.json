@@ -465,17 +465,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Section B.",
-      "translation": "B节。",
+      "text": "Section B. Directions.",
+      "translation": "B节. 指示。",
       "start": 445.71,
-      "end": 446.67
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Directions.",
-      "translation": "方向",
-      "start": 447.05,
       "end": 447.47
     },
     {
@@ -890,17 +882,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Mr.",
-      "translation": "先生,先生",
+      "text": "Mr. Blevins, a digital historian, wrote a book on the history of the US postal service.",
+      "translation": "数字历史学家Blevins先生撰写了一本关于美国邮政服务史的书。",
       "start": 765.33,
-      "end": 765.57
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Blevins, a digital historian, wrote a book on the history of the US postal service.",
-      "translation": "一位数字历史学家Blevins写了一本关于美国邮政服务史的书。",
-      "start": 765.57,
       "end": 771.55
     },
     {
@@ -1002,17 +986,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What did Mr.",
-      "translation": "是什么 先生。 。 。",
+      "text": "What did Mr. Belvins do to study the history of the U.S.",
+      "translation": "贝尔文斯先生为研究美国的历史做了些什么",
       "start": 866.46,
-      "end": 867.3
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Belvins do to study the history of the U.S.",
-      "translation": "贝尔文斯研究美国的历史",
-      "start": 867.58,
       "end": 870.46
     },
     {
@@ -1026,17 +1002,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Section C.",
-      "translation": "C节。",
+      "text": "Section C. In this section you will hear three recordings of lectures or talks, followed by three or four questions.",
+      "translation": "C节:在本节,你将听取三场讲座或会谈录音,然后是三四个问题。",
       "start": 885.05,
-      "end": 885.95
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "In this section you will hear three recordings of lectures or talks, followed by three or four questions.",
-      "translation": "在本节中,你们将听取三场讲座或会谈录音,然后是三四个问题。",
-      "start": 888.05,
       "end": 894.57
     },
     {
@@ -1050,17 +1018,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "you hear a question, you must choose the best answer from the four choices marked A, B, C and D.",
-      "translation": "听到一个问题,你必须从四个选择中选择最好的答案 四个选择标注A、B、C和D",
+      "text": "you hear a question, you must choose the best answer from the four choices marked A, B, C and D. Then mark the corresponding letter and answer sheet one with a single line through",
+      "translation": "您听到一个问题, 您必须从四个选项中选择最佳答案, 四个选项标记 A、 B、 C和 D。 然后用单行通过",
       "start": 898.77,
-      "end": 905.15
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Then mark the corresponding letter and answer sheet one with a single line through",
-      "translation": "然后用单行通过",
-      "start": 905.53,
       "end": 909.67
     },
     {

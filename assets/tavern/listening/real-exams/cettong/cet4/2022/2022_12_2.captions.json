@@ -41,20 +41,10 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "It will take place at the St.",
-      "translation": "比赛将于5月18日周六上午10点至晚上7点在格拉斯哥的St.",
+      "text": "It will take place at the St. James Playing Fields in Glasgow on Saturday, 18 May from 10:00 am until 7:00 pm.",
+      "translation": "会议将于5月18日星期六上午10:00至下午7:00在格拉斯哥圣詹姆斯游戏场举行。",
       "start": 58.61,
-      "end": 60.23,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "James Playing Fields in Glasgow on Saturday, 18 May from 10:00 am until 7:00 pm.",
-      "translation": "James运动场举行。",
-      "start": 60.31,
-      "end": 68.13,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/"
+      "end": 68.13
     },
     {
       "speaker": "听力原声",
@@ -347,17 +337,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Section B.",
-      "translation": "B节。",
+      "text": "Section B. In this section, you will hear two long conversations.",
+      "translation": "B节. 在本节中,你们将听到两场长长的谈话。",
       "start": 423.25,
-      "end": 424.31
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "In this section, you will hear two long conversations.",
-      "translation": "在本节中,你们将听到两次长长的谈话。",
-      "start": 426.11,
       "end": 428.89
     },
     {
@@ -387,17 +369,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "After you hear a question, you must choose the best answer from the four choices marked A, B, C, and D.",
-      "translation": "在听到一个问题后,你必须从四个选择中选择最好的答案,这四个选择分别是A、B、C和D。",
+      "text": "After you hear a question, you must choose the best answer from the four choices marked A, B, C, and D. Then...",
+      "translation": "在听到一个问题后,你必须从四个选择中选择最好的答案,这四个选择分别是A、B、C和D。 然后...",
       "start": 438.29,
-      "end": 445.23
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Then...",
-      "translation": "然后... 说...",
-      "start": 446.07,
       "end": 446.29
     },
     {
@@ -1076,17 +1050,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "C, D.",
-      "translation": "C, D. , C, D. , C.",
+      "text": "C, D. Then marked the corresponding letter on answer sheet 1 with the single line through",
+      "translation": "C、D. 然后在答复表1上用单行横线标出相应字母的对应字母。",
       "start": 845.86,
-      "end": 846.7
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Then marked the corresponding letter on answer sheet 1 with the single line through",
-      "translation": "然后用单行通过",
-      "start": 847.1,
       "end": 851.84
     },
     {

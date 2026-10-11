@@ -1,0 +1,22 @@
+{
+  "voice_id": "English_ThoughtfulMan",
+  "text": "Until then, I want travelers to be able to enjoy a meal here without fear.",
+  "model": "speech-2.8-hd",
+  "voice_setting": {
+    "voice_id": "English_ThoughtfulMan",
+    "speed": 1,
+    "vol": 1,
+    "pitch": 0
+  },
+  "extra_info": {
+    "audio_length": 5328,
+    "audio_sample_rate": 32000,
+    "audio_size": 86964,
+    "bitrate": 128000,
+    "word_count": 74,
+    "invisible_character_ratio": 0,
+    "usage_characters": 74,
+    "audio_format": "mp3",
+    "audio_channel": 1
+  }
+}

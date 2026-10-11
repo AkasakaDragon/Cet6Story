@@ -4,6 +4,7 @@ Run with the bundled Python 3.12 and .validation/asr-deps installed.
 """
 import argparse, hashlib, json, re, sys, time, difflib
 from pathlib import Path
+from listening_sentences import sentences, abbreviation_continues, merge_abbreviation_rows
 ROOT=Path(__file__).resolve().parents[1]
 sys.path.insert(0,str(ROOT/'.validation/asr-deps'))
 import requests, sentencepiece, ctranslate2
@@ -38,6 +39,8 @@ def split(segments):
             group.append(word)
             terminal=re.search(r'[.!?]["\u201d\u2019\']?$',word['word'].strip())
             next_gap=index+1<len(words) and words[index+1]['start']-word['end']>.65
+            following=words[index+1]["word"].strip() if index+1<len(words) else ""
+            if terminal and abbreviation_continues("".join(w["word"] for w in group),following):terminal=False
             if terminal or next_gap or len(group)>=34 or index==len(words)-1:
                 text=''.join(w['word'] for w in group).strip()
                 if text:rows.append(dict(speaker='听力原声',actor='',text=text,translation='',start=round(group[0]['start'],3),end=round(group[-1]['end']+.06,3)))
@@ -79,7 +82,7 @@ def main():
             rows=align_materials(reference,json.loads(raw.read_text(encoding='utf-8')))
         # Begin with the first real material rather than transcribed exam boilerplate.
         first=min(g['start'] for g in reference['groups'])
-        rows=[r for r in rows if r['start']>=first-.5]
+        rows=merge_abbreviation_rows([r for r in rows if r['start']>=first-.5])
         published=original.with_suffix('.translations.json')
         native=json.loads(published.read_text(encoding='utf-8')) if published.exists() else dict(sentences={},source='')
         for row in rows:
@@ -102,8 +105,8 @@ def align_materials(reference,segments):
     for group in reference['groups']:
         material=re.sub(r'(?m)^\s*(?:M|W|Man|Woman|Speaker \d+)\s*:\s*','',group['material']).strip()
         if not material:continue
-        sentences=[s.strip() for s in re.split(r'(?<=[.!?])\s+|\n+',material) if s.strip()]
-        source=[(token,i) for i,s in enumerate(sentences) for token in s.split()]
+        parts=sentences(material)
+        source=[(token,i) for i,s in enumerate(parts) for token in s.split()]
         target=[w for w in words if group['start']-.5<=w['start']<group['end']]
         matches={}
         for block in difflib.SequenceMatcher(None,[norm(t) for t,i in source],[norm(w['word']) for w in target],autojunk=False).get_matching_blocks():
@@ -118,7 +121,7 @@ def align_materials(reference,segments):
             right=matches[after]['start'] if after<len(source) else group['end']
             span=max(0,right-left)/(after-before-1)
             start=left+span*(pos-before-1);matches[pos]=dict(start=start,end=start+span)
-        for i,sentence in enumerate(sentences):
+        for i,sentence in enumerate(parts):
             positions=[pos for pos,(_,si) in enumerate(source) if si==i]
             start=matches[positions[0]]['start'];end=matches[positions[-1]]['end']
             if end>start:rows.append(dict(speaker='听力原声',actor='',text=sentence,translation='',start=round(start,3),end=round(end,3)))

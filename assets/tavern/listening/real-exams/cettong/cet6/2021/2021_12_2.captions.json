@@ -300,17 +300,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "With me in the studio today is Ms.",
-      "translation": "今天在工作室的我 是女士。",
+      "text": "With me in the studio today is Ms. Jane Logan, author of a new book, Secrets to Success.",
+      "translation": "今天和我一起在工作室的 是简·洛根女士 新书《成功的秘密》的作者",
       "start": 248.65,
-      "end": 251.35
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Jane Logan, author of a new book, Secrets to Success.",
-      "translation": "简·洛根,新书《成功的秘密》的作者",
-      "start": 251.71,
       "end": 255.71
     },
     {
@@ -324,17 +316,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "So Ms.",
-      "translation": "所以,女士。",
+      "text": "So Ms. Logan, in your book, you claim that successful people have many things in common.",
+      "translation": "所以洛根女士 在你的书里 你说成功的人有很多共同点",
       "start": 260.57,
-      "end": 260.87
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Logan, in your book, you claim that successful people have many things in common.",
-      "translation": "洛根 在你的书里 你说成功的人有很多共同点",
-      "start": 261.19,
       "end": 265.99
     },
     {
@@ -1084,17 +1068,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "C and D.",
-      "translation": "C和D。",
+      "text": "C and D. Then mark the corresponding letter on answer sheet one with a single line through the",
+      "translation": "C和D. 然后在答题表一上用单行横线标出相应的字母",
       "start": 871.09,
-      "end": 871.79
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Then mark the corresponding letter on answer sheet one with a single line through the",
-      "translation": "然后在答题表一上用单行横划",
-      "start": 872.1,
       "end": 880.6
     },
     {

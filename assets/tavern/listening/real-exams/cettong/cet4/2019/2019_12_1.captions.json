@@ -245,17 +245,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "According to the park's manager, Mr.",
-      "translation": "根据公园的经理说,",
+      "text": "According to the park's manager, Mr. Villiers, the goal is not just to clear up the park.",
+      "translation": "据公园经理Villiers先生说 目标不仅仅是清理公园",
       "start": 300.4,
-      "end": 302.64
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Villiers, the goal is not just to clear up the park.",
-      "translation": "Villiers 目标不仅仅是清理公园",
-      "start": 302.64,
       "end": 306.48
     },
     {
@@ -341,17 +333,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "B.",
-      "translation": "B. B. .",
+      "text": "B. Directions.",
+      "translation": "B. 指示。",
       "start": 439.78,
-      "end": 440.34
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Directions.",
-      "translation": "方向",
-      "start": 440.8,
       "end": 441.3
     },
     {
@@ -923,17 +907,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Section C.",
-      "translation": "C节。",
+      "text": "Section C. Directions",
+      "translation": "C节. 指示",
       "start": 872.63,
-      "end": 873.37
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Directions",
-      "translation": "方向指示",
-      "start": 873.99,
       "end": 874.39
     },
     {
@@ -987,17 +963,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "C, and D.",
-      "translation": "C,和D., 和D., 和D.",
+      "text": "C, and D. Then mark the corresponding letter on answer sheet one with a single line through the center.",
+      "translation": "然后在答题单上用单行通过中心标出相应的字母。",
       "start": 896.52,
-      "end": 897.5
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Then mark the corresponding letter on answer sheet one with a single line through the center.",
-      "translation": "然后在答题单上用一条线标出相应的字母,通过中心。",
-      "start": 898.24,
       "end": 904.5
     },
     {

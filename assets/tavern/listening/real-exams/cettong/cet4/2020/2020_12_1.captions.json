@@ -254,17 +254,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Mr.",
-      "translation": "先生,先生",
+      "text": "Mr. Smith, it's a pleasure meeting you.",
+      "translation": "史密斯先生 很高兴见到你",
       "start": 428.42,
-      "end": 429.0
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Smith, it's a pleasure meeting you.",
-      "translation": "史密斯 很高兴见到你",
-      "start": 429.22,
       "end": 430.84
     },
     {
@@ -315,17 +307,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Thank you, Mrs.",
-      "translation": "谢谢你,夫人。",
+      "text": "Thank you, Mrs. Houston.",
+      "translation": "谢谢你,休斯顿夫人",
       "start": 453.01,
-      "end": 453.97
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Houston.",
-      "translation": "休斯顿",
-      "start": 454.19,
       "end": 454.27
     },
     {
@@ -371,17 +355,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Could I ask you, Mr.",
-      "translation": "我可以问你吗,先生?",
+      "text": "Could I ask you, Mr. Smith, to tell me a little about your company and the challenges you face?",
+      "translation": "我能请你,史密斯先生 谈谈你的公司 和你面临的挑战吗?",
       "start": 477.01,
-      "end": 477.89
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Smith, to tell me a little about your company and the challenges you face?",
-      "translation": "史密斯 跟我说说 你的公司和面临的挑战?",
-      "start": 478.21,
       "end": 481.77
     },
     {
@@ -771,17 +747,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Section C.",
-      "translation": "C节。",
+      "text": "Section C. Directions.",
+      "translation": "C节. 指示。",
       "start": 806.65,
-      "end": 807.39
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Directions.",
-      "translation": "方向",
-      "start": 808.19,
       "end": 808.55
     },
     {

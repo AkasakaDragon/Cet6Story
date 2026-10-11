@@ -23,17 +23,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "The U.S.",
-      "translation": "美国",
+      "text": "The U.S. average price for a dozen large eggs last month hit $4.25.",
+      "translation": "上个月美国12个大鸡蛋的平均价格 高达4.25美元",
       "start": 53.22,
-      "end": 54.08
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "average price for a dozen large eggs last month hit $4.25.",
-      "translation": "上个月十几个大鸡蛋的平均价格高达4.25美元。",
-      "start": 54.08,
       "end": 60.09
     },
     {
@@ -55,17 +47,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Those bringing eggs into the U.S.",
-      "translation": "那些带鸡蛋进美国的人",
+      "text": "Those bringing eggs into the U.S. risk fines of up to $10,000.",
+      "translation": "那些带鸡蛋进美国的人 可能会被罚款高达1万美元",
       "start": 73.16,
-      "end": 75.7
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "risk fines of up to $10,000.",
-      "translation": "风险罚款最高10 000美元。",
-      "start": 75.7,
       "end": 79.58
     },
     {
@@ -144,8 +128,16 @@
     {
       "speaker": "听力原声",
       "actor": "",
+      "text": "What do we learn from the news report about the egg price in the U.S.?",
+      "translation": "从这则新闻报道中，我们了解到美国的鸡蛋价格有什么情况？",
+      "start": 136.94,
+      "end": 141.64
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
       "text": "What does the news report say about most people arriving at American borders with eggs?",
-      "translation": "大部分人带着鸡蛋抵达美国边境,",
+      "translation": "新闻报道提到，大多数携带鸡蛋抵达美国边境的人有什么情况？",
       "start": 158.64,
       "end": 164.8
     },
@@ -457,17 +449,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "B.",
-      "translation": "B. B. .",
+      "text": "B. Directions.",
+      "translation": "B. 指示。",
       "start": 442.13,
-      "end": 442.61
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Directions.",
-      "translation": "方向",
-      "start": 443.15,
       "end": 443.51
     },
     {
@@ -505,17 +489,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "After you hear a question, you must choose the best answer from the four choices marked A, B, C and D.",
-      "translation": "在听到一个问题后,你必须从四个选择中选择最好的答案,这四个选择分别是A、B、C和D。",
+      "text": "After you hear a question, you must choose the best answer from the four choices marked A, B, C and D. Then mark the corresponding letter on answer sheet one with a single line through the center.",
+      "translation": "在听到一个问题后,你必须从四个选项中选择最好的答案,四个选项标有A、B、C和D。然后在答题表一上用单行通过中心标出相应的字母。",
       "start": 456.75,
-      "end": 463.59
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Then mark the corresponding letter on answer sheet one with a single line through the center.",
-      "translation": "然后在答题单上用一条线标出相应的字母,通过中心。",
-      "start": 464.31,
       "end": 469.35
     },
     {

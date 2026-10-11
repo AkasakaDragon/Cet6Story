@@ -1,0 +1,16 @@
+# 酒馆前厅经营底图 v1
+
+生成日期：2026-10-09。使用内置 image_gen 工具。
+
+输出：front-hall-2-5d-v1.png。当前为待评审的无人物底图，未替换游戏现有画面。角色实际嵌入、遮挡层与路径尚未验证。
+
+参考输入：用户图一员工动作表（像素与角色尺度依据）、用户图二一层布局（结构依据）、assets/art-style/references/reference-2.png（补充像素绘画参考）。三张原图均传入生成工具。
+
+## 完整生成提示词
+
+Create a production-oriented pixel-art tavern front-hall background for a 2.5D management game, landscape composition. Reference input 1 is the EXISTING red-haired waitress animation sprite sheet: it is the PRIMARY compatibility reference for square pixel scale, dark stepped outlines, restricted local color ramps, sprite-friendly camera and object proportions. Do not copy the sprite sheet or draw any characters. Reference input 2 is the EXACT architectural and furniture layout reference: preserve its front hall structure. Input 3 provides supplemental handcrafted pixel painting and warm/cool atmosphere, not its characters or composition.
+
+Camera: fixed orthographic oblique top-down RPG view, looking down approximately 45–55 degrees, horizontal back wall and vertical side walls, no vanishing point, NOT a rotated diamond isometric scene, NOT near overhead flat floor plan. Upright front/back/side-facing sprites from input 1 must fit naturally, with the same pixel density and crisp dark contours as furniture. Furniture should look appropriate for a waitress approximately 80–95 rendered pixels tall in a 1536-wide scene: table tops at her waist, doors taller than her, broad corridors that fit her tray. Deliberate readable pixel clusters and stepped edges, nuanced handmade pixel art, no smooth gradients, no tiny noisy photorealistic textures, no glossy 3D, no antialiasing blur.
+
+Layout: focus on ONLY the main front hall from input 2, filling the canvas with useful scene, no separately detached kitchen or large white margin. Back wall: long rectangular table upper left, stone fireplace left of center, small table directly in front of fireplace, noticeboard to fireplace right, main entrance at upper right. Seven circular tables in the hall matching input 2: two rows of three and a seventh lower central table. Keep broad coherent walking aisles between chairs. Long vertical wooden bar on right with green/gold runner, stools on its LEFT customer-facing side, storage bottles behind on far right, lower-right side doorway linking kitchen through short passage. Staircase at lower right follows reference footprint. Rear door lower-left wall leads toward unloading courtyard, show only small glimpse beyond. Preserve a framed fixed diamond-pane window near rear-door-right/bar-left wall region where space allows, do not turn window into door. Cutaway foreground walls low enough not to obscure sprites. Roof removed, no upper storey shown. Natural brown beams, gray-blue stone floor, dark green fabrics, local gold candle/fire highlights and teal/brown shadows. Restrained evenly readable ambient light so colorful waitress will not appear pasted on; avoid overall orange tint or drastic realistic lighting. Floor comparatively calm pixel shapes; richer details concentrated at furniture and walls. No people, no ghost silhouettes, no character demos, no text labels, no arrows, no diagram title, no UI, no watermark. This is a clean empty working game scene into which the actual existing sprite animations will later be embedded.
+

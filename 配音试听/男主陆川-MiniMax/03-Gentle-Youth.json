@@ -1,0 +1,22 @@
+{
+  "voice_id": "Chinese (Mandarin)_Gentle_Youth",
+  "model": "speech-2.8-hd",
+  "text": "Good news. The bad news is that the breakfast I promised is still missing. <#0.7#> Until then, I want travelers to be able to enjoy a meal here without fear.",
+  "settings": {
+    "voice_id": "Chinese (Mandarin)_Gentle_Youth",
+    "speed": 1,
+    "vol": 1,
+    "pitch": 0
+  },
+  "extra_info": {
+    "audio_length": 10188,
+    "audio_sample_rate": 32000,
+    "audio_size": 164724,
+    "bitrate": 128000,
+    "word_count": 155,
+    "invisible_character_ratio": 0,
+    "usage_characters": 157,
+    "audio_format": "mp3",
+    "audio_channel": 1
+  }
+}

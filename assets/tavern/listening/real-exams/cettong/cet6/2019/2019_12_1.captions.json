@@ -555,17 +555,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Section B.",
-      "translation": "B节。",
+      "text": "Section B. In this section you will hear two passages.",
+      "translation": "B节. 在本节中,你们将听到两段。",
       "start": 458.21,
-      "end": 458.99
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "In this section you will hear two passages.",
-      "translation": "在本节中,你们将听到两段。",
-      "start": 461.11,
       "end": 463.19
     },
     {
@@ -983,17 +975,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Section C.",
-      "translation": "C节。",
+      "text": "Section C. In this section you'll hear three recordings of lectures or talks.",
+      "translation": "C节,在本节,你会听到三段演讲或谈话录音。",
       "start": 873.24,
-      "end": 874.04
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "In this section you'll hear three recordings of lectures or talks.",
-      "translation": "在本节,你会听到三段演讲或谈话的录音",
-      "start": 875.88,
       "end": 880.3
     },
     {

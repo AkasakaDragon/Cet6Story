@@ -521,17 +521,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Section B.",
-      "translation": "B节。",
+      "text": "Section B. Directions.",
+      "translation": "B节. 指示。",
       "start": 448.91,
-      "end": 449.91
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Directions.",
-      "translation": "方向",
-      "start": 450.35,
       "end": 450.75
     },
     {
@@ -1006,17 +998,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Section C.",
-      "translation": "C节。",
+      "text": "Section C. Directions.",
+      "translation": "C节. 指示。",
       "start": 847.79,
-      "end": 848.77
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Directions.",
-      "translation": "方向",
-      "start": 849.29,
       "end": 849.71
     },
     {

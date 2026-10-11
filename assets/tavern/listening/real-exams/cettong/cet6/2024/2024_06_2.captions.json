@@ -294,33 +294,17 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Mr.",
-      "translation": "先生,先生",
+      "text": "Mr. Thomas Benjamin Grimm, the mayor of Berkton, is here to talk about his job and responsibilities overseeing this charming village.",
+      "translation": "Berkton市长Thomas Benjamin Grim先生 来谈他的工作和职责 监督这个迷人的村庄",
       "start": 232.736,
-      "end": 233.536
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Thomas Benjamin Grimm, the mayor of Berkton, is here to talk about his job and responsibilities overseeing this charming village.",
-      "translation": "本杰明·格林 伯顿市长 来谈他的工作和责任 监督这个迷人的村庄",
-      "start": 233.536,
       "end": 244.268
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Mr.",
-      "translation": "先生,先生",
+      "text": "Mr. Grimm, thank you for being here.",
+      "translation": "格林先生,谢谢你能来",
       "start": 244.268,
-      "end": 244.516
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Grimm, thank you for being here.",
-      "translation": "格林,谢谢你能来",
-      "start": 244.516,
       "end": 246.009
     },
     {
@@ -679,20 +663,10 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "\"Because these structures are so tiny, the rate of cooling is very fast,\" project lead Professor John A.",
-      "translation": "项目负责人约翰·A·罗杰斯教授说：“由于这些结构非常微小，冷却速度非常快。",
+      "text": "\"Because these structures are so tiny, the rate of cooling is very fast,\" project lead Professor John A. Rogers said.",
+      "translation": "\"因为这些结构太小了,冷却的速度非常快\"项目主导约翰·罗杰斯教授说",
       "start": 523.27,
-      "end": 530.01,
-      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-2/"
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Rogers said.",
-      "translation": "事实上，缩小这些机器人的尺寸可以使它们运行得更快。",
-      "start": 530.21,
-      "end": 530.71,
-      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-2/"
+      "end": 530.71
     },
     {
       "speaker": "听力原声",

@@ -792,17 +792,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Section B.",
-      "translation": "B节。",
+      "text": "Section B. In this section, you will hear two passages.",
+      "translation": "B节. 在本节中,你将听到两段。",
       "start": 411.61,
-      "end": 412.33
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "In this section, you will hear two passages.",
-      "translation": "在本节中,你将听到两段。",
-      "start": 414.63,
       "end": 416.87
     },
     {

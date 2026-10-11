@@ -716,17 +716,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "you must choose the best answer from the four choices marked A, B, C, and D.",
-      "translation": "您必须选择四个选择中的最佳答案,即A、B、C和D。",
+      "text": "you must choose the best answer from the four choices marked A, B, C, and D. Then mark the corresponding letter on answer sheet 1,",
+      "translation": "您必须选择四个选项中最合适的答案, 四个选项的标记为 A、 B、 C 和 D。 然后在回复表1上标出相应的字母 。",
       "start": 466.02,
-      "end": 471.2
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Then mark the corresponding letter on answer sheet 1,",
-      "translation": "然后在回答表1上标出相应的字母,",
-      "start": 472.28,
       "end": 475.54
     },
     {

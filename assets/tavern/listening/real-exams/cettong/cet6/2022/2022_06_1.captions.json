@@ -14,17 +14,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Mr.",
-      "translation": "先生,先生",
+      "text": "Mr. David Jackson, a staff writer at the New Yorker, is known for his non-fiction books of adventure.",
+      "translation": "David Jackson先生是纽约客公司的工作人员作家,以他的非幻想冒险书著称。",
       "start": 43.266,
-      "end": 43.755
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "David Jackson, a staff writer at the New Yorker, is known for his non-fiction books of adventure.",
-      "translation": "David Jackson是纽约客的一位工作人员作家 以他的非小说冒险书闻名",
-      "start": 43.755,
       "end": 52.072
     },
     {
@@ -565,17 +557,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Section B.",
-      "translation": "B节。",
+      "text": "Section B. In this section you will hear two passages.",
+      "translation": "B节. 在本节中,你们将听到两段。",
       "start": 481.13,
-      "end": 482.05
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "In this section you will hear two passages.",
-      "translation": "在本节中,你们将听到两段。",
-      "start": 484.11,
       "end": 487.01
     },
     {
@@ -597,17 +581,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "After you hear a question you must choose the best answer from the four choices marked A, B, C and D.",
-      "translation": "在听到一个问题后,你必须从四个选择中选择最好的答案,这四个选择分别是A、B、C和D。",
+      "text": "After you hear a question you must choose the best answer from the four choices marked A, B, C and D. Then mark the corresponding letter on answer sheet one with a single line through the center.",
+      "translation": "在听到一个问题后,您必须选择四个选项中的最佳答案,四个选项标有A、B、C和D。然后在答题表一上用单行通过中心标出相应的字母。",
       "start": 497.41,
-      "end": 504.87
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Then mark the corresponding letter on answer sheet one with a single line through the center.",
-      "translation": "然后在答题单上用一条线标出相应的字母,通过中心。",
-      "start": 505.89,
       "end": 511.43
     },
     {
@@ -1248,17 +1224,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "\"I have to work with these people,\" he tells my friend, Dr.",
-      "translation": "\"我必须和这些人合作\" 他告诉我的朋友,博士",
+      "text": "\"I have to work with these people,\" he tells my friend, Dr. Karen Brudney, when she mercifully intervenes on my behalf and arranges for me to be transferred to another hospital.",
+      "translation": "他告诉我的朋友卡伦·布鲁德尼医生, 当她代表我进行慷慨的干预, 并安排我转到另一家医院时,",
       "start": 1057.81,
-      "end": 1061.95
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Karen Brudney, when she mercifully intervenes on my behalf and arranges for me to be transferred to another hospital.",
-      "translation": "凯伦·布鲁德尼,当她为我进行慷慨的干预 并安排我被转到另一家医院时",
-      "start": 1062.39,
       "end": 1070.09
     },
     {

@@ -244,17 +244,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Section B.",
-      "translation": "B节。",
+      "text": "Section B. Directions.",
+      "translation": "B节. 指示。",
       "start": 428.34,
-      "end": 429.06
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Directions.",
-      "translation": "方向",
-      "start": 429.58,
       "end": 429.82
     },
     {
@@ -300,17 +292,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "and D.",
-      "translation": "和D。",
+      "text": "and D. Then mark the corresponding letter on answer sheet one with a single line through the center.",
+      "translation": "然后在答题单上用单行横穿中心标出相应的字母。",
       "start": 451.72,
-      "end": 451.98
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Then mark the corresponding letter on answer sheet one with a single line through the center.",
-      "translation": "然后在答题单上用一条线标出相应的字母,通过中心。",
-      "start": 452.46,
       "end": 457.92
     },
     {

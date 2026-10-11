@@ -307,17 +307,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Section B.",
-      "translation": "B节。",
+      "text": "Section B. Directions.",
+      "translation": "B节. 指示。",
       "start": 395.22,
-      "end": 395.9
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Directions.",
-      "translation": "方向",
-      "start": 396.44,
       "end": 396.9
     },
     {
@@ -355,17 +347,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "After you hear a question, you must choose the best answer from the four choices marked A, B, C, and D.",
-      "translation": "在听到一个问题后,你必须从四个选择中选择最好的答案,这四个选择分别是A、B、C和D。",
+      "text": "After you hear a question, you must choose the best answer from the four choices marked A, B, C, and D. Then mark the corresponding letter",
+      "translation": "在听到一个问题后,你必须从四个选择中选择最好的答案,四个选择标有A、B、C和D。然后在相应的字母上标出相应的字母",
       "start": 410.06,
-      "end": 416.9
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Then mark the corresponding letter",
-      "translation": "然后标记相应的字母",
-      "start": 417.58,
       "end": 419.36
     },
     {
@@ -837,17 +821,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "After you hear a question, you must choose the best answer from the four choices marked A, B, C, and D.",
-      "translation": "在听到一个问题后,你必须从四个选择中选择最好的答案,这四个选择分别是A、B、C和D。",
+      "text": "After you hear a question, you must choose the best answer from the four choices marked A, B, C, and D. Then mark the corresponding letter on answer sheet one with a single line through the center.",
+      "translation": "在听到一个问题后,您必须选择四个选项中的最佳答案, 四个选项标有 A、 B、 C 和 D 。 然后在答题表一上用单行横穿中心标出相应的字母 。",
       "start": 801.3,
-      "end": 808.84
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Then mark the corresponding letter on answer sheet one with a single line through the center.",
-      "translation": "然后在答题单上用一条线标出相应的字母,通过中心。",
-      "start": 809.56,
       "end": 814.34
     },
     {

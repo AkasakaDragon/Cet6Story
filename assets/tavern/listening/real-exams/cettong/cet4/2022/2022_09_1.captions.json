@@ -342,17 +342,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Section B.",
-      "translation": "B节。",
+      "text": "Section B. Directions In this section you will hear two long conversations at the end of each conversation",
+      "translation": "B. B节. 方向 在本节中,每次对话结束时,你们将听到两次长长的谈话",
       "start": 438.53,
-      "end": 439.23
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Directions In this section you will hear two long conversations at the end of each conversation",
-      "translation": "在本节中,每次谈话结束时,你们将听到两次长长的谈话",
-      "start": 439.85,
       "end": 446.73
     },
     {
@@ -1109,17 +1101,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "C.",
-      "translation": "C. 中 国 家",
+      "text": "C. Directions.",
+      "translation": "C. 方向。",
       "start": 900.27,
-      "end": 900.79
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Directions.",
-      "translation": "方向",
-      "start": 901.57,
       "end": 901.89
     },
     {

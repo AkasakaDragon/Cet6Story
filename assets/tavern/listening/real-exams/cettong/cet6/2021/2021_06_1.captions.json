@@ -692,17 +692,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Section B.",
-      "translation": "B节。",
+      "text": "Section B. Directions.",
+      "translation": "B节. 指示。",
       "start": 446.23,
-      "end": 446.85
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Directions.",
-      "translation": "方向",
-      "start": 447.25,
       "end": 447.45
     },
     {
@@ -1108,17 +1100,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Section C.",
-      "translation": "C节。",
+      "text": "Section C. In this section, you will hear three recordings of lectures or talks,",
+      "translation": "C节:在本节,你将听取三场讲座或谈话录音,",
       "start": 872.13,
-      "end": 873.09
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "In this section, you will hear three recordings of lectures or talks,",
-      "translation": "在本节中,你将听到三段演讲或谈话录音,",
-      "start": 874.87,
       "end": 878.75
     },
     {

@@ -967,17 +967,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Section C.",
-      "translation": "C节。",
+      "text": "Section C. In this section, you will hear three recordings of lectures or talks, followed by three or four questions.",
+      "translation": "C节:在本节中,你将听取三场讲座或会谈录音,然后是三四个问题。",
       "start": 809.97,
-      "end": 810.73
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "In this section, you will hear three recordings of lectures or talks, followed by three or four questions.",
-      "translation": "在本节中,各位将听取三场讲座或会谈录音,然后是三四个问题。",
-      "start": 812.75,
       "end": 818.39
     },
     {

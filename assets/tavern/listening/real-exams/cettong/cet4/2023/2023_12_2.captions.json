@@ -319,17 +319,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "B.",
-      "translation": "B. B. .",
+      "text": "B. Directions.",
+      "translation": "B. 指示。",
       "start": 409.19,
-      "end": 409.67
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Directions.",
-      "translation": "方向",
-      "start": 410.13,
       "end": 410.41
     },
     {
@@ -1085,17 +1077,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Section C.",
-      "translation": "C节。",
+      "text": "Section C. In this section you will hear three passages.",
+      "translation": "C节. 在本节,你们将听到三个段落。",
       "start": 803.31,
-      "end": 803.97
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "In this section you will hear three passages.",
-      "translation": "在本节中,你们将听到三个段落。",
-      "start": 805.93,
       "end": 808.43
     },
     {

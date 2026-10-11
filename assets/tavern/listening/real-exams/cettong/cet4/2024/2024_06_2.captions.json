@@ -804,17 +804,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "After you hear a question you must choose the best answer from the four choices marked A, B, C and D.",
-      "translation": "在听到一个问题后,你必须从四个选择中选择最好的答案,这四个选择分别是A、B、C和D。",
+      "text": "After you hear a question you must choose the best answer from the four choices marked A, B, C and D. Then mark the corresponding letter on answer sheet one with a single line through",
+      "translation": "在听到一个问题后,您必须从四个选择选择中选择最佳答案,四个选择标有A、B、C和D。然后用单行通过",
       "start": 851.63,
-      "end": 859.83
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Then mark the corresponding letter on answer sheet one with a single line through",
-      "translation": "然后用单行通过",
-      "start": 860.35,
       "end": 865.45
     },
     {

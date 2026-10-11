@@ -50,17 +50,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "But when they arrived at the United Airlines cargo facility in the southern U.S.",
-      "translation": "但当他们抵达美国南部联合航空公司货运设施时",
+      "text": "But when they arrived at the United Airlines cargo facility in the southern U.S. state, they found a stranger's dog waiting in Buddy's place.",
+      "translation": "但是当他们抵达美国南部联合航空货运设施时 他们发现一只陌生人的狗在巴迪家等着",
       "start": 73.14,
-      "end": 77.98
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "state, they found a stranger's dog waiting in Buddy's place.",
-      "translation": "他们发现一只陌生人的狗在巴迪家等着",
-      "start": 77.98,
       "end": 81.3
     },
     {
@@ -83,17 +75,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "The dog was then sent back to the U.S.",
-      "translation": "然后,这只狗被送回美国",
+      "text": "The dog was then sent back to the U.S. on a private charter jet.",
+      "translation": "然后,这只狗被用私人包机送回美国。",
       "start": 98.94,
-      "end": 100.98
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "on a private charter jet.",
-      "translation": "搭乘私人包机",
-      "start": 100.98,
       "end": 102.58
     },
     {
@@ -411,17 +395,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Section B.",
-      "translation": "B节。",
+      "text": "Section B. Directions.",
+      "translation": "B节. 指示。",
       "start": 416.05,
-      "end": 416.79
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Directions.",
-      "translation": "方向",
-      "start": 417.29,
       "end": 417.77
     },
     {
@@ -768,19 +744,10 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Okay, Ms.",
-      "translation": "好的 女士 女士 女士 女士 女士 Okay, Ms.",
+      "text": "Okay, Ms. I've finished calculating.",
+      "translation": "好了,女士,我已经计算好了",
       "start": 652.88,
-      "end": 653.86
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "I've finished calculating.",
-      "translation": "我已经算完了。",
-      "start": 654.0,
-      "end": 656.35,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-1/"
+      "end": 656.35
     },
     {
       "speaker": "听力原声",
@@ -1149,17 +1116,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "After you hear a question, you must choose the best answer from the four choices, marked A, B, C, and D.",
-      "translation": "在听到一个问题后,你必须从四个选择中选择最好的答案,即A、B、C和D。",
+      "text": "After you hear a question, you must choose the best answer from the four choices, marked A, B, C, and D. Then mark the corresponding letter on answer sheet one with a single line through the center.",
+      "translation": "在听到一个问题后,您必须从四个选项中选择最佳答案, 标记为 A、 B、 C 和 D。 然后在答题单一页上用单行通过中心标记相应的字母 。",
       "start": 868.24,
-      "end": 877.12
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Then mark the corresponding letter on answer sheet one with a single line through the center.",
-      "translation": "然后在答题单上用一条线标出相应的字母,通过中心。",
-      "start": 877.76,
       "end": 883.58
     },
     {

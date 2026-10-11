@@ -14,17 +14,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "U.S.",
-      "translation": "美国",
+      "text": "U.S. families are looking to the winter with fear as energy costs soar.",
+      "translation": "美国家庭正担心能源成本会飙升,",
       "start": 40.4,
-      "end": 40.868
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "families are looking to the winter with fear as energy costs soar.",
-      "translation": "随着能源成本的飙升,家庭们正恐惧地看着冬天。",
-      "start": 40.868,
       "end": 46.48
     },
     {
@@ -46,17 +38,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Natural gas is used by nearly half of U.S.",
-      "translation": "美国有近一半的天然气被美国使用。",
+      "text": "Natural gas is used by nearly half of U.S. households for heat.",
+      "translation": "美国近一半的家庭用天然气取暖。",
       "start": 63.15,
-      "end": 66.19
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "households for heat.",
-      "translation": "家庭取暖。",
-      "start": 66.19,
       "end": 67.45
     },
     {
@@ -857,17 +841,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "After you hear a question, you must choose the best answer from the four choices marked A, B, C, and D.",
-      "translation": "在听到一个问题后,你必须从四个选择中选择最好的答案,这四个选择分别是A、B、C和D。",
+      "text": "After you hear a question, you must choose the best answer from the four choices marked A, B, C, and D. Then mark the corresponding letter on answer sheet one.",
+      "translation": "在听到一个问题后,你必须从四个选项中选择最佳答案,四个选项标有A、B、C和D。然后在答题表一上标出相应的字母。",
       "start": 836.63,
-      "end": 844.09
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Then mark the corresponding letter on answer sheet one.",
-      "translation": "然后在回答表一上标出相应的字母。",
-      "start": 844.73,
       "end": 847.65
     },
     {

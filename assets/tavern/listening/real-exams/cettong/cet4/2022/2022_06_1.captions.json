@@ -1137,17 +1137,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Section C.",
-      "translation": "C节。",
+      "text": "Section C. Directions.",
+      "translation": "C节. 指示。",
       "start": 904.65,
-      "end": 905.87
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Directions.",
-      "translation": "方向",
-      "start": 906.8,
       "end": 907.24
     },
     {
@@ -1193,17 +1185,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "C, and D.",
-      "translation": "C,和D., 和D., 和D.",
+      "text": "C, and D. Then mark the corresponding letter on answer sheet one with a single line through",
+      "translation": "C和D. 然后在回答表一上用单行横线标出相应的字母",
       "start": 931.08,
-      "end": 932.14
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Then mark the corresponding letter on answer sheet one with a single line through",
-      "translation": "然后用单行通过",
-      "start": 932.69,
       "end": 938.59
     },
     {

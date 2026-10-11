@@ -937,17 +937,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Section C.",
-      "translation": "C节。",
+      "text": "Section C. Directions.",
+      "translation": "C节. 指示。",
       "start": 819.85,
-      "end": 820.91
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Directions.",
-      "translation": "方向",
-      "start": 821.68,
       "end": 822.1
     },
     {
@@ -1498,17 +1490,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "One study found that people here are less willing to volunteer to help strangers than those residents of other U.S.",
-      "translation": "其中一项研究发现,这里的人 不像其他美国居民 愿意自愿帮助陌生人",
+      "text": "One study found that people here are less willing to volunteer to help strangers than those residents of other U.S. cities.",
+      "translation": "一项研究发现,这里的人比其他美国城市的居民更不愿意自愿帮助陌生人。",
       "start": 1333.33,
-      "end": 1340.75
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "cities.",
-      "translation": "城市。",
-      "start": 1340.75,
       "end": 1341.35
     },
     {
@@ -1546,17 +1530,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Former U.S.",
-      "translation": "前美国",
+      "text": "Former U.S. representative Chester Atkins says it's because the Puritan founding fathers were themselves impatient and bad-tempered, and had little time for courtesy.",
+      "translation": "前美国代表切斯特·阿特金斯(Chester Atkins)说,这是因为清教徒的创始人们 自己很不耐烦,脾气暴躁,",
       "start": 1382.36,
-      "end": 1382.96
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "representative Chester Atkins says it's because the Puritan founding fathers were themselves impatient and bad-tempered, and had little time for courtesy.",
-      "translation": "代表切斯特·阿特金斯说,这是因为 清教徒的创始人 自己是 急躁和坏脾气, 并没有什么时间礼节。",
-      "start": 1382.96,
       "end": 1392.02
     },
     {

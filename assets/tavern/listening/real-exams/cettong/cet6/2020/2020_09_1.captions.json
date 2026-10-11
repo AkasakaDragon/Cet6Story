@@ -644,17 +644,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "marked A, B, C, and D.",
-      "translation": "标记A、B、C和D。",
+      "text": "marked A, B, C, and D. Then marked the corresponding letter on answer sheet one with a single line through the center.",
+      "translation": "然后在答题单上用单行通过中心标出相应的字母。",
       "start": 450.81,
-      "end": 453.47
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Then marked the corresponding letter on answer sheet one with a single line through the center.",
-      "translation": "然后在答题单上用一条线标出相应的字母,通过中心。",
-      "start": 454.45,
       "end": 459.15
     },
     {
@@ -990,17 +982,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Section C.",
-      "translation": "C节。",
+      "text": "Section C. In this section, you will hear three recordings of lectures or talks, followed by three or four questions.",
+      "translation": "C节:在本节中,你将听取三场讲座或会谈录音,然后是三四个问题。",
       "start": 826.6,
-      "end": 827.4
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "In this section, you will hear three recordings of lectures or talks, followed by three or four questions.",
-      "translation": "在本节中,各位将听取三场讲座或会谈录音,然后是三四个问题。",
-      "start": 829.1,
       "end": 835.64
     },
     {

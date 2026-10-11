@@ -214,17 +214,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Only American citizens or permanent U.S.",
-      "translation": "只有美国公民或永久美国公民",
+      "text": "Only American citizens or permanent U.S. residents are acceptable.",
+      "translation": "只有美国公民或美国永久居民是可以接受的。",
       "start": 215.0,
-      "end": 217.8
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "residents are acceptable.",
-      "translation": "居民是可以接受的。",
-      "start": 217.8,
       "end": 219.4
     },
     {
@@ -1405,17 +1397,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Every day at about 1 p.m., everyone faces the same choice: sleep until 2 p.m.",
-      "translation": "每天下午1时左右,每个人都面临相同的选择:睡觉到下午2时。",
+      "text": "Every day at about 1 p.m., everyone faces the same choice: sleep until 2 p.m. and then work until 5, or daydream and drift around social media and attend pointless meetings until 7 p.m.",
+      "translation": "每天下午1时左右,每个人都面临同样的选择:睡觉到下午2时,然后工作到5时,或者做白日梦,在社交媒体周围漂流,出席毫无意义的会议到下午7时。",
       "start": 1304.34,
-      "end": 1309.74
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "and then work until 5, or daydream and drift around social media and attend pointless meetings until 7 p.m.",
-      "translation": "然后工作到5点,或者做白日梦,在社交媒体周围漂流,出席毫无意义的会议,直到晚上7点。",
-      "start": 1309.74,
       "end": 1318.25
     },
     {

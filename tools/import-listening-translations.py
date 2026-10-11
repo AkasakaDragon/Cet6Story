@@ -1,11 +1,13 @@
 """Reuse publicly published bilingual originals where sentence pairing is exact."""
 import concurrent.futures,json,re,time
 from pathlib import Path
+from listening_sentences import sentences as english_sentences
 import requests
 from bs4 import BeautifulSoup
 ROOT=Path(__file__).resolve().parents[1];FOLDER=ROOT/'assets/tavern/listening/real-exams/cettong'
 def sentences(text,chinese=False):
     text=re.sub(r'(?m)^\s*(?:M|W|Man|Woman)\s*:\s*','',text).strip()
+    if not chinese:return english_sentences(text)
     return [s.strip() for s in re.split(r'(?<=[。！？])|(?<=[.!?])\s+' if chinese else r'(?<=[.!?])\s+|\n+',text) if s.strip()]
 def normalize(text):return re.sub(r'[^a-z0-9]','',text.lower())
 def run(exam):

@@ -1,0 +1,44 @@
+{
+  "text": "You can call me Lyse. As for the rest... today I am only here to buy lamp oil. Please keep that to yourself for now. I do not want everyone to hear only my title and ignore what I say. Thank you. Next time, I would still like this seat and a bowl of your soup.",
+  "translation": "叫我莉瑟就好。至于其他的……今天我只是来买灯油。请先替我保密。我不想让每个人都只听见那个身份，而不听我说什么。谢谢。下次我还是想坐今天这个位置，喝你们的汤。",
+  "rate": "-4%",
+  "pitch": "-2Hz",
+  "loudness": "-19 LUFS",
+  "samples": [
+    {
+      "number": 1,
+      "voice": "en-GB-MaisieNeural",
+      "file": "01-Maisie.wav",
+      "seconds": 20.88,
+      "current": false
+    },
+    {
+      "number": 2,
+      "voice": "en-US-JennyNeural",
+      "file": "02-Jenny.wav",
+      "seconds": 19.51,
+      "current": false
+    },
+    {
+      "number": 3,
+      "voice": "en-US-AvaNeural",
+      "file": "03-Ava.wav",
+      "seconds": 17.35,
+      "current": false
+    },
+    {
+      "number": 4,
+      "voice": "en-US-EmmaNeural",
+      "file": "04-Emma.wav",
+      "seconds": 16.97,
+      "current": false
+    },
+    {
+      "number": 5,
+      "voice": "en-GB-LibbyNeural",
+      "file": "05-Libby-当前.wav",
+      "seconds": 21.67,
+      "current": true
+    }
+  ]
+}

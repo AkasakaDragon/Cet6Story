@@ -1015,17 +1015,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Section C.",
-      "translation": "C节。",
+      "text": "Section C. Directions.",
+      "translation": "C节. 指示。",
       "start": 797.08,
-      "end": 797.86
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Directions.",
-      "translation": "方向",
-      "start": 798.34,
       "end": 798.72
     },
     {

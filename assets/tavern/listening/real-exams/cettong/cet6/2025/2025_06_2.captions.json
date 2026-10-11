@@ -372,17 +372,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Ms.",
-      "translation": "女士.",
+      "text": "Ms. Ortega, how would you describe this season's look?",
+      "translation": "Ortega女士,你如何描述这个季节的表情?",
       "start": 246.82,
-      "end": 246.96
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Ortega, how would you describe this season's look?",
-      "translation": "Ortega,你如何形容这个季节的表情?",
-      "start": 246.96,
       "end": 249.96
     },
     {
