@@ -104,6 +104,24 @@
     {
       "speaker": "听力原声",
       "actor": "",
+      "text": "1. What does the news report say about the waiter?",
+      "translation": "第 1 题：新闻报道中关于这位服务员说了什么?",
+      "start": 97.46,
+      "end": 101.997,
+      "questionNumber": 1
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "2. What did the customer try to do when she got her check back?",
+      "translation": "第 2 题：当这位顾客拿回她的账单时,她试图做什么?",
+      "start": 117.14,
+      "end": 122.627,
+      "questionNumber": 2
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
       "text": "The village of Maref in Alaska voted on Tuesday to move to the state's mainland.",
       "translation": "阿拉斯加的Maref村于星期二投票,",
       "start": 140.666,
@@ -188,6 +206,24 @@
       "translation": "2009年,政府问责局报告,阿拉斯加至少有31个村庄因气候变化而面临“即时威胁”。",
       "start": 199.59,
       "end": 208.87
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "3. What is Maref's vote on Tuesday about?",
+      "translation": "第 3 题：Maref在周二的投票是关于什么的?",
+      "start": 217.38,
+      "end": 220.804,
+      "questionNumber": 3
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "4. Why did Donna Barr say they wouldn't see the plan carried out any time soon?",
+      "translation": "第 4 题：为什么Donna Barr说他们不会很快看到该计划得以实施?",
+      "start": 235.78,
+      "end": 242.566,
+      "questionNumber": 4
     },
     {
       "speaker": "听力原声",
@@ -278,6 +314,33 @@
       "start": 330.5,
       "end": 340.06,
       "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "5. What is the purpose of the social experiment?",
+      "translation": "第 5 题：这项社会实验的目的是什么?",
+      "start": 347.53,
+      "end": 350.755,
+      "questionNumber": 5
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "6. What did Steve Foran and his team do in the experiment?",
+      "translation": "第 6 题：Steve Foran和他的团队在实验中做了什么?",
+      "start": 366.09,
+      "end": 372.161,
+      "questionNumber": 6
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "7. What do we learn from the news report?",
+      "translation": "第 7 题：我们从这则新闻报道中了解到什么?",
+      "start": 388.01,
+      "end": 391.913,
+      "questionNumber": 7
     },
     {
       "speaker": "听力原声",
@@ -587,6 +650,42 @@
     {
       "speaker": "听力原声",
       "actor": "",
+      "text": "8. What is the man's purpose for calling the woman?",
+      "translation": "第 8 题：男士打电话给女士的目的是什么?",
+      "start": 548.18,
+      "end": 552.19,
+      "questionNumber": 8
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "9. What do we learn about the man's neighbor from the conversation?",
+      "translation": "第 9 题：从对话中我们了解到关于男士邻居的什么信息?",
+      "start": 567.62,
+      "end": 572.711,
+      "questionNumber": 9
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "10. What is one of the man's chief concerns?",
+      "translation": "第 10 题：男士主要关心的问题之一是什么?",
+      "start": 588.16,
+      "end": 592.441,
+      "questionNumber": 10
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "11. How long will it take a typical household to make back the initial investment?",
+      "translation": "第 11 题：典型家庭需要多长时间收回初始投资?",
+      "start": 607.63,
+      "end": 614.571,
+      "questionNumber": 11
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
       "text": "Conversation 2.",
       "translation": "对话2。",
       "start": 629.79,
@@ -793,6 +892,42 @@
     {
       "speaker": "听力原声",
       "actor": "",
+      "text": "12. Where is the conversation taking place?",
+      "translation": "第 12 题：对话发生在哪里?",
+      "start": 727.27,
+      "end": 731.342,
+      "questionNumber": 12
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "13. Why is the woman interested in package holidays?",
+      "translation": "第 13 题：女士为什么对跟团游感兴趣?",
+      "start": 746.88,
+      "end": 750.895,
+      "questionNumber": 13
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "14. How long does the woman want to go for the holiday?",
+      "translation": "第 14 题：女士想去度假多长时间?",
+      "start": 766.1,
+      "end": 771.008,
+      "questionNumber": 14
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "15. What does the woman say she likes about the holiday package?",
+      "translation": "第 15 题：女士说她喜欢这个度假套餐的什么?",
+      "start": 785.64,
+      "end": 791.487,
+      "questionNumber": 15
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
       "text": "Section C. Directions.",
       "translation": "C节. 指示。",
       "start": 806.65,
@@ -956,7 +1091,34 @@
       "text": "The governor is a determined environmentalist and he has more laws planned to protect the island's waterways, in particular, and to support the introduction of electric vehicles too.",
       "translation": "总督是坚定的环境主义者,他计划制定更多的法律,保护岛上的水道,并支持采用电动车辆。",
       "start": 934.19,
-      "end": 999.7
+      "end": 952.94
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "16. What would tourists have to do when they visit Indonesia's Bali Island?",
+      "translation": "第 16 题：游客在访问印度尼西亚的巴厘岛时必须做什么?",
+      "start": 952.94,
+      "end": 958.711,
+      "questionNumber": 16
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "17. What does the passage say about Indonesia?",
+      "translation": "第 17 题：文章关于印度尼西亚说了什么?",
+      "start": 974.18,
+      "end": 978.801,
+      "questionNumber": 17
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "18. What is the new plan Governor Koster recently announced?",
+      "translation": "第 18 题：Koster省长最近宣布的新计划是什么?",
+      "start": 994.28,
+      "end": 999.56,
+      "questionNumber": 18
     },
     {
       "speaker": "听力原声",
@@ -1061,6 +1223,33 @@
       "translation": "这使陆地观察者能够“对最稀有的海洋哺乳动物之一的不可抵挡的观点” 。没有联邦研究许可 进入1500英尺以内的动物是违法的, 所以鲸鱼观察者不能试图接近鲸鱼。",
       "start": 1098.14,
       "end": 1115.85
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "19. What do we learn from the passage about the North Atlantic right whale?",
+      "translation": "第 19 题：从文章中我们对北大西洋露脊鲸了解到什么?",
+      "start": 1123.19,
+      "end": 1128.973,
+      "questionNumber": 19
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "20. What has caused the decline of the whale population in recent years?",
+      "translation": "第 20 题：是什么导致了近年来鲸鱼种群数量的下降?",
+      "start": 1144.04,
+      "end": 1150.3,
+      "questionNumber": 20
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "21. Why do the whales travel to the Northeast Coast of America in the early spring?",
+      "translation": "第 21 题：为什么鲸鱼在早春时节前往美国东北海岸?",
+      "start": 1165.43,
+      "end": 1172.383,
+      "questionNumber": 21
     },
     {
       "speaker": "听力原声",
@@ -1225,6 +1414,42 @@
     {
       "speaker": "听力原声",
       "actor": "",
+      "text": "22. What does the passage say about Americans?",
+      "translation": "第 22 题：这篇文章关于美国人说了什么?",
+      "start": 1293.34,
+      "end": 1297.751,
+      "questionNumber": 22
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "23. How do Americans and British people think of milk nowadays?",
+      "translation": "第 23 题：美国人和英国人现在如何看待牛奶?",
+      "start": 1312.3,
+      "end": 1319.158,
+      "questionNumber": 23
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "24. Why does drinking milk cause pain in some people?",
+      "translation": "第 24 题：为什么喝牛奶会导致某些人疼痛?",
+      "start": 1333.76,
+      "end": 1339.655,
+      "questionNumber": 24
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "25. What does the passage say is a benefit of milk?",
+      "translation": "第 25 题：这篇文章说牛奶有什么好处?",
+      "start": 1354.16,
+      "end": 1360.196,
+      "questionNumber": 25
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
       "text": "the end of listening comprehension.",
       "translation": "听力理解的结束",
       "start": 1374.63,
@@ -1234,5 +1459,6 @@
   "translation_sources": [
     "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-2/",
     "Sams200/opus-mt-en-zh (unmatched sentences only)"
-  ]
+  ],
+  "question_verification": "All 25 published question prompts located in original audio; numbers and prompts share one replay unit."
 }

@@ -122,10 +122,20 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do we learn about the April contest?",
-      "translation": "我们从四月比赛学到什么?",
+      "text": "1. What does the news report say about Vaclav Bursa and Joanna Stephens?",
+      "translation": "第 1 题：新闻报道中关于Vaclav Bursa和Joanna Stephens说了什么?",
+      "start": 128.37,
+      "end": 134.017,
+      "questionNumber": 1
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "2. What do we learn about the April contest?",
+      "translation": "第 2 题：关于四月的比赛我们了解到什么?",
       "start": 149.83,
-      "end": 152.97
+      "end": 153.477,
+      "questionNumber": 2
     },
     {
       "speaker": "听力原声",
@@ -228,26 +238,20 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do we learn from the news report about Tim Peake?",
-      "translation": "我们从关于蒂姆皮克的新闻报导中了解到什么?",
+      "text": "3. What do we learn from the news report about Tim Peake?",
+      "translation": "第 3 题：从新闻报道中我们了解到关于Tim Peake的什么信息？",
       "start": 244.25,
-      "end": 247.81
+      "end": 248.158,
+      "questionNumber": 3
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 4.",
-      "translation": "问题4",
+      "text": "4. What does Tim Peake say about his work with the European Space Agency?",
+      "translation": "第 4 题：Tim Peake如何评价他在欧洲航天局的工作？",
       "start": 262.68,
-      "end": 263.52
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What does Tim Peake say about his work with the European Space Agency?",
-      "translation": "蒂姆·皮克对他在欧洲航天局的工作怎么说?",
-      "start": 264.18,
-      "end": 268.86
+      "end": 269.333,
+      "questionNumber": 4
     },
     {
       "speaker": "听力原声",
@@ -348,18 +352,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 7.",
-      "translation": "问题7",
-      "start": 413.19,
-      "end": 414.07
+      "text": "5. What do we learn about the five cats seen in the Asda store?",
+      "translation": "第 5 题：关于在Asda商店看到的五只猫，我们了解到什么？",
+      "start": 370.16,
+      "end": 376.109,
+      "questionNumber": 5
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What are customers asked not to do?",
-      "translation": "顾客被要求不做什么?",
-      "start": 414.49,
-      "end": 417.17
+      "text": "6. What did some customers think when they saw the first cat routinely appear in the store?",
+      "translation": "第 6 题：当一些顾客看到第一只猫经常出现在商店时，他们是怎么想的？",
+      "start": 390.22,
+      "end": 398.57,
+      "questionNumber": 6
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "7. What are customers asked not to do?",
+      "translation": "第 7 题：顾客被要求不要做什么？",
+      "start": 413.19,
+      "end": 417.396,
+      "questionNumber": 7
     },
     {
       "speaker": "听力原声",
@@ -630,66 +645,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "8.",
-      "translation": "8. 预 算",
+      "text": "8. What has the woman been thinking of doing next semester?",
+      "translation": "第 8 题：这位女士一直在考虑下学期做什么?",
       "start": 568.27,
-      "end": 568.65
+      "end": 573.407,
+      "questionNumber": 8
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What has the woman been thinking of doing next semester?",
-      "translation": "她下学期想做什么?",
-      "start": 569.35,
-      "end": 572.99
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 9.",
-      "translation": "问题9",
+      "text": "9. What does the man suggest the woman take into consideration?",
+      "translation": "第 9 题：这位男士建议这位女士考虑什么?",
       "start": 587.6,
-      "end": 588.6
+      "end": 593.27,
+      "questionNumber": 9
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the man suggest the woman take into consideration?",
-      "translation": "男人建议女人考虑什么?",
-      "start": 589.1,
-      "end": 592.7
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 10.",
-      "translation": "问题10。",
+      "text": "10. What does the woman say she did during high school?",
+      "translation": "第 10 题：这位女士说她在高中期间做了什么?",
       "start": 607.63,
-      "end": 608.45
+      "end": 612.513,
+      "questionNumber": 10
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the woman say she did during high school?",
-      "translation": "那个女人说她在高中时做了什么?",
-      "start": 608.95,
-      "end": 612.21
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 11.",
-      "translation": "问题11。",
+      "text": "11. What does the man say he'll do at the end of the conversation?",
+      "translation": "第 11 题：这位男士说他在对话结束时会做什么?",
       "start": 626.75,
-      "end": 627.61
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What does the man say he'll do at the end of the conversation?",
-      "translation": "谈话结束时他会怎么说?",
-      "start": 628.25,
-      "end": 631.81
+      "end": 632.26,
+      "questionNumber": 11
     },
     {
       "speaker": "听力原声",
@@ -1072,66 +1059,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 12.",
-      "translation": "问题12。",
+      "text": "12. What is the woman doing?",
+      "translation": "第 12 题：这位女士在做什么?",
       "start": 761.91,
-      "end": 762.59
+      "end": 764.658,
+      "questionNumber": 12
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What is the woman doing?",
-      "translation": "那个女人在干什么?",
-      "start": 763.27,
-      "end": 764.27
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 13.",
-      "translation": "问题13。",
+      "text": "13. How does the man describe Bobo Man, the action figure?",
+      "translation": "第 13 题：这位男士如何描述Bobo Man这个动作人偶?",
       "start": 779.06,
-      "end": 779.92
+      "end": 784.75,
+      "questionNumber": 13
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "How does the man describe Bobo Man?",
-      "translation": "这个人怎么形容波波人?",
-      "start": 780.72,
-      "end": 783.18
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "The action figure.",
-      "translation": "动作图。",
-      "start": 783.64,
-      "end": 784.32
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 14.",
-      "translation": "问题14。",
+      "text": "14. What kind of game does the woman think would be good for Lawrence?",
+      "translation": "第 14 题：这位女士认为什么样的游戏适合Lawrence?",
       "start": 799.17,
-      "end": 799.99
+      "end": 805.071,
+      "questionNumber": 14
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What kind of game does the woman think would be good for Lawrence?",
-      "translation": "那个女人认为什么样的游戏对劳伦斯有好处?",
-      "start": 800.63,
-      "end": 804.45
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 15 What do we learn from the conversation about the game battleships?",
-      "translation": "问题15 我们从关于比赛战舰的谈话中 学到了什么?",
+      "text": "15. What do we learn from the conversation about the game Battleships?",
+      "translation": "第 15 题：从对话中我们了解到关于Battleships这个游戏的什么信息?",
       "start": 819.19,
-      "end": 824.77
+      "end": 825.231,
+      "questionNumber": 15
     },
     {
       "speaker": "听力原声",
@@ -1300,50 +1259,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "16.",
-      "translation": "16岁。",
+      "text": "16. What do we learn from the passage about the paradox of choice?",
+      "translation": "第 16 题：从文章中我们对选择悖论了解到什么?",
       "start": 979.14,
-      "end": 979.84
+      "end": 984.618,
+      "questionNumber": 16
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do we learn from the passage about the paradox of choice?",
-      "translation": "我们从关于选择悖论的段落中学到什么?",
-      "start": 980.8,
-      "end": 984.06
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 17.",
-      "translation": "问题17。",
+      "text": "17. What did the psychologists want to find out in their 2012 study about jams?",
+      "translation": "第 17 题：心理学家在2012年关于果酱的研究中想要弄清楚什么?",
       "start": 998.78,
-      "end": 999.72
+      "end": 1006.207,
+      "questionNumber": 17
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What did the psychologist want to find out in their 2012 study about JMs?",
-      "translation": "心理学家在2012年关于JMs的研究中想了解什么?",
-      "start": 1000.5,
-      "end": 1005.78
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 18.",
-      "translation": "问题18。",
+      "text": "18. What is the finding of an extensive study published in 2015?",
+      "translation": "第 18 题：2015年发表的一项广泛研究有什么发现?",
       "start": 1020.58,
-      "end": 1021.26
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What is the finding of an extensive study published in 2015?",
-      "translation": "2015年发表的一份广泛研究报告的调查结果是什么?",
-      "start": 1022.0,
-      "end": 1026.4
+      "end": 1026.994,
+      "questionNumber": 18
     },
     {
       "speaker": "听力原声",
@@ -1443,7 +1381,34 @@
       "text": "In one survey, 89% of employees perceived companies that sponsored volunteer activities as creating a better working environment, and 75% said volunteering was critical to their well-being.",
       "translation": "在一次调查中,89%的雇员认为赞助志愿活动的公司创造了更好的工作环境,75%的雇员认为志愿工作对其福祉至关重要。",
       "start": 1138.27,
-      "end": 1207.666
+      "end": 1159.79
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "19. What do many Americans think of volunteering?",
+      "translation": "第 19 题：许多美国人如何看待志愿服务?",
+      "start": 1159.79,
+      "end": 1164.564,
+      "questionNumber": 19
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "20. How could companies ensure both employees and employers benefit from volunteering?",
+      "translation": "第 20 题：公司如何确保员工和雇主都能从志愿服务中受益?",
+      "start": 1178.89,
+      "end": 1186.426,
+      "questionNumber": 20
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "21. What did 75% of employees say about volunteering in a survey?",
+      "translation": "第 21 题：在一项调查中,75%的员工对志愿服务有何评价?",
+      "start": 1200.74,
+      "end": 1207.818,
+      "questionNumber": 21
     },
     {
       "speaker": "听力原声",
@@ -1584,34 +1549,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do we learn about the UK's retail sector food waste?",
-      "translation": "英国零售部门食品浪费情况如何?",
+      "text": "22. What do we learn about the UK's retail sector food waste?",
+      "translation": "第 22 题：关于英国零售业食品浪费,我们了解到什么?",
       "start": 1341.98,
-      "end": 1345.92
+      "end": 1346.402,
+      "questionNumber": 22
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 23 What does Sophie Andres business do in London?",
-      "translation": "问题23 Sophie Andres在伦敦做生意做什么?",
+      "text": "23. What does Sophie André's business do in London?",
+      "translation": "第 23 题：Sophie André的企业在伦敦做什么?",
       "start": 1360.74,
-      "end": 1366.2
+      "end": 1366.516,
+      "questionNumber": 23
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 24 In what way does Sophie Andres business differ from many food waste projects?",
-      "translation": "问题24:Sophie Andres企业与许多食品废物项目有何不同?",
+      "text": "24. In what way does Sophie André's business differ from many food waste projects?",
+      "translation": "第 24 题：Sophie André的企业在哪些方面不同于许多食品废弃物项目?",
       "start": 1380.82,
-      "end": 1388.2
+      "end": 1388.611,
+      "questionNumber": 24
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 25 Why will suppliers always have a certain amount of surplus?",
-      "translation": "问题25:为什么供应商总是有一定数量的剩余?",
+      "text": "25. Why will suppliers always have a certain amount of surplus?",
+      "translation": "第 25 题：为什么供应商总会有一定数量的剩余?",
       "start": 1402.96,
-      "end": 1408.08
+      "end": 1408.735,
+      "questionNumber": 25
     },
     {
       "speaker": "听力原声",
@@ -1625,5 +1594,6 @@
   "translation_sources": [
     "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-2/",
     "Sams200/opus-mt-en-zh (unmatched sentences only)"
-  ]
+  ],
+  "question_verification": "All 25 published question prompts located in original audio; numbers and prompts share one replay unit."
 }

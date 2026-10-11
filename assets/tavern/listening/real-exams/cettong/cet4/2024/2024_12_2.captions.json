@@ -106,6 +106,24 @@
     {
       "speaker": "听力原声",
       "actor": "",
+      "text": "1. Why are families across the U.S. looking to this winter with fear?",
+      "translation": "第 1 题：为什么全美各地的家庭对今冬感到恐惧?",
+      "start": 119.27,
+      "end": 131.145,
+      "questionNumber": 1
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "2. What did the federal government do last month?",
+      "translation": "第 2 题：联邦政府上个月做了什么?",
+      "start": 145.67,
+      "end": 151.621,
+      "questionNumber": 2
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
       "text": "Many Americans think they make healthy food choices, but they may be viewing their diet too optimistically.",
       "translation": "许多美国人认为他们做出了健康的食品选择, 但他们可能过于乐观地看待他们的饮食。",
       "start": 168.466,
@@ -204,15 +222,25 @@
       "text": "You have just heard Question three what is the main finding of a new study about many Americans?",
       "translation": "你刚刚听到问题三,关于许多美国人的新研究的主要结论是什么?",
       "start": 243.0,
-      "end": 249.6
+      "end": 245.36
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question four Who tended to rate their diet more accurately in the survey news",
-      "translation": "问题四:在调查新闻中,谁倾向于更准确地评分他们的饮食",
-      "start": 265.44,
-      "end": 271.5
+      "text": "3. What is the main finding of a new study about many Americans?",
+      "translation": "第 3 题：一项关于许多美国人的新研究的主要发现是什么?",
+      "start": 245.36,
+      "end": 250.144,
+      "questionNumber": 3
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "4. Who tended to rate their diet more accurately in the survey?",
+      "translation": "第 4 题：在调查中,谁倾向于更准确地评价自己的饮食?",
+      "start": 266.16,
+      "end": 270.744,
+      "questionNumber": 4
     },
     {
       "speaker": "听力原声",
@@ -293,6 +321,33 @@
       "start": 339.15,
       "end": 346.93,
       "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "5. What does the report say dozens of Indians did last week?",
+      "translation": "第 5 题：报道称上周有数十名印度人做了什么?",
+      "start": 354.7,
+      "end": 359.371,
+      "questionNumber": 5
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "6. Why did the army officers call the local forest department?",
+      "translation": "第 6 题：军官们为什么给当地林业部门打电话?",
+      "start": 373.98,
+      "end": 380.295,
+      "questionNumber": 6
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "7. What does the news report say happened finally?",
+      "translation": "第 7 题：新闻报道称最终发生了什么?",
+      "start": 394.88,
+      "end": 400.393,
+      "questionNumber": 7
     },
     {
       "speaker": "听力原声",
@@ -516,66 +571,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "8.",
-      "translation": "8. 预 算",
+      "text": "8. Why has the man stopped paying online for the last three months?",
+      "translation": "第 8 题：为什么这位男士在过去三个月里停止了网上支付?",
       "start": 547.02,
-      "end": 547.42
+      "end": 552.434,
+      "questionNumber": 8
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Why has the man stopped paying online for the last three months?",
-      "translation": "为什么过去三个月里他不再在线支付?",
-      "start": 548.1,
-      "end": 551.98
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "9.",
-      "translation": "9. 国家",
+      "text": "9. What problem does the woman say she may also have?",
+      "translation": "第 9 题：这位女士说她可能也有什么问题?",
       "start": 568.03,
-      "end": 568.73
+      "end": 572.835,
+      "questionNumber": 9
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What problem does the woman say she may also have?",
-      "translation": "女人说她可能也有什么问题?",
-      "start": 569.29,
-      "end": 572.49
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 10.",
-      "translation": "问题10。",
+      "text": "10. What does the man say he could do at the canteen?",
+      "translation": "第 10 题：这位男士说他在食堂可以做什么?",
       "start": 588.14,
-      "end": 589.16
+      "end": 593.125,
+      "questionNumber": 10
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the man say he could do at the canteen?",
-      "translation": "那男人在食堂能做什么?",
-      "start": 589.84,
-      "end": 592.8
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 11.",
-      "translation": "问题11。",
+      "text": "11. What is now just a habit for the man?",
+      "translation": "第 11 题：现在对这位男士来说什么只是一种习惯?",
       "start": 608.57,
-      "end": 609.51
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What is now just a habit for the man?",
-      "translation": "现在男人的习惯是什么?",
-      "start": 610.25,
-      "end": 612.81
+      "end": 613.043,
+      "questionNumber": 11
     },
     {
       "speaker": "听力原声",
@@ -745,66 +772,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "12.",
-      "translation": "12. 十二、结 论",
+      "text": "12. Why is the woman opposed to their son joining a sport like soccer?",
+      "translation": "第 12 题：为什么这位女士反对他们的儿子参加像足球这样的运动?",
       "start": 736.9,
-      "end": 737.56
+      "end": 742.687,
+      "questionNumber": 12
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Why is the woman opposed to their son joining a sport like soccer?",
-      "translation": "为什么这个女人反对儿子参加足球运动?",
-      "start": 738.42,
-      "end": 742.24
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "13.",
-      "translation": "13 号",
+      "text": "13. What does the man suggest their son try in order to understand team spirit?",
+      "translation": "第 13 题：这位男士建议他们的儿子尝试什么来理解团队精神?",
       "start": 758.35,
-      "end": 759.03
+      "end": 764.904,
+      "questionNumber": 13
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the man suggest their son try in order to understand team spirit?",
-      "translation": "他儿子为了理解团队精神 打算尝试什么?",
-      "start": 759.87,
-      "end": 764.51
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 14.",
-      "translation": "问题14。",
+      "text": "14. What is one of the woman's considerations in choosing a sport for her son?",
+      "translation": "第 14 题：这位女士为儿子选择运动时的考虑因素之一是什么?",
       "start": 780.55,
-      "end": 781.51
+      "end": 786.541,
+      "questionNumber": 14
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What is one of the woman's considerations in choosing a sport for her son?",
-      "translation": "妇女为儿子选择运动的考虑之一是什么?",
-      "start": 781.97,
-      "end": 786.25
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 15.",
-      "translation": "问题15。",
+      "text": "15. What does the man say about beach volleyball?",
+      "translation": "第 15 题：这位男士关于沙滩排球说了什么?",
       "start": 802.01,
-      "end": 802.97
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What does the man say about beach volleyball?",
-      "translation": "他对海滩排球怎么说?",
-      "start": 803.44,
-      "end": 805.88
+      "end": 806.454,
+      "questionNumber": 15
     },
     {
       "speaker": "听力原声",
@@ -1000,10 +999,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the passage say we already have regarding space flight?",
-      "translation": "关于太空飞行 通道上写着什么?",
+      "text": "16. What do we learn from the passage about the lift-off of spacecraft?",
+      "translation": "第 16 题：从文章中我们了解到关于航天器升空的什么信息？",
+      "start": 970.56,
+      "end": 976.452,
+      "questionNumber": 16
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "17. What happens traditionally to boosters, fuel tanks and other components in spaceflight?",
+      "translation": "第 17 题：在太空飞行中，助推器、燃料箱和其他部件传统上会怎样处理？",
+      "start": 991.22,
+      "end": 1000.277,
+      "questionNumber": 17
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "18. What does the passage say we already have regarding spaceflight?",
+      "translation": "第 18 题：文章说我们在太空飞行方面已经拥有什么？",
       "start": 1017.18,
-      "end": 1021.62
+      "end": 1022.039,
+      "questionNumber": 18
     },
     {
       "speaker": "听力原声",
@@ -1132,50 +1150,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 19.",
-      "translation": "问题19。",
+      "text": "19. What does research show about reading to a loyal and nonjudgmental companion?",
+      "translation": "第 19 题：研究表明,向一个忠诚且不评判的伙伴阅读会产生什么效果?",
       "start": 1148.62,
-      "end": 1149.64
+      "end": 1156.116,
+      "questionNumber": 19
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does research show about reading to a loyal and non-judgmental companion?",
-      "translation": "研究显示 读物给忠诚且无偏见的伴侣 有何意义?",
-      "start": 1150.52,
-      "end": 1155.7
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 20.",
-      "translation": "问题20。",
+      "text": "20. How can parents make pets a fantastic subject for their children's research and learning?",
+      "translation": "第 20 题：家长如何使宠物成为孩子研究和学习的绝佳对象?",
       "start": 1171.69,
-      "end": 1172.55
+      "end": 1179.278,
+      "questionNumber": 20
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "How can parents make pets a fantastic subject for their children's research and learning?",
-      "translation": "父母如何能让宠物成为其子女研究和学习的绝佳主题?",
-      "start": 1173.17,
-      "end": 1178.99
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 21.",
-      "translation": "问题21",
+      "text": "21. How can children still benefit even when their family doesn't have a pet?",
+      "translation": "第 21 题：即使家里没有宠物,孩子如何仍能从中受益?",
       "start": 1194.97,
-      "end": 1195.85
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "How can children still benefit even when their family doesn't have a pet?",
-      "translation": "即使家人没有宠物,儿童又怎能受益呢?",
-      "start": 1196.33,
-      "end": 1201.63
+      "end": 1201.981,
+      "questionNumber": 21
     },
     {
       "speaker": "听力原声",
@@ -1323,74 +1320,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "22.",
-      "translation": "22. 妇女 22",
+      "text": "22. What would the new bill in the Ohio legislature require public colleges and universities to do?",
+      "translation": "第 22 题：俄亥俄州立法机构的新法案将要求公立学院和大学做什么?",
       "start": 1331.64,
-      "end": 1332.2
+      "end": 1339.684,
+      "questionNumber": 22
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What would the new bill in the Ohio legislature?",
-      "translation": "俄亥俄州立法机构的新法案会是什么?",
-      "start": 1333.16,
-      "end": 1335.52
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "require public colleges and universities to do.",
-      "translation": "要求公立学院和大学这样做。",
-      "start": 1336.06,
-      "end": 1339.36
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 23.",
-      "translation": "问题23。",
+      "text": "23. What can the state only do according to Adam Mathews?",
+      "translation": "第 23 题：根据Adam Mathews的说法,州政府只能做什么?",
       "start": 1355.22,
-      "end": 1356.12
+      "end": 1361.034,
+      "questionNumber": 23
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What can the state only do according to Adam Matthews?",
-      "translation": "国家只能按照亚当·马修斯的说法做什么?",
-      "start": 1356.9,
-      "end": 1360.48
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 24.",
-      "translation": "问题24。",
+      "text": "24. What do we learn about Ohio's schools from the passage?",
+      "translation": "第 24 题：从文章中我们对俄亥俄州的学校了解到什么?",
       "start": 1376.59,
-      "end": 1377.59
+      "end": 1382.324,
+      "questionNumber": 24
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do we learn about Ohio schools from the passage?",
-      "translation": "俄亥俄州学校在通道上学到什么?",
-      "start": 1378.33,
-      "end": 1381.81
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 25.",
-      "translation": "问题25。",
+      "text": "25. What is the problem with schools providing information on their websites?",
+      "translation": "第 25 题：学校在其网站上提供信息存在什么问题?",
       "start": 1397.96,
-      "end": 1399.16
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What is the problem with schools providing information on their websites?",
-      "translation": "学校在其网站上提供信息有什么问题?",
-      "start": 1399.78,
-      "end": 1403.9
+      "end": 1404.699,
+      "questionNumber": 25
     },
     {
       "speaker": "听力原声",
@@ -1404,5 +1365,6 @@
   "translation_sources": [
     "https://english-exam.lazynote.cn/cet4/sections/listening/2024-12-2/",
     "Sams200/opus-mt-en-zh (unmatched sentences only)"
-  ]
+  ],
+  "question_verification": "All 25 published question prompts located in original audio; numbers and prompts share one replay unit."
 }

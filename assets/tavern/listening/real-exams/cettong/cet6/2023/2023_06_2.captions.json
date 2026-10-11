@@ -256,18 +256,20 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question one, why does the woman wish to study architecture?",
-      "translation": "问题一,为什么该妇女想学习建筑?",
-      "start": 156.36,
-      "end": 160.1
+      "text": "1. Why does the woman wish to study architecture?",
+      "translation": "第 1 题：这位女士为什么希望学习建筑学?",
+      "start": 157.34,
+      "end": 160.848,
+      "questionNumber": 1
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question two, how does the woman say she will overcome the difficulty in learning mathematics?",
-      "translation": "问题二,该妇女如何说她将克服数学学习的困难?",
-      "start": 174.33,
-      "end": 179.96
+      "text": "2. How does the woman say she will overcome the difficulty in learning mathematics?",
+      "translation": "第 2 题：这位女士说她将如何克服学习数学的困难?",
+      "start": 175.56,
+      "end": 180.681,
+      "questionNumber": 2
     },
     {
       "speaker": "听力原声",
@@ -280,18 +282,20 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the man say about architects' contribution to a city?",
-      "translation": "建筑师对城市的贡献怎么说?",
+      "text": "3. What does the man say about architects' contribution to a city?",
+      "translation": "第 3 题：这位男士对建筑师对城市的贡献有何看法?",
       "start": 195.29,
-      "end": 199.87
+      "end": 200.119,
+      "questionNumber": 3
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question four, what subject does the man suggest the woman start with?",
-      "translation": "问题四 男性建议女性从哪个主题开始?",
-      "start": 213.52,
-      "end": 218.58
+      "text": "4. What subject does the man suggest the woman start with?",
+      "translation": "第 4 题：这位男士建议这位女士从什么科目开始学习?",
+      "start": 214.94,
+      "end": 218.671,
+      "questionNumber": 4
     },
     {
       "speaker": "听力原声",
@@ -528,66 +532,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 5.",
-      "translation": "问题5",
+      "text": "5. What do we learn from the conversation about Mr. Sanchez?",
+      "translation": "第 5 题：从对话中我们了解到关于桑切斯先生的什么信息?",
       "start": 356.89,
-      "end": 357.71
+      "end": 361.783,
+      "questionNumber": 5
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do we learn from the conversation about Mr. Sanchez?",
-      "translation": "我们从关于桑切斯先生的谈话中学到什么?",
-      "start": 358.23,
-      "end": 361.23
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 6.",
-      "translation": "问题6",
+      "text": "6. What will the man do if he gets the job?",
+      "translation": "第 6 题：如果男士得到这份工作,他会做什么?",
       "start": 374.95,
-      "end": 376.01
+      "end": 379.334,
+      "questionNumber": 6
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What will the man do if he gets the job?",
-      "translation": "男人如果得到这份工作会怎么做?",
-      "start": 376.69,
-      "end": 379.07
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 7.",
-      "translation": "问题7",
+      "text": "7. What does the man say about himself?",
+      "translation": "第 7 题：男士如何评价自己?",
       "start": 392.68,
-      "end": 393.56
+      "end": 396.561,
+      "questionNumber": 7
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the man say about himself?",
-      "translation": "他对自己说了什么?",
-      "start": 394.24,
-      "end": 396.14
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 8.",
-      "translation": "问题8",
+      "text": "8. Why does the man think he is a very competitive candidate?",
+      "translation": "第 8 题：男士为什么认为自己是一位非常有竞争力的候选人?",
       "start": 410.1,
-      "end": 410.82
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Why does the man think he is a very competitive candidate?",
-      "translation": "为什么他觉得自己是个竞争激烈的候选人?",
-      "start": 411.34,
-      "end": 414.58
+      "end": 414.967,
+      "questionNumber": 8
     },
     {
       "speaker": "听力原声",
@@ -758,34 +734,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 10.",
-      "translation": "问题10。",
-      "start": 592.78,
-      "end": 593.72
+      "text": "9. Why do extreme sports appeal to many kids?",
+      "translation": "第 9 题：为什么极限运动对许多孩子有吸引力?",
+      "start": 575.2,
+      "end": 579.682,
+      "questionNumber": 9
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "does a speaker say about risk-free activities?",
-      "translation": "一位发言者是否提到无风险活动?",
-      "start": 594.64,
-      "end": 598.12
+      "text": "10. What does the speaker say about risk-free activities?",
+      "translation": "第 10 题：说话者对无风险活动有何看法?",
+      "start": 592.36,
+      "end": 598.557,
+      "questionNumber": 10
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 11.",
-      "translation": "问题11。",
+      "text": "11. What should parents do if they decide adventure sports are a bit too much for their kids?",
+      "translation": "第 11 题：如果父母认为冒险运动对他们的孩子来说有点过于激烈,他们应该怎么做?",
       "start": 611.86,
-      "end": 612.68
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What should parents do if they decide adventure sports are a bit too much for their kids?",
-      "translation": "如果父母认为冒险运动对孩子来说太过分,",
-      "start": 613.18,
-      "end": 618.8
+      "end": 619.141,
+      "questionNumber": 11
     },
     {
       "speaker": "听力原声",
@@ -963,71 +934,43 @@
       "text": "Questions 12-15 are based on the passage you have just heard.",
       "translation": "问题12 -15是基于你刚才听到的段落",
       "start": 762.63,
-      "end": 766.91
+      "end": 766.93
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "12.",
-      "translation": "12. 十二、结 论",
-      "start": 767.89,
-      "end": 768.53
+      "text": "12. Why do new tech products soon become waste?",
+      "translation": "第 12 题：为什么新科技产品很快就会变成废弃物?",
+      "start": 766.93,
+      "end": 772.603,
+      "questionNumber": 12
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "did new tech products soon become waste?",
-      "translation": "新的科技产品是否很快变成废物?",
-      "start": 769.39,
-      "end": 772.09
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 13.",
-      "translation": "问题13。",
+      "text": "13. What did the French government require tech companies to do to help consumers make better choices?",
+      "translation": "第 13 题：法国政府要求科技公司做什么来帮助消费者做出更好的选择?",
       "start": 786.03,
-      "end": 786.97
+      "end": 794.006,
+      "questionNumber": 13
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What did the French government require tech companies to do to help consumers make better choices?",
-      "translation": "法国政府要求科技公司做什么来帮助消费者做出更好的选择?",
-      "start": 787.59,
-      "end": 793.53
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "14.",
-      "translation": "14. 14个",
+      "text": "14. What should tech companies do to help ensure environmental sustainability?",
+      "translation": "第 14 题：科技公司应该做什么来帮助确保环境可持续性?",
       "start": 807.63,
-      "end": 808.35
+      "end": 814.564,
+      "questionNumber": 14
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What should tech companies do to help ensure environmental sustainability?",
-      "translation": "技术公司应做些什么来帮助确保环境可持续性?",
-      "start": 808.79,
-      "end": 813.73
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 15.",
-      "translation": "问题15。",
+      "text": "15. What does the speaker think of the problem of waste?",
+      "translation": "第 15 题：说话者对废弃物问题有什么看法?",
       "start": 827.88,
-      "end": 828.76
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What does the speaker think of the problem of waste?",
-      "translation": "发言者对浪费问题有何看法?",
-      "start": 829.32,
-      "end": 832.22
+      "end": 832.738,
+      "questionNumber": 15
     },
     {
       "speaker": "听力原声",
@@ -1254,8 +1197,35 @@
       "text": "We believe a bit of online shopping or surfing the internet at work could make workers more productive in the long run.",
       "translation": "我们认为，在工作中进行一些在线购物或浏览互联网，从长远来看可能会让员工更具生产力。",
       "start": 1066.91,
-      "end": 1096.1,
+      "end": 1080.61,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "16. What does most cyberloafing research focus on?",
+      "translation": "第 16 题：大多数网络闲逛研究关注什么?",
+      "start": 1080.61,
+      "end": 1085.651,
+      "questionNumber": 16
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "17. What was the hypothesis of the speaker's research team?",
+      "translation": "第 17 题：研究团队的假设是什么?",
+      "start": 1098.23,
+      "end": 1103.961,
+      "questionNumber": 17
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "18. On what point do the results of the speaker's study agree with other recent research?",
+      "translation": "第 18 题：研究结果在哪一点上与其他近期研究一致?",
+      "start": 1116.75,
+      "end": 1124.376,
+      "questionNumber": 18
     },
     {
       "speaker": "听力原声",
@@ -1457,59 +1427,37 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the speakers say about Nebraska City in 1854 when Julius Morton moved there?",
-      "translation": "1854年朱利叶斯·莫顿搬到内布拉斯加州时,",
+      "text": "19. What does the speaker say about Nebraska City in 1854 when Julius Morton moved there?",
+      "translation": "第 19 题：说话者关于1854年Julius Morton搬到那里时的Nebraska City说了什么?",
       "start": 1325.46,
-      "end": 1331.54
+      "end": 1331.665,
+      "questionNumber": 19
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 20.",
-      "translation": "问题20。",
+      "text": "20. What did Julius Morton do that increased his influence in Nebraska City?",
+      "translation": "第 20 题：Julius Morton做了什么增加了他在Nebraska City的影响力?",
       "start": 1344.93,
-      "end": 1345.63
+      "end": 1351.214,
+      "questionNumber": 20
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What did Julius Morton do that increased his influence in Nebraska City?",
-      "translation": "朱利叶斯·莫顿在内布拉斯加州市 有何影响力?",
-      "start": 1346.61,
-      "end": 1351.01
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 21.",
-      "translation": "问题21",
+      "text": "21. What does the speaker say happened on April 10, 1872?",
+      "translation": "第 21 题：说话者说1872年4月10日发生了什么?",
       "start": 1364.52,
-      "end": 1365.34
+      "end": 1371.013,
+      "questionNumber": 21
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the speaker say happened on April 10th, 1872?",
-      "translation": "1872年4月10日发生什么了?",
-      "start": 1366.12,
-      "end": 1370.54
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "3.",
-      "translation": "3 个",
-      "start": 1384.69,
-      "end": 1385.07
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Modern humans arose in Africa about 200,000 years ago.",
+      "text": "3. Modern humans arose in Africa about 200,000 years ago.",
       "translation": "现代人类在大约20万年前起源于非洲。",
-      "start": 1386.58,
-      "end": 1390.76,
-      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/"
+      "start": 1384.69,
+      "end": 1390.76
     },
     {
       "speaker": "听力原声",
@@ -1702,66 +1650,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "22.",
-      "translation": "22. 妇女 22",
+      "text": "22. What do we learn about modern humans according to the hypothesis commonly accepted in the 1990s?",
+      "translation": "第 22 题：根据20世纪90年代普遍接受的假说，我们对现代人类有何了解？",
       "start": 1570.36,
-      "end": 1571.24
+      "end": 1578.506,
+      "questionNumber": 22
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do we learn about modern humans according to the hypothesis commonly accepted in the 1990s?",
-      "translation": "根据1990年代普遍接受的假设,我们如何了解现代人类?",
-      "start": 1572.02,
-      "end": 1578.4
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "23.",
-      "translation": "23 号",
+      "text": "23. What has called into question the \"Out of Africa\" model?",
+      "translation": "第 23 题：什么对\"走出非洲\"模型提出了质疑？",
       "start": 1592.0,
-      "end": 1592.74
+      "end": 1597.22,
+      "questionNumber": 23
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What has called into question the out of Africa model?",
-      "translation": "是什么让非洲以外的模式受到质疑?",
-      "start": 1593.6,
-      "end": 1596.8
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "24.",
-      "translation": "24. 24个",
+      "text": "24. What does the speaker want to show with the example of some monkeys in Africa?",
+      "translation": "第 24 题：讲话者想通过非洲某些猴子的例子说明什么？",
       "start": 1610.66,
-      "end": 1611.58
+      "end": 1617.331,
+      "questionNumber": 24
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the speaker want to show with the example of some monkeys in Africa?",
-      "translation": "发言人想用非洲一些猴子的例子来说明什么?",
-      "start": 1612.22,
-      "end": 1616.9
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "25.",
-      "translation": "25个",
+      "text": "25. What question does the speaker raise close to the end of the talk?",
+      "translation": "第 25 题：讲话者在讲话接近尾声时提出了什么问题？",
       "start": 1631.06,
-      "end": 1631.86
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What question does the speaker raise close to the end of the talk?",
-      "translation": "发言者在发言接近尾声时提出了什么问题?",
-      "start": 1632.35,
-      "end": 1636.27
+      "end": 1636.619,
+      "questionNumber": 25
     },
     {
       "speaker": "听力原声",
@@ -1775,5 +1695,6 @@
   "translation_sources": [
     "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-2/",
     "Sams200/opus-mt-en-zh (unmatched sentences only)"
-  ]
+  ],
+  "question_verification": "All 25 published question prompts located in original audio; numbers and prompts share one replay unit."
 }

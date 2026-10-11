@@ -89,8 +89,26 @@
       "text": "But this was the first instance of a snake in recent years.",
       "translation": "但这是近年来首次出现蛇的情况。",
       "start": 84.5,
-      "end": 123.7,
+      "end": 94.31,
       "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "1. What do we learn from the police report?",
+      "translation": "第 1 题：我们从警方报告中了解到什么?",
+      "start": 94.31,
+      "end": 97.401,
+      "questionNumber": 1
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "2. What does the report say was still unclear?",
+      "translation": "第 2 题：报告称什么仍不清楚?",
+      "start": 112.01,
+      "end": 116.367,
+      "questionNumber": 2
     },
     {
       "speaker": "听力原声",
@@ -190,6 +208,24 @@
       "start": 198.71,
       "end": 204.75,
       "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2023-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "3. What has Andrea Belcher been doing since last April?",
+      "translation": "第 3 题：自去年四月以来，Andrea Belcher 一直在做什么?",
+      "start": 211.01,
+      "end": 215.994,
+      "questionNumber": 3
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "4. Why has Andrea Belcher kept up her videos?",
+      "translation": "第 4 题：为什么 Andrea Belcher 一直坚持制作她的视频?",
+      "start": 230.58,
+      "end": 235.918,
+      "questionNumber": 4
     },
     {
       "speaker": "听力原声",
@@ -300,18 +336,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 7.",
-      "translation": "问题7",
-      "start": 374.42,
-      "end": 375.6
+      "text": "5. What can people do at Frank's restaurant?",
+      "translation": "第 5 题：人们在Frank餐厅可以做什么?",
+      "start": 333.67,
+      "end": 337.724,
+      "questionNumber": 5
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What has happened at Frank's restaurant since the board of free meals was created?",
-      "translation": "自从免费膳食董事会成立后 Frank餐厅发生了什么?",
-      "start": 376.2,
-      "end": 380.74
+      "text": "6. What does the owner of the restaurant say about the idea for the board of free meals?",
+      "translation": "第 6 题：餐厅老板对免费餐食公告板这个想法是怎么说的?",
+      "start": 352.64,
+      "end": 359.33,
+      "questionNumber": 6
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "7. What has happened at Frank's restaurant since the board of free meals was created?",
+      "translation": "第 7 题：自从免费餐食公告板创建以来,Frank餐厅发生了什么?",
+      "start": 374.42,
+      "end": 381.034,
+      "questionNumber": 7
     },
     {
       "speaker": "听力原声",
@@ -633,26 +680,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "How do children with an anxious attachment style react to a breakdown in their relationship with parents?",
-      "translation": "有焦虑的依恋风格的儿童如何对父母关系破裂作出反应?",
+      "text": "8. What do we learn about the man?",
+      "translation": "第 8 题：关于这位男士我们了解到什么?",
+      "start": 551.13,
+      "end": 554.26,
+      "questionNumber": 8
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "9. What are the speakers mainly talking about?",
+      "translation": "第 9 题：说话者主要在谈论什么?",
+      "start": 568.93,
+      "end": 573.808,
+      "questionNumber": 9
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "10. How do children with an anxious attachment style react to a breakdown in their relationship with parents?",
+      "translation": "第 10 题：具有焦虑型依恋风格的儿童如何应对与父母关系的破裂?",
       "start": 590.34,
-      "end": 597.22
+      "end": 597.68,
+      "questionNumber": 10
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 11.",
-      "translation": "问题11。",
+      "text": "11. What does the man say about insecurely attached people?",
+      "translation": "第 11 题：这位男士关于不安全依恋型的人说了什么?",
       "start": 612.88,
-      "end": 613.64
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What does the man say about insecurely attached people?",
-      "translation": "这个人对不安全感的人怎么说?",
-      "start": 614.4,
-      "end": 617.68
+      "end": 617.848,
+      "questionNumber": 11
     },
     {
       "speaker": "听力原声",
@@ -980,10 +1039,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 15 What does the man say about Japanese jeans at the end of the conversation?",
-      "translation": "问题15 男人在谈话结束时怎么说日本牛仔裤?",
+      "text": "12. What makes the man choose to buy jeans made in Japan?",
+      "translation": "第 12 题：是什么让这位男士选择购买日本制造的牛仔裤?",
+      "start": 745.76,
+      "end": 750.081,
+      "questionNumber": 12
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "13. Why is the woman puzzled by the man's request?",
+      "translation": "第 13 题：为什么这位女士对男士的要求感到困惑?",
+      "start": 764.94,
+      "end": 770.444,
+      "questionNumber": 13
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "14. What does the man say about the dyes of Japanese jeans?",
+      "translation": "第 14 题：关于日本牛仔裤的染料,男士说了什么?",
+      "start": 785.18,
+      "end": 792.27,
+      "questionNumber": 14
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "15. What does the man say about Japanese jeans at the end of the conversation?",
+      "translation": "第 15 题：在对话结束时,男士对日本牛仔裤说了什么?",
       "start": 807.47,
-      "end": 814.39
+      "end": 814.797,
+      "questionNumber": 15
     },
     {
       "speaker": "听力原声",
@@ -1193,50 +1280,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 16.",
-      "translation": "问题16。",
+      "text": "16. How does the speaker feel every time he walks out of a superhero movie?",
+      "translation": "第 16 题：说话者每次走出超级英雄电影院时感觉如何？",
       "start": 972.01,
-      "end": 972.79
+      "end": 978.359,
+      "questionNumber": 16
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "How does the speaker feel every time he walks out of a superhero movie?",
-      "translation": "演讲者每次走出超级英雄电影时 感觉如何?",
-      "start": 973.77,
-      "end": 978.09
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 17.",
-      "translation": "问题17。",
+      "text": "17. What does the passage say about the plot of all superhero movies?",
+      "translation": "第 17 题：文章关于所有超级英雄电影的情节是怎么说的？",
       "start": 993.75,
-      "end": 994.65
+      "end": 999.966,
+      "questionNumber": 17
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the passage say about the plot of all superhero movies?",
-      "translation": "有关超级英雄电影的剧本 文章上写了什么?",
-      "start": 995.37,
-      "end": 999.57
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "18.",
-      "translation": "18岁",
+      "text": "18. What do the elites of American society think of superhero movies?",
+      "translation": "第 18 题：美国社会的精英阶层对超级英雄电影有什么看法？",
       "start": 1015.52,
-      "end": 1016.08
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What do the elites of American society think of superhero movies?",
-      "translation": "美国社会精英们对超级英雄电影有何看法?",
-      "start": 1016.84,
-      "end": 1021.58
+      "end": 1021.978,
+      "questionNumber": 18
     },
     {
       "speaker": "听力原声",
@@ -1360,32 +1426,35 @@
       "text": "They can offer insight into the evolution of their own experience and knowledge, presenting themselves as more approachable and then they are more likely to inspire others to want to know more.",
       "translation": "他们可以深入展现自己经验和知识的演变过程,使自己显得更平易近人,从而更有可能激发他人想要了解更多的愿望。",
       "start": 1135.0,
-      "end": 1154.67,
+      "end": 1153.39,
       "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2023-06-2/"
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "about storytelling.",
-      "translation": "讲故事。",
-      "start": 1156.67,
-      "end": 1157.49
+      "text": "19. What does the passage say about storytelling?",
+      "translation": "第 19 题：文章关于讲故事说了什么？",
+      "start": 1153.39,
+      "end": 1157.951,
+      "questionNumber": 19
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 20, what can good stories do to listeners according to the passage?",
-      "translation": "问题20, 听者听话的好故事能根据段落做些什么?",
+      "text": "20. What can good stories do to listeners according to the passage?",
+      "translation": "第 20 题：根据文章，好的故事能对听众产生什么作用？",
       "start": 1173.24,
-      "end": 1178.4
+      "end": 1178.758,
+      "questionNumber": 20
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 21, what can leaders do with a simple personal story?",
-      "translation": "问题21:领导人用简单的个人故事能做些什么?",
+      "text": "21. What can leaders do with a simple personal story?",
+      "translation": "第 21 题：领导者可以用一个简单的个人故事做什么？",
       "start": 1193.95,
-      "end": 1199.21
+      "end": 1199.384,
+      "questionNumber": 21
     },
     {
       "speaker": "听力原声",
@@ -1575,26 +1644,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "22.",
-      "translation": "22. 妇女 22",
+      "text": "22. What does the passage say statistics prove?",
+      "translation": "第 22 题：文章说统计数据证明了什么?",
       "start": 1336.79,
-      "end": 1337.43
+      "end": 1341.279,
+      "questionNumber": 22
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the passage say statistics prove?",
-      "translation": "段落中说,统计数字能证明什么?",
-      "start": 1338.33,
-      "end": 1340.97
+      "text": "23. What do we learn about immigrants in the U.S., compared with native-born Americans?",
+      "translation": "第 23 题：与在美国出生的美国人相比,我们对美国移民了解到什么?",
+      "start": 1356.34,
+      "end": 1364.257,
+      "questionNumber": 23
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "That's",
-      "translation": "那是",
-      "start": 1407.45,
-      "end": 1408.47
+      "text": "24. What does the passage say about immigrants in the U.S., in terms of financial strength?",
+      "translation": "第 24 题：就财务实力而言,文章对美国移民说了什么?",
+      "start": 1379.15,
+      "end": 1386.877,
+      "questionNumber": 24
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "25. What do immigrants do to achieve their goals in the U.S.?",
+      "translation": "第 25 题：移民在美国做什么来实现他们的目标?",
+      "start": 1401.81,
+      "end": 1408.254,
+      "questionNumber": 25
     },
     {
       "speaker": "听力原声",
@@ -1608,5 +1689,6 @@
   "translation_sources": [
     "https://english-exam.lazynote.cn/cet4/sections/listening/2023-06-2/",
     "Sams200/opus-mt-en-zh (unmatched sentences only)"
-  ]
+  ],
+  "question_verification": "All 25 published question prompts located in original audio; numbers and prompts share one replay unit."
 }

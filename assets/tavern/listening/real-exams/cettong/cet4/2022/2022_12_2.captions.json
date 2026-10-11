@@ -112,6 +112,24 @@
     {
       "speaker": "听力原声",
       "actor": "",
+      "text": "1. What event will take place in Glasgow?",
+      "translation": "第 1 题：什么活动将在格拉斯哥举行?",
+      "start": 109.01,
+      "end": 113.097,
+      "questionNumber": 1
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "2. What does Glasgow City Council say the event will do?",
+      "translation": "第 2 题：格拉斯哥市议会说这个活动将会做什么?",
+      "start": 127.79,
+      "end": 133.579,
+      "questionNumber": 2
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
       "text": "News report too.",
       "translation": "新闻报告也。",
       "start": 148.33,
@@ -218,34 +236,20 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 3.",
-      "translation": "问题3",
+      "text": "3. What is scientists' warning in the news report?",
+      "translation": "第 3 题：新闻报道中科学家们发出了什么警告?",
       "start": 236.87,
-      "end": 237.69
+      "end": 241.472,
+      "questionNumber": 3
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What is Scientists's Warning in the News Report?",
-      "translation": "科学家们在《新闻报告》中警告什么?",
-      "start": 238.35,
-      "end": 241.23
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 4.",
-      "translation": "问题4",
+      "text": "4. What do we learn about this year's ice melting?",
+      "translation": "第 4 题：关于今年的冰层融化我们了解到什么?",
       "start": 256.45,
-      "end": 257.37
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What do we learn about this year's ice melting season in Greenland?",
-      "translation": "我们从格陵兰今年的冰融化季节学到什么?",
-      "start": 257.91,
-      "end": 261.39
+      "end": 261.89,
+      "questionNumber": 4
     },
     {
       "speaker": "听力原声",
@@ -329,10 +333,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What did the policeman John Forster say about the villagers?",
-      "translation": "那个警察John Forster对村民说了什么?",
+      "text": "5. What happened on the streets of Blackhall Colliery?",
+      "translation": "第 5 题：Blackhall Colliery 的街道上发生了什么？",
+      "start": 361.92,
+      "end": 366.009,
+      "questionNumber": 5
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "6. What do the local police do with the money if not claimed in two weeks?",
+      "translation": "第 6 题：如果两周内无人认领，当地警方会如何处理这笔钱？",
+      "start": 380.79,
+      "end": 387.741,
+      "questionNumber": 6
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "7. What did the policeman John Forster say about the villagers?",
+      "translation": "第 7 题：警察 John Forster 对村民们说了什么？",
       "start": 404.22,
-      "end": 407.98
+      "end": 408.474,
+      "questionNumber": 7
     },
     {
       "speaker": "听力原声",
@@ -573,66 +596,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 8.",
-      "translation": "问题8",
+      "text": "8. How does the man often feel on his birthday?",
+      "translation": "第 8 题：这位男士在生日时常常有什么感觉?",
       "start": 558.04,
-      "end": 558.72
+      "end": 561.981,
+      "questionNumber": 8
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "How does the man often feel on his birthday?",
-      "translation": "他生日的时候感觉如何?",
-      "start": 559.17,
-      "end": 561.71
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 9.",
-      "translation": "问题9",
+      "text": "9. What does the woman say many people tend to do on their birthday?",
+      "translation": "第 9 题：这位女士说许多人在生日时往往会做什么?",
       "start": 577.06,
-      "end": 577.76
+      "end": 582.155,
+      "questionNumber": 9
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the woman say many people tend to do on their birthday?",
-      "translation": "女人在生日时会说什么?",
-      "start": 578.52,
-      "end": 581.94
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 10.",
-      "translation": "问题10。",
+      "text": "10. What does the man say about birthday celebrations?",
+      "translation": "第 10 题：这位男士对生日庆祝有什么看法?",
       "start": 597.1,
-      "end": 597.92
+      "end": 601.504,
+      "questionNumber": 10
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the man say about birthday celebrations?",
-      "translation": "这个人对生日庆典怎么说?",
-      "start": 598.48,
-      "end": 601.06
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 11.",
-      "translation": "问题11。",
+      "text": "11. What does the woman suggest the man do about his birthday celebration at the end of the conversation?",
+      "translation": "第 11 题：在对话结束时,这位女士建议这位男士如何处理他的生日庆祝?",
       "start": 616.38,
-      "end": 617.3
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What does the woman suggest the man do about his birthday celebration at the end of the conversation?",
-      "translation": "女人建议男人在谈话结束时 如何庆祝他的生日?",
-      "start": 617.94,
-      "end": 623.54
+      "end": 624.041,
+      "questionNumber": 11
     },
     {
       "speaker": "听力原声",
@@ -946,66 +941,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "12.",
-      "translation": "12. 十二、结 论",
+      "text": "12. What does the woman say about her subway ride?",
+      "translation": "第 12 题：女士对她乘坐地铁的经历有何评价?",
       "start": 747.58,
-      "end": 748.02
+      "end": 751.426,
+      "questionNumber": 12
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "does the woman say about her subway ride?",
-      "translation": "那个女人说她坐地铁吗?",
-      "start": 748.92,
-      "end": 751.18
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 13.",
-      "translation": "问题13。",
+      "text": "13. Why hasn't the woman got her own car?",
+      "translation": "第 13 题：女士为什么没有自己的汽车?",
       "start": 766.58,
-      "end": 767.32
+      "end": 770.674,
+      "questionNumber": 13
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Why hasn't the woman got her own car?",
-      "translation": "为什么那女人没有自己的车?",
-      "start": 768.16,
-      "end": 770.38
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 14.",
-      "translation": "问题14。",
+      "text": "14. What does the woman say about electric motorbikes?",
+      "translation": "第 14 题：女士对电动摩托车有何评价?",
       "start": 785.74,
-      "end": 786.56
+      "end": 790.421,
+      "questionNumber": 14
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the woman say about electric motorbikes?",
-      "translation": "那个女人对电动摩托车怎么说?",
-      "start": 787.2,
-      "end": 790.0
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 15.",
-      "translation": "问题15。",
+      "text": "15. How was the woman going to get to work?",
+      "translation": "第 15 题：女士打算如何去上班?",
       "start": 805.59,
-      "end": 806.45
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "How is the woman going to get to work?",
-      "translation": "女人怎么上班?",
-      "start": 807.15,
-      "end": 809.31
+      "end": 809.452,
+      "questionNumber": 15
     },
     {
       "speaker": "听力原声",
@@ -1192,42 +1159,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "about Steve Miller?",
-      "translation": "关于史蒂夫・米勒?",
-      "start": 955.12,
-      "end": 956.34
+      "text": "16. What do we learn about Steve Miller?",
+      "translation": "第 16 题：关于Steve Miller我们了解到什么?",
+      "start": 951.9,
+      "end": 956.635,
+      "questionNumber": 16
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "question 17",
-      "translation": "问题17 问题17",
+      "text": "17. What does Miller say is making things better for people like him?",
+      "translation": "第 17 题：Miller说什么正在改善像他这样的人的处境?",
       "start": 971.73,
-      "end": 972.67
+      "end": 977.358,
+      "questionNumber": 17
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does Miller say is making things better for people like him?",
-      "translation": "米勒说什么能让他这样的人 过得更好?",
-      "start": 973.43,
-      "end": 977.11
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 18.",
-      "translation": "问题18。",
+      "text": "18. In what way can Miller benefit from attending meetings via video?",
+      "translation": "第 18 题：Miller通过视频参加会议能在哪方面受益?",
       "start": 992.42,
-      "end": 993.3
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "In what way can Miller benefit from attending meetings via video?",
-      "translation": "通过视频出席会议对米勒有什么好处?",
-      "start": 994.26,
-      "end": 998.5
+      "end": 998.776,
+      "questionNumber": 18
     },
     {
       "speaker": "听力原声",
@@ -1382,42 +1336,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 19, what do people want upon returning home according to the passage?",
-      "translation": "问题19,人们在根据通道回家时想要什么?",
+      "text": "19. What do people want upon returning home according to the passage?",
+      "translation": "第 19 题：根据文章,人们回到家后想要什么?",
       "start": 1113.28,
-      "end": 1118.62
+      "end": 1119.045,
+      "questionNumber": 19
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 20.",
-      "translation": "问题20。",
+      "text": "20. What does the passage say people should avoid doing in home decoration?",
+      "translation": "第 20 题：文章说人们在家居装饰中应该避免做什么?",
       "start": 1134.0,
-      "end": 1135.04
+      "end": 1140.316,
+      "questionNumber": 20
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the passage say people should avoid doing in home decoration?",
-      "translation": "人们应该如何避免在家里装饰?",
-      "start": 1135.72,
-      "end": 1139.66
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 21.",
-      "translation": "问题21",
+      "text": "21. What can one do to make a room look bigger?",
+      "translation": "第 21 题：怎样做可以让房间看起来更大?",
       "start": 1155.49,
-      "end": 1156.35
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What can one do to make a room look bigger?",
-      "translation": "怎样才能让房间变大?",
-      "start": 1156.87,
-      "end": 1159.89
+      "end": 1160.19,
+      "questionNumber": 21
     },
     {
       "speaker": "听力原声",
@@ -1546,66 +1487,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 22.",
-      "translation": "问题22。",
+      "text": "22. What does the passage say parents increasingly understand?",
+      "translation": "第 22 题：文章指出父母越来越理解什么?",
       "start": 1279.69,
-      "end": 1280.61
+      "end": 1284.855,
+      "questionNumber": 22
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the passage say parents increasingly understand?",
-      "translation": "内容上写着父母越来越明白什么?",
-      "start": 1281.29,
-      "end": 1284.21
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 23.",
-      "translation": "问题23。",
+      "text": "23. What can predict children's reading skills according to recent research?",
+      "translation": "第 23 题：根据近期研究,什么可以预测孩子的阅读能力?",
       "start": 1300.02,
-      "end": 1300.82
+      "end": 1305.623,
+      "questionNumber": 23
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What can predict children's reading skills according to recent research?",
-      "translation": "根据最近的研究,什么能预测儿童的阅读技能?",
-      "start": 1301.56,
-      "end": 1305.26
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 24.",
-      "translation": "问题24。",
+      "text": "24. What kind of books are said to help babies learn more?",
+      "translation": "第 24 题：什么样的书据说能帮助婴儿学到更多?",
       "start": 1320.74,
-      "end": 1321.54
+      "end": 1325.578,
+      "questionNumber": 24
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What kind of books are said to help babies learn more?",
-      "translation": "什么样的书能帮助婴儿学习更多呢?",
-      "start": 1322.3,
-      "end": 1325.34
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "25.",
-      "translation": "25个",
+      "text": "25. What are parents advised to do at the end of the passage?",
+      "translation": "第 25 题：文章结尾建议父母做什么?",
       "start": 1341.02,
-      "end": 1341.66
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What are parents advised to do at the end of the passage?",
-      "translation": "父母在走廊结束时建议他们做什么?",
-      "start": 1342.42,
-      "end": 1345.88
+      "end": 1346.371,
+      "questionNumber": 25
     },
     {
       "speaker": "听力原声",
@@ -1619,5 +1532,6 @@
   "translation_sources": [
     "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-2/",
     "Sams200/opus-mt-en-zh (unmatched sentences only)"
-  ]
+  ],
+  "question_verification": "All 25 published question prompts located in original audio; numbers and prompts share one replay unit."
 }

@@ -113,6 +113,24 @@
     {
       "speaker": "听力原声",
       "actor": "",
+      "text": "1. What happened in New York's Prospect Park on Tuesday?",
+      "translation": "第 1 题：星期二在纽约展望公园发生了什么?",
+      "start": 121.51,
+      "end": 126.742,
+      "questionNumber": 1
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "2. What do we learn about the cow from the end of the news report?",
+      "translation": "第 2 题：从新闻报道的结尾我们了解到这头奶牛的什么情况?",
+      "start": 141.12,
+      "end": 145.634,
+      "questionNumber": 2
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
       "text": "News report 2.",
       "translation": "《新闻报告2》。",
       "start": 158.49,
@@ -237,6 +255,24 @@
     {
       "speaker": "听力原声",
       "actor": "",
+      "text": "3. What does the news report say about the fossil hall of the National Museum of Natural History?",
+      "translation": "第 3 题：新闻报道中关于国家自然历史博物馆化石展厅说了什么?",
+      "start": 252.58,
+      "end": 260.028,
+      "questionNumber": 3
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "4. What is on display this week in the museum's resident exhibition hall?",
+      "translation": "第 4 题：本周博物馆常设展厅展出的是什么?",
+      "start": 272.42,
+      "end": 279.117,
+      "questionNumber": 4
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
       "text": "Six birds have just been trained to pick up rubbish at a French historical theme park.",
       "translation": "六只鸟刚刚被训练到一个法国历史主题公园捡垃圾。",
       "start": 294.18,
@@ -329,6 +365,33 @@
       "translation": "他希望现在能训练更多的鸟儿",
       "start": 374.44,
       "end": 376.48
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "5. What have six birds been trained to do at a French historical theme park?",
+      "translation": "第 5 题：在法国一个历史主题公园里,六只鸟被训练做什么?",
+      "start": 384.06,
+      "end": 390.709,
+      "questionNumber": 5
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "6. Why were rooks chosen by the park manager?",
+      "translation": "第 6 题：公园管理者为什么选择白嘴鸦?",
+      "start": 403.68,
+      "end": 408.603,
+      "questionNumber": 6
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "7. What is the concern of some parents?",
+      "translation": "第 7 题：一些家长担心什么?",
+      "start": 421.65,
+      "end": 426.29,
+      "questionNumber": 7
     },
     {
       "speaker": "听力原声",
@@ -621,6 +684,42 @@
     {
       "speaker": "听力原声",
       "actor": "",
+      "text": "8. What do we learn about the TV show Science Nation?",
+      "translation": "第 8 题：关于电视节目《科学国度》我们了解到什么?",
+      "start": 592.93,
+      "end": 598.611,
+      "questionNumber": 8
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "9. In what way will the TV show Science Nation differ from traditional documentaries?",
+      "translation": "第 9 题：电视节目《科学国度》将在哪些方面不同于传统纪录片?",
+      "start": 611.21,
+      "end": 619.318,
+      "questionNumber": 9
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "10. Who will be the intended audience of the TV show Science Nation?",
+      "translation": "第 10 题：电视节目《科学国度》的目标受众是谁?",
+      "start": 633.9,
+      "end": 638.742,
+      "questionNumber": 10
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "11. What does the woman want the man to do for the TV show?",
+      "translation": "第 11 题：女士希望男士为这档电视节目做什么?",
+      "start": 651.8,
+      "end": 657.515,
+      "questionNumber": 11
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
       "text": "Conversation 2.",
       "translation": "对话2。",
       "start": 670.51,
@@ -907,6 +1006,42 @@
     {
       "speaker": "听力原声",
       "actor": "",
+      "text": "12. How does the man feel about himself?",
+      "translation": "第 12 题：这位男士对自己感觉如何?",
+      "start": 802.12,
+      "end": 805.435,
+      "questionNumber": 12
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "13. What does the woman think is the man's problem?",
+      "translation": "第 13 题：这位女士认为这位男士的问题是什么?",
+      "start": 818.63,
+      "end": 823.058,
+      "questionNumber": 13
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "14. How does the man feel when he sees others accomplishing things?",
+      "translation": "第 14 题：当这位男士看到别人取得成就时感觉如何?",
+      "start": 836.29,
+      "end": 842.038,
+      "questionNumber": 14
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "15. What does the woman suggest the man do?",
+      "translation": "第 15 题：这位女士建议这位男士做什么?",
+      "start": 855.23,
+      "end": 859.472,
+      "questionNumber": 15
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
       "text": "Section C. Directions",
       "translation": "C节. 指示",
       "start": 872.63,
@@ -1072,8 +1207,35 @@
       "text": "All-girls schools tend to be smaller than coeducational schools, which means teachers will be able to tailor the materials to girl students' personal learning styles and interest.",
       "translation": "女子学校往往比男女同校规模更小，这意味着教师能够根据女学生的个人学习风格和兴趣定制教学材料。",
       "start": 1003.17,
-      "end": 1071.1,
+      "end": 1023.71,
       "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "16. What advantage does the speaker say girls from single-sex schools have over those from coeducational schools?",
+      "translation": "第 16 题：演讲者认为单性别学校的女生比男女同校的女生有什么优势?",
+      "start": 1023.71,
+      "end": 1033.292,
+      "questionNumber": 16
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "17. What do teachers tend to do in coeducational settings?",
+      "translation": "第 17 题：在男女同校的环境中,教师往往会做什么?",
+      "start": 1046.51,
+      "end": 1051.972,
+      "questionNumber": 17
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "18. What are teachers more likely to do in an all-girls school?",
+      "translation": "第 18 题：在女子学校中,教师更有可能做什么?",
+      "start": 1065.1,
+      "end": 1070.993,
+      "questionNumber": 18
     },
     {
       "speaker": "听力原声",
@@ -1202,6 +1364,33 @@
       "translation": "人们会看着你 认为你很有趣",
       "start": 1191.89,
       "end": 1194.87
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "19. What does the speaker find out about Seattle?",
+      "translation": "第 19 题：说话者发现了关于西雅图的什么情况?",
+      "start": 1202.08,
+      "end": 1206.58,
+      "questionNumber": 19
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "20. Why do local people in Seattle seldom carry an umbrella?",
+      "translation": "第 20 题：为什么西雅图当地人很少带伞?",
+      "start": 1219.67,
+      "end": 1225.658,
+      "questionNumber": 20
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "21. Why does the speaker say Seattle is a good place to be?",
+      "translation": "第 21 题：为什么说话者说西雅图是个好地方?",
+      "start": 1238.84,
+      "end": 1244.537,
+      "questionNumber": 21
     },
     {
       "speaker": "听力原声",
@@ -1357,6 +1546,42 @@
     {
       "speaker": "听力原声",
       "actor": "",
+      "text": "22. What does the German professor say about muscle soreness?",
+      "translation": "第 22 题：这位德国教授关于肌肉酸痛说了什么?",
+      "start": 1373.12,
+      "end": 1377.144,
+      "questionNumber": 22
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "23. What happens when muscles are damaged according to the passage?",
+      "translation": "第 23 题：根据文章,肌肉受损时会发生什么?",
+      "start": 1390.23,
+      "end": 1396.195,
+      "questionNumber": 23
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "24. How long does it take for damaged cells to heal?",
+      "translation": "第 24 题：受损细胞需要多长时间才能愈合?",
+      "start": 1409.45,
+      "end": 1415.153,
+      "questionNumber": 24
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "25. What does the speaker suggest one do to relieve muscle soreness?",
+      "translation": "第 25 题：说话者建议做什么来缓解肌肉酸痛?",
+      "start": 1428.36,
+      "end": 1434.73,
+      "questionNumber": 25
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
       "text": "This is the end of listening comprehension.",
       "translation": "听觉理解的结束",
       "start": 1447.57,
@@ -1366,5 +1591,6 @@
   "translation_sources": [
     "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-1/",
     "Sams200/opus-mt-en-zh (unmatched sentences only)"
-  ]
+  ],
+  "question_verification": "All 25 published question prompts located in original audio; numbers and prompts share one replay unit."
 }

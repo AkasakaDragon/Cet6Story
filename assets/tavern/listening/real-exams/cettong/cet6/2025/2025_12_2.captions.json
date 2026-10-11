@@ -361,10 +361,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What did the canteen undergo a few years ago?",
-      "translation": "食堂几年前接受了什么?",
+      "text": "1. What does the woman say about the food at the canteen?",
+      "translation": "第 1 题：女士对食堂的食物有何评价?",
+      "start": 159.65,
+      "end": 163.123,
+      "questionNumber": 1
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "2. How does the woman feel about the canteen's sweet things or fancy delicacies?",
+      "translation": "第 2 题：女士对食堂的甜食或精致美食有何感受?",
+      "start": 175.67,
+      "end": 182.812,
+      "questionNumber": 2
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "3. What does the man say is one of the best things about the canteen?",
+      "translation": "第 3 题：男士说食堂最好的一点是什么?",
+      "start": 195.57,
+      "end": 201.163,
+      "questionNumber": 3
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "4. What did the canteen undergo a few years ago?",
+      "translation": "第 4 题：食堂几年前经历了什么?",
       "start": 215.51,
-      "end": 218.49
+      "end": 218.727,
+      "questionNumber": 4
     },
     {
       "speaker": "听力原声",
@@ -592,50 +620,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 5.",
-      "translation": "问题5",
+      "text": "5. According to the woman, what view about today's young people is not really justified?",
+      "translation": "第 5 题：根据这位女士的说法,关于当今年轻人的哪种看法其实并不合理?",
       "start": 352.77,
-      "end": 353.55
+      "end": 359.975,
+      "questionNumber": 5
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "According to the woman, what view about today's young people is not really justified.",
-      "translation": "女性认为,对今天的年轻人有什么看法并不真正合理。",
-      "start": 354.41,
-      "end": 359.45
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 6.",
-      "translation": "问题6",
+      "text": "6. What does the man say is important for managers to get along better with young workers?",
+      "translation": "第 6 题：这位男士认为管理者要与年轻员工更好地相处,什么是重要的?",
       "start": 373.18,
-      "end": 373.9
+      "end": 379.575,
+      "questionNumber": 6
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the man say is important for managers to get along better with young workers?",
-      "translation": "管理者能和年轻工人相处更好,",
-      "start": 374.46,
-      "end": 379.16
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "How do young people measure their productivity levels according to the man?",
-      "translation": "青年人如何根据男子的情况衡量他们的生产力水平?",
+      "text": "7. How do young people measure their productivity levels according to the man?",
+      "translation": "第 7 题：根据这位男士的说法,年轻人如何衡量他们的生产力水平?",
       "start": 394.38,
-      "end": 398.54
+      "end": 398.81,
+      "questionNumber": 7
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 8 What companies does the man think would appeal to young workers?",
-      "translation": "问题8 男人认为哪家公司会吸引年轻工人?",
+      "text": "8. What companies does the man think would appeal to young workers?",
+      "translation": "第 8 题：这位男士认为什么样的公司会吸引年轻员工?",
       "start": 412.1,
-      "end": 417.1
+      "end": 417.433,
+      "questionNumber": 8
     },
     {
       "speaker": "听力原声",
@@ -778,26 +794,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "How was the study carried out on 750 participants?",
-      "translation": "对750名与会者进行的研究如何?",
+      "text": "9. What does a new study suggest about restaurants including vegetarian sections on their menus?",
+      "translation": "第 9 题：一项新研究对餐厅在菜单上包含素食区域有何看法?",
+      "start": 584.27,
+      "end": 590.56,
+      "questionNumber": 9
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "10. How was the study carried out on 750 participants?",
+      "translation": "第 10 题：对750名参与者进行的研究是如何开展的?",
       "start": 604.91,
-      "end": 608.85
+      "end": 609.23,
+      "questionNumber": 10
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 11.",
-      "translation": "问题11。",
+      "text": "11. How do altered menu designs affect frequent eaters of vegetarian food?",
+      "translation": "第 11 题：改变后的菜单设计如何影响经常食用素食的人?",
       "start": 622.4,
-      "end": 623.04
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "How do altered menu designs affect frequent eaters of vegetarian food?",
-      "translation": "改变菜单设计会如何影响食用素食食物的常客?",
-      "start": 623.92,
-      "end": 628.26
+      "end": 628.521,
+      "questionNumber": 11
     },
     {
       "speaker": "听力原声",
@@ -918,66 +937,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 12.",
-      "translation": "问题12。",
+      "text": "12. What does the passage say about Nottingham Trent University and the Chinese Academy of Sciences?",
+      "translation": "第 12 题：文章关于诺丁汉特伦特大学和中国科学院说了什么?",
       "start": 754.2,
-      "end": 755.02
+      "end": 762.376,
+      "questionNumber": 12
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the passage say about Nottingham Trent University and the Chinese Academy of Sciences?",
-      "translation": "关于诺丁汉特伦特大学 和中国科学院 内容如何?",
-      "start": 756.2,
-      "end": 761.74
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 13.",
-      "translation": "问题13。",
+      "text": "13. What do we learn from the passage about existing technologies to purify indoor air?",
+      "translation": "第 13 题：从文章中我们了解到关于现有净化室内空气技术的什么信息?",
       "start": 775.59,
-      "end": 776.35
+      "end": 782.595,
+      "questionNumber": 13
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do we learn from the passage about existing technologies to purify indoor air?",
-      "translation": "我们从现有净化室内空气技术的传递过程中学到了什么?",
-      "start": 776.99,
-      "end": 782.25
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 14.",
-      "translation": "问题14。",
+      "text": "14. What do people tend to do when outdoor air quality is poor?",
+      "translation": "第 14 题：当室外空气质量差时,人们往往会做什么?",
       "start": 795.86,
-      "end": 796.72
+      "end": 801.382,
+      "questionNumber": 14
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do people tend to do when outdoor air quality is poor?",
-      "translation": "当户外空气质量差时,人们会怎么做?",
-      "start": 797.22,
-      "end": 800.92
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "15.",
-      "translation": "15. 15个",
+      "text": "15. What did Professor Gang Pan of the Chinese Academy of Sciences say about their study?",
+      "translation": "第 15 题：中国科学院的潘刚教授关于他们的研究说了什么?",
       "start": 814.92,
-      "end": 815.38
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What did Professor Gangpan of the Chinese Academy of Sciences say about",
-      "translation": "中国科学院的江泛教授怎么说",
-      "start": 816.03,
-      "end": 821.17
+      "end": 822.113,
+      "questionNumber": 15
     },
     {
       "speaker": "听力原声",
@@ -1186,59 +1177,37 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do we learn about the well-known mirror test?",
-      "translation": "我们从众所周知的镜像测试中学到什么?",
+      "text": "16. What do we learn about the well-known mirror test?",
+      "translation": "第 16 题：关于著名的镜像测试，我们了解到什么？",
       "start": 1034.91,
-      "end": 1037.53
+      "end": 1037.902,
+      "questionNumber": 16
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 17.",
-      "translation": "问题17。",
+      "text": "17. What does the study by the speaker's team show about the fish they experimented with?",
+      "translation": "第 17 题：演讲者团队对所实验鱼类的研究表明了什么？",
       "start": 1051.06,
-      "end": 1051.92
+      "end": 1057.634,
+      "questionNumber": 17
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the study by the speaker's team show about the fish they experimented with?",
-      "translation": "演讲人团队的研究 显示他们实验的鱼是什么?",
-      "start": 1052.78,
-      "end": 1057.5
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 18.",
-      "translation": "问题18。",
+      "text": "18. What does the speaker say about the results of their research?",
+      "translation": "第 18 题：关于他们的研究结果，演讲者说了什么？",
       "start": 1070.7,
-      "end": 1071.58
+      "end": 1075.901,
+      "questionNumber": 18
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the speaker say about the results of their research?",
-      "translation": "发言者对其研究结果怎么说?",
-      "start": 1072.42,
-      "end": 1075.58
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "2.",
-      "translation": "2. 目标",
-      "start": 1089.3,
-      "end": 1089.84
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Reading with a young child is important.",
+      "text": "2. Reading with a young child is important.",
       "translation": "与年幼的孩子一起阅读很重要。",
-      "start": 1091.15,
-      "end": 1092.97,
-      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/"
+      "start": 1089.3,
+      "end": 1092.97
     },
     {
       "speaker": "听力原声",
@@ -1423,18 +1392,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do we learn about previous studies of young children reading electronic books?",
-      "translation": "我们对以前关于幼儿阅读电子书籍的研究了解多少?",
-      "start": 1285.68,
-      "end": 1290.42
+      "text": "19. What finding from the new study might come as a huge surprise?",
+      "translation": "第 19 题：这项新研究的哪一发现可能会令人极为意外？",
+      "start": 1265.02,
+      "end": 1270.881,
+      "questionNumber": 19
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 21 What extra features should be included in electronic books to bolster children's learning?",
-      "translation": "问题21:电子书中应列入哪些其他特点,以促进儿童的学习?",
+      "text": "20. What do we learn about previous studies of young children reading electronic books?",
+      "translation": "第 20 题：关于幼儿阅读电子书的以往研究，我们了解到什么？",
+      "start": 1285.68,
+      "end": 1290.909,
+      "questionNumber": 20
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "21. What extra features should be included in electronic books to bolster children's learning?",
+      "translation": "第 21 题：电子书中应加入哪些额外功能来促进儿童学习？",
       "start": 1304.22,
-      "end": 1311.56
+      "end": 1311.821,
+      "questionNumber": 21
     },
     {
       "speaker": "听力原声",
@@ -1733,50 +1713,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "22.",
-      "translation": "22. 妇女 22",
+      "text": "22. What should we do with the unfavorable decisions we've made?",
+      "translation": "第 22 题：我们应该如何看待自己所作出的那些不理想的决定？",
       "start": 1477.51,
-      "end": 1478.07
+      "end": 1482.6,
+      "questionNumber": 22
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "should we do with the unfavorable decisions we've made?",
-      "translation": "我们是不是应该处理 我们做出不友好的决定?",
-      "start": 1479.37,
-      "end": 1482.35
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "23.",
-      "translation": "23 号",
+      "text": "23. What does the speaker say about every single decision we've ever made?",
+      "translation": "第 23 题：关于我们曾经作出的每一个决定，讲话者说了什么？",
       "start": 1495.99,
-      "end": 1496.73
+      "end": 1501.718,
+      "questionNumber": 23
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the speaker say about every single decision we've ever made?",
-      "translation": "发言者对我们所作的每一个决定怎么说?",
-      "start": 1497.29,
-      "end": 1501.51
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "24 What is life full of according to the speaker?",
-      "translation": "24 发言者说,什么是充满生命?",
+      "text": "24. What is life full of according to the speaker?",
+      "translation": "第 24 题：讲话者认为生活充满了什么？",
       "start": 1515.02,
-      "end": 1519.27
+      "end": 1519.498,
+      "questionNumber": 24
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 25 What is said to be of real importance when we make poor decisions in life?",
-      "translation": "问题25:当我们作出糟糕的决定时,什么才是真正重要的?",
+      "text": "25. What is said to be of real importance when we make poor decisions in life?",
+      "translation": "第 25 题：当我们在生活中作出糟糕的决定时，什么被认为是真正重要的？",
       "start": 1532.71,
-      "end": 1538.79
+      "end": 1539.009,
+      "questionNumber": 25
     },
     {
       "speaker": "听力原声",
@@ -1790,5 +1758,6 @@
   "translation_sources": [
     "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-2/",
     "Sams200/opus-mt-en-zh (unmatched sentences only)"
-  ]
+  ],
+  "question_verification": "All 25 published question prompts located in original audio; numbers and prompts share one replay unit."
 }

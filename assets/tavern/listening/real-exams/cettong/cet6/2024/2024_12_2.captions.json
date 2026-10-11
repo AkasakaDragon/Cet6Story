@@ -228,50 +228,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "1.",
-      "translation": "1. 国家",
+      "text": "1. What did the man want to discuss with the woman?",
+      "translation": "第 1 题：男士想和女士讨论什么?",
       "start": 160.6,
-      "end": 160.98
+      "end": 164.47,
+      "questionNumber": 1
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What did the man want to discuss with the woman?",
-      "translation": "那男人想和那女人谈什么?",
-      "start": 161.52,
-      "end": 164.12
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 2.",
-      "translation": "问题2",
+      "text": "2. Why does the man want to give up Art History?",
+      "translation": "第 2 题：男士为什么想放弃艺术史?",
       "start": 177.75,
-      "end": 178.45
+      "end": 181.858,
+      "questionNumber": 2
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Why does the man want to give up art history?",
-      "translation": "为什么这个人想放弃艺术史?",
-      "start": 178.85,
-      "end": 181.29
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 3.",
-      "translation": "问题3",
+      "text": "3. What does the woman advise the man to do?",
+      "translation": "第 3 题：女士建议男士做什么?",
       "start": 195.26,
-      "end": 195.94
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What does the woman advise the man to do?",
-      "translation": "女人建议男人做什么?",
-      "start": 196.36,
-      "end": 198.76
+      "end": 199.13,
+      "questionNumber": 3
     },
     {
       "speaker": "听力原声",
@@ -284,18 +263,11 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the man say?",
-      "translation": "他说什么?",
+      "text": "4. What does the man say he really lacks right now?",
+      "translation": "第 4 题：男士说他现在真正缺少什么?",
       "start": 213.88,
-      "end": 215.0
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "really lacks right now.",
-      "translation": "现在真的缺乏。",
-      "start": 215.3,
-      "end": 216.74
+      "end": 216.928,
+      "questionNumber": 4
     },
     {
       "speaker": "听力原声",
@@ -658,58 +630,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 5.",
-      "translation": "问题5",
+      "text": "5. What are the speakers mainly talking about in the conversation?",
+      "translation": "第 5 题：对话中说话者主要在谈论什么?",
       "start": 358.84,
-      "end": 359.5
+      "end": 363.467,
+      "questionNumber": 5
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What are the speakers mainly talking about in the conversation?",
-      "translation": "发言者主要在谈话中谈什么?",
-      "start": 360.22,
-      "end": 362.8
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 6.",
-      "translation": "问题6",
+      "text": "6. What does the man say makes perfect sense?",
+      "translation": "第 6 题：男士说什么非常合理?",
       "start": 376.77,
-      "end": 377.45
+      "end": 380.847,
+      "questionNumber": 6
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the man say makes perfect sense?",
-      "translation": "男人说什么才说得通?",
-      "start": 378.01,
-      "end": 380.31
+      "text": "7. What business does the woman say has a vast and continual market?",
+      "translation": "第 7 题：女士说哪种业务拥有庞大且持续的市场？",
+      "start": 393.35,
+      "end": 399.416,
+      "questionNumber": 7
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "7.",
-      "translation": "7 个",
-      "start": 394.02,
-      "end": 394.72
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What business does the woman say has a vast and continual market?",
-      "translation": "女人说什么生意有庞大的市场 并且持续?",
-      "start": 395.21,
-      "end": 399.11
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 8 Who would the man's imagined business cater to?",
-      "translation": "问题8 这个男人想象中的生意会迎合谁?",
+      "text": "8. Who would the man's imagined business cater to?",
+      "translation": "第 8 题：男士设想的业务将面向哪些人?",
       "start": 412.54,
-      "end": 417.43
+      "end": 417.546,
+      "questionNumber": 8
     },
     {
       "speaker": "听力原声",
@@ -870,50 +822,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "9.",
-      "translation": "9. 国家",
+      "text": "9. What do we learn from a new study about young children?",
+      "translation": "第 9 题：我们从一项关于幼儿的新研究中了解到什么?",
       "start": 599.79,
-      "end": 600.21
+      "end": 604.405,
+      "questionNumber": 9
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do we learn from a new study about young children?",
-      "translation": "我们从关于幼儿的新研究中学到什么?",
-      "start": 600.75,
-      "end": 604.15
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 10.",
-      "translation": "问题10。",
+      "text": "10. What did Prachi Shah's study specifically focus on?",
+      "translation": "第 10 题：Prachi Shah的研究具体关注什么?",
       "start": 617.54,
-      "end": 618.42
+      "end": 623.264,
+      "questionNumber": 10
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What did Prachi Shah's study specifically focus on?",
-      "translation": "Prachi Shah的研究具体侧重于什么?",
-      "start": 618.92,
-      "end": 622.98
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 11.",
-      "translation": "问题11。",
+      "text": "11. What does the passage say about excessive media exposure?",
+      "translation": "第 11 题：文章关于过度接触媒体说了什么?",
       "start": 636.48,
-      "end": 637.3
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What does the passage say about excessive media exposure?",
-      "translation": "媒体过度曝光有何说法?",
-      "start": 637.86,
-      "end": 641.82
+      "end": 642.49,
+      "questionNumber": 11
     },
     {
       "speaker": "听力原声",
@@ -1035,42 +966,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What might happen if we do not harness our inborn drive to acquire?",
-      "translation": "如果我们不利用我们新生的动力获取,会发生什么?",
+      "text": "12. What is the dark side of our inborn drive to acquire?",
+      "translation": "第 12 题：我们与生俱来的获取欲望的阴暗面是什么?",
+      "start": 791.19,
+      "end": 797.262,
+      "questionNumber": 12
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "13. What might happen if we do not harness our inborn drive to acquire?",
+      "translation": "第 13 题：如果我们不驾驭与生俱来的获取欲望,可能会发生什么?",
       "start": 811.95,
-      "end": 815.89
+      "end": 816.448,
+      "questionNumber": 13
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 14.",
-      "translation": "问题14。",
+      "text": "14. What does the passage say about our intentional aspirational goals?",
+      "translation": "第 14 题：文章关于我们有意的抱负目标说了什么?",
       "start": 829.57,
-      "end": 830.59
+      "end": 836.212,
+      "questionNumber": 14
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the passage say about our intentional aspirational goals?",
-      "translation": "段落对我们的蓄意追求目标有什么看法?",
-      "start": 831.43,
-      "end": 835.71
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 15.",
-      "translation": "问题15。",
+      "text": "15. What will you end up doing without pursuing intentional aspirational goals?",
+      "translation": "第 15 题：如果不追求有意的抱负目标,你最终会做什么?",
       "start": 849.44,
-      "end": 850.38
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What will you end up doing without pursuing intentional aspirational goals?",
-      "translation": "你最终会做什么而不追求有意追求的目标呢?",
-      "start": 850.8,
-      "end": 855.56
+      "end": 856.042,
+      "questionNumber": 15
     },
     {
       "speaker": "听力原声",
@@ -1332,18 +1259,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 17 What does the speaker warn against about coffee?",
-      "translation": "问题17 发言者对咖啡有何警告?",
-      "start": 1093.68,
-      "end": 1099.88
+      "text": "16. What does the speaker recommend in this talk?",
+      "translation": "第 16 题：演讲者在这次讲话中推荐了什么?",
+      "start": 1076.36,
+      "end": 1080.741,
+      "questionNumber": 16
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "18 How can we get sufficient nutrients according to the speaker?",
-      "translation": "18 发言人说,我们如何获得足够的营养?",
+      "text": "17. What does the speaker warn against coffee?",
+      "translation": "第 17 题：演讲者对咖啡提出了什么警告?",
+      "start": 1093.68,
+      "end": 1100.305,
+      "questionNumber": 17
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "18. How can we get sufficient nutrients according to the speaker?",
+      "translation": "第 18 题：根据演讲者所说,我们如何获得充足的营养?",
       "start": 1113.74,
-      "end": 1119.34
+      "end": 1119.615,
+      "questionNumber": 18
     },
     {
       "speaker": "听力原声",
@@ -1508,50 +1446,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "19.",
-      "translation": "19. 经济",
+      "text": "19. What is the worrying trend the late Swedish academic has identified?",
+      "translation": "第 19 题：这位已故的瑞典学者发现了什么令人担忧的趋势?",
       "start": 1323.85,
-      "end": 1324.47
+      "end": 1329.66,
+      "questionNumber": 19
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What is the worrying trend the late Swedish academic has identified?",
-      "translation": "已故瑞典学术界人士确定的令人担忧的趋势是什么?",
-      "start": 1325.47,
-      "end": 1329.17
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "20.",
-      "translation": "20. 20个",
+      "text": "20. What does the speaker say about globalization?",
+      "translation": "第 20 题：说话者对全球化有何看法?",
       "start": 1343.37,
-      "end": 1344.11
+      "end": 1347.489,
+      "questionNumber": 20
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the speaker say about globalization?",
-      "translation": "发言者对全球化说了什么?",
-      "start": 1344.61,
-      "end": 1346.65
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "21.",
-      "translation": "21 个",
+      "text": "21. What do we learn about half of the global population?",
+      "translation": "第 21 题：关于全球一半人口我们了解到什么?",
       "start": 1361.1,
-      "end": 1361.94
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What do we learn about half of the global population?",
-      "translation": "我们对全球人口的一半了解多少?",
-      "start": 1362.52,
-      "end": 1365.3
+      "end": 1365.821,
+      "questionNumber": 21
     },
     {
       "speaker": "听力原声",
@@ -1770,74 +1687,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "22.",
-      "translation": "22. 妇女 22",
+      "text": "22. What question does the speaker try to answer in this talk?",
+      "translation": "第 22 题：演讲者在这次讲话中试图回答什么问题?",
       "start": 1554.32,
-      "end": 1554.84
+      "end": 1560.009,
+      "questionNumber": 22
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What question does the speaker try to answer in this talk?",
-      "translation": "发言者试图在谈话中回答什么问题?",
-      "start": 1555.52,
-      "end": 1559.68
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "23.",
-      "translation": "23 号",
+      "text": "23. What is said to result in an intimate connection between emotions, memories and scents?",
+      "translation": "第 23 题：据说什么导致了情感、记忆和气味之间的密切联系?",
       "start": 1573.32,
-      "end": 1573.98
+      "end": 1581.862,
+      "questionNumber": 23
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What is said to result in an intimate connection between emotions,",
-      "translation": "据说这导致情感之间的密切联系,",
-      "start": 1575.19,
-      "end": 1579.29
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "memories and sense?",
-      "translation": "记忆和感觉?",
-      "start": 1580.07,
-      "end": 1581.31
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 24.",
-      "translation": "问题24。",
+      "text": "24. What does the brain use to give meaning to information and find a memory?",
+      "translation": "第 24 题：大脑使用什么来赋予信息意义并找到记忆?",
       "start": 1595.07,
-      "end": 1595.83
+      "end": 1601.899,
+      "questionNumber": 24
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the brain use to give meaning to information and find a memory?",
-      "translation": "大脑用什么来赋予信息意义 并找到记忆?",
-      "start": 1596.45,
-      "end": 1601.65
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 25.",
-      "translation": "问题25。",
+      "text": "25. What drawback do memories of scents share with other memories?",
+      "translation": "第 25 题：气味的记忆与其他记忆有什么共同的缺陷?",
       "start": 1614.76,
-      "end": 1616.0
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What drawback do memories of sense share with other memories?",
-      "translation": "感知记忆与其他记忆有什么共同之处?",
-      "start": 1617.4,
-      "end": 1622.74
+      "end": 1623.249,
+      "questionNumber": 25
     },
     {
       "speaker": "听力原声",
@@ -1851,5 +1732,6 @@
   "translation_sources": [
     "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-2/",
     "Sams200/opus-mt-en-zh (unmatched sentences only)"
-  ]
+  ],
+  "question_verification": "All 25 published question prompts located in original audio; numbers and prompts share one replay unit."
 }

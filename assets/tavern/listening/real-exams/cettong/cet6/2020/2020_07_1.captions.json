@@ -238,58 +238,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "1.",
-      "translation": "1. 国家",
+      "text": "1. What do we learn about Anna Sanchez?",
+      "translation": "第 1 题：关于Anna Sanchez我们了解到什么?",
       "start": 159.84,
-      "end": 160.26
+      "end": 163.271,
+      "questionNumber": 1
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do we learn about Anna Sanchez?",
-      "translation": "我们从安娜·桑切斯那里学到什么?",
-      "start": 160.68,
-      "end": 162.7
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 2.",
-      "translation": "问题2",
+      "text": "2. What is the woman's book mainly about?",
+      "translation": "第 2 题：这位女士的书主要讲什么?",
       "start": 176.64,
-      "end": 177.38
+      "end": 180.6,
+      "questionNumber": 2
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What is the woman's book mainly about?",
-      "translation": "女人的书主要关于什么?",
-      "start": 177.82,
-      "end": 180.28
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 3.",
-      "translation": "问题3",
+      "text": "3. What has changed in the past thousands of years?",
+      "translation": "第 3 题：在过去数千年里什么发生了变化?",
       "start": 193.85,
-      "end": 194.61
+      "end": 198.57,
+      "questionNumber": 3
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What has changed in the past thousands of years?",
-      "translation": "过去几千年中,有什么变化?",
-      "start": 195.13,
-      "end": 198.31
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question four, what is the man's concern about the use of technology in sports competitions?",
-      "translation": "问题四:男子对体育比赛中使用技术有何关切?",
-      "start": 211.86,
-      "end": 217.74
+      "text": "4. What is the man's concern about the use of technology in sports competitions?",
+      "translation": "第 4 题：这位男士对在体育比赛中使用技术有什么担忧?",
+      "start": 213.3,
+      "end": 218.379,
+      "questionNumber": 4
     },
     {
       "speaker": "听力原声",
@@ -608,66 +588,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "5.",
-      "translation": "5 个",
+      "text": "5. What does the woman think is required to be successful in international trade?",
+      "translation": "第 5 题：这位女士认为在国际贸易中取得成功需要什么?",
       "start": 365.86,
-      "end": 366.34
+      "end": 372.235,
+      "questionNumber": 5
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the woman think is required to be successful in international trade?",
-      "translation": "妇女认为在国际贸易中取得成功需要什么条件?",
-      "start": 366.99,
-      "end": 371.93
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 6.",
-      "translation": "问题6",
+      "text": "6. What does the woman say is special about her way of doing trade?",
+      "translation": "第 6 题：这位女士说她的贸易方式有什么特别之处?",
       "start": 385.41,
-      "end": 386.17
+      "end": 391.005,
+      "questionNumber": 6
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "does the woman say is special about her way of doing trade?",
-      "translation": "女人说她交易的方式很特别吗?",
-      "start": 387.4,
-      "end": 390.62
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 7.",
-      "translation": "问题7",
+      "text": "7. What does the woman have in both Italy and China?",
+      "translation": "第 7 题：这位女士在意大利和中国都拥有什么?",
       "start": 404.24,
-      "end": 405.0
+      "end": 409.076,
+      "questionNumber": 7
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the woman have in both Italy and China?",
-      "translation": "意大利和中国的女人们都有什么?",
-      "start": 405.5,
-      "end": 408.7
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 8.",
-      "translation": "问题8",
+      "text": "8. What does the woman say makes furniture marginally more profitable?",
+      "translation": "第 8 题：这位女士说什么使家具的利润略微提高?",
       "start": 422.26,
-      "end": 422.92
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What does the woman say makes furniture marginally more profitable?",
-      "translation": "女人们怎么说 家具更有利可图?",
-      "start": 423.76,
-      "end": 427.42
+      "end": 427.892,
+      "questionNumber": 8
     },
     {
       "speaker": "听力原声",
@@ -839,50 +791,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "9.",
-      "translation": "9. 国家",
+      "text": "9. What does the passage say about humour in the workplace?",
+      "translation": "第 9 题：文章关于职场幽默说了什么?",
       "start": 598.8,
-      "end": 599.42
+      "end": 603.553,
+      "questionNumber": 9
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "does the passage say about humor in the workplace?",
-      "translation": "这段文字是否提到工作场所的幽默?",
-      "start": 600.3,
-      "end": 603.04
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 10.",
-      "translation": "问题10。",
+      "text": "10. What does the study by Howard Pollio show?",
+      "translation": "第 10 题：Howard Pollio的研究表明了什么?",
       "start": 616.96,
-      "end": 617.76
+      "end": 621.388,
+      "questionNumber": 10
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the study by Howard Polio show?",
-      "translation": "Howard Polio的研究显示什么?",
-      "start": 618.48,
-      "end": 621.04
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "11.",
-      "translation": "11. 十一号",
+      "text": "11. What can Kodak's employees do in the Humour Room?",
+      "translation": "第 11 题：Kodak的员工在幽默室可以做什么?",
       "start": 634.85,
-      "end": 635.41
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What can Kodak's employees do in the humor room?",
-      "translation": "Kodak的员工在幽默室能做什么?",
-      "start": 636.15,
-      "end": 639.57
+      "end": 639.813,
+      "questionNumber": 11
     },
     {
       "speaker": "听力原声",
@@ -1018,50 +949,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 13.",
-      "translation": "问题13。",
+      "text": "12. What does the speaker say has aroused public interest?",
+      "translation": "第 12 题：说话者说什么引起了公众的兴趣?",
+      "start": 774.01,
+      "end": 779.546,
+      "questionNumber": 12
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "13. What do we learn about the changed gene?",
+      "translation": "第 13 题：关于这个改变的基因我们了解到什么?",
       "start": 792.49,
-      "end": 793.51
+      "end": 797.918,
+      "questionNumber": 13
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do we learn about the changed gene?",
-      "translation": "基因变了,我们学到什么?",
-      "start": 794.49,
-      "end": 797.51
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 14.",
-      "translation": "问题14。",
+      "text": "14. What does University of Vermont psychologist Esther Rothblum say?",
+      "translation": "第 14 题：Vermont大学心理学家Esther Rothblum说了什么?",
       "start": 811.09,
-      "end": 812.11
+      "end": 817.834,
+      "questionNumber": 14
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does University of Vermont, psychologist Esther Rothburn, say?",
-      "translation": "佛蒙特大学心理学家Esther Rothburn怎么说?",
-      "start": 812.77,
-      "end": 817.63
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 15.",
-      "translation": "问题15。",
+      "text": "15. What accounts for Americans' obesity according to a survey by the Center for Disease Control?",
+      "translation": "第 15 题：根据疾病控制中心的一项调查,美国人的肥胖归因于什么?",
       "start": 831.09,
-      "end": 832.05
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What accounts for Americans' according to a survey by the Center for Disease Control?",
-      "translation": "美国人根据疾病控制中心的调查 有何看法?",
-      "start": 832.67,
-      "end": 838.21
+      "end": 838.625,
+      "questionNumber": 15
     },
     {
       "speaker": "听力原声",
@@ -1281,50 +1200,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 16.",
-      "translation": "问题16。",
+      "text": "16. What quality do men value most concerning friendship, according to a questionnaire response?",
+      "translation": "第 16 题：根据问卷调查的回答，男性在友谊方面最看重什么品质?",
       "start": 1065.16,
-      "end": 1066.26
+      "end": 1073.695,
+      "questionNumber": 16
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What quality do men value most concerning friendship according to a questionnaire response?",
-      "translation": "根据对调查问卷的答复,男子对友谊最重视的品质是什么?",
-      "start": 1067.1,
-      "end": 1073.2
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 17.",
-      "translation": "问题17。",
+      "text": "17. What do women refer to when speaking of close friendships?",
+      "translation": "第 17 题：女性在谈到亲密友谊时指的是什么?",
       "start": 1086.78,
-      "end": 1087.6
+      "end": 1092.743,
+      "questionNumber": 17
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do women refer to when speaking of close friendships?",
-      "translation": "谈到亲密的友谊,妇女指的是什么?",
-      "start": 1088.18,
-      "end": 1092.16
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 18.",
-      "translation": "问题18。",
+      "text": "18. What may threaten a friendship for both men and women?",
+      "translation": "第 18 题：什么可能对男性和女性的友谊构成威胁?",
       "start": 1105.9,
-      "end": 1106.64
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What may threaten a friendship for both men and women?",
-      "translation": "何为威胁男女的友谊?",
-      "start": 1107.32,
-      "end": 1111.34
+      "end": 1111.551,
+      "questionNumber": 18
     },
     {
       "speaker": "听力原声",
@@ -1533,50 +1431,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "19.",
-      "translation": "19. 经济",
+      "text": "19. Where can many of the best dinosaur specimens be found in North America?",
+      "translation": "第 19 题：在北美哪里可以找到许多最好的恐龙标本?",
       "start": 1304.65,
-      "end": 1305.35
+      "end": 1311.07,
+      "questionNumber": 19
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Where can many of the best dinosaur specimens be found in North America?",
-      "translation": "许多最好的恐龙标本 在北美在哪里找到?",
-      "start": 1306.2,
-      "end": 1310.74
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "20.",
-      "translation": "20. 20个",
+      "text": "20. What occurs to many people when they see the massive bones in the pit wall?",
+      "translation": "第 20 题：当许多人看到坑壁上的巨大骨骼时,他们会想到什么?",
       "start": 1324.38,
-      "end": 1325.14
+      "end": 1330.96,
+      "questionNumber": 20
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What occurs to many people when they see the massive bones in the pit wall?",
-      "translation": "当许多人看到坑墙上的巨骨时会怎样?",
-      "start": 1325.98,
-      "end": 1330.62
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 21.",
-      "translation": "问题21",
+      "text": "21. What does the speaker suggest about the large number of dinosaur bones found in the pit?",
+      "translation": "第 21 题：关于在坑中发现的大量恐龙骨骼,说话者提出了什么看法?",
       "start": 1344.16,
-      "end": 1344.96
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What does the speaker suggest about the large number of dinosaur bones found in the pit?",
-      "translation": "这位发言者对坑里发现的大量恐龙骨头有何看法?",
-      "start": 1345.66,
-      "end": 1350.78
+      "end": 1351.094,
+      "questionNumber": 21
     },
     {
       "speaker": "听力原声",
@@ -1774,18 +1651,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What is astonishing to the young mothers interviewed by the speaker?",
-      "translation": "发言者采访的年轻母亲有什么令人吃惊的?",
-      "start": 1568.55,
-      "end": 1572.81
+      "text": "22. What have young Americans been accused of?",
+      "translation": "第 22 题：年轻的美国人被指责做了什么?",
+      "start": 1529.73,
+      "end": 1533.976,
+      "questionNumber": 22
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 25 What does the speaker say older people try their best to do?",
-      "translation": "问题25 发言者怎么说老年人会尽力去做?",
+      "text": "23. What does the speaker say about old people in the United States?",
+      "translation": "第 23 题：说话者对美国老年人是怎么说的?",
+      "start": 1546.49,
+      "end": 1553.687,
+      "questionNumber": 23
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "24. What is astonishing to the young mothers interviewed by the speaker?",
+      "translation": "第 24 题：说话者采访的年轻母亲们对什么感到惊讶?",
+      "start": 1568.55,
+      "end": 1573.162,
+      "questionNumber": 24
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "25. What does the speaker say older people try their best to do?",
+      "translation": "第 25 题：说话者说老年人尽最大努力做什么?",
       "start": 1586.28,
-      "end": 1592.0
+      "end": 1592.285,
+      "questionNumber": 25
     },
     {
       "speaker": "听力原声",
@@ -1799,5 +1696,6 @@
   "translation_sources": [
     "https://english-exam.lazynote.cn/cet6/sections/listening/2020-07-1/",
     "Sams200/opus-mt-en-zh (unmatched sentences only)"
-  ]
+  ],
+  "question_verification": "All 25 published question prompts located in original audio; numbers and prompts share one replay unit."
 }

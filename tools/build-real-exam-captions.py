@@ -4,7 +4,7 @@ Run with the bundled Python 3.12 and .validation/asr-deps installed.
 """
 import argparse, hashlib, json, re, sys, time, difflib
 from pathlib import Path
-from listening_sentences import sentences, abbreviation_continues, merge_abbreviation_rows
+from listening_sentences import sentences, abbreviation_continues, merge_abbreviation_rows, attach_verified_questions
 ROOT=Path(__file__).resolve().parents[1]
 sys.path.insert(0,str(ROOT/'.validation/asr-deps'))
 import requests, sentencepiece, ctranslate2
@@ -35,7 +35,7 @@ def split(segments):
     for segment in segments:
         words=segment['words'];group=[]
         for index,word in enumerate(words):
-            if word['end']<=word['start']:continue
+            if word['end']<word['start']:continue
             group.append(word)
             terminal=re.search(r'[.!?]["\u201d\u2019\']?$',word['word'].strip())
             next_gap=index+1<len(words) and words[index+1]['start']-word['end']>.65
@@ -82,7 +82,11 @@ def main():
             rows=align_materials(reference,json.loads(raw.read_text(encoding='utf-8')))
         # Begin with the first real material rather than transcribed exam boilerplate.
         first=min(g['start'] for g in reference['groups'])
+        rows=attach_verified_questions(reference,rows)
         rows=merge_abbreviation_rows([r for r in rows if r['start']>=first-.5])
+        if any(re.fullmatch(r'(?:Question\s*)?\d+[.:]?',r['text'].strip(),re.I) for r in rows):
+            raise ValueError('Standalone spoken number remains: '+reference['id'])
+        assert sorted(r['questionNumber'] for r in rows if r.get('questionNumber'))==list(range(1,26))
         published=original.with_suffix('.translations.json')
         native=json.loads(published.read_text(encoding='utf-8')) if published.exists() else dict(sentences={},source='')
         for row in rows:

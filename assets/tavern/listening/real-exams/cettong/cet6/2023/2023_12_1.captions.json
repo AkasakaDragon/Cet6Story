@@ -333,66 +333,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "1.",
-      "translation": "1. 国家",
+      "text": "1. What do we learn about the man from his test results?",
+      "translation": "第 1 题：从男士的检查结果中我们了解到什么?",
       "start": 153.71,
-      "end": 154.31
+      "end": 158.183,
+      "questionNumber": 1
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do we learn about the man from his test results?",
-      "translation": "我们从他的测试结果中 了解到什么?",
-      "start": 154.69,
-      "end": 157.65
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 2.",
-      "translation": "问题2",
+      "text": "2. What does the woman think is a common phenomenon among many people?",
+      "translation": "第 2 题：女士认为许多人当中有什么普遍现象?",
       "start": 171.68,
-      "end": 172.48
+      "end": 177.344,
+      "questionNumber": 2
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the woman think is a common phenomenon among many people?",
-      "translation": "女性认为在许多人中什么是常见现象?",
-      "start": 173.03,
-      "end": 177.05
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 3.",
-      "translation": "问题3",
+      "text": "3. What does the woman say she will do for the man?",
+      "translation": "第 3 题：女士说她将为男士做什么?",
       "start": 190.81,
-      "end": 191.53
+      "end": 195.002,
+      "questionNumber": 3
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the woman say she will do for the man?",
-      "translation": "女人会说她会为男人做什么?",
-      "start": 191.93,
-      "end": 194.71
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 4.",
-      "translation": "问题4",
+      "text": "4. What does the man say about the industry he is engaged in?",
+      "translation": "第 4 题：男士对他所从事的行业说了什么?",
       "start": 208.22,
-      "end": 209.0
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What does the man say about the industry he is engaged in?",
-      "translation": "这个人对他从事的行业怎么说?",
-      "start": 209.38,
-      "end": 212.78
+      "end": 213.064,
+      "questionNumber": 4
     },
     {
       "speaker": "听力原声",
@@ -612,66 +584,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 5.",
-      "translation": "问题5",
+      "text": "5. Why did John Williams leave the sport of basketball at just 25?",
+      "translation": "第 5 题：John Williams 为什么在年仅 25 岁时就离开了篮球运动?",
       "start": 352.07,
-      "end": 352.81
+      "end": 357.736,
+      "questionNumber": 5
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Why did John Williams leave the sport of basketball at just 25?",
-      "translation": "为什么约翰威廉姆斯 离开篮球运动 仅仅25?",
-      "start": 353.41,
-      "end": 357.01
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 6.",
-      "translation": "问题6",
+      "text": "6. What does the man say about basketball as a career for most players?",
+      "translation": "第 6 题：关于篮球作为大多数球员的职业,这位男士说了什么?",
       "start": 371.06,
-      "end": 371.66
+      "end": 376.741,
+      "questionNumber": 6
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the man say about basketball as a career for most players?",
-      "translation": "他怎么说篮球是 多数球员的职业生涯?",
-      "start": 372.22,
-      "end": 376.24
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 7.",
-      "translation": "问题7",
+      "text": "7. What do we learn from the woman about John Williams 20 years later?",
+      "translation": "第 7 题：关于 20 年后的 John Williams,我们从这位女士那里了解到什么?",
       "start": 389.98,
-      "end": 390.66
+      "end": 395.302,
+      "questionNumber": 7
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do we learn from the woman about John Williams 20 years later?",
-      "translation": "20年后的约翰威廉斯 我们从那个女人那里了解到什么?",
-      "start": 391.02,
-      "end": 395.02
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "8.",
-      "translation": "8. 预 算",
+      "text": "8. What has the man spent the last two decades trying to do?",
+      "translation": "第 8 题：这位男士在过去二十年里一直试图做什么?",
       "start": 408.81,
-      "end": 409.23
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What has the man spent the last two decades trying to do?",
-      "translation": "过去二十年,他到底想做什么?",
-      "start": 409.77,
-      "end": 413.23
+      "end": 413.485,
+      "questionNumber": 8
     },
     {
       "speaker": "听力原声",
@@ -884,6 +828,33 @@
     {
       "speaker": "听力原声",
       "actor": "",
+      "text": "9. When did Kate Atkinson begin to write for women's magazines?",
+      "translation": "第 9 题：Kate Atkinson 是什么时候开始为女性杂志撰稿的?",
+      "start": 575.63,
+      "end": 580.843,
+      "questionNumber": 9
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "10. What did Kate Atkinson's books touch on?",
+      "translation": "第 10 题：Kate Atkinson 的书涉及了什么?",
+      "start": 593.29,
+      "end": 597.758,
+      "questionNumber": 10
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "11. What do we learn about the clever and deceitful characters in a comedy of manners?",
+      "translation": "第 11 题：关于风尚喜剧中聪明而狡诈的角色,我们了解到什么?",
+      "start": 610.39,
+      "end": 617.687,
+      "questionNumber": 11
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
       "text": "Why is adaptability an important skill to exercise in the workplace?",
       "translation": "为什么说适应能力是在职场中需要培养的一项重要技能？",
       "start": 632.11,
@@ -1037,58 +1008,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Why does the speaker say adaptability is an important skill to exercise in the workplace?",
-      "translation": "为什么发言者说适应性是工作场所的一种重要技能?",
+      "text": "12. Why does the speaker say adaptability is an important skill to exercise in the workplace?",
+      "translation": "第 12 题：为什么说话者认为适应能力是在职场中需要锻炼的一项重要技能?",
       "start": 748.17,
-      "end": 753.75
+      "end": 754.457,
+      "questionNumber": 12
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 13.",
-      "translation": "问题13。",
+      "text": "13. What does adaptability enable us to do according to strategy consultant Dorie Clark?",
+      "translation": "第 13 题：根据战略顾问Dorie Clark的说法,适应能力使我们能够做什么?",
       "start": 767.77,
-      "end": 768.57
+      "end": 775.259,
+      "questionNumber": 13
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does adaptability enable us to do according to strategy consultant, Dory Clark?",
-      "translation": "根据战略顾问多莉·克拉克 适应能力能让我们做什么?",
-      "start": 769.33,
-      "end": 774.73
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 14.",
-      "translation": "问题14。",
+      "text": "14. What do we learn about today's work culture from the passage?",
+      "translation": "第 14 题：从文中我们对当今的工作文化了解到什么?",
       "start": 788.64,
-      "end": 789.54
+      "end": 793.968,
+      "questionNumber": 14
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do we learn about today's work culture from the passage?",
-      "translation": "我们从这段话中了解到今天的工作文化是什么?",
-      "start": 790.08,
-      "end": 793.5
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 15.",
-      "translation": "问题15。",
+      "text": "15. What are employees with adaptability able to do when changes occur?",
+      "translation": "第 15 题：当变化发生时,具有适应能力的员工能够做什么?",
       "start": 807.39,
-      "end": 808.29
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What are employees with adaptability able to do when changes occur?",
-      "translation": "在变化发生时,哪些雇员具有适应能力?",
-      "start": 808.83,
-      "end": 813.09
+      "end": 813.461,
+      "questionNumber": 15
     },
     {
       "speaker": "听力原声",
@@ -1394,6 +1345,33 @@
     {
       "speaker": "听力原声",
       "actor": "",
+      "text": "16. What question does the speaker address in this talk?",
+      "translation": "第 16 题：演讲者在本次讲话中探讨了什么问题?",
+      "start": 1037.87,
+      "end": 1042.368,
+      "questionNumber": 16
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "17. What does the speaker believe about innovation?",
+      "translation": "第 17 题：演讲者对创新有何看法?",
+      "start": 1055.75,
+      "end": 1060.445,
+      "questionNumber": 17
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "18. How does the human brain work according to the speaker?",
+      "translation": "第 18 题：根据演讲者的说法,人类大脑是如何运作的?",
+      "start": 1073.51,
+      "end": 1079.0,
+      "questionNumber": 18
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
       "text": "Many dog owners will tell you that their dog somehow knows when they're ill or upset, and according to researchers who study dog cognition,",
       "translation": "许多狗主人会告诉你,他们的狗不知何故知道 他们什么时候生病或心烦意乱, 根据研究狗认知的研究人员,",
       "start": 1094.26,
@@ -1555,42 +1533,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What view of many dog owners win support from researchers studying dog cognition?",
-      "translation": "许多狗主从研究狗认知的研究人员那里 赢得支持的观点是什么?",
+      "text": "19. What view of many dog owners win support from researchers studying dog cognition?",
+      "translation": "第 19 题：研究犬类认知的研究人员支持许多养狗者的哪种观点?",
       "start": 1257.92,
-      "end": 1263.42
+      "end": 1263.985,
+      "questionNumber": 19
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 20.",
-      "translation": "问题20。",
+      "text": "20. Why can dogs detect their owner's abnormal odor according to the speaker?",
+      "translation": "第 20 题：根据说话者所述,狗为什么能察觉主人的异常气味?",
       "start": 1277.51,
-      "end": 1278.29
+      "end": 1283.366,
+      "questionNumber": 20
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Why can dogs detect their owner's abnormal odor according to the speaker?",
-      "translation": "为什么狗能根据扬声器 检测到主人的异常气味?",
-      "start": 1278.85,
-      "end": 1283.01
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "21.",
-      "translation": "21 个",
+      "text": "21. What does research suggest for now about dog ownership?",
+      "translation": "第 21 题：目前研究对养狗有何提示?",
       "start": 1296.57,
-      "end": 1297.49
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What does research suggest for now about dog ownership?",
-      "translation": "研究显示现在狗的拥有权是什么?",
-      "start": 1298.13,
-      "end": 1301.75
+      "end": 1302.388,
+      "questionNumber": 21
     },
     {
       "speaker": "听力原声",
@@ -1773,34 +1738,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does Onwards report proposed ministers should do?",
-      "translation": "今后的报告建议部长应做些什么?",
+      "text": "22. What does Onward's report propose ministers should do?",
+      "translation": "第 22 题：Onward的报告建议部长们应该做什么?",
       "start": 1487.77,
-      "end": 1491.21
+      "end": 1491.423,
+      "questionNumber": 22
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 23 What does the speaker think of Onwards arguments?",
-      "translation": "问题23:发言者对Overdward的论点有何看法?",
+      "text": "23. What does the speaker think of Onward's arguments?",
+      "translation": "第 23 题：说话者如何看待Onward的论点?",
       "start": 1504.55,
-      "end": 1508.59
+      "end": 1509.233,
+      "questionNumber": 23
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 24 What do we learn about British college graduates five years after graduation?",
-      "translation": "问题24 毕业五年后,我们如何了解英国大学毕业生?",
+      "text": "24. What do we learn about British college graduates five years after graduation?",
+      "translation": "第 24 题：关于英国大学毕业生毕业五年后的情况,我们了解到什么?",
       "start": 1522.48,
-      "end": 1528.32
+      "end": 1528.877,
+      "questionNumber": 24
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 25 What does the speaker say actually accounts for the problem identified by Onward?",
-      "translation": "问题25. 发言者对Opward所查明的问题实际上说了什么?",
+      "text": "25. What does the speaker say actually accounts for the problem identified by Onward?",
+      "translation": "第 25 题：说话者认为什么实际上是Onward所指出问题的原因?",
       "start": 1542.34,
-      "end": 1548.44
+      "end": 1548.864,
+      "questionNumber": 25
     },
     {
       "speaker": "听力原声",
@@ -1814,5 +1783,6 @@
   "translation_sources": [
     "https://english-exam.lazynote.cn/cet6/sections/listening/2023-12-1/",
     "Sams200/opus-mt-en-zh (unmatched sentences only)"
-  ]
+  ],
+  "question_verification": "All 25 published question prompts located in original audio; numbers and prompts share one replay unit."
 }

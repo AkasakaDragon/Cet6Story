@@ -103,34 +103,20 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What did Joe's parents decide to do?",
-      "translation": "乔的父母决定做什么?",
+      "text": "1. What did Joe's parents decide to do?",
+      "translation": "第 1 题：Joe的父母决定做什么?",
       "start": 116.21,
-      "end": 118.65
+      "end": 118.762,
+      "questionNumber": 1
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 2.",
-      "translation": "问题2",
+      "text": "2. What did the restaurant \"Number 4\" do?",
+      "translation": "第 2 题：名为\"Number 4\"的餐厅做了什么?",
       "start": 133.7,
-      "end": 134.48
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What did the restaurant,",
-      "translation": "餐厅里有什么",
-      "start": 135.16,
-      "end": 135.92
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "number 4, do?",
-      "translation": "4号,是吗?",
-      "start": 136.56,
-      "end": 137.8
+      "end": 138.055,
+      "questionNumber": 2
     },
     {
       "speaker": "听力原声",
@@ -223,26 +209,20 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What is Christine Marshall trying to do?",
-      "translation": "克里斯蒂娜・马歇尔想干什么?",
+      "text": "3. What is Kirsteen Marshall trying to do?",
+      "translation": "第 3 题：Kirsteen Marshall 正试图做什么?",
       "start": 225.81,
-      "end": 228.37
+      "end": 228.641,
+      "questionNumber": 3
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 4.",
-      "translation": "问题4",
+      "text": "4. What does the news report say about Kirsteen Marshall's family?",
+      "translation": "第 4 题：新闻报道关于 Kirsteen Marshall 的家人说了什么?",
       "start": 243.69,
-      "end": 244.43
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What does the news report say about Christine Marshall's family?",
-      "translation": "新闻报道里说克里斯蒂娜·马歇尔的家人是什么?",
-      "start": 245.27,
-      "end": 248.59
+      "end": 248.943,
+      "questionNumber": 4
     },
     {
       "speaker": "听力原声",
@@ -350,10 +330,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "According to Guy Wilson.",
-      "translation": "根据盖伊威尔逊的说法",
-      "start": 397.15,
-      "end": 398.27
+      "text": "5. What does Guy Wilson say his café aims to do?",
+      "translation": "第 5 题：Guy Wilson 说他的咖啡馆旨在做什么?",
+      "start": 353.47,
+      "end": 357.827,
+      "questionNumber": 5
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "6. What does the news report say about Eggs & Bread café?",
+      "translation": "第 6 题：新闻报道关于 Eggs & Bread 咖啡馆说了什么?",
+      "start": 371.97,
+      "end": 377.93,
+      "questionNumber": 6
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "7. What happens when people start to know each other according to Guy Wilson?",
+      "translation": "第 7 题：根据 Guy Wilson 的说法,当人们开始相互了解时会发生什么?",
+      "start": 392.51,
+      "end": 398.589,
+      "questionNumber": 7
     },
     {
       "speaker": "听力原声",
@@ -632,8 +631,44 @@
       "text": "All right.",
       "translation": "行。",
       "start": 531.46,
-      "end": 605.6,
+      "end": 539.79,
       "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "8. What are the speakers mainly talking about?",
+      "translation": "第 8 题：说话者主要在谈论什么?",
+      "start": 539.79,
+      "end": 542.219,
+      "questionNumber": 8
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "9. Why does the woman say it is a good idea to serve foods that guests can help themselves to?",
+      "translation": "第 9 题：女士为什么说提供客人可以自取的食物是个好主意?",
+      "start": 556.86,
+      "end": 565.311,
+      "questionNumber": 9
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "10. What does the woman say about the new supermarket?",
+      "translation": "第 10 题：女士对新超市说了什么?",
+      "start": 579.66,
+      "end": 585.801,
+      "questionNumber": 10
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "11. What does the man suggest they ask Paul to do?",
+      "translation": "第 11 题：男士建议他们让Paul做什么?",
+      "start": 602.46,
+      "end": 605.551,
+      "questionNumber": 11
     },
     {
       "speaker": "听力原声",
@@ -856,17 +891,44 @@
       "text": "You have nothing to worry about.",
       "translation": "你完全不用担心。",
       "start": 718.192,
-      "end": 749.25,
+      "end": 726.39,
       "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-06-1/"
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "He's a lovely guy, and he'll be happy to help.",
-      "translation": "他人很好，会很乐意帮忙的。",
-      "start": 749.25,
-      "end": 791.333,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-06-1/"
+      "text": "12. Why does the woman want to have a car?",
+      "translation": "第 12 题：女士为什么想要一辆车?",
+      "start": 726.39,
+      "end": 730.484,
+      "questionNumber": 12
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "13. What does the woman say about German cars?",
+      "translation": "第 13 题：女士对德国车有什么看法?",
+      "start": 747.43,
+      "end": 750.552,
+      "questionNumber": 13
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "14. What does the man recommend the woman do?",
+      "translation": "第 14 题：男士建议女士做什么?",
+      "start": 766.07,
+      "end": 770.708,
+      "questionNumber": 14
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "15. What do we learn about the man's friend from the conversation?",
+      "translation": "第 15 题：从对话中我们了解到男士的朋友什么信息?",
+      "start": 785.69,
+      "end": 791.302,
+      "questionNumber": 15
     },
     {
       "speaker": "听力原声",
@@ -1046,10 +1108,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the passage say about the native foxes on a US island?",
-      "translation": "关于美国岛上的当地狐狸 这条路上写着什么?",
+      "text": "16. What do we learn about early pigs in North America?",
+      "translation": "第 16 题：关于北美早期的猪，我们了解到什么？",
+      "start": 949.91,
+      "end": 955.111,
+      "questionNumber": 16
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "17. Why are wild pigs a threat to humans?",
+      "translation": "第 17 题：为什么野猪对人类构成威胁？",
+      "start": 969.57,
+      "end": 975.463,
+      "questionNumber": 17
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "18. What does the passage say about the native foxes on the US island?",
+      "translation": "第 18 题：文章关于美国岛屿上的本地狐狸说了什么？",
       "start": 992.59,
-      "end": 996.89
+      "end": 997.198,
+      "questionNumber": 18
     },
     {
       "speaker": "听力原声",
@@ -1179,18 +1260,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the passage say about coffee beans roasted on earth?",
-      "translation": "这条路上写着 烤在地球上的咖啡豆是什么?",
-      "start": 1139.12,
-      "end": 1143.32
+      "text": "19. What are a pair of entrepreneurs planning to do?",
+      "translation": "第 19 题：一对企业家正计划做什么?",
+      "start": 1117.81,
+      "end": 1122.613,
+      "questionNumber": 19
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 21 What did the two Italian companies do in 2015?",
-      "translation": "问题21 2015年意大利两家公司做了哪些工作?",
+      "text": "20. What does the passage say about coffee beans roasted on Earth?",
+      "translation": "第 20 题：文章关于在地球上烘焙的咖啡豆说了什么?",
+      "start": 1139.12,
+      "end": 1143.524,
+      "questionNumber": 20
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "21. What did the two Italian companies do in 2015?",
+      "translation": "第 21 题：两家意大利公司在2015年做了什么?",
       "start": 1158.68,
-      "end": 1164.26
+      "end": 1164.506,
+      "questionNumber": 21
     },
     {
       "speaker": "听力原声",
@@ -1341,8 +1433,44 @@
       "text": "Proud residents then started to refer to Jan as Queen of Takotna.",
       "translation": "自豪的居民随后开始称Jan为Takotna女王。",
       "start": 1282.7,
-      "end": 1363.766,
+      "end": 1295.52,
       "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "22. Why do a lot of people come to the village of Takotna every March?",
+      "translation": "第 22 题：为什么每年三月都有很多人来到Takotna村？",
+      "start": 1295.52,
+      "end": 1302.352,
+      "questionNumber": 22
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "23. What is the village of Takotna famous for?",
+      "translation": "第 23 题：Takotna村以什么而闻名？",
+      "start": 1317.1,
+      "end": 1322.658,
+      "questionNumber": 23
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "24. Who comes to help with the event of the year?",
+      "translation": "第 24 题：谁来帮助这一年度盛事？",
+      "start": 1337.84,
+      "end": 1343.088,
+      "questionNumber": 24
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "25. What does the passage say about Jan Newton?",
+      "translation": "第 25 题：文章关于Jan Newton说了什么？",
+      "start": 1358.06,
+      "end": 1363.673,
+      "questionNumber": 25
     },
     {
       "speaker": "听力原声",
@@ -1356,5 +1484,6 @@
   "translation_sources": [
     "https://english-exam.lazynote.cn/cet4/sections/listening/2021-06-1/",
     "Sams200/opus-mt-en-zh (unmatched sentences only)"
-  ]
+  ],
+  "question_verification": "All 25 published question prompts located in original audio; numbers and prompts share one replay unit."
 }

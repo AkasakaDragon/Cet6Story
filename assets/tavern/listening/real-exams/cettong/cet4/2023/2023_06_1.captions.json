@@ -104,10 +104,20 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What did the director of the city administration say at the end of the news report?",
-      "translation": "市政府主任在新闻报导结尾时 说了什么?",
+      "text": "1. What do we learn from the report about the 55-year-old woman?",
+      "translation": "第 1 题：从报道中我们了解到关于这位55岁女性的什么信息?",
+      "start": 103.05,
+      "end": 107.3,
+      "questionNumber": 1
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "2. What did the director of the city administration say at the end of the news report?",
+      "translation": "第 2 题：新闻报道最后市政管理部门主任说了什么?",
       "start": 123.29,
-      "end": 128.03
+      "end": 128.4,
+      "questionNumber": 2
     },
     {
       "speaker": "听力原声",
@@ -248,26 +258,20 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does NASA require the paid volunteers to do?",
-      "translation": "美国航天局要求有偿志愿者做什么?",
+      "text": "3. What does NASA require the paid volunteers to do?",
+      "translation": "第 3 题：NASA要求有偿志愿者做什么?",
       "start": 247.21,
-      "end": 250.83
+      "end": 251.144,
+      "questionNumber": 3
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 4.",
-      "translation": "问题4",
+      "text": "4. What will the participants in the project eat?",
+      "translation": "第 4 题：该项目的参与者将吃什么?",
       "start": 265.79,
-      "end": 266.69
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What will the participants in the project eat?",
-      "translation": "项目参与者吃什么?",
-      "start": 267.27,
-      "end": 269.85
+      "end": 270.325,
+      "questionNumber": 4
     },
     {
       "speaker": "听力原声",
@@ -403,50 +407,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 5.",
-      "translation": "问题5",
+      "text": "5. What do the news reports say about the Japanese mayor Takashi Kawamura?",
+      "translation": "第 5 题：新闻报道中关于日本市长河村隆志说了什么?",
       "start": 374.91,
-      "end": 375.65
+      "end": 380.704,
+      "questionNumber": 5
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the news reports say about the Japanese mayor Takashi Karamura?",
-      "translation": "新闻报导中, 日本市长卡拉村高石有何报导?",
-      "start": 376.23,
-      "end": 380.43
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 6.",
-      "translation": "问题6",
+      "text": "6. What did mayor Takashi Kawamura offer to do?",
+      "translation": "第 6 题：市长河村隆志提出要做什么?",
       "start": 395.32,
-      "end": 396.14
+      "end": 400.15,
+      "questionNumber": 6
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What did Mayor Takashi Karamura offer to do?",
-      "translation": "卡拉村高石市长提出要做什么?",
-      "start": 396.62,
-      "end": 399.92
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 7.",
-      "translation": "问题7",
-      "start": 414.74,
-      "end": 415.54
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What did some Olympians",
-      "translation": "一些奥林匹亚人做了什么",
-      "start": 416.04,
-      "end": 417.8
+      "text": "7. What did some Olympians say they would do with their medals?",
+      "translation": "第 7 题：一些奥运选手说他们会如何处理自己的奖牌?",
+      "start": 414.24,
+      "end": 420.235,
+      "questionNumber": 7
     },
     {
       "speaker": "听力原声",
@@ -647,42 +630,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "8.",
-      "translation": "8. 预 算",
+      "text": "8. What did the woman do to her computer?",
+      "translation": "第 8 题：这位女士对她的电脑做了什么?",
       "start": 571.57,
-      "end": 572.01
+      "end": 574.812,
+      "questionNumber": 8
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What did the woman do to her computer?",
-      "translation": "那个女人对她的电脑做了什么?",
-      "start": 572.37,
-      "end": 574.35
+      "text": "9. What does the woman say about blue light?",
+      "translation": "第 9 题：这位女士关于蓝光说了什么?",
+      "start": 590.7,
+      "end": 593.508,
+      "questionNumber": 9
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "nine, what does the woman say about blue light?",
-      "translation": "九,女人怎么说蓝光?",
-      "start": 589.64,
-      "end": 593.18
+      "text": "10. Why does the man say he hasn't slept enough for months?",
+      "translation": "第 10 题：这位男士为什么说他几个月来睡眠不足?",
+      "start": 609.36,
+      "end": 613.206,
+      "questionNumber": 10
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question ten, why does the man say he hasn't slept enough for months?",
-      "translation": "问题10 为什么这个人说他几个月来睡得不够?",
-      "start": 608.08,
-      "end": 612.76
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question eleven, what has the woman learned from the research she has read?",
-      "translation": "问题十一,该妇女从她所读的研究报告中了解到什么?",
-      "start": 627.92,
-      "end": 632.52
+      "text": "11. What has the woman learned from the research she has read?",
+      "translation": "第 11 题：这位女士从她读过的研究中了解到了什么?",
+      "start": 629.3,
+      "end": 632.835,
+      "questionNumber": 11
     },
     {
       "speaker": "听力原声",
@@ -856,50 +835,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "12.",
-      "translation": "12. 十二、结 论",
+      "text": "12. What question were both speakers fed up with when they were kids?",
+      "translation": "第 12 题：当两位说话者还是孩子的时候,他们厌烦了什么问题?",
       "start": 759.37,
-      "end": 759.85
+      "end": 765.012,
+      "questionNumber": 12
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "question were both speakers fed up with when they were kids?",
-      "translation": "两位演讲者是否都厌倦了孩童时期的问题?",
-      "start": 760.73,
-      "end": 764.61
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "13.",
-      "translation": "13 号",
+      "text": "13. What occupation do adults see as both sensible and ambitious according to the woman?",
+      "translation": "第 13 题：根据这位女士的说法,成年人认为哪种职业既明智又有抱负?",
       "start": 780.08,
-      "end": 780.6
+      "end": 787.419,
+      "questionNumber": 13
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What occupation do adults see as both sensible and ambitious according to the woman?",
-      "translation": "成年妇女认为何种职业既合理又雄心勃勃?",
-      "start": 781.25,
-      "end": 787.25
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 14 What kind of goal setting does the woman like to see in children?",
-      "translation": "问题14:妇女喜欢在孩子身上看到什么样的目标设定?",
+      "text": "14. What kind of goal-setting does the woman like to see in children?",
+      "translation": "第 14 题：这位女士希望在孩子身上看到什么样的目标设定?",
       "start": 802.15,
-      "end": 807.35
+      "end": 807.532,
+      "questionNumber": 14
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 15 What does the woman suggest adults should do?",
-      "translation": "问题15:该妇女建议成年人应该做些什么?",
+      "text": "15. What does the woman suggest adults should do?",
+      "translation": "第 15 题：这位女士建议成年人应该做什么?",
       "start": 822.28,
-      "end": 826.8
+      "end": 826.841,
+      "questionNumber": 15
     },
     {
       "speaker": "听力原声",
@@ -1074,8 +1041,35 @@
       "text": "In total, KaiOS phones are made from about $15 worth of parts, while Apple's top-of-the-line iPhone has $390 worth of stuff.",
       "translation": "总的来说,KaiOS手机由价值约15美元的零部件制成,而苹果公司的顶级iPhone则使用了价值390美元的材料。",
       "start": 977.48,
-      "end": 1011.6,
+      "end": 997.57,
       "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "16. What are a number of phone companies trying to do in Africa?",
+      "translation": "第 16 题：许多手机公司正试图在非洲做什么？",
+      "start": 997.57,
+      "end": 1001.458,
+      "questionNumber": 16
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "17. How do KaiOS smartphones differ from smartphones of most other companies?",
+      "translation": "第 17 题：KaiOS智能手机与其他大多数公司的智能手机有何不同？",
+      "start": 1015.45,
+      "end": 1023.849,
+      "questionNumber": 17
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "18. What are KaiOS smartphones equipped with?",
+      "translation": "第 18 题：KaiOS智能手机配备了什么？",
+      "start": 1037.73,
+      "end": 1043.316,
+      "questionNumber": 18
     },
     {
       "speaker": "听力原声",
@@ -1259,18 +1253,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What has led to a more competitive price for new plastic?",
-      "translation": "是什么导致新塑料价格更具竞争力?",
-      "start": 1205.92,
-      "end": 1209.58
+      "text": "19. What is said about using recycled plastic to make plastic products in the past?",
+      "translation": "第 19 题：关于过去使用回收塑料制造塑料产品,有何说法?",
+      "start": 1182.84,
+      "end": 1189.857,
+      "questionNumber": 19
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 21 What does the UK government plan to do about plastic?",
-      "translation": "问题21. 联合王国政府打算对塑料做些什么?",
+      "text": "20. What has led to more competitive price for new plastic?",
+      "translation": "第 20 题：是什么导致新塑料的价格更具竞争力?",
+      "start": 1205.92,
+      "end": 1210.042,
+      "questionNumber": 20
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "21. What does the UK government plan to do about plastic?",
+      "translation": "第 21 题：英国政府计划对塑料采取什么措施?",
       "start": 1224.87,
-      "end": 1230.05
+      "end": 1230.409,
+      "questionNumber": 21
     },
     {
       "speaker": "听力原声",
@@ -1440,10 +1445,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 22.",
-      "translation": "问题22。",
+      "text": "22. What do we learn about the Dreamery, a business in Manhattan?",
+      "translation": "第 22 题：关于位于曼哈顿的Dreamery这家企业,我们了解到什么?",
       "start": 1346.88,
-      "end": 1347.78
+      "end": 1352.651,
+      "questionNumber": 22
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "23. Why does the speaker ask us to look at the world around us at 2:30 in the afternoon?",
+      "translation": "第 23 题：为什么说话者要我们在下午2点30分观察周围的世界?",
+      "start": 1366.99,
+      "end": 1374.505,
+      "questionNumber": 23
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "24. What do we learn about the quantity and quality of the speaker's work?",
+      "translation": "第 24 题：关于说话者工作的数量和质量,我们了解到什么?",
+      "start": 1388.55,
+      "end": 1395.4,
+      "questionNumber": 24
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "25. What does the speaker say he finds odd?",
+      "translation": "第 25 题：说话者说他觉得什么很奇怪?",
+      "start": 1409.43,
+      "end": 1414.736,
+      "questionNumber": 25
     },
     {
       "speaker": "听力原声",
@@ -1457,5 +1490,6 @@
   "translation_sources": [
     "https://english-exam.lazynote.cn/cet4/sections/listening/2023-06-1/",
     "Sams200/opus-mt-en-zh (unmatched sentences only)"
-  ]
+  ],
+  "question_verification": "All 25 published question prompts located in original audio; numbers and prompts share one replay unit."
 }

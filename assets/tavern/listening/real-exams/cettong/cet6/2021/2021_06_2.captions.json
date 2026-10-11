@@ -255,10 +255,20 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the man say about his company's managers?",
-      "translation": "他对他公司的经理怎么说?",
+      "text": "1. How does the woman describe her previous company's culture?",
+      "translation": "第 1 题：这位女士如何描述她以前公司的文化?",
+      "start": 184.88,
+      "end": 188.674,
+      "questionNumber": 1
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "2. What does the man say about his company's managers?",
+      "translation": "第 2 题：这位男士如何评价他公司的管理者?",
       "start": 202.95,
-      "end": 206.23
+      "end": 206.674,
+      "questionNumber": 2
     },
     {
       "speaker": "听力原声",
@@ -271,10 +281,11 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the woman say the employees in her new company can do?",
-      "translation": "女员工在她的新公司里能做什么?",
+      "text": "3. What does the woman say the employees in her new company can do?",
+      "translation": "第 3 题：这位女士说她新公司的员工能做什么?",
       "start": 221.7,
-      "end": 225.06
+      "end": 225.232,
+      "questionNumber": 3
     },
     {
       "speaker": "听力原声",
@@ -287,18 +298,11 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the man say?",
-      "translation": "他说什么?",
+      "text": "4. What does the man say about constructive feedback?",
+      "translation": "第 4 题：这位男士如何评价建设性反馈?",
       "start": 239.74,
-      "end": 241.28
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "about constructive feedback.",
-      "translation": "关于建设性反馈。",
-      "start": 241.57,
-      "end": 242.87
+      "end": 243.344,
+      "questionNumber": 4
     },
     {
       "speaker": "听力原声",
@@ -548,66 +552,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 5.",
-      "translation": "问题5",
+      "text": "5. What does the man say about his holiday?",
+      "translation": "第 5 题：男士对他的假期有何评价？",
       "start": 397.66,
-      "end": 398.36
+      "end": 402.071,
+      "questionNumber": 5
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the man say about his holiday?",
-      "translation": "那个人怎么说他的假期?",
-      "start": 398.92,
-      "end": 401.78
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 6.",
-      "translation": "问题6",
+      "text": "6. What does the woman say people tend to do when making decisions?",
+      "translation": "第 6 题：女士说人们在做决定时往往会做什么？",
       "start": 415.48,
-      "end": 416.22
+      "end": 421.284,
+      "questionNumber": 6
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the woman say people tend to do when making decisions?",
-      "translation": "妇女说人们在决策时往往会做什么?",
-      "start": 417.26,
-      "end": 420.66
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 7.",
-      "translation": "问题7",
+      "text": "7. What has made decision making increasingly difficult?",
+      "translation": "第 7 题：是什么使决策变得越来越困难？",
       "start": 434.48,
-      "end": 435.38
+      "end": 440.176,
+      "questionNumber": 7
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What has made decision-making increasingly difficult?",
-      "translation": "是什么使决策越来越困难?",
-      "start": 435.86,
-      "end": 439.78
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "8.",
-      "translation": "8. 预 算",
+      "text": "8. According to the woman, what should people do when making important decisions?",
+      "translation": "第 8 题：根据女士的说法，人们在做重要决定时应该怎么做？",
       "start": 453.56,
-      "end": 454.14
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "According to the woman, what should people do when making important decisions?",
-      "translation": "妇女认为,人们在作出重要决定时应该做些什么?",
-      "start": 454.78,
-      "end": 459.26
+      "end": 459.743,
+      "questionNumber": 8
     },
     {
       "speaker": "听力原声",
@@ -754,6 +730,33 @@
       "start": 611.59,
       "end": 624.42,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "9. What did the 2006 research find about homework?",
+      "translation": "第 9 题：2006年的研究发现了关于家庭作业的什么情况?",
+      "start": 630.79,
+      "end": 636.143,
+      "questionNumber": 9
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "10. What do experts think of homework requiring internet access?",
+      "translation": "第 10 题：专家如何看待需要互联网接入的家庭作业?",
+      "start": 649.45,
+      "end": 655.149,
+      "questionNumber": 10
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "11. What conclusion could be drawn from the study in Germany?",
+      "translation": "第 11 题：从德国的研究中可以得出什么结论?",
+      "start": 667.83,
+      "end": 673.394,
+      "questionNumber": 11
     },
     {
       "speaker": "听力原声",
@@ -920,42 +923,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "about Goddard's first rocket launch.",
-      "translation": "关于戈达第第一次发射火箭的事",
-      "start": 843.14,
-      "end": 845.22
+      "text": "12. What do we learn about Goddard's idea of using rockets for space exploration?",
+      "translation": "第 12 题：关于戈达德利用火箭进行太空探索的想法,我们了解到什么?",
+      "start": 820.13,
+      "end": 826.664,
+      "questionNumber": 12
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "14.",
-      "translation": "14. 14个",
-      "start": 859.12,
-      "end": 859.66
+      "text": "13. What does the passage say about Goddard's first rocket voyage?",
+      "translation": "第 13 题：文章关于戈达德的首次火箭飞行说了什么?",
+      "start": 839.2,
+      "end": 845.589,
+      "questionNumber": 13
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Why did Goddard move to New Mexico?",
-      "translation": "为什么戈达德搬到新墨西哥州?",
-      "start": 860.38,
-      "end": 862.3
+      "text": "14. Why did Goddard move to New Mexico?",
+      "translation": "第 14 题：戈达德为什么搬到新墨西哥州?",
+      "start": 858.15,
+      "end": 862.713,
+      "questionNumber": 14
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 15.",
-      "translation": "问题15。",
+      "text": "15. What does the passage say about Goddard's achievements?",
+      "translation": "第 15 题：文章关于戈达德的成就说了什么?",
       "start": 875.96,
-      "end": 876.72
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What does the passage say about Goddard's achievements?",
-      "translation": "这段话对戈达德的成就怎么说?",
-      "start": 877.18,
-      "end": 880.08
+      "end": 880.731,
+      "questionNumber": 15
     },
     {
       "speaker": "听力原声",
@@ -1204,50 +1203,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "16.",
-      "translation": "16岁。",
-      "start": 1126.69,
-      "end": 1127.35
+      "text": "16. What does the speaker say about working for a new venture?",
+      "translation": "第 16 题：说话者关于为新创企业工作说了什么?",
+      "start": 1125.9,
+      "end": 1131.885,
+      "questionNumber": 16
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "does the speaker say about working for a new venture?",
-      "translation": "发言人有没有说要为新事业工作?",
-      "start": 1128.78,
-      "end": 1131.56
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "17.",
-      "translation": "17岁",
+      "text": "17. What has science demonstrated regarding the positive culture of a new venture?",
+      "translation": "第 17 题：关于新创企业的积极文化,科学证明了什么?",
       "start": 1145.33,
-      "end": 1146.07
+      "end": 1151.522,
+      "questionNumber": 17
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What has science demonstrated regarding the positive culture of a new venture?",
-      "translation": "科学在新企业的积极文化方面展示了什么?",
-      "start": 1146.97,
-      "end": 1151.25
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "18.",
-      "translation": "18岁",
+      "text": "18. What does the speaker say about entrepreneurs at the initial stage of a new venture?",
+      "translation": "第 18 题：说话者关于新创企业初始阶段的创业者说了什么?",
       "start": 1165.08,
-      "end": 1165.48
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What does the speaker say about entrepreneurs at the initial stage of a new venture?",
-      "translation": "这位发言者对新企业初始阶段的企业家有何看法?",
-      "start": 1166.22,
-      "end": 1171.36
+      "end": 1171.604,
+      "questionNumber": 18
     },
     {
       "speaker": "听力原声",
@@ -1452,6 +1430,33 @@
       "start": 1351.18,
       "end": 1357.9,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "19. What do we learn about the possible reason why women tend to live longer?",
+      "translation": "第 19 题：关于女性往往更长寿的可能原因，我们了解到什么？",
+      "start": 1364.79,
+      "end": 1370.663,
+      "questionNumber": 19
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "20. What is the recent discovery about human cells?",
+      "translation": "第 20 题：关于人类细胞的最新发现是什么？",
+      "start": 1383.27,
+      "end": 1389.255,
+      "questionNumber": 20
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "21. What do many public health policy makers believe?",
+      "translation": "第 21 题：许多公共卫生政策制定者相信什么？",
+      "start": 1402.75,
+      "end": 1407.251,
+      "questionNumber": 21
     },
     {
       "speaker": "听力原声",
@@ -1662,50 +1667,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "22.",
-      "translation": "22. 妇女 22",
+      "text": "22. Why are managers often frustrated with their employees?",
+      "translation": "第 22 题：为什么管理者常常对员工感到沮丧?",
       "start": 1621.41,
-      "end": 1622.15
+      "end": 1627.312,
+      "questionNumber": 22
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Why are managers often frustrated with their employees?",
-      "translation": "为什么管理人员经常对雇员感到沮丧?",
-      "start": 1623.67,
-      "end": 1626.71
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 23.",
-      "translation": "问题23。",
+      "text": "23. Why do employees sometimes disobey procedures intentionally?",
+      "translation": "第 23 题：为什么员工有时会故意违反程序?",
       "start": 1640.57,
-      "end": 1641.43
+      "end": 1647.439,
+      "questionNumber": 23
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Why do employees sometimes disobey procedures intentionally?",
-      "translation": "为什么雇员有时故意不服从程序?",
-      "start": 1642.38,
-      "end": 1646.98
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 24 When are employees more likely to follow instructions according to the researchers?",
-      "translation": "问题24:雇员何时更有可能按照研究人员的指示行事?",
+      "text": "24. When are employees more likely to follow instructions, according to the researchers?",
+      "translation": "第 24 题：根据研究人员的说法,员工在什么情况下更有可能遵循指示?",
       "start": 1660.81,
-      "end": 1667.49
+      "end": 1668.049,
+      "questionNumber": 24
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 25 What does the speaker say about e-mail?",
-      "translation": "问题25 发言者对电子邮件怎么说?",
+      "text": "25. What does the speaker say about emails?",
+      "translation": "第 25 题：说话者对电子邮件有何看法?",
       "start": 1681.45,
-      "end": 1685.93
+      "end": 1686.317,
+      "questionNumber": 25
     },
     {
       "speaker": "听力原声",
@@ -1719,5 +1712,6 @@
   "translation_sources": [
     "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-2/",
     "Sams200/opus-mt-en-zh (unmatched sentences only)"
-  ]
+  ],
+  "question_verification": "All 25 published question prompts located in original audio; numbers and prompts share one replay unit."
 }

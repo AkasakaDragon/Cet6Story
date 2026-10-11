@@ -131,6 +131,24 @@
     {
       "speaker": "听力原声",
       "actor": "",
+      "text": "1. What do we learn from the news report about the study?",
+      "translation": "第 1 题：从新闻报道中我们对这项研究了解到什么?",
+      "start": 133.07,
+      "end": 137.861,
+      "questionNumber": 1
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "2. What did the researchers acknowledge?",
+      "translation": "第 2 题：研究人员承认了什么?",
+      "start": 152.41,
+      "end": 156.219,
+      "questionNumber": 2
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
       "text": "At around half past nine this morning, a trailer attached to a lorry turned over at the crossing of High Street and Milton.",
       "translation": "今早9点半左右 一辆挂在一辆卡车上的拖车 在高街和米尔顿交叉口翻转",
       "start": 172.81,
@@ -205,8 +223,26 @@
       "text": "Thankfully, none of these accidents have resulted in serious injury.",
       "translation": "幸运的是,这些事故均未造成重伤。",
       "start": 229.55,
-      "end": 267.9,
+      "end": 241.7,
       "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "3. What does the news report say about the accident at the crossing of High Street in Milton?",
+      "translation": "第 3 题：新闻报道关于Milton High Street路口事故说了什么?",
+      "start": 241.7,
+      "end": 248.352,
+      "questionNumber": 3
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "4. What do we learn about the crossing on High Street?",
+      "translation": "第 4 题：关于High Street路口我们了解到什么?",
+      "start": 262.48,
+      "end": 267.733,
+      "questionNumber": 4
     },
     {
       "speaker": "听力原声",
@@ -302,42 +338,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What is Bangalore Airport trying to do about the helicopter taxi service?",
-      "translation": "班加罗尔机场对直升机出租车服务有何打算?",
+      "text": "5. What is Bangalore airport trying to do about the helicopter taxi service?",
+      "translation": "第 5 题：Bangalore机场正试图对直升机出租车服务做些什么?",
       "start": 377.15,
-      "end": 381.99
+      "end": 382.198,
+      "questionNumber": 5
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 6.",
-      "translation": "问题6",
+      "text": "6. What do we learn from the news report about the helicopter taxi ride?",
+      "translation": "第 6 题：从新闻报道中我们对直升机出租车服务了解到什么?",
       "start": 396.89,
-      "end": 397.77
+      "end": 403.142,
+      "questionNumber": 6
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do we learn from the news report about the helicopter taxi ride?",
-      "translation": "我们从关于直升机出租车的新闻报道中了解到什么?",
-      "start": 398.51,
-      "end": 402.79
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 7.",
-      "translation": "问题7",
+      "text": "7. Who are the targeted customers of the helicopter taxi service?",
+      "translation": "第 7 题：直升机出租车服务的目标客户是谁?",
       "start": 417.68,
-      "end": 418.6
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Who are the targeted customers of the helicopter taxi service?",
-      "translation": "直升机出租车服务的目标客户是谁?",
-      "start": 419.04,
-      "end": 423.5
+      "end": 423.715,
+      "questionNumber": 7
     },
     {
       "speaker": "听力原声",
@@ -715,66 +738,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 8.",
-      "translation": "问题8",
+      "text": "8. What does the woman plan to do for the weekend?",
+      "translation": "第 8 题：女士周末打算做什么?",
       "start": 592.4,
-      "end": 593.5
+      "end": 596.911,
+      "questionNumber": 8
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the woman plan to do for the weekend?",
-      "translation": "这个女人周末打算做什么?",
-      "start": 594.16,
-      "end": 596.6
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 9.",
-      "translation": "问题9",
+      "text": "9. What does the man suggest the woman do?",
+      "translation": "第 9 题：男士建议女士做什么?",
       "start": 611.6,
-      "end": 612.28
+      "end": 615.461,
+      "questionNumber": 9
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the man suggest the woman do?",
-      "translation": "男人建议女人怎么做?",
-      "start": 612.8,
-      "end": 615.18
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 10.",
-      "translation": "问题10。",
+      "text": "10. What does the man say about Spanish goat cheese?",
+      "translation": "第 10 题：男士对西班牙山羊奶酪有何评价?",
       "start": 630.02,
-      "end": 630.84
+      "end": 634.621,
+      "questionNumber": 10
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the man say about Spanish goat cheese?",
-      "translation": "那人怎么说西班牙山羊奶酪?",
-      "start": 631.44,
-      "end": 634.2
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "11.",
-      "translation": "11. 十一号",
+      "text": "11. What is the woman going to do at the end of the conversation?",
+      "translation": "第 11 题：对话结束时女士打算做什么?",
       "start": 649.51,
-      "end": 650.09
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What is the woman going to do at the end of the conversation?",
-      "translation": "谈话结束时那个女人会怎么做?",
-      "start": 650.87,
-      "end": 654.35
+      "end": 654.839,
+      "questionNumber": 11
     },
     {
       "speaker": "听力原声",
@@ -1037,66 +1032,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 12.",
-      "translation": "问题12。",
+      "text": "12. What does the woman say about using e-textbooks?",
+      "translation": "第 12 题：女士对使用电子教材有何看法?",
       "start": 819.33,
-      "end": 820.13
+      "end": 824.326,
+      "questionNumber": 12
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the woman say about using e-textbooks?",
-      "translation": "女性对使用电子教科书有何看法?",
-      "start": 820.61,
-      "end": 823.89
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 13.",
-      "translation": "问题13。",
+      "text": "13. According to the man, how can the use of tablets benefit students?",
+      "translation": "第 13 题：根据男士的说法,使用平板电脑如何能使学生受益?",
       "start": 838.92,
-      "end": 839.78
+      "end": 845.647,
+      "questionNumber": 13
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "According to the man, how can the use of tablets benefit students?",
-      "translation": "据该名男子说,使用平板电脑如何使学生受益?",
-      "start": 840.63,
-      "end": 845.43
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 14.",
-      "translation": "问题14。",
+      "text": "14. What does the woman say about students using tablets?",
+      "translation": "第 14 题：女士对学生使用平板电脑有何看法?",
       "start": 859.96,
-      "end": 861.3
+      "end": 865.772,
+      "questionNumber": 14
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the woman say about students using tablets?",
-      "translation": "女性对使用平板电脑的学生有何看法?",
-      "start": 861.84,
-      "end": 865.28
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 15.",
-      "translation": "问题15。",
+      "text": "15. What does the woman say about making electronic readers?",
+      "translation": "第 15 题：女士对制造电子阅读器有何看法?",
       "start": 880.28,
-      "end": 881.3
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What does the woman say about making electronic readers?",
-      "translation": "女性对电子读者有何看法?",
-      "start": 882.02,
-      "end": 884.92
+      "end": 885.472,
+      "questionNumber": 15
     },
     {
       "speaker": "听力原声",
@@ -1291,42 +1258,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "16.",
-      "translation": "16岁。",
+      "text": "16. What does the passage say we tend to do every day?",
+      "translation": "第 16 题：文章说我们每天倾向于做什么？",
       "start": 1043.92,
-      "end": 1044.38
+      "end": 1048.7,
+      "questionNumber": 16
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the passage say we tend to do every day?",
-      "translation": "通道上说我们每天都会做什么?",
-      "start": 1045.4,
-      "end": 1048.44
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 17.",
-      "translation": "问题17。",
+      "text": "17. What do we learn about person perception from this passage?",
+      "translation": "第 17 题：从这篇文章中我们对人际知觉了解到什么？",
       "start": 1063.28,
-      "end": 1064.1
+      "end": 1069.426,
+      "questionNumber": 17
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do we learn about person perception from this passage?",
-      "translation": "我们从这段话中 了解什么人的感觉?",
-      "start": 1064.88,
-      "end": 1069.06
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 18 What is the problem with using social categorization in person perception?",
-      "translation": "问题18:在人的看法中使用社会分类有什么问题?",
+      "text": "18. What is the problem with using social categorization in person perception?",
+      "translation": "第 18 题：在人际知觉中使用社会分类有什么问题？",
       "start": 1083.94,
-      "end": 1090.7
+      "end": 1091.012,
+      "questionNumber": 18
     },
     {
       "speaker": "听力原声",
@@ -1465,18 +1419,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 20 What did the study find about children who accessed social networking sites many times a day?",
-      "translation": "问题20 研究报告对每天多次访问社交网站的儿童有何发现?",
-      "start": 1250.13,
-      "end": 1258.72
+      "text": "19. What does the new study suggest about young people today and those from the previous generation?",
+      "translation": "第 19 题：新研究对当今年轻人和上一代人有何提示?",
+      "start": 1227.59,
+      "end": 1235.663,
+      "questionNumber": 19
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 21 What is adults worry about technological change?",
-      "translation": "问题21. 成人对技术变革有什么担心?",
+      "text": "20. What did the study find about children who accessed social networking sites many times a day?",
+      "translation": "第 20 题：该研究对每天多次访问社交网站的儿童有何发现?",
+      "start": 1250.13,
+      "end": 1258.809,
+      "questionNumber": 20
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "21. What is adults' worry about technological change?",
+      "translation": "第 21 题：成年人对技术变革的担忧是什么?",
       "start": 1273.56,
-      "end": 1279.02
+      "end": 1279.396,
+      "questionNumber": 21
     },
     {
       "speaker": "听力原声",
@@ -1641,66 +1606,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "22.",
-      "translation": "22. 妇女 22",
+      "text": "22. What does the speaker say about inspiration from consuming others' ideas and success stories?",
+      "translation": "第 22 题：说话人对于从他人的想法和成功故事中获取灵感有何看法?",
       "start": 1408.24,
-      "end": 1408.94
+      "end": 1417.101,
+      "questionNumber": 22
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "does the speaker say about inspiration from consuming others' ideas and success stories?",
-      "translation": "发言者是否说过,从消耗他人的想法和成功故事中汲取灵感?",
-      "start": 1410.16,
-      "end": 1416.62
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "23.",
-      "translation": "23 号",
+      "text": "23. What do we learn from the passage about active inspiration?",
+      "translation": "第 23 题：从文章中我们对主动灵感了解到什么?",
       "start": 1431.95,
-      "end": 1432.53
+      "end": 1437.536,
+      "questionNumber": 23
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do we learn from the passage about active inspiration?",
-      "translation": "我们从关于积极灵感的段落中学到什么?",
-      "start": 1433.39,
-      "end": 1437.09
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 24.",
-      "translation": "问题24。",
+      "text": "24. What does the passage say passive inspiration can do?",
+      "translation": "第 24 题：文章指出被动灵感能做什么?",
       "start": 1452.19,
-      "end": 1453.01
+      "end": 1457.89,
+      "questionNumber": 24
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the passage say passive inspiration can do?",
-      "translation": "句子上写着 消极的灵感能做什么?",
-      "start": 1454.16,
-      "end": 1457.7
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 25.",
-      "translation": "问题25。",
+      "text": "25. Where does the best inspiration come from according to the passage?",
+      "translation": "第 25 题：根据文章,最好的灵感来自哪里?",
       "start": 1472.72,
-      "end": 1473.76
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Where does the best inspiration come from according to the passage?",
-      "translation": "最好的灵感来自何方?",
-      "start": 1474.62,
-      "end": 1479.02
+      "end": 1479.374,
+      "questionNumber": 25
     },
     {
       "speaker": "听力原声",
@@ -1714,5 +1651,6 @@
   "translation_sources": [
     "https://english-exam.lazynote.cn/cet4/sections/listening/2022-09-1/",
     "Sams200/opus-mt-en-zh (unmatched sentences only)"
-  ]
+  ],
+  "question_verification": "All 25 published question prompts located in original audio; numbers and prompts share one replay unit."
 }

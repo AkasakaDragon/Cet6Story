@@ -211,58 +211,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "1.",
-      "translation": "1. 国家",
+      "text": "1. What do we learn about the man from the conversation?",
+      "translation": "第 1 题：从对话中我们了解到这位男士的什么信息?",
       "start": 162.35,
-      "end": 162.83
+      "end": 166.259,
+      "questionNumber": 1
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do we learn about the man from the conversation?",
-      "translation": "我们从谈话中了解到什么?",
-      "start": 163.21,
-      "end": 165.63
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "2.",
-      "translation": "2. 目标",
+      "text": "2. What does the man say the government of Winopia is probably undergoing?",
+      "translation": "第 2 题：这位男士说Winopia政府可能正在经历什么?",
       "start": 179.6,
-      "end": 180.22
+      "end": 185.066,
+      "questionNumber": 2
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the man say the government of Winoppia is probably undergoing?",
-      "translation": "维诺皮亚政府可能正在经历什么?",
-      "start": 180.68,
-      "end": 184.34
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "3.",
-      "translation": "3 个",
+      "text": "3. According to the man, how does one get a career in foreign relations?",
+      "translation": "第 3 题：根据这位男士的说法,如何获得外交关系方面的职业?",
       "start": 198.45,
-      "end": 199.05
+      "end": 203.829,
+      "questionNumber": 3
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "According to the man, how does one get a career in foreign relations?",
-      "translation": "男人说, 一个人如何在对外关系中找到职业?",
-      "start": 199.37,
-      "end": 203.25
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question four, what do the speakers mainly discuss by the end of the conversation?",
-      "translation": "问题四,发言者在对话结束时主要讨论什么?",
-      "start": 217.04,
-      "end": 221.74
+      "text": "4. What do the speakers mainly discuss by the end of the conversation?",
+      "translation": "第 4 题：在对话结束时,说话者主要讨论了什么?",
+      "start": 218.16,
+      "end": 222.185,
+      "questionNumber": 4
     },
     {
       "speaker": "听力原声",
@@ -559,6 +539,42 @@
     {
       "speaker": "听力原声",
       "actor": "",
+      "text": "5. Why does the man suggest they call it a day?",
+      "translation": "第 5 题：男士为什么建议他们今天就到此为止?",
+      "start": 349.12,
+      "end": 353.249,
+      "questionNumber": 5
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "6. What does the woman say is a little tough?",
+      "translation": "第 6 题：女士说什么有点难?",
+      "start": 366.04,
+      "end": 370.089,
+      "questionNumber": 6
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "7. What does the man say the woman must be in thinking they'll finish by next week?",
+      "translation": "第 7 题：男士说女士认为他们下周能完成是怎样的想法?",
+      "start": 382.76,
+      "end": 389.056,
+      "questionNumber": 7
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "8. What does the entire managerial hierarchy want to see according to the woman?",
+      "translation": "第 8 题：根据女士所说,整个管理层想要看到什么?",
+      "start": 401.72,
+      "end": 407.852,
+      "questionNumber": 8
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
       "text": "Section B, directions.",
       "translation": "B节,方向。",
       "start": 420.88,
@@ -615,17 +631,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "1.",
-      "translation": "1. 国家",
-      "start": 450.29,
-      "end": 450.77
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "One thing I've learned in a quarter century of management is that there are ample grey areas in human behaviour,",
+      "text": "1. One thing I've learned in a quarter century of management is that there are ample grey areas in human behaviour,",
       "translation": "我在管理四分之一世纪学到的一件事 就是人类行为中有很多灰色区域",
-      "start": 451.85,
+      "start": 450.29,
       "end": 458.41
     },
     {
@@ -735,10 +743,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What did the speaker and his counterpart do when the two employees gave different accounts of the same event?",
-      "translation": "当两名雇员对同一事件作了不同的说明时,发言者及其对应人员做了哪些工作?",
+      "text": "9. When can it be hard to know whom to believe?",
+      "translation": "第 9 题：什么时候很难知道该相信谁？",
+      "start": 554.56,
+      "end": 558.455,
+      "questionNumber": 9
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "10. What does the speaker definitely recall about the dispute mentioned as an example?",
+      "translation": "第 10 题：关于作为例子提到的那次争议,说话者明确记得什么？",
+      "start": 572.36,
+      "end": 578.142,
+      "questionNumber": 10
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "11. What did the speaker and his counterpart do when the two employees gave different accounts of the same event?",
+      "translation": "第 11 题：当两名员工对同一事件给出不同说法时,说话者和他的对应方做了什么？",
       "start": 592.41,
-      "end": 598.37
+      "end": 598.779,
+      "questionNumber": 11
     },
     {
       "speaker": "听力原声",
@@ -903,66 +930,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "12.",
-      "translation": "12. 十二、结 论",
+      "text": "12. What do an increasing number of Americans do according to the passage?",
+      "translation": "第 12 题：根据文章，越来越多的美国人在做什么?",
       "start": 736.39,
-      "end": 736.85
+      "end": 741.452,
+      "questionNumber": 12
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do an increasing number of Americans do according to the passage?",
-      "translation": "越来越多的美国人根据通道做了些什么?",
-      "start": 737.75,
-      "end": 741.07
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "13.",
-      "translation": "13 号",
+      "text": "13. What does Eddie Yoon think cooking is akin to?",
+      "translation": "第 13 题：Eddie Yoon认为烹饪类似于什么?",
       "start": 754.82,
-      "end": 755.36
+      "end": 759.042,
+      "questionNumber": 13
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does Eddie Eun think cooking is akin to?",
-      "translation": "艾迪恩觉得做饭和什么相似?",
-      "start": 756.16,
-      "end": 758.84
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 14.",
-      "translation": "问题14。",
+      "text": "14. What will Americans be able to do by making their own lunch?",
+      "translation": "第 14 题：美国人通过自己做午餐能够做到什么?",
       "start": 772.33,
-      "end": 772.95
+      "end": 776.937,
+      "questionNumber": 14
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What will Americans be able to do by making their own lunch?",
-      "translation": "美国人自己做午餐能做什么?",
-      "start": 773.49,
-      "end": 776.77
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 15.",
-      "translation": "问题15。",
+      "text": "15. What does the passage say signifies a host of challenges for America's grocery industry?",
+      "translation": "第 15 题：文章说什么标志着美国杂货业面临诸多挑战?",
       "start": 790.07,
-      "end": 790.71
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What does the passage say signifies host of challenges for America's grocery industry?",
-      "translation": "美国杂货业面临诸多挑战,",
-      "start": 791.51,
-      "end": 796.43
+      "end": 796.638,
+      "questionNumber": 15
     },
     {
       "speaker": "听力原声",
@@ -1175,32 +1174,35 @@
       "text": "And make sure your name is on the bag, along with your phone number, so an agent can contact you.",
       "translation": "同时要确保行李上写有你的姓名和电话号码，这样工作人员就能联系到你。",
       "start": 985.61,
-      "end": 998.4,
+      "end": 996.95,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/"
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What may happen to your baggage even when there are sophisticated automated systems?",
-      "translation": "即使有先进的自动化系统,你的行李也会怎么样?",
+      "text": "16. What is the number-one reason a bag ends up lost according to this talk?",
+      "translation": "第 16 题：根据这段话，行李箱最终丢失的首要原因是什么?",
+      "start": 996.95,
+      "end": 1003.015,
+      "questionNumber": 16
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "17. What may happen to your baggage even when there are sophisticated automated systems?",
+      "translation": "第 17 题：即使有先进的自动化系统,您的行李可能会发生什么情况?",
       "start": 1017.66,
-      "end": 1022.3
+      "end": 1022.693,
+      "questionNumber": 17
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 18.",
-      "translation": "问题18。",
+      "text": "18. What does the speaker advise us to do at the end of the talk?",
+      "translation": "第 18 题：讲话者在结尾处建议我们做什么?",
       "start": 1035.76,
-      "end": 1036.54
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What does the speaker advise us to do at the end of the talk?",
-      "translation": "发言者建议我们在谈话结束时做什么?",
-      "start": 1037.46,
-      "end": 1040.38
+      "end": 1040.729,
+      "questionNumber": 18
     },
     {
       "speaker": "听力原声",
@@ -1422,18 +1424,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "How did the participants in the new study respond regarding phone use during social interactions?",
-      "translation": "新研究的参与者如何在社会互动期间对电话使用做出回应?",
-      "start": 1256.06,
-      "end": 1261.24
+      "text": "19. What does the speaker say about using one's smartphone during a face-to-face conversation?",
+      "translation": "第 19 题：说话者关于在面对面交谈时使用智能手机说了什么?",
+      "start": 1236.8,
+      "end": 1241.666,
+      "questionNumber": 19
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 21 What does the speaker say can result from the common behaviour of using phones during face-to-face conversations?",
-      "translation": "问题21. 发言者说,在面对面交谈中使用电话的常见行为会产生什么结果?",
+      "text": "20. How did the participants in the new study respond regarding phone use during social interactions?",
+      "translation": "第 20 题：新研究中的参与者对社交互动期间使用手机是如何回应的?",
+      "start": 1256.06,
+      "end": 1261.695,
+      "questionNumber": 20
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "21. What does the speaker say can result from the common behavior of using phones during face-to-face conversations?",
+      "translation": "第 21 题：说话者说在面对面交谈时使用手机这种常见行为会导致什么?",
       "start": 1275.02,
-      "end": 1282.44
+      "end": 1283.113,
+      "questionNumber": 21
     },
     {
       "speaker": "听力原声",
@@ -1595,7 +1608,43 @@
       "text": "While B&Bs usually have low initial costs, experts estimate it would take at least five rooms rented regularly for the host to earn a living from B&B.",
       "translation": "虽然基准和基准通常初始成本较低,但专家估计,至少需要为东道方定期租用5个房间才能从基准和基准中谋生。",
       "start": 1447.27,
-      "end": 1526.412
+      "end": 1464.63
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "22. What does the speaker say travelers commonly complain about?",
+      "translation": "第 22 题：说话者说旅行者通常抱怨什么？",
+      "start": 1464.63,
+      "end": 1469.504,
+      "questionNumber": 22
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "23. What is said about Bed and Breakfast arrangements?",
+      "translation": "第 23 题：关于家庭旅馆安排说了什么？",
+      "start": 1482.78,
+      "end": 1487.241,
+      "questionNumber": 23
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "24. What is the first thing you have to consider if you want to start a B&B business?",
+      "translation": "第 24 题：如果你想开办家庭旅馆生意，你首先必须考虑什么？",
+      "start": 1500.52,
+      "end": 1507.061,
+      "questionNumber": 24
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "25. What does the speaker say potential B&B hosts must be realistic about?",
+      "translation": "第 25 题：说话者说潜在的家庭旅馆经营者必须对什么有现实认识？",
+      "start": 1520.24,
+      "end": 1526.775,
+      "questionNumber": 25
     },
     {
       "speaker": "听力原声",
@@ -1609,5 +1658,6 @@
   "translation_sources": [
     "https://english-exam.lazynote.cn/cet6/sections/listening/2025-12-1/",
     "Sams200/opus-mt-en-zh (unmatched sentences only)"
-  ]
+  ],
+  "question_verification": "All 25 published question prompts located in original audio; numbers and prompts share one replay unit."
 }

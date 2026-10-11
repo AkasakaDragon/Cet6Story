@@ -256,66 +256,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "1.",
-      "translation": "1. 国家",
+      "text": "1. What do we learn about the man from the conversation?",
+      "translation": "第 1 题：从对话中我们了解到这个男士的什么情况?",
       "start": 164.93,
-      "end": 165.29
+      "end": 168.959,
+      "questionNumber": 1
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do we learn about the man from the conversation?",
-      "translation": "我们从谈话中了解到什么?",
-      "start": 166.05,
-      "end": 168.51
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 2.",
-      "translation": "问题2",
+      "text": "2. What does the woman think about the information gained from an exit interview?",
+      "translation": "第 2 题：女士对从离职面谈中获得的信息有什么看法?",
       "start": 182.23,
-      "end": 182.97
+      "end": 187.959,
+      "questionNumber": 2
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the woman think about the information gained from an exit interview?",
-      "translation": "她对离职面谈获得的信息有何看法?",
-      "start": 183.39,
-      "end": 187.65
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 3.",
-      "translation": "问题3",
+      "text": "3. Why does the man want to rethink what he will say in the coming exit interview?",
+      "translation": "第 3 题：男士为什么想要重新考虑他在即将进行的离职面谈中要说的话?",
       "start": 201.23,
-      "end": 202.37
+      "end": 209.281,
+      "questionNumber": 3
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Why does the man want to rethink what he will say in the coming exit interview?",
-      "translation": "为什么这个人想重新考虑他在即将到来的离职面谈中将说的话?",
-      "start": 203.32,
-      "end": 209.06
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 4.",
-      "translation": "问题4",
+      "text": "4. What does the man think he had better do?",
+      "translation": "第 4 题：男士认为他最好做什么?",
       "start": 222.63,
-      "end": 223.59
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What does the man think he had better do?",
-      "translation": "那个人认为他最好做什么?",
-      "start": 223.95,
-      "end": 226.59
+      "end": 226.63,
+      "questionNumber": 4
     },
     {
       "speaker": "听力原声",
@@ -628,66 +600,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 5.",
-      "translation": "问题5",
+      "text": "5. What does the man want Jane Forster to talk about?",
+      "translation": "第 5 题：男士想让Jane Forster谈论什么?",
       "start": 372.02,
-      "end": 372.8
+      "end": 376.915,
+      "questionNumber": 5
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the man want Jane Forrester to talk about?",
-      "translation": "那个人想让简·福雷斯特谈什么?",
-      "start": 373.48,
-      "end": 376.66
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 6.",
-      "translation": "问题6",
+      "text": "6. Why does the woman describe her experience as \"far from glamorous\"?",
+      "translation": "第 6 题：女士为什么把她的经历描述为\"远非光鲜亮丽\"?",
       "start": 390.28,
-      "end": 391.1
+      "end": 396.32,
+      "questionNumber": 6
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Why does the woman describe her experience as far from glamorous?",
-      "translation": "为什么这个女人描述她的经历 远不光彩?",
-      "start": 391.96,
-      "end": 395.66
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 7.",
-      "translation": "问题7",
+      "text": "7. Why did the woman and those who went with her end their trip halfway?",
+      "translation": "第 7 题：女士和与她同行的人为什么中途结束了旅程?",
       "start": 409.81,
-      "end": 410.71
+      "end": 415.985,
+      "questionNumber": 7
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Why did the woman and those who went with her end their trip halfway?",
-      "translation": "为什么那个女人和那些随她去的人 都半途而废?",
-      "start": 411.26,
-      "end": 415.38
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "8.",
-      "translation": "8. 预 算",
+      "text": "8. What does the woman think of the journey?",
+      "translation": "第 8 题：女士如何看待这次旅程?",
       "start": 429.53,
-      "end": 429.95
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What does the woman think of the journey?",
-      "translation": "女人对旅途有何看法?",
-      "start": 430.61,
-      "end": 432.51
+      "end": 432.887,
+      "questionNumber": 8
     },
     {
       "speaker": "听力原声",
@@ -902,18 +846,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do researchers find about people reading scientific articles containing jargon terms?",
-      "translation": "研究者们对阅读含有术语的科学文章有何发现?",
-      "start": 629.87,
-      "end": 636.05
+      "text": "9. What does the passage say about the use of jargon terms by experts?",
+      "translation": "第 9 题：文章关于专家使用术语说了什么?",
+      "start": 608.89,
+      "end": 615.144,
+      "questionNumber": 9
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 11 What does Schulman suggest scientists do when communicating with the general public?",
-      "translation": "问题11. Schulman在与一般公众沟通时建议科学家做些什么?",
+      "text": "10. What do researchers find about people reading scientific articles containing jargon terms?",
+      "translation": "第 10 题：研究人员关于人们阅读含有术语的科学文章发现了什么?",
+      "start": 629.87,
+      "end": 636.503,
+      "questionNumber": 10
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "11. What does Schulman suggest scientists do when communicating with the general public?",
+      "translation": "第 11 题：Schulman建议科学家在与公众交流时做什么?",
       "start": 649.99,
-      "end": 656.88
+      "end": 657.242,
+      "questionNumber": 11
     },
     {
       "speaker": "听力原声",
@@ -1052,50 +1007,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 13.",
-      "translation": "问题13。",
+      "text": "12. What did Texas businessman Pattillo Higgins believe?",
+      "translation": "第 12 题：得克萨斯州商人帕蒂洛·希金斯相信什么?",
+      "start": 796.03,
+      "end": 801.942,
+      "questionNumber": 12
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "13. What prevented Higgins' workers from digging a proper hole to get the oil?",
+      "translation": "第 13 题：是什么阻止了希金斯的工人挖出合适的孔洞来获取石油?",
       "start": 815.05,
-      "end": 816.03
+      "end": 821.375,
+      "questionNumber": 13
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What prevented Higgins workers from digging a proper hole to get the oil?",
-      "translation": "为何希金斯工人不能挖一个合适的洞来获取石油?",
-      "start": 816.98,
-      "end": 821.14
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 14.",
-      "translation": "问题14。",
+      "text": "14. What does the passage say about Captain Lucas' drilling method?",
+      "translation": "第 14 题：文章关于卢卡斯船长的钻探方法说了什么?",
       "start": 834.77,
-      "end": 835.43
+      "end": 840.679,
+      "questionNumber": 14
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What's the passage to say about Captain Lucas' drilling method?",
-      "translation": "卢卡斯上尉的钻探方法 怎么说呢?",
-      "start": 835.99,
-      "end": 840.41
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 15.",
-      "translation": "问题15。",
+      "text": "15. What do we learn about Texas oil industry boom?",
+      "translation": "第 15 题：关于得克萨斯州石油工业繁荣我们了解到什么?",
       "start": 854.08,
-      "end": 854.76
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What do we learn about Texas' oil industry boom?",
-      "translation": "德克萨斯州石油工业繁荣我们学到什么?",
-      "start": 855.32,
-      "end": 858.44
+      "end": 858.76,
+      "questionNumber": 15
     },
     {
       "speaker": "听力原声",
@@ -1372,50 +1315,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "16.",
-      "translation": "16岁。",
+      "text": "16. What is a primary cause of employee dissatisfaction according to recent research?",
+      "translation": "第 16 题：根据近期研究，员工不满的主要原因是什么？",
       "start": 1095.85,
-      "end": 1096.63
+      "end": 1103.792,
+      "questionNumber": 16
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What is a primary cause of employee dissatisfaction according to recent research?",
-      "translation": "根据最近的研究,什么是雇员不满的主要原因?",
-      "start": 1098.04,
-      "end": 1103.42
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "17.",
-      "translation": "17岁",
+      "text": "17. What is one of the causes for poor management practices?",
+      "translation": "第 17 题：管理实践不佳的原因之一是什么？",
       "start": 1117.63,
-      "end": 1118.39
+      "end": 1123.144,
+      "questionNumber": 17
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What is one of the causes for poor management practices?",
-      "translation": "管理不善做法的原因之一是什么?",
-      "start": 1119.06,
-      "end": 1122.54
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 18.",
-      "translation": "问题18。",
+      "text": "18. What do we learn about the study on job dissatisfaction?",
+      "translation": "第 18 题：关于工作不满研究我们了解到什么？",
       "start": 1136.88,
-      "end": 1137.3
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What do we learn about the study on job dissatisfaction?",
-      "translation": "我们从工作不满研究中了解到什么?",
-      "start": 1138.19,
-      "end": 1141.67
+      "end": 1142.491,
+      "questionNumber": 18
     },
     {
       "speaker": "听力原声",
@@ -1667,42 +1589,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the passage say about the mining industry in Western Australia?",
-      "translation": "西澳大利亚的采矿业怎么说?",
+      "text": "19. What does the passage say about the mining industry in Western Australia?",
+      "translation": "第 19 题：文章关于西澳大利亚采矿业说了什么?",
       "start": 1350.22,
-      "end": 1354.42
+      "end": 1354.601,
+      "questionNumber": 19
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 20.",
-      "translation": "问题20。",
+      "text": "20. What is the impact of the digitization of the mining industry?",
+      "translation": "第 20 题：采矿业数字化的影响是什么?",
       "start": 1368.23,
-      "end": 1369.01
+      "end": 1373.589,
+      "questionNumber": 20
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "is the impact of the digitization of the mining industry?",
-      "translation": "采矿业的数字化是否产生了影响?",
-      "start": 1369.85,
-      "end": 1373.29
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 21.",
-      "translation": "问题21",
+      "text": "21. What is the attitude of workers' unions towards the introduction of new technology?",
+      "translation": "第 21 题：工会对引入新技术的态度是什么?",
       "start": 1387.18,
-      "end": 1387.98
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What is the attitude of workers unions towards the introduction of new technology?",
-      "translation": "工会对引进新技术持什么态度?",
-      "start": 1388.76,
-      "end": 1393.94
+      "end": 1394.427,
+      "questionNumber": 21
     },
     {
       "speaker": "听力原声",
@@ -1927,18 +1836,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What is said about middle income countries?",
-      "translation": "中等收入国家的情况如何?",
-      "start": 1646.91,
-      "end": 1649.41
+      "text": "22. What does the speaker say about traffic accidents in Thailand?",
+      "translation": "第 22 题：说话者关于泰国交通事故说了什么?",
+      "start": 1604.79,
+      "end": 1611.354,
+      "questionNumber": 22
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "25 What else could be done to reduce fatal road accidents in addition to safer roads?",
-      "translation": "25 除了安全道路之外,还可以采取什么措施减少致命道路事故?",
+      "text": "23. What do we learn from an American institute's statistics regarding road deaths?",
+      "translation": "第 23 题：从一家美国研究机构关于道路死亡的统计数据中我们了解到什么?",
+      "start": 1623.98,
+      "end": 1632.106,
+      "questionNumber": 23
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "24. What is said about middle-income countries?",
+      "translation": "第 24 题：关于中等收入国家说了什么?",
+      "start": 1646.91,
+      "end": 1649.793,
+      "questionNumber": 24
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "25. What else could be done to reduce fatal road accidents in addition to safer roads?",
+      "translation": "第 25 题：除了更安全的道路之外,还可以做什么来减少致命的道路事故?",
       "start": 1663.2,
-      "end": 1670.72
+      "end": 1670.921,
+      "questionNumber": 25
     },
     {
       "speaker": "听力原声",
@@ -1952,5 +1881,6 @@
   "translation_sources": [
     "https://english-exam.lazynote.cn/cet6/sections/listening/2021-06-1/",
     "Sams200/opus-mt-en-zh (unmatched sentences only)"
-  ]
+  ],
+  "question_verification": "All 25 published question prompts located in original audio; numbers and prompts share one replay unit."
 }

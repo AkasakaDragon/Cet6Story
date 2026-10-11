@@ -229,18 +229,20 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question one, what was the woman's first impression of the apartment?",
-      "translation": "问题一,那女人对公寓的第一印象是什么?",
-      "start": 158.74,
-      "end": 163.28
+      "text": "1. What was the woman's first impression of the apartment?",
+      "translation": "第 1 题：这位女士对这套公寓的第一印象是什么?",
+      "start": 159.96,
+      "end": 163.819,
+      "questionNumber": 1
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question two, why does the woman say she is going to sound like an idiot?",
-      "translation": "问题二 为什么这个女人说 她会像个白痴?",
-      "start": 177.11,
-      "end": 181.75
+      "text": "2. Why does the woman say she is going to sound like an idiot?",
+      "translation": "第 2 题：为什么这位女士说她听起来会像个傻瓜?",
+      "start": 178.21,
+      "end": 182.224,
+      "questionNumber": 2
     },
     {
       "speaker": "听力原声",
@@ -253,26 +255,20 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do we learn about the man when he left the dormitory to live on his own?",
-      "translation": "当他离开宿舍独自生活时 我们该了解什么?",
+      "text": "3. What do we learn about the man when he left the dormitory to live on his own?",
+      "translation": "第 3 题：当这位男士离开宿舍独自生活时,我们了解到关于他的什么情况?",
       "start": 196.91,
-      "end": 201.97
+      "end": 202.178,
+      "questionNumber": 3
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 4.",
-      "translation": "问题4",
+      "text": "4. What does the man say he can't wait to do?",
+      "translation": "第 4 题：这位男士说他迫不及待想做什么?",
       "start": 215.31,
-      "end": 216.23
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What does the man say he can't wait to do?",
-      "translation": "那人怎么说他迫不及待想做什么?",
-      "start": 217.04,
-      "end": 220.42
+      "end": 220.617,
+      "questionNumber": 4
     },
     {
       "speaker": "听力原声",
@@ -459,8 +455,44 @@
       "text": "The arts are very competitive, and most graduates will end up with a great deal of debt, obtaining a degree that has little value on the job market.",
       "translation": "艺术领域竞争非常激烈，大多数毕业生最终会背负巨额债务，拿到一个在就业市场上价值不大的学位。",
       "start": 355.84,
-      "end": 415.1,
+      "end": 372.17,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "5. What do we learn from the conversation about the man?",
+      "translation": "第 5 题：从对话中我们了解到这位男士什么信息?",
+      "start": 372.17,
+      "end": 376.452,
+      "questionNumber": 5
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "6. What does the man believe is the problem with the current American system of higher education?",
+      "translation": "第 6 题：这位男士认为当前美国高等教育体系存在什么问题?",
+      "start": 389.07,
+      "end": 396.88,
+      "questionNumber": 6
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "7. How should the education budget be allocated according to the man?",
+      "translation": "第 7 题：根据这位男士的观点,教育预算应该如何分配?",
+      "start": 409.53,
+      "end": 415.595,
+      "questionNumber": 7
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "8. What does the woman say the arts can do?",
+      "translation": "第 8 题：这位女士认为人文艺术能够做什么?",
+      "start": 428.39,
+      "end": 432.704,
+      "questionNumber": 8
     },
     {
       "speaker": "听力原声",
@@ -692,50 +724,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "9.",
-      "translation": "9. 国家",
+      "text": "9. What do we learn about the feeling that one doesn't have time to think anymore?",
+      "translation": "第 9 题：关于人们不再有时间思考的感觉，我们了解到什么？",
       "start": 595.28,
-      "end": 595.72
+      "end": 601.376,
+      "questionNumber": 9
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do we learn about the feeling that one doesn't have time to think anymore?",
-      "translation": "我们有什么感想 觉得一个人没有时间思考了?",
-      "start": 596.22,
-      "end": 601.16
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 10.",
-      "translation": "问题10。",
+      "text": "10. What trait do all great professionals share?",
+      "translation": "第 10 题：所有伟大的专业人士有什么共同特质？",
       "start": 614.75,
-      "end": 615.53
+      "end": 620.272,
+      "questionNumber": 10
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What trait do all great professionals share?",
-      "translation": "所有伟大的专业人士都具有什么特征?",
-      "start": 616.05,
-      "end": 619.91
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 11.",
-      "translation": "问题11。",
+      "text": "11. What do some researchers believe is conducive to creative ideas?",
+      "translation": "第 11 题：一些研究人员认为什么有助于产生创造性想法？",
       "start": 633.7,
-      "end": 634.44
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What do some researchers believe is conducive to creative ideas?",
-      "translation": "一些研究人员认为什么有利于创造思想?",
-      "start": 635.12,
-      "end": 639.46
+      "end": 639.96,
+      "questionNumber": 11
     },
     {
       "speaker": "听力原声",
@@ -930,74 +941,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 12.",
-      "translation": "问题12。",
-      "start": 804.77,
-      "end": 805.55
+      "text": "12. What does the passage say about Colorado before it became a state?",
+      "translation": "第 12 题：文章关于Colorado成为州之前说了什么?",
+      "start": 804.02,
+      "end": 810.51,
+      "questionNumber": 12
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "does the passage say about Colorado before it became a state?",
-      "translation": "在科罗拉多成为州之前, 传言里有提到科罗拉多吗?",
-      "start": 806.29,
-      "end": 810.15
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 13.",
-      "translation": "问题13。",
+      "text": "13. How did the postal service contribute to America's westward expansion?",
+      "translation": "第 13 题：邮政服务如何促进了美国的西进运动?",
       "start": 823.85,
-      "end": 824.77
+      "end": 830.437,
+      "questionNumber": 13
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "How did the Postal Service contribute to America's westward expansion?",
-      "translation": "邮政局如何为美国的西向扩张作出贡献?",
-      "start": 825.45,
-      "end": 829.81
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 14.",
-      "translation": "问题14。",
+      "text": "14. What did the federal government do to meet the increasing demand for the postal service in the West?",
+      "translation": "第 14 题：联邦政府做了什么来满足西部对邮政服务日益增长的需求?",
       "start": 843.67,
-      "end": 844.73
+      "end": 851.659,
+      "questionNumber": 14
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What did the federal government do to meet the increasing demand for the Postal Service in the west?",
-      "translation": "联邦政府为满足西部对邮政局日益增长的需求做了哪些工作?",
-      "start": 845.27,
-      "end": 851.19
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "15.",
-      "translation": "15. 15个",
+      "text": "15. What did Mr. Blevins do to study the history of the US postal service?",
+      "translation": "第 15 题：Blevins先生做了什么来研究美国邮政服务的历史?",
       "start": 865.35,
-      "end": 865.87
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What did Mr. Belvins do to study the history of the U.S.",
-      "translation": "贝尔文斯先生为研究美国的历史做了些什么",
-      "start": 866.46,
-      "end": 870.46
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Service?",
-      "translation": "服务?",
-      "start": 870.76,
-      "end": 871.52
+      "end": 871.946,
+      "questionNumber": 15
     },
     {
       "speaker": "听力原声",
@@ -1223,10 +1198,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do we learn from previous studies about anxiety?",
-      "translation": "我们从以往关于焦虑的研究中学到什么?",
+      "text": "16. What does the speaker say the new study suggests?",
+      "translation": "第 16 题：说话者说新研究表明了什么？",
+      "start": 1093.18,
+      "end": 1098.313,
+      "questionNumber": 16
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "17. What did researchers do first in the new study?",
+      "translation": "第 17 题：研究人员在新研究中首先做了什么？",
+      "start": 1110.72,
+      "end": 1116.901,
+      "questionNumber": 17
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "18. What do we learn from previous studies about anxiety?",
+      "translation": "第 18 题：我们从以往关于焦虑的研究中了解到什么？",
       "start": 1131.56,
-      "end": 1135.14
+      "end": 1135.641,
+      "questionNumber": 18
     },
     {
       "speaker": "听力原声",
@@ -1490,50 +1484,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 19.",
-      "translation": "问题19。",
+      "text": "19. What does the speaker say about today's consumers?",
+      "translation": "第 19 题：说话者对当今消费者有何评价?",
       "start": 1335.51,
-      "end": 1336.29
+      "end": 1340.167,
+      "questionNumber": 19
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the speaker say about today's consumers?",
-      "translation": "发言者对今天的消费者说了什么?",
-      "start": 1336.94,
-      "end": 1339.54
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 20.",
-      "translation": "问题20。",
+      "text": "20. How do marketers capture consumers' attention as quickly as possible?",
+      "translation": "第 20 题：营销人员如何尽快吸引消费者的注意力?",
       "start": 1353.38,
-      "end": 1354.24
+      "end": 1359.569,
+      "questionNumber": 20
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "How do marketers capture consumers' attention as quickly as possible?",
-      "translation": "销售商如何尽快吸引消费者的注意力?",
-      "start": 1355.18,
-      "end": 1359.18
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 21.",
-      "translation": "问题21",
+      "text": "21. What does the speaker suggest marketers do to meet future challenges?",
+      "translation": "第 21 题：说话者建议营销人员做什么来应对未来的挑战?",
       "start": 1372.98,
-      "end": 1373.92
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What does the speaker suggest marketers do to meet future challenges?",
-      "translation": "发言者建议市场家如何应对未来的挑战?",
-      "start": 1374.52,
-      "end": 1378.8
+      "end": 1379.254,
+      "questionNumber": 21
     },
     {
       "speaker": "听力原声",
@@ -1717,42 +1690,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What did researchers from an American university analyze in their initial study?",
-      "translation": "美国一所大学的研究人员在初步研究中分析什么?",
+      "text": "22. What does the speaker say is interesting?",
+      "translation": "第 22 题：说话者认为什么是有趣的?",
+      "start": 1570.38,
+      "end": 1575.407,
+      "questionNumber": 22
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "23. What did researchers from an American university analyze in their initial study?",
+      "translation": "第 23 题：一所美国大学的研究人员在他们的初步研究中分析了什么?",
       "start": 1590.61,
-      "end": 1596.21
+      "end": 1596.36,
+      "questionNumber": 23
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 24.",
-      "translation": "问题24。",
+      "text": "24. What did the second study find about non-work friends?",
+      "translation": "第 24 题：第二项研究对非工作朋友有什么发现?",
       "start": 1609.71,
-      "end": 1610.75
+      "end": 1616.733,
+      "questionNumber": 24
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What did the second study find about non-work friends?",
-      "translation": "第二项研究对非工作朋友有何发现?",
-      "start": 1611.87,
-      "end": 1616.25
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 25.",
-      "translation": "问题25。",
+      "text": "25. What does the speaker suggest managers do?",
+      "translation": "第 25 题：说话者建议管理者做什么?",
       "start": 1630.04,
-      "end": 1631.32
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What does the speaker suggest managers do?",
-      "translation": "发言者建议管理人员做什么?",
-      "start": 1632.16,
-      "end": 1635.5
+      "end": 1635.71,
+      "questionNumber": 25
     },
     {
       "speaker": "听力原声",
@@ -1766,5 +1735,6 @@
   "translation_sources": [
     "https://english-exam.lazynote.cn/cet6/sections/listening/2023-06-1/",
     "Sams200/opus-mt-en-zh (unmatched sentences only)"
-  ]
+  ],
+  "question_verification": "All 25 published question prompts located in original audio; numbers and prompts share one replay unit."
 }

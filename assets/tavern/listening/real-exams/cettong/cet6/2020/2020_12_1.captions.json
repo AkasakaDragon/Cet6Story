@@ -202,58 +202,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "1.",
-      "translation": "1. 国家",
+      "text": "1. What is the woman complaining about?",
+      "translation": "第 1 题：这位女士在抱怨什么?",
       "start": 152.49,
-      "end": 152.93
+      "end": 155.907,
+      "questionNumber": 1
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What is the woman complaining about?",
-      "translation": "那个女人在抱怨什么?",
-      "start": 153.37,
-      "end": 155.53
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 2.",
-      "translation": "问题2",
+      "text": "2. What is the problem the woman's family encountered?",
+      "translation": "第 2 题：这位女士的家庭遇到了什么问题?",
       "start": 169.13,
-      "end": 169.79
+      "end": 174.065,
+      "questionNumber": 2
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What is the problem the woman's family encountered?",
-      "translation": "妇女家庭遇到的问题是什么?",
-      "start": 170.24,
-      "end": 173.54
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 3.",
-      "translation": "问题3",
+      "text": "3. What has caused the so-called \"bizarre technical detail\" according to the man?",
+      "translation": "第 3 题：根据这位男士的说法,是什么造成了所谓的\"奇怪的技术细节\"?",
       "start": 187.28,
-      "end": 188.02
+      "end": 194.449,
+      "questionNumber": 3
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What has caused the so-called bizarre technical detail according to the man?",
-      "translation": "是什么导致了所谓的奇特的技术细节 男人说?",
-      "start": 188.4,
-      "end": 194.22
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question four, what does the woman say she will do at the end of the conversation?",
-      "translation": "问题四 女人在谈话结束时会怎么说?",
-      "start": 207.43,
-      "end": 212.63
+      "text": "4. What does the woman say she would do at the end of the conversation?",
+      "translation": "第 4 题：这位女士在对话结束时说她会做什么?",
+      "start": 208.95,
+      "end": 212.914,
+      "questionNumber": 4
     },
     {
       "speaker": "听力原声",
@@ -531,50 +511,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 5.",
-      "translation": "问题5",
+      "text": "5. What do we learn about the speakers from the conversation?",
+      "translation": "第 5 题：从对话中我们了解到对话者的什么信息?",
       "start": 354.71,
-      "end": 355.37
+      "end": 359.603,
+      "questionNumber": 5
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do we learn about the speakers from the conversation?",
-      "translation": "我们从谈话中了解到讲者的情况是什么?",
-      "start": 356.07,
-      "end": 358.95
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 6.",
-      "translation": "问题6",
+      "text": "6. What will new kinds of jobs be like, according to the woman?",
+      "translation": "第 6 题：根据女士的说法,新型工作将会是什么样的?",
       "start": 372.85,
-      "end": 373.49
+      "end": 378.133,
+      "questionNumber": 6
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What will new kinds of jobs be like?",
-      "translation": "新的工作会是什么样子?",
-      "start": 374.09,
-      "end": 376.51
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "According to the woman,",
-      "translation": "据该妇女说,",
-      "start": 376.86,
-      "end": 377.96
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "question seven, what is the risk the man anticipates?",
-      "translation": "问题七 男人预期的风险是什么?",
-      "start": 391.23,
-      "end": 395.41
+      "text": "7. What is the risk the man anticipates?",
+      "translation": "第 7 题：男士预期的风险是什么?",
+      "start": 392.67,
+      "end": 395.571,
+      "questionNumber": 7
     },
     {
       "speaker": "听力原声",
@@ -587,10 +546,11 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "what is the man's concern about AI technology?",
-      "translation": "他对人工智能科技有什么顾虑?",
+      "text": "8. What is the man's concern about AI technology?",
+      "translation": "第 8 题：男士对人工智能技术的担忧是什么?",
       "start": 410.22,
-      "end": 413.2
+      "end": 413.706,
+      "questionNumber": 8
     },
     {
       "speaker": "听力原声",
@@ -811,50 +771,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 9.",
-      "translation": "问题9",
+      "text": "9. What are people under 30 advised to do to achieve financial security?",
+      "translation": "第 9 题：建议30岁以下的人做什么来实现财务安全？",
       "start": 564.86,
-      "end": 565.58
+      "end": 571.179,
+      "questionNumber": 9
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What are people under 30 advise to do to achieve financial security?",
-      "translation": "30岁以下的人有什么建议来获得财政保障?",
-      "start": 566.14,
-      "end": 570.66
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 10.",
-      "translation": "问题10。",
+      "text": "10. What should people do if they find it difficult to follow the speaker's advice on their financial plan?",
+      "translation": "第 10 题：如果人们发现难以遵循说话者关于财务计划的建议，他们应该做什么？",
       "start": 584.44,
-      "end": 585.18
+      "end": 591.757,
+      "questionNumber": 10
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What should people do if they find it difficult to follow the speaker's advice on their financial plan?",
-      "translation": "如果人们发现难以听从发言者对其财务计划的意见,应该怎么办?",
-      "start": 586.03,
-      "end": 591.39
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "11.",
-      "translation": "11. 十一号",
+      "text": "11. What does the speaker think is important for achieving financial security?",
+      "translation": "第 11 题：说话者认为什么对实现财务安全很重要？",
       "start": 605.2,
-      "end": 605.74
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What does the speaker think is important for achieving financial security?",
-      "translation": "发言者认为什么是实现财政保障的重要?",
-      "start": 606.36,
-      "end": 610.52
+      "end": 610.996,
+      "questionNumber": 11
     },
     {
       "speaker": "听力原声",
@@ -1002,15 +941,43 @@
       "text": "It's probably worth it.",
       "translation": "这也许值得",
       "start": 715.29,
-      "end": 738.43
+      "end": 722.84
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the speaker advise people to do in an image-obsessed world?",
-      "translation": "发言者建议人们在一个形象模糊的世界里做什么?",
+      "text": "12. What do we learn about the speaker when she first started her job?",
+      "translation": "第 12 题：关于说话者刚开始工作时的情况,我们了解到什么?",
+      "start": 722.84,
+      "end": 727.842,
+      "questionNumber": 12
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "13. Why were uniforms invented according to the speaker?",
+      "translation": "第 13 题：根据说话者的说法,制服是为什么而发明的?",
+      "start": 739.88,
+      "end": 746.168,
+      "questionNumber": 13
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "14. What does the speaker say about looking smarter?",
+      "translation": "第 14 题：关于看起来更精明,说话者说了什么?",
+      "start": 758.64,
+      "end": 764.07,
+      "questionNumber": 14
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "15. What does the speaker advise people to do in an image-obsessed world?",
+      "translation": "第 15 题：在这个痴迷于形象的世界里,说话者建议人们做什么?",
       "start": 778.7,
-      "end": 783.26
+      "end": 783.49,
+      "questionNumber": 15
     },
     {
       "speaker": "听力原声",
@@ -1310,10 +1277,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do we learn about the items in the speaker's home?",
-      "translation": "我们从发言者家里的项目学到什么?",
+      "text": "16. What has prevented Americans' happiness levels from increasing?",
+      "translation": "第 16 题：是什么阻止了美国人的幸福水平提高?",
+      "start": 1007.88,
+      "end": 1013.486,
+      "questionNumber": 16
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "17. What things should we possess according to the speaker?",
+      "translation": "第 17 题：根据说话者的观点,我们应该拥有什么东西?",
+      "start": 1026.3,
+      "end": 1031.529,
+      "questionNumber": 17
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "18. What do we learn about the items in the speaker's home?",
+      "translation": "第 18 题：关于说话者家中的物品我们了解到什么?",
       "start": 1046.22,
-      "end": 1049.32
+      "end": 1049.593,
+      "questionNumber": 18
     },
     {
       "speaker": "听力原声",
@@ -1523,42 +1509,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What did a team of scientists find in their study?",
-      "translation": "一个科学家团队在他们的研究中发现了什么?",
+      "text": "19. What did a team of scientists find in their study?",
+      "translation": "第 19 题：一组科学家在他们的研究中发现了什么?",
       "start": 1232.51,
-      "end": 1235.61
+      "end": 1235.78,
+      "questionNumber": 19
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 20.",
-      "translation": "问题20。",
+      "text": "20. Why would people fabricate numbers to their own detriment according to the researchers?",
+      "translation": "第 20 题：根据研究人员的说法,为什么人们会编造对自己不利的数字?",
       "start": 1248.87,
-      "end": 1249.65
+      "end": 1255.381,
+      "questionNumber": 20
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Why would people fabricate numbers to their own detriment according to the researchers?",
-      "translation": "为什么人们会根据研究人员的说法 编造数字而损害自己?",
-      "start": 1250.51,
-      "end": 1254.89
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 21.",
-      "translation": "问题21",
+      "text": "21. What does the speaker think of the researchers' findings?",
+      "translation": "第 21 题：说话者如何看待研究人员的发现?",
       "start": 1268.59,
-      "end": 1269.39
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What does the speaker think of the researchers findings?",
-      "translation": "发言人对研究人员的调查结果有何看法?",
-      "start": 1270.01,
-      "end": 1272.71
+      "end": 1273.292,
+      "questionNumber": 21
     },
     {
       "speaker": "听力原声",
@@ -1787,42 +1760,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "just heard Question 22 What does the speaker mainly discuss in this talk?",
-      "translation": "发言者主要在谈话中讨论什么?",
-      "start": 1454.52,
-      "end": 1461.29
+      "text": "22. What does the speaker mainly discuss in this talk?",
+      "translation": "第 22 题：演讲者在这次讲话中主要讨论了什么?",
+      "start": 1456.35,
+      "end": 1461.626,
+      "questionNumber": 22
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 23 What have studies found about most people by the time they turn 33?",
-      "translation": "问题23 大多数人在年满33岁时,有什么研究发现?",
+      "text": "23. What have studies found about most people by the time they turn 33?",
+      "translation": "第 23 题：研究发现大多数人到33岁时会怎样?",
       "start": 1474.63,
-      "end": 1481.51
+      "end": 1481.862,
+      "questionNumber": 23
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 24",
-      "translation": "问题24",
+      "text": "24. What do we learn from one of the most researched laws of social psychology?",
+      "translation": "第 24 题：我们从社会心理学中研究最多的定律之一中了解到什么?",
       "start": 1494.85,
-      "end": 1496.07
+      "end": 1502.285,
+      "questionNumber": 24
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do we learn from one of the most researched laws of social psychology?",
-      "translation": "我们从社会心理学中 研究最多的法则中 学到什么?",
-      "start": 1496.81,
-      "end": 1501.91
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 25 What might explain the fact that songs people listen to in their teen years are memorable and beloved?",
-      "translation": "问题25 如何解释人们在他们十几年里 聆听的歌曲 是值得纪念和爱戴的呢?",
+      "text": "25. What might explain the fact that songs people listen to in their teen years are memorable and beloved?",
+      "translation": "第 25 题：什么可以解释人们在青少年时期听的歌曲令人难忘且深受喜爱这一事实?",
       "start": 1515.28,
-      "end": 1523.71
+      "end": 1524.163,
+      "questionNumber": 25
     },
     {
       "speaker": "听力原声",
@@ -1836,5 +1805,6 @@
   "translation_sources": [
     "https://english-exam.lazynote.cn/cet6/sections/listening/2020-12-1/",
     "Sams200/opus-mt-en-zh (unmatched sentences only)"
-  ]
+  ],
+  "question_verification": "All 25 published question prompts located in original audio; numbers and prompts share one replay unit."
 }

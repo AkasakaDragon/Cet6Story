@@ -229,66 +229,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "1.",
-      "translation": "1. 国家",
+      "text": "1. What message does the woman convey in her book?",
+      "translation": "第 1 题：这位女士在她的书中传达了什么信息?",
       "start": 171.01,
-      "end": 171.47
+      "end": 175.251,
+      "questionNumber": 1
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What message does the woman convey in her book?",
-      "translation": "她书里传达了什么信息?",
-      "start": 172.05,
-      "end": 174.91
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 2.",
-      "translation": "问题2",
+      "text": "2. What do we learn about the woman before she became a writer?",
+      "translation": "第 2 题：关于这位女士成为作家之前的情况,我们了解到什么?",
       "start": 188.43,
-      "end": 189.31
+      "end": 193.325,
+      "questionNumber": 2
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do we learn about the woman before she became a writer?",
-      "translation": "在那个女人成为作家之前,我们了解她什么?",
-      "start": 189.81,
-      "end": 192.87
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "3.",
-      "translation": "3 个",
+      "text": "3. What does the woman say about one's financial behavior?",
+      "translation": "第 3 题：关于个人理财行为,这位女士说了什么?",
       "start": 206.64,
-      "end": 207.34
+      "end": 211.312,
+      "questionNumber": 3
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the woman say about one's financial behavior?",
-      "translation": "女人对一个人的财务行为怎么说?",
-      "start": 207.86,
-      "end": 210.76
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 4.",
-      "translation": "问题4",
+      "text": "4. What does the man say about sharing a home?",
+      "translation": "第 4 题：关于合住,这位男士说了什么?",
       "start": 224.49,
-      "end": 225.31
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What does the man say about sharing a home?",
-      "translation": "男人怎么说 共享一个家庭?",
-      "start": 225.79,
-      "end": 228.39
+      "end": 228.778,
+      "questionNumber": 4
     },
     {
       "speaker": "听力原声",
@@ -597,66 +569,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do we learn about one of the newest additions?",
-      "translation": "我们从最新的添加中 学到什么?",
+      "text": "5. What do we learn about one of the newest additions to the gallery's collection?",
+      "translation": "第 5 题：关于画廊藏品中最新增添的作品之一,我们了解到什么?",
       "start": 358.84,
-      "end": 361.26
+      "end": 363.375,
+      "questionNumber": 5
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "to the gallery's collection.",
-      "translation": "敬画廊收藏品",
-      "start": 361.82,
-      "end": 362.86
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "6.",
-      "translation": "6. 6个",
+      "text": "6. What does the man say about one of the most acclaimed paintings by Danielle Gregory?",
+      "translation": "第 6 题：关于Danielle Gregory最受赞誉的画作之一,男士说了什么?",
       "start": 376.94,
-      "end": 377.46
+      "end": 383.42,
+      "questionNumber": 6
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the man say about one of the most acclaimed paintings by Daniel Gregory?",
-      "translation": "丹尼尔·格雷戈里 最受赞美的绘画之一 他怎么说?",
-      "start": 378.46,
-      "end": 383.02
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 7.",
-      "translation": "问题7",
+      "text": "7. Why does the woman say she can feel immersed in the scene in the painting?",
+      "translation": "第 7 题：为什么女士说她能感到自己沉浸在画中的场景里?",
       "start": 396.81,
-      "end": 397.65
+      "end": 402.764,
+      "questionNumber": 7
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Why does the woman say she can feel immersed in the scene in the painting?",
-      "translation": "为什么那个女人说 她能感觉到沉浸在画中的现场?",
-      "start": 398.46,
-      "end": 402.56
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 8.",
-      "translation": "问题8",
+      "text": "8. How does the man describe Danielle Gregory?",
+      "translation": "第 8 题：男士如何描述Danielle Gregory?",
       "start": 416.09,
-      "end": 416.81
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "How does the man describe Daniel Gregory?",
-      "translation": "这个人怎么形容丹尼尔·格雷戈里?",
-      "start": 417.31,
-      "end": 419.61
+      "end": 419.98,
+      "questionNumber": 8
     },
     {
       "speaker": "听力原声",
@@ -863,18 +807,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 11.",
-      "translation": "问题11。",
-      "start": 617.16,
-      "end": 618.16
+      "text": "9. What does the passage say about forgiveness?",
+      "translation": "第 9 题：文章关于宽恕说了什么?",
+      "start": 582.65,
+      "end": 586.705,
+      "questionNumber": 9
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What should one do in order to forgive the offender?",
-      "translation": "为了宽恕罪犯,应该做些什么?",
-      "start": 618.82,
-      "end": 621.34
+      "text": "10. When is forgiveness especially challenging?",
+      "translation": "第 10 题：什么时候宽恕尤其具有挑战性?",
+      "start": 600.25,
+      "end": 604.121,
+      "questionNumber": 10
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "11. What should one do in order to forgive the offender?",
+      "translation": "第 11 题：为了宽恕冒犯者,一个人应该做什么?",
+      "start": 617.16,
+      "end": 621.828,
+      "questionNumber": 11
     },
     {
       "speaker": "听力原声",
@@ -1039,66 +994,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "12.",
-      "translation": "12. 十二、结 论",
+      "text": "12. What does the passage say about the Glasgow subway in the 1960s?",
+      "translation": "第 12 题：文章关于20世纪60年代的格拉斯哥地铁说了什么?",
       "start": 766.47,
-      "end": 766.91
+      "end": 772.101,
+      "questionNumber": 12
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "does the passage say about the Glasgow subway in the 1960s?",
-      "translation": "这条路上有提到1960年代格拉斯哥地铁吗?",
-      "start": 767.95,
-      "end": 771.97
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "13.",
-      "translation": "13 号",
+      "text": "13. Why was the Glasgow subway closed in 1977?",
+      "translation": "第 13 题：格拉斯哥地铁为什么在1977年关闭?",
       "start": 785.72,
-      "end": 786.12
+      "end": 790.572,
+      "questionNumber": 13
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Why was the Glasgow subway closed in 1977?",
-      "translation": "为什么1977年格拉斯哥地铁关闭?",
-      "start": 786.72,
-      "end": 790.0
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 14.",
-      "translation": "问题14。",
+      "text": "14. Why does the Glasgow subway remain important today?",
+      "translation": "第 14 题：格拉斯哥地铁今天为什么依然重要?",
       "start": 803.85,
-      "end": 804.55
+      "end": 808.681,
+      "questionNumber": 14
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Why does the Glasgow subway remain important today?",
-      "translation": "为什么格拉斯哥地铁今天仍然重要?",
-      "start": 805.41,
-      "end": 808.37
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 15.",
-      "translation": "问题15。",
+      "text": "15. What does the passage say about all subway stations in Glasgow nowadays?",
+      "translation": "第 15 题：文章关于格拉斯哥现今所有地铁站说了什么?",
       "start": 821.94,
-      "end": 822.76
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What does the passage say about all subway stations in Glasgow nowadays?",
-      "translation": "现在格拉斯哥所有的地铁站 都写了什么?",
-      "start": 823.38,
-      "end": 827.42
+      "end": 827.899,
+      "questionNumber": 15
     },
     {
       "speaker": "听力原声",
@@ -1348,50 +1275,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "16.",
-      "translation": "16岁。",
+      "text": "16. What does the speaker say about the bears in national parks now?",
+      "translation": "第 16 题：讲话者对国家公园里的熊的现状有何评价?",
       "start": 1040.36,
-      "end": 1041.16
+      "end": 1046.376,
+      "questionNumber": 16
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the speaker say about the bears in national parks now?",
-      "translation": "发言人现在对国家公园中的熊有什么看法?",
-      "start": 1041.98,
-      "end": 1046.1
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 17.",
-      "translation": "问题17。",
+      "text": "17. What does the speaker say about visitors feeding bears in national parks?",
+      "translation": "第 17 题：讲话者对游客在国家公园里喂熊有何评价?",
       "start": 1059.95,
-      "end": 1060.83
+      "end": 1066.491,
+      "questionNumber": 17
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the speaker say about visitors feeding bears in national parks?",
-      "translation": "发言者对游客在国家公园喂熊有何看法?",
-      "start": 1061.47,
-      "end": 1065.95
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "18.",
-      "translation": "18岁",
+      "text": "18. What is the speaker's advice to people who carry some food while hiking on a park trail?",
+      "translation": "第 18 题：讲话者对在公园小径徒步时携带食物的人有什么建议?",
       "start": 1080.16,
-      "end": 1080.58
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What is the speaker's advice to people who carry some food while hiking on a park trail?",
-      "translation": "演讲者对在公园小径上徒步旅行时携带食物的人有何建议?",
-      "start": 1081.2,
-      "end": 1086.66
+      "end": 1086.991,
+      "questionNumber": 18
     },
     {
       "speaker": "听力原声",
@@ -1630,50 +1536,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "19.",
-      "translation": "19. 经济",
+      "text": "19. What does the speaker say about prejudice?",
+      "translation": "第 19 题：说话者关于偏见说了什么?",
       "start": 1285.7,
-      "end": 1286.18
+      "end": 1289.427,
+      "questionNumber": 19
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "does the speaker say about prejudice?",
-      "translation": "发言者是否说过偏见?",
-      "start": 1287.36,
-      "end": 1288.84
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 20.",
-      "translation": "问题20。",
+      "text": "20. Why does the speaker say prejudiced attitudes are dangerous?",
+      "translation": "第 20 题：说话者为什么说带有偏见的态度是危险的?",
       "start": 1302.69,
-      "end": 1303.39
+      "end": 1307.981,
+      "questionNumber": 20
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Why does the speaker say attitudes are dangerous?",
-      "translation": "为什么发言者说态度是危险的?",
-      "start": 1304.3,
-      "end": 1307.5
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "21.",
-      "translation": "21 个",
+      "text": "21. When does the speaker say we begin to develop prejudiced attitudes?",
+      "translation": "第 21 题：说话者说我们什么时候开始形成带有偏见的态度?",
       "start": 1321.55,
-      "end": 1322.11
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "When does the speaker say we begin to develop prejudiced attitudes?",
-      "translation": "发言者说我们什么时候开始产生偏见态度?",
-      "start": 1322.73,
-      "end": 1326.87
+      "end": 1327.289,
+      "questionNumber": 21
     },
     {
       "speaker": "听力原声",
@@ -1919,50 +1804,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "22.",
-      "translation": "22. 妇女 22",
+      "text": "22. How did the speaker feel when he started high school?",
+      "translation": "第 22 题：说话者刚上高中时感觉如何?",
       "start": 1508.36,
-      "end": 1508.92
+      "end": 1513.008,
+      "questionNumber": 22
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "How did the speaker feel when he started high school?",
-      "translation": "发言者在高中开始上学时感觉如何?",
-      "start": 1510.08,
-      "end": 1512.68
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "23.",
-      "translation": "23 号",
+      "text": "23. What did the speaker once think of teenage friendships?",
+      "translation": "第 23 题：说话者曾经如何看待青少年时期的友谊?",
       "start": 1526.77,
-      "end": 1527.39
+      "end": 1531.655,
+      "questionNumber": 23
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What did the speaker once think of teenage friendships?",
-      "translation": "发言者曾经对十几岁的友谊有何看法?",
-      "start": 1528.29,
-      "end": 1530.95
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 24 What do we learn about the speaker when he returned from the Vietnam War?",
-      "translation": "问题24 发言者从越南战争回来后,我们了解他的情况如何?",
+      "text": "24. What do we learn about the speaker when he returned from the Vietnam War?",
+      "translation": "第 24 题：关于说话者从越南战争返回时,我们了解到什么?",
       "start": 1544.95,
-      "end": 1551.3
+      "end": 1551.602,
+      "questionNumber": 24
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "25 What does the speaker try to do as a teacher?",
-      "translation": "25 发言者作为教师想做什么?",
+      "text": "25. What does the speaker try to do as a teacher?",
+      "translation": "第 25 题：说话者作为一名教师试图做什么?",
       "start": 1565.04,
-      "end": 1569.26
+      "end": 1569.668,
+      "questionNumber": 25
     },
     {
       "speaker": "听力原声",
@@ -1976,5 +1849,6 @@
   "translation_sources": [
     "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-2/",
     "Sams200/opus-mt-en-zh (unmatched sentences only)"
-  ]
+  ],
+  "question_verification": "All 25 published question prompts located in original audio; numbers and prompts share one replay unit."
 }

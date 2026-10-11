@@ -216,66 +216,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "1.",
-      "translation": "1. 国家",
+      "text": "1. What does the woman say about her dissertation?",
+      "translation": "第 1 题：女士对她的论文说了什么?",
       "start": 158.63,
-      "end": 159.09
+      "end": 162.295,
+      "questionNumber": 1
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the woman say about her dissertation?",
-      "translation": "女的对她的论文怎么说?",
-      "start": 159.59,
-      "end": 161.59
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 2.",
-      "translation": "问题2",
+      "text": "2. What does the man say about his professor?",
+      "translation": "第 2 题：男士对他的教授说了什么?",
       "start": 175.65,
-      "end": 176.33
+      "end": 179.576,
+      "questionNumber": 2
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the man say about his professor?",
-      "translation": "这个人怎么说他的教授?",
-      "start": 177.0,
-      "end": 179.06
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 3.",
-      "translation": "问题3",
+      "text": "3. What does the woman say about her professor?",
+      "translation": "第 3 题：女士对她的教授说了什么?",
       "start": 193.12,
-      "end": 193.86
+      "end": 197.135,
+      "questionNumber": 3
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the woman say about her professor?",
-      "translation": "那女的对她的教授怎么说?",
-      "start": 194.37,
-      "end": 196.69
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 4.",
-      "translation": "问题4",
+      "text": "4. What do we learn the woman will do to complete her dissertation?",
+      "translation": "第 4 题：我们了解到女士将做什么来完成她的论文?",
       "start": 210.71,
-      "end": 211.45
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What do we learn the woman will do to complete her dissertation?",
-      "translation": "我们该如何学习这个女人 来完成她的论文呢?",
-      "start": 211.93,
-      "end": 215.15
+      "end": 215.671,
+      "questionNumber": 4
     },
     {
       "speaker": "听力原声",
@@ -493,66 +465,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 5.",
-      "translation": "问题5",
+      "text": "5. What does the woman say about the man in her introduction?",
+      "translation": "第 5 题：女士在介绍中是如何评价这位男士的?",
       "start": 362.37,
-      "end": 363.15
+      "end": 367.146,
+      "questionNumber": 5
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the woman say about the man in her introduction?",
-      "translation": "女人在介绍中怎么说男人?",
-      "start": 363.94,
-      "end": 366.66
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 6.",
-      "translation": "问题6",
+      "text": "6. What has motivated the man to write his books?",
+      "translation": "第 6 题：是什么促使这位男士写作这些书?",
       "start": 380.11,
-      "end": 381.15
+      "end": 384.95,
+      "questionNumber": 6
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What has motivated the man to write his books?",
-      "translation": "是什么激励他写他的书?",
-      "start": 382.01,
-      "end": 384.49
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "7.",
-      "translation": "7 个",
+      "text": "7. Who does the man say his last book was mainly written for?",
+      "translation": "第 7 题：这位男士说他的上一本书主要是为谁而写的?",
       "start": 398.26,
-      "end": 399.0
+      "end": 403.287,
+      "questionNumber": 7
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Who does the man say his last book was mainly written for?",
-      "translation": "那人说他的最后一本书 主要是写给谁的?",
-      "start": 399.73,
-      "end": 403.07
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 8.",
-      "translation": "问题8",
+      "text": "8. What does the man recommend people do?",
+      "translation": "第 8 题：这位男士建议人们做什么?",
       "start": 416.61,
-      "end": 417.41
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What does the man recommend people do?",
-      "translation": "男人建议人们做什么?",
-      "start": 418.17,
-      "end": 420.51
+      "end": 420.841,
+      "questionNumber": 8
     },
     {
       "speaker": "听力原声",
@@ -783,59 +727,37 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "placed briefly in a stressful situation.",
-      "translation": "短暂地处于紧张的境地。",
-      "start": 594.24,
-      "end": 596.56
+      "text": "9. What did researchers discover about rats placed briefly in a stressful situation?",
+      "translation": "第 9 题：研究人员发现,短暂置于压力情境中的大鼠会出现什么情况?",
+      "start": 589.77,
+      "end": 596.883,
+      "questionNumber": 9
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 10.",
-      "translation": "问题10。",
+      "text": "10. Why do people tend to have clear memories of dangerous situations they have encountered?",
+      "translation": "第 10 题：为什么人们往往对自己遭遇的危险情境有清晰的记忆?",
       "start": 610.15,
-      "end": 610.95
+      "end": 616.83,
+      "questionNumber": 10
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Why do people tend to have clearer memories of dangerous situations they have encountered?",
-      "translation": "为什么人们往往对遇到的危险情况有更清楚的记忆?",
-      "start": 611.47,
-      "end": 616.37
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "11.",
-      "translation": "11. 十一号",
+      "text": "11. What do scientists believe chronic stress can do?",
+      "translation": "第 11 题：科学家认为慢性压力会造成什么影响?",
       "start": 630.21,
-      "end": 630.81
+      "end": 634.995,
+      "questionNumber": 11
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do scientists believe chronic stress can do?",
-      "translation": "科学家们认为慢性压力能做些什么?",
-      "start": 631.5,
-      "end": 634.66
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "2.",
-      "translation": "2. 目标",
-      "start": 648.48,
-      "end": 649.1
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "For many managers and people who work in leadership positions, dealing with emails is a dilemma.",
+      "text": "2. For many managers and people who work in leadership positions, dealing with emails is a dilemma.",
       "translation": "对于许多管理者和担任领导职务的人来说，处理电子邮件是一个两难困境。",
-      "start": 649.99,
-      "end": 655.97,
-      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/"
+      "start": 648.48,
+      "end": 655.97
     },
     {
       "speaker": "听力原声",
@@ -938,42 +860,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 12.",
-      "translation": "问题12。",
+      "text": "12. What does the speaker say is a common problem with managers?",
+      "translation": "第 12 题：说话者认为管理者常见的问题是什么?",
       "start": 779.04,
-      "end": 779.8
+      "end": 784.154,
+      "questionNumber": 12
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the speaker say is a common problem with managers?",
-      "translation": "发言者说什么是管理人员的共同问题?",
-      "start": 780.39,
-      "end": 783.71
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 13 What may happen when managers ignore minor problems?",
-      "translation": "问题13:如果管理人员忽视小问题,会发生什么情况?",
+      "text": "13. What may happen when managers ignore minor problems?",
+      "translation": "第 13 题：当管理者忽视小问题时可能会发生什么?",
       "start": 797.38,
-      "end": 801.9
+      "end": 802.312,
+      "questionNumber": 13
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 14 What are leaders expected to do in pursuing their strategic goals?",
-      "translation": "问题14 领导人在实现其战略目标时应做些什么?",
+      "text": "14. What are leaders expected to do in pursuing their strategic goals?",
+      "translation": "第 14 题：领导者在追求战略目标时应该做什么?",
       "start": 815.3,
-      "end": 821.5
+      "end": 821.662,
+      "questionNumber": 14
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 15 How can a manager best avoid being distracted by email?",
-      "translation": "问题15 一名经理如何才能最好地避免被电子邮件分散注意力?",
+      "text": "15. How can a manager best avoid being distracted by email?",
+      "translation": "第 15 题：管理者如何才能最好地避免被电子邮件分散注意力?",
       "start": 834.81,
-      "end": 840.19
+      "end": 840.531,
+      "questionNumber": 15
     },
     {
       "speaker": "听力原声",
@@ -1245,31 +1163,34 @@
       "text": "16 to 18 are based on the recording you have just heard Question 16 What does the speaker say a team of marketing professors has studied?",
       "translation": "16至18是基于你刚才听到的问题16的录音,发言者说一组营销教授研究了什么?",
       "start": 1082.94,
-      "end": 1093.76
+      "end": 1088.08
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 17 how have medical professionals tried to fight obesity?",
-      "translation": "问题17:医疗专业人员如何努力与肥胖症作斗争?",
+      "text": "16. What does the speaker say a team of marketing professors has studied?",
+      "translation": "第 16 题：说话者说一个营销学教授团队研究了什么?",
+      "start": 1088.08,
+      "end": 1094.101,
+      "questionNumber": 16
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "17. How have medical professionals tried to fight obesity?",
+      "translation": "第 17 题：医疗专业人员如何努力对抗肥胖?",
       "start": 1107.26,
-      "end": 1111.92
+      "end": 1112.539,
+      "questionNumber": 17
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 18.",
-      "translation": "问题18。",
+      "text": "18. What can other companies learn from the example of the carrot promotion campaign?",
+      "translation": "第 18 题：其他公司能从胡萝卜促销活动的例子中学到什么?",
       "start": 1125.68,
-      "end": 1126.56
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What can other companies learn from the example of the Carrot Promotion Campaign?",
-      "translation": "其他公司可以从胡萝卜推广运动中学习什么?",
-      "start": 1127.32,
-      "end": 1132.04
+      "end": 1132.483,
+      "questionNumber": 18
     },
     {
       "speaker": "听力原声",
@@ -1432,42 +1353,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the speaker say about the cleaning products industry in recent years?",
-      "translation": "发言者对近年来清洁产品行业有什么看法?",
+      "text": "19. What does the speaker say about the cleaning products industry in recent years?",
+      "translation": "第 19 题：说话者关于近年来清洁产品行业说了什么?",
       "start": 1309.74,
-      "end": 1313.8
+      "end": 1314.089,
+      "questionNumber": 19
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 20.",
-      "translation": "问题20。",
+      "text": "20. Why are newly developed cleaning products selling well?",
+      "translation": "第 20 题：为什么新开发的清洁产品卖得很好?",
       "start": 1327.35,
-      "end": 1328.13
+      "end": 1332.161,
+      "questionNumber": 20
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Why are newly developed cleaning products selling well?",
-      "translation": "为什么新开发的清洁产品销售良好?",
-      "start": 1329.01,
-      "end": 1331.91
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 21.",
-      "translation": "问题21",
+      "text": "21. What are some customers doing to help promote non-traditional cleaning products?",
+      "translation": "第 21 题：一些顾客正在做什么来帮助推广非传统清洁产品?",
       "start": 1345.5,
-      "end": 1346.26
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What are some customers doing to help promote non-traditional cleaning products?",
-      "translation": "一些客户在帮助推广非传统清洁产品方面做了哪些工作?",
-      "start": 1346.98,
-      "end": 1351.5
+      "end": 1351.922,
+      "questionNumber": 21
     },
     {
       "speaker": "听力原声",
@@ -1676,66 +1584,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 22.",
-      "translation": "问题22。",
+      "text": "22. What problem might be caused by the growing piles of coins in fountains?",
+      "translation": "第 22 题：喷泉中不断堆积的硬币可能会造成什么问题?",
       "start": 1553.74,
-      "end": 1554.94
+      "end": 1560.727,
+      "questionNumber": 22
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What problem might be caused by the growing piles of coins in fountains?",
-      "translation": "喷泉中成堆的硬币可能会造成什么问题?",
-      "start": 1555.5,
-      "end": 1560.38
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 23.",
-      "translation": "问题23。",
+      "text": "23. What does the speaker say about the coins collected from New York City's park fountains?",
+      "translation": "第 23 题：说话者关于从纽约市公园喷泉中收集的硬币说了什么?",
       "start": 1573.89,
-      "end": 1575.03
+      "end": 1581.471,
+      "questionNumber": 23
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the speaker say about the coins collected from New York City's Park fountains?",
-      "translation": "发言人对从纽约市公园喷泉收集的硬币怎么说?",
-      "start": 1575.68,
-      "end": 1581.3
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 24.",
-      "translation": "问题24。",
+      "text": "24. What do we learn about the money collected from Rome's Trevi Fountain?",
+      "translation": "第 24 题：关于从罗马许愿池收集的钱,我们了解到什么?",
       "start": 1594.63,
-      "end": 1595.73
+      "end": 1601.386,
+      "questionNumber": 24
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do we learn about the money collected from Rome's Trevie Fountain?",
-      "translation": "我们从罗马的Trevie不老泉 收集到的钱 了解多少?",
-      "start": 1597.02,
-      "end": 1600.88
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 25.",
-      "translation": "问题25。",
+      "text": "25. What does the speaker say about Thomas Morgan?",
+      "translation": "第 25 题：说话者关于Thomas Morgan说了什么?",
       "start": 1614.67,
-      "end": 1615.63
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What does the speaker say about Thomas Morgan?",
-      "translation": "发言人怎么说托马斯·摩根?",
-      "start": 1616.17,
-      "end": 1618.79
+      "end": 1619.307,
+      "questionNumber": 25
     },
     {
       "speaker": "听力原声",
@@ -1749,5 +1629,6 @@
   "translation_sources": [
     "https://english-exam.lazynote.cn/cet6/sections/listening/2022-12-1/",
     "Sams200/opus-mt-en-zh (unmatched sentences only)"
-  ]
+  ],
+  "question_verification": "All 25 published question prompts located in original audio; numbers and prompts share one replay unit."
 }

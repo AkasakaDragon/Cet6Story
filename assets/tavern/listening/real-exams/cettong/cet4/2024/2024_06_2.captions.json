@@ -56,6 +56,24 @@
     {
       "speaker": "听力原声",
       "actor": "",
+      "text": "1. What do we learn about the JetBlue Airlines flight from the news report?",
+      "translation": "第 1 题：从新闻报道中我们了解到关于捷蓝航空公司航班的什么信息?",
+      "start": 103.35,
+      "end": 110.459,
+      "questionNumber": 1
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "2. How did the passengers feel when the plane came to a stop, according to Brian Healy?",
+      "translation": "第 2 题：根据Brian Healy所说,当飞机停下来时乘客们感觉如何?",
+      "start": 125.25,
+      "end": 133.121,
+      "questionNumber": 2
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
       "text": "A deadly snake which had finally been tracked down after escaping a zoo has slipped away for the second time.",
       "translation": "一条致命的毒蛇在从动物园逃脱后终于被追踪到,却第二次溜走了。",
       "start": 150.51,
@@ -124,6 +142,24 @@
       "start": 207.4,
       "end": 215.86,
       "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "3. What do we learn about the deadly snake from the news report?",
+      "translation": "第 3 题：从新闻报道中我们对这条致命的蛇了解到什么？",
+      "start": 223.09,
+      "end": 228.274,
+      "questionNumber": 3
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "4. How have the zoo staff been feeling about the snake?",
+      "translation": "第 4 题：动物园工作人员对这条蛇一直有何感受？",
+      "start": 244.75,
+      "end": 248.528,
+      "questionNumber": 4
     },
     {
       "speaker": "听力原声",
@@ -214,26 +250,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What are electric bike riders supposed to do?",
-      "translation": "电动自行车骑手应该做什么?",
+      "text": "5. What do we learn from the news report about the introduction of electric bikes into Jacksonville?",
+      "translation": "第 5 题：从新闻报道中我们了解到关于Jacksonville引入电动自行车的哪些信息？",
+      "start": 345.01,
+      "end": 351.843,
+      "questionNumber": 5
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "6. What are electric bike riders supposed to do?",
+      "translation": "第 6 题：电动自行车骑行者应该做什么？",
       "start": 368.56,
-      "end": 371.72
+      "end": 371.922,
+      "questionNumber": 6
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 7.",
-      "translation": "问题7",
+      "text": "7. Why did City Council member Anna Cumber advocate the introduction of electric bikes into Jacksonville?",
+      "translation": "第 7 题：为什么市议会成员Anna Cumber倡导在Jacksonville引入电动自行车？",
       "start": 387.21,
-      "end": 387.97
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Why did City Council member Anna Kumba advocate the introduction of electric bikes into Jacksonville?",
-      "translation": "为什么市议员Anna Kumba主张将电动自行车引入Jacksonville?",
-      "start": 388.69,
-      "end": 395.09
+      "end": 395.458,
+      "questionNumber": 7
     },
     {
       "speaker": "听力原声",
@@ -490,66 +529,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 8.",
-      "translation": "问题8",
+      "text": "8. What should we do with the topic of money, according to the woman?",
+      "translation": "第 8 题：根据这位女士的说法,我们应该如何对待金钱这个话题?",
       "start": 554.16,
-      "end": 554.72
+      "end": 559.068,
+      "questionNumber": 8
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What should we do with the topic of money, according to the woman?",
-      "translation": "女人说,钱这个话题该怎么处理?",
-      "start": 555.18,
-      "end": 558.76
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 9.",
-      "translation": "问题9",
+      "text": "9. How does the woman say money can be made real for children?",
+      "translation": "第 9 题：这位女士说如何能让金钱对孩子们变得真实?",
       "start": 574.41,
-      "end": 575.17
+      "end": 579.608,
+      "questionNumber": 9
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "How does the woman say money can be made real for children?",
-      "translation": "女人怎么说钱能让孩子变成真钱?",
-      "start": 575.69,
-      "end": 579.19
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 10.",
-      "translation": "问题10。",
+      "text": "10. What is the common practice between the man and the woman?",
+      "translation": "第 10 题：这位男士和这位女士之间的共同做法是什么?",
       "start": 594.94,
-      "end": 595.66
+      "end": 599.395,
+      "questionNumber": 10
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What is the common practice between the man and the woman?",
-      "translation": "男女的通常做法是什么?",
-      "start": 596.2,
-      "end": 599.08
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 11.",
-      "translation": "问题11。",
+      "text": "11. What is the woman always talking about to her elder daughter?",
+      "translation": "第 11 题：这位女士总是和她的大女儿谈论什么?",
       "start": 614.69,
-      "end": 615.47
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What is the woman always talking about to her elder daughter?",
-      "translation": "那个女人总在跟她的长女儿说些什么?",
-      "start": 615.98,
-      "end": 619.2
+      "end": 619.447,
+      "questionNumber": 11
     },
     {
       "speaker": "听力原声",
@@ -764,10 +775,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What will be one option for funding the proposed rewards according to the man?",
-      "translation": "如何为根据男子的奖励计划提供资金?",
+      "text": "12. What do we learn about the man?",
+      "translation": "第 12 题：关于这位男士我们了解到什么?",
+      "start": 756.5,
+      "end": 759.841,
+      "questionNumber": 12
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "13. What does the woman say is the most controversial?",
+      "translation": "第 13 题：女士说最具争议的是什么?",
+      "start": 774.46,
+      "end": 779.696,
+      "questionNumber": 13
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "14. What does the man say is his real goal?",
+      "translation": "第 14 题：男士说他的真正目标是什么?",
+      "start": 794.56,
+      "end": 799.322,
+      "questionNumber": 14
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "15. What will be one option for funding the proposed rewards according to the man?",
+      "translation": "第 15 题：根据男士所说,为拟议的奖励提供资金的一个选择是什么?",
       "start": 815.76,
-      "end": 820.54
+      "end": 820.85,
+      "questionNumber": 15
     },
     {
       "speaker": "听力原声",
@@ -952,58 +991,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "16.",
-      "translation": "16岁。",
+      "text": "16. Why is the speaker launching a campaign?",
+      "translation": "第 16 题：说话者为什么发起一项运动？",
       "start": 970.07,
-      "end": 970.55
+      "end": 974.333,
+      "questionNumber": 16
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Why is the speaker launching a campaign?",
-      "translation": "为什么发言人要发起一场运动?",
-      "start": 971.73,
-      "end": 973.73
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "17.",
-      "translation": "17岁",
+      "text": "17. What does the speaker advise us to do next time someone asks how we are?",
+      "translation": "第 17 题：当下次有人问我们怎么样时，说话者建议我们做什么？",
       "start": 990.06,
-      "end": 990.56
+      "end": 996.529,
+      "questionNumber": 17
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the speaker advise us to do?",
-      "translation": "发言者建议我们做什么?",
-      "start": 991.56,
-      "end": 993.56
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Next time someone asks us how we are.",
-      "translation": "下次有人问我们情况时",
-      "start": 993.87,
-      "end": 996.23
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "18.",
-      "translation": "18岁",
+      "text": "18. Why do many people make the \"I'm busy\" response according to the speaker?",
+      "translation": "第 18 题：根据说话者的说法，为什么许多人会做出\"我很忙\"的回应？",
       "start": 1011.93,
-      "end": 1012.49
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Why do many people make the I'm busy response, according to the speaker?",
-      "translation": "发言者说,为什么许多人对我反应繁忙?",
-      "start": 1013.23,
-      "end": 1017.65
+      "end": 1018.045,
+      "questionNumber": 18
     },
     {
       "speaker": "听力原声",
@@ -1154,50 +1164,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "19.",
-      "translation": "19. 经济",
+      "text": "19. What may sound strange to say about extreme sports?",
+      "translation": "第 19 题：关于极限运动，说什么可能听起来很奇怪?",
       "start": 1144.83,
-      "end": 1145.29
+      "end": 1150.339,
+      "questionNumber": 19
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What may sound strange to say about extreme sports?",
-      "translation": "关于极端运动会有什么奇怪的说法?",
-      "start": 1146.65,
-      "end": 1149.89
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 20.",
-      "translation": "问题20。",
+      "text": "20. Why should one be highly focused when doing extreme sports?",
+      "translation": "第 20 题：为什么在做极限运动时应该高度专注?",
       "start": 1165.52,
-      "end": 1166.32
+      "end": 1171.419,
+      "questionNumber": 20
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Why should one be highly focused when doing extreme sports?",
-      "translation": "为什么做极端运动时要高度集中?",
-      "start": 1166.87,
-      "end": 1171.01
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "21.",
-      "translation": "21 个",
+      "text": "21. How can extreme sports benefit us more than standard exercise routines and sports?",
+      "translation": "第 21 题：极限运动如何比标准锻炼常规和运动更有益?",
       "start": 1187.67,
-      "end": 1188.11
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "How can extreme sports benefit us more than standard exercise routines and sports?",
-      "translation": "极端体育如何比标准练习和体育更有利于我们?",
-      "start": 1188.85,
-      "end": 1194.31
+      "end": 1194.749,
+      "questionNumber": 21
     },
     {
       "speaker": "听力原声",
@@ -1319,18 +1308,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Why is productive conflict important for teams and organizations?",
-      "translation": "为什么生产性冲突对团队和组织很重要?",
-      "start": 1354.96,
-      "end": 1359.06
+      "text": "22. What does the passage say about conflict in organizations?",
+      "translation": "第 22 题：文章关于组织中的冲突说了什么?",
+      "start": 1311.49,
+      "end": 1317.098,
+      "questionNumber": 22
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 25 What does productive conflict need as a basis?",
-      "translation": "问题25 生产冲突需要什么作为基础?",
+      "text": "23. Why do some people want to avoid conflict at all costs?",
+      "translation": "第 23 题：为什么有些人想不惜一切代价避免冲突?",
+      "start": 1333.98,
+      "end": 1338.042,
+      "questionNumber": 23
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "24. Why is productive conflict important for teams and organizations?",
+      "translation": "第 24 题：为什么建设性冲突对团队和组织很重要?",
+      "start": 1354.96,
+      "end": 1359.659,
+      "questionNumber": 24
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "25. What does productive conflict need as a basis?",
+      "translation": "第 25 题：建设性冲突需要什么作为基础?",
       "start": 1374.86,
-      "end": 1379.48
+      "end": 1380.008,
+      "questionNumber": 25
     },
     {
       "speaker": "听力原声",
@@ -1344,5 +1353,6 @@
   "translation_sources": [
     "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-2/",
     "Sams200/opus-mt-en-zh (unmatched sentences only)"
-  ]
+  ],
+  "question_verification": "All 25 published question prompts located in original audio; numbers and prompts share one replay unit."
 }

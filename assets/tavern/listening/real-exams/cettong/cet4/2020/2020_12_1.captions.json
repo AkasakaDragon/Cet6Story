@@ -57,7 +57,25 @@
       "text": "After being spotted in the Mediterranean, a marine scientist says, \"The fish is spreading, and that's a cause for concern.\"",
       "translation": "一名海洋科学家在地中海被发现后说, “鱼在扩散,这令人担心。”",
       "start": 89.47,
-      "end": 132.31
+      "end": 103.57
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "1. What is reported in the news?",
+      "translation": "第 1 题：新闻报道了什么?",
+      "start": 103.57,
+      "end": 106.938,
+      "questionNumber": 1
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "2. What is the environmentalist concerned about the spread of Devil Firefish in the Mediterranean?",
+      "translation": "第 2 题：环保主义者对魔鬼火鱼在地中海扩散有何担忧?",
+      "start": 122.32,
+      "end": 130.064,
+      "questionNumber": 2
     },
     {
       "speaker": "听力原声",
@@ -134,6 +152,24 @@
     {
       "speaker": "听力原声",
       "actor": "",
+      "text": "3. What will happen on World Car-Free Day in Paris?",
+      "translation": "第 3 题：巴黎的世界无车日将会发生什么?",
+      "start": 213.79,
+      "end": 218.782,
+      "questionNumber": 3
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "4. What motivated the mayor of Paris to promote the first World Car-Free Day in her city?",
+      "translation": "第 4 题：是什么促使巴黎市长在她的城市推动首个世界无车日?",
+      "start": 233.86,
+      "end": 240.902,
+      "questionNumber": 4
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
       "text": "Report 3.",
       "translation": "报告3。",
       "start": 256.34,
@@ -194,6 +230,33 @@
       "translation": "以一英尺宽和2.2英尺长测量的可怕珍珠将由当地专家和国际主管部门核实,然后有望展出,吸引这个小城镇更多的游客。",
       "start": 314.56,
       "end": 329.64
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "5. What happened to the Philippine fisherman one day?",
+      "translation": "第 5 题：菲律宾渔民有一天发生了什么事？",
+      "start": 335.32,
+      "end": 340.332,
+      "questionNumber": 5
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "6. What was the fisherman forced to do?",
+      "translation": "第 6 题：这位渔民被迫做什么？",
+      "start": 354.94,
+      "end": 359.736,
+      "questionNumber": 6
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "7. What did the fisherman learn from the tourist agent?",
+      "translation": "第 7 题：渔民从旅游代理那里了解到什么？",
+      "start": 374.02,
+      "end": 379.851,
+      "questionNumber": 7
     },
     {
       "speaker": "听力原声",
@@ -466,6 +529,42 @@
       "start": 527.53,
       "end": 531.21,
       "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "8. What do we learn about the woman's company?",
+      "translation": "第 8 题：关于这位女士的公司我们了解到什么?",
+      "start": 537.76,
+      "end": 541.117,
+      "questionNumber": 8
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "9. What does the man say about his own company?",
+      "translation": "第 9 题：这位男士关于他自己的公司说了什么?",
+      "start": 556.33,
+      "end": 560.584,
+      "questionNumber": 9
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "10. What is the main problem with the man's company?",
+      "translation": "第 10 题：这位男士的公司面临的主要问题是什么?",
+      "start": 575.66,
+      "end": 580.452,
+      "questionNumber": 10
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "11. What does the woman suggest doing to help the man's company?",
+      "translation": "第 11 题：这位女士建议做什么来帮助这位男士的公司?",
+      "start": 595.56,
+      "end": 600.751,
+      "questionNumber": 11
     },
     {
       "speaker": "听力原声",
@@ -747,6 +846,42 @@
     {
       "speaker": "听力原声",
       "actor": "",
+      "text": "12. What do we learn about the woman from the conversation?",
+      "translation": "第 12 题：从对话中我们了解到关于这位女士的什么信息?",
+      "start": 723.31,
+      "end": 728.395,
+      "questionNumber": 12
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "13. Where did the man get his ideas for the project?",
+      "translation": "第 13 题：这位男士从哪里获得了这个项目的想法?",
+      "start": 743.62,
+      "end": 748.835,
+      "questionNumber": 13
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "14. What did the man say about the project he recently completed?",
+      "translation": "第 14 题：关于他最近完成的项目,这位男士说了什么?",
+      "start": 764.06,
+      "end": 770.641,
+      "questionNumber": 14
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "15. Why does the woman invite the man to her house next week?",
+      "translation": "第 15 题：这位女士为什么邀请这位男士下周去她家?",
+      "start": 785.98,
+      "end": 791.454,
+      "questionNumber": 15
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
       "text": "Section C. Directions.",
       "translation": "C节. 指示。",
       "start": 806.65,
@@ -947,6 +1082,33 @@
     {
       "speaker": "听力原声",
       "actor": "",
+      "text": "16. What does England spend an annual three million pounds on?",
+      "translation": "第 16 题：英格兰每年在什么方面花费三百万英镑？",
+      "start": 956.17,
+      "end": 962.256,
+      "questionNumber": 16
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "17. What do we learn from England's Hospital Episode Statistics?",
+      "translation": "第 17 题：我们从英格兰医院事件统计中了解到什么？",
+      "start": 977.58,
+      "end": 983.339,
+      "questionNumber": 17
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "18. What is generally believed to account for children putting things in their ears or noses?",
+      "translation": "第 18 题：人们普遍认为儿童把东西塞进耳朵或鼻子的原因是什么？",
+      "start": 998.68,
+      "end": 1005.511,
+      "questionNumber": 18
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
       "text": "Passage 2.",
       "translation": "通行证2。",
       "start": 1020.82,
@@ -1090,6 +1252,33 @@
     {
       "speaker": "听力原声",
       "actor": "",
+      "text": "19. What did ReBicycle do to help Leila Rahimi?",
+      "translation": "第 19 题：ReBicycle 做了什么来帮助 Leila Rahimi?",
+      "start": 1136.69,
+      "end": 1141.1,
+      "questionNumber": 19
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "20. What is ReBicycle doing to help those in need?",
+      "translation": "第 20 题：ReBicycle 正在做什么来帮助那些有需要的人?",
+      "start": 1155.9,
+      "end": 1161.3,
+      "questionNumber": 20
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "21. What do we learn from the passage about ReBicycle?",
+      "translation": "第 21 题：我们从文章中了解到关于 ReBicycle 的什么信息?",
+      "start": 1178.31,
+      "end": 1181.776,
+      "questionNumber": 21
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
       "text": "Passage 3.",
       "translation": "通行证3。",
       "start": 1197.0,
@@ -1223,6 +1412,42 @@
     {
       "speaker": "听力原声",
       "actor": "",
+      "text": "22. What do NASA scientists want to learn about?",
+      "translation": "第 22 题：NASA的科学家想要了解什么？",
+      "start": 1305.66,
+      "end": 1309.491,
+      "questionNumber": 22
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "23. What does the passage say about the mice at the beginning of the experiment?",
+      "translation": "第 23 题：关于实验开始时的小鼠，文章说了什么？",
+      "start": 1326.34,
+      "end": 1331.083,
+      "questionNumber": 23
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "24. What was observed about the mice on the eleventh day of the experiment?",
+      "translation": "第 24 题：实验第十一天观察到小鼠有什么表现？",
+      "start": 1346.57,
+      "end": 1353.105,
+      "questionNumber": 24
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "25. What did the scientists find about the mice from the experiment?",
+      "translation": "第 25 题：科学家从实验中发现了小鼠的什么情况？",
+      "start": 1368.31,
+      "end": 1373.916,
+      "questionNumber": 25
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
       "text": "That's the end of listening comprehension.",
       "translation": "听觉理解到此结束",
       "start": 1389.14,
@@ -1232,5 +1457,6 @@
   "translation_sources": [
     "https://english-exam.lazynote.cn/cet4/sections/listening/2020-12-1/",
     "Sams200/opus-mt-en-zh (unmatched sentences only)"
-  ]
+  ],
+  "question_verification": "All 25 published question prompts located in original audio; numbers and prompts share one replay unit."
 }

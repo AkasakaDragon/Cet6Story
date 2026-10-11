@@ -1,12 +1,26 @@
 """English sentence boundaries shared by listening alignment and translations."""
 import re
 
+
+def answer_pauses(pauses):
+    """Join near-silent answer pauses interrupted by a very short audio click."""
+    result = []
+    for start,end in pauses:
+        if result and start-result[-1][1] < .2:
+            result[-1][1] = end
+        else:
+            result.append([start,end])
+    return result
+
 def abbreviation_continues(prefix, following):
     prefix = prefix.strip()
     following = following.lstrip()
     if not following:
         return False
     token = prefix.split()[-1] if prefix else ''
+    # A spoken item number belongs to the question that follows it.
+    if re.fullmatch(r'(?:Question\s*)?\d+[.:]?', prefix, re.I):
+        return True
     if re.fullmatch(r'(?:Mr|Mrs|Ms|Dr|Prof|Sr|Jr|St|vs|e\.g|i\.e)\.', token, re.I):
         return True
     if re.fullmatch(r'(?:[A-Za-z]\.){2,}', token):
@@ -43,3 +57,29 @@ def merge_abbreviation_rows(rows):
         else:
             result.append(dict(row))
     return result
+
+
+def attach_verified_questions(reference, rows):
+    """Never discard spoken questions when regenerating material subtitles."""
+    if reference.get('question_timing_source') != 'original_audio_transcript_verified':
+        raise ValueError('Question audio must be audited before caption generation: '+reference['id'])
+    for question in reference['questions']:
+        start, end = question['start'], question['end']
+        assert question.get('audio_match_score', 0) >= .75
+        retained = []
+        for row in rows:
+            if row['start'] < end+.15 and row['end'] > start-.15:
+                if row['start'] < start-2 and not re.match(r'^(?:Question\b|\d+[.:])', row['text'], re.I):
+                    retained.append(dict(row, end=start))
+            else:
+                retained.append(row)
+        native = re.search(r'【翻译】\s*(.+?)(?=\s*A\s*[)）.、]|【|$)', question.get('explanation', ''), re.S)
+        zh = '第 '+str(question['number'])+' 题：'+re.sub(r'\s+', ' ', native.group(1)).strip() if native else ''
+        retained.append(dict(speaker='听力原声', actor='', text=str(question['number'])+'. '+question['prompt'],
+                             translation=zh, start=start, end=end, questionNumber=question['number']))
+        rows = retained
+    rows.sort(key=lambda row: row['start'])
+    for index,row in enumerate(rows[:-1]):
+        row['end'] = min(row['end'], rows[index+1]['start'])
+    assert all(row['start'] < row['end'] for row in rows)
+    return rows

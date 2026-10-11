@@ -104,10 +104,20 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "How was the woman's problem eventually solved?",
-      "translation": "该妇女的问题最终是如何解决的?",
+      "text": "1. What was the woman's problem?",
+      "translation": "第 1 题：这位女士的问题是什么?",
+      "start": 104.66,
+      "end": 109.721,
+      "questionNumber": 1
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "2. How was the woman's problem eventually solved?",
+      "translation": "第 2 题：这位女士的问题最终是如何解决的?",
       "start": 126.29,
-      "end": 129.53
+      "end": 129.865,
+      "questionNumber": 2
     },
     {
       "speaker": "听力原声",
@@ -244,34 +254,20 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the news reports say about the white sheep?",
-      "translation": "新闻报导里说白羊是什么?",
+      "text": "3. What does the news report say about the white sheep Prickles?",
+      "translation": "第 3 题：新闻报道中关于白羊Prickles说了什么?",
       "start": 225.89,
-      "end": 228.83
+      "end": 229.903,
+      "questionNumber": 3
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Prickles.",
-      "translation": "刺刀,你这混蛋!",
-      "start": 229.15,
-      "end": 229.65
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 4.",
-      "translation": "问题4",
+      "text": "4. What did the family do after the bushfires?",
+      "translation": "第 4 题：丛林火灾后这家人做了什么?",
       "start": 244.89,
-      "end": 245.77
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What did the family do after the bushfires?",
-      "translation": "野火之后家人做了什么?",
-      "start": 246.21,
-      "end": 248.81
+      "end": 249.236,
+      "questionNumber": 4
     },
     {
       "speaker": "听力原声",
@@ -373,50 +369,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 5.",
-      "translation": "问题5",
+      "text": "5. What is the news report mainly about?",
+      "translation": "第 5 题：这则新闻报道主要关于什么？",
       "start": 344.08,
-      "end": 344.86
+      "end": 348.412,
+      "questionNumber": 5
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What is the news report mainly about?",
-      "translation": "新闻报道主要讲什么?",
-      "start": 345.42,
-      "end": 348.08
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 6.",
-      "translation": "问题6",
+      "text": "6. What did the aircraft do when the incident happened?",
+      "translation": "第 6 题：事件发生时飞机做了什么？",
       "start": 363.55,
-      "end": 364.39
+      "end": 368.901,
+      "questionNumber": 6
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do the aircraft do when the incident happened?",
-      "translation": "飞机在事件发生时做什么?",
-      "start": 365.11,
-      "end": 368.59
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 7.",
-      "translation": "问题7",
+      "text": "7. What does the news report say about the technical engineers who worked on the plane before take-off?",
+      "translation": "第 7 题：新闻报道对起飞前检修该飞机的技术工程师有何说法？",
       "start": 384.18,
-      "end": 385.04
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What does the news report say about the technical engineers who worked on the plane before takeoff?",
-      "translation": "新闻报道中说 起飞前在飞机上工作的技术人员是什么?",
-      "start": 385.58,
-      "end": 392.14
+      "end": 392.478,
+      "questionNumber": 7
     },
     {
       "speaker": "听力原声",
@@ -729,66 +704,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 8.",
-      "translation": "问题8",
+      "text": "8. Why does the man have his conversation with the woman recorded?",
+      "translation": "第 8 题：男士为什么将他与女士的对话录音?",
       "start": 550.07,
-      "end": 550.91
+      "end": 555.715,
+      "questionNumber": 8
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Why does the man have his conversation with the woman recorded?",
-      "translation": "为什么男人和女人的谈话录音?",
-      "start": 551.41,
-      "end": 555.17
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 9.",
-      "translation": "问题9",
+      "text": "9. What is the woman's purpose of calling the furniture company?",
+      "translation": "第 9 题：女士致电家具公司的目的是什么?",
       "start": 570.76,
-      "end": 571.64
+      "end": 575.713,
+      "questionNumber": 9
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What is the woman's purpose of calling the furniture company?",
-      "translation": "女人打电话给家具公司的目的是什么?",
-      "start": 572.14,
-      "end": 575.44
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 10.",
-      "translation": "问题10。",
+      "text": "10. What does the woman say about her bank card?",
+      "translation": "第 10 题：女士关于她的银行卡说了什么?",
       "start": 590.79,
-      "end": 591.85
+      "end": 595.69,
+      "questionNumber": 10
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the woman say about her bank card?",
-      "translation": "那女人怎么说她的银行卡?",
-      "start": 592.29,
-      "end": 595.39
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 11.",
-      "translation": "问题11。",
+      "text": "11. What does the man advise the woman to do?",
+      "translation": "第 11 题：男士建议女士做什么?",
       "start": 610.88,
-      "end": 611.74
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What does the man advise the woman to do?",
-      "translation": "男人建议女人做什么?",
-      "start": 612.22,
-      "end": 614.96
+      "end": 615.239,
+      "questionNumber": 11
     },
     {
       "speaker": "听力原声",
@@ -1180,66 +1127,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "12.",
-      "translation": "12. 十二、结 论",
+      "text": "12. Why isn't the man going to cook?",
+      "translation": "第 12 题：男士为什么不打算做饭?",
       "start": 754.38,
-      "end": 754.88
+      "end": 757.615,
+      "questionNumber": 12
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Why isn't the man going to cook?",
-      "translation": "为什么他不做饭?",
-      "start": 755.52,
-      "end": 757.34
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "13.",
-      "translation": "13 号",
+      "text": "13. What does the man say he'll do on his phone?",
+      "translation": "第 13 题：男士说他会在手机上做什么?",
       "start": 773.13,
-      "end": 773.87
+      "end": 778.083,
+      "questionNumber": 13
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the man say he'll do on his phone?",
-      "translation": "那个人在电话上会说什么?",
-      "start": 774.69,
-      "end": 777.75
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 14.",
-      "translation": "问题14。",
+      "text": "14. What does the woman think of Indian food?",
+      "translation": "第 14 题：女士认为印度食物怎么样?",
       "start": 793.4,
-      "end": 794.3
+      "end": 797.916,
+      "questionNumber": 14
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the woman think of Indian food?",
-      "translation": "女人对印度食物有何看法?",
-      "start": 795.0,
-      "end": 797.52
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "15.",
-      "translation": "15. 15个",
+      "text": "15. What does the man think of the woman?",
+      "translation": "第 15 题：男士认为女士怎么样?",
       "start": 813.43,
-      "end": 814.27
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What does the man think of the woman?",
-      "translation": "男人对女人有什么看法?",
-      "start": 814.91,
-      "end": 817.21
+      "end": 817.441,
+      "questionNumber": 15
     },
     {
       "speaker": "听力原声",
@@ -1379,26 +1298,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 16 What do we learn from the new study by the University of Lincoln?",
-      "translation": "问题16:从林肯大学的新研究中我们学到了什么?",
+      "text": "16. What do we learn from the new study by the University of Lincoln?",
+      "translation": "第 16 题：我们从林肯大学的新研究中了解到什么？",
       "start": 979.61,
-      "end": 985.61
+      "end": 986.002,
+      "questionNumber": 16
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "17 What does the passage say most pet owners want to do?",
-      "translation": "17号通道上说 大部分宠物主都想做什么?",
+      "text": "17. What does the passage say most pet owners want to do?",
+      "translation": "第 17 题：文章说大多数宠物主人想做什么？",
       "start": 1001.29,
-      "end": 1006.53
+      "end": 1006.736,
+      "questionNumber": 17
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 18 What does the passage say is still needed to understand the effects of owners' personalities on their pets?",
-      "translation": "问题18:为了了解业主的性格对其宠物的影响,还需要用什么段落来说明?",
+      "text": "18. What does the passage say is still needed to understand the effects of owners' personalities on their pets?",
+      "translation": "第 18 题：文章说仍然需要什么来理解主人性格对其宠物的影响？",
       "start": 1021.95,
-      "end": 1030.53
+      "end": 1030.961,
+      "questionNumber": 18
     },
     {
       "speaker": "听力原声",
@@ -1513,42 +1435,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What did the new review of studies claim?",
-      "translation": "新的研究审查要求赔偿什么?",
+      "text": "19. What did the new review of studies claim?",
+      "translation": "第 19 题：新的研究综述声称了什么?",
       "start": 1163.87,
-      "end": 1166.51
+      "end": 1166.757,
+      "questionNumber": 19
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 20.",
-      "translation": "问题20。",
+      "text": "20. What is one effect that running has on people according to recent research?",
+      "translation": "第 20 题：根据近期研究,跑步对人们有什么影响?",
       "start": 1182.0,
-      "end": 1182.92
+      "end": 1189.097,
+      "questionNumber": 20
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What is one effect that running has on people according to recent research?",
-      "translation": "根据最近的研究 跑步对人们有什么影响?",
-      "start": 1183.76,
-      "end": 1188.92
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 21.",
-      "translation": "问题21",
+      "text": "21. What did another study find about the participants after they had a 30-minute jog?",
+      "translation": "第 21 题：另一项研究发现参与者在进行30分钟慢跑后有什么变化?",
       "start": 1204.38,
-      "end": 1205.48
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What did another study find about the participants after they had a 30-minute jog?",
-      "translation": "另一项研究发现,学员们在慢跑30分钟后有何发现?",
-      "start": 1206.24,
-      "end": 1212.44
+      "end": 1212.706,
+      "questionNumber": 21
     },
     {
       "speaker": "听力原声",
@@ -1696,18 +1605,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 25.",
-      "translation": "问题25。",
-      "start": 1391.31,
-      "end": 1392.59
+      "text": "22. What do we learn about the speaker?",
+      "translation": "第 22 题：关于说话者我们了解到什么?",
+      "start": 1331.47,
+      "end": 1335.063,
+      "questionNumber": 22
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do we learn about the pieces of furniture in the children's bedrooms?",
-      "translation": "孩子们卧室的家具呢?",
-      "start": 1393.51,
-      "end": 1397.87
+      "text": "23. What did the architect do before beginning his design?",
+      "translation": "第 23 题：建筑师在开始设计之前做了什么?",
+      "start": 1349.5,
+      "end": 1356.07,
+      "questionNumber": 23
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "24. What did the architect's client mainly want?",
+      "translation": "第 24 题：建筑师的客户主要想要什么?",
+      "start": 1371.52,
+      "end": 1376.392,
+      "questionNumber": 24
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "25. What do we learn about the pieces of furniture in the children's bedrooms?",
+      "translation": "第 25 题：关于儿童卧室里的家具我们了解到什么?",
+      "start": 1391.31,
+      "end": 1398.555,
+      "questionNumber": 25
     },
     {
       "speaker": "听力原声",
@@ -1721,5 +1650,6 @@
   "translation_sources": [
     "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-2/",
     "Sams200/opus-mt-en-zh (unmatched sentences only)"
-  ]
+  ],
+  "question_verification": "All 25 published question prompts located in original audio; numbers and prompts share one replay unit."
 }

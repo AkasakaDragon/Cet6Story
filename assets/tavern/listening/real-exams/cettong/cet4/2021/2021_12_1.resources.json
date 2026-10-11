@@ -39,7 +39,7 @@
       "id": "lazynote-4",
       "title": "Section B · 第 1 篇 · 8–11 题",
       "start": 449.966,
-      "end": 636.166,
+      "end": 636.266,
       "first": 8,
       "last": 11,
       "material": "W: I can't believe that duck hunting is still legal in so many parts of the world. The scientific evidence from countries like Australia, Canada and the USA clearly indicates a decline in the birds' numbers.\nM: But can anyone be sure if the decline is really caused by the hunting or by climate change?\nW: It's caused by both in fact. We see more droughts in countries like Australia. Ducks are birds that feed and breed in areas where there is a lot of water, but their habitats have been shrinking in recent decades because of the droughts.\nM: And I guess with fewer places to inhabit, they concentrate in greater numbers in few areas, which surely makes them easier targets for the hunters.\nW: It does. My grandfather was a duck hunter. He told me hunting ducks and geese began in the 19th century. They were easily found and a plentifully available food source in farming areas, especially for poor immigrants.\nM: What do they use for hunting during that period?\nW: They use new types of guns, and birds could easily be shot down in flight. And in such great numbers, their commercial hunting of ducks and geese became an industry. Yet, there's no commercial farming of these birds nowadays. Their meat is hardly eaten in Western countries.\nM: No, duck hunting seemingly exists as the continuation of a tradition.\nW: Well, ducks have never been popular with farmers like my grandfather anyway because they sometimes destroy crops. In fact, farmers used to poison them in large numbers.\nM: That somehow doesn't surprise me. Nobody places much value on the lives of these poor birds or on their meat."
@@ -48,7 +48,7 @@
       "id": "lazynote-5",
       "title": "Section B · 第 2 篇 · 12–15 题",
       "start": 653.3,
-      "end": 837.366,
+      "end": 837.37,
       "first": 12,
       "last": 15,
       "material": "M: Okay, Miss Bright. I've finished calculating. I estimate you have between 210 and 240 square meters of walls and ceiling.\nW: So, how much would the paint job cost?\nM: That would depend on the quality of paint you choose. We carry two brands. One costs 60 cents every square meter, and the other 90 cents. The second is guaranteed to look great for about 10 years, whereas the cheaper one will start to dull after around six or seven years.\nW: In that case, we would prefer the more expensive option.\nM: All right, then. So including labor costs, taxes, and everything, this job would come to $3,000.\nW: Um, to be perfectly honest, that's more than I expected.\nM: Please bear in mind that the price includes moving all the furniture, and the whole task would take two days.\nW: Really? Why?\nM: Well, we can't paint the walls without clearing all the furniture first. So every time we paint a room, we first have to move the furniture to another room. So that takes more time. Plus, it requires two people, which works out more expensive.\nW: I see. But does that mean I could not live here in my own house during those two days?\nM: That is correct.\nW: Oh well, that changes everything, I'm afraid. I would have to stay with a friend or check into a hotel. I hadn't considered any of that. I'm starting to realize that painting my house is far more troublesome than I had anticipated.\nM: This is usually the case. Most of our clients go through the same realization.\nW: I see.\nM: You have my number. Please feel free to call me for any further questions.\nW: Thank you."
@@ -94,8 +94,10 @@
       "answer": 2,
       "explanation": "【题目】 What does the news report say about United Airlines? \n\n 【翻译】 新闻报道关于美国联合航空公司说了什么? \n A)  在一架飞往德克萨斯州某城市的飞机上发现了一只宠物狗。 \n B)  其中一架货运飞机降落在了错误的机场。 \n C)  将两只狗送到了错误的目的地。 \n D)  将其两个国内航班搞混了。 \n\n 【答案】 C （细节题） It sent two dogs to the wrong destinations. \n 【定位】 P5 Both of the dogs had been sent to the wrong destinations on connecting flights from Denver, with Buddy mistakenly being sent to Japan instead. \n 两只狗都在从丹佛转机时被送错了目的地，其中 Buddy 被错送到了日本。 \n\n 【信号】 Both…wrong destinations 直陈事故 。这句以 Both of the dogs had been sent to the wrong destinations 正面点出事故核心——两只狗都被送错目的地，是整则新闻交代『航空公司做了什么』的事实落点；句中 Both 与 wrong destinations 是直接承载答案的信号词。 \n\n 【替换】 Both of the dogs had been sent to the wrong destinations ↔ It sent two dogs to the wrong destinations. Both the dogs = two dogs \n\n 【排除】 A) 原词陷阱 选项盗用了原文里 Texas 这个地名（their new home city in Texas），但原文是说一家人本应在得州的新家与狗团聚，并非『在飞往得州的飞机上发现一只狗』；它把真实情节拼凑改写，属听到 Texas 就想选的陷阱。  借用原文：They were meant to be reunited with the pet in their new home city in Texas. \n\n B) 偷换概念 原文反复说送错的是 dog（shipping an American family's pet dog…in the wrong direction），是『狗被运错方向』，从没说『一架货机降错机场』；选项把错送对象从狗偷换成 cargo plane、把『送错目的地』偷换成『降错机场』，与原文不符。  借用原文：United Airlines has apologised for mistakenly shipping an American family's pet dog thousands of miles in the wrong direction \n\n D) 答非所问 原文是两只狗在转机时被送错（on connecting flights from Denver），出错的是狗的去向；选项却说是『两个国内航班被搞混』，把出错对象从狗换成 flights，且原文只字未提『国内航班搞混』，属答非所问。  借用原文：Both of the dogs had been sent to the wrong destinations on connecting flights from Denver",
       "group_id": "lazynote-1",
-      "start": 43.2,
-      "end": 157.1
+      "start": 130.9,
+      "end": 134.838,
+      "spoken_text": "What does the news reports say about United Airlines?",
+      "audio_match_score": 0.9885
     },
     {
       "number": 2,
@@ -109,8 +111,10 @@
       "answer": 0,
       "explanation": "【题目】 What did the spokesperson for United Airlines say they would do after the incident? \n\n 【翻译】 美国联合航空公司的发言人表示事件发生后他们会做什么? \n A)  尽快纠正他们的错误。 \n B)  给这两只宠物做身体检查。 \n C)  租用包机把宠物送回来。 \n D)  派另一架飞机继续该航班。 \n\n 【答案】 A （细节题） Correct their mistake as soon as possible. \n 【定位】 P8 We will arrange to return the pets to them as soon as possible. \n 我们会尽快安排把宠物送还给他们。 \n\n 【信号】 We will 未来承诺 。这句出自发言人原话，以 We will arrange to return the pets to them as soon as possible 的 We will 领头，是典型的官方补救承诺句；will 这个未来时信号正对应题干 say they would do，故为答案句。 \n\n 【替换】 We will arrange to return the pets to them as soon as possible ↔ Correct their mistake as soon as possible. 送还宠物=纠正错误 \n\n 【排除】 B) 原词陷阱 选项盗用了原文真出现的 physical checkup（Buddy was given a physical checkup），但那是 Buddy 到东京后已经做过的事，不是发言人承诺『事故后将要做』的动作；时间错位，张冠李戴到发言人头上。  借用原文：Buddy was given a physical checkup when he arrived at Tokyo's International Airport. \n\n C) 原词陷阱 选项盗用原文的 charter jet（sent back to the U.S. on a private charter jet），但那是叙述 Buddy 已经被私人包机送回美国的既成事实，不是发言人对今后的承诺；选项把已发生说成将要做，且 Hire（雇用）也非原文所述。  借用原文：The dog was then sent back to the U.S. on a private charter jet. \n\n D) 未提及 原文从没说要『再派一架飞机继续这趟飞行』；发言人只承诺尽快把宠物送还（return the pets to them as soon as possible）。选项 Send another plane to continue the flight. 是凭 plane/flight 这类话题词臆造的动作，未提及。",
       "group_id": "lazynote-1",
-      "start": 43.2,
-      "end": 157.1
+      "start": 151.26,
+      "end": 156.99,
+      "spoken_text": "What did the spokesperson for a United Airlines say they would do after the incident?",
+      "audio_match_score": 0.9928
     },
     {
       "number": 3,
@@ -124,8 +128,10 @@
       "answer": 1,
       "explanation": "【题目】 What do we learn about the mother elephant Semba? \n\n 【翻译】 关于母象Semba我们了解到什么? \n A)  她体重130公斤。 \n B)  她以前生过小象。 \n C)  她是从非洲带来的。 \n D)  她有一个六口之家的大家庭。 \n\n 【答案】 B （细节题） She has had babies before. \n 【定位】 P5 Semba has given birth before. \n Semba 以前生过孩子（不是第一次生产）。 \n\n 【信号】 直陈母象过往经历 。答案句是录音里专门交代 Semba 经历的一句 Semba has given birth before.，它直接陈述了关于这只母象本身的一项事实，与题干 \"关于 Semba 我们了解到什么\" 严丝合缝，是无需转折提示、直接点出的事实句。 \n\n 【替换】 has given birth before ↔ has had babies before 生过=有过孩子 \n\n 【排除】 A) 原词陷阱 选项 She weighs 130 kilograms. 盗用了录音里真实出现的数字 130 公斤，但录音说的是新生小象 she weighs nearly 130 kilograms，主语是 baby 而非母亲 Semba，把宝宝的体重安到了母亲头上，对象搞错。  借用原文：she weighs nearly 130 kilograms \n\n C) 偷换概念 选项 She was brought from Africa. 借用了录音里的 Africa 一词，但录音只说 Semba, her mother, is a 30-year-old African elephant.——她是一头 \"非洲象\"（品种），并没有说 \"她是从非洲被带来的\"，把物种来源偷换成了运输来历。  借用原文：a 30-year-old African elephant \n\n D) 原词陷阱 选项 She has a big family of six. 盗用了录音末尾的数字 six，但录音说 The new baby expands the zoo's elephant herd to six.——是 \"动物园象群扩大到六只\"，描述的是整个园区象群规模，而非 \"母亲 Semba 有一个六口之家\"，对象与口径都被改了。  借用原文：expands the zoo's elephant herd to six",
       "group_id": "lazynote-2",
-      "start": 174.166,
-      "end": 267.766
+      "start": 243.02,
+      "end": 246.647,
+      "spoken_text": "what do we learn about the mother elephant's cember?",
+      "audio_match_score": 0.9512
     },
     {
       "number": 4,
@@ -139,8 +145,10 @@
       "answer": 2,
       "explanation": "【题目】 What does the report say about the birth of the new baby elephant? \n\n 【翻译】 报道中关于新生小象的出生说了什么? \n A)  花了22小时。 \n B)  有一些并发症。 \n C)  很顺利。 \n D)  由Sue Tygielski博士监护。 \n\n 【答案】 C （细节题） It was smooth. \n 【定位】 P6 She said the elephant's birth went smoothly and that there were no complications. \n 她（动物园动物运营主管 Sue Tygielski 博士）说，这次大象的出生过程很顺利，没有出现任何并发症。 \n\n 【信号】 对出生过程的直接定性 。答案句 the elephant's birth went smoothly and that there were no complications 是录音里唯一对 \"出生过程怎么样\" 下定性的句子，went smoothly 是正面评价词、no complications 是配套补充，直接回答了题干 \"出生说了什么\"，靠这个 \"定性词\" 信号即可锁定。 \n\n 【替换】 went smoothly ↔ It was smooth. 副词转形容词同义 \n there were no complications ↔ It was smooth. 无并发症佐证顺利 \n\n 【排除】 A) 原词陷阱 选项 It took 22 hours. 盗用了数字 22，但录音里的 22 是 The pregnancy lasted 22 months.——是怀孕 22 个 \"月\"，且说的是孕期长短不是 \"出生过程用了多久\"，单位（hours↔months）和对象（出生过程↔整个孕期）双双被换。  借用原文：The pregnancy lasted 22 months \n\n B) 与原文相反 选项 It had some complications. 直接盗用录音原词 complications，但录音是 there were no complications——明确说 \"没有\" 并发症，选项却说 \"有一些\"，把否定改成了肯定，极性正好相反。  借用原文：there were no complications \n\n D) 张冠李戴 选项 It was monitored by Dr. Sue Tygielski. 把录音里真实出现的人名 Sue Tygielski 搬来当出生过程的监控者，但录音说被密切监控的是 during this pregnancy, she was closely monitored——监控的是 Semba 的 \"孕期\"，而 Tygielski 博士只是在 Dr. Sue Tygielski is the zoo's director 里被介绍头衔并转述 \"出生很顺利\"，并没说出生由她监控，把 \"孕期被监控\" 和 \"这位博士\" 硬拼到一起。  借用原文：during this pregnancy, she was closely monitored",
       "group_id": "lazynote-2",
-      "start": 174.166,
-      "end": 267.766
+      "start": 263.15,
+      "end": 267.624,
+      "spoken_text": "What does the report say about the birth of the new baby elephant?",
+      "audio_match_score": 1.0
     },
     {
       "number": 5,
@@ -154,8 +162,10 @@
       "answer": 3,
       "explanation": "【题目】 What do we learn about the restaurant? \n\n 【翻译】 关于这家餐厅我们了解到什么? \n A)  它非常受欢迎。 \n B)  它三年前开始营业。 \n C)  它经常有新婚夫妇光顾。 \n D)  它建在海面上。 \n\n 【答案】 D （细节题） It was built above the sea-water. \n 【定位】 P1 The restaurant was built on a wooden structure above the sea-water. \n 这家餐厅建在海水之上的一个木质结构上。 \n\n 【信号】 录音里唯一直接描述餐厅本身的句子 。全篇只有这一句在正面描述餐厅这个事物本身——The restaurant was built on a wooden structure above the sea-water.，其余句子讲的是戒指、经理、服务员的动作；当题问某事物的事实，就锁定录音里主语正是该事物、且在交代它属性的那句。 \n\n 【替换】 built on a wooden structure above the sea-water ↔ It was built above the sea-water. 选项是原句的压缩概括 \n\n 【排除】 A) 未提及 It enjoyed great popularity. 说餐厅很受欢迎，但录音通篇只讲戒指失而复得，从未评价餐厅的人气或生意好坏，属于无中生有。 \n B) 原词陷阱 It started business three years ago. 借了录音开头的 three years ago，但 Three years ago, a couple was enjoying a meal 里这个时间是指三年前有对夫妇在此用餐、戒指掉落，根本不是讲餐厅三年前开业；把三年前从用餐时间偷换成开业时间，是典型的原词陷阱。  借用原文：Three years ago, a couple was enjoying a meal at a beach restaurant. \n\n C) 过度推断 It was frequented by newly-weds. 说餐厅常被新婚夫妇光顾；录音只提到一对夫妇曾来用餐 a couple was enjoying a meal，既没说他们是新婚、更没说这里常有新婚夫妇来，属于由一对夫妇过度推断成常客群体。  借用原文：a couple was enjoying a meal at a beach restaurant",
       "group_id": "lazynote-3",
-      "start": 284.7,
-      "end": 400.933
+      "start": 356.94,
+      "end": 360.856,
+      "spoken_text": "What do we learn about the restaurant?",
+      "audio_match_score": 1.0
     },
     {
       "number": 6,
@@ -169,8 +179,10 @@
       "answer": 1,
       "explanation": "【题目】 What did the restaurant manager decide to do recently? \n\n 【翻译】 这家餐厅的经理最近决定做什么? \n A)  在海滩上扩展他的生意。 \n B)  更换餐厅的木质平台。 \n C)  在网上发布他餐厅的照片。 \n D)  庆祝他的银婚纪念日。 \n\n 【答案】 B （细节题） Replace the restaurant's wooden deck. \n 【定位】 P2 Recently, the restaurant manager Ryan Krivoy decided to replace the wooden deck and he found an old gold coin, some $100 bills and a silver wedding ring while replacing the deck. \n 最近，餐厅经理 Ryan Krivoy 决定更换那个木质平台，他在换平台时发现了一枚古老的金币、一些百元钞票和一枚银质结婚戒指。 \n\n 【信号】 decided to 直接给出经理的决定动作 。the restaurant manager Ryan Krivoy decided to replace the wooden deck 里 decided to 后面紧跟的动词短语，就是题目要的决定；听到 decided to 这种表决定的信号词，后面接的动作即是答案落点。 \n\n 【替换】 decided to replace the wooden deck ↔ Replace the restaurant's wooden deck. 几乎同表述，仅补出所属 \n\n 【排除】 A) 原词陷阱 Expand his business on the beach. 里的 beach 借自录音背景中的海边餐厅（beach restaurant），但录音从没说经理要扩张生意，他决定的是换平台 replace the wooden deck；把场景词 beach 拿来拼一个原文没有的动作，是原词陷阱加无中生有。  借用原文：a beach restaurant \n\n C) 张冠李戴 Post a picture of his restaurant online. 里发照片到网上这件事，录音里做的人是女服务员 The restaurant waitress Sasha Formica posted a picture of the ring on Facebook.，且发的是戒指照片不是餐厅照片；既把动作的人从服务员张冠李戴到经理，又把戒指换成餐厅，双重偷换。  借用原文：The restaurant waitress Sasha Formica posted a picture of the ring on Facebook. \n\n D) 原词陷阱 Celebrate his silver wedding anniversary. 里的 silver wedding 拼自录音的 silver wedding ring（银质结婚戒指），但 a silver wedding ring 说的是经理找到的一枚银戒指，根本不是他要庆祝结婚周年；把 silver wedding ring 截成 silver wedding，是诱人的原词陷阱。  借用原文：a silver wedding ring",
       "group_id": "lazynote-3",
-      "start": 284.7,
-      "end": 400.933
+      "start": 377.36,
+      "end": 380.899,
+      "spoken_text": "What did the restaurant manager decide to do recently?",
+      "audio_match_score": 1.0
     },
     {
       "number": 7,
@@ -184,8 +196,10 @@
       "answer": 2,
       "explanation": "【题目】 What did the waitress do about the recovered ring? \n\n 【翻译】 女服务员对找回的戒指做了什么? \n A)  她以两千美元的价格把它卖了。 \n B)  她把它交给了餐厅经理。 \n C)  她在Facebook上发布了它的照片。 \n D)  她立即把它归还给了失主。 \n\n 【答案】 C （细节题） She posted its picture on Facebook. \n 【定位】 P3 The restaurant waitress Sasha Formica posted a picture of the ring on Facebook. \n 餐厅女服务员 Sasha Formica 把戒指的照片发到了脸书上。 \n\n 【信号】 主语正是 waitress、动作直接针对 ring 。The restaurant waitress Sasha Formica posted a picture of the ring on Facebook. 这一句主语恰是题目问的 waitress、动作 posted 又直接落在 ring 上，人、物、动作三者齐全；当题目锁定某人对某物的动作，就找主语是该人、宾语含该物的那一句。 \n\n 【替换】 posted a picture of the ring on Facebook ↔ She posted its picture on Facebook. 几乎原句，仅用 its 回指 ring \n\n 【排除】 A) 原词陷阱 She sold it for two thousand dollars. 里的两千美元搬自录音结尾 the gold coin was very rare. It was from 1855 and worth as much as $2,000，但这金额是说那枚稀有金币值两千美元、并非服务员把戒指卖了两千；既盗用了金额数字，又把对象从金币偷换成戒指，是原词陷阱加偷换概念。  借用原文：It was from 1855 and worth as much as $2,000. \n\n B) 未提及 She took it to the restaurant manager. 说服务员把戒指交给经理，但录音里其实是经理先发现戒指 he found ... a silver wedding ring、服务员再去发照片，戒指并非由服务员上交经理；这是个原文没发生、还把人物关系方向弄反的干扰项。 \n D) 张冠李戴 She returned it to its owner right away. 借了录音里确有的归还戒指情节，但还戒指的是餐厅而非服务员 The restaurant mailed the ring back to the happy couple.，而且是失主三天后来认领 Three days later, the happy wife called to claim the ring 才寄还，并非 right away（立刻）；张冠李戴加篡改时间。  借用原文：The restaurant mailed the ring back to the happy couple.",
       "group_id": "lazynote-3",
-      "start": 284.7,
-      "end": 400.933
+      "start": 396.19,
+      "end": 400.782,
+      "spoken_text": "What did the waitress do about the recovered ring?",
+      "audio_match_score": 1.0
     },
     {
       "number": 8,
@@ -199,8 +213,10 @@
       "answer": 3,
       "explanation": "【题目】 What does the woman find unbelievable? \n\n 【翻译】 女士认为什么难以置信？ \n A)  近年来鸭子的数量急剧下降。 \n B)  气候变化对野鸭的生活影响甚微。 \n C)  在澳大利亚、加拿大和美国不吃鸭肉。 \n D)  在世界许多地方捕猎鸭子仍然是合法的。 \n\n 【答案】 D （态度观点题） Duck hunting remains legal in many parts of the world. \n 【定位】 P1 W: I can't believe that duck hunting is still legal in so many parts of the world. \n 女：我真不敢相信，在世界上这么多地方猎鸭居然还是合法的。 \n\n 【信号】 “我不敢相信”直接喊出态度 。答案信号是开口第一句的强烈表态 I can't believe that——这正是 unbelievable 的口语版，紧跟其后的内容就是她觉得难以置信的对象，无需再往下找。 \n\n 【替换】 duck hunting is still legal in so many parts of the world ↔ Duck hunting remains legal in many parts of the world. is still=remains 的同义替换 \n\n 【排除】 A) 原词陷阱 录音确实提到 a decline in the birds' numbers，A 用 declined sharply 盗了这个原词。但她惊讶的是“居然合法”，数量下降只是她用来佐证的事实，答非所问。  借用原文：a decline in the birds' numbers \n\n B) 与原文相反 录音里 It's caused by both in fact. 明确说气候（干旱）是原因之一，B 却说 Climate change has little effect，与原文相反；climate change 这个词是男士在 climate change 提出的疑问，被借来做诱饵。  借用原文：It's caused by both in fact. \n\n C) 偷换概念 录音说 Their meat is hardly eaten in Western countries.，指“西方国家”。C 把范围偷换成 Australia, Canada and the U.S. 三个具体国家，且这是后文的细节、不是她开头表态的“不敢相信”对象。  借用原文：Their meat is hardly eaten in Western countries.",
       "group_id": "lazynote-4",
-      "start": 449.966,
-      "end": 636.166
+      "start": 567.93,
+      "end": 571.503,
+      "spoken_text": "What does the woman find unbelievable?",
+      "audio_match_score": 1.0
     },
     {
       "number": 9,
@@ -214,8 +230,10 @@
       "answer": 0,
       "explanation": "【题目】 What does the woman say has caused the shrinking of ducks' habitats in Australia? \n\n 【翻译】 女士说是什么导致了澳大利亚鸭子栖息地的缩小？ \n A)  干旱。 \n B)  丛林火灾。 \n C)  农业耕作。 \n D)  捕猎。 \n\n 【答案】 A （细节题） Droughts. \n 【定位】 P3 W: We see more droughts in countries like Australia. Ducks are birds that feed and breed in areas where there is a lot of water, but their habitats have been shrinking in recent decades because of the droughts. \n 女：在澳大利亚这样的国家，我们看到了更多的干旱。鸭子是在水多的地方觅食和繁殖的鸟，但近几十年来，由于干旱，它们的栖息地一直在缩小。 \n\n 【信号】 because of 后面直接点出原因 。答案信号是明确的因果短语 because of the droughts——habitats shrinking 紧跟 because of，连接词后的 droughts 就是栖息地缩小的直接原因。 \n\n 【替换】 because of the droughts ↔ Droughts. 原文与选项同词直接对应 \n\n 【排除】 B) 未提及 Bushfires. 只是“澳大利亚”这一情境下考生脑补出来的常识，录音从头到尾未提 bushfire，属凭印象的无中生有。 \n C) 原词陷阱 录音后面才提到 farming areas、农民毒鸭等，C 用 Farming. 盗了这个原词，但题问的是“栖息地缩小的原因”，农业与之并无因果关系，答非所问。  借用原文：farming areas \n\n D) 原词陷阱 录音里 hunting 与 a decline in the birds' numbers 相关，D 用 Hunting. 盗了全篇高频词。但题专问 habitats 缩小，原文把这一项的因明确归给 droughts，hunting 答非所问。  借用原文：It's caused by both in fact.",
       "group_id": "lazynote-4",
-      "start": 449.966,
-      "end": 636.166
+      "start": 587.1,
+      "end": 593.944,
+      "spoken_text": "What does the woman say has caused the shrinking of ducks' habitats in Australia?",
+      "audio_match_score": 1.0
     },
     {
       "number": 10,
@@ -229,8 +247,10 @@
       "answer": 1,
       "explanation": "【题目】 Why is there no commercial farming of ducks and geese in Western countries? \n\n 【翻译】 为什么西方国家没有鸭子和鹅的商业化养殖？ \n A)  它们不容易驯化。 \n B)  它们的肉不那么受欢迎。 \n C)  这不环保。 \n D)  这被认为不具成本效益。 \n\n 【答案】 B （细节题） Their meat is not that popular. \n 【定位】 P7 W: Yet, there's no commercial farming of these birds nowadays. Their meat is hardly eaten in Western countries. \n 女：然而，如今并没有对这些鸟类的商业养殖。在西方国家，它们的肉几乎没人吃。 \n\n 【信号】 现象句紧跟的下一句即解释 。答案信号是“现象+紧贴解释”的相邻结构：先说 there's no commercial farming（现象），紧接着 Their meat is hardly eaten in Western countries. 就是原因——没人吃，自然不必养。 \n\n 【替换】 Their meat is hardly eaten in Western countries. ↔ Their meat is not that popular. “几乎没人吃”=“不太受欢迎” \n\n 【排除】 A) 未提及 They are not easy to domesticate. 听着像个合理理由，但录音没说过驯养难易，属凭常识脑补的无中生有。 \n C) 未提及 It is not environmentally friendly. 蹭了“环保”这个当下热词，但录音解释“不养”的理由是肉没人吃，从未提环保，无中生有。 \n D) 过度推断 It is not considered cost-effective. 看似能从“没人吃→养了不赚钱”推出来，但这是考生自己多走的一步，原文只说肉没人吃，没说成本不划算。  借用原文：Their meat is hardly eaten in Western countries.",
       "group_id": "lazynote-4",
-      "start": 449.966,
-      "end": 636.166
+      "start": 609.2,
+      "end": 615.466,
+      "spoken_text": "Why is there no commercial farming of ducks and geese in western countries?",
+      "audio_match_score": 1.0
     },
     {
       "number": 11,
@@ -244,8 +264,10 @@
       "answer": 3,
       "explanation": "【题目】 What does the woman say about farmers in her grandfather's time? \n\n 【翻译】 女士对她祖父那个时代的农民说了什么？ \n A)  他们把捕猎鸭子作为一项传统运动。 \n B)  他们猎杀野鸭和野鹅作为食物。 \n C)  他们饲养鸭子和鹅以获取蛋。 \n D)  他们大量毒杀野鸭。 \n\n 【答案】 D （细节题） They poisoned wild ducks in large numbers. \n 【定位】 P9 W: ducks have never been popular with farmers like my grandfather anyway because they sometimes destroy crops. In fact, farmers used to poison them in large numbers. \n 女：反正鸭子从来都不受我祖父那样的农民待见，因为它们有时会毁坏庄稼。事实上，农民过去常常大量毒杀它们。 \n\n 【信号】 主语为 farmers 的应答句直接点动作 。答案信号是女士应答里主语明确为 farmers 的那句 farmers used to poison them in large numbers——题问 farmers，原文恰由 farmers 当主语给出动作，定位即在此。 \n\n 【替换】 farmers used to poison them in large numbers ↔ They poisoned wild ducks in large numbers. 原话与选项近乎逐词对应 \n\n 【排除】 A) 张冠李戴 They hunted ducks as a traditional sport. 蹭了男士那句 duck hunting seemingly exists as the continuation of a tradition 里的 tradition，但那是讲“如今猎鸭是传统延续”，主语不是祖父年代的农民，张冠李戴。  借用原文：duck hunting seemingly exists as the continuation of a tradition \n\n B) 张冠李戴 They killed wild ducks and geese for food. 盗用了 a plentifully available food source，但那讲的是祖父那辈猎人把鸭鹅当食物来源，主语是猎人而非本题问的 farmers，且农民对鸭子的态度是毒杀而非食用，张冠李戴。  借用原文：a plentifully available food source \n\n C) 未提及 They raised ducks and geese for their eggs. 里的 raised（饲养）和 eggs（蛋）录音从未念到——原文讲的全是猎杀、毒杀，没有任何“养鸭取蛋”，属无中生有。",
       "group_id": "lazynote-4",
-      "start": 449.966,
-      "end": 636.166
+      "start": 630.91,
+      "end": 636.166,
+      "spoken_text": "What does the woman say about farmers in her grandfather's time?",
+      "audio_match_score": 1.0
     },
     {
       "number": 12,
@@ -259,8 +281,10 @@
       "answer": 0,
       "explanation": "【题目】 What is the woman planning to do? \n\n 【翻译】 这位女士计划做什么? \n A)  让人重新粉刷她的房子。 \n B)  更换她的一些旧家具。 \n C)  搬进一所新粉刷的房子。 \n D)  计算粉刷工作的费用。 \n\n 【答案】 A （细节题） Have her house repainted. \n 【定位】 P2 W: So, how much would the paint job cost? \n 女：那么，这次刷漆要花多少钱呢？ \n\n 【信号】 她默认刷漆为前提 。整段对话从男方 I estimate you have between 210 and 240 square meters of walls and ceiling. 量墙面起，到女方追问 how much would the paint job cost，全程围绕 the paint job 推进——她来咨询、谈价钱，前提就是她正打算把房子刷一遍。信号是「她把刷漆当作既定要做的事在谈费用」，而非在犹豫要不要刷。 \n\n 【替换】 the paint job ↔ Have her house repainted. 刷漆=请人重刷房子 \n\n 【排除】 B) 原词陷阱 录音确实念到 furniture，但只在 we can't paint the walls without clearing all the furniture first 里讲「刷漆要先搬开家具」，从没说她要更换旧家具。这一项盗用 furniture 这个原词制造「听到就想选」的诱惑，实则答非所问。  借用原文：we can't paint the walls without clearing all the furniture first \n\n C) 偷换概念 录音里女方说的是 I would have to stay with a friend or check into a hotel，即刷漆那两天临时去别处住，绝不是搬进一所新刷好的房子。这一项借「新刷好的房子」这一刷漆语境的联想来误导，与原文意思不符。  借用原文：I would have to stay with a friend or check into a hotel \n\n D) 张冠李戴 录音开头是男方说 I've finished calculating.——计算面积、费用的是这位男技师，不是女方；女方只是问价。这一项盗用 calculate/cost 这两个原词，又把「算钱」这个动作张冠李戴到女方身上。  借用原文：I've finished calculating.",
       "group_id": "lazynote-5",
-      "start": 653.3,
-      "end": 837.366
+      "start": 772.95,
+      "end": 776.415,
+      "spoken_text": "What is the woman planning to do?",
+      "audio_match_score": 1.0
     },
     {
       "number": 13,
@@ -274,8 +298,10 @@
       "answer": 1,
       "explanation": "【题目】 What is the woman's chief concern? \n\n 【翻译】 这位女士最关心的是什么? \n A)  这项工作需要多长时间。 \n B)  这项工作需要花费多少钱。 \n C)  粉刷工作将如何进行。 \n D)  需要多少工人。 \n\n 【答案】 B （细节题） How much the work will cost. \n 【定位】 P2 W: So, how much would the paint job cost? \n 女：那么，这次刷漆要花多少钱呢？ \n\n 【信号】 她主动追问的就是钱 。女方主动开口问的第一件事就是 how much would the paint job cost，随后听到报价 $3,000 又反应 that's more than I expected——她的注意力始终落在费用上。信号是「她主动发问且事后又对价钱有强烈反应」，这正标记出她的 chief concern 是钱。 \n\n 【替换】 how much would the paint job cost ↔ How much the work will cost. the paint job=the work \n\n 【排除】 A) 原词陷阱 录音里 the whole task would take two days 确实念到两天工期，但这是男方主动告知的，不是女方在意发问的。这一项盗用「两天/工期」这一原词信息，却不是她的 chief concern。  借用原文：the whole task would take two days \n\n C) 答非所问 施工方式由男方在 every time we paint a room, we first have to move the furniture to another room 主动解释，女方只是问了句 Why?，并未把「怎么刷」当成核心关切。这一项借「刷漆流程」这段原文诱选，却答非所问。  借用原文：every time we paint a room, we first have to move the furniture to another room \n\n D) 未提及 录音里只在 it requires two people 提到「需要两个人」是抬高费用的原因，而不是讨论「需要几个工人」这个独立话题，女方更没把人数当关切。选项把 two people 偷换成「需要多少工人」这个题目，属未提及该问法。",
       "group_id": "lazynote-5",
-      "start": 653.3,
-      "end": 837.366
+      "start": 791.43,
+      "end": 795.422,
+      "spoken_text": "What is the woman's chief concern?",
+      "audio_match_score": 1.0
     },
     {
       "number": 14,
@@ -289,8 +315,10 @@
       "answer": 2,
       "explanation": "【题目】 What does the woman have to do while the paint job is being done? \n\n 【翻译】 在粉刷工作进行期间,这位女士必须做什么? \n A)  把她的家具盖起来。 \n B)  请一些朋友帮忙。 \n C)  待在别的地方。 \n D)  亲自监督工作。 \n\n 【答案】 C （细节题） Stay somewhere else. \n 【定位】 P12 W: Oh well, that changes everything, I'm afraid. I would have to stay with a friend or check into a hotel. \n 女：哦，那这下情况就全变了，恐怕得这样。我就只能去朋友那儿住，或者住进酒店了。 \n\n 【信号】 I would have to 必要性信号 。前一句男方确认 That is correct.（指她那两天不能住在自己家），紧接着女方说 I would have to stay with a friend or check into a hotel，have to 正是「不得不」的必要性信号。信号是「条件触发后她亲口说出的 have to + 动作」，这就是答案句。 \n\n 【替换】 stay with a friend or check into a hotel ↔ Stay somewhere else. 住朋友家或酒店=去别处住 \n\n 【排除】 A) 原词陷阱 录音里和家具有关的是 the price includes moving all the furniture——搬家具由施工方包办，根本没说要女方去「盖住」家具。这一项盗用 furniture 原词，又把动作安错了执行人。  借用原文：the price includes moving all the furniture \n\n B) 偷换概念 录音里 friend 出现在 stay with a friend——是去朋友家借住，不是叫朋友来帮忙刷漆。这一项盗用 friend 这个原词，把「投奔朋友住」偷换成「请朋友帮忙干活」。  借用原文：stay with a friend \n\n D) 未提及 录音通篇没有女方要「亲自盯着施工」的内容，反而她说自己 I would have to stay with a friend or check into a hotel，两天不在家，更谈不上监工。这一项是凭刷漆场景空想出来的，原文无据。",
       "group_id": "lazynote-5",
-      "start": 653.3,
-      "end": 837.366
+      "start": 810.4,
+      "end": 816.204,
+      "spoken_text": "What does the woman have to do while the paint job is being done?",
+      "audio_match_score": 1.0
     },
     {
       "number": 15,
@@ -304,8 +332,10 @@
       "answer": 1,
       "explanation": "【题目】 What has the woman come to realize at the end of the conversation? \n\n 【翻译】 在对话结束时,这位女士意识到了什么? \n A)  她本可以请朋友帮忙做粉刷工作。 \n B)  粉刷房子涉及的麻烦比她想象的多。 \n C)  她应该早得多就重新粉刷她的房子。 \n D)  搬动她的家具比粉刷工作更困难。 \n\n 【答案】 B （细节题） Painting a house involves more trouble than she thought. \n 【定位】 P12 W: I'm starting to realize that painting my house is far more troublesome than I had anticipated. \n 女：我开始意识到，给我的房子刷漆远比我原先料想的要麻烦得多。 \n\n 【信号】 realize 引出的结尾总结 。这句出现在对话接近尾声处，由 I'm starting to realize 领起，正是她亲口说出的醒悟；后文男方还附和 Most of our clients go through the same realization. 加以印证。信号是「结尾处由 realize 引出、且对方附和的总结句」，这就是答案句。 \n\n 【替换】 painting my house is far more troublesome than I had anticipated ↔ Painting a house involves more trouble than she thought. more troublesome=more trouble \n\n 【排除】 A) 原词陷阱 录音里 friend 只在 stay with a friend（去朋友家借住）出现，从没说「本可以找朋友帮忙刷漆」。这一项盗用 friend 原词，又用 could have 这个虚拟句式凭空造了个她没说过的懊悔。  借用原文：stay with a friend \n\n C) 未提及 对话里没有任何「她后悔没早点刷房子」的内容，她的醒悟是刷漆太麻烦，与时间早晚无关。这一项用 should have repainted 的虚拟语气编了一个原文不存在的后悔。 \n D) 偷换概念 录音里搬家具是 the price includes moving all the furniture 由公司负责的一个环节，女方并没有说「搬家具比刷漆本身还难」。这一项盗用 furniture/moving 原词，把她「整件事很麻烦」的醒悟偷换成「搬家具比刷漆难」这个原文没下过的比较。  借用原文：the price includes moving all the furniture",
       "group_id": "lazynote-5",
-      "start": 653.3,
-      "end": 837.366
+      "start": 831.36,
+      "end": 837.27,
+      "spoken_text": "What has the woman come to realize at the end of the conversation?",
+      "audio_match_score": 1.0
     },
     {
       "number": 16,
@@ -319,8 +349,10 @@
       "answer": 0,
       "explanation": "【题目】 What is the main aim of homework for primary school kids? \n\n 【翻译】 小学生家庭作业的主要目的是什么? \n A)  培养良好的习惯。 \n B)  为中学做准备。 \n C)  复习课堂上学到的内容。 \n D)  激发学习兴趣。 \n\n 【答案】 A （细节题） To cultivate good habits. \n 【定位】 P1 At the primary level, the main aim is to cultivate good habits, like learning to plan and exercising self-discipline. \n 在小学阶段，主要目的是培养好习惯，比如学会做计划和锻炼自律。 \n\n 【信号】 学段词+main aim原话直给 。答案句以 At the primary level 点出学段，紧跟 the main aim is to cultivate good habits 几乎把题干的 main aim 原样念出——这种『题干关键词在录音里被复述』的句子就是答案句信号。 \n\n 【替换】 the main aim is to cultivate good habits ↔ To cultivate good habits. 近乎原词对应 \n\n 【排除】 B) 张冠李戴 To prepare for secondary school. 借了录音里 During the secondary school years 的 secondary school 一词，但录音讲 secondary 时说的是『延伸课堂所学』，根本没说小学是为升中学做准备——把中学段的话错安到了小学目的上。  借用原文：During the secondary school years \n\n C) 答非所问 To review what is learned in class. 像是改写自录音 extending what is learned at school，但那句讲的是『中学阶段』延伸课堂所学，并非小学目的；且 review（复习）也不等于 extending（延伸/拓展）。  借用原文：extending what is learned at school \n\n D) 未提及 To stimulate interest in learning. 听起来很合理（作业激发学习兴趣），但录音讲小学目的只说了 cultivate good habits、learning to plan、self-discipline，全程没提『激发兴趣』，属于凭常识脑补出来的选项。",
       "group_id": "lazynote-6",
-      "start": 886.5,
-      "end": 1039.5
+      "start": 991.76,
+      "end": 998.131,
+      "spoken_text": "What is the main aim of homework for primary school kids?",
+      "audio_match_score": 1.0
     },
     {
       "number": 17,
@@ -334,8 +366,10 @@
       "answer": 1,
       "explanation": "【题目】 What does the passage suggest parents do to help their children? \n\n 【翻译】 文章建议家长做什么来帮助孩子? \n A)  与孩子讨论他们的学业成绩。 \n B)  为孩子创造理想的学习环境。 \n C)  允许孩子独立学习。 \n D)  及时检查孩子的家庭作业。 \n\n 【答案】 B （细节题） Create an ideal study environment for them. \n 【定位】 P3 Creating an ideal working environment will make it easier for them to get down to their assignments quickly. \n 营造一个理想的学习环境，会让孩子更容易快速投入到作业中。 \n\n 【信号】 首句建议句直陈做法 。第 3 段开头 Creating an ideal working environment 就是一条建议家长落地去做的具体动作，篇章里这种『动名词/祈使开头、紧跟好处』的句子是典型建议落点。 \n\n 【替换】 Creating an ideal working environment ↔ Create an ideal study environment for them. working≈study的同义替换 \n\n 【排除】 A) 原词陷阱 Discuss their academic achievements with them. 借了录音 academic achievement 这个原词，但那是在讲『中学作业与学业成绩正相关』，根本没让家长去和孩子『讨论成绩』——听到 achievement 就选正中陷阱。  借用原文：academic achievement \n\n C) 与原文相反 Allow them to learn independently. 看似呼应录音 by the end of primary school it's second nature（小学末要变成自觉），但录音始终在讲家长要『帮忙、陪在旁边』（somewhere near you），方向是陪伴而非放手，选独立自学正好反了家长此刻该做的事。  借用原文：somewhere near you \n\n D) 原词陷阱 Check their homework promptly. 用了话题原词 homework，特别勾人，但录音从没让家长『及时检查作业』，只说营造环境、陪在旁边答疑鼓励（answer questions and offer encouragement），check homework 是无中生有。  借用原文：answer questions and offer encouragement",
       "group_id": "lazynote-6",
-      "start": 886.5,
-      "end": 1039.5
+      "start": 1012.91,
+      "end": 1018.582,
+      "spoken_text": "What does the passage suggest parents do to help their children?",
+      "audio_match_score": 1.0
     },
     {
       "number": 18,
@@ -349,8 +383,10 @@
       "answer": 2,
       "explanation": "【题目】 What should children do to deal with multiple assignments? \n\n 【翻译】 孩子应该如何处理多项作业? \n A)  在感到疲劳之前完成作业。 \n B)  先处理最困难的任务。 \n C)  从自己喜欢的内容开始。 \n D)  专注于最重要的作业。 \n\n 【答案】 C （细节题） Start with something they enjoy. \n 【定位】 P5 When there are several different assignments, make sure they begin with one they enjoy, so it seems easy to get started. \n 当有好几项不同的作业时，要确保孩子从一项他们喜欢的开始做，这样起步就显得轻松。 \n\n 【信号】 情境词+begin with点起手 。录音先用 When there are several different assignments 复述了题干的『多项作业』情境，紧跟 begin with one they enjoy 用次序词 begin with 直接点出第一步——情境复述+次序词就是答案句信号。 \n\n 【替换】 begin with one they enjoy ↔ Start with something they enjoy. begin with=Start with的同义替换 \n\n 【排除】 A) 原词陷阱 Finish them before they get tired. 借了录音 before they get tired 的 tired 一词，但原文 before they get tired 是修饰『第二步做最难的要赶在累之前』，不是说『趁不累把全部做完』——把限定条件偷换成了总目标。  借用原文：before they get tired \n\n B) 与原文相反 Tackle the most difficult task first. 用了录音原词 the most difficult task，极其诱人，但录音说的是 take on the most difficult task second——是『第二步』才做最难的，选项却改成 first，次序被反，与原文相反。  借用原文：take on the most difficult task second \n\n D) 未提及 Focus on the most important ones. 的 most important 听着和 18B 的 most difficult 很像、也很合常理，但录音排序依据是『喜欢的先、最难的第二』，从没按『重要性』排，important 是脑补出来的。",
       "group_id": "lazynote-6",
-      "start": 886.5,
-      "end": 1039.5
+      "start": 1033.49,
+      "end": 1039.314,
+      "spoken_text": "What should children do to deal with multiple assignments?",
+      "audio_match_score": 1.0
     },
     {
       "number": 19,
@@ -364,8 +400,10 @@
       "answer": 0,
       "explanation": "【题目】 Who will qualify for the bonus in Mexican oil company? \n\n 【翻译】 谁将有资格获得墨西哥石油公司的奖金? \n A)  符合其体重标准的员工。 \n B)  一年内能减掉30磅的员工。 \n C)  最努力减肥的员工。 \n D)  体重最轻的前10%的员工。 \n\n 【答案】 A （细节题） Workers who meet its body weight standards. \n 【定位】 P1 Workers at Mexican oil company will receive a healthy incentive of almost $300 a year if they meet certain body weight standards. To qualify for the bonus, they must maintain a healthy weight. \n 墨西哥这家石油公司的员工，如果达到一定的体重标准，每年可领到将近 300 美元的健康奖励。要拿到这笔奖金，他们必须保持健康的体重。 \n\n 【信号】 qualify 与 if 引出的资格条件句 。录音出现题干同源词 qualify，且紧跟 To qualify for the bonus, they must maintain a healthy weight 这一明确的资格条件句，加上前句 if they meet certain body weight standards 的 if 条件，正是承载答案的信号句。 \n\n 【替换】 they meet certain body weight standards ↔ meet its body weight standards 近乎同表，certain→its 的限定替换 \n they must maintain a healthy weight ↔ meet its body weight standards 保持健康体重=达到体重标准 \n\n 【排除】 B) 原词陷阱 B 借了录音里的减重情节，但录音说的是 reduce their weight by 10%（减重 10%），选项却写成 lose 30 pounds in a year（一年减 30 磅），数字被偷换，属听到减重就想选的原词陷阱。  借用原文：reduce their weight by 10% during the year \n\n C) 未提及 C 说奖给 Workers who try the hardest to lose weight（最努力减重的人），录音判定标准只看体重结果（达标或减 10%），从没提以努力程度评奖，属无中生有。 \n D) 原词陷阱 D 用了录音里的数字 10%，但录音的 reduce their weight by 10% 是减重幅度 10%，选项却说成 in the top 10% of the slimmest（最瘦的前 10%），把幅度偷换成排名，属原词陷阱。  借用原文：reduce their weight by 10% during the year",
       "group_id": "lazynote-7",
-      "start": 1054.866,
-      "end": 1208.966
+      "start": 1161.33,
+      "end": 1166.335,
+      "spoken_text": "Who will qualify for the bonus in Mexican oil company?",
+      "audio_match_score": 1.0
     },
     {
       "number": 20,
@@ -379,8 +417,10 @@
       "answer": 3,
       "explanation": "【题目】 What do critics think of Mexican oil company's bonus policy? \n\n 【翻译】 批评者如何看待墨西哥石油公司的奖金政策? \n A)  不切实际。 \n B)  前后矛盾。 \n C)  难以管理。 \n D)  不公平。 \n\n 【答案】 D （态度观点题） Unfair. \n 【定位】 P3 But critics say the policy contradicts recommendations by many health experts, who warn that a person's weight is influenced by genetic and environmental factors. That means weight can be hard for individuals to control, which makes the bonus unfair. \n 但批评者说，这项政策与许多健康专家的建议相抵触，这些专家警告说，一个人的体重受遗传和环境因素影响。这意味着体重对个人来说可能难以控制，这就使得这笔奖金不公平。 \n\n 【信号】 题干主语 critics 出现 + 转折 But + 结论 unfair 。录音以 But critics say 直接对上题干的 critics，转折词 But 标示真正的批评态度要来了，段末 which makes the bonus unfair 给出批评者的定性结论，是答案句。 \n\n 【替换】 which makes the bonus unfair ↔ Unfair 原词直现的评价结论 \n\n 【排除】 A) 未提及 A 说政策 Impractical（不切实际），录音批评者的定性是 unfair（不公平），从未说它不切实际，属未提及的近义干扰。 \n B) 张冠李戴 B 的 Inconsistent 确是录音原词，但说它的是第 4 段的 Some experts say the policy is inconsistent，而本题问的是 critics（批评者）的看法，二者不是同一方，属张冠李戴。  借用原文：Some experts say the policy is inconsistent with the science \n\n C) 偷换概念 C 说政策 Unmanageable（难以管理），录音里批评者谈的是体重难以由个人控制（hard for individuals to control），讲的是个人控体重难，不是政策难管理，属偷换概念加未提及。",
       "group_id": "lazynote-7",
-      "start": 1054.866,
-      "end": 1208.966
+      "start": 1180.84,
+      "end": 1187.449,
+      "spoken_text": "What do critics think of Mexican oil company's bonus policy?",
+      "audio_match_score": 1.0
     },
     {
       "number": 21,
@@ -394,8 +434,10 @@
       "answer": 2,
       "explanation": "【题目】 What do experts propose companies do about workers' wellbeing? \n\n 【翻译】 专家建议公司如何对待员工福祉? \n A)  向他们提供更丰厚的奖金。 \n B)  改善工作环境。 \n C)  鼓励健康行为。 \n D)  提供免费午餐和零食。 \n\n 【答案】 C （细节题） Encourage healthy behaviors. \n 【定位】 P4 These experts argue that focusing on wage is the wrong approach. A more productive method of encouraging health among employees is to promote healthy behaviors. \n 这些专家认为，盯着工资是错误的做法。在员工中促进健康的一种更有效的方法，是推动健康的行为。 \n\n 【信号】 对比 wrong approach 与 A more productive method 引出的建议句 。录音先用 focusing on wage is the wrong approach 否定旧法，紧接 A more productive method… is to promote healthy behaviors 这个更有效的方法句正面给出专家建议，是承载答案的信号句。 \n\n 【替换】 to promote healthy behaviors ↔ Encourage healthy behaviors promote=encourage 的近义替换 \n\n 【排除】 A) 原词陷阱 A 说 Offer them much fatter bonuses（发更肥的奖金），借了全篇核心词 bonus，但专家明说 focusing on wage is the wrong approach，盯着钱正是被否定的错误做法，属原词陷阱加与原文相反。  借用原文：focusing on wage is the wrong approach \n\n B) 未提及 B 说 Improve working environment，录音专家给的建议是促进健康行为并举了健身、讲座、健康饮食等例，没提改善工作环境这一概括，属未提及。 \n D) 答非所问 D 的 Provide free lunch and snacks 确与录音 provide healthier snacks… and healthier meals at the company canteen 沾边，但那只是促进健康行为的具体举例之一，题目要的是上位的建议，拿例子冒充结论，属以偏概全。  借用原文：provide healthier snacks in the office and healthier meals at the company canteen",
       "group_id": "lazynote-7",
-      "start": 1054.866,
-      "end": 1208.966
+      "start": 1201.96,
+      "end": 1208.789,
+      "spoken_text": "What do experts propose companies do about workers' wellbeing?",
+      "audio_match_score": 1.0
     },
     {
       "number": 22,
@@ -409,8 +451,10 @@
       "answer": 0,
       "explanation": "【题目】 Why are some people criticizing the British government? \n\n 【翻译】 为什么有些人批评英国政府? \n A)  英国政府在帮助左撇子儿童方面做得不够。 \n B)  英国政府把左撇子儿童当作残疾人对待。 \n C)  英国政府没有专门为左撇子建造设施。 \n D)  英国政府忽视了代表左撇子的运动。 \n\n 【答案】 A （细节题） It has not done enough to help left-handed children. \n 【定位】 P1 Campaigners have warned that the British government is not doing enough to prevent left-handed pupils from falling behind their peers. \n 活动倡导者警告说，英国政府在防止左撇子学生落后于同龄人方面做得不够。 \n\n 【信号】 warned 引出的批评首句 。录音开篇即由 Campaigners have warned that 引出批评，warned(警告)是明确的指责信号，紧随其后的 the British government is not doing enough 就是被批评的具体内容，是承载答案的那一句。 \n\n 【替换】 the British government is not doing enough to prevent left-handed pupils from falling behind ↔ It has not done enough to help left-handed children 防止落后=帮助，措辞改写 \n\n 【排除】 B) 未提及 treated left-handed children as being disabled 说政府\"把左撇子当残疾人对待\"，录音从头到尾没有 disabled 这个说法，是凭\"左撇子常被特殊对待\"的常识硬推出来的，属未提及。 \n C) 偷换概念 not built facilities specially for the left-handed 把批评落到\"没建专门设施\"。录音批评的是政府/部长 failed to take any meaningful action\\(没采取有意义的行动\\)，从未提\"设施\"；选项用一个看似具体的硬件方向偷换了\"行动不足\"这一真正指责点。 \n D) 张冠李戴 ignored campaigns on behalf of the left-handed 说政府\"无视了为左撇子发起的呼吁\"。录音里 Campaigners(活动倡导者)是发出批评的一方，Campaigners have warned；选项盗用了 campaign 这个原词，却把\"倡导者在批评\"反说成\"政府无视呼吁\"，是把发声方和被批方混在一起的张冠李戴，且\"无视呼吁\"不等于首句明指的\"做得不够\"。  借用原文：Campaigners have warned that the British government is not doing enough",
       "group_id": "lazynote-8",
-      "start": 1225.666,
-      "end": 1398.066
+      "start": 1328.94,
+      "end": 1334.082,
+      "spoken_text": "Why are some people criticizing the British government?",
+      "audio_match_score": 1.0
     },
     {
       "number": 23,
@@ -424,8 +468,10 @@
       "answer": 3,
       "explanation": "【题目】 What do studies in recent years show about left-handed children? \n\n 【翻译】 近年来的研究显示左撇子儿童有什么特点? \n A)  他们和其他儿童一样聪明。 \n B)  他们有独特的书写风格。 \n C)  他们有时会有心理问题。 \n D)  他们在学习方面往往有更多困难。 \n\n 【答案】 D （细节题） They tend to have more difficulties in learning. \n 【定位】 P3 Studies in recent years show that left-handed children are more likely to suffer with learning difficulties and their scores are lower on IQ tests. \n 近年的研究表明，左撇子孩子更可能存在学习困难，他们在智商测试中的得分也更低。 \n\n 【信号】 Studies show 引出的结论句 。录音 Studies in recent years show that 与题干用词几乎重合，是明显的定位信号；其后 more likely to suffer with learning difficulties 就是研究给出的结论，承载答案。 \n\n 【替换】 more likely to suffer with learning difficulties ↔ tend to have more difficulties in learning 更可能有=更倾向有，近义改写 \n\n 【排除】 A) 与原文相反 as intelligent as other children\\(和别人一样聪明\\)与录音相反：录音说 their scores are lower on IQ tests\\(智商测试得分更低\\)，恰恰是\"不一样/更低\"，选项把极性反了过来。  借用原文：their scores are lower on IQ tests \n\n B) 原词陷阱 a distinctive style of handwriting\\(独特的书写风格\\)盗用了录音多处提到的 handwriting。录音里 handwriting 是 poor handwriting\\(糟糕的书写\\)、是困难，绝非\"独特风格\"这种中性/褒义说法；本题问的又是 studies 的结论，与书写无关，属答非所问。  借用原文：poor handwriting \n\n C) 未提及 psychological problems\\(心理问题\\)在 studies 那句里没有对应，录音 P3 只说了 learning difficulties 和 IQ 得分低，没提心理；\"左撇子有心理问题\"是听起来合理的常识联想，但录音没念到。",
       "group_id": "lazynote-8",
-      "start": 1225.666,
-      "end": 1398.066
+      "start": 1351.04,
+      "end": 1355.515,
+      "spoken_text": "What do studies in recent years show about left-handed children?",
+      "audio_match_score": 1.0
     },
     {
       "number": 24,
@@ -439,8 +485,10 @@
       "answer": 3,
       "explanation": "【题目】 What do the campaigners demand the department of education do? \n\n 【翻译】 运动人士要求教育部门做什么? \n A)  惩罚歧视左撇子学生的教师。 \n B)  更加重视改善儿童的心理健康。 \n C)  鼓励学生发展各种专业技能。 \n D)  跟踪左撇子儿童的学业表现。 \n\n 【答案】 D （细节题） Keep track of left-handed children's school performance. \n 【定位】 P4 They want the department of education to record which children are left-handed and what their educational attainments are. \n 他们希望教育部门记录哪些孩子是左撇子、以及他们的学业成绩如何。 \n\n 【信号】 want 引出的诉求句 。录音 They want the department of education to 用 want 直接给出诉求，want 后面接的 record which children are left-handed and what their educational attainments are 就是要求做的事，是答案句。 \n\n 【替换】 record which children are left-handed and what their educational attainments are ↔ Keep track of left-handed children's school performance 记录学业成绩=追踪学业表现 \n\n 【排除】 A) 原词陷阱 Punish teachers discriminating against left-handed students 借了录音末段的 teacher(出现在 a lack of teacher training\\)。录音说的是\"缺乏教师培训\"，从没要求\"惩罚老师\"；Punish 这一强硬动作是录音没有的，属原词陷阱。  借用原文：a lack of teacher training \n\n B) 未提及 improving children's mental health 把诉求引向\"心理健康\"。录音的诉求只在\"记录左撇子身份与学业成绩\"，全篇没提 mental health；本项用一个貌似教育部门该管的方向偷换了真正的诉求。 \n C) 答非所问 develop various professional skills\\(发展各种职业技能\\)在录音诉求句里没有对应。录音 P2 虽提到 reduced career prospects\\(职业前景受损\\)，但那是描述后果，不是\"要求教育部门去发展技能\"，本项答非所问。  借用原文：facing reduced career prospects",
       "group_id": "lazynote-8",
-      "start": 1225.666,
-      "end": 1398.066
+      "start": 1370.49,
+      "end": 1376.7,
+      "spoken_text": "What do the campaigners demand the Department of Education do?",
+      "audio_match_score": 1.0
     },
     {
       "number": 25,
@@ -454,8 +502,10 @@
       "answer": 1,
       "explanation": "【题目】 What do the campaigners want to know about left-handed prisoners? \n\n 【翻译】 运动人士想了解左撇子囚犯的什么情况? \n A)  如何减少他们的数量。 \n B)  为什么他们的数量如此之高。 \n C)  他们占的百分比是多少。 \n D)  他们的百分比是否持续增加。 \n\n 【答案】 B （细节题） Why their numbers are so high. \n 【定位】 P5 They say that these prison numbers are unusually high and ask why it is the case. \n 他们说这些监狱里的人数高得反常，并追问为什么会这样。 \n\n 【信号】 ask why 的追问信号 。录音末句 ask why it is the case 里的 ask why 是明确的\"追问原因\"信号；前半 these prison numbers are unusually high 交代了他们想弄清的对象\\(数量为何反常地高\\)，整句承载答案。 \n\n 【替换】 these prison numbers are unusually high and ask why it is the case ↔ Why their numbers are so high 追问数量为何反常高=问为何这么高 \n\n 【排除】 A) 偷换概念 How they can be reduced in number\\(如何减少其数量\\)录音没说。录音只是追问\"为什么高\"，并未谈\"怎么把它降下来\"；本项把\"问原因\"偷换成\"找办法\"。 \n C) 原词陷阱 What percentage they account for 借了录音里 a high percentage of the prison population is left-handed 中的 percentage 一词。但录音用 percentage 是为了铺垫\"人数反常高\"、进而追问原因，呼吁者想知道的是\"为什么高\"而非\"占多少比例\"；本项用一个真念到的数字词诱你选偏。  借用原文：a high percentage of the prison population is left-handed \n\n D) 过度推断 If their percentage keeps increasing\\(比例是否持续上升\\)同样盗用 percentage 一词，但录音从未说\"在不在增长\"，只说 unusually high\\(反常地高\\)；\"持续上升\"是录音没有的延伸。  借用原文：these prison numbers are unusually high",
       "group_id": "lazynote-8",
-      "start": 1225.666,
-      "end": 1398.066
+      "start": 1391.87,
+      "end": 1397.963,
+      "spoken_text": "What do the campaigners want to know about left-handed prisoners?",
+      "audio_match_score": 1.0
     }
   ],
   "source_sentences": [],
@@ -464,5 +514,6 @@
     "original_bytes": 16995727,
     "sha256": "d90e2117cb7dded89822570c098f218b6d3a43296433ffcf8e9ff9441bf1ddff",
     "playback_encoding": "MP3 48 kbps mono 24 kHz; unchanged content and timing"
-  }
+  },
+  "question_timing_source": "original_audio_transcript_verified"
 }

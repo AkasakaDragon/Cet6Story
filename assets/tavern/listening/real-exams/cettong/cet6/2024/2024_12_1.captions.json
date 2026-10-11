@@ -364,66 +364,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 1.",
-      "translation": "问题1",
+      "text": "1. What are the speakers most probably doing?",
+      "translation": "第 1 题：说话者最有可能在做什么?",
       "start": 175.47,
-      "end": 176.41
+      "end": 180.354,
+      "questionNumber": 1
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What are the speakers most probably doing?",
-      "translation": "发言者最可能在做什么?",
-      "start": 176.82,
-      "end": 180.08
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 2.",
-      "translation": "问题2",
+      "text": "2. What does the woman say she appreciates?",
+      "translation": "第 2 题：女士说她欣赏什么?",
       "start": 193.39,
-      "end": 194.17
+      "end": 197.714,
+      "questionNumber": 2
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the woman say she appreciates?",
-      "translation": "那女人怎么说呢?",
-      "start": 194.73,
-      "end": 197.49
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 3.",
-      "translation": "问题3",
+      "text": "3. What has given rise to some complaints about the woman?",
+      "translation": "第 3 题：什么引发了一些关于女士的投诉?",
       "start": 210.86,
-      "end": 211.64
+      "end": 216.399,
+      "questionNumber": 3
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What has given rise to some complaints about the woman?",
-      "translation": "是什么导致对这名妇女提出一些申诉?",
-      "start": 212.1,
-      "end": 216.18
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 4.",
-      "translation": "问题4",
+      "text": "4. Why doesn't the woman like to write long emails?",
+      "translation": "第 4 题：女士为什么不喜欢写长邮件?",
       "start": 229.53,
-      "end": 230.41
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Why doesn't the woman like to write long emails?",
-      "translation": "为什么这个女人不喜欢写长长的电子邮件?",
-      "start": 230.83,
-      "end": 234.49
+      "end": 235.072,
+      "questionNumber": 4
     },
     {
       "speaker": "听力原声",
@@ -702,10 +674,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "How does the man describe the woman's school grades?",
-      "translation": "男子如何描述女子的学校成绩?",
+      "text": "5. What does the woman say she has always wanted to do since childhood?",
+      "translation": "第 5 题：女士说她从童年起就一直想做什么?",
+      "start": 375.11,
+      "end": 380.399,
+      "questionNumber": 5
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "6. What do we learn about the woman's parents from the conversation?",
+      "translation": "第 6 题：从对话中我们对女士的父母了解到什么?",
+      "start": 393.13,
+      "end": 398.584,
+      "questionNumber": 6
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "7. Why does the woman say she wants to choose internal medicine as her specialty?",
+      "translation": "第 7 题：女士为什么说她想选择内科学作为专业?",
+      "start": 411.31,
+      "end": 417.753,
+      "questionNumber": 7
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "8. How does the man describe the woman's school grades?",
+      "translation": "第 8 题：男士如何描述女士的学校成绩?",
       "start": 432.04,
-      "end": 434.8
+      "end": 435.294,
+      "questionNumber": 8
     },
     {
       "speaker": "听力原声",
@@ -838,26 +838,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do researchers at a university in Finland aim to do in their new study?",
-      "translation": "芬兰大学的研究人员在新研究中打算做什么?",
+      "text": "9. Why do we often have to choose photos that include a street sign to log into our email accounts?",
+      "translation": "第 9 题：为什么我们在登录电子邮件账户时经常需要选择包含街道标志的照片?",
+      "start": 580.69,
+      "end": 588.364,
+      "questionNumber": 9
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "10. What do researchers at a university in Finland aim to do in their new study?",
+      "translation": "第 10 题：芬兰一所大学的研究人员在他们的新研究中旨在做什么?",
       "start": 602.8,
-      "end": 608.16
+      "end": 608.478,
+      "questionNumber": 10
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 11.",
-      "translation": "问题11。",
+      "text": "11. What do the researchers advise websites to do at the end of the passage?",
+      "translation": "第 11 题：研究人员在文章末尾建议网站做什么?",
       "start": 621.66,
-      "end": 622.34
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What do the researchers advise websites to do at the end of the passage?",
-      "translation": "研究者们建议网站在最后做点什么?",
-      "start": 623.22,
-      "end": 627.76
+      "end": 628.181,
+      "questionNumber": 11
     },
     {
       "speaker": "听力原声",
@@ -1054,10 +1057,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 15 What do some experts think of fitness apps like Slimeretics?",
-      "translation": "问题15 一些专家如何看待 运动器械,比如 运动器械?",
+      "text": "12. What was the problem Jenny Weiner encountered four years ago?",
+      "translation": "第 12 题：四年前Jenny Weiner遇到了什么问题?",
+      "start": 776.43,
+      "end": 781.866,
+      "questionNumber": 12
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "13. What can the fitness phone app Slimmeretics do according to the passage?",
+      "translation": "第 13 题：根据文章,健身手机应用程序Slimmeretics能做什么?",
+      "start": 794.65,
+      "end": 802.026,
+      "questionNumber": 13
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "14. Why does the passage say Jenny Weiner now finds the workouts exciting?",
+      "translation": "第 14 题：文章为什么说Jenny Weiner现在觉得锻炼令人兴奋?",
+      "start": 814.47,
+      "end": 821.654,
+      "questionNumber": 14
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "15. What do some experts think of fitness apps like Slimmeretics?",
+      "translation": "第 15 题：一些专家如何看待像Slimmeretics这样的健身应用程序?",
       "start": 834.64,
-      "end": 840.88
+      "end": 841.446,
+      "questionNumber": 15
     },
     {
       "speaker": "听力原声",
@@ -1250,8 +1281,35 @@
       "text": "In future, if social scientists are serious about testing theories of morality, they will need to gather new data, more systematically, out in the field.\"",
       "translation": "”",
       "start": 1067.19,
-      "end": 1128.5,
+      "end": 1082.91,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "16. What do we learn from the conclusion of the Oxford University researchers?",
+      "translation": "第 16 题：我们从牛津大学研究人员的结论中了解到什么？",
+      "start": 1082.91,
+      "end": 1089.751,
+      "questionNumber": 16
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "17. What did the new study by Oxford researchers aim to do?",
+      "translation": "第 17 题：牛津研究人员的新研究旨在做什么？",
+      "start": 1102.57,
+      "end": 1108.319,
+      "questionNumber": 17
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "18. What does Harvey Whitehouse think social scientists should do to theories of morality?",
+      "translation": "第 18 题：Harvey Whitehouse认为社会科学家应该如何对待道德理论？",
+      "start": 1120.89,
+      "end": 1129.029,
+      "questionNumber": 18
     },
     {
       "speaker": "听力原声",
@@ -1472,34 +1530,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 20.",
-      "translation": "问题20。",
+      "text": "19. What does the speaker say about our eyes?",
+      "translation": "第 19 题：讲话者关于我们的眼睛说了什么?",
+      "start": 1310.65,
+      "end": 1315.686,
+      "questionNumber": 19
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "20. What does color actually do according to this lecture?",
+      "translation": "第 20 题：根据这次讲座,颜色实际上起什么作用?",
       "start": 1328.65,
-      "end": 1329.59
+      "end": 1334.477,
+      "questionNumber": 20
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does color actually do according to this lecture?",
-      "translation": "根据这个演讲, 颜色实际上做什么?",
-      "start": 1330.55,
-      "end": 1334.21
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 21.",
-      "translation": "问题21",
+      "text": "21. What does the brain use color to do?",
+      "translation": "第 21 题：大脑利用颜色做什么?",
       "start": 1347.71,
-      "end": 1348.57
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What does the brain use color to do?",
-      "translation": "大脑使用颜色做什么?",
-      "start": 1349.36,
-      "end": 1352.16
+      "end": 1352.432,
+      "questionNumber": 21
     },
     {
       "speaker": "听力原声",
@@ -1686,66 +1739,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "22.",
-      "translation": "22. 妇女 22",
+      "text": "22. What does the speaker say many of us search for throughout our lives?",
+      "translation": "第 22 题：说话人说我们许多人终其一生都在寻找什么?",
       "start": 1580.81,
-      "end": 1581.59
+      "end": 1586.962,
+      "questionNumber": 22
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the speaker say many of us search for throughout our lives?",
-      "translation": "这位发言者说,我们许多人一生都在寻找什么?",
-      "start": 1582.47,
-      "end": 1586.61
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 23.",
-      "translation": "问题23。",
+      "text": "23. What do Rhia Catapano and colleagues find about economic resources?",
+      "translation": "第 23 题：Rhia Catapano及其同事关于经济资源有什么发现?",
       "start": 1600.42,
-      "end": 1601.28
+      "end": 1607.718,
+      "questionNumber": 23
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do Rhea Katopano and colleagues find about economic resources?",
-      "translation": "Rhea Katopano和同事对经济资源有何看法?",
-      "start": 1602.22,
-      "end": 1607.0
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "24.",
-      "translation": "24. 24个",
+      "text": "24. What do we learn about Rhia Catapano and colleagues' second study?",
+      "translation": "第 24 题：关于Rhia Catapano及其同事的第二项研究,我们了解到什么?",
       "start": 1621.57,
-      "end": 1622.17
+      "end": 1627.718,
+      "questionNumber": 24
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do we learn about Rhea Katopano and colleagues' second study?",
-      "translation": "我们从Rhea Katopano和同事的第二次研究中了解到什么?",
-      "start": 1622.91,
-      "end": 1627.39
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 25.",
-      "translation": "问题25。",
+      "text": "25. Why do meaning and happiness have a weaker relationship in those with more resources?",
+      "translation": "第 25 题：为什么在拥有更多资源的人群中,意义和幸福之间的关系更弱?",
       "start": 1641.22,
-      "end": 1642.08
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Why do meaning and happiness have a weaker relationship in those with more resources?",
-      "translation": "为什么在资源较多的人中,意义和幸福的关系更弱?",
-      "start": 1642.76,
-      "end": 1648.14
+      "end": 1648.723,
+      "questionNumber": 25
     },
     {
       "speaker": "听力原声",
@@ -1759,5 +1784,6 @@
   "translation_sources": [
     "https://english-exam.lazynote.cn/cet6/sections/listening/2024-12-1/",
     "Sams200/opus-mt-en-zh (unmatched sentences only)"
-  ]
+  ],
+  "question_verification": "All 25 published question prompts located in original audio; numbers and prompts share one replay unit."
 }

@@ -128,18 +128,20 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do we learn from the news report about the egg price in the U.S.?",
-      "translation": "从这则新闻报道中，我们了解到美国的鸡蛋价格有什么情况？",
-      "start": 136.94,
-      "end": 141.64
+      "text": "1. What do we learn from the news report about the egg price in the U.S.?",
+      "translation": "第 1 题：从新闻报道中我们了解到美国鸡蛋价格的什么情况？",
+      "start": 135.89,
+      "end": 142.119,
+      "questionNumber": 1
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the news report say about most people arriving at American borders with eggs?",
-      "translation": "新闻报道提到，大多数携带鸡蛋抵达美国边境的人有什么情况？",
+      "text": "2. What does the news report say about most people arriving at American borders with eggs?",
+      "translation": "第 2 题：新闻报道关于携带鸡蛋抵达美国边境的大多数人说了什么？",
       "start": 158.64,
-      "end": 164.8
+      "end": 165.189,
+      "questionNumber": 2
     },
     {
       "speaker": "听力原声",
@@ -254,34 +256,20 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "3.",
-      "translation": "3 个",
+      "text": "3. What do we learn from the news report about the restaurant Nettie's House?",
+      "translation": "第 3 题：从新闻报道中我们了解到关于Nettie's House餐厅的什么信息?",
       "start": 250.35,
-      "end": 250.97
+      "end": 256.018,
+      "questionNumber": 3
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do we learn from the news report about the restaurant Nettie's house?",
-      "translation": "我们从关于Nettie餐厅的新闻报道中 学到什么?",
-      "start": 251.87,
-      "end": 255.51
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "4.",
-      "translation": "4个",
+      "text": "4. What do supporters say in response to the restaurant's new policy?",
+      "translation": "第 4 题：支持者对餐厅的新政策作何回应?",
       "start": 271.17,
-      "end": 271.85
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What do supporters say in response to the restaurant's new policy?",
-      "translation": "支持者对餐厅的新政策有何反应?",
-      "start": 272.29,
-      "end": 276.27
+      "end": 276.799,
+      "questionNumber": 4
     },
     {
       "speaker": "听力原声",
@@ -401,50 +389,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 5.",
-      "translation": "问题5",
+      "text": "5. What does the report say security officers were searching for?",
+      "translation": "第 5 题：报道称安全人员在搜寻什么？",
       "start": 379.43,
-      "end": 380.15
+      "end": 384.64,
+      "questionNumber": 5
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the report say security officers were searching for?",
-      "translation": "报告说保安人员在找什么?",
-      "start": 380.81,
-      "end": 384.49
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 6.",
-      "translation": "问题6",
+      "text": "6. Where does the report say the discovery was made?",
+      "translation": "第 6 题：报道称在哪里有了这一发现？",
       "start": 399.61,
-      "end": 400.35
+      "end": 404.249,
+      "questionNumber": 6
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Where does the report say the discovery was made?",
-      "translation": "报告上说发现地点在哪里?",
-      "start": 401.07,
-      "end": 403.99
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 7.",
-      "translation": "问题7",
+      "text": "7. What did the government say would be done if security officers found what they were searching for?",
+      "translation": "第 7 题：政府表示如果安全人员找到了他们搜寻的目标，将会采取什么措施？",
       "start": 419.37,
-      "end": 420.13
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What did the government say would be done if security officers found what they were searching for?",
-      "translation": "如果安全人员发现他们在找的东西 政府会怎么说?",
-      "start": 420.57,
-      "end": 426.57
+      "end": 426.718,
+      "questionNumber": 7
     },
     {
       "speaker": "听力原声",
@@ -837,66 +804,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "8.",
-      "translation": "8. 预 算",
+      "text": "8. Why does the woman say she swears it?",
+      "translation": "第 8 题：为什么女人说她发誓?",
       "start": 580.06,
-      "end": 580.5
+      "end": 584.045,
+      "questionNumber": 8
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Why does the woman say she swears it?",
-      "translation": "为什么女人说她发誓?",
-      "start": 581.3,
-      "end": 583.8
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 9.",
-      "translation": "问题9",
+      "text": "9. What do we learn about Hannah from the conversation?",
+      "translation": "第 9 题：从对话中我们了解到关于Hannah的什么情况?",
       "start": 599.17,
-      "end": 599.87
+      "end": 603.697,
+      "questionNumber": 9
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do we learn about Hannah from the conversation?",
-      "translation": "我们从谈话中了解到Hannah什么?",
-      "start": 600.39,
-      "end": 603.15
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 10.",
-      "translation": "问题10。",
+      "text": "10. What does the man think really matters to people?",
+      "translation": "第 10 题：男人认为对人们来说真正重要的是什么?",
       "start": 618.81,
-      "end": 619.43
+      "end": 623.01,
+      "questionNumber": 10
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the man think really matters to people?",
-      "translation": "男人认为什么才是真正重要的人吗?",
-      "start": 619.87,
-      "end": 622.81
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 11.",
-      "translation": "问题11。",
+      "text": "11. What does Hannah's husband say he'll do if she sells the new car?",
+      "translation": "第 11 题：如果她卖掉新车,Hannah的丈夫说他会做什么?",
       "start": 638.11,
-      "end": 638.71
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What does Hannah's husband say he'll do if she sells the new car?",
-      "translation": "汉娜的丈夫说 如果她卖掉新车 他会怎么做?",
-      "start": 639.57,
-      "end": 643.71
+      "end": 643.911,
+      "questionNumber": 11
     },
     {
       "speaker": "听力原声",
@@ -1053,66 +992,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 12.",
-      "translation": "问题12。",
+      "text": "12. What does the man say about Jake?",
+      "translation": "第 12 题：男士对Jake有什么评价?",
       "start": 759.89,
-      "end": 760.63
+      "end": 763.778,
+      "questionNumber": 12
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the man say about Jake?",
-      "translation": "他怎么说杰克?",
-      "start": 761.59,
-      "end": 763.43
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 13.",
-      "translation": "问题13。",
+      "text": "13. Why does the woman feel uncomfortable about sending Jake to Lakeview School?",
+      "translation": "第 13 题：女士为什么对把Jake送到Lakeview学校感到不安?",
       "start": 778.7,
-      "end": 779.64
+      "end": 785.286,
+      "questionNumber": 13
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Why does the woman feel uncomfortable about sending Jake to Lakeview school?",
-      "translation": "为什么这个女人觉得不自在 送Jake去Lakeview学校?",
-      "start": 780.38,
-      "end": 785.0
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "14.",
-      "translation": "14. 14个",
+      "text": "14. What does the man say about their local school?",
+      "translation": "第 14 题：男士对他们当地学校有什么评价?",
       "start": 800.45,
-      "end": 801.19
+      "end": 804.642,
+      "questionNumber": 14
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the man say about their local school?",
-      "translation": "那人怎么说当地学校?",
-      "start": 801.61,
-      "end": 804.39
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 15.",
-      "translation": "问题15。",
+      "text": "15. What does the woman suggest at the end of the conversation?",
+      "translation": "第 15 题：女士在对话结尾建议什么?",
       "start": 819.52,
-      "end": 820.42
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What does the woman suggest at the end of the conversation?",
-      "translation": "谈话结束时那个女人有什么建议?",
-      "start": 821.04,
-      "end": 824.18
+      "end": 824.501,
+      "questionNumber": 15
     },
     {
       "speaker": "听力原声",
@@ -1293,58 +1204,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "16.",
-      "translation": "16岁。",
+      "text": "16. What does the passage say is a major flaw of analytical decision-making?",
+      "translation": "第 16 题：文章认为分析式决策的一个主要缺陷是什么?",
       "start": 986.37,
-      "end": 987.15
+      "end": 992.782,
+      "questionNumber": 16
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the passage say is a major flaw of analytical decision making?",
-      "translation": "段落中说哪些是分析决策的一个主要缺陷?",
-      "start": 988.13,
-      "end": 992.35
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 17.",
-      "translation": "问题17。",
+      "text": "17. What does a leader tend to do when they are committed to analytical decision-making?",
+      "translation": "第 17 题：当领导者致力于分析式决策时,他们往往会做什么?",
       "start": 1008.0,
-      "end": 1008.84
+      "end": 1014.529,
+      "questionNumber": 17
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does a leader tend to do?",
-      "translation": "领导者会做什么?",
-      "start": 1009.56,
-      "end": 1011.3
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "when they are committed to analytical decision-making.",
-      "translation": "当他们致力于分析性决策时。",
-      "start": 1011.56,
-      "end": 1014.14
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 18.",
-      "translation": "问题18。",
+      "text": "18. What is a key strength of analytical decision-making?",
+      "translation": "第 18 题：分析式决策的一个关键优势是什么?",
       "start": 1029.65,
-      "end": 1030.41
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What is a key strength of analytical decision-making?",
-      "translation": "分析决策的关键力量是什么?",
-      "start": 1031.45,
-      "end": 1034.33
+      "end": 1034.662,
+      "questionNumber": 18
     },
     {
       "speaker": "听力原声",
@@ -1522,50 +1404,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 19.",
-      "translation": "问题19。",
+      "text": "19. What do we learn about Branyas Morera?",
+      "translation": "第 19 题：我们对Branyas Morera有什么了解?",
       "start": 1155.77,
-      "end": 1156.75
+      "end": 1160.32,
+      "questionNumber": 19
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do we learn about Branya Smurrara?",
-      "translation": "我们从布兰雅·斯穆拉拉了解什么?",
-      "start": 1157.53,
-      "end": 1160.09
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 20.",
-      "translation": "问题20。",
+      "text": "20. What is one of Branyas Morera's secrets to living a long life?",
+      "translation": "第 20 题：Branyas Morera长寿的秘诀之一是什么?",
       "start": 1175.17,
-      "end": 1176.15
+      "end": 1181.513,
+      "questionNumber": 20
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What is one of Branya Smurrara's secrets to living a long life?",
-      "translation": "Branya Smurrara的长寿的秘密是什么?",
-      "start": 1176.81,
-      "end": 1181.25
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 21.",
-      "translation": "问题21",
+      "text": "21. What does Branyas Morera think also contributes to a long life?",
+      "translation": "第 21 题：Branyas Morera认为还有什么有助于长寿?",
       "start": 1196.73,
-      "end": 1197.65
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What does Branya Smurrara think also contributes to a long",
-      "translation": "布兰雅·斯穆拉拉拉认为什么 也有助于很长的时间",
-      "start": 1198.59,
-      "end": 1203.01
+      "end": 1203.841,
+      "questionNumber": 21
     },
     {
       "speaker": "听力原声",
@@ -1716,42 +1577,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What is of great importance to students according to the speaker?",
-      "translation": "发言者说,对学生来说什么是十分重要的?",
+      "text": "22. What is of great importance to students according to the speaker?",
+      "translation": "第 22 题：根据讲话者的观点,什么对学生来说非常重要?",
       "start": 1316.85,
-      "end": 1320.61
+      "end": 1320.907,
+      "questionNumber": 22
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 23 What did one study find about students seated in the middle of the classroom?",
-      "translation": "问题23 一项研究发现学生坐在教室中间有何发现?",
+      "text": "23. What did one study find about students seated in the middle of the classroom?",
+      "translation": "第 23 题：一项研究发现坐在教室中间的学生有什么特点?",
       "start": 1336.05,
-      "end": 1342.17
+      "end": 1342.727,
+      "questionNumber": 23
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 24 What can eye contact, visibility,",
-      "translation": "问题24:什么是眼睛接触、能见度、能见度和能见度?",
+      "text": "24. What can eye contact, visibility and more interaction probably bring about?",
+      "translation": "第 24 题：眼神接触、可见度和更多互动可能会带来什么?",
       "start": 1357.93,
-      "end": 1361.69
+      "end": 1365.413,
+      "questionNumber": 24
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "and more interaction probably bring about?",
-      "translation": "和更多的互动 可能带来?",
-      "start": 1362.43,
-      "end": 1365.01
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 25 What do we learn about extremely shy students sitting in the front row of the classroom?",
-      "translation": "问题25:我们如何了解坐在教室前排极害羞的学生?",
+      "text": "25. What do we learn about extremely shy students sitting in the front row of the classroom?",
+      "translation": "第 25 题：关于坐在教室前排的极度害羞的学生,我们了解到什么?",
       "start": 1380.76,
-      "end": 1387.8
+      "end": 1388.208,
+      "questionNumber": 25
     },
     {
       "speaker": "听力原声",
@@ -1765,5 +1622,6 @@
   "translation_sources": [
     "https://english-exam.lazynote.cn/cet4/sections/listening/2025-12-2/",
     "Sams200/opus-mt-en-zh (unmatched sentences only)"
-  ]
+  ],
+  "question_verification": "All 25 published question prompts located in original audio; numbers and prompts share one replay unit."
 }

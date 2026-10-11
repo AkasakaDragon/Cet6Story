@@ -108,34 +108,20 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 1.",
-      "translation": "问题1",
+      "text": "1. What may be the reason that friends are similar to each other according to the recent research?",
+      "translation": "第 1 题：根据最近的研究,朋友之间相似的原因可能是什么?",
       "start": 123.86,
-      "end": 124.62
+      "end": 131.057,
+      "questionNumber": 1
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What may be the reason that friends are similar to each other, according to the recent research?",
-      "translation": "根据最近的研究,什么可能是朋友彼此相似的原因?",
-      "start": 125.16,
-      "end": 130.88
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "2.",
-      "translation": "2. 目标",
+      "text": "2. What does the news report say about the relationship between friends?",
+      "translation": "第 2 题：新闻报道关于朋友之间的关系说了什么?",
       "start": 146.62,
-      "end": 147.36
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What does the news report say about the relationship between friends?",
-      "translation": "新闻报道对朋友之间的关系有何看法?",
-      "start": 148.04,
-      "end": 152.44
+      "end": 152.469,
+      "questionNumber": 2
     },
     {
       "speaker": "听力原声",
@@ -220,18 +206,20 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What did both Alan Robinson and Walter Macdonald attempt to do on DNA matching websites?",
-      "translation": "Alan Robinson和Walter Macdonald在DNA匹配网站上都做了些什么?",
+      "text": "3. What did both Alan Robinson and Walter MacDonald attempt to do on DNA matching websites?",
+      "translation": "第 3 题：Alan Robinson 和 Walter MacDonald 在 DNA 匹配网站上都试图做什么?",
       "start": 232.67,
-      "end": 239.47
+      "end": 239.959,
+      "questionNumber": 3
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 4 What did the news report say about Alan Robinson and Walter Macdonald?",
-      "translation": "问题4 新闻报道上怎么说艾伦·鲁滨逊 和沃尔特·麦克唐纳?",
+      "text": "4. What did the news report say about Alan Robinson and Walter MacDonald?",
+      "translation": "第 4 题：新闻报道关于 Alan Robinson 和 Walter MacDonald 说了什么?",
       "start": 255.21,
-      "end": 261.75
+      "end": 261.92,
+      "questionNumber": 4
     },
     {
       "speaker": "听力原声",
@@ -342,50 +330,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 5.",
-      "translation": "问题5",
+      "text": "5. Why did one of the male tourists feel sad?",
+      "translation": "第 5 题：为什么其中一位男性游客感到难过?",
       "start": 347.92,
-      "end": 349.04
+      "end": 352.601,
+      "questionNumber": 5
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Why did one of the male tourists feel sad?",
-      "translation": "为什么一个男游客感到悲伤?",
-      "start": 349.52,
-      "end": 352.4
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 6.",
-      "translation": "问题6",
+      "text": "6. Who put the good deed video on the internet?",
+      "translation": "第 6 题：谁把这段善举视频上传到了网上?",
       "start": 367.96,
-      "end": 368.66
+      "end": 372.25,
+      "questionNumber": 6
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Who put the good deed video on the internet?",
-      "translation": "谁在互联网上放的好东西视频?",
-      "start": 369.44,
-      "end": 371.9
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 7.",
-      "translation": "问题7",
+      "text": "7. Why did one local woman say she was embarrassed?",
+      "translation": "第 7 题：为什么一位当地妇女说她感到尴尬?",
       "start": 387.48,
-      "end": 388.3
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Why did one local woman say she was embarrassed?",
-      "translation": "为什么一个当地女人说她很尴尬?",
-      "start": 388.82,
-      "end": 392.1
+      "end": 392.59,
+      "questionNumber": 7
     },
     {
       "speaker": "听力原声",
@@ -679,66 +646,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 8.",
-      "translation": "问题8",
+      "text": "8. Why can't the man go for a run Saturday morning?",
+      "translation": "第 8 题：为什么男士周六早上不能去跑步?",
       "start": 532.64,
-      "end": 533.24
+      "end": 537.298,
+      "questionNumber": 8
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Why can't the man go for a run Saturday morning?",
-      "translation": "为什么他周六早上不能去跑步?",
-      "start": 533.78,
-      "end": 536.96
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 9.",
-      "translation": "问题9",
+      "text": "9. Why is the woman's whole family going to the zoo next Saturday?",
+      "translation": "第 9 题：为什么女士全家下周六要去动物园?",
       "start": 552.37,
-      "end": 553.39
+      "end": 558.326,
+      "questionNumber": 9
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Why is the woman's whole family going to the zoo next Saturday?",
-      "translation": "为什么这个女人的全家 下周六都会去动物园?",
-      "start": 553.85,
-      "end": 557.93
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 10.",
-      "translation": "问题10。",
+      "text": "10. What do we learn about Dan from the man's description?",
+      "translation": "第 10 题：从男士的描述中我们了解到Dan的什么情况?",
       "start": 573.81,
-      "end": 574.51
+      "end": 578.461,
+      "questionNumber": 10
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do we learn about Dan from the man's description?",
-      "translation": "我们从这个人的描述中 了解到丹什么?",
-      "start": 575.11,
-      "end": 577.93
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 11.",
-      "translation": "问题11。",
+      "text": "11. What has the man been doing since last weekend?",
+      "translation": "第 11 题：男士从上周末以来一直在做什么?",
       "start": 593.72,
-      "end": 594.44
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What has the man been doing since last weekend?",
-      "translation": "上周末后他做了什么?",
-      "start": 595.02,
-      "end": 597.98
+      "end": 598.285,
+      "questionNumber": 11
     },
     {
       "speaker": "听力原声",
@@ -948,66 +887,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 12.",
-      "translation": "问题12。",
+      "text": "12. What do we learn about the man's book published recently?",
+      "translation": "第 12 题：关于这位男士最近出版的书，我们了解到什么？",
       "start": 735.09,
-      "end": 735.85
+      "end": 740.022,
+      "questionNumber": 12
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do we learn about the man's book published recently?",
-      "translation": "我们最近出版的这本男人的书 了解多少?",
-      "start": 736.79,
-      "end": 739.69
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 13.",
-      "translation": "问题13。",
+      "text": "13. What do the articles the woman read recommend?",
+      "translation": "第 13 题：这位女士读到的文章建议什么？",
       "start": 755.09,
-      "end": 756.17
+      "end": 760.333,
+      "questionNumber": 13
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do the articles the woman read recommend?",
-      "translation": "妇女阅读的文章建议哪些条款?",
-      "start": 756.89,
-      "end": 759.81
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "14.",
-      "translation": "14. 14个",
+      "text": "14. What does the man say about retirement?",
+      "translation": "第 14 题：这位男士对退休有何看法？",
       "start": 775.73,
-      "end": 776.63
+      "end": 780.082,
+      "questionNumber": 14
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the man say about retirement?",
-      "translation": "这个人对退休怎么说?",
-      "start": 777.27,
-      "end": 779.57
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 15.",
-      "translation": "问题15。",
+      "text": "15. How does the man say his proposal about retirement can be carried out?",
+      "translation": "第 15 题：这位男士说他关于退休的提议可以如何实施？",
       "start": 795.37,
-      "end": 796.35
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "How does the man say his proposal about retirement can be carried out?",
-      "translation": "如何执行退休建议?",
-      "start": 797.05,
-      "end": 801.37
+      "end": 801.417,
+      "questionNumber": 15
     },
     {
       "speaker": "听力原声",
@@ -1181,26 +1092,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "When did 31% of students in the experiment select the healthier option?",
-      "translation": "实验中31%的学生什么时候选择了更健康的选择?",
+      "text": "16. What was the finding of the new research from America about consumers' food choices?",
+      "translation": "第 16 题：来自美国的新研究关于消费者食物选择的发现是什么?",
+      "start": 959.4,
+      "end": 966.596,
+      "questionNumber": 16
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "17. When did 31 percent of students in the experiment select the healthier option?",
+      "translation": "第 17 题：实验中百分之三十一的学生在什么时候选择了更健康的选项?",
       "start": 983.57,
-      "end": 989.05
+      "end": 989.3,
+      "questionNumber": 17
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 18.",
-      "translation": "问题18。",
+      "text": "18. How could a healthy diet be promoted according to the findings of the new research?",
+      "translation": "第 18 题：根据新研究的发现,如何促进健康饮食?",
       "start": 1004.45,
-      "end": 1005.27
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "How could a healthy diet be promoted according to the findings of the new research?",
-      "translation": "如何根据新的研究结果促进健康的饮食?",
-      "start": 1006.31,
-      "end": 1011.37
+      "end": 1011.663,
+      "questionNumber": 18
     },
     {
       "speaker": "听力原声",
@@ -1344,10 +1258,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does Patricia Pendry think traditional stress management programs may do?",
-      "translation": "Patricia Pendry认为传统压力管理方案能做什么?",
+      "text": "19. What does the recent study led by Patricia Pendry aim to examine?",
+      "translation": "第 19 题：Patricia Pendry领导的最新研究旨在考察什么?",
+      "start": 1145.22,
+      "end": 1151.389,
+      "questionNumber": 19
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "20. What did the new study measure in the participants?",
+      "translation": "第 20 题：这项新研究测量了参与者的什么?",
+      "start": 1166.24,
+      "end": 1171.859,
+      "questionNumber": 20
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "21. What does Patricia Pendry think traditional stress management programs may do?",
+      "translation": "第 21 题：Patricia Pendry认为传统压力管理项目可能会做什么?",
       "start": 1188.99,
-      "end": 1194.39
+      "end": 1194.685,
+      "questionNumber": 21
     },
     {
       "speaker": "听力原声",
@@ -1490,66 +1423,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 22.",
-      "translation": "问题22。",
+      "text": "22. What do entrepreneurs have to do when taking risks according to the passage?",
+      "translation": "第 22 题：根据文章，企业家在承担风险时必须做什么？",
       "start": 1323.69,
-      "end": 1324.83
+      "end": 1330.923,
+      "questionNumber": 22
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do entrepreneurs have to do when taking risks according to the passage?",
-      "translation": "创业者在根据段子承担风险时需要做些什么?",
-      "start": 1325.73,
-      "end": 1330.59
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 23.",
-      "translation": "问题23。",
+      "text": "23. What does the passage say is key to business growth?",
+      "translation": "第 23 题：文章认为什么是业务增长的关键？",
       "start": 1346.22,
-      "end": 1347.02
+      "end": 1351.136,
+      "questionNumber": 23
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the passage say is key to business growth?",
-      "translation": "段落中写道什么是企业增长的关键?",
-      "start": 1347.72,
-      "end": 1350.94
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 24.",
-      "translation": "问题24。",
+      "text": "24. What are we advised to do when we fail?",
+      "translation": "第 24 题：当我们失败时，建议我们做什么？",
       "start": 1366.51,
-      "end": 1367.33
+      "end": 1371.117,
+      "questionNumber": 24
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What are we advised to do when we fail?",
-      "translation": "当我们失败时建议我们做什么?",
-      "start": 1368.01,
-      "end": 1370.87
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 25.",
-      "translation": "问题25。",
+      "text": "25. What does it mean to risk-taking businesses when most people tend to avoid risk?",
+      "translation": "第 25 题：当大多数人倾向于规避风险时，对承担风险的企业意味着什么？",
       "start": 1386.49,
-      "end": 1387.39
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What does it mean to risk taking businesses when most people tend to avoid risk?",
-      "translation": "当大多数人倾向于避免风险时,冒险从事商业活动意味着什么?",
-      "start": 1388.11,
-      "end": 1393.93
+      "end": 1394.094,
+      "questionNumber": 25
     },
     {
       "speaker": "听力原声",
@@ -1563,5 +1468,6 @@
   "translation_sources": [
     "https://english-exam.lazynote.cn/cet4/sections/listening/2023-12-1/",
     "Sams200/opus-mt-en-zh (unmatched sentences only)"
-  ]
+  ],
+  "question_verification": "All 25 published question prompts located in original audio; numbers and prompts share one replay unit."
 }

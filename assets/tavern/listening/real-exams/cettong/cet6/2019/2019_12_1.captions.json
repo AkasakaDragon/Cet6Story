@@ -211,10 +211,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What helped the woman to get her current position?",
-      "translation": "是什么帮助这个女人获得目前的地位?",
+      "text": "1. What is the woman's profession?",
+      "translation": "第 1 题：这位女士的职业是什么？",
+      "start": 181.49,
+      "end": 185.99,
+      "questionNumber": 1
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "2. What is one of the woman's main responsibilities?",
+      "translation": "第 2 题：这位女士的主要职责之一是什么？",
+      "start": 198.61,
+      "end": 203.804,
+      "questionNumber": 2
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "3. What do many people think about the woman's job?",
+      "translation": "第 3 题：许多人对这位女士的工作有什么看法？",
+      "start": 215.99,
+      "end": 221.634,
+      "questionNumber": 3
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "4. What helped the woman to get her current position?",
+      "translation": "第 4 题：是什么帮助这位女士获得了她目前的职位？",
       "start": 235.9,
-      "end": 239.26
+      "end": 239.489,
+      "questionNumber": 4
     },
     {
       "speaker": "听力原声",
@@ -507,50 +535,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 6.",
-      "translation": "问题6",
+      "text": "5. What does the man think of the satire Frankie he recently watched?",
+      "translation": "第 5 题：男士对他最近看的讽刺剧 Frankie 有什么看法?",
+      "start": 381.58,
+      "end": 387.592,
+      "questionNumber": 5
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "6. What does the man say is special about the satire Frankie?",
+      "translation": "第 6 题：男士说讽刺剧 Frankie 有什么特别之处?",
       "start": 400.43,
-      "end": 401.47
+      "end": 406.36,
+      "questionNumber": 6
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "does the man say is special about the satire Frankie?",
-      "translation": "那男人说关于讽刺弗兰基的 特别吗?",
-      "start": 402.27,
-      "end": 405.89
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 7.",
-      "translation": "问题7",
+      "text": "7. What does the woman say she is going to do with the satire Frankie?",
+      "translation": "第 7 题：女士说她打算如何处理讽刺剧 Frankie?",
       "start": 419.32,
-      "end": 420.3
+      "end": 425.571,
+      "questionNumber": 7
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the woman say she was going to do with the satire Frankie?",
-      "translation": "那个女人说她要怎么对付 弗兰基的讽刺画?",
-      "start": 420.86,
-      "end": 425.24
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 8.",
-      "translation": "问题8",
+      "text": "8. What does the woman say about the comedy The Big Bang Theory?",
+      "translation": "第 8 题：女士对喜剧《生活大爆炸》有什么评价?",
       "start": 438.55,
-      "end": 439.47
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What does the woman say about the comedy The Big Bang Theory?",
-      "translation": "那个女人对大爆炸理论的喜剧怎么说?",
-      "start": 440.05,
-      "end": 444.79
+      "end": 445.172,
+      "questionNumber": 8
     },
     {
       "speaker": "听力原声",
@@ -757,6 +773,33 @@
     {
       "speaker": "听力原声",
       "actor": "",
+      "text": "9. What does the speaker say about players of contact sports?",
+      "translation": "第 9 题：说话者关于接触性运动的运动员说了什么?",
+      "start": 606.42,
+      "end": 612.084,
+      "questionNumber": 9
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "10. What do longevity statistics reveal about the average person?",
+      "translation": "第 10 题：寿命统计数据揭示了关于普通人的什么信息?",
+      "start": 625.22,
+      "end": 631.428,
+      "questionNumber": 10
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "11. What bonus does the \"keep moving\" principle bring us according to the speaker?",
+      "translation": "第 11 题：根据说话者所说,\"保持移动\"原则给我们带来了什么额外好处?",
+      "start": 643.56,
+      "end": 651.312,
+      "questionNumber": 11
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
       "text": "passage 2.",
       "translation": "第2段。",
       "start": 664.14,
@@ -927,50 +970,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 13.",
-      "translation": "问题13。",
+      "text": "12. What does the passage say about people's mind?",
+      "translation": "第 12 题：文章关于人们的思维说了什么?",
+      "start": 796.4,
+      "end": 801.605,
+      "questionNumber": 12
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "13. For what purpose did the researchers develop the new app?",
+      "translation": "第 13 题：研究人员开发这款新应用的目的是什么?",
       "start": 814.41,
-      "end": 815.53
+      "end": 819.927,
+      "questionNumber": 13
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "For what purpose did the researchers develop the new app?",
-      "translation": "研究人员开发新应用程序的目的何在?",
-      "start": 816.25,
-      "end": 819.65
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "14.",
-      "translation": "14. 14个",
+      "text": "14. How does daydreaming benefit people according to some researchers?",
+      "translation": "第 14 题：根据一些研究人员的说法,白日梦如何使人们受益?",
       "start": 833.18,
-      "end": 834.16
+      "end": 839.675,
+      "questionNumber": 14
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "How does daydreaming benefit people according to some researchers?",
-      "translation": "根据一些研究人员的说法,白日梦如何造福人们?",
-      "start": 834.82,
-      "end": 839.1
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 15.",
-      "translation": "问题15。",
+      "text": "15. What was the finding of the experiment with 145 undergraduates?",
+      "translation": "第 15 题：对145名本科生进行的实验有什么发现?",
       "start": 852.77,
-      "end": 853.61
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What was the finding of the experiment with 145 undergraduates?",
-      "translation": "对145名本科生的实验结果是什么?",
-      "start": 854.39,
-      "end": 860.09
+      "end": 860.332,
+      "questionNumber": 15
     },
     {
       "speaker": "听力原声",
@@ -1233,18 +1264,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 18.",
-      "translation": "问题18。",
-      "start": 1126.7,
-      "end": 1127.56
+      "text": "16. What does the speaker say about the Viking wooden churches?",
+      "translation": "第 16 题：说话者对维京木制教堂有何评价？",
+      "start": 1088.53,
+      "end": 1094.641,
+      "questionNumber": 16
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Why were the Viking churches constructed from wood?",
-      "translation": "为什么维京教堂是用木头建的?",
-      "start": 1128.34,
-      "end": 1131.9
+      "text": "17. What is special about most of the Viking wooden churches?",
+      "translation": "第 17 题：大多数维京木制教堂有何特别之处？",
+      "start": 1107.07,
+      "end": 1113.779,
+      "questionNumber": 17
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "18. Why were the Viking churches constructed from wood?",
+      "translation": "第 18 题：维京教堂为何用木材建造？",
+      "start": 1126.7,
+      "end": 1132.171,
+      "questionNumber": 18
     },
     {
       "speaker": "听力原声",
@@ -1469,6 +1511,33 @@
       "start": 1331.84,
       "end": 1336.58,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "19. What are the three interesting studies about?",
+      "translation": "第 19 题：这三项有趣的研究是关于什么的?",
+      "start": 1343.82,
+      "end": 1348.502,
+      "questionNumber": 19
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "20. What does the second study find about nine-month-old babies?",
+      "translation": "第 20 题：第二项研究关于九个月大的婴儿有什么发现?",
+      "start": 1361.76,
+      "end": 1368.295,
+      "questionNumber": 20
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "21. What is the 1980 study about?",
+      "translation": "第 21 题：1980年的研究是关于什么的?",
+      "start": 1381.44,
+      "end": 1386.186,
+      "questionNumber": 21
     },
     {
       "speaker": "听力原声",
@@ -1729,66 +1798,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 22.",
-      "translation": "问题22。",
+      "text": "22. What does the speaker say about being over collaborative?",
+      "translation": "第 22 题：说话者对过度合作有何看法?",
       "start": 1599.93,
-      "end": 1601.07
+      "end": 1606.231,
+      "questionNumber": 22
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the speaker say about being over-collaborative?",
-      "translation": "发言者对过于合作有什么看法?",
-      "start": 1601.79,
-      "end": 1605.91
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 23.",
-      "translation": "问题23。",
+      "text": "23. What does the speaker say about people engaged in collaborative projects?",
+      "translation": "第 23 题：说话者对参与合作项目的人有何看法?",
       "start": 1619.11,
-      "end": 1620.21
+      "end": 1626.603,
+      "questionNumber": 23
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the speaker say about people engaged in collaborative projects?",
-      "translation": "发言者对参与合作项目的人怎么说?",
-      "start": 1621.01,
-      "end": 1626.15
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "24.",
-      "translation": "24. 24个",
+      "text": "24. How do people benefit from working in a team?",
+      "translation": "第 24 题：人们如何从团队工作中受益?",
       "start": 1640.04,
-      "end": 1640.74
+      "end": 1645.275,
+      "questionNumber": 24
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "How do people benefit from working in a team?",
-      "translation": "人们如何从团队工作中受益?",
-      "start": 1641.38,
-      "end": 1644.88
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "25.",
-      "translation": "25个",
+      "text": "25. Why is it undesirable to spend too much time trying to reach consensus?",
+      "translation": "第 25 题：为什么花费过多时间试图达成共识是不可取的?",
       "start": 1658.63,
-      "end": 1659.33
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Why is it undesirable to spend too much time trying to reach consensus?",
-      "translation": "为什么花太多时间努力达成共识是不可取的?",
-      "start": 1659.95,
-      "end": 1665.85
+      "end": 1666.576,
+      "questionNumber": 25
     },
     {
       "speaker": "听力原声",
@@ -1802,5 +1843,6 @@
   "translation_sources": [
     "https://english-exam.lazynote.cn/cet6/sections/listening/2019-12-1/",
     "Sams200/opus-mt-en-zh (unmatched sentences only)"
-  ]
+  ],
+  "question_verification": "All 25 published question prompts located in original audio; numbers and prompts share one replay unit."
 }

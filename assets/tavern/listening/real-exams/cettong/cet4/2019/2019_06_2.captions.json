@@ -102,6 +102,24 @@
     {
       "speaker": "听力原声",
       "actor": "",
+      "text": "1. What accounts most for the huge declines in tourism in France?",
+      "translation": "第 1 题：法国旅游业大幅下滑最主要的原因是什么？",
+      "start": 137.22,
+      "end": 143.507,
+      "questionNumber": 1
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "2. What do we learn from the report about tourism in France?",
+      "translation": "第 2 题：从报告中我们对法国旅游业了解到什么？",
+      "start": 156.66,
+      "end": 162.72,
+      "questionNumber": 2
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
       "text": "A small plane with two sick US workers arrived safely in Chile late Wednesday after leaving Antarctica in a daring rescue mission from a remote South Pole research station.",
       "translation": "一小架飞机上有两个生病的美国工人在星期三晚期安全抵达智利,",
       "start": 178.03,
@@ -154,6 +172,24 @@
       "translation": "\"如果你不小心,它会来 圆咬你。\"",
       "start": 249.78,
       "end": 252.78
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "3. What was the small plane's mission to Antarctica?",
+      "translation": "第 3 题：小型飞机前往南极洲的任务是什么？",
+      "start": 260.14,
+      "end": 264.687,
+      "questionNumber": 3
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "4. What makes flying to Antarctica dangerous from February to October?",
+      "translation": "第 4 题：是什么使得二月到十月飞往南极洲变得危险？",
+      "start": 278.36,
+      "end": 285.074,
+      "questionNumber": 4
     },
     {
       "speaker": "听力原声",
@@ -226,6 +262,33 @@
       "translation": "Rahim先生后来说,虽然一些父母以前曾使用遥控直升机拉牙,但他可能是首先使用全尺寸飞机的人,因为他找不到证据表明以前曾使用过这种飞机。",
       "start": 369.17,
       "end": 383.21
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "5. How did Rick Rahim remove his son's loose tooth?",
+      "translation": "第 5 题：Rick Rahim 是如何拔掉他儿子的松动牙齿的?",
+      "start": 390.93,
+      "end": 396.139,
+      "questionNumber": 5
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "6. What does the news report say about Rick Rahim?",
+      "translation": "第 6 题：新闻报道关于 Rick Rahim 说了什么?",
+      "start": 409.88,
+      "end": 415.216,
+      "questionNumber": 6
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "7. What did Rick Rahim advise parents to do with their kids?",
+      "translation": "第 7 题：Rick Rahim 建议家长们和孩子做什么?",
+      "start": 428.12,
+      "end": 434.672,
+      "questionNumber": 7
     },
     {
       "speaker": "听力原声",
@@ -535,6 +598,42 @@
     {
       "speaker": "听力原声",
       "actor": "",
+      "text": "8. Why is the man making the phone call?",
+      "translation": "第 8 题：男士为什么打这个电话?",
+      "start": 577.63,
+      "end": 581.554,
+      "questionNumber": 8
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "9. Why can't the woman meet the man today?",
+      "translation": "第 9 题：女士今天为什么不能见男士?",
+      "start": 595.23,
+      "end": 599.7,
+      "questionNumber": 9
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "10. Why is the man unable to see the woman tomorrow?",
+      "translation": "第 10 题：男士明天为什么不能见女士?",
+      "start": 613.31,
+      "end": 618.466,
+      "questionNumber": 10
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "11. What should the woman do to receive her purchase?",
+      "translation": "第 11 题：女士应该做什么才能收到她购买的东西?",
+      "start": 632.18,
+      "end": 637.201,
+      "questionNumber": 11
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
       "text": "Conversation two.",
       "translation": "对话二",
       "start": 650.7,
@@ -773,6 +872,42 @@
     {
       "speaker": "听力原声",
       "actor": "",
+      "text": "12. What is the woman going to do?",
+      "translation": "第 12 题：这位女士打算做什么?",
+      "start": 758.95,
+      "end": 762.729,
+      "questionNumber": 12
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "13. How does the woman feel at the moment?",
+      "translation": "第 13 题：这位女士此刻感觉如何?",
+      "start": 776.37,
+      "end": 780.855,
+      "questionNumber": 13
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "14. Why can't the man meet the woman now?",
+      "translation": "第 14 题：为什么这位男士现在不能见这位女士?",
+      "start": 794.29,
+      "end": 798.762,
+      "questionNumber": 14
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "15. What will the man possibly do on Saturday?",
+      "translation": "第 15 题：这位男士星期六可能会做什么?",
+      "start": 812.4,
+      "end": 817.578,
+      "questionNumber": 15
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
       "text": "Section C Directions In this section you will hear three passages.",
       "translation": "C节方向 在本节 你会听到三个段落。",
       "start": 831.26,
@@ -947,6 +1082,33 @@
     {
       "speaker": "听力原声",
       "actor": "",
+      "text": "16. What does the speaker say about Mount Etna?",
+      "translation": "第 16 题：说话者关于埃特纳火山说了什么?",
+      "start": 997.38,
+      "end": 1001.83,
+      "questionNumber": 16
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "17. What do we learn about the lower slopes of Mount Etna?",
+      "translation": "第 17 题：关于埃特纳火山的低坡我们了解到什么?",
+      "start": 1015.48,
+      "end": 1020.663,
+      "questionNumber": 17
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "18. What does the speaker say about big birds like golden eagles at Mount Etna?",
+      "translation": "第 18 题：说话者关于埃特纳火山的大型鸟类如金雕说了什么?",
+      "start": 1034.37,
+      "end": 1041.741,
+      "questionNumber": 18
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
       "text": "Passage 2.",
       "translation": "通行证2。",
       "start": 1055.57,
@@ -1051,6 +1213,33 @@
     {
       "speaker": "听力原声",
       "actor": "",
+      "text": "19. What do we learn about the speaker?",
+      "translation": "第 19 题：关于说话者我们了解到什么?",
+      "start": 1167.56,
+      "end": 1171.392,
+      "questionNumber": 19
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "20. What is the speaker's advice to his audience?",
+      "translation": "第 20 题：说话者给听众的建议是什么?",
+      "start": 1184.18,
+      "end": 1189.234,
+      "questionNumber": 20
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "21. What does the speaker say about talent?",
+      "translation": "第 21 题：说话者关于天赋说了什么?",
+      "start": 1202.22,
+      "end": 1207.621,
+      "questionNumber": 21
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
       "text": "Passage 3 A question we often ask others and are also frequently asked by others is what do you normally do after school or work?",
       "translation": "通过3,我们经常问别人,别人也经常问一个问题,即你通常放学后或下班后做什么?",
       "start": 1220.94,
@@ -1131,6 +1320,42 @@
     {
       "speaker": "听力原声",
       "actor": "",
+      "text": "22. What does the speaker say about the dance salsa?",
+      "translation": "第 22 题：说话者对萨尔萨舞说了什么?",
+      "start": 1332.46,
+      "end": 1337.641,
+      "questionNumber": 22
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "23. Why did the speaker's mother enroll her in a ballet course?",
+      "translation": "第 23 题：说话者的母亲为什么给她报名参加芭蕾舞课程?",
+      "start": 1351.02,
+      "end": 1357.266,
+      "questionNumber": 23
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "24. When did the speaker's dancing life come to a halt?",
+      "translation": "第 24 题：说话者的舞蹈生涯是什么时候停止的?",
+      "start": 1370.85,
+      "end": 1376.801,
+      "questionNumber": 24
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "25. In what way has salsa dancing benefited the speaker?",
+      "translation": "第 25 题：萨尔萨舞在哪方面使说话者受益?",
+      "start": 1390.44,
+      "end": 1396.452,
+      "questionNumber": 25
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
       "text": "This is the end of listening comprehension.",
       "translation": "听觉理解的结束",
       "start": 1409.83,
@@ -1140,5 +1365,6 @@
   "translation_sources": [
     "https://english-exam.lazynote.cn/cet4/sections/listening/2019-06-2/",
     "Sams200/opus-mt-en-zh (unmatched sentences only)"
-  ]
+  ],
+  "question_verification": "All 25 published question prompts located in original audio; numbers and prompts share one replay unit."
 }

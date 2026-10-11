@@ -305,66 +305,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 1.",
-      "translation": "问题1",
+      "text": "1. What did the woman do last Tuesday?",
+      "translation": "第 1 题：这位女士上周二做了什么?",
       "start": 152.85,
-      "end": 153.39
+      "end": 156.843,
+      "questionNumber": 1
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What did the woman do last Tuesday?",
-      "translation": "上周二那个女人做了什么?",
-      "start": 153.96,
-      "end": 156.4
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 2.",
-      "translation": "问题2",
+      "text": "2. What does the man say he did when he got the call?",
+      "translation": "第 2 题：这位男士说他接到电话后做了什么?",
       "start": 170.24,
-      "end": 170.88
+      "end": 174.546,
+      "questionNumber": 2
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the man say he did when he got the call?",
-      "translation": "他接到电话时说了什么?",
-      "start": 171.26,
-      "end": 174.28
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 3.",
-      "translation": "问题3",
+      "text": "3. What is the feeling about the problem around the woman's workplace?",
+      "translation": "第 3 题：这位女士的工作场所周围对这个问题的感受是什么?",
       "start": 187.85,
-      "end": 188.47
+      "end": 193.103,
+      "questionNumber": 3
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What is the feeling about the problem around the woman's workplace?",
-      "translation": "女性工作场所的问题是什么感觉?",
-      "start": 188.89,
-      "end": 192.45
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 4.",
-      "translation": "问题4",
+      "text": "4. What does the woman say her manager would know?",
+      "translation": "第 4 题：这位女士说她的经理会知道什么?",
       "start": 206.39,
-      "end": 207.11
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What does the woman say her manager would know?",
-      "translation": "那女人说她的经理知道什么?",
-      "start": 207.55,
-      "end": 210.09
+      "end": 210.442,
+      "questionNumber": 4
     },
     {
       "speaker": "听力原声",
@@ -656,10 +628,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the man think is required of any law professional?",
-      "translation": "男人认为法律专业需要什么?",
+      "text": "5. What will many people say about a career in law?",
+      "translation": "第 5 题：许多人会如何评价法律职业?",
+      "start": 347.09,
+      "end": 351.221,
+      "questionNumber": 5
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "6. What does the man say most of his work involves?",
+      "translation": "第 6 题：这位男士说他的大部分工作涉及什么?",
+      "start": 363.67,
+      "end": 369.178,
+      "questionNumber": 6
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "7. Why does the man say it's usually better to resolve problems outside of court whenever possible?",
+      "translation": "第 7 题：为什么这位男士说在可能的情况下最好在法庭外解决问题?",
+      "start": 382.51,
+      "end": 389.625,
+      "questionNumber": 7
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "8. What does the man think is required of any law professional?",
+      "translation": "第 8 题：这位男士认为任何法律专业人士需要具备什么?",
       "start": 403.92,
-      "end": 407.16
+      "end": 407.679,
+      "questionNumber": 8
     },
     {
       "speaker": "听力原声",
@@ -759,18 +759,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 11.",
-      "translation": "问题11。",
-      "start": 610.38,
-      "end": 611.4
+      "text": "9. What did the researchers do in their review in the journal Trends in Cognitive Sciences?",
+      "translation": "第 9 题：研究人员在《认知科学趋势》杂志上的综述中做了什么?",
+      "start": 572.49,
+      "end": 579.405,
+      "questionNumber": 9
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does evidence suggest regarding older adults?",
-      "translation": "有关老年人的证据表明什么?",
-      "start": 612.24,
-      "end": 615.42
+      "text": "10. What do several behavioral and brain imaging studies show?",
+      "translation": "第 10 题：几项行为和脑成像研究显示了什么?",
+      "start": 591.73,
+      "end": 597.552,
+      "questionNumber": 10
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "11. What does evidence suggest regarding older adults?",
+      "translation": "第 11 题：关于老年人,证据表明了什么?",
+      "start": 610.38,
+      "end": 615.646,
+      "questionNumber": 11
     },
     {
       "speaker": "听力原声",
@@ -933,6 +944,42 @@
       "start": 738.12,
       "end": 741.63,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "12. What do we learn about American workers from the passage?",
+      "translation": "第 12 题：从文章中我们对美国工人了解到什么?",
+      "start": 748.1,
+      "end": 752.986,
+      "questionNumber": 12
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "13. What does the passage say long working hours contribute to?",
+      "translation": "第 13 题：文章认为长时间工作导致了什么?",
+      "start": 765.52,
+      "end": 771.813,
+      "questionNumber": 13
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "14. What does automation do, according to the passage?",
+      "translation": "第 14 题：根据文章,自动化产生了什么作用?",
+      "start": 784.28,
+      "end": 789.515,
+      "questionNumber": 14
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "15. What do post-work theorists advocate?",
+      "translation": "第 15 题：后工作理论家倡导什么?",
+      "start": 801.9,
+      "end": 806.959,
+      "questionNumber": 15
     },
     {
       "speaker": "听力原声",
@@ -1193,6 +1240,33 @@
     {
       "speaker": "听力原声",
       "actor": "",
+      "text": "16. What does the speaker say even our personal beliefs about effort can do?",
+      "translation": "第 16 题：说话者说，即使是我们个人关于努力的信念也能做什么?",
+      "start": 1033.53,
+      "end": 1039.75,
+      "questionNumber": 16
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "17. How did the researchers turn on the music toy in their experiment?",
+      "translation": "第 17 题：研究人员在他们的实验中是如何打开音乐玩具的?",
+      "start": 1052.15,
+      "end": 1058.378,
+      "questionNumber": 17
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "18. What could the infants do in the experiment according to the speaker?",
+      "translation": "第 18 题：根据说话者的说法，婴儿在实验中能做什么?",
+      "start": 1071.07,
+      "end": 1076.839,
+      "questionNumber": 18
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
       "text": "If chronic lateness has taken over your life and turned into a defining trait of who you are, it's likely that you're losing out on job offers, recreational opportunities, friendships, and more.",
       "translation": "如果长期迟到已经占据了你的生活，并变成了定义你这个人的特征，那么你很可能正因此错失工作机会、休闲活动、友谊以及更多其他东西。",
       "start": 1092.33,
@@ -1418,18 +1492,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "According to the speaker,",
-      "translation": "发言者说,",
-      "start": 1290.38,
-      "end": 1291.72
+      "text": "19. What is the speaker's purpose of giving this talk?",
+      "translation": "第 19 题：演讲者发表这次讲话的目的是什么?",
+      "start": 1253.46,
+      "end": 1257.986,
+      "questionNumber": 19
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "what can we do to combat unexpected delays?",
-      "translation": "我们能做些什么来应对意外延误?",
-      "start": 1292.52,
-      "end": 1295.32
+      "text": "20. What should you do if mornings are a struggle for you?",
+      "translation": "第 20 题：如果早上对你来说很困难,你应该怎么做?",
+      "start": 1270.78,
+      "end": 1275.839,
+      "questionNumber": 20
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "21. According to the speaker, what can we do to combat unexpected delays?",
+      "translation": "第 21 题：根据演讲者所说,我们可以做什么来应对意外延误?",
+      "start": 1290.38,
+      "end": 1295.815,
+      "questionNumber": 21
     },
     {
       "speaker": "听力原声",
@@ -1656,42 +1741,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "22.",
-      "translation": "22. 妇女 22",
+      "text": "22. What do visitors find about the cities they've been to?",
+      "translation": "第 22 题：游客对他们去过的城市有什么发现?",
       "start": 1478.56,
-      "end": 1479.08
+      "end": 1483.233,
+      "questionNumber": 22
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do visitors find about the cities they've been to?",
-      "translation": "参观者对他们所去过的城市有何发现?",
-      "start": 1479.85,
-      "end": 1482.93
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "23 What did one city find about Bostonians compared with residents of other US cities?",
-      "translation": "与美国其他城市居民相比, 一个城市对波士顿人有什么发现?",
+      "text": "23. What did one study find about Bostonians compared with residents of other U.S. cities?",
+      "translation": "第 23 题：一项研究发现,与美国其他城市的居民相比,Boston人有什么特点?",
       "start": 1496.52,
-      "end": 1503.54
+      "end": 1503.927,
+      "questionNumber": 23
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 24 What does Thomas O'Connor say about the idea of strangers greeting one another?",
-      "translation": "问题24 托马斯·奥康纳对陌生人互相问候的想法怎么说?",
+      "text": "24. What does Thomas O'Connor say about the idea of strangers greeting one another?",
+      "translation": "第 24 题：Thomas O'Connor对陌生人互相问候这一想法有何看法?",
       "start": 1517.16,
-      "end": 1523.48
+      "end": 1523.759,
+      "questionNumber": 24
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 25 What does the speaker think Boston should do?",
-      "translation": "问题25 发言者认为波士顿应该做些什么?",
+      "text": "25. What does the speaker think Boston should do?",
+      "translation": "第 25 题：说话者认为Boston应该做什么?",
       "start": 1537.07,
-      "end": 1541.23
+      "end": 1541.524,
+      "questionNumber": 25
     },
     {
       "speaker": "听力原声",
@@ -1705,5 +1786,6 @@
   "translation_sources": [
     "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-1/",
     "Sams200/opus-mt-en-zh (unmatched sentences only)"
-  ]
+  ],
+  "question_verification": "All 25 published question prompts located in original audio; numbers and prompts share one replay unit."
 }

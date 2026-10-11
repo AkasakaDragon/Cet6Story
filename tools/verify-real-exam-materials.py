@@ -1,5 +1,5 @@
 """Check playable exam resources, question integrity and sentence timing."""
-import json,argparse,subprocess,concurrent.futures
+import json,argparse,subprocess,concurrent.futures,re
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]
 FOLDER=ROOT/'assets/tavern/listening/real-exams/cettong'
@@ -16,18 +16,31 @@ for exam in exams:
     assert source['id']==captions['id'] and source['audio']==captions['audio']
     assert (ROOT/captions['audio']).is_file()
     assert len(source['questions'])==25
+    assert source.get('question_timing_source')=='original_audio_transcript_verified',source['id']+' question audio not audited'
     assert sorted(q['number'] for q in source['questions'])==list(range(1,26))
     for q in source['questions']:
         assert len(q['options'])==4 and 0<=q['answer']<4
         assert q['prompt'] and q['explanation'] and q['end']>q['start']
+        assert q.get('audio_match_score',0)>=.75 and q.get('spoken_text'),source['id']+' unverified question '+str(q['number'])
     assert len(source['groups']) in (7,8)
     lines=captions['lines'];assert lines
     for i,line in enumerate(lines):
         assert line['text'].strip() and line['translation'].strip()
+        assert not re.fullmatch(r'(?:Question\s*)?\d+[.:]?',line['text'].strip(),re.I),source['id']+' standalone question number'
         assert 0<=line['start']<line['end']
         if i:assert line['start']>=lines[i-1]['end']-.001,source['id']+' overlap'
     for group in source['groups']:
         assert any(group['start']-.5<=line['start']<group['end'] for line in lines),source['id']+' empty group'
+        questions=sorted([q for q in source['questions'] if q['group_id']==group['id']],key=lambda q:q['number'])
+        assert [q['number'] for q in questions]==list(range(group['first'],group['last']+1))
+        assert all(a['end']<=b['start'] for a,b in zip(questions,questions[1:])),source['id']+' question overlap/order'
+        for q in questions:
+            matching=[l for l in lines if l.get('questionNumber')==q['number']]
+            assert len(matching)==1,source['id']+' missing/duplicate question '+str(q['number'])
+            line=matching[0]
+            assert line['text']==str(q['number'])+'. '+q['prompt']
+            assert group['start']-.2<=line['start']<line['end']<=group['end']
+            assert line['start']==q['start'] and line['end']==q['end']
     total_lines+=len(lines);total_questions+=len(source['questions']);checked+=1
     playback.append((ROOT/captions['audio'],max(r['end'] for r in lines)))
 if args.decode:

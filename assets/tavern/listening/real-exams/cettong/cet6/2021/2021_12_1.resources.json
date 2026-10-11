@@ -12,7 +12,7 @@
       "id": "lazynote-1",
       "title": "Section A · 第 1 篇 · 1–4 题",
       "start": 36.666,
-      "end": 210.2,
+      "end": 210.313,
       "first": 1,
       "last": 4,
       "material": "W: Hi, David. I haven't seen you in class for almost two weeks. We thought you had disappeared on holiday early or something.\nM: Hi, Sarah. Well, it's a bit of a long story I'm afraid. I got a throat infection last week and had to go to the hospital to get some antibiotics as I really wasn't getting any better.\nW: Oh yeah. There have been so many viruses going around this winter. The weather has been so awful for the last few weeks.\nM: And, on the way back from the hospital, I slipped on some ice and fell and then had to go to the hospital to get an X-ray because I basically thought I broke my wrist, although, thankfully, it's not broken. But I need to be careful with it for the next few weeks.\nW: Oh, that's too bad! How unfortunate!\nM: To make things worse, I managed to fall right in front of four girls from the ninth grade. So I was utterly humiliated. Plus, the laptop in my bag was broken too.\nW: No, what a complete catastrophe! Is the laptop still under warranty? If it is, then you can easily send it back to the manufacturer, and they'll send you a brand-new one for free surely.\nM: The warranty ran out three days before I broke it. And all my essays are in there, and I need to hand them in before we break for the Christmas holidays.\nW: Listen, I have the number of a really good, affordable computer repair shop at home. My dad has used this guy before and he can work miracles. Let's go back to my house and we can call the repair shop, and you can have some tea and cookies too.\nM: Wow, thanks, Sarah! That would be great! Let me just call my mom and let her know I'll be home a little bit later."
@@ -39,7 +39,7 @@
       "id": "lazynote-4",
       "title": "Section B · 第 2 篇 · 12–15 题",
       "start": 627.6,
-      "end": 802.466,
+      "end": 802.566,
       "first": 12,
       "last": 15,
       "material": "Research shows that a few moments of conversation with a stranger creates a measurable improvement in mood. But most of us are reluctant to start these conversations because we presume the opposite.\nIn an experiment, commuters who talked to nearby strangers found their commute more enjoyable than those who didn't. They were asked to predict whether they'd enjoy the commute more if they conversed with other people. Intriguingly, most expected the more solitary experience to be more pleasurable.\nWhy is this? Social anxiety appears to be the problem. People's reluctance to start conversations with nearby strangers comes partly from \"underestimating others' interest in connecting\". The sad thing is that people presume that a nearby stranger doesn't want to converse and don't start a conversation. Only those who forced themselves to chat because it was required by the experiment found out what a pleasant experience it could be.\nHuman beings are social animals. Those who misunderstand the impact of social interactions may not, in some contexts, be social enough for their own well-being. You should be chatting with the strangers you encounter. You may occasionally have a negative encounter that might stick in your memory. This is because the human brain is biased to dwell on negative events. But starting conversations with strangers is still well worth the risk of rejection.\nIt may surprise you that conversing with strangers will make them happier too. The pleasure of connection seems contagious. People who are talked to have equally positive experiences as those who initiate a conversation."
@@ -85,8 +85,10 @@
       "answer": 0,
       "explanation": "【题目】 What does Sarah think David was doing for the last two weeks? \n\n 【翻译】 Sarah 认为 David 在过去两周里做了什么？ \n A)  他在享受假期。 \n B)  他在医院里康复。 \n C)  他在忙着写论文。 \n D)  他在与喉咙感染作斗争。 \n\n 【答案】 A （细节题） He was enjoying his holiday. \n 【定位】 P1 We thought you had disappeared on holiday early or something. \n 我们还以为你提早跑去度假了之类的呢。 \n\n 【信号】 thought 引出的\"我们以为\" 。答案信号是表\"猜测\"的 We thought you had disappeared on holiday early——题干问的正是 Sarah \"think\" 什么，录音里对应的就是 thought 这个\"以为\"，听到\"以为/猜\"类词就锁定它是回答\"别人怎么想\"那道题的句子。 \n\n 【替换】 disappeared on holiday early ↔ He was enjoying his holiday. 去度假 = 享受假期 \n\n 【排除】 B) 原词陷阱 B 盗用了录音里 David 自述去医院的情节（had to go to the hospital），但那是\"实际发生\"且由 David 本人后说出来的，并非 Sarah \"以为\"的内容；题干问的是 Sarah 的猜测，故 B 答非所问。  借用原文：had to go to the hospital to get some antibiotics \n\n C) 原词陷阱 C 盗用了录音后半 all my essays are in there（论文都在电脑里）的 essays 一词，制造\"听到 essays 就选\"的诱惑；但那是讲电脑坏了的麻烦，根本不是 Sarah 对\"这两周在做什么\"的猜测。  借用原文：all my essays are in there \n\n D) 原词陷阱 D 盗用 David 自述的 I got a throat infection last week（得了喉咙感染），是真实发生的病情；但题干要的是 Sarah \"以为\"的内容，Sarah 当时以为他在度假，并不知道他生病，故 D 张冠李戴、答非所问。  借用原文：I got a throat infection last week",
       "group_id": "lazynote-1",
-      "start": 36.666,
-      "end": 210.2
+      "start": 151.59,
+      "end": 156.43,
+      "spoken_text": "What did Sarah think David was doing for the last two weeks?",
+      "audio_match_score": 0.9485
     },
     {
       "number": 2,
@@ -100,8 +102,10 @@
       "answer": 2,
       "explanation": "【题目】 What happened to David on his way back from the hospital? \n\n 【翻译】 David 从医院回来的路上发生了什么？ \n A)  他摔断了手腕。 \n B)  他弄丢了抗生素。 \n C)  他在冰上滑倒摔倒了。 \n D)  他被一些女孩嘲笑了。 \n\n 【答案】 C （细节题） He slipped on ice and fell. \n 【定位】 P4 And, on the way back from the hospital, I slipped on some ice and fell and then had to go to the hospital to get an X-ray because I basically thought I broke my wrist, although, thankfully, it's not broken. \n 而且，从医院回来的路上，我踩到冰滑倒摔了一跤，然后又得去医院拍X光，因为我当时以为手腕摔断了，不过谢天谢地，并没有断。 \n\n 【信号】 题干同序短语 on the way back 直接对位 。答案信号是录音里与题干几乎同词的 on the way back from the hospital——题目限定\"回来的路上\"，录音正好用同一短语领起这件事，听到这个时间状语就锁定其后描述的动作即答案。 \n\n 【替换】 I slipped on some ice and fell ↔ He slipped on ice and fell. 几乎原样对应的动作 \n\n 【排除】 A) 与原文相反 A 盗用录音 I basically thought I broke my wrist 里的 broke my wrist，但紧跟着是 although, thankfully, it's not broken（其实没断）。选项只取了\"以为断了\"、漏掉了否定反转，与原文相反，故错。  借用原文：I basically thought I broke my wrist, although, thankfully, it's not broken \n\n B) 未提及 B 盗用录音 get some antibiotics 里的 antibiotics 一词，制造熟词诱惑；但录音只说去医院拿抗生素，从未提\"丢了药\"，属无中生有，且与\"路上发生的事\"无关。  借用原文：get some antibiotics \n\n D) 答非所问 D 盗用录音 fall right in front of four girls 的\"被女生看到/笑\"情节，听上去确有其事；但那是 To make things worse 之后追加的另一桩糗事，题干问的是\"回来路上发生了什么\"，对应的是滑倒，D 答非所问。  借用原文：I managed to fall right in front of four girls from the ninth grade",
       "group_id": "lazynote-1",
-      "start": 36.666,
-      "end": 210.2
+      "start": 169.05,
+      "end": 174.724,
+      "spoken_text": "What happened to David on his way back from the hospital?",
+      "audio_match_score": 1.0
     },
     {
       "number": 3,
@@ -115,8 +119,10 @@
       "answer": 1,
       "explanation": "【题目】 What does Sarah say they should do with the damaged computer? \n\n 【翻译】 Sarah 说他们应该如何处理损坏的电脑？ \n A)  向她父亲求助。 \n B)  打电话给维修店修理它。 \n C)  要求制造商进行维修。 \n D)  用一台全新的替换它。 \n\n 【答案】 B （细节题） Call the repair shop to fix it. \n 【定位】 P9 Listen, I have the number of a really good, affordable computer repair shop at home. My dad has used this guy before and he can work miracles. Let's go back to my house and we can call the repair shop. \n 听着，我家里有一家很不错又实惠的电脑维修店的电话。我爸以前找过这个人，他能化腐朽为神奇。咱们回我家，给那家维修店打个电话吧。 \n\n 【信号】 Let's… 之前被否掉、之后才是定案 。前文 P7 先提\"在保修期就退给厂家换新机\"，但 P8 一句 The warranty ran out three days before I broke it（保修过期了）把它否掉；真正的定案信号是 P9 里 Sarah 的建议句 Let's go back to my house and we can call the repair shop——Let's 引出的才是最终方案。 \n\n 【替换】 call the repair shop ↔ Call the repair shop to fix it. 打电话给维修店 = 找维修店修 \n\n 【排除】 A) 原词陷阱 A 盗用录音 My dad has used this guy before 里的 dad，制造\"听到 dad 就选\"的诱惑；但录音只是说\"她爸以前找过这家维修店\"，用来佐证店靠谱，并非\"向她爸求助\"，故 A 偷换概念。  借用原文：My dad has used this guy before and he can work miracles \n\n C) 与原文相反 C 盗用录音 send it back to the manufacturer 里的 manufacturer，听起来像方案之一；但 P8 的 The warranty ran out（保修已过期）已把这条路堵死，它是被否掉的方案，非最终决定。  借用原文：you can easily send it back to the manufacturer \n\n D) 与原文相反 D 盗用录音 they'll send you a brand-new one 里的 brand-new，最诱人；但\"免费换新机\"的前提是 Is the laptop still under warranty，而保修已过期，这个方案随之作废，故 D 与原文相反。  借用原文：they'll send you a brand-new one for free surely",
       "group_id": "lazynote-1",
-      "start": 36.666,
-      "end": 210.2
+      "start": 187.39,
+      "end": 192.884,
+      "spoken_text": "What does Sarah say they should do with the damaged computer?",
+      "audio_match_score": 1.0
     },
     {
       "number": 4,
@@ -130,8 +136,10 @@
       "answer": 2,
       "explanation": "【题目】 What does Sarah say she is going to do? \n\n 【翻译】 Sarah 说她打算做什么？ \n A)  帮助 David 找回他的论文。 \n B)  把 David 介绍给她的父母。 \n C)  给 David 提供一些茶点。 \n D)  陪同 David 回家。 \n\n 【答案】 C （细节题） Offer David some refreshments. \n 【定位】 P9 Let's go back to my house and we can call the repair shop, and you can have some tea and cookies too. \n 咱们回我家，给那家维修店打个电话，你还可以喝点茶、吃点饼干。 \n\n 【信号】 Let's / you can have 引出的主动招待 。答案信号是 Sarah 结尾的邀约句 you can have some tea and cookies too——you can have 引出她要为 David 提供的招待。听对话结尾热心一方 Let's…、you can… 的邀约动作，就是\"她要做什么\"的落点。 \n\n 【替换】 you can have some tea and cookies too ↔ Offer David some refreshments. 茶和饼干 = refreshments（茶点） \n\n 【排除】 A) 过度推断 A 盗用录音 all my essays are in there 的 essays，听上去像\"帮他取回论文\"；但 Sarah 提供的是\"打电话找维修店修电脑\"，retrieve essays（取回论文）是修好后才可能的结果，录音并未说她要去取论文，属过度推断。  借用原文：all my essays are in there \n\n B) 未提及 B 借\"去她家、提到她 dad\"的语境（My dad has used this guy before）让人联想\"见家长\"；但录音只说回她家打电话、吃茶点，从没提\"introduce David to her parents（引见给父母）\"，属无中生有。 \n D) 与原文相反 D 把录音 Let's go back to my house（回我家）的方向偷偷反过来，写成 Accompany David to his home.（陪他回他家）。go back to my house 指\"去 Sarah 家\"，与\"to his home\"正好相反，属方向/地点偷换。  借用原文：Let's go back to my house",
       "group_id": "lazynote-1",
-      "start": 36.666,
-      "end": 210.2
+      "start": 207.42,
+      "end": 210.213,
+      "spoken_text": "What does Sarah say she is going to do?",
+      "audio_match_score": 1.0
     },
     {
       "number": 5,
@@ -145,8 +153,10 @@
       "answer": 3,
       "explanation": "【题目】 What does the man say about the woman? \n\n 【翻译】 男士对女士说了什么? \n A)  她是军事著作的评论家。 \n B)  她是《书话》节目广受赞誉的主持人。 \n C)  她是文学体裁的研究者。 \n D)  她是军事史学家。 \n\n 【答案】 D （细节题） She is a historian of military history. \n 【定位】 P1 With me today is Heidi Brown, a historian who has written five critically acclaimed books about military history. \n 今天与我同台的是海蒂·布朗，一位写过五本广受好评的军事史著作的历史学家。 \n\n 【信号】 主持人开场介绍嘉宾的应答位 。信号是开场白里主持人介绍来宾的那句 With me today is Heidi Brown, a historian…——访谈类对话，嘉宾身份就在主持人 \"今天的嘉宾是…\" 这句里点出，这是身份题的固定落点。 \n\n 【替换】 a historian who has written five critically acclaimed books about military history ↔ She is a historian of military history. 把长定语压缩成 historian of military history \n\n 【排除】 A) 原词陷阱 critic of works on military affairs 借了原文的 military 一词，但原文说她 has written five … books（她是写书的作者），不是 \"评论他人作品的评论家\"，身份对不上。  借用原文：has written five critically acclaimed books about military history \n\n B) 张冠李戴 hostess of Book Talk 盗用了开场的节目名 Book Talk，但主持节目的是男方（he），女方是受邀嘉宾，把主持人身份安到了女方头上。  借用原文：Welcome to this week's episode of Book Talk \n\n C) 偷换概念 researcher of literary genres 里的 genres 蹭了后文谈体裁的内容，但原文明确说她是 a historian，不是 \"文学体裁研究者\"，身份被偷换。  借用原文：your first attempt at that genre",
       "group_id": "lazynote-2",
-      "start": 225.466,
-      "end": 415.466
+      "start": 357.77,
+      "end": 361.418,
+      "spoken_text": "What does the man say about the woman?",
+      "audio_match_score": 1.0
     },
     {
       "number": 6,
@@ -160,8 +170,10 @@
       "answer": 3,
       "explanation": "【题目】 What does the woman say about her newly published book? \n\n 【翻译】 女士对她的新书说了什么? \n A)  它是关于欧洲军事史的。 \n B)  它以18世纪和19世纪为背景。 \n C)  它是她的第五本军事史著作。 \n D)  它是一部以未来为背景的战争小说。 \n\n 【答案】 D （细节题） It is a war novel set in the future. \n 【定位】 P4 I'd say it's a major departure as it's not just a work of fiction. It's set 200 years in the future. \n 我会说这是一次重大转变，因为它不只是一部虚构作品，它的背景设定在两百年后的未来。 \n\n 【信号】 被问者亲口描述新书的应答句 。信号是女方自己介绍新书的那句 It's set 200 years in the future——题目问 \"woman say about her book\"，落点就在被问者亲口说书的特征处；\"a work of fiction\"（虚构作品）+ \"set in the future\"（设定在未来）两点合起来，就是一部 \"设定在未来的战争小说\"。 \n\n 【替换】 a work of fiction ↔ a war novel fiction=novel，结合前文军人题材即 war novel \n It's set 200 years in the future ↔ set in the future 200 years in the future=in the future \n\n 【排除】 A) 原词陷阱 military history of Europe 蹭了开场说她写 military history 的话，但那指她过去五本书，新书是面向未来的小说；且原文从未提 Europe。  借用原文：five critically acclaimed books about military history \n\n B) 与原文相反 set in the 18th and 19th centuries 直接盗用主持人那句 focusing on the 18th and 19th centuries，但那说的是她 \"过去三十年研究的年代\"，新书恰恰相反，是设定在 future。  借用原文：focusing on the 18th and 19th centuries \n\n C) 原词陷阱 her fifth book of military history 盗用了 five … books about military history 里的 five，但 five 是她此前史书的数量，新书是新出的小说，不是 \"第五本军事史\"。  借用原文：has written five critically acclaimed books about military history",
       "group_id": "lazynote-2",
-      "start": 225.466,
-      "end": 415.466
+      "start": 374.21,
+      "end": 379.478,
+      "spoken_text": "What does the woman say about her newly published book?",
+      "audio_match_score": 1.0
     },
     {
       "number": 7,
@@ -175,8 +187,10 @@
       "answer": 3,
       "explanation": "【题目】 What did the woman do before writing her new book? \n\n 【翻译】 女士在写新书之前做了什么? \n A)  她拜访了士兵的妻子和母亲。 \n B)  她对许多士兵进行了调查。 \n C)  她亲自见了大量士兵。 \n D)  她调查了士兵的个人生活。 \n\n 【答案】 D （细节题） She looked into the personal lives of soldiers. \n 【定位】 P8 That focus came about when I still intended to write another book of history. I started by researching soldiers' actual personal lives, studying their letters home. \n 这个聚焦点是在我还打算再写一本史书时形成的。我先是研究士兵真实的私人生活，研读他们写回家的信。 \n\n 【信号】 被问者讲自己怎么起步的应答句 。信号是女方自述研究起点的那句 I started by researching soldiers' actual personal lives——题目问她写书前做了什么，落点就在被问者讲自己研究动作的句子；\"researching … personal lives\"（研究私人生活）就是答案动作。 \n\n 【替换】 researching soldiers' actual personal lives ↔ looked into the personal lives of soldiers researching=looked into，词序调整 \n\n 【排除】 A) 原词陷阱 visited soldiers' wives and mothers 盗用第7段 the bond between sons and mothers and men and their wives 里的 mothers、wives，但那说的是小说写的关系，不是她去 \"探访\" 了这些人，动作无中生有。  借用原文：the bond between sons and mothers and men and their wives \n\n B) 偷换概念 conducted surveys of many soldiers 与原文 studying their letters home 方式不符——她是研读士兵的家书，不是 \"对众多士兵做问卷调查\"，调研方式被偷换。  借用原文：studying their letters home \n\n C) 原词陷阱 met a large number of soldiers in person 借了原文反复出现的 soldiers，但她是 studying their letters home（读信），原文从未说她 \"当面见了大量士兵\"，in person 与数量都是加出来的。  借用原文：after years of researching soldiers and chronicling their lives",
       "group_id": "lazynote-2",
-      "start": 225.466,
-      "end": 415.466
+      "start": 392.59,
+      "end": 397.329,
+      "spoken_text": "What did the woman do before writing her new book?",
+      "audio_match_score": 1.0
     },
     {
       "number": 8,
@@ -190,8 +204,10 @@
       "answer": 0,
       "explanation": "【题目】 What does the woman say about her writing history books? \n\n 【翻译】 女士对她写历史书籍说了什么? \n A)  她没有太多想象的自由。 \n B)  让读者相信她并不容易。 \n C)  吸引年轻读者很困难。 \n D)  她必须把事实与虚构结合起来。 \n\n 【答案】 A （态度观点题） She doesn't have much freedom for imagination. \n 【定位】 P12 I felt too constrained working with the past, like what I wrote needed to be fact as opposed to fiction, but writing about the future gave me more freedom to imagine, to invent. \n 处理过去的题材让我感到太受束缚，好像我写的东西必须是事实而不能是虚构；而写未来则给了我更多想象、虚构的自由。 \n\n 【信号】 感受词 felt too constrained + 转折 but 。信号有两处：一是被问者直陈感受的 I felt too constrained working with the past（写过去让我太受束缚），二是 but writing about the future gave me more freedom 的转折 but——\"过去受限 / 未来更自由\" 的对比正是答案落点；写史书（过去）即 \"没有多少想象的自由\"。 \n\n 【替换】 I felt too constrained working with the past ↔ She doesn't have much freedom for imagination. constrained=没有多少自由，肯否定转换 \n writing about the future gave me more freedom to imagine, to invent ↔ freedom for imagination freedom to imagine=freedom for imagination \n\n 【排除】 B) 张冠李戴 make her readers believe in her 蹭了主持人那句 any historical novel you write would have a lot of credibility 的 credibility，但那是主持人讲 \"你写历史小说会很可信\"，不是她说 \"难让读者相信她\"，张冠李戴且意思相反。  借用原文：any historical novel you write would have a lot of credibility \n\n C) 未提及 difficult to attract young readers 里的 \"young readers\" 原文从头到尾没出现，她谈的是写作自由问题，跟 \"吸引年轻读者\" 毫无关系。 \n D) 与原文相反 combine fact with fiction 直接搬来原文的 fact as opposed to fiction，但原文是 \"事实 与 虚构 相对立\"，且她觉得写史书时只能要 fact 不能要 fiction，根本不是 \"把事实与虚构结合\"。  借用原文：what I wrote needed to be fact as opposed to fiction",
       "group_id": "lazynote-2",
-      "start": 225.466,
-      "end": 415.466
+      "start": 410.37,
+      "end": 415.289,
+      "spoken_text": "What does the woman say about her writing history books?",
+      "audio_match_score": 1.0
     },
     {
       "number": 9,
@@ -205,8 +221,10 @@
       "answer": 3,
       "explanation": "【题目】 What does the passage say appears in almost all ads for Coca-Cola? \n\n 【翻译】 文章说可口可乐的广告中几乎都会出现什么？ \n A)  圣诞老人。 \n B)  北极熊。 \n C)  可可豆。 \n D)  玻璃瓶。 \n\n 【答案】 D （细节题） A glass bottle. \n 【定位】 P1 there's one thing you'll find in nearly all ads for Coca-Cola: the characteristic glass bottle. \n 在几乎所有可口可乐的广告里，你都会发现一样东西：那个标志性的玻璃瓶。 \n\n 【信号】 范围词 nearly all 锁定唯一答案 。答案句用 one thing you'll find in nearly all ads（在几乎所有广告里都能找到的\"一样东西\"），\"one thing\"\"nearly all\" 这种唯一性加全范围的限定，正是答案信号——它把临时露脸的圣诞老人、北极熊排除，只指向冒号后的那个玻璃瓶。 \n\n 【替换】 the characteristic glass bottle ↔ A glass bottle. 去掉修饰词的同一物 \n in nearly all ads for Coca-Cola ↔ in almost all ads for Coca-Cola nearly all 等于 almost all \n\n 【排除】 A) 原词陷阱 录音确实念了 Santa Claus，但 Whether it's in the hands of animated polar bears or Santa Claus 是在说\"不管是在北极熊还是圣诞老人手里\"，他俩只是举例，真正\"几乎所有广告都有\"的是后面那个玻璃瓶，不是圣诞老人。  借用原文：Whether it's in the hands of animated polar bears or Santa Claus \n\n B) 原词陷阱 A polar bear. 来自 in the hands of animated polar bears，和圣诞老人并列做举例，是\"拿着瓶子的角色\"而非\"几乎所有广告都有的那样东西\"，听到原词就选会掉坑。  借用原文：animated polar bears \n\n C) 答非所问 可可豆出现在第3段讲设计灵感时，landing on cocoa seed，说的是瓶子\"按可可豆形状设计\"，并不是\"出现在广告里\"的东西，与题干问的 ads 错位。  借用原文：landing on cocoa seed",
       "group_id": "lazynote-3",
-      "start": 456.201,
-      "end": 612.933
+      "start": 568.06,
+      "end": 573.97,
+      "spoken_text": "What does the passage say appears in almost all ads for Coca-Cola?",
+      "audio_match_score": 1.0
     },
     {
       "number": 10,
@@ -220,8 +238,10 @@
       "answer": 2,
       "explanation": "【题目】 Why did the Coca-Cola Company decide to have special packaging designed? \n\n 【翻译】 可口可乐公司为什么决定设计特殊包装？ \n A)  吸引顾客注意。 \n B)  与时俱进。 \n C)  打击假冒产品。 \n D)  促进销售。 \n\n 【答案】 C （细节题） To combat counterfeits. \n 【定位】 P2 As the soft drink gained in popularity, it faced a growing number of competitors—counterfeits even trying to copy Coke's logo. So, according to Coca-Cola historian Ted Ryan, the company decided to come up with packaging that couldn't be duplicated. \n 随着这款软饮越来越受欢迎，它面对的竞争者越来越多——甚至有仿冒品试图抄袭可口可乐的logo。于是，据可口可乐历史学家泰德·瑞安所说，公司决定设计一种无法被复制的包装。 \n\n 【信号】 因果信号 So 连接原因与决定 。counterfeits even trying to copy Coke's logo. So…the company decided to come up with packaging that couldn't be duplicated，一个 So 把前因（被仿冒、logo被抄）和后果（决定设计不可复制的包装）连起来，So 前那句就是\"为什么设计特殊包装\"的答案信号。 \n\n 【替换】 counterfeits even trying to copy Coke's logo ↔ To combat counterfeits. 应对仿冒即打击仿冒 \n\n 【排除】 A) 未提及 To attract customer attention.（吸引顾客注意）听上去对任何包装设计都成立，但录音从头到尾没说为了\"吸引注意\"，给出的原因只有\"防仿冒\"，这是凭常识脑补出来的，不是原文给的。 \n B) 未提及 To keep up with the times.（跟上时代）在录音里没有任何对应，原文谈的是\"被仿冒所以要做防复制包装\"，跟\"时代\"无关，是凭空添加的理由。 \n D) 答非所问 To promote its sales.（促进销售）虽合常识，但录音里\"设计特殊包装\"这个决定的直接原因是 So 前那句\"被仿冒\"，不是为了促销。销量大增（Coke bottle sales had ballooned into billions）是结果，不是设计包装的初衷，时间和因果都对不上。  借用原文：Coke bottle sales had ballooned into billions",
       "group_id": "lazynote-3",
-      "start": 456.201,
-      "end": 612.933
+      "start": 587.25,
+      "end": 593.211,
+      "spoken_text": "Why did the Coca-Cola company decide to have special packaging designed?",
+      "audio_match_score": 1.0
     },
     {
       "number": 11,
@@ -235,8 +255,10 @@
       "answer": 1,
       "explanation": "【题目】 What do we learn about the Coca-Cola bottle designed by the Root Glass Company? \n\n 【翻译】 关于Root Glass公司设计的可口可乐瓶，我们了解到什么？ \n A)  它类似于百科全书中的一幅图片。 \n B)  它呈现可可豆的形状。 \n C)  它的中间有该饮料的标识。 \n D)  它展示圣诞老人的形象。 \n\n 【答案】 B （细节题） It appears in the shape of a cocoa seed. \n 【定位】 P3 Workers at the Root Glass Company got the request and began flipping through the encyclopedia at the local library, landing on cocoa seed. Though cocoa seed is not an ingredient of the soda, they designed their bottle based on the seed's shape and large middle. \n Root玻璃公司的工人接到这个需求，开始在当地图书馆翻百科全书，最后翻到了可可豆。尽管可可豆并不是这款软饮的成分，他们还是按照可可豆的形状和宽大的中部设计了瓶子。 \n\n 【信号】 designed…based on 直陈设计依据 。they designed their bottle based on the seed's shape and large middle，designed…based on（按照……来设计）是直接交代瓶子\"长什么样、依什么而来\"的核心句，正是瓶子特征的答案信号。其中 seed 指上句翻到的 cocoa seed。 \n\n 【替换】 designed their bottle based on the seed's shape and large middle ↔ It appears in the shape of a cocoa seed. 按可可豆形状设计=呈可可豆形状 \n\n 【排除】 A) 原词陷阱 录音确实念了 encyclopedia，began flipping through the encyclopedia 说的是工人\"翻百科全书\"才找到可可豆，百科全书只是查找的途径；选项 It resembles a picture in the encyclopedia. 却说瓶子\"像百科里的一幅图\"，把\"在百科里查到灵感\"偷换成\"瓶子长得像百科图片\"，原文没这么说。  借用原文：began flipping through the encyclopedia at the local library \n\n C) 张冠李戴 It has the drink's logo in the middle. 把第2段的 logo 和本段的 large middle 拼在一起，貌似有据。但 logo 出现在 counterfeits even trying to copy Coke's logo（讲仿冒抄袭logo），原文从没说瓶子\"中间有logo\"；瓶子的中部是 large middle（宽大的中部），与\"有logo\"无关。  借用原文：trying to copy Coke's logo \n\n D) 张冠李戴 It displays the image of Santa Claus. 搬来第1段的 Santa Claus，但圣诞老人出现在 in the hands of…Santa Claus（广告里的形象），原文从未说瓶子上\"显示圣诞老人图像\"，这是把广告形象错安到瓶子身上。  借用原文：in the hands of animated polar bears or Santa Claus",
       "group_id": "lazynote-3",
-      "start": 456.201,
-      "end": 612.933
+      "start": 606.22,
+      "end": 612.72,
+      "spoken_text": "What do we learn about the Coca-Cola bottle designed by the root glass company?",
+      "audio_match_score": 1.0
     },
     {
       "number": 12,
@@ -250,8 +272,10 @@
       "answer": 2,
       "explanation": "【题目】 What does research show about a conversation between strangers? \n\n 【翻译】 研究表明陌生人之间的交谈会怎样? \n A)  它经常发生在通勤者之间。 \n B)  它促进相互理解。 \n C)  它大大改善他们的心情。 \n D)  它需要付出很大努力来维持。 \n\n 【答案】 C （细节题） It improves their mood considerably. \n 【定位】 P1 Research shows that a few moments of conversation with a stranger creates a measurable improvement in mood. \n 研究表明，与陌生人交谈片刻就能让心情产生可测量的改善。 \n\n 【信号】 Research shows 引出结论 。句首 Research shows that 是明确的结论信号，紧跟其后的 creates a measurable improvement in mood 就是研究的核心发现，正对题干的 research show。 \n\n 【替换】 creates a measurable improvement in mood ↔ improves their mood considerably creates improvement = improves \n\n 【排除】 A) 原词陷阱 It often occurs among commuters. 借了录音第2段的 commuters 一词制造耳熟，但研究的结论是交谈改善心情，并非说交谈'常发生在通勤者中间'，原词陷阱。  借用原文：commuters who talked to nearby strangers \n\n B) 未提及 It promotes mutual understanding. 听起来很合理，但录音通篇讲的是改善心情（mood）、让人更愉快，从未说交谈'促进相互理解'，属无中生有。 \n D) 与原文相反 It takes a great deal of effort to sustain. 说交谈很费力，而录音说的是 a few moments of conversation 就能改善心情，强调轻松易得，方向相反。  借用原文：a few moments of conversation with a stranger",
       "group_id": "lazynote-4",
-      "start": 627.6,
-      "end": 802.466
+      "start": 739.67,
+      "end": 745.565,
+      "spoken_text": "What does research show about a conversation between strangers?",
+      "audio_match_score": 1.0
     },
     {
       "number": 13,
@@ -265,8 +289,10 @@
       "answer": 0,
       "explanation": "【题目】 What prevents people from starting conversation with strangers? \n\n 【翻译】 什么阻碍人们与陌生人开始交谈? \n A)  社交焦虑。 \n B)  过度谨慎。 \n C)  缺乏社交技巧。 \n D)  对独处的偏好。 \n\n 【答案】 A （细节题） Social anxiety. \n 【定位】 P3 Social anxiety appears to be the problem. \n 社交焦虑似乎就是症结所在。 \n\n 【信号】 appears to be the problem 点名症结 。appears to be the problem 直接把'问题所在'点出来，这正是题干 prevents（阻碍）对应的那个原因，是答案句的明确信号。 \n\n 【替换】 Social anxiety appears to be the problem ↔ Social anxiety 原词直接对应 \n\n 【排除】 B) 偷换概念 Excessive caution. 看似与社交焦虑相近，但录音从未用 caution 或'过度谨慎'来解释，把焦虑悄悄换成谨慎，属偷换概念。 \n C) 未提及 Lack of social skills. 听上去也像不愿交谈的理由，但录音解释的是人们 underestimating others' interest（低估别人交谈意愿），不是缺技巧，无中生有。 \n D) 原词陷阱 Preference for solitude. 借了第2段 the more solitary experience 的耳熟感，但那是说通勤者'预期'独处更愉快，并非说人们因'偏爱独处'而不交谈，盗用原词又偷换。  借用原文：most expected the more solitary experience to be more pleasurable",
       "group_id": "lazynote-4",
-      "start": 627.6,
-      "end": 802.466
+      "start": 757.91,
+      "end": 764.561,
+      "spoken_text": "What prevents people from starting a conversation with strangers?",
+      "audio_match_score": 0.991
     },
     {
       "number": 14,
@@ -280,8 +306,10 @@
       "answer": 1,
       "explanation": "【题目】 Why does a negative encounter with strangers stick in one's memory? \n\n 【翻译】 为什么与陌生人的负面遭遇会留在记忆中? \n A)  人们通常把它视为难忘的教训。 \n B)  人类大脑倾向于纠结于负面事件。 \n C)  负面事件往往深深伤害人们。 \n D)  人们普遍讨厌被拒绝。 \n\n 【答案】 B （细节题） Human brains tend to dwell on negative events. \n 【定位】 P4 You may occasionally have a negative encounter that might stick in your memory. This is because the human brain is biased to dwell on negative events. \n 你偶尔会遇到不愉快的经历，可能会留在记忆里。这是因为人脑天生偏向于反复回想负面事件。 \n\n 【信号】 This is because 因果信号 。This is because 是显眼的因果连接词，承上句的 stick in your memory，下接真正原因 the human brain is biased to dwell on negative events，正是答案信号。 \n\n 【替换】 the human brain is biased to dwell on negative events ↔ Human brains tend to dwell on negative events is biased to = tend to \n\n 【排除】 A) 未提及 People usually regard it as an unforgettable lesson. 把'记住'解释成'当作难忘教训'，但录音给的原因是大脑机制，从未说人们把它当教训，无中生有。 \n C) 原词陷阱 Negative events often hurt people deeply. 借了 negative 的耳熟感，说负面事件'伤人很深'，但题干问的是'为何留在记忆'，原因是大脑偏向回想、不是伤得深，答非所问。  借用原文：dwell on negative events \n\n D) 原词陷阱 People generally resent being rejected. 借了第4段末 the risk of rejection 的耳熟感，但那是另一句话，且'怨恨被拒'并不解释'为何记住负面经历'，原词陷阱。  借用原文：the risk of rejection",
       "group_id": "lazynote-4",
-      "start": 627.6,
-      "end": 802.466
+      "start": 779.16,
+      "end": 783.565,
+      "spoken_text": "Why does a negative encounter with strangers stick in one's memory?",
+      "audio_match_score": 1.0
     },
     {
       "number": 15,
@@ -295,8 +323,10 @@
       "answer": 0,
       "explanation": "【题目】 What does the passage say the pleasure of connection seems to be? \n\n 【翻译】 文章说联结的愉悦似乎是什么? \n A)  有传染性的。 \n B)  暂时的。 \n C)  不可预测的。 \n D)  可测量的。 \n\n 【答案】 A （细节题） Contagious. \n 【定位】 P5 The pleasure of connection seems contagious. \n 连接的愉悦似乎是会传染的。 \n\n 【信号】 seems 后形容词即答案 。The pleasure of connection seems contagious 与题干 pleasure of connection seems to be 几乎逐词对应，seems 后的形容词 contagious 就是答案信号。 \n\n 【替换】 seems contagious ↔ Contagious 形容词原词对应 \n\n 【排除】 B) 未提及 Temporary. 录音从未说这种愉悦是'短暂'的，无中生有，且与全文鼓励交谈、强调正面的基调不符。 \n C) 未提及 Unpredictable. 录音没有任何关于'难以预测'的说法，纯属无中生有。 \n D) 张冠李戴 Measurable. 借了第1段 a measurable improvement in mood 的耳熟感，但 measurable 是形容第1段的'心情改善'，不是第5段的'连接愉悦'，把别处的修饰词安到本题主语上，张冠李戴。  借用原文：a measurable improvement in mood",
       "group_id": "lazynote-4",
-      "start": 627.6,
-      "end": 802.466
+      "start": 796.79,
+      "end": 802.466,
+      "spoken_text": "What does the passage say the pleasure of connection seems to be?",
+      "audio_match_score": 1.0
     },
     {
       "number": 16,
@@ -310,8 +340,10 @@
       "answer": 2,
       "explanation": "【题目】 What does the speaker say about the economy of the Caribbean islands? \n\n 【翻译】 说话者关于加勒比群岛的经济说了什么？ \n A)  它严重依赖旅游业。 \n B)  它在对外贸易方面蓬勃发展。 \n C)  它主要以农业为基础。 \n D)  它主要依靠矿产出口。 \n\n 【答案】 C （细节题） It is mainly based on agriculture. \n 【定位】 P1 This tropical region's economy is based mainly on farming. \n 这个热带地区的经济主要建立在农业（耕作）之上。 \n\n 【信号】 based mainly on 正面给定 。答案信号是 economy is based mainly on farming 里的 mainly——「主要」二字直接把经济支柱钉在 farming 上，这种「主语 + based mainly on + X」是篇章里下结论的典型句式，听到 mainly 就锁定。 \n\n 【替换】 based mainly on farming ↔ mainly based on agriculture farming=agriculture 同义 \n\n 【排除】 A) 原词陷阱 录音第三段确实大谈 tourism has increased rapidly，A 把这个真出现过的 tourism 拎出来冒充经济支柱，但讲经济基础的第一段明说是 farming，旅游只是后文另起的话题。  借用原文：tourism has increased rapidly \n\n B) 未提及 录音通篇没说经济「靠外贸 / 外贸繁荣」，第二段虽列了 export crops，但那是讲「出口哪些农产品」，不是说「经济建立在对外贸易上」，B 属于无中生有。 \n D) 原词陷阱 录音第二段提到 From the West Indies also come oil, mineral pitch、铝矿等矿产，D 抓住这个真出现的 mineral 说经济「主要靠矿产出口」，但原文用 also（还有）把它列为次要物产，主轴明说是 farming。  借用原文：From the West Indies also come oil, mineral pitch",
       "group_id": "lazynote-5",
-      "start": 843.3,
-      "end": 1074.5
+      "start": 1032.09,
+      "end": 1036.706,
+      "spoken_text": "What does the speaker say about the economy of the Caribbean islands?",
+      "audio_match_score": 1.0
     },
     {
       "number": 17,
@@ -325,8 +357,10 @@
       "answer": 3,
       "explanation": "【题目】 What is the main product of the Caribbean islands? \n\n 【翻译】 加勒比群岛的主要产品是什么？ \n A)  烟草。 \n B)  香蕉。 \n C)  咖啡。 \n D)  糖。 \n\n 【答案】 D （细节题） Sugar. \n 【定位】 P2 Sugar is the main product. \n 糖是主要产品。 \n\n 【信号】 the main product 唯一性标志 。信号是 Sugar is the main product 里的 the main——这是一句干净利落的判断句，直接把「主要产品」的头衔给了 sugar；篇章里这种「X is the main / the only …」就是答案句的标准长相。 \n\n 【替换】 Sugar is the main product ↔ Sugar. 原词同指即答案 \n\n 【排除】 A) 原词陷阱 录音 Other export crops are tobacco, coffee, bananas 把 tobacco 列在「其他出口作物」里，A 抓住这个真念到的 tobacco，但它前面写着 other（其他的），明摆着是配角，不是 main。  借用原文：Other export crops are tobacco, coffee, bananas \n\n B) 原词陷阱 bananas 同样出自 Other export crops are tobacco, coffee, bananas，与烟草、咖啡一道属于「其他作物」，被念到不等于是主产品。  借用原文：Other export crops are tobacco, coffee, bananas \n\n C) 原词陷阱 coffee 也来自 tobacco, coffee, bananas 这串「其他出口作物」，与答案句的 the main product 无关，听到就选即落坑。  借用原文：tobacco, coffee, bananas",
       "group_id": "lazynote-5",
-      "start": 843.3,
-      "end": 1074.5
+      "start": 1050.05,
+      "end": 1054.834,
+      "spoken_text": "What is the main product of the Caribbean islands?",
+      "audio_match_score": 1.0
     },
     {
       "number": 18,
@@ -340,8 +374,10 @@
       "answer": 1,
       "explanation": "【题目】 What do we learn about the majority of people in the Caribbean islands? \n\n 【翻译】 关于加勒比群岛的大多数人，我们了解到什么？ \n A)  他们在农场辛勤劳作。 \n B)  他们生活贫困。 \n C)  他们住在西班牙风格的房子里。 \n D)  他们雇人做家务。 \n\n 【答案】 B （细节题） They live a poor life. \n 【定位】 P4 But here the poor greatly outnumber the wealthy. ... Most of the people live well below the poverty level. \n 但在这里，穷人远远多于富人。……大多数人的生活水平远在贫困线以下。 \n\n 【信号】 转折 But + 数量词点群 。双重信号：But here the poor greatly outnumber the wealthy 用转折 But 把重心从前句的富人扭向穷人，再用 Most of the people live well below the poverty level 的 Most 把「贫困」正式派给大多数人——转折后 + most 出现处，就是答案落点。 \n\n 【替换】 Most of the people live well below the poverty level ↔ They live a poor life. below poverty=poor 概括 \n\n 【排除】 A) 答非所问 录音第一段说 the small cultivator is working only a few acres of land，A「在农场劳作」沾了「耕作」的边，但那是讲农民这一小群，第四段描述多数穷人时讲的是 they live crowded together in tiny houses（挤在小屋里），并未说多数人都在田里劳作。  借用原文：the small cultivator is working only a few acres of land \n\n C) 张冠李戴 录音 A visitor will find rich people living in apartments or Spanish houses 明说住西班牙式房子的是 rich people（富人），C 把这句富人的真实细节张冠李戴到「多数人」头上，正好与题问的 majority 相反。  借用原文：rich people living in apartments or Spanish houses \n\n D) 张冠李戴 录音 Their servants might include a cook, a maid, and a nurse 说请仆人的是前句的 rich people，D「雇人做家务」盗用了这处真出现的 servants 描写，却同样安错了对象——是少数富人，不是多数人。  借用原文：Their servants might include a cook, a maid, and a nurse",
       "group_id": "lazynote-5",
-      "start": 843.3,
-      "end": 1074.5
+      "start": 1068.1,
+      "end": 1074.315,
+      "spoken_text": "What do we learn about the majority of people in the Caribbean islands?",
+      "audio_match_score": 1.0
     },
     {
       "number": 19,
@@ -355,8 +391,10 @@
       "answer": 1,
       "explanation": "【题目】 What will happen to children if they always get immediate satisfaction? \n\n 【翻译】 如果孩子总是得到即时满足会发生什么？ \n A)  他们会对下一代提出更多要求。 \n B)  他们最终会变得孤独、依赖且不满足。 \n C)  他们经历的挫折会多于成功。 \n D)  他们会发现难以与他人相处。 \n\n 【答案】 B （细节题） They will end up lonely, dependent and dissatisfied. \n 【定位】 P1 But in the longer term, such children end up lonely, dependent, chronically dissatisfied and resentful of the parents who tried so hard to please them. \n 但从长远看，这样的孩子最终会变得孤独、依赖、长期不满，并怨恨那些拼命想取悦他们的父母。 \n\n 【信号】 转折 But + 结果词 end up 。这句以 But in the longer term 起头，转折信号 But 把前面\"短期或许是对的\"翻转，后半才是真正结论；再加 such children end up 的 end up 是明确的结果信号，双重提示这就是答案句。 \n\n 【替换】 such children end up lonely, dependent, chronically dissatisfied ↔ They will end up lonely, dependent and dissatisfied. 近乎照搬但删了 chronically \n\n 【排除】 A) 原词陷阱 录音确有 demanding, selfish and spoiled children 里的 demanding，A 用 more demanding of their next generation 把这个原词搬来，但录音说的是孩子本身\"难缠\"，不是说他们将来\"对下一代更苛求\"，属听到原词就想选的陷阱。  借用原文：demanding, selfish and spoiled children \n\n C) 未提及 C 说孩子会经历 more setbacks than successes，但录音第1段讲长远后果时只提孤独、依赖、不满，从未说\"挫折多于成功\"，这是录音未提及的内容。 \n D) 过度推断 D 的 difficult to get along with others 看似贴近\"孤独\"，但录音长远后果那句只说 lonely / dependent / dissatisfied / resentful，并未说\"难以与人相处\"，是从 lonely 过度推断出来的，原话没这层意思。",
       "group_id": "lazynote-6",
-      "start": 1089.3,
-      "end": 1307.9
+      "start": 1262.09,
+      "end": 1268.82,
+      "spoken_text": "What will happen to children? If they always get immediate satisfaction.",
+      "audio_match_score": 1.0
     },
     {
       "number": 20,
@@ -370,8 +408,10 @@
       "answer": 3,
       "explanation": "【题目】 What may prevent parents from raising confident and capable children? \n\n 【翻译】 什么可能会阻碍父母培养出自信和有能力的孩子？ \n A)  未能对他们的行为给予应有的关注。 \n B)  不愿意让他们玩玩具。 \n C)  不愿意立即满足他们的愿望。 \n D)  未能与他们共度足够的高质量时间。 \n\n 【答案】 D （细节题） Failure to spend sufficient quality time with them. \n 【定位】 P2 One factor hindering this is that parents can't or don't spend enough quality time with their kids, and substitute this deficit with toys, games, gadgets and the like. \n 妨碍这一点的一个因素是，父母不能或不愿花足够的高质量时间陪孩子，转而用玩具、游戏、电子产品之类来填补这一缺口。 \n\n 【信号】 因果信号 One factor hindering 。这句以 One factor hindering this is that 开头，hindering（妨碍）直接呼应题干的 prevent，是明确的\"原因信号\"，紧随其后的内容就是要找的妨碍因素。 \n\n 【替换】 parents can't or don't spend enough quality time with their kids ↔ Failure to spend sufficient quality time with them. can't or don't＝Failure，enough＝sufficient \n\n 【排除】 A) 原词陷阱 录音说孩子需要 parents' devoted attention，A 用 Failure to pay due attention to their behavior 把 attention 这个原词搬来，却拼成\"不关注孩子的行为\"，而原话讲的是\"投入式的陪伴关注\"，不是关注 behavior，属盗用原词后偷换对象。  借用原文：children need parents' devoted attention \n\n B) 与原文相反 录音里 substitute this deficit with toys, games, gadgets 把 toys 当作父母\"拿来替代陪伴\"的东西，B 却说成 Unwillingness to allow them to play with toys（不让孩子玩玩具），与原话意思相反，是盗用 toys 后反着说。  借用原文：substitute this deficit with toys, games, gadgets and the like \n\n C) 张冠李戴 C 的 satisfy their wishes immediately 借用了录音 instantly satisfying their wishes 里的\"立刻满足\"，但那是第19/21题的话题、是\"父母不该做的事\"，并不是本题问的\"妨碍培养自信能干孩子\"的因素，属张冠李戴。  借用原文：Instead of instantly satisfying their wishes",
       "group_id": "lazynote-6",
-      "start": 1089.3,
-      "end": 1307.9
+      "start": 1282.2,
+      "end": 1288.48,
+      "spoken_text": "What may prevent parents from raising confident and capable children?",
+      "audio_match_score": 1.0
     },
     {
       "number": 21,
@@ -385,8 +425,10 @@
       "answer": 1,
       "explanation": "【题目】 Why should children be encouraged to keep trying when they fail? \n\n 【翻译】 为什么应该鼓励孩子在失败时继续尝试？ \n A)  这将使他们能够从错误中学习。 \n B)  这将帮助他们应对失望。 \n C)  这将对他们的心理健康大有裨益。 \n D)  这将培养他们承受艰难困苦的能力。 \n\n 【答案】 B （细节题） It will help them to handle disappointment. \n 【定位】 P4 This teaches them how to handle and recover from disappointment, which is associated with greater success and satisfaction academically, financially and in personal relationships. \n 这教会他们如何应对失望并从中恢复，而这又与学业、经济和人际关系上更大的成功与满足相关联。 \n\n 【信号】 作用信号 This teaches them 。这句以 This teaches them how to handle and recover from disappointment 开头，This teaches them 是明确的\"作用/理由\"信号，直接回答题干的 Why，后半的内容就是\"坚持尝试\"带来的好处。 \n\n 【替换】 how to handle and recover from disappointment ↔ It will help them to handle disappointment. handle disappointment 原义保留 \n\n 【排除】 A) 未提及 A 说 learn from mistakes，听起来很符合\"失败时坚持\"的常识，但录音第4段讲的是 handle and recover from disappointment，并没有说\"从错误中学习\"，是凭印象补出来的内容。 \n C) 过度推断 C 的 good to their mental health 看似贴近\"更健康\"，但录音说的是 greater success and satisfaction academically, financially and in personal relationships，讲的是成功与满足，并未说\"有益心理健康\"，是从相邻段 healthier 过度推断而来。  借用原文：greater success and satisfaction academically, financially and in personal relationships \n\n D) 偷换概念 D 的 endure hardships（忍受艰难）与 B 的\"应对失望\"语义相近、最易混，但录音原话明确是 handle and recover from disappointment，是\"应对失望\"而非\"忍受艰苦\"，D 是凭近义自造的说法。",
       "group_id": "lazynote-6",
-      "start": 1089.3,
-      "end": 1307.9
+      "start": 1301.59,
+      "end": 1307.797,
+      "spoken_text": "Why should children be encouraged to keep trying when they fail?",
+      "audio_match_score": 1.0
     },
     {
       "number": 22,
@@ -400,8 +442,10 @@
       "answer": 2,
       "explanation": "【题目】 What does the speaker say can easily prevent an interviewee from getting a job? \n\n 【翻译】 说话者说什么能够轻易阻止面试者获得工作? \n A)  未能做好充分准备。 \n B)  目光避开招聘经理。 \n C)  在错误的时间说错话。 \n D)  对面试做出错误判断。 \n\n 【答案】 C （细节题） Saying the wrong thing at the wrong time. \n 【定位】 P1 And your chances of being more carefully considered for the job can quickly go downhill just by saying the wrong thing at the wrong time. \n 而仅仅因为在错误的时间说了错误的话，你被认真考虑录用的机会就会迅速下滑。 \n\n 【信号】 坏结果信号 go downhill 。can quickly go downhill 是\"机会迅速变差\"的坏结果信号，它后面紧跟的 just by saying the wrong thing at the wrong time 正是造成坏结果的行为，这句因此是答案句。 \n\n 【替换】 saying the wrong thing at the wrong time ↔ Saying the wrong thing at the wrong time 原句直接成项 \n\n 【排除】 A) 未提及 Failing to make sufficient preparations. 准备不足是常识里\"会面试失败\"的原因，听起来合理，但录音第一段只说\"说错话\"会让机会下滑，从没提\"准备\"，属凭常识想当然。 \n B) 原词陷阱 Looking away from the hiring manager. 借了第一段真出现过的 hiring manager 一词，让人听到耳熟就想选，但录音说的是坐在招聘经理对面会紧张，从没说\"移开视线\"会害你丢工作。  借用原文：sitting across from a hiring manager \n\n D) 偷换概念 Making a wrong judgment of the interview. 用了录音里的 judgment，但原文 open themselves up for judgment 指\"面试者被别人评判\"，不是\"面试者自己判断失误\"，对象正好反了。  借用原文：answering questions that effectively open themselves up for judgment",
       "group_id": "lazynote-7",
-      "start": 1322.9,
-      "end": 1557.933
+      "start": 1492.96,
+      "end": 1499.027,
+      "spoken_text": "What does the speaker say can easily prevent an interviewee from getting a job?",
+      "audio_match_score": 1.0
     },
     {
       "number": 23,
@@ -415,8 +459,10 @@
       "answer": 0,
       "explanation": "【题目】 What should the interviewee avoid doing in an interview? \n\n 【翻译】 面试者在面试中应该避免做什么? \n A)  抱怨之前的工作。 \n B)  询问将要支付的薪水。 \n C)  夸大学术背景。 \n D)  低估之前取得的成就。 \n\n 【答案】 A （细节题） Complaining about their previous job. \n 【定位】 P2 The most obvious thing not to do is complain. Employers want to hire positive people. Talking about a previous job negatively raises concerns that you might be difficult to manage. \n 最不该做的一件事就是抱怨。雇主想招积极的人。负面地谈论上一份工作会让人担心你可能不好管理。 \n\n 【信号】 禁止信号 thing not to do 。The most obvious thing not to do is complain 用 not to do 这一最强禁止信号直接点名 complain，是本题答案句；后文 Talking about a previous job negatively 进一步把\"抱怨\"具体化为\"负面谈上一份工作\"。 \n\n 【替换】 Talking about a previous job negatively ↔ Complaining about their previous job negatively=complaining 同义替换 \n\n 【排除】 B) 未提及 Inquiring about their salary to be paid. 打听薪水常被视为面试敏感举动、很像\"该避免\"，但录音第二段只说别抱怨，全篇没提薪水，是凭常识硬塞的答案。 \n C) 未提及 Exaggerating their academic background. 夸大学历是面试禁忌的常见说法，听着也对，但录音里没有任何关于\"学历\"或\"夸大\"的内容，属未提及。 \n D) 与原文相反 Understating their previous achievements. 说\"贬低自己以往成绩\"。录音第四段其实是叫人别把功劳全揽到自己头上、要归功团队 never take all the credit for accomplishments，那是\"别独揽功劳\"，与\"低估自己成绩\"方向相反，也不是本题第二段的内容。  借用原文：never take all the credit for accomplishments or achievements",
       "group_id": "lazynote-7",
-      "start": 1322.9,
-      "end": 1557.933
+      "start": 1512.36,
+      "end": 1518.504,
+      "spoken_text": "What should the interviewee avoid doing in an interview?",
+      "audio_match_score": 1.0
     },
     {
       "number": 24,
@@ -430,8 +476,10 @@
       "answer": 2,
       "explanation": "【题目】 What kind of employees do companies like to recruit? \n\n 【翻译】 公司喜欢招聘什么样的员工? \n A)  既有技能又有经验的人。 \n B)  与同事相处融洽的人。 \n C)  在工作中主动采取行动的人。 \n D)  对管理者忠诚的人。 \n\n 【答案】 C （细节题） Those who take initiative in their work. \n 【定位】 P3 Managers usually love people who can self-sustain and enable growth through taking initiative, who are strong at following through their work, and who bring ideas and solutions to the table. \n 经理们通常喜欢那些能够自我驱动、通过主动作为来推动成长的人，那些能把工作贯彻到底的人，以及那些能带来想法和解决方案的人。 \n\n 【信号】 偏好信号 love people who 。Managers usually love people who 中的 love 是\"喜欢哪种人\"的偏好信号，紧跟其后的 taking initiative 等特质就是公司想要的，是本题答案句。 \n\n 【替换】 enable growth through taking initiative ↔ take initiative in their work taking initiative 近乎原义对应 \n\n 【排除】 A) 答非所问 Those who have both skill and experience.\"既有技能又有经验\"听着是公司最想要的全能人才，很诱人，但本段说的是\"主动、把活做到底、带方案\"，并没说\"技能+经验\"；skill 一词要到第五段讲小公司时才出现，与本题问的\"公司喜欢哪种人\"不在同一处。 \n B) 未提及 Those who get along well with colleagues.\"与同事相处融洽\"是大家公认的好特质，但录音第三段夸的是主动、能跟进、带方案，从没提\"与同事关系\"，属未提及。 \n D) 原词陷阱 Those who are loyal to their managers. 借了本段反复出现的 manager 一词，又把\"忠诚\"包装成美德，极易误选；但录音说的是\"经理喜欢主动的人\"，没有任何\"对经理忠诚\"的意思。  借用原文：Managers usually love people who can self-sustain",
       "group_id": "lazynote-7",
-      "start": 1322.9,
-      "end": 1557.933
+      "start": 1531.84,
+      "end": 1537.738,
+      "spoken_text": "What kind of employees do companies like to recruit?",
+      "audio_match_score": 1.0
     },
     {
       "number": 25,
@@ -445,8 +493,10 @@
       "answer": 0,
       "explanation": "【题目】 What is especially important for those working in a small company? \n\n 【翻译】 对于在小公司工作的人来说什么尤其重要? \n A)  承担新责任的能力。 \n B)  扮演多种角色的经验。 \n C)  准备好按照灵活的时间表工作。 \n D)  与同事沟通的技能。 \n\n 【答案】 A （细节题） Ability to shoulder new responsibilities. \n 【定位】 P5 This is especially true in small companies, where the ability to adapt and take on new responsibilities is highly valued. \n 这在小公司里尤其如此，在那里，适应并承担新职责的能力备受看重。 \n\n 【信号】 强调信号 especially true + highly valued 。This is especially true in small companies 把场景锁定到小公司，is highly valued 是\"备受看重\"的强调信号，二者之间的 take on new responsibilities 正是被看重的能力，这句是答案句。 \n\n 【替换】 take on new responsibilities ↔ shoulder new responsibilities take on=shoulder 同义替换 \n\n 【排除】 B) 过度推断 Experience of performing multiple roles. 由录音 your role is whatever you make of it\"角色由你定\"顺势联想出\"做过多种角色的经验\"，看似沾边，但原文强调的是\"愿意承担新责、能适应\"，不是\"已有多角色经验\"，是从原话多推了一步。  借用原文：your role is whatever you make of it \n\n C) 原词陷阱 Readiness to work to flexible schedules. 借了录音 you're flexible 的 flexible 一词，让听到\"灵活\"就想选；但原文的 flexible 指\"愿意承担超出本职的工作\"，不是\"弹性的上班时间表\"，对象被偷换了。  借用原文：try and convey the idea that you're flexible \n\n D) 未提及 Skills to communicate with colleagues. 沟通能力是公认的职场好技能，但第五段讲小公司时说的是适应与担新责，并未提\"与同事沟通\"，属未提及。",
       "group_id": "lazynote-7",
-      "start": 1322.9,
-      "end": 1557.933
+      "start": 1550.98,
+      "end": 1557.774,
+      "spoken_text": "What is especially important for those working in a small company?",
+      "audio_match_score": 1.0
     }
   ],
   "source_sentences": [],
@@ -455,5 +505,6 @@
     "original_bytes": 18914159,
     "sha256": "a4109a1749337f80c68c70dc67c189da6f45141976a6410dae219d37f7495430",
     "playback_encoding": "MP3 48 kbps mono 24 kHz; unchanged content and timing"
-  }
+  },
+  "question_timing_source": "original_audio_transcript_verified"
 }

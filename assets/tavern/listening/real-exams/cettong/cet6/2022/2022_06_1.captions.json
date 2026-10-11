@@ -218,33 +218,45 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 4.",
-      "translation": "问题4",
+      "text": "1. What do we learn about David Jackson from the conversation?",
+      "translation": "第 1 题：从对话中我们了解到关于David Jackson的什么信息?",
+      "start": 185.34,
+      "end": 192.132,
+      "questionNumber": 1
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "2. What does the man think of young teenagers?",
+      "translation": "第 2 题：男士对年轻青少年有什么看法?",
+      "start": 204.48,
+      "end": 210.752,
+      "questionNumber": 2
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "3. How does the man help his kids with their essays?",
+      "translation": "第 3 题：男士如何帮助他的孩子们写作文?",
+      "start": 223.2,
+      "end": 229.756,
+      "questionNumber": 3
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "4. What does the woman say about herself when she was a teenager?",
+      "translation": "第 4 题：女士说她十几岁时是什么情况?",
       "start": 242.57,
-      "end": 243.79
+      "end": 249.759,
+      "questionNumber": 4
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "does the woman say about herself when she was a teenager?",
-      "translation": "那个女人在十几岁的时候 说起自己吗?",
-      "start": 245.28,
-      "end": 249.26
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "2.",
-      "translation": "2. 目标",
-      "start": 263.44,
-      "end": 264.32
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "In this episode of Money Talks,",
+      "text": "2. In this episode of Money Talks,",
       "translation": "在这场货币会谈中",
-      "start": 266.06,
+      "start": 263.44,
       "end": 268.42
     },
     {
@@ -517,42 +529,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the woman say about the clothes she made at first?",
-      "translation": "那女人怎么说她刚做的衣服?",
+      "text": "5. What do we learn about the woman?",
+      "translation": "第 5 题：关于这位女士我们了解到什么?",
+      "start": 408.0,
+      "end": 411.773,
+      "questionNumber": 5
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "6. What does the woman say about the clothes she made at first?",
+      "translation": "第 6 题：关于她最初制作的衣服,这位女士说了什么?",
       "start": 426.61,
-      "end": 430.53
+      "end": 430.965,
+      "questionNumber": 6
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 7.",
-      "translation": "问题7",
+      "text": "7. Why did the woman persevere in making clothes for herself?",
+      "translation": "第 7 题：这位女士为什么坚持为自己制作衣服?",
       "start": 444.1,
-      "end": 444.84
+      "end": 450.067,
+      "questionNumber": 7
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Why did the woman persevere in making clothes for herself?",
-      "translation": "为什么这个女人坚持自己做衣服?",
-      "start": 446.02,
-      "end": 449.62
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 8.",
-      "translation": "问题8",
+      "text": "8. What does the woman plan to do in the future?",
+      "translation": "第 8 题：这位女士将来打算做什么?",
       "start": 463.3,
-      "end": 463.9
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What does the woman plan to do in the future?",
-      "translation": "未来该妇女打算做什么?",
-      "start": 464.75,
-      "end": 467.71
+      "end": 467.988,
+      "questionNumber": 8
     },
     {
       "speaker": "听力原声",
@@ -769,51 +777,37 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 10.",
-      "translation": "问题10。",
+      "text": "9. What have researchers done for the first time in history?",
+      "translation": "第 9 题：研究人员首次在历史上做了什么?",
+      "start": 651.57,
+      "end": 657.929,
+      "questionNumber": 9
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "10. What makes it important to find new antibiotic drugs?",
+      "translation": "第 10 题：是什么使得寻找新的抗生素药物变得重要?",
       "start": 670.79,
-      "end": 671.95
+      "end": 676.696,
+      "questionNumber": 10
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What makes it important to find new antibiotic drugs?",
-      "translation": "找到新的抗生素药物有什么意义?",
-      "start": 673.04,
-      "end": 676.16
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "11.",
-      "translation": "11. 十一号",
+      "text": "11. What does the passage say artificial intelligence is able to do in antibiotic research?",
+      "translation": "第 11 题：文章说人工智能能够在抗生素研究中做什么?",
       "start": 690.05,
-      "end": 690.55
+      "end": 697.851,
+      "questionNumber": 11
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the passage say artificial intelligence is able to do in antibiotic research?",
-      "translation": "人工智能在抗生素研究中能做什么?",
-      "start": 691.6,
-      "end": 697.34
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "2.",
-      "translation": "2. 目标",
-      "start": 711.23,
-      "end": 711.83
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "A recent study overturned what we think we know about lying.",
+      "text": "2. A recent study overturned what we think we know about lying.",
       "translation": "一项最新研究推翻了我们对说谎的固有认识。",
-      "start": 712.99,
-      "end": 713.533,
-      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/"
+      "start": 711.23,
+      "end": 713.533
     },
     {
       "speaker": "听力原声",
@@ -975,74 +969,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "12.",
-      "translation": "12. 十二、结 论",
+      "text": "12. According to the passage, how do most people detect lying?",
+      "translation": "第 12 题：根据文章，大多数人如何识破谎言？",
       "start": 840.21,
-      "end": 840.71
+      "end": 846.666,
+      "questionNumber": 12
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "According to the passage,",
-      "translation": "根据通道,",
-      "start": 841.67,
-      "end": 843.13
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "how do most people detect lying?",
-      "translation": "大多数人如何察觉到说谎?",
-      "start": 843.79,
-      "end": 846.31
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 13.",
-      "translation": "问题13。",
+      "text": "13. What does the passage say about most lies?",
+      "translation": "第 13 题：文章关于大多数谎言说了什么？",
       "start": 859.83,
-      "end": 860.73
+      "end": 865.483,
+      "questionNumber": 13
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the passage say about most lies?",
-      "translation": "这段话对大多数谎言怎么说?",
-      "start": 861.98,
-      "end": 865.04
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 14.",
-      "translation": "问题14。",
+      "text": "14. What have many studies uncovered about the average person's lie detection?",
+      "translation": "第 14 题：许多研究揭示了普通人识破谎言的什么情况？",
       "start": 878.67,
-      "end": 879.55
+      "end": 886.142,
+      "questionNumber": 14
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What have many studies uncovered about the average person's lie detection?",
-      "translation": "关于普通人的测谎发现 发现了多少项研究?",
-      "start": 880.44,
-      "end": 885.62
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 15.",
-      "translation": "问题15。",
+      "text": "15. What advice does the new research offer regarding lie detection?",
+      "translation": "第 15 题：新研究就识破谎言提出了什么建议？",
       "start": 899.36,
-      "end": 900.16
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What advice does the new research offer regarding lie detection?",
-      "translation": "新研究在测谎方面提供了哪些建议?",
-      "start": 901.11,
-      "end": 905.69
+      "end": 906.139,
+      "questionNumber": 15
     },
     {
       "speaker": "听力原声",
@@ -1304,42 +1262,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "16.",
-      "translation": "16岁。",
+      "text": "16. What does the speaker say about most American hospitals?",
+      "translation": "第 16 题：说话者关于大多数美国医院说了什么?",
       "start": 1136.76,
-      "end": 1137.32
+      "end": 1142.99,
+      "questionNumber": 16
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the speaker say about most American hospitals?",
-      "translation": "发言人对大多数美国医院怎么说?",
-      "start": 1138.91,
-      "end": 1142.27
+      "text": "17. What does Karen Brudney suggest patients do?",
+      "translation": "第 17 题：Karen Brudney建议病人做什么?",
+      "start": 1156.21,
+      "end": 1161.663,
+      "questionNumber": 17
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Questions 17.",
-      "translation": "17. 问题17。",
-      "start": 1156.11,
-      "end": 1156.89
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What does Karen Brittany suggest patients do?",
-      "translation": "克伦布列塔尼建议病人怎么做?",
-      "start": 1158.03,
-      "end": 1161.41
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 18 What do American doctors expect their patients to be according to Karen Brittany?",
-      "translation": "问题18 美国医生们对病人的预期是什么? 克伦布列塔尼说的?",
+      "text": "18. What do American doctors expect their patients to be, according to Karen Brudney?",
+      "translation": "第 18 题：根据Karen Brudney的说法,美国医生期望他们的病人是什么样的?",
       "start": 1174.68,
-      "end": 1182.66
+      "end": 1182.841,
+      "questionNumber": 18
     },
     {
       "speaker": "听力原声",
@@ -1550,10 +1495,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do we learn about the team the speaker is currently working in?",
-      "translation": "发言者目前正在工作的团队情况如何?",
+      "text": "19. What does the speaker say about a team with vitality?",
+      "translation": "第 19 题：说话者关于一个有活力的团队说了什么?",
+      "start": 1389.29,
+      "end": 1395.671,
+      "questionNumber": 19
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "20. What do the researchers find out about members of a team?",
+      "translation": "第 20 题：研究人员关于团队成员发现了什么?",
+      "start": 1408.07,
+      "end": 1414.782,
+      "questionNumber": 20
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "21. What do we learn about the team the speaker is currently working in?",
+      "translation": "第 21 题：关于说话者目前工作的团队,我们了解到什么?",
       "start": 1430.05,
-      "end": 1434.59
+      "end": 1434.853,
+      "questionNumber": 21
     },
     {
       "speaker": "听力原声",
@@ -1743,26 +1707,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 23 How does confidence help people to be thrifty?",
-      "translation": "问题23. 信心如何帮助人们节俭?",
+      "text": "22. What do experts recommend concerning being thrifty?",
+      "translation": "第 22 题：关于节俭,专家有什么建议?",
+      "start": 1625.57,
+      "end": 1632.428,
+      "questionNumber": 22
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "23. How does confidence help people to be thrifty?",
+      "translation": "第 23 题：自信如何帮助人们保持节俭?",
       "start": 1645.2,
-      "end": 1650.84
+      "end": 1651.092,
+      "questionNumber": 23
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "24 How do millionaires react when they fail in their investment?",
-      "translation": "24个百万富翁在投资失败时 有何反应?",
+      "text": "24. How do millionaires react when they fail in their investment?",
+      "translation": "第 24 题：百万富翁在投资失败时如何应对?",
       "start": 1664.4,
-      "end": 1670.45
+      "end": 1670.911,
+      "questionNumber": 24
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 25 Why does the speaker say millionaires are socially indifferent?",
-      "translation": "问题25 为什么发言人说百万富翁在社会上漠不关心?",
+      "text": "25. Why does the speaker say millionaires are socially indifferent?",
+      "translation": "第 25 题：为什么说话者说百万富翁在社交上漠不关心?",
       "start": 1683.98,
-      "end": 1690.38
+      "end": 1691.008,
+      "questionNumber": 25
     },
     {
       "speaker": "听力原声",
@@ -1776,5 +1752,6 @@
   "translation_sources": [
     "https://english-exam.lazynote.cn/cet6/sections/listening/2022-06-1/",
     "Sams200/opus-mt-en-zh (unmatched sentences only)"
-  ]
+  ],
+  "question_verification": "All 25 published question prompts located in original audio; numbers and prompts share one replay unit."
 }

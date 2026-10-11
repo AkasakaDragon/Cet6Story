@@ -77,26 +77,20 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What happened at one of Australia's largest gold mines?",
-      "translation": "澳大利亚最大的金矿之一发生了什么?",
+      "text": "1. What happened at one of Australia's largest gold mines?",
+      "translation": "第 1 题：澳大利亚最大的金矿之一发生了什么？",
       "start": 116.56,
-      "end": 120.4
+      "end": 120.853,
+      "questionNumber": 1
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 2.",
-      "translation": "问题2",
+      "text": "2. What did the spokesperson say about the incident?",
+      "translation": "第 2 题：发言人对这一事件说了什么？",
       "start": 136.04,
-      "end": 136.92
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What did the spokesperson say about the incident?",
-      "translation": "发言人对事件怎么说?",
-      "start": 137.44,
-      "end": 140.38
+      "end": 140.811,
+      "questionNumber": 2
     },
     {
       "speaker": "听力原声",
@@ -211,8 +205,26 @@
       "text": "The new parents have yet to name the sixth baby but are considering either Lily or Rose.",
       "translation": "这对新父母尚未给第六个婴儿取名,但正在考虑Lily或Rose。",
       "start": 229.92,
-      "end": 265.866,
+      "end": 241.65,
       "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "3. What did the hospital do for the delivery of the babies?",
+      "translation": "第 3 题：医院为婴儿的分娩做了什么?",
+      "start": 241.65,
+      "end": 246.328,
+      "questionNumber": 3
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "4. What did the doctor say about the newborns?",
+      "translation": "第 4 题：医生对新生儿说了什么?",
+      "start": 260.87,
+      "end": 265.674,
+      "questionNumber": 4
     },
     {
       "speaker": "听力原声",
@@ -325,26 +337,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do we learn from the news report about the Spanish island, Palmadore?",
-      "translation": "我们从西班牙岛帕尔马多尔的新闻报道中 学到什么?",
+      "text": "5. What do we learn from the news report about the Spanish island Palmador?",
+      "translation": "第 5 题：从新闻报道中我们了解到关于西班牙岛屿Palmador的什么信息?",
       "start": 377.11,
-      "end": 381.69
+      "end": 382.025,
+      "questionNumber": 5
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 6 What do holiday makers come to Palmadore to enjoy?",
-      "translation": "问题6 节假日来帕尔马多尔享受什么?",
-      "start": 397.19,
-      "end": 402.38
+      "text": "6. What do holidaymakers come to Palmador to enjoy?",
+      "translation": "第 6 题：度假者来Palmador享受什么?",
+      "start": 396.39,
+      "end": 402.82,
+      "questionNumber": 6
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "7 What do estate agents say about Palmadore?",
-      "translation": "7个房地产经纪人对帕尔马多尔有什么看法?",
+      "text": "7. What do estate agents say about Palmador?",
+      "translation": "第 7 题：房地产经纪人对Palmador有何评价?",
       "start": 418.03,
-      "end": 422.67
+      "end": 422.955,
+      "questionNumber": 7
     },
     {
       "speaker": "听力原声",
@@ -675,66 +690,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 8.",
-      "translation": "问题8",
+      "text": "8. What do we learn about the woman from the conversation?",
+      "translation": "第 8 题：从对话中我们了解到关于这位女士的什么信息?",
       "start": 568.41,
-      "end": 569.07
+      "end": 572.969,
+      "questionNumber": 8
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do we learn about the woman from the conversation?",
-      "translation": "我们从谈话中了解到什么?",
-      "start": 569.77,
-      "end": 572.41
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 9.",
-      "translation": "问题9",
+      "text": "9. What is the gym center doing right now?",
+      "translation": "第 9 题：健身中心现在正在做什么?",
       "start": 588.12,
-      "end": 588.98
+      "end": 592.547,
+      "questionNumber": 9
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What is the gym center doing right now?",
-      "translation": "健身中心现在在做什么?",
-      "start": 589.48,
-      "end": 592.28
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 10.",
-      "translation": "问题10。",
+      "text": "10. What does the man say is a pity for the woman?",
+      "translation": "第 10 题：男士说对这位女士来说什么是遗憾的?",
       "start": 607.78,
-      "end": 608.54
+      "end": 612.371,
+      "questionNumber": 10
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the man say is a pity for the woman?",
-      "translation": "男人怎么说 可怜女人?",
-      "start": 609.2,
-      "end": 612.02
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 11.",
-      "translation": "问题11。",
+      "text": "11. Why is the woman unwilling to pay in advance?",
+      "translation": "第 11 题：为什么这位女士不愿意提前付款?",
       "start": 627.47,
-      "end": 628.33
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Why is the woman unwilling to pay in advance?",
-      "translation": "为什么该妇女不愿提前付款?",
-      "start": 629.16,
-      "end": 631.96
+      "end": 632.524,
+      "questionNumber": 11
     },
     {
       "speaker": "听力原声",
@@ -1025,66 +1012,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 12.",
-      "translation": "问题12。",
+      "text": "12. Why are the speakers in China?",
+      "translation": "第 12 题：说话者为什么在中国?",
       "start": 751.04,
-      "end": 751.8
+      "end": 754.754,
+      "questionNumber": 12
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Why are the speakers in China?",
-      "translation": "为什么发言者在中国?",
-      "start": 752.64,
-      "end": 754.34
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 13.",
-      "translation": "问题13。",
+      "text": "13. Where will the man stop over on his way to London?",
+      "translation": "第 13 题：男士在去伦敦的途中将在哪里中转?",
       "start": 770.07,
-      "end": 770.93
+      "end": 775.311,
+      "questionNumber": 13
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Where will the man stop over on his way to London?",
-      "translation": "在去伦敦的路上 那个人会停在哪里?",
-      "start": 771.58,
-      "end": 774.86
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 14.",
-      "translation": "问题14。",
+      "text": "14. What does the man ask the woman to do?",
+      "translation": "第 14 题：男士请女士做什么?",
       "start": 790.56,
-      "end": 791.5
+      "end": 795.038,
+      "questionNumber": 14
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the man ask the woman to do?",
-      "translation": "男人要求女人做什么?",
-      "start": 792.07,
-      "end": 794.71
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 15.",
-      "translation": "问题15。",
+      "text": "15. What did the woman remind the man to do at the end of the conversation?",
+      "translation": "第 15 题：对话结束时女士提醒男士做什么?",
       "start": 810.17,
-      "end": 810.97
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What did the woman remind the man to do at the end of the conversation?",
-      "translation": "女人在谈话结束时提醒男人做什么?",
-      "start": 811.89,
-      "end": 816.09
+      "end": 816.461,
+      "questionNumber": 15
     },
     {
       "speaker": "听力原声",
@@ -1276,7 +1235,34 @@
       "text": "Some have argued that ensuring those rights would limit progress, but this study indicates the opposite.",
       "translation": "一些人认为,确保这些权利会限制进展,但本研究报告指出情况恰恰相反。",
       "start": 967.09,
-      "end": 1026.33
+      "end": 979.78
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "16. What did the researchers of the new study try to determine?",
+      "translation": "第 16 题：这项新研究的研究人员试图确定什么?",
+      "start": 979.78,
+      "end": 985.01,
+      "questionNumber": 16
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "17. What does the passage say about countries lacking in medical resources?",
+      "translation": "第 17 题：关于缺乏医疗资源的国家,文章说了什么?",
+      "start": 1000.36,
+      "end": 1006.749,
+      "questionNumber": 17
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "18. What has often been questioned regarding women's rights?",
+      "translation": "第 18 题：关于妇女权利,什么经常受到质疑?",
+      "start": 1021.08,
+      "end": 1027.073,
+      "questionNumber": 18
     },
     {
       "speaker": "听力原声",
@@ -1393,25 +1379,36 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What is said to be a positive effect of sunshine?",
-      "translation": "据说阳光的积极影响是什么?",
+      "text": "19. What does the passage say about hot sunshine?",
+      "translation": "第 19 题：文章关于炎热的阳光说了什么？",
+      "start": 1149.25,
+      "end": 1154.152,
+      "questionNumber": 19
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "20. What does the passage say is a negative side effect of water loss?",
+      "translation": "第 20 题：文章说水分流失的负面副作用是什么？",
+      "start": 1168.89,
+      "end": 1175.384,
+      "questionNumber": 20
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "21. What is said to be a positive effect of sunshine?",
+      "translation": "第 21 题：阳光的积极作用是什么？",
       "start": 1192.05,
-      "end": 1194.99
+      "end": 1195.529,
+      "questionNumber": 21
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "3.",
-      "translation": "3 个",
-      "start": 1210.63,
-      "end": 1210.85
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Left-handed people can find it inconvenient to do certain things, writing in a notebook, for example.",
+      "text": "3. Left-handed people can find it inconvenient to do certain things, writing in a notebook, for example.",
       "translation": "左撇子会发现做某些事情很不方便, 例如写在笔记本上。",
-      "start": 1212.8,
+      "start": 1210.63,
       "end": 1213.0
     },
     {
@@ -1596,34 +1593,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 22 What does the passage say about left-handed people?",
-      "translation": "问题22 左撇子的段落怎么说?",
+      "text": "22. What does the passage say about left-handed people?",
+      "translation": "第 22 题：文章关于左撇子说了什么?",
       "start": 1326.38,
-      "end": 1331.27
+      "end": 1331.489,
+      "questionNumber": 22
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 23 What is said to be special about left-handed people?",
-      "translation": "问题23 左撇子有什么特别之处?",
+      "text": "23. What is said to be special about left-handed people?",
+      "translation": "第 23 题：据说左撇子有什么特别之处?",
       "start": 1346.47,
-      "end": 1351.51
+      "end": 1351.649,
+      "questionNumber": 23
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 24 Why are left-handed people better at solving more difficult problems?",
-      "translation": "问题24:为什么左撇子更擅长解决更困难的问题?",
+      "text": "24. Why are left-handed people better at solving more difficult problems?",
+      "translation": "第 24 题：为什么左撇子更擅长解决更困难的问题?",
       "start": 1366.59,
-      "end": 1372.99
+      "end": 1373.301,
+      "questionNumber": 24
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 25 What should parents do about a left-handed child?",
-      "translation": "问题25:父母对左撇子怎么办?",
+      "text": "25. What should parents do about a left-handed child?",
+      "translation": "第 25 题：父母应该如何对待左撇子孩子?",
       "start": 1388.43,
-      "end": 1393.15
+      "end": 1393.311,
+      "questionNumber": 25
     },
     {
       "speaker": "听力原声",
@@ -1637,5 +1638,6 @@
   "translation_sources": [
     "https://english-exam.lazynote.cn/cet4/sections/listening/2022-12-1/",
     "Sams200/opus-mt-en-zh (unmatched sentences only)"
-  ]
+  ],
+  "question_verification": "All 25 published question prompts located in original audio; numbers and prompts share one replay unit."
 }

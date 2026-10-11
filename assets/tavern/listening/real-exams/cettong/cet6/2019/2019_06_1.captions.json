@@ -337,66 +337,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "1.",
-      "translation": "1. 国家",
+      "text": "1. What did Cathy and Brenda finish doing last week?",
+      "translation": "第 1 题：Cathy和Brenda上周完成了什么?",
       "start": 163.1,
-      "end": 163.5
+      "end": 167.766,
+      "questionNumber": 1
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What did Kathy and Brenda finish doing last week?",
-      "translation": "凯西和布伦达上周做了什么?",
-      "start": 164.4,
-      "end": 167.52
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "2.",
-      "translation": "2. 目标",
+      "text": "2. What is John going to do for Brenda?",
+      "translation": "第 2 题：John打算为Brenda做什么?",
       "start": 180.85,
-      "end": 181.47
+      "end": 184.784,
+      "questionNumber": 2
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What is John going to do for Brenda?",
-      "translation": "约翰会为布伦达做什么?",
-      "start": 182.1,
-      "end": 184.48
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 3.",
-      "translation": "问题3",
+      "text": "3. How did Cathy feel when asked to bake the cake?",
+      "translation": "第 3 题：当被要求烤制蛋糕时,Cathy感觉如何?",
       "start": 197.55,
-      "end": 198.63
+      "end": 202.897,
+      "questionNumber": 3
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "How did Kathy feel when asked to bake the cake?",
-      "translation": "凯西要烤蛋糕的时候感觉如何?",
-      "start": 199.52,
-      "end": 202.62
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 4.",
-      "translation": "问题4",
+      "text": "4. What does the man suggest the woman do?",
+      "translation": "第 4 题：男士建议女士做什么?",
       "start": 215.61,
-      "end": 216.57
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What does the man suggest the woman do?",
-      "translation": "男人建议女人怎么做?",
-      "start": 217.11,
-      "end": 219.77
+      "end": 219.962,
+      "questionNumber": 4
     },
     {
       "speaker": "听力原声",
@@ -604,74 +576,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 5.",
-      "translation": "问题5",
+      "text": "5. What does the man say about college students as compared with high schoolers?",
+      "translation": "第 5 题：与高中生相比，这位男士对大学生有何看法?",
       "start": 369.97,
-      "end": 370.85
+      "end": 376.621,
+      "questionNumber": 5
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the man say about college students as compared with high schoolers?",
-      "translation": "与高中生相比 男生对大学生怎么说?",
-      "start": 371.86,
-      "end": 376.36
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 6.",
-      "translation": "问题6",
+      "text": "6. What are college students expected to do according to the man?",
+      "translation": "第 6 题：根据这位男士的说法，大学生应该做什么?",
       "start": 389.63,
-      "end": 390.47
+      "end": 395.365,
+      "questionNumber": 6
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What are college students expected to do according to the man?",
-      "translation": "男生认为大学生应该做什么?",
-      "start": 391.07,
-      "end": 395.17
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 7.",
-      "translation": "问题7",
+      "text": "7. What kind of friends does the man suggest the woman make as a college student?",
+      "translation": "第 7 题：这位男士建议这位女士作为大学生应该结交什么样的朋友?",
       "start": 408.53,
-      "end": 409.35
+      "end": 414.719,
+      "questionNumber": 7
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What kind of friends does the man suggest the woman make as a college student?",
-      "translation": "男人建议女人当大学生 交什么样的朋友?",
-      "start": 410.01,
-      "end": 414.51
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 8.",
-      "translation": "问题8",
+      "text": "8. What kind of club activities should college students engage in according to the man?",
+      "translation": "第 8 题：根据这位男士的说法，大学生应该参加什么样的社团活动?",
       "start": 427.94,
-      "end": 428.74
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What kind of club activities should college students engage in?",
-      "translation": "大学生应参加什么样的俱乐部活动?",
-      "start": 429.39,
-      "end": 433.75
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "according to the man.",
-      "translation": "根据男人。",
-      "start": 433.93,
-      "end": 435.01
+      "end": 435.266,
+      "questionNumber": 8
     },
     {
       "speaker": "听力原声",
@@ -884,10 +820,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What is said to be Killy's biggest honour in his skiing",
-      "translation": "据说是Killy滑雪中 最大的荣誉",
+      "text": "9. What does the speaker say about most successful people?",
+      "translation": "第 9 题：说话者对大多数成功人士有何评价?",
+      "start": 612.98,
+      "end": 618.355,
+      "questionNumber": 9
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "10. What does the speaker say about Killy's experiments?",
+      "translation": "第 10 题：说话者对Killy的实验有何评价?",
+      "start": 631.4,
+      "end": 636.375,
+      "questionNumber": 10
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "11. What is said to be Killy's biggest honor in his skiing career?",
+      "translation": "第 11 题：Killy滑雪生涯中最大的荣誉是什么?",
       "start": 650.83,
-      "end": 654.19
+      "end": 655.036,
+      "questionNumber": 11
     },
     {
       "speaker": "听力原声",
@@ -1070,42 +1025,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 12.",
-      "translation": "问题12。",
+      "text": "12. What happens to guinea pigs, when blood samples of angry people are injected into them?",
+      "translation": "第 12 题：当愤怒者的血液样本被注射到豚鼠体内时,豚鼠会发生什么?",
       "start": 797.01,
-      "end": 797.83
+      "end": 803.913,
+      "questionNumber": 12
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What happens to guinea pigs when blood samples of angry people are injected into them?",
-      "translation": "当愤怒者的血样被注入它们时, 鼠类会怎样呢?",
-      "start": 798.41,
-      "end": 803.81
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 13 What does the speaker say about every thought you have?",
-      "translation": "问题13 发言者对你的所有想法怎么说?",
+      "text": "13. What does the speaker say about every thought you have?",
+      "translation": "第 13 题：说话者关于你的每一个想法说了什么?",
       "start": 816.82,
-      "end": 821.72
+      "end": 821.909,
+      "questionNumber": 13
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 14 What does the speaker say is impossible?",
-      "translation": "问题14 发言者说什么是不可能的?",
+      "text": "14. What does the speaker say is impossible?",
+      "translation": "第 14 题：说话者说什么是不可能的？",
       "start": 834.85,
-      "end": 838.89
+      "end": 839.315,
+      "questionNumber": 14
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 15 What does the passage say about our mind and body?",
-      "translation": "问题15 段落对我们的思维和身体有什么看法?",
+      "text": "15. What does the passage say about our mind and body?",
+      "translation": "第 15 题：这段话关于我们的思维和身体说了什么?",
       "start": 852.34,
-      "end": 856.86
+      "end": 857.112,
+      "questionNumber": 15
     },
     {
       "speaker": "听力原声",
@@ -1347,18 +1298,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 18.",
-      "translation": "问题18。",
-      "start": 1116.59,
-      "end": 1117.67
+      "text": "16. What does the speaker say about beginners and expert pianists?",
+      "translation": "第 16 题：说话者关于初学者和专业钢琴家说了什么?",
+      "start": 1078.6,
+      "end": 1084.377,
+      "questionNumber": 16
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do we learn about the new study published in an online video?",
-      "translation": "我们从网上视频上公布的新研究中了解到什么?",
-      "start": 1118.85,
-      "end": 1122.85
+      "text": "17. What do smart basketball players do according to the speaker?",
+      "translation": "第 17 题：根据说话者所说,聪明的篮球运动员会做什么?",
+      "start": 1096.48,
+      "end": 1103.861,
+      "questionNumber": 17
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "18. What do we learn about the new study published in an online video?",
+      "translation": "第 18 题：关于发表在在线视频中的新研究,我们了解到什么?",
+      "start": 1116.59,
+      "end": 1123.091,
+      "questionNumber": 18
     },
     {
       "speaker": "听力原声",
@@ -1558,50 +1520,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "19.",
-      "translation": "19. 经济",
-      "start": 1311.82,
-      "end": 1312.3
+      "text": "19. What overwhelms the speaker when she buys her summer outfits each year?",
+      "translation": "第 19 题：说话者每年购买夏季服装时,什么让她感到不知所措?",
+      "start": 1311.18,
+      "end": 1318.137,
+      "questionNumber": 19
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "overwhelms the speaker when she buys her summer outfits each year?",
-      "translation": "演讲者每年买暑期服装的时候 都压倒了演讲者?",
-      "start": 1313.73,
-      "end": 1317.91
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "20.",
-      "translation": "20. 20个",
+      "text": "20. What does the speaker think of girls wrapping their legs up with slimming tape?",
+      "translation": "第 20 题：说话者如何看待女孩们用瘦身胶带缠绕腿部?",
       "start": 1331.29,
-      "end": 1331.95
+      "end": 1337.274,
+      "questionNumber": 20
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the speaker think of girls wrapping their legs up with slimming tape?",
-      "translation": "演讲者对女孩们用胶带把腿包起来有什么看法?",
-      "start": 1332.88,
-      "end": 1337.12
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 21.",
-      "translation": "问题21",
+      "text": "21. What does the speaker think affects people's interpretation of beauty?",
+      "translation": "第 21 题：说话者认为什么影响了人们对美的诠释?",
       "start": 1350.32,
-      "end": 1351.52
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What does the speaker think affects people's interpretation of beauty?",
-      "translation": "发言者认为什么影响人们对美的诠释?",
-      "start": 1352.52,
-      "end": 1356.52
+      "end": 1356.803,
+      "questionNumber": 21
     },
     {
       "speaker": "听力原声",
@@ -1815,42 +1756,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "22.",
-      "translation": "22. 妇女 22",
+      "text": "22. What does the speaker mainly talk about?",
+      "translation": "第 22 题：说话者主要谈论什么?",
       "start": 1568.96,
-      "end": 1569.86
+      "end": 1573.722,
+      "questionNumber": 22
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the speaker mainly talk about?",
-      "translation": "发言者主要谈什么?",
-      "start": 1570.65,
-      "end": 1573.43
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 23 What had probably caused humans to lose most of their hair one and a half million years ago?",
-      "translation": "问题23 是什么原因可能使人类在150万年前 失去大部分头发?",
+      "text": "23. What had probably caused humans to lose most of their hair one and a half million years ago?",
+      "translation": "第 23 题：一百五十万年前可能是什么导致人类失去了大部分毛发?",
       "start": 1586.58,
-      "end": 1595.56
+      "end": 1595.709,
+      "questionNumber": 23
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 24 What does the speaker say protected early humans from the Sun?",
-      "translation": "问题24 发言者怎么说 保护早期人类不受太阳伤害?",
+      "text": "24. What does the speaker say protected early humans from the sun?",
+      "translation": "第 24 题：说话者说什么保护了早期人类免受阳光伤害?",
       "start": 1608.7,
-      "end": 1615.43
+      "end": 1615.666,
+      "questionNumber": 24
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 25 What happened after humans migrated from Africa to other parts of the world?",
-      "translation": "问题25 人类从非洲迁移到世界其他地方之后发生了什么?",
+      "text": "25. What happened after humans migrated from Africa to other parts of the world?",
+      "translation": "第 25 题：人类从非洲迁徙到世界其他地区后发生了什么?",
       "start": 1628.64,
-      "end": 1636.54
+      "end": 1636.818,
+      "questionNumber": 25
     },
     {
       "speaker": "听力原声",
@@ -1864,5 +1801,6 @@
   "translation_sources": [
     "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-1/",
     "Sams200/opus-mt-en-zh (unmatched sentences only)"
-  ]
+  ],
+  "question_verification": "All 25 published question prompts located in original audio; numbers and prompts share one replay unit."
 }

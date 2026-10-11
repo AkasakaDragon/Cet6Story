@@ -319,50 +319,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "1.",
-      "translation": "1. 国家",
+      "text": "1. What has the woman been thinking of doing for this summer?",
+      "translation": "第 1 题：这位女士一直在考虑今年夏天做什么?",
       "start": 158.95,
-      "end": 159.31
+      "end": 162.863,
+      "questionNumber": 1
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What has the woman been thinking of doing for this summer?",
-      "translation": "这个女人今年夏天想做什么?",
-      "start": 159.95,
-      "end": 162.69
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 2.",
-      "translation": "问题2",
+      "text": "2. What do we learn about the man's grandfather from the conversation?",
+      "translation": "第 2 题：从对话中我们了解到这位男士的祖父有什么情况?",
       "start": 176.12,
-      "end": 176.78
+      "end": 181.294,
+      "questionNumber": 2
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do we learn about the man's grandfather from the conversation?",
-      "translation": "我们从谈话中了解到什么 关于他祖父的事?",
-      "start": 177.44,
-      "end": 180.8
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 3.",
-      "translation": "问题3",
+      "text": "3. What can many camper vans do nowadays according to the woman?",
+      "translation": "第 3 题：根据这位女士的说法,现在许多露营车能做什么?",
       "start": 194.59,
-      "end": 195.27
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What can many campervans do nowadays according to the woman?",
-      "translation": "女人们说,现在许多野营车能做什么?",
-      "start": 195.69,
-      "end": 199.67
+      "end": 199.868,
+      "questionNumber": 3
     },
     {
       "speaker": "听力原声",
@@ -375,10 +354,11 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What idea does the woman find attractive?",
-      "translation": "那个女人觉得什么吸引人?",
+      "text": "4. What idea does the woman find attractive?",
+      "translation": "第 4 题：这位女士觉得什么想法有吸引力?",
       "start": 214.33,
-      "end": 216.67
+      "end": 217.095,
+      "questionNumber": 4
     },
     {
       "speaker": "听力原声",
@@ -728,66 +708,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 5.",
-      "translation": "问题5",
+      "text": "5. What do we learn about the woman from the man's description?",
+      "translation": "第 5 题：从男士的描述中我们对这位女士了解到什么?",
       "start": 339.19,
-      "end": 340.25
+      "end": 344.059,
+      "questionNumber": 5
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do we learn about the woman from the man's description?",
-      "translation": "我们从男人的描述中 了解到什么?",
-      "start": 340.83,
-      "end": 343.51
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 6.",
-      "translation": "问题6",
+      "text": "6. What does the woman say she's experiencing at the moment?",
+      "translation": "第 6 题：女士说她目前正在经历什么?",
       "start": 357.24,
-      "end": 357.96
+      "end": 361.926,
+      "questionNumber": 6
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the woman say she's experiencing at the moment?",
-      "translation": "那个女人怎么说她现在经历什么?",
-      "start": 358.5,
-      "end": 361.64
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 7.",
-      "translation": "问题7",
+      "text": "7. What does the man say makes his job far easier?",
+      "translation": "第 7 题：男士说什么使他的工作轻松得多?",
       "start": 375.1,
-      "end": 375.88
+      "end": 379.854,
+      "questionNumber": 7
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the man say makes his job far easier?",
-      "translation": "他说什么能让他的工作容易得多?",
-      "start": 376.34,
-      "end": 379.5
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "8.",
-      "translation": "8. 预 算",
+      "text": "8. What agreement have the speakers reached by the end of the conversation?",
+      "translation": "第 8 题：对话结束时双方达成了什么协议?",
       "start": 393.15,
-      "end": 393.75
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What agreement have the speakers reached by the end of the conversation?",
-      "translation": "在对话结束时,发言者达成了什么协议?",
-      "start": 394.19,
-      "end": 397.85
+      "end": 398.366,
+      "questionNumber": 8
     },
     {
       "speaker": "听力原声",
@@ -984,6 +936,33 @@
     {
       "speaker": "听力原声",
       "actor": "",
+      "text": "9. What does research suggest about a higher level of education?",
+      "translation": "第 9 题：研究表明较高的教育水平会带来什么?",
+      "start": 563.71,
+      "end": 568.764,
+      "questionNumber": 9
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "10. What do we learn from the finding of the new research?",
+      "translation": "第 10 题：我们从这项新研究的发现中了解到什么?",
+      "start": 581.47,
+      "end": 586.466,
+      "questionNumber": 10
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "11. What does the passage say about the men in the sample of the new research?",
+      "translation": "第 11 题：文章关于新研究样本中的男性说了什么?",
+      "start": 599.37,
+      "end": 605.467,
+      "questionNumber": 11
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
       "text": "Climate scientists predict that many parts of the world will be increasingly prone to floods.",
       "translation": "气候科学家预测，世界许多地区将越来越容易发生洪水。",
       "start": 620.24,
@@ -1127,66 +1106,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 12.",
-      "translation": "问题12。",
+      "text": "12. What is said to be a key challenge for cities prone to floods?",
+      "translation": "第 12 题：据说对于易发洪水的城市而言，一个关键挑战是什么?",
       "start": 733.14,
-      "end": 734.26
+      "end": 739.037,
+      "questionNumber": 12
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What is said to be a key challenge for cities prone to floods?",
-      "translation": "哪些是易发生洪水的城市面临的主要挑战?",
-      "start": 734.94,
-      "end": 738.6
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "13.",
-      "translation": "13 号",
+      "text": "13. For what purpose does Derek Loftis collect the data of ordinary citizens during high tides?",
+      "translation": "第 13 题：Derek Loftis在大潮期间收集普通市民的数据是出于什么目的?",
       "start": 752.47,
-      "end": 753.11
+      "end": 760.396,
+      "questionNumber": 13
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "For what purpose does Derek Loftus collect the data of ordinary citizens during high tides?",
-      "translation": "Derek Loftus在潮汐期间收集普通公民的数据是为了什么目的?",
-      "start": 753.79,
-      "end": 760.03
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 14.",
-      "translation": "问题14。",
+      "text": "14. What does the passage say is Derek Loftis's mission?",
+      "translation": "第 14 题：文章说Derek Loftis的使命是什么?",
       "start": 773.77,
-      "end": 774.69
+      "end": 778.986,
+      "questionNumber": 14
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the passage say is Derek Loftus's mission?",
-      "translation": "通道上写什么 德里克・洛夫特斯的使命?",
-      "start": 775.19,
-      "end": 778.47
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 15.",
-      "translation": "问题15。",
+      "text": "15. What did Loftis and his colleagues do to obtain data about water height and movement?",
+      "translation": "第 15 题：Loftis和他的同事们做了什么来获取有关水位高度和水流运动的数据?",
       "start": 792.12,
-      "end": 793.14
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What did Loftus and his colleagues do to obtain data about water hype and movement?",
-      "translation": "Loftus及其同事为获得有关水的旋律和移动的数据做了哪些工作?",
-      "start": 793.66,
-      "end": 799.0
+      "end": 799.472,
+      "questionNumber": 15
     },
     {
       "speaker": "听力原声",
@@ -1391,50 +1342,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 16.",
-      "translation": "问题16。",
+      "text": "16. What does the speaker say has become something of a ritual?",
+      "translation": "第 16 题：说话者说什么已经成为一种惯例?",
       "start": 1006.67,
-      "end": 1007.73
+      "end": 1011.989,
+      "questionNumber": 16
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the speaker say has become something of a ritual?",
-      "translation": "发言者说什么已成为一种仪式?",
-      "start": 1008.43,
-      "end": 1011.71
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "17.",
-      "translation": "17岁",
+      "text": "17. What did the researchers of a recent working paper consider first?",
+      "translation": "第 17 题：最近一篇工作论文的研究人员首先考虑了什么?",
       "start": 1025.74,
-      "end": 1026.48
+      "end": 1031.386,
+      "questionNumber": 17
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What did the researchers of a recent working paper consider first?",
-      "translation": "最近一份工作文件的研究人员首先审议了什么?",
-      "start": 1027.22,
-      "end": 1031.08
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 18.",
-      "translation": "问题18。",
+      "text": "18. What did the recent paper identify as a new potential explanation of the problem concerning men's employment?",
+      "translation": "第 18 题：最近的论文指出了关于男性就业问题的哪个新的潜在解释?",
       "start": 1044.84,
-      "end": 1045.58
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What did the recent paper identify as a new potential explanation of the problem concerning men's employment?",
-      "translation": "最近的文件对男子就业问题提出了什么新的潜在解释?",
-      "start": 1046.42,
-      "end": 1053.3
+      "end": 1053.698,
+      "questionNumber": 18
     },
     {
       "speaker": "听力原声",
@@ -1644,67 +1574,37 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "19.",
-      "translation": "19. 经济",
+      "text": "19. What has a market research team found in its latest fashion and sustainability report?",
+      "translation": "第 19 题：一个市场研究团队在其最新的时尚与可持续性报告中发现了什么?",
       "start": 1238.85,
-      "end": 1239.55
+      "end": 1246.362,
+      "questionNumber": 19
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "has a market research team found in its latest fashion and sustainability report?",
-      "translation": "市场研究小组在最新的时尚和可持续性报告中 发现了吗?",
-      "start": 1240.55,
-      "end": 1245.91
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "20.",
-      "translation": "20. 20个",
+      "text": "20. What have some world-renowned fashion designers done for some time?",
+      "translation": "第 20 题：一些世界知名的时装设计师一段时间以来做了什么?",
       "start": 1259.82,
-      "end": 1260.46
+      "end": 1265.411,
+      "questionNumber": 20
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What have some world-renowned fashion designers done for some time?",
-      "translation": "一些世界知名的时尚设计师 做了一段时间吗?",
-      "start": 1261.0,
-      "end": 1265.1
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "21.",
-      "translation": "21 个",
+      "text": "21. What does the speaker say is unclear concerning vegan products?",
+      "translation": "第 21 题：说话者说关于纯素产品有什么是不明确的?",
       "start": 1278.92,
-      "end": 1279.64
+      "end": 1284.819,
+      "questionNumber": 21
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the speaker say is unclear concerning vegan products?",
-      "translation": "发言者说关于素食产品有什么不清楚之处?",
-      "start": 1280.32,
-      "end": 1284.24
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "3.",
-      "translation": "3 个",
-      "start": 1298.34,
-      "end": 1298.82
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "By the end of 2016, anyone who had been paying even passing attention to the news headlines was highly likely to conclude that everything was terrible and that the world was going to hell.",
+      "text": "3. By the end of 2016, anyone who had been paying even passing attention to the news headlines was highly likely to conclude that everything was terrible and that the world was going to hell.",
       "translation": "到2016年底，任何哪怕只是偶尔关注新闻头条的人，都极有可能得出这样的结论：一切都糟透了，世界正走向毁灭。",
-      "start": 1300.08,
-      "end": 1313.14,
-      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2023-12-2/"
+      "start": 1298.34,
+      "end": 1313.14
     },
     {
       "speaker": "听力原声",
@@ -1925,18 +1825,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does our prevailing mood of despair indicate?",
-      "translation": "我们普遍存在的绝望情绪意味着什么?",
-      "start": 1525.48,
-      "end": 1528.58
+      "text": "22. What is one of the facts stated by the speaker?",
+      "translation": "第 22 题：说话者陈述的事实之一是什么?",
+      "start": 1484.54,
+      "end": 1490.011,
+      "questionNumber": 22
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 25 What was a very good thing in our evolutionary past?",
-      "translation": "问题25 我们进化的过去有什么好东西?",
+      "text": "23. What do we learn about most British and French people in a 2015 survey for YouGov?",
+      "translation": "第 23 题：关于2015年YouGov调查中的大多数英国人和法国人,我们了解到什么?",
+      "start": 1502.7,
+      "end": 1510.885,
+      "questionNumber": 23
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "24. What does our prevailing mood of despair indicate?",
+      "translation": "第 24 题：我们普遍存在的绝望情绪表明了什么?",
+      "start": 1525.48,
+      "end": 1528.856,
+      "questionNumber": 24
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "25. What was a very good thing in our evolutionary past?",
+      "translation": "第 25 题：在我们的进化历史中什么是非常好的事情?",
       "start": 1542.03,
-      "end": 1547.25
+      "end": 1547.53,
+      "questionNumber": 25
     },
     {
       "speaker": "听力原声",
@@ -1950,5 +1870,6 @@
   "translation_sources": [
     "https://english-exam.lazynote.cn/cet6/sections/listening/2023-12-2/",
     "Sams200/opus-mt-en-zh (unmatched sentences only)"
-  ]
+  ],
+  "question_verification": "All 25 published question prompts located in original audio; numbers and prompts share one replay unit."
 }

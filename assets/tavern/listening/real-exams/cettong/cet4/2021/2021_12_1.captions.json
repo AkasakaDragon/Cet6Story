@@ -116,10 +116,20 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What did the spokesperson for a United Airlines say they would do after the incident?",
-      "translation": "联合航空公司发言人说事件发生后他们会怎么做?",
+      "text": "1. What does the news report say about United Airlines?",
+      "translation": "第 1 题：新闻报道关于美国联合航空公司说了什么?",
+      "start": 130.9,
+      "end": 134.838,
+      "questionNumber": 1
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "2. What did the spokesperson for United Airlines say they would do after the incident?",
+      "translation": "第 2 题：美国联合航空公司的发言人表示事件发生后他们会做什么?",
       "start": 151.26,
-      "end": 156.6
+      "end": 156.99,
+      "questionNumber": 2
     },
     {
       "speaker": "听力原声",
@@ -255,10 +265,11 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question three, what do we learn about the mother elephant's cember?",
-      "translation": "问题三,我们该如何了解大象妈妈的吊灯?",
-      "start": 241.88,
-      "end": 246.46
+      "text": "3. What do we learn about the mother elephant Semba?",
+      "translation": "第 3 题：关于母象Semba我们了解到什么?",
+      "start": 243.02,
+      "end": 246.647,
+      "questionNumber": 3
     },
     {
       "speaker": "听力原声",
@@ -271,10 +282,11 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the report say about the birth of the new baby elephant?",
-      "translation": "报告对新生大象的出生有何看法?",
+      "text": "4. What does the report say about the birth of the new baby elephant?",
+      "translation": "第 4 题：报道中关于新生小象的出生说了什么?",
       "start": 263.15,
-      "end": 267.23
+      "end": 267.624,
+      "questionNumber": 4
     },
     {
       "speaker": "听力原声",
@@ -389,8 +401,35 @@
       "text": "It was from 1855 and worth as much as $2,000.",
       "translation": "它来自1855年,价值高达2000美元。",
       "start": 345.26,
-      "end": 400.933,
+      "end": 356.94,
       "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "5. What do we learn about the restaurant?",
+      "translation": "第 5 题：关于这家餐厅我们了解到什么?",
+      "start": 356.94,
+      "end": 360.856,
+      "questionNumber": 5
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "6. What did the restaurant manager decide to do recently?",
+      "translation": "第 6 题：这家餐厅的经理最近决定做什么?",
+      "start": 377.36,
+      "end": 380.899,
+      "questionNumber": 6
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "7. What did the waitress do about the recovered ring?",
+      "translation": "第 7 题：女服务员对找回的戒指做了什么?",
+      "start": 396.19,
+      "end": 400.782,
+      "questionNumber": 7
     },
     {
       "speaker": "听力原声",
@@ -672,66 +711,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "8.",
-      "translation": "8. 预 算",
+      "text": "8. What does the woman find unbelievable?",
+      "translation": "第 8 题：女士认为什么难以置信？",
       "start": 567.93,
-      "end": 568.33
+      "end": 571.503,
+      "questionNumber": 8
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the woman find unbelievable?",
-      "translation": "那女人觉得什么不可思议?",
-      "start": 569.13,
-      "end": 570.97
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "9.",
-      "translation": "9. 国家",
+      "text": "9. What does the woman say has caused the shrinking of ducks' habitats in Australia?",
+      "translation": "第 9 题：女士说是什么导致了澳大利亚鸭子栖息地的缩小？",
       "start": 587.1,
-      "end": 587.94
+      "end": 593.944,
+      "questionNumber": 9
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the woman say has caused the shrinking of ducks' habitats in Australia?",
-      "translation": "为何澳洲鸭栖息地萎缩?",
-      "start": 588.4,
-      "end": 593.52
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "10.",
-      "translation": "10 个",
+      "text": "10. Why is there no commercial farming of ducks and geese in Western countries?",
+      "translation": "第 10 题：为什么西方国家没有鸭子和鹅的商业化养殖？",
       "start": 609.2,
-      "end": 609.88
+      "end": 615.466,
+      "questionNumber": 10
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Why is there no commercial farming of ducks and geese in western countries?",
-      "translation": "为什么西方国家没有鸭子和鹅的商业耕作?",
-      "start": 610.7,
-      "end": 615.04
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "11.",
-      "translation": "11. 十一号",
+      "text": "11. What does the woman say about farmers in her grandfather's time?",
+      "translation": "第 11 题：女士对她祖父那个时代的农民说了什么？",
       "start": 630.91,
-      "end": 631.51
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What does the woman say about farmers in her grandfather's time?",
-      "translation": "女人在外公时代对农夫怎么说?",
-      "start": 632.23,
-      "end": 635.85
+      "end": 636.166,
+      "questionNumber": 11
     },
     {
       "speaker": "听力原声",
@@ -1036,66 +1047,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 12.",
-      "translation": "问题12。",
+      "text": "12. What is the woman planning to do?",
+      "translation": "第 12 题：这位女士计划做什么?",
       "start": 772.95,
-      "end": 773.69
+      "end": 776.415,
+      "questionNumber": 12
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "is the woman planning to do?",
-      "translation": "女人打算这么做吗?",
-      "start": 774.43,
-      "end": 776.19
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 13.",
-      "translation": "问题13。",
+      "text": "13. What is the woman's chief concern?",
+      "translation": "第 13 题：这位女士最关心的是什么?",
       "start": 791.43,
-      "end": 792.37
+      "end": 795.422,
+      "questionNumber": 13
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What is the woman's chief concern?",
-      "translation": "妇女的主要关切是什么?",
-      "start": 793.09,
-      "end": 794.95
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 14.",
-      "translation": "问题14。",
+      "text": "14. What does the woman have to do while the paint job is being done?",
+      "translation": "第 14 题：在粉刷工作进行期间,这位女士必须做什么?",
       "start": 810.4,
-      "end": 811.52
+      "end": 816.204,
+      "questionNumber": 14
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the woman have to do while the paint job is being done?",
-      "translation": "在油漆工作完成时,该妇女必须做什么?",
-      "start": 811.98,
-      "end": 815.94
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 15.",
-      "translation": "问题15。",
+      "text": "15. What has the woman come to realize at the end of the conversation?",
+      "translation": "第 15 题：在对话结束时,这位女士意识到了什么?",
       "start": 831.36,
-      "end": 832.36
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What has the woman come to realize at the end of the conversation?",
-      "translation": "谈话结束时,这个女人又能意识到什么?",
-      "start": 832.8,
-      "end": 836.9
+      "end": 837.27,
+      "questionNumber": 15
     },
     {
       "speaker": "听力原声",
@@ -1237,51 +1220,37 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 17.",
-      "translation": "问题17。",
+      "text": "16. What is the main aim of homework for primary school kids?",
+      "translation": "第 16 题：小学生家庭作业的主要目的是什么?",
+      "start": 991.76,
+      "end": 998.131,
+      "questionNumber": 16
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "17. What does the passage suggest parents do to help their children?",
+      "translation": "第 17 题：文章建议家长做什么来帮助孩子?",
       "start": 1012.91,
-      "end": 1013.93
+      "end": 1018.582,
+      "questionNumber": 17
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the passage suggest parents do to help their children?",
-      "translation": "这条路段表明父母为帮助子女做了哪些工作?",
-      "start": 1014.65,
-      "end": 1018.33
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 18.",
-      "translation": "问题18。",
+      "text": "18. What should children do to deal with multiple assignments?",
+      "translation": "第 18 题：孩子应该如何处理多项作业?",
       "start": 1033.49,
-      "end": 1034.41
+      "end": 1039.314,
+      "questionNumber": 18
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What should children do to deal with multiple assignments?",
-      "translation": "儿童应如何处理多重任务?",
-      "start": 1035.21,
-      "end": 1038.79
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "2.",
-      "translation": "2. 目标",
-      "start": 1054.62,
-      "end": 1055.18
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Workers at Mexican oil company will receive a healthy incentive of almost $300 a year if they meet certain body weight standards.",
+      "text": "2. Workers at Mexican oil company will receive a healthy incentive of almost $300 a year if they meet certain body weight standards.",
       "translation": "墨西哥石油公司的员工如果达到特定体重标准，将获得每年近300美元的丰厚奖励。",
-      "start": 1055.88,
-      "end": 1065.32,
-      "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-1/"
+      "start": 1054.62,
+      "end": 1065.32
     },
     {
       "speaker": "听力原声",
@@ -1388,8 +1357,35 @@
       "text": "These are much better and much more productive ways for companies to move forward on their employees' wellbeing.",
       "translation": "这些都是公司在员工福祉方面前进的更好、更有效的方式。",
       "start": 1148.74,
-      "end": 1208.966,
+      "end": 1161.33,
       "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "19. Who will qualify for the bonus in Mexican oil company?",
+      "translation": "第 19 题：谁将有资格获得墨西哥石油公司的奖金?",
+      "start": 1161.33,
+      "end": 1166.335,
+      "questionNumber": 19
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "20. What do critics think of Mexican oil company's bonus policy?",
+      "translation": "第 20 题：批评者如何看待墨西哥石油公司的奖金政策?",
+      "start": 1180.84,
+      "end": 1187.449,
+      "questionNumber": 20
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "21. What do experts propose companies do about workers' wellbeing?",
+      "translation": "第 21 题：专家建议公司如何对待员工福祉?",
+      "start": 1201.96,
+      "end": 1208.789,
+      "questionNumber": 21
     },
     {
       "speaker": "听力原声",
@@ -1511,42 +1507,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do studies in recent years show about left-handed children?",
-      "translation": "近年来的研究显示,左撇子儿童的情况如何?",
+      "text": "22. Why are some people criticizing the British government?",
+      "translation": "第 22 题：为什么有些人批评英国政府?",
+      "start": 1328.94,
+      "end": 1334.082,
+      "questionNumber": 22
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "23. What do studies in recent years show about left-handed children?",
+      "translation": "第 23 题：近年来的研究显示左撇子儿童有什么特点?",
       "start": 1351.04,
-      "end": 1355.3
+      "end": 1355.515,
+      "questionNumber": 23
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 24.",
-      "translation": "问题24。",
+      "text": "24. What do the campaigners demand the department of education do?",
+      "translation": "第 24 题：运动人士要求教育部门做什么?",
       "start": 1370.49,
-      "end": 1371.55
+      "end": 1376.7,
+      "questionNumber": 24
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do the campaigners demand the Department of Education do?",
-      "translation": "运动者要求教育部做什么?",
-      "start": 1372.49,
-      "end": 1376.41
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 25.",
-      "translation": "问题25。",
+      "text": "25. What do the campaigners want to know about left-handed prisoners?",
+      "translation": "第 25 题：运动人士想了解左撇子囚犯的什么情况?",
       "start": 1391.87,
-      "end": 1393.01
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What do the campaigners want to know about left-handed prisoners?",
-      "translation": "竞选者们想知道 左撇子囚犯的情况吗?",
-      "start": 1393.81,
-      "end": 1397.37
+      "end": 1397.963,
+      "questionNumber": 25
     },
     {
       "speaker": "听力原声",
@@ -1560,5 +1552,6 @@
   "translation_sources": [
     "https://english-exam.lazynote.cn/cet4/sections/listening/2021-12-1/",
     "Sams200/opus-mt-en-zh (unmatched sentences only)"
-  ]
+  ],
+  "question_verification": "All 25 published question prompts located in original audio; numbers and prompts share one replay unit."
 }

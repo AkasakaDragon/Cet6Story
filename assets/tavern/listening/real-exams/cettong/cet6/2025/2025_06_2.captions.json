@@ -350,8 +350,44 @@
       "text": "If there's a tie, and we can't come to an agreement, then we'll take it to John and let him cast the deciding vote.",
       "translation": "如果意见打平，而我们又无法达成一致，那我们就把这件事交给John，让他投决定性的一票。",
       "start": 150.44,
-      "end": 223.9,
+      "end": 162.79,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "1. Why does the man think it is difficult to make the decision?",
+      "translation": "第 1 题：为什么男士认为很难做出决定?",
+      "start": 162.79,
+      "end": 167.631,
+      "questionNumber": 1
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "2. What do the speakers say may be worth noting?",
+      "translation": "第 2 题：说话者认为什么可能值得注意?",
+      "start": 180.88,
+      "end": 184.889,
+      "questionNumber": 2
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "3. According to the man, what might account for Peter appearing somewhat more self-assured than Rachel?",
+      "translation": "第 3 题：根据男士的说法,什么可能是Peter看起来比Rachel更自信的原因?",
+      "start": 198.11,
+      "end": 205.465,
+      "questionNumber": 3
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "4. What does the man say they will do if they can't reach an agreement?",
+      "translation": "第 4 题：男士说如果他们无法达成一致意见会怎么做?",
+      "start": 218.77,
+      "end": 223.46,
+      "questionNumber": 4
     },
     {
       "speaker": "听力原声",
@@ -579,74 +615,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 5.",
-      "translation": "问题5",
+      "text": "5. What are the speakers mainly talking about?",
+      "translation": "第 5 题：说话者主要在讨论什么?",
       "start": 364.57,
-      "end": 365.31
+      "end": 368.434,
+      "questionNumber": 5
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What are the speakers mainly talking about?",
-      "translation": "发言者主要在谈论什么?",
-      "start": 365.67,
-      "end": 368.17
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 6.",
-      "translation": "问题6",
+      "text": "6. What does the woman say she always tries to incorporate into her aesthetic?",
+      "translation": "第 6 题：女士说她总是试图将什么融入她的美学风格?",
       "start": 381.48,
-      "end": 382.3
+      "end": 387.415,
+      "questionNumber": 6
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "does the woman say?",
-      "translation": "那个女人说吗?",
-      "start": 383.14,
-      "end": 384.1
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "She always tries to incorporate into her aesthetic.",
-      "translation": "她总是试图融入她的美学",
-      "start": 384.4,
-      "end": 386.98
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 7.",
-      "translation": "问题7",
+      "text": "7. What does the woman say she likes to do?",
+      "translation": "第 7 题：女士说她喜欢做什么?",
       "start": 400.52,
-      "end": 401.24
+      "end": 404.35,
+      "questionNumber": 7
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the woman say she likes to do?",
-      "translation": "那个女人说她喜欢做什么?",
-      "start": 401.58,
-      "end": 404.04
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 8.",
-      "translation": "问题8",
+      "text": "8. What is the man looking forward to?",
+      "translation": "第 8 题：男士期待什么?",
       "start": 417.52,
-      "end": 418.22
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What is the man looking forward",
-      "translation": "那个男人期待的是什么",
-      "start": 418.64,
-      "end": 420.3
+      "end": 421.005,
+      "questionNumber": 8
     },
     {
       "speaker": "听力原声",
@@ -845,10 +845,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "to reduce conflicts between stray dogs",
-      "translation": "减少流浪狗之间的冲突",
-      "start": 635.71,
-      "end": 637.95
+      "text": "9. What does the passage say about 80% of participating dogs in the new study?",
+      "translation": "第 9 题：文章关于新研究中80%的参与犬只说了什么?",
+      "start": 593.53,
+      "end": 600.573,
+      "questionNumber": 9
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "10. What may help alleviate the problem caused by stray dogs?",
+      "translation": "第 10 题：什么可能有助于缓解流浪犬造成的问题?",
+      "start": 612.99,
+      "end": 618.854,
+      "questionNumber": 10
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "11. What do the researchers suggest we do to reduce conflicts between stray dogs and humans?",
+      "translation": "第 11 题：研究人员建议我们做什么来减少流浪犬与人类之间的冲突?",
+      "start": 631.21,
+      "end": 639.149,
+      "questionNumber": 11
     },
     {
       "speaker": "听力原声",
@@ -995,66 +1014,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "12.",
-      "translation": "12. 十二、结 论",
+      "text": "12. Why is food product placement within the fridge very important?",
+      "translation": "第 12 题：为什么冰箱内食品摆放位置非常重要?",
       "start": 769.96,
-      "end": 770.58
+      "end": 775.519,
+      "questionNumber": 12
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Why is food product placement within the fridge very important?",
-      "translation": "为什么在冰箱里放置食品非常重要?",
-      "start": 771.46,
-      "end": 775.1
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 13.",
-      "translation": "问题13。",
+      "text": "13. What does the passage say is the whole purpose of the modern refrigerator?",
+      "translation": "第 13 题：文章认为现代冰箱的全部目的是什么?",
       "start": 788.67,
-      "end": 789.51
+      "end": 794.435,
+      "questionNumber": 13
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the passage say is the whole purpose of the modern refrigerator?",
-      "translation": "上面写什么 现代冰箱的全部目的?",
-      "start": 790.11,
-      "end": 793.71
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "14.",
-      "translation": "14. 14个",
+      "text": "14. Where in the fridge should we store foods already cooked?",
+      "translation": "第 14 题：已经烹饪好的食物应该存放在冰箱的什么位置?",
       "start": 807.69,
-      "end": 808.53
+      "end": 813.014,
+      "questionNumber": 14
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Where in the fridge should we store foods already cooked?",
-      "translation": "冰箱里应该在哪里储存已经煮熟的食物?",
-      "start": 809.13,
-      "end": 812.57
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "15.",
-      "translation": "15. 15个",
-      "start": 826.26,
-      "end": 826.96
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Why should we never store",
-      "translation": "为什么我们从不储存",
-      "start": 827.47,
-      "end": 828.93
+      "text": "15. Why should we never store foods with high water content at the back of the bottom shelf?",
+      "translation": "第 15 题：为什么我们绝不应该把含水量高的食物存放在底层搁板后部?",
+      "start": 825.61,
+      "end": 832.984,
+      "questionNumber": 15
     },
     {
       "speaker": "听力原声",
@@ -1257,26 +1248,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the speaker think excites her most about her research?",
-      "translation": "演讲者认为她最喜欢什么?",
+      "text": "16. What does the speaker say is quite common among older people?",
+      "translation": "第 16 题：说话者说在老年人中什么是相当常见的?",
+      "start": 1030.45,
+      "end": 1035.739,
+      "questionNumber": 16
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "17. What does the speaker think excites her most about her research?",
+      "translation": "第 17 题：说话者认为她的研究最令她兴奋的是什么?",
       "start": 1050.19,
-      "end": 1053.73
+      "end": 1054.112,
+      "questionNumber": 17
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 18.",
-      "translation": "问题18。",
+      "text": "18. How does the speaker approach her research project?",
+      "translation": "第 18 题：说话者如何开展她的研究项目?",
       "start": 1067.18,
-      "end": 1067.8
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "How does the speaker approach her research project?",
-      "translation": "发言者如何对待她的研究项目?",
-      "start": 1068.58,
-      "end": 1071.34
+      "end": 1071.669,
+      "questionNumber": 18
     },
     {
       "speaker": "听力原声",
@@ -1539,6 +1533,33 @@
     {
       "speaker": "听力原声",
       "actor": "",
+      "text": "19. What does the speaker say about most colleges and graduate schools in America?",
+      "translation": "第 19 题：说话者对美国大多数学院和研究生院有何看法?",
+      "start": 1257.99,
+      "end": 1264.398,
+      "questionNumber": 19
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "20. How do students of the culinary institute of America view \"mise-en-place\" or \"put in place\"?",
+      "translation": "第 20 题：美国烹饪学院的学生如何看待\"mise-en-place\"或\"就位\"?",
+      "start": 1276.85,
+      "end": 1285.451,
+      "questionNumber": 20
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "21. What does the speaker advise us to do at the end of the talk?",
+      "translation": "第 21 题：说话者在讲话结尾建议我们做什么?",
+      "start": 1298.65,
+      "end": 1304.123,
+      "questionNumber": 21
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
       "text": "Why do we stop making goals for ourselves and stop progressing in life?",
       "translation": "为什么我们会停止为自己设定目标，停止在人生中不断进步？",
       "start": 1320.0,
@@ -1732,34 +1753,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What should self-acceptance be used as according to the speaker?",
-      "translation": "发言者认为什么应该使用自我接受?",
+      "text": "22. What should self-acceptance be used as according to the speaker?",
+      "translation": "第 22 题：根据讲话者的观点,自我接纳应该被用作什么?",
       "start": 1489.74,
-      "end": 1493.66
+      "end": 1493.981,
+      "questionNumber": 22
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "23 What do people tend to do when they have reached midlife?",
-      "translation": "23 人们到了中年以后会做什么?",
+      "text": "23. What do people tend to do when they have reached midlife?",
+      "translation": "第 23 题：当人们步入中年时,他们往往会做什么?",
       "start": 1507.36,
-      "end": 1511.92
+      "end": 1512.211,
+      "questionNumber": 23
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 24 Why do we find ourselves irritated for not achieving the goal?",
-      "translation": "问题24:为什么我们因未能实现目标而感到不快?",
+      "text": "24. Why do we find ourselves irritated for not achieving the goal?",
+      "translation": "第 24 题：为什么我们会因未能达成目标而感到恼怒?",
       "start": 1525.26,
-      "end": 1530.58
+      "end": 1530.846,
+      "questionNumber": 24
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 25 What does the speaker say has an immediate positive impact on our thinking?",
-      "translation": "问题25 发言者说什么对我们的想法有直接的积极影响?",
+      "text": "25. What does the speaker say has an immediate positive impact on our thinking?",
+      "translation": "第 25 题：讲话者说什么对我们的思维有立即的积极影响?",
       "start": 1543.94,
-      "end": 1549.92
+      "end": 1550.224,
+      "questionNumber": 25
     },
     {
       "speaker": "听力原声",
@@ -1773,5 +1798,6 @@
   "translation_sources": [
     "https://english-exam.lazynote.cn/cet6/sections/listening/2025-06-2/",
     "Sams200/opus-mt-en-zh (unmatched sentences only)"
-  ]
+  ],
+  "question_verification": "All 25 published question prompts located in original audio; numbers and prompts share one replay unit."
 }

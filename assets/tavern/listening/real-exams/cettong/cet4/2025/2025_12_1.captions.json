@@ -68,8 +68,26 @@
       "text": "Following a rescue by UK charity Cats Protection, the four-year-old cat was later reunited with its owner, Mr King's neighbour.",
       "translation": "经过英国慈善机构Cats Protection的救援,这只四岁的猫后来与它的主人——King先生的邻居团聚了。",
       "start": 90.03,
-      "end": 128.044,
+      "end": 105.26,
       "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2025-12-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "1. Where was the black cat found?",
+      "translation": "第 1 题：这只黑猫是在哪里被发现的?",
+      "start": 105.26,
+      "end": 108.328,
+      "questionNumber": 1
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "2. What do we learn about the cat at the end of the news report?",
+      "translation": "第 2 题：关于这只猫,新闻报道最后我们了解到什么?",
+      "start": 123.14,
+      "end": 128.165,
+      "questionNumber": 2
     },
     {
       "speaker": "听力原声",
@@ -172,34 +190,20 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 3.",
-      "translation": "问题3",
+      "text": "3. What will Fayetteville witness in less than a month?",
+      "translation": "第 3 题：不到一个月后，Fayetteville 将见证什么?",
       "start": 211.53,
-      "end": 212.23
+      "end": 216.078,
+      "questionNumber": 3
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What will Fayetteville witness in less than a month?",
-      "translation": "费耶特维尔在不到一个月的时间里 将见证什么?",
-      "start": 212.91,
-      "end": 215.87
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 4.",
-      "translation": "问题4",
+      "text": "4. What did Benjamin Kowalczyk say is rewarding to see?",
+      "translation": "第 4 题：Benjamin Kowalczyk 说看到什么令人欣慰?",
       "start": 231.23,
-      "end": 232.03
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What did Benjamin Kowalzick say is rewarding to see?",
-      "translation": "Benjamin Kowalzick说了什么 值得一看?",
-      "start": 232.51,
-      "end": 236.33
+      "end": 236.482,
+      "questionNumber": 4
     },
     {
       "speaker": "听力原声",
@@ -299,10 +303,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Why did Switzerland's highest court overturn the commercial court's ruling?",
-      "translation": "为什么瑞士最高法院推翻商业法院的裁决?",
+      "text": "5. What has the German supermarket been ordered to do?",
+      "translation": "第 5 题：这家德国超市被要求做什么?",
+      "start": 333.84,
+      "end": 338.659,
+      "questionNumber": 5
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "6. What did Switzerland's highest court suggest about the chocolate in question?",
+      "translation": "第 6 题：瑞士最高法院对有关巧克力提出了什么建议?",
+      "start": 353.02,
+      "end": 359.562,
+      "questionNumber": 6
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "7. Why did Switzerland's highest court overturn the commercial court's ruling?",
+      "translation": "第 7 题：瑞士最高法院为什么推翻商事法院的裁决?",
       "start": 375.77,
-      "end": 379.93
+      "end": 380.217,
+      "questionNumber": 7
     },
     {
       "speaker": "听力原声",
@@ -571,10 +594,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "On what point does the man agree with the woman at the end of the conversation?",
-      "translation": "男人在谈话结束时 同意女人什么观点?",
+      "text": "8. What does the man request the woman to do?",
+      "translation": "第 8 题：男士要求女士做什么?",
+      "start": 520.34,
+      "end": 523.974,
+      "questionNumber": 8
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "9. What does the woman say about eating vegetables only?",
+      "translation": "第 9 题：关于只吃蔬菜,女士是怎么说的?",
+      "start": 539.22,
+      "end": 543.887,
+      "questionNumber": 9
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "10. Why does the boyfriend of the man's sister choose to be a vegetarian?",
+      "translation": "第 10 题：男士的姐姐的男朋友为什么选择成为素食主义者?",
+      "start": 558.4,
+      "end": 564.533,
+      "questionNumber": 10
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "11. On what point does the man agree with the woman at the end of the conversation?",
+      "translation": "第 11 题：在对话结束时,男士在哪一点上同意女士的观点?",
       "start": 580.8,
-      "end": 584.74
+      "end": 585.25,
+      "questionNumber": 11
     },
     {
       "speaker": "听力原声",
@@ -757,50 +808,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 12.",
-      "translation": "问题12。",
+      "text": "12. What part of the TV program does the man say was interesting?",
+      "translation": "第 12 题：男士说电视节目的哪部分内容很有趣?",
       "start": 705.09,
-      "end": 705.77
+      "end": 710.499,
+      "questionNumber": 12
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What part of the TV program does the man say was interesting?",
-      "translation": "电视节目的哪个部分 男人说很有趣?",
-      "start": 706.73,
-      "end": 710.11
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 13.",
-      "translation": "问题13。",
+      "text": "13. What does the man say he will do next time he flies a long distance?",
+      "translation": "第 13 题：男士说他下次长途飞行时会做什么?",
       "start": 725.86,
-      "end": 726.32
+      "end": 731.416,
+      "questionNumber": 13
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the man say he will do next time he flies a long distance?",
-      "translation": "那人下次长途飞行时会怎么做?",
-      "start": 727.0,
-      "end": 731.04
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 14 Why does the woman think she is lucky?",
-      "translation": "问题14 为什么这个女人认为她很幸运?",
+      "text": "14. Why does the woman think she is lucky?",
+      "translation": "第 14 题：女士为什么认为自己很幸运?",
       "start": 746.41,
-      "end": 750.05
+      "end": 750.304,
+      "questionNumber": 14
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 15 Why does the woman think the problem of being afraid to fly deserves attention?",
-      "translation": "问题15:为什么该妇女认为害怕飞行的问题值得关注?",
+      "text": "15. Why does the woman think the problem of being afraid to fly deserves attention?",
+      "translation": "第 15 题：女士为什么认为害怕乘飞机的问题值得关注?",
       "start": 765.44,
-      "end": 771.2
+      "end": 771.493,
+      "questionNumber": 15
     },
     {
       "speaker": "听力原声",
@@ -954,50 +993,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "16.",
-      "translation": "16岁。",
+      "text": "16. What does the speaker think is the best way to get started in user experience design?",
+      "translation": "第 16 题：演讲者认为入门用户体验设计的最佳方式是什么?",
       "start": 923.35,
-      "end": 924.01
+      "end": 929.982,
+      "questionNumber": 16
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the speaker think is the best way to get started in user experience design?",
-      "translation": "发言者认为什么是开始用户经验设计的最佳方法?",
-      "start": 924.95,
-      "end": 929.47
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 17.",
-      "translation": "问题17。",
+      "text": "17. What does the speaker say being effective requires?",
+      "translation": "第 17 题：演讲者说要有效需要什么?",
       "start": 945.1,
-      "end": 945.88
+      "end": 950.568,
+      "questionNumber": 17
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the speaker say being effective requires?",
-      "translation": "发言者说有效需要什么?",
-      "start": 947.03,
-      "end": 949.99
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "18.",
-      "translation": "18岁",
+      "text": "18. What can people do as long as they know their end goal and strive for it?",
+      "translation": "第 18 题：只要人们知道自己的最终目标并为之努力,他们能做什么?",
       "start": 965.74,
-      "end": 966.36
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What can people do as long as they know their end goal and strive for it?",
-      "translation": "只要人们知道自己的最终目标并努力争取最终目标,他们能做些什么?",
-      "start": 967.02,
-      "end": 971.58
+      "end": 971.787,
+      "questionNumber": 18
     },
     {
       "speaker": "听力原声",
@@ -1125,50 +1143,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 19.",
-      "translation": "问题19。",
+      "text": "19. Why did the school principal ask what needed to change?",
+      "translation": "第 19 题：校长为什么要问需要改变什么？",
       "start": 1106.92,
-      "end": 1107.58
+      "end": 1111.784,
+      "questionNumber": 19
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Why did the school principal ask what needed to change?",
-      "translation": "为什么校长问什么需要改变?",
-      "start": 1108.43,
-      "end": 1111.49
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 20.",
-      "translation": "问题20。",
+      "text": "20. What has flexible seating meant at the speaker's school?",
+      "translation": "第 20 题：灵活座位在说话者的学校意味着什么？",
       "start": 1125.86,
-      "end": 1126.72
+      "end": 1130.729,
+      "questionNumber": 20
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What has flexible seating meant at the speaker's school?",
-      "translation": "在演讲者学校,灵活地安排座位意味着什么?",
-      "start": 1127.3,
-      "end": 1130.48
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 21.",
-      "translation": "问题21",
+      "text": "21. What has flexible seating brought about at the speaker's school?",
+      "translation": "第 21 题：灵活座位在说话者的学校带来了什么？",
       "start": 1145.67,
-      "end": 1146.57
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What has flexible seating brought about at the speaker's school?",
-      "translation": "发言者学校的灵活座位带来了什么?",
-      "start": 1147.54,
-      "end": 1151.1
+      "end": 1151.333,
+      "questionNumber": 21
     },
     {
       "speaker": "听力原声",
@@ -1313,66 +1310,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "22.",
-      "translation": "22. 妇女 22",
+      "text": "22. Why were dozens of British students sent home on Tuesday?",
+      "translation": "第 22 题：为什么数十名英国学生在周二被送回家？",
       "start": 1280.46,
-      "end": 1281.18
+      "end": 1286.034,
+      "questionNumber": 22
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Why were dozens of British students sent home on Tuesday?",
-      "translation": "为什么周二有几十名英国学生被送回家?",
-      "start": 1282.16,
-      "end": 1285.44
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "23.",
-      "translation": "23 号",
+      "text": "23. What can the price of school uniforms spark among families in financial difficulty?",
+      "translation": "第 23 题：校服的价格会在经济困难的家庭中引发什么？",
       "start": 1301.32,
-      "end": 1302.08
+      "end": 1308.252,
+      "questionNumber": 23
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What can the price of school uniforms spark among families in financial difficulty?",
-      "translation": "学校校服的价格在经济困难的家庭中会起什么作用?",
-      "start": 1302.7,
-      "end": 1307.8
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 24.",
-      "translation": "问题24。",
+      "text": "24. What did the headteacher think of the school's new uniform rules?",
+      "translation": "第 24 题：校长如何看待学校的新校服规定？",
       "start": 1323.05,
-      "end": 1324.23
+      "end": 1329.206,
+      "questionNumber": 24
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What did the head teacher think of the school's new uniform rules?",
-      "translation": "校长对学校的新校服规则有什么看法?",
-      "start": 1324.93,
-      "end": 1328.83
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 25.",
-      "translation": "问题25。",
+      "text": "25. What did Lucinda May have to do to buy her child the correct pair of shoes?",
+      "translation": "第 25 题：Lucinda May为了给孩子买到正确的鞋子必须做什么？",
       "start": 1344.36,
-      "end": 1345.3
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What did Lucinda Mae have to do to buy her child the correct pair of shoes?",
-      "translation": "露辛达·梅有什么办法 给她的孩子买一双正确的鞋?",
-      "start": 1346.02,
-      "end": 1350.56
+      "end": 1350.983,
+      "questionNumber": 25
     },
     {
       "speaker": "听力原声",
@@ -1386,5 +1355,6 @@
   "translation_sources": [
     "https://english-exam.lazynote.cn/cet4/sections/listening/2025-12-1/",
     "Sams200/opus-mt-en-zh (unmatched sentences only)"
-  ]
+  ],
+  "question_verification": "All 25 published question prompts located in original audio; numbers and prompts share one replay unit."
 }

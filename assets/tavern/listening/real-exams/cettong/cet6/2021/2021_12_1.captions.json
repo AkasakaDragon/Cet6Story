@@ -257,10 +257,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does Sarah say she is going to do?",
-      "translation": "莎拉说她会怎么做?",
+      "text": "1. What does Sarah think David was doing for the last two weeks?",
+      "translation": "第 1 题：Sarah 认为 David 在过去两周里做了什么？",
+      "start": 151.59,
+      "end": 156.43,
+      "questionNumber": 1
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "2. What happened to David on his way back from the hospital?",
+      "translation": "第 2 题：David 从医院回来的路上发生了什么？",
+      "start": 169.05,
+      "end": 174.724,
+      "questionNumber": 2
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "3. What does Sarah say they should do with the damaged computer?",
+      "translation": "第 3 题：Sarah 说他们应该如何处理损坏的电脑？",
+      "start": 187.39,
+      "end": 192.884,
+      "questionNumber": 3
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "4. What does Sarah say she is going to do?",
+      "translation": "第 4 题：Sarah 说她打算做什么？",
       "start": 207.42,
-      "end": 209.94
+      "end": 210.213,
+      "questionNumber": 4
     },
     {
       "speaker": "听力原声",
@@ -504,66 +532,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "5.",
-      "translation": "5 个",
+      "text": "5. What does the man say about the woman?",
+      "translation": "第 5 题：男士对女士说了什么?",
       "start": 357.77,
-      "end": 358.31
+      "end": 361.418,
+      "questionNumber": 5
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the man say about the woman?",
-      "translation": "男人怎么说女人?",
-      "start": 358.89,
-      "end": 361.11
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 6.",
-      "translation": "问题6",
+      "text": "6. What does the woman say about her newly published book?",
+      "translation": "第 6 题：女士对她的新书说了什么?",
       "start": 374.21,
-      "end": 375.23
+      "end": 379.478,
+      "questionNumber": 6
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the woman say about her newly published book?",
-      "translation": "女人怎么说她的新出版的书?",
-      "start": 375.83,
-      "end": 379.17
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 7.",
-      "translation": "问题7",
+      "text": "7. What did the woman do before writing her new book?",
+      "translation": "第 7 题：女士在写新书之前做了什么?",
       "start": 392.59,
-      "end": 393.53
+      "end": 397.329,
+      "questionNumber": 7
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What did the woman do before writing her new book?",
-      "translation": "那个女人写新书之前做了什么?",
-      "start": 394.01,
-      "end": 397.01
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 8.",
-      "translation": "问题8",
+      "text": "8. What does the woman say about her writing history books?",
+      "translation": "第 8 题：女士对她写历史书籍说了什么?",
       "start": 410.37,
-      "end": 411.19
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What does the woman say about her writing history books?",
-      "translation": "她写历史书时怎么说?",
-      "start": 411.71,
-      "end": 414.89
+      "end": 415.289,
+      "questionNumber": 8
     },
     {
       "speaker": "听力原声",
@@ -741,50 +741,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "9.",
-      "translation": "9. 国家",
+      "text": "9. What does the passage say appears in almost all ads for Coca-Cola?",
+      "translation": "第 9 题：文章说可口可乐的广告中几乎都会出现什么？",
       "start": 568.06,
-      "end": 568.72
+      "end": 573.97,
+      "questionNumber": 9
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the passage say appears in almost all ads for Coca-Cola?",
-      "translation": "话语上说 几乎所有可口可乐广告 都写了些什么?",
-      "start": 569.4,
-      "end": 573.7
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 10.",
-      "translation": "问题10。",
+      "text": "10. Why did the Coca-Cola Company decide to have special packaging designed?",
+      "translation": "第 10 题：可口可乐公司为什么决定设计特殊包装？",
       "start": 587.25,
-      "end": 587.91
+      "end": 593.211,
+      "questionNumber": 10
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Why did the Coca-Cola company decide to have special packaging designed?",
-      "translation": "为什么可口可乐公司决定设计特殊包装物?",
-      "start": 588.63,
-      "end": 592.61
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 11.",
-      "translation": "问题11。",
+      "text": "11. What do we learn about the Coca-Cola bottle designed by the Root Glass Company?",
+      "translation": "第 11 题：关于Root Glass公司设计的可口可乐瓶，我们了解到什么？",
       "start": 606.22,
-      "end": 607.16
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What do we learn about the Coca-Cola bottle designed by the root glass company?",
-      "translation": "我们该如何了解根玻璃公司设计的可口可乐瓶子?",
-      "start": 607.72,
-      "end": 612.46
+      "end": 612.72,
+      "questionNumber": 11
     },
     {
       "speaker": "听力原声",
@@ -962,32 +941,44 @@
       "text": "People who are talked to have equally positive experiences as those who initiate a conversation.",
       "translation": "被搭话的人与发起对话的人拥有同样积极的体验。",
       "start": 726.71,
-      "end": 753.27,
+      "end": 739.67,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/"
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Why does a negative encounter with strangers stick in one's memory?",
-      "translation": "为什么和陌生人的负面遭遇 总是停留在记忆中呢?",
+      "text": "12. What does research show about a conversation between strangers?",
+      "translation": "第 12 题：研究表明陌生人之间的交谈会怎样?",
+      "start": 739.67,
+      "end": 745.565,
+      "questionNumber": 12
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "13. What prevents people from starting conversation with strangers?",
+      "translation": "第 13 题：什么阻碍人们与陌生人开始交谈?",
+      "start": 757.91,
+      "end": 764.561,
+      "questionNumber": 13
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "14. Why does a negative encounter with strangers stick in one's memory?",
+      "translation": "第 14 题：为什么与陌生人的负面遭遇会留在记忆中?",
       "start": 779.16,
-      "end": 783.28
+      "end": 783.565,
+      "questionNumber": 14
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 15.",
-      "translation": "问题15。",
+      "text": "15. What does the passage say the pleasure of connection seems to be?",
+      "translation": "第 15 题：文章说联结的愉悦似乎是什么?",
       "start": 796.79,
-      "end": 797.63
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What does the passage say the pleasure of connection seems to be?",
-      "translation": "段落上说连接的乐趣是什么?",
-      "start": 798.49,
-      "end": 802.25
+      "end": 802.466,
+      "questionNumber": 15
     },
     {
       "speaker": "听力原声",
@@ -1338,42 +1329,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the speaker say about the economy of the Caribbean islands?",
-      "translation": "发言者对加勒比岛屿的经济怎么说?",
+      "text": "16. What does the speaker say about the economy of the Caribbean islands?",
+      "translation": "第 16 题：说话者关于加勒比群岛的经济说了什么？",
       "start": 1032.09,
-      "end": 1036.15
+      "end": 1036.706,
+      "questionNumber": 16
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 17.",
-      "translation": "问题17。",
+      "text": "17. What is the main product of the Caribbean islands?",
+      "translation": "第 17 题：加勒比群岛的主要产品是什么？",
       "start": 1050.05,
-      "end": 1050.83
+      "end": 1054.834,
+      "questionNumber": 17
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What is the main product of the Caribbean islands?",
-      "translation": "加勒比岛屿的主要产品是什么?",
-      "start": 1051.79,
-      "end": 1054.37
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 18.",
-      "translation": "问题18。",
+      "text": "18. What do we learn about the majority of people in the Caribbean islands?",
+      "translation": "第 18 题：关于加勒比群岛的大多数人，我们了解到什么？",
       "start": 1068.1,
-      "end": 1068.88
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What do we learn about the majority of people in the Caribbean islands?",
-      "translation": "我们如何了解加勒比岛屿上大多数人的情况?",
-      "start": 1069.7,
-      "end": 1073.84
+      "end": 1074.315,
+      "questionNumber": 18
     },
     {
       "speaker": "听力原声",
@@ -1574,73 +1552,36 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 19.",
-      "translation": "问题19。",
+      "text": "19. What will happen to children if they always get immediate satisfaction?",
+      "translation": "第 19 题：如果孩子总是得到即时满足会发生什么？",
       "start": 1262.09,
-      "end": 1262.95
+      "end": 1268.82,
+      "questionNumber": 19
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What will happen to children?",
-      "translation": "儿童会怎样?",
-      "start": 1264.17,
-      "end": 1265.27
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "If they always get immediate satisfaction.",
-      "translation": "如果他们总是得到 立即满意。",
-      "start": 1265.64,
-      "end": 1268.26
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "20.",
-      "translation": "20. 20个",
+      "text": "20. What may prevent parents from raising confident and capable children?",
+      "translation": "第 20 题：什么可能会阻碍父母培养出自信和有能力的孩子？",
       "start": 1282.2,
-      "end": 1282.8
+      "end": 1288.48,
+      "questionNumber": 20
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What may prevent parents from raising confident and capable children?",
-      "translation": "是什么可以阻止父母抚养自信和有能力的孩子?",
-      "start": 1283.68,
-      "end": 1288.16
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 21.",
-      "translation": "问题21",
+      "text": "21. Why should children be encouraged to keep trying when they fail?",
+      "translation": "第 21 题：为什么应该鼓励孩子在失败时继续尝试？",
       "start": 1301.59,
-      "end": 1302.71
+      "end": 1307.797,
+      "questionNumber": 21
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Why should children be encouraged to keep trying when they fail?",
-      "translation": "为什么要鼓励儿童在失败时继续尝试呢?",
-      "start": 1303.53,
-      "end": 1307.51
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "3.",
-      "translation": "3 个",
-      "start": 1321.3,
-      "end": 1321.86
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "It's not hard to mess up an interview.",
+      "text": "3. It's not hard to mess up an interview.",
       "translation": "搞砸面试并不难",
-      "start": 1322.76,
+      "start": 1321.3,
       "end": 1322.9
     },
     {
@@ -1879,42 +1820,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "22.",
-      "translation": "22. 妇女 22",
+      "text": "22. What does the speaker say can easily prevent an interviewee from getting a job?",
+      "translation": "第 22 题：说话者说什么能够轻易阻止面试者获得工作?",
       "start": 1492.96,
-      "end": 1493.5
+      "end": 1499.027,
+      "questionNumber": 22
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the speaker say can easily prevent an interviewee from getting a job?",
-      "translation": "发言者说什么可以轻易阻止受访者找到工作?",
-      "start": 1494.1,
-      "end": 1498.84
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 23 What should the interviewee avoid doing in an interview?",
-      "translation": "问题23 受访者在接受访谈时如何避免这样做?",
+      "text": "23. What should the interviewee avoid doing in an interview?",
+      "translation": "第 23 题：面试者在面试中应该避免做什么?",
       "start": 1512.36,
-      "end": 1518.16
+      "end": 1518.504,
+      "questionNumber": 23
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 24 What kind of employees do companies like to recruit?",
-      "translation": "问题24:公司喜欢招聘什么样的雇员?",
+      "text": "24. What kind of employees do companies like to recruit?",
+      "translation": "第 24 题：公司喜欢招聘什么样的员工?",
       "start": 1531.84,
-      "end": 1537.34
+      "end": 1537.738,
+      "questionNumber": 24
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 25 What is especially important for those working in a small company?",
-      "translation": "问题25 哪些对于在小公司工作的人特别重要?",
+      "text": "25. What is especially important for those working in a small company?",
+      "translation": "第 25 题：对于在小公司工作的人来说什么尤其重要?",
       "start": 1550.98,
-      "end": 1557.46
+      "end": 1557.774,
+      "questionNumber": 25
     },
     {
       "speaker": "听力原声",
@@ -1928,5 +1865,6 @@
   "translation_sources": [
     "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-1/",
     "Sams200/opus-mt-en-zh (unmatched sentences only)"
-  ]
+  ],
+  "question_verification": "All 25 published question prompts located in original audio; numbers and prompts share one replay unit."
 }

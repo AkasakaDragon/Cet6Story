@@ -104,6 +104,24 @@
     {
       "speaker": "听力原声",
       "actor": "",
+      "text": "1. What has caused the thick clouds in the photos taken by NASA satellite?",
+      "translation": "第 1 题：NASA卫星拍摄的照片中厚云层是什么原因造成的?",
+      "start": 115.34,
+      "end": 120.409,
+      "questionNumber": 1
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "2. What do NASA officials think about the thick clouds?",
+      "translation": "第 2 题：NASA官员如何看待这些厚云层?",
+      "start": 135.73,
+      "end": 140.64,
+      "questionNumber": 2
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
       "text": "Staff at a suburban supermarket in Melbourne say they feel unsafe at work after security guards were removed.",
       "translation": "在墨尔本市郊超市的工作人员说,在警卫被撤走后,他们感到工作不安全。",
       "start": 157.966,
@@ -171,7 +189,25 @@
       "text": "In the rare cases we have seen bad behavior, we have taken strong action in response, including banning a customer from the store.\"",
       "translation": "包括禁止顾客进入商店。 ”",
       "start": 226.86,
-      "end": 270.133
+      "end": 243.16
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "3. For what purpose did the staff at a supermarket in Melbourne sign a letter?",
+      "translation": "第 3 题：墨尔本一家超市的员工签署联名信的目的是什么?",
+      "start": 243.16,
+      "end": 248.477,
+      "questionNumber": 3
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "4. What did the spokesman of the supermarket say regarding the employees' demand?",
+      "translation": "第 4 题：该超市的发言人对员工的要求说了什么?",
+      "start": 262.69,
+      "end": 269.966,
+      "questionNumber": 4
     },
     {
       "speaker": "听力原声",
@@ -260,6 +296,33 @@
       "start": 365.77,
       "end": 370.05,
       "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "5. What did drivers on the motorway to Warsaw find?",
+      "translation": "第 5 题：在通往华沙的高速公路上，司机们发现了什么？",
+      "start": 376.73,
+      "end": 381.346,
+      "questionNumber": 5
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "6. What does the report say about the accident?",
+      "translation": "第 6 题：报道对这起事故是怎么说的？",
+      "start": 396.36,
+      "end": 401.092,
+      "questionNumber": 6
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "7. What did the firefighters' representative tell the local TV?",
+      "translation": "第 7 题：消防员代表对当地电视台说了什么？",
+      "start": 416.17,
+      "end": 422.012,
+      "questionNumber": 7
     },
     {
       "speaker": "听力原声",
@@ -494,6 +557,42 @@
       "start": 568.45,
       "end": 569.33,
       "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "8. Why did the woman decide to go back to cash for payment?",
+      "translation": "第 8 题：这位女士为什么决定回归使用现金支付?",
+      "start": 575.64,
+      "end": 580.202,
+      "questionNumber": 8
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "9. What happens when people use apps for payment according to the woman?",
+      "translation": "第 9 题：根据这位女士的说法,人们使用应用程序支付时会发生什么?",
+      "start": 595.17,
+      "end": 600.698,
+      "questionNumber": 9
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "10. What might the man tend to buy with payment apps?",
+      "translation": "第 10 题：这位男士可能倾向于用支付应用程序购买什么?",
+      "start": 615.4,
+      "end": 620.858,
+      "questionNumber": 10
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "11. What does the man think of electronic payment?",
+      "translation": "第 11 题：这位男士如何看待电子支付?",
+      "start": 635.64,
+      "end": 640.382,
+      "questionNumber": 11
     },
     {
       "speaker": "听力原声",
@@ -820,6 +919,42 @@
     {
       "speaker": "听力原声",
       "actor": "",
+      "text": "12. Why did the man call the woman?",
+      "translation": "第 12 题：男士为什么给女士打电话?",
+      "start": 768.57,
+      "end": 772.504,
+      "questionNumber": 12
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "13. What did the woman ask the man to do?",
+      "translation": "第 13 题：女士要求男士做什么?",
+      "start": 787.27,
+      "end": 792.034,
+      "questionNumber": 13
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "14. What did the woman promise to do for the man?",
+      "translation": "第 14 题：女士承诺为男士做什么?",
+      "start": 806.53,
+      "end": 812.507,
+      "questionNumber": 14
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "15. What did the woman do at the end of the conversation?",
+      "translation": "第 15 题：女士在对话结束时做了什么?",
+      "start": 827.15,
+      "end": 833.388,
+      "questionNumber": 15
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
       "text": "at the",
       "translation": "一、在《公约》",
       "start": 871.41,
@@ -956,6 +1091,33 @@
     {
       "speaker": "听力原声",
       "actor": "",
+      "text": "16. What is Marie Kondo's TV show about?",
+      "translation": "第 16 题：Marie Kondo 的电视节目是关于什么的?",
+      "start": 992.91,
+      "end": 997.969,
+      "questionNumber": 16
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "17. What things can be kept in one's home according to Marie Kondo?",
+      "translation": "第 17 题：根据 Marie Kondo 的说法,什么东西可以保留在家中?",
+      "start": 1012.81,
+      "end": 1018.995,
+      "questionNumber": 17
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "18. What do we learn about one used bookstore this January?",
+      "translation": "第 18 题：关于今年一月的一家旧书店,我们了解到什么?",
+      "start": 1034.23,
+      "end": 1039.922,
+      "questionNumber": 18
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
       "text": "Passage 2.",
       "translation": "通行证2。",
       "start": 1055.39,
@@ -1074,8 +1236,35 @@
       "text": "Mike is seen as hope for the future of the town, the country and the world.",
       "translation": "Mike被视为该镇、该国和世界未来的希望。",
       "start": 1152.27,
-      "end": 1208.5,
+      "end": 1163.51,
       "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "19. What does Mike Hannon do to help people in his town?",
+      "translation": "第 19 题：Mike Hannon 做了什么来帮助他镇上的人们?",
+      "start": 1163.51,
+      "end": 1168.805,
+      "questionNumber": 19
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "20. What does Mike hope others will do?",
+      "translation": "第 20 题：Mike 希望其他人做什么?",
+      "start": 1183.52,
+      "end": 1187.647,
+      "questionNumber": 20
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "21. How are people all over the country responding to what Mike is doing?",
+      "translation": "第 21 题：全国各地的人们如何回应 Mike 所做的事情?",
+      "start": 1202.52,
+      "end": 1208.456,
+      "questionNumber": 21
     },
     {
       "speaker": "听力原声",
@@ -1188,6 +1377,42 @@
     {
       "speaker": "听力原声",
       "actor": "",
+      "text": "22. What were the college students in both groups required to do in the study?",
+      "translation": "第 22 题：研究中要求两组大学生做什么?",
+      "start": 1337.71,
+      "end": 1344.421,
+      "questionNumber": 22
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "23. What do we learn about many of the students in the second test group after the phone rang?",
+      "translation": "第 23 题：关于第二个测试组中的许多学生在手机响起后我们了解到什么?",
+      "start": 1359.59,
+      "end": 1366.277,
+      "questionNumber": 23
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "24. According to the passage, what is the most dramatic impact of smartphone use?",
+      "translation": "第 24 题：根据文章,智能手机使用最显著的影响是什么?",
+      "start": 1381.52,
+      "end": 1388.918,
+      "questionNumber": 24
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "25. What does the speaker suggest people do?",
+      "translation": "第 25 题：说话者建议人们做什么?",
+      "start": 1404.12,
+      "end": 1408.635,
+      "questionNumber": 25
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
       "text": "This is the end of listening comprehension.",
       "translation": "听觉理解的结束",
       "start": 1423.71,
@@ -1197,5 +1422,6 @@
   "translation_sources": [
     "https://english-exam.lazynote.cn/cet4/sections/listening/2020-09-1/",
     "Sams200/opus-mt-en-zh (unmatched sentences only)"
-  ]
+  ],
+  "question_verification": "All 25 published question prompts located in original audio; numbers and prompts share one replay unit."
 }

@@ -265,66 +265,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "1.",
-      "translation": "1. 国家",
+      "text": "1. What does the woman say she will do?",
+      "translation": "第 1 题：女士说她将做什么?",
       "start": 151.6,
-      "end": 152.2
+      "end": 155.026,
+      "questionNumber": 1
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the woman say she will do?",
-      "translation": "那女人说她会怎么做?",
-      "start": 152.78,
-      "end": 154.72
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 2.",
-      "translation": "问题2",
+      "text": "2. What does the man say about some people he represents?",
+      "translation": "第 2 题：男士关于他所代表的一些人说了什么?",
       "start": 168.23,
-      "end": 169.07
+      "end": 172.926,
+      "questionNumber": 2
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the man say about some people he represents?",
-      "translation": "这个人对他所代表的人怎么说?",
-      "start": 169.49,
-      "end": 172.27
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 3.",
-      "translation": "问题3",
+      "text": "3. What reason does the woman give for the new deal to exclude the Middle East?",
+      "translation": "第 3 题：女士给出了什么理由说明新协议要排除中东地区?",
       "start": 186.41,
-      "end": 187.15
+      "end": 192.51,
+      "questionNumber": 3
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What reason does the woman give for the New Deal to exclude the Middle East?",
-      "translation": "为何该女性对新政提出排除中东的理由?",
-      "start": 187.61,
-      "end": 192.11
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 4.",
-      "translation": "问题4",
+      "text": "4. What does the man say about the Middle East?",
+      "translation": "第 4 题：男士关于中东地区说了什么?",
       "start": 205.78,
-      "end": 206.56
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What does the man say about the Middle East?",
-      "translation": "他对中东怎么说?",
-      "start": 207.0,
-      "end": 209.38
+      "end": 209.69,
+      "questionNumber": 4
     },
     {
       "speaker": "听力原声",
@@ -571,16 +543,44 @@
       "text": "Thank you, Paula, for the information.",
       "translation": "Paula，感谢你提供这些信息。",
       "start": 339.81,
-      "end": 405.29,
+      "end": 346.6,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do scientists at the Denver Observatory advise amateurs do to facilitate their observation?",
-      "translation": "丹佛天文台的科学家们建议业余爱好者做哪些工作来方便他们的观察?",
+      "text": "5. What does the woman say about all the astronomers at the Denver Observatory?",
+      "translation": "第 5 题：关于丹佛天文台的所有天文学家,这位女士说了什么?",
+      "start": 346.6,
+      "end": 353.692,
+      "questionNumber": 5
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "6. What do we learn from the conversation about the Oppenheimer comet?",
+      "translation": "第 6 题：从对话中我们了解到关于Oppenheimer彗星的什么信息?",
+      "start": 366.08,
+      "end": 372.386,
+      "questionNumber": 6
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "7. What does the woman say people will only see in the sky without a telescope?",
+      "translation": "第 7 题：这位女士说人们在没有望远镜的情况下在天空中只能看到什么?",
+      "start": 384.98,
+      "end": 391.865,
+      "questionNumber": 7
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "8. What do scientists at the Denver Observatory advise amateurs do to facilitate their observation?",
+      "translation": "第 8 题：丹佛天文台的科学家们建议业余爱好者做什么来便于他们的观测?",
       "start": 406.17,
-      "end": 412.69
+      "end": 413.299,
+      "questionNumber": 8
     },
     {
       "speaker": "听力原声",
@@ -682,26 +682,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 9 What question is said to have recently stirred debate?",
-      "translation": "问题9:据说最近引起辩论的问题是什么?",
+      "text": "9. What question is said to have recently stirred debate?",
+      "translation": "第 9 题：据说最近引发争论的问题是什么?",
       "start": 594.28,
-      "end": 599.08
+      "end": 599.477,
+      "questionNumber": 9
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 10 How does the system developed by Monteiro and colleagues classify foods?",
-      "translation": "问题10 蒙泰罗和同事开发的系统如何对食物进行分类?",
+      "text": "10. How does the system developed by Monteiro and colleagues classify foods?",
+      "translation": "第 10 题：Monteiro及其同事开发的系统如何对食品进行分类?",
       "start": 612.81,
-      "end": 618.88
+      "end": 619.281,
+      "questionNumber": 10
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 11 What is consumption of ultra-processed foods linked with according to studies?",
-      "translation": "问题11:根据研究,超处理食品的消费与哪些有关?",
+      "text": "11. What is consumption of ultra-processed foods linked with, according to studies?",
+      "translation": "第 11 题：根据研究,食用超加工食品与什么相关?",
       "start": 633.58,
-      "end": 640.24
+      "end": 640.476,
+      "questionNumber": 11
     },
     {
       "speaker": "听力原声",
@@ -849,18 +852,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 15.",
-      "translation": "问题15。",
-      "start": 838.13,
-      "end": 839.13
+      "text": "12. What do psychologists say people do when they are short of resources?",
+      "translation": "第 12 题：心理学家说,当人们资源短缺时会做什么?",
+      "start": 782.18,
+      "end": 788.164,
+      "questionNumber": 12
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What did Marissa Meyer once write concerning creativity?",
-      "translation": "玛丽莎·迈耶曾经写过什么关于创造力的作品?",
-      "start": 839.63,
-      "end": 842.79
+      "text": "13. What does the passage say about innovation?",
+      "translation": "第 13 题：文章关于创新说了什么?",
+      "start": 800.82,
+      "end": 805.542,
+      "questionNumber": 13
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "14. What did a 2015 study by Ravi Mehta and Meng Zhu find?",
+      "translation": "第 14 题：Ravi Mehta和Meng Zhu在2015年的研究中发现了什么?",
+      "start": 818.14,
+      "end": 824.888,
+      "questionNumber": 14
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "15. What did Marissa Mayer once write concerning creativity?",
+      "translation": "第 15 题：Marissa Mayer曾就创造力写过什么?",
+      "start": 838.13,
+      "end": 843.234,
+      "questionNumber": 15
     },
     {
       "speaker": "听力原声",
@@ -1179,67 +1202,37 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Why does the speaker say strategies for managing conflicts can always be changed?",
-      "translation": "为什么发言者说管理冲突的战略总是可以改变的?",
+      "text": "16. Why does the speaker say strategies for managing conflicts can always be changed?",
+      "translation": "第 16 题：为什么说话者说管理冲突的策略总是可以改变的?",
       "start": 1059.34,
-      "end": 1064.22
+      "end": 1064.52,
+      "questionNumber": 16
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 17.",
-      "translation": "问题17。",
+      "text": "17. What is said to affect the way one acts in a conflict?",
+      "translation": "第 17 题：什么被认为会影响一个人在冲突中的行为方式?",
       "start": 1077.99,
-      "end": 1078.81
+      "end": 1083.304,
+      "questionNumber": 17
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What is said to affect the way one acts in a conflict?",
-      "translation": "如何看待冲突时的行为?",
-      "start": 1079.71,
-      "end": 1082.89
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 18.",
-      "translation": "问题18。",
+      "text": "18. Of the five styles the speaker discusses, which views conflicts as problems to be solved?",
+      "translation": "第 18 题：在说话者讨论的五种风格中,哪一种将冲突视为需要解决的问题?",
       "start": 1096.87,
-      "end": 1097.51
+      "end": 1104.181,
+      "questionNumber": 18
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Of the five styles the speaker discusses,",
-      "translation": "在演讲人讨论的五种风格中",
-      "start": 1098.11,
-      "end": 1100.33
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "which views conflicts as problems to be solved?",
-      "translation": "哪些人认为冲突是需要解决的问题?",
-      "start": 1100.99,
-      "end": 1103.81
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "2.",
-      "translation": "2. 目标",
-      "start": 1117.93,
-      "end": 1118.37
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "The genetic code of all 1.5 million known species of animals and plants living on earth will be mapped to help save species from extinction and boost human health.",
+      "text": "2. The genetic code of all 1.5 million known species of animals and plants living on earth will be mapped to help save species from extinction and boost human health.",
       "translation": "地球上现存的全部150万种已知动植物的遗传密码将被测序，以帮助拯救濒临灭绝的物种并促进人类健康。",
-      "start": 1119.49,
-      "end": 1130.09,
-      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/"
+      "start": 1117.93,
+      "end": 1130.09
     },
     {
       "speaker": "听力原声",
@@ -1390,50 +1383,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do scientists hope to do by cracking the genetic code of plants and animals?",
-      "translation": "科学家们希望通过破解动植物的基因密码来做什么?",
+      "text": "19. What do scientists hope to do by cracking the genetic code of plants and animals?",
+      "translation": "第 19 题：科学家希望通过破解动植物的遗传密码来做什么?",
       "start": 1299.98,
-      "end": 1304.82
+      "end": 1305.2,
+      "questionNumber": 19
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 20.",
-      "translation": "问题20。",
+      "text": "20. What do many scientists believe with regard to earth?",
+      "translation": "第 20 题：许多科学家对地球持什么看法?",
       "start": 1318.56,
-      "end": 1319.3
+      "end": 1323.231,
+      "questionNumber": 20
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do many scientists believe with regard to Earth?",
-      "translation": "许多科学家对地球相信什么?",
-      "start": 1319.98,
-      "end": 1322.84
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 21.",
-      "translation": "问题21",
+      "text": "21. How does Sir Jim Smith, Director of Science at Wellcome, describe the Darwin Tree of Life Project?",
+      "translation": "第 21 题：Wellcome科学主任Jim Smith爵士如何描述生命之树计划?",
       "start": 1336.64,
-      "end": 1337.44
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "How does Sir Jim Smith, Director of Science at Welcome,",
-      "translation": "吉姆·史密斯爵士,欢迎欢迎来到",
-      "start": 1338.16,
-      "end": 1341.6
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "describe the Darwin Tree of Life project?",
-      "translation": "描述达尔文生命树项目?",
-      "start": 1342.26,
-      "end": 1344.56
+      "end": 1345.034,
+      "questionNumber": 21
     },
     {
       "speaker": "听力原声",
@@ -1566,78 +1538,43 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 22.",
-      "translation": "问题22。",
+      "text": "22. What is indeed just an illusion according to Professor Tom Oliver?",
+      "translation": "第 22 题：根据Tom Oliver教授的观点,什么实际上只是一种幻觉?",
       "start": 1534.93,
-      "end": 1536.01
+      "end": 1540.886,
+      "questionNumber": 22
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What is indeed just an illusion according to Professor Tom Oliver?",
-      "translation": "汤姆·奥利弗教授所描述的 究竟什么是幻觉?",
-      "start": 1536.65,
-      "end": 1540.49
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 23.",
-      "translation": "问题23。",
+      "text": "23. What does Professor Tom Oliver think of the idea that we exist as independent selves at the centre of a subjective universe?",
+      "translation": "第 23 题：Tom Oliver教授如何看待我们作为独立自我存在于主观宇宙中心这一观念?",
       "start": 1553.9,
-      "end": 1554.7
+      "end": 1563.044,
+      "questionNumber": 23
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does Professor Tom Oliver think of the idea that we exist as independent selves at the center of a subjective universe?",
-      "translation": "汤姆·奥利弗教授认为 我们作为独立个体 存在于主观宇宙中心的想法是什么?",
-      "start": 1555.5,
-      "end": 1562.66
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 24.",
-      "translation": "问题24。",
+      "text": "24. Why does Professor Tom Oliver claim that the material \"us\" is constantly changing?",
+      "translation": "第 24 题：为什么Tom Oliver教授声称物质层面的\"我们\"在不断变化?",
       "start": 1576.03,
-      "end": 1576.77
+      "end": 1582.996,
+      "questionNumber": 24
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Why does Professor Tom Oliver claim that the material us is constantly changing?",
-      "translation": "为什么汤姆·奥利弗教授声称 我们的物质在不断改变?",
-      "start": 1577.45,
-      "end": 1582.65
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 25.",
-      "translation": "问题25。",
+      "text": "25. How can we solve pressing environmental and societal problems according to Professor Tom Oliver?",
+      "translation": "第 25 题：根据Tom Oliver教授的观点,我们如何才能解决紧迫的环境和社会问题?",
       "start": 1595.96,
-      "end": 1596.78
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "How can we solve pressing environmental and societal problems",
-      "translation": "如何解决紧迫的环境和社会问题",
-      "start": 1597.3,
-      "end": 1601.0
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "according to Professor Tom Oliver.",
-      "translation": "根据汤姆·奥利弗教授的说法。",
-      "start": 1601.5,
-      "end": 1603.36
+      "end": 1603.666,
+      "questionNumber": 25
     }
   ],
   "translation_sources": [
     "https://english-exam.lazynote.cn/cet6/sections/listening/2024-06-1/",
     "Sams200/opus-mt-en-zh (unmatched sentences only)"
-  ]
+  ],
+  "question_verification": "All 25 published question prompts located in original audio; numbers and prompts share one replay unit."
 }

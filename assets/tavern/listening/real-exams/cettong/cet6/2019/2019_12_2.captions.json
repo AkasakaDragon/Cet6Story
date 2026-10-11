@@ -284,50 +284,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 2.",
-      "translation": "问题2",
+      "text": "1. What do we learn about the woman's store?",
+      "translation": "第 1 题：关于这位女士的店铺,我们了解到什么?",
+      "start": 174.28,
+      "end": 177.035,
+      "questionNumber": 1
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "2. What does the man say about jazz music?",
+      "translation": "第 2 题：这位男士关于爵士乐说了什么?",
       "start": 189.74,
-      "end": 190.76
+      "end": 194.584,
+      "questionNumber": 2
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the man say about jazz music?",
-      "translation": "他对爵士音乐怎么说?",
-      "start": 191.38,
-      "end": 194.16
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 3.",
-      "translation": "问题3",
+      "text": "3. What does the woman say about jazz?",
+      "translation": "第 3 题：这位女士关于爵士乐说了什么?",
       "start": 207.44,
-      "end": 208.5
+      "end": 212.113,
+      "questionNumber": 3
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the woman say about jazz?",
-      "translation": "那个女人怎么说爵士乐?",
-      "start": 208.96,
-      "end": 211.64
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 4.",
-      "translation": "问题4",
+      "text": "4. What should you do to appreciate different styles of jazz according to the woman?",
+      "translation": "第 4 题：根据这位女士的说法,要欣赏不同风格的爵士乐你应该做什么?",
       "start": 224.77,
-      "end": 226.09
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What should you do to appreciate different styles of jazz according to the woman?",
-      "translation": "你该如何欣赏女人 爵士乐的不同风格呢?",
-      "start": 226.49,
-      "end": 232.33
+      "end": 232.541,
+      "questionNumber": 4
     },
     {
       "speaker": "听力原声",
@@ -619,66 +607,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "5.",
-      "translation": "5 个",
+      "text": "5. What did the woman do this morning?",
+      "translation": "第 5 题：这位女士今天上午做了什么?",
       "start": 375.77,
-      "end": 376.35
+      "end": 379.292,
+      "questionNumber": 5
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What did the woman do this morning?",
-      "translation": "今早那个女人做了什么?",
-      "start": 376.91,
-      "end": 378.99
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 6.",
-      "translation": "问题6",
+      "text": "6. Why was the woman's proposal rejected?",
+      "translation": "第 6 题：为什么这位女士的提案被拒绝了?",
       "start": 392.36,
-      "end": 393.32
+      "end": 397.259,
+      "questionNumber": 6
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Why was the woman's proposal rejected?",
-      "translation": "为什么该妇女的提议被拒绝?",
-      "start": 393.96,
-      "end": 396.68
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "7.",
-      "translation": "7 个",
+      "text": "7. What is the woman planning to do?",
+      "translation": "第 7 题：这位女士计划做什么?",
       "start": 410.5,
-      "end": 411.38
+      "end": 414.777,
+      "questionNumber": 7
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What is the woman planning to do?",
-      "translation": "女人打算怎么办?",
-      "start": 412.02,
-      "end": 414.46
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "8.",
-      "translation": "8. 预 算",
+      "text": "8. What does the man suggest the woman do?",
+      "translation": "第 8 题：这位男士建议这位女士做什么?",
       "start": 428.06,
-      "end": 428.74
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What does the man suggest the woman do?",
-      "translation": "男人建议女人怎么做?",
-      "start": 429.26,
-      "end": 432.12
+      "end": 432.414,
+      "questionNumber": 8
     },
     {
       "speaker": "听力原声",
@@ -884,50 +844,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "9.",
-      "translation": "9. 国家",
+      "text": "9. What do we learn about Leo Sanchez's farm?",
+      "translation": "第 9 题：关于Leo Sanchez的农场我们了解到什么？",
       "start": 609.83,
-      "end": 610.59
+      "end": 615.193,
+      "questionNumber": 9
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do we learn about Leo Sanchez' farm?",
-      "translation": "我们从里欧·桑切斯农场学到什么?",
-      "start": 611.36,
-      "end": 614.8
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 10.",
-      "translation": "问题10。",
+      "text": "10. What has motivated Leo Sanchez and his fellow young farmers to engage in farming?",
+      "translation": "第 10 题：是什么促使Leo Sanchez和他的年轻农民同行从事农业？",
       "start": 628.17,
-      "end": 629.01
+      "end": 635.404,
+      "questionNumber": 10
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What has motivated Leo Sanchez and his fellow young farmers to engage in farming?",
-      "translation": "是什么激励Leo Sanchez和他的年轻农民同胞从事农业?",
-      "start": 629.55,
-      "end": 635.09
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 11.",
-      "translation": "问题11。",
+      "text": "11. Why did Leo Sanchez buy a hand-operated weeding tool?",
+      "translation": "第 11 题：Leo Sanchez为什么购买手动除草工具？",
       "start": 648.48,
-      "end": 649.28
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Why did Leo Sanchez buy a hand-operated weeding tool?",
-      "translation": "为什么Leo Sanchez买手动除草工具?",
-      "start": 650.03,
-      "end": 654.07
+      "end": 654.353,
+      "questionNumber": 11
     },
     {
       "speaker": "听力原声",
@@ -1068,8 +1007,44 @@
       "text": "I'm not sure bugs will become a popular snack anytime soon, but they're definitely food for thought.",
       "translation": "我不确定昆虫是否会很快成为一种受欢迎的零食，但它们确实是一个值得思考的问题。",
       "start": 779.78,
-      "end": 856.9,
+      "end": 793.82,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "12. What do we learn from the passage about the food company Eat Grub?",
+      "translation": "第 12 题：我们从文章中了解到关于食品公司 Eat Grub 的什么信息?",
+      "start": 793.82,
+      "end": 800.299,
+      "questionNumber": 12
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "13. What does the speaker say about his first bite of roasted crickets?",
+      "translation": "第 13 题：说话者对他第一次吃烤蟋蟀说了什么?",
+      "start": 812.68,
+      "end": 819.899,
+      "questionNumber": 13
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "14. What does Eat Grub say about its dried crickets?",
+      "translation": "第 14 题：Eat Grub 对其干蟋蟀说了什么?",
+      "start": 832.38,
+      "end": 838.435,
+      "questionNumber": 14
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "15. What does the passage say about insect farming?",
+      "translation": "第 15 题：文章对昆虫养殖说了什么?",
+      "start": 852.92,
+      "end": 856.798,
+      "questionNumber": 15
     },
     {
       "speaker": "听力原声",
@@ -1327,50 +1302,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "16.",
-      "translation": "16岁。",
+      "text": "16. Why do psychologists and educators study learning styles?",
+      "translation": "第 16 题：心理学家和教育工作者为什么要研究学习风格?",
       "start": 1087.28,
-      "end": 1087.8
+      "end": 1093.69,
+      "questionNumber": 16
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Why do psychologists and educators study learning styles?",
-      "translation": "为什么心理学家和教育家学习学习方式?",
-      "start": 1088.76,
-      "end": 1093.18
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "17.",
-      "translation": "17岁",
+      "text": "17. What does the speaker say about one study mentioned in the 2008 review?",
+      "translation": "第 17 题：关于2008年综述中提到的一项研究,说话者说了什么?",
       "start": 1106.8,
-      "end": 1107.62
+      "end": 1114.167,
+      "questionNumber": 17
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the speaker say about one study mentioned in the 2008 review?",
-      "translation": "发言者对2008年审议中提到的一项研究怎么说?",
-      "start": 1108.28,
-      "end": 1113.78
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "18.",
-      "translation": "18岁",
+      "text": "18. What message does the speaker want to convey about learning at the end of the talk?",
+      "translation": "第 18 题：在讲话结束时,说话者想要传达关于学习的什么信息?",
       "start": 1127.33,
-      "end": 1127.85
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What message does the speaker want to convey about learning at the end of the talk?",
-      "translation": "发言者想传达什么信息来说明在演讲结束时学习?",
-      "start": 1128.47,
-      "end": 1134.37
+      "end": 1134.685,
+      "questionNumber": 18
     },
     {
       "speaker": "听力原声",
@@ -1553,10 +1507,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What is the result of denying workers right to make their own choices?",
-      "translation": "剥夺工人作出自己选择的权利的后果是什么?",
+      "text": "19. What do people often feel guilty about according to the speaker?",
+      "translation": "第 19 题：根据讲话者所说,人们通常对什么感到内疚?",
+      "start": 1326.24,
+      "end": 1332.363,
+      "questionNumber": 19
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "20. What did leading economists predict 90 years ago?",
+      "translation": "第 20 题：90年前顶尖的经济学家们预测了什么?",
+      "start": 1345.54,
+      "end": 1351.303,
+      "questionNumber": 20
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "21. What is the result of denying workers' right to make their own choices?",
+      "translation": "第 21 题：剥夺工人自主选择权的结果是什么?",
       "start": 1366.12,
-      "end": 1371.22
+      "end": 1371.694,
+      "questionNumber": 21
     },
     {
       "speaker": "听力原声",
@@ -1767,58 +1740,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the speaker say about the Dream Airport in Berlin?",
-      "translation": "发言人对柏林的梦境机场怎么说?",
+      "text": "22. What does the speaker say about the dream airport in Berlin?",
+      "translation": "第 22 题：说话者对柏林梦想机场有何评价?",
       "start": 1602.22,
-      "end": 1606.1
+      "end": 1606.507,
+      "questionNumber": 22
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 23.",
-      "translation": "问题23。",
+      "text": "23. Why was there a need for a new airport in Berlin?",
+      "translation": "第 23 题：为什么柏林需要一座新机场？",
       "start": 1619.4,
-      "end": 1620.3
+      "end": 1625.255,
+      "questionNumber": 23
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Why was there a need for a new airport in Berlin?",
-      "translation": "为什么需要在柏林建立一个新的机场?",
-      "start": 1621.55,
-      "end": 1624.93
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 24.",
-      "translation": "问题24。",
+      "text": "24. Why did Berlin postpone the opening of its dream airport again and again?",
+      "translation": "第 24 题：柏林为何一再推迟其梦想机场的开放?",
       "start": 1638.2,
-      "end": 1639.1
+      "end": 1645.036,
+      "questionNumber": 24
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Why did Berlin postpone the opening of its Dream Airport again and again?",
-      "translation": "为什么柏林一再推迟其梦境机场的开放?",
-      "start": 1639.78,
-      "end": 1644.76
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 25.",
-      "translation": "问题25。",
+      "text": "25. What happens while the airport remains unused?",
+      "translation": "第 25 题：当机场闲置不用时会发生什么?",
       "start": 1658.04,
-      "end": 1659.1
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What happens while the airport remains unused?",
-      "translation": "当机场仍未使用时会怎样?",
-      "start": 1659.62,
-      "end": 1663.4
+      "end": 1663.952,
+      "questionNumber": 25
     },
     {
       "speaker": "听力原声",
@@ -1832,5 +1785,6 @@
   "translation_sources": [
     "https://english-exam.lazynote.cn/cet6/sections/listening/2019-12-2/",
     "Sams200/opus-mt-en-zh (unmatched sentences only)"
-  ]
+  ],
+  "question_verification": "All 25 published question prompts located in original audio; numbers and prompts share one replay unit."
 }

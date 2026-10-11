@@ -224,58 +224,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "1.",
-      "translation": "1. 国家",
+      "text": "1. Why does the woman say she can be so energetic?",
+      "translation": "第 1 题：女士为什么说她能如此精力充沛?",
       "start": 163.02,
-      "end": 163.5
+      "end": 167.374,
+      "questionNumber": 1
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Why does the woman say she can be so energetic?",
-      "translation": "为什么女人说她能这么精力充沛?",
-      "start": 163.88,
-      "end": 166.64
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "2.",
-      "translation": "2. 目标",
+      "text": "2. What has the woman been engaged in?",
+      "translation": "第 2 题：女士一直从事什么工作?",
       "start": 180.51,
-      "end": 181.19
+      "end": 184.51,
+      "questionNumber": 2
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What has the woman been engaged in?",
-      "translation": "该妇女从事了哪些工作?",
-      "start": 181.92,
-      "end": 184.14
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 3.",
-      "translation": "问题3",
+      "text": "3. What does the woman say about the benefit teaching brings to her?",
+      "translation": "第 3 题：女士如何评价教学给她带来的益处?",
       "start": 197.61,
-      "end": 198.45
+      "end": 203.345,
+      "questionNumber": 3
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the woman say about the benefit teaching brings to her?",
-      "translation": "女方对教学给女方带来的福利有何看法?",
-      "start": 199.31,
-      "end": 203.05
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question four How does the woman say new scientific breakthroughs can be made possible?",
-      "translation": "问题四 如何让女性说 新的科学突破 成为可能?",
-      "start": 216.39,
-      "end": 222.32
+      "text": "4. How does the woman say new scientific breakthroughs can be made possible?",
+      "translation": "第 4 题：女士认为如何才能实现新的科学突破?",
+      "start": 217.17,
+      "end": 222.729,
+      "questionNumber": 4
     },
     {
       "speaker": "听力原声",
@@ -540,66 +520,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 5.",
-      "translation": "问题5",
+      "text": "5. What do both speakers think of dreams?",
+      "translation": "第 5 题：两位说话者对梦的看法是什么?",
       "start": 358.83,
-      "end": 359.57
+      "end": 363.259,
+      "questionNumber": 5
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do both speakers think of dreams?",
-      "translation": "两位发言者对梦想有何看法?",
-      "start": 360.02,
-      "end": 362.54
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 6.",
-      "translation": "问题6",
+      "text": "6. Why didn't the woman's grandmother take her scheduled flight?",
+      "translation": "第 6 题：为什么这位女士的祖母没有乘坐预定的航班?",
       "start": 376.35,
-      "end": 376.99
+      "end": 381.474,
+      "questionNumber": 6
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Why didn't the woman's grandmother take her scheduled flight?",
-      "translation": "为什么那女人的祖母不搭她的航班?",
-      "start": 377.65,
-      "end": 381.03
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "7.",
-      "translation": "7 个",
+      "text": "7. What does the woman say about people's emotions?",
+      "translation": "第 7 题：这位女士关于人的情绪说了什么?",
       "start": 394.74,
-      "end": 395.34
+      "end": 399.312,
+      "questionNumber": 7
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the woman say about people's emotions?",
-      "translation": "女人对人们的情绪怎么说?",
-      "start": 396.11,
-      "end": 399.05
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 8.",
-      "translation": "问题8",
+      "text": "8. What did psychologist Sigmund Freud say about adults' dreams?",
+      "translation": "第 8 题：心理学家Sigmund Freud关于成年人的梦说了什么?",
       "start": 412.34,
-      "end": 413.06
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What did psychologist, Sigmund Freud, say about adult's dreams?",
-      "translation": "心理学家西格蒙德·弗洛伊德 怎么说成人梦想?",
-      "start": 414.03,
-      "end": 418.05
+      "end": 418.62,
+      "questionNumber": 8
     },
     {
       "speaker": "听力原声",
@@ -794,6 +746,33 @@
     {
       "speaker": "听力原声",
       "actor": "",
+      "text": "9. What did scientists first use to discover Lake Vostok in the 1970s?",
+      "translation": "第 9 题：科学家在20世纪70年代最初使用什么发现了沃斯托克湖?",
+      "start": 578.48,
+      "end": 585.525,
+      "questionNumber": 9
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "10. What do scientists think about Lake Vostok?",
+      "translation": "第 10 题：科学家对沃斯托克湖有何看法?",
+      "start": 598.72,
+      "end": 603.066,
+      "questionNumber": 10
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "11. What do the scientists hope their discoveries will do?",
+      "translation": "第 11 题：科学家希望他们的发现能做什么?",
+      "start": 615.44,
+      "end": 620.885,
+      "questionNumber": 11
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
       "text": "Passage 2 The idea to study the American Indian tribe, Tara Humaras, came to James Copeland in 1984,",
       "translation": "2 研究美洲印第安人部落Tara Humaras的想法 1984年来到詹姆斯·科普兰",
       "start": 633.68,
@@ -926,58 +905,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Why did James Copeland want to study the American Indian tribe Tara Humaris?",
-      "translation": "为什么詹姆斯·科普兰想研究 美国印第安人部落塔拉·胡马里斯?",
+      "text": "12. Why did James Copeland want to study the American Indian tribe Tarahumaras?",
+      "translation": "第 12 题：James Copeland 为什么想要研究美洲印第安部落 Tarahumaras?",
       "start": 749.84,
-      "end": 755.22
+      "end": 755.713,
+      "questionNumber": 12
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 13.",
-      "translation": "问题13。",
+      "text": "13. How did Gonzalez help James Copeland?",
+      "translation": "第 13 题：Gonzalez 如何帮助 James Copeland?",
       "start": 768.61,
-      "end": 769.63
+      "end": 774.079,
+      "questionNumber": 13
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "How did Gonzalez help James Copeland?",
-      "translation": "冈萨雷斯如何帮助詹姆斯·科普兰?",
-      "start": 770.53,
-      "end": 773.63
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 14.",
-      "translation": "问题14。",
+      "text": "14. What does the speaker say about James Copeland's trip to the Tarahumaras village?",
+      "translation": "第 14 题：讲话者对 James Copeland 前往 Tarahumaras 村庄的旅行是怎么说的?",
       "start": 786.87,
-      "end": 787.95
+      "end": 794.002,
+      "questionNumber": 14
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the speaker say about James Copeland's trip to the Tara Humaris village?",
-      "translation": "发言人对James Copeland去Tara Humaris村旅行有何看法?",
-      "start": 788.79,
-      "end": 793.43
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 15.",
-      "translation": "问题15。",
+      "text": "15. What impresses James Copeland about the Tarahumaras tribe?",
+      "translation": "第 15 题：Tarahumaras 部落的什么给 James Copeland 留下了深刻印象?",
       "start": 806.97,
-      "end": 807.77
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What impresses James Copeland about the Tara Humaris tribe?",
-      "translation": "是什么让詹姆斯·科普兰 印象深刻的塔拉·胡马里斯部落?",
-      "start": 808.27,
-      "end": 813.01
+      "end": 813.679,
+      "questionNumber": 15
     },
     {
       "speaker": "听力原声",
@@ -1198,6 +1157,33 @@
       "start": 1023.37,
       "end": 1029.6,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "16. What usually happens when people are accused of being radical?",
+      "translation": "第 16 题：当人们被指责为激进分子时通常会发生什么?",
+      "start": 1035.78,
+      "end": 1041.204,
+      "questionNumber": 16
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "17. What is the speaker's definition of a radical?",
+      "translation": "第 17 题：说话者对激进分子的定义是什么?",
+      "start": 1053.48,
+      "end": 1058.825,
+      "questionNumber": 17
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "18. What does the speaker think of most radicals in the American history?",
+      "translation": "第 18 题：说话者如何看待美国历史上的大多数激进分子?",
+      "start": 1071.08,
+      "end": 1077.784,
+      "questionNumber": 18
     },
     {
       "speaker": "听力原声",
@@ -1439,42 +1425,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "as human beings.",
-      "translation": "作为人。",
-      "start": 1261.16,
-      "end": 1262.16
+      "text": "19. What does the speaker say about us as human beings?",
+      "translation": "第 19 题：说话者关于我们人类说了什么？",
+      "start": 1256.83,
+      "end": 1262.778,
+      "questionNumber": 19
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "20.",
-      "translation": "20. 20个",
+      "text": "20. What does the speaker say Fred should do first to improve his quality of life?",
+      "translation": "第 20 题：说话者说Fred应该首先做什么来改善他的生活质量？",
       "start": 1276.07,
-      "end": 1276.61
+      "end": 1282.81,
+      "questionNumber": 20
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the speaker say Fred should do first to improve his quality of life?",
-      "translation": "发言者说Fred应该首先做些什么来提高他的生活质量?",
-      "start": 1277.68,
-      "end": 1282.62
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 21.",
-      "translation": "问题21",
+      "text": "21. What does the speaker say about psychiatrists?",
+      "translation": "第 21 题：说话者关于精神科医生说了什么？",
       "start": 1295.97,
-      "end": 1296.79
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What does the speaker say about psychiatrists?",
-      "translation": "演讲者对心理医生怎么说?",
-      "start": 1297.51,
-      "end": 1300.01
+      "end": 1300.734,
+      "questionNumber": 21
     },
     {
       "speaker": "听力原声",
@@ -1694,50 +1667,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 23.",
-      "translation": "问题23。",
+      "text": "22. What does the speaker say about the American dollar bill?",
+      "translation": "第 22 题：说话者关于美元纸币说了什么？",
+      "start": 1493.21,
+      "end": 1498.023,
+      "questionNumber": 22
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "23. What does the speaker say about the exact composition of the American dollar bill?",
+      "translation": "第 23 题：说话者关于美元纸币的确切成分说了什么？",
       "start": 1510.86,
-      "end": 1511.84
+      "end": 1517.947,
+      "questionNumber": 23
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the speaker say about the exact composition of the American dollar bill?",
-      "translation": "发言者对美元债券的确切构成有何看法?",
-      "start": 1512.6,
-      "end": 1517.48
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "24.",
-      "translation": "24. 24个",
+      "text": "24. Why did the new American government mint only coins for common currency?",
+      "translation": "第 24 题：为什么新成立的美国政府只铸造硬币作为流通货币？",
       "start": 1530.9,
-      "end": 1531.62
+      "end": 1537.894,
+      "questionNumber": 24
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Why did the new American government mint only coins for common currency?",
-      "translation": "为什么美国政府只用硬币来换取共同货币?",
-      "start": 1532.5,
-      "end": 1537.26
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "25.",
-      "translation": "25个",
+      "text": "25. What have generations of American politicians argued for?",
+      "translation": "第 25 题：几代美国政治家主张什么？",
       "start": 1551.01,
-      "end": 1552.01
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What have generations of American politicians argued for?",
-      "translation": "几代美国政客都争吵什么?",
-      "start": 1552.59,
-      "end": 1556.57
+      "end": 1556.935,
+      "questionNumber": 25
     },
     {
       "speaker": "听力原声",
@@ -1751,5 +1712,6 @@
   "translation_sources": [
     "https://english-exam.lazynote.cn/cet6/sections/listening/2020-09-1/",
     "Sams200/opus-mt-en-zh (unmatched sentences only)"
-  ]
+  ],
+  "question_verification": "All 25 published question prompts located in original audio; numbers and prompts share one replay unit."
 }

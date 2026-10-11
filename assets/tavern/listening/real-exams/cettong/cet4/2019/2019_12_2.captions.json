@@ -102,6 +102,24 @@
     {
       "speaker": "听力原声",
       "actor": "",
+      "text": "1. What problem is Britain facing?",
+      "translation": "第 1 题：英国正面临什么问题?",
+      "start": 125.76,
+      "end": 129.302,
+      "questionNumber": 1
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "2. What is the cause of the problem according to the UK Health Secretary?",
+      "translation": "第 2 题：根据英国卫生大臣的说法,问题的原因是什么?",
+      "start": 141.95,
+      "end": 148.755,
+      "questionNumber": 2
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
       "text": "A man from Libya was enjoying a walk along the sands at Southport Beach.",
       "translation": "来自利比亚的一位男子在南港海滩的沙滩上散步。",
       "start": 164.1,
@@ -194,6 +212,24 @@
       "translation": "我们祝愿这位先生尽快康复。”",
       "start": 226.1,
       "end": 229.44
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "3. What does the news report say about the Libyan man?",
+      "translation": "第 3 题：新闻报道中关于这名利比亚男子说了什么?",
+      "start": 236.4,
+      "end": 241.297,
+      "questionNumber": 3
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "4. What did Keith Porter say at an interview?",
+      "translation": "第 4 题：Keith Porter在采访中说了什么?",
+      "start": 253.94,
+      "end": 258.937,
+      "questionNumber": 4
     },
     {
       "speaker": "听力原声",
@@ -301,6 +337,33 @@
       "start": 355.82,
       "end": 364.28,
       "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "5. What does the news report say about the raccoon, a small cat-like animal?",
+      "translation": "第 5 题：新闻报道中关于浣熊这种像猫一样的小动物说了什么？",
+      "start": 371.12,
+      "end": 377.659,
+      "questionNumber": 5
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "6. What will the wildlife management company do with the captured raccoon?",
+      "translation": "第 6 题：野生动物管理公司将如何处置被捕获的浣熊？",
+      "start": 390.02,
+      "end": 396.664,
+      "questionNumber": 6
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "7. What did one online post say?",
+      "translation": "第 7 题：一条网络帖子说了什么？",
+      "start": 411.47,
+      "end": 414.693,
+      "questionNumber": 7
     },
     {
       "speaker": "听力原声",
@@ -622,6 +685,42 @@
     {
       "speaker": "听力原声",
       "actor": "",
+      "text": "8. Why did the woman feel excited?",
+      "translation": "第 8 题：这位女士为什么感到兴奋？",
+      "start": 574.54,
+      "end": 578.58,
+      "questionNumber": 8
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "9. When did the man get his first full-time job?",
+      "translation": "第 9 题：这位男士什么时候得到他的第一份全职工作？",
+      "start": 591.86,
+      "end": 597.407,
+      "questionNumber": 9
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "10. What did the man do when he got his first pay?",
+      "translation": "第 10 题：这位男士拿到他的第一份薪水时做了什么？",
+      "start": 610.74,
+      "end": 615.569,
+      "questionNumber": 10
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "11. What does the woman say she is going to do?",
+      "translation": "第 11 题：这位女士说她打算做什么？",
+      "start": 628.78,
+      "end": 633.371,
+      "questionNumber": 11
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
       "text": "Conversation two.",
       "translation": "对话二",
       "start": 646.46,
@@ -849,6 +948,42 @@
     {
       "speaker": "听力原声",
       "actor": "",
+      "text": "12. Why does the man seem to be distracted?",
+      "translation": "第 12 题：为什么这个男人看起来心不在焉?",
+      "start": 761.34,
+      "end": 766.037,
+      "questionNumber": 12
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "13. What does the woman say the man should do?",
+      "translation": "第 13 题：女人说这个男人应该做什么?",
+      "start": 779.26,
+      "end": 784.106,
+      "questionNumber": 13
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "14. What does the man say is part of his problem?",
+      "translation": "第 14 题：这个男人说他的问题是什么?",
+      "start": 797.43,
+      "end": 802.285,
+      "questionNumber": 14
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "15. Why doesn't the man's girlfriend agree to get married right now?",
+      "translation": "第 15 题：为什么这个男人的女朋友不同意现在就结婚?",
+      "start": 815.52,
+      "end": 822.016,
+      "questionNumber": 15
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
       "text": "Section C. In this section,",
       "translation": "C节. 本节",
       "start": 835.4,
@@ -905,17 +1040,9 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "1.",
-      "translation": "1. 国家",
-      "start": 868.33,
-      "end": 869.33
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Analytical skills are our ability to understand and solve problems using information we have available.",
+      "text": "1. Analytical skills are our ability to understand and solve problems using information we have available.",
       "translation": "分析技能是我们利用现有信息理解和解决问题的能力。",
-      "start": 870.34,
+      "start": 868.33,
       "end": 878.52
     },
     {
@@ -1068,6 +1195,33 @@
     {
       "speaker": "听力原声",
       "actor": "",
+      "text": "16. What kind of ability do analytical skills refer to in the passage?",
+      "translation": "第 16 题：文中提到的分析能力指的是哪种能力?",
+      "start": 1002.2,
+      "end": 1009.447,
+      "questionNumber": 16
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "17. What does the passage say is an entertaining way of enhancing one's analytical skills?",
+      "translation": "第 17 题：文中说提高分析能力的一种有趣方式是什么?",
+      "start": 1024.45,
+      "end": 1031.648,
+      "questionNumber": 17
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "18. What else does the speaker advise people to do to improve their analytical skills?",
+      "translation": "第 18 题：说话者还建议人们做什么来提高分析能力?",
+      "start": 1045.27,
+      "end": 1052.841,
+      "questionNumber": 18
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
       "text": "Passage 2.",
       "translation": "通行证2。",
       "start": 1066.0,
@@ -1161,6 +1315,33 @@
       "start": 1164.59,
       "end": 1168.15,
       "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "19. What does the passage say we don't know much about?",
+      "translation": "第 19 题：文章说我们对什么了解不多?",
+      "start": 1175.26,
+      "end": 1181.589,
+      "questionNumber": 19
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "20. What does Dr. Marc Bekoff say about dogs?",
+      "translation": "第 20 题：Marc Bekoff 博士关于狗说了什么?",
+      "start": 1194.77,
+      "end": 1200.395,
+      "questionNumber": 20
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "21. What does the speaker say about most dogs?",
+      "translation": "第 21 题：说话者关于大多数狗说了什么?",
+      "start": 1213.55,
+      "end": 1219.276,
+      "questionNumber": 21
     },
     {
       "speaker": "听力原声",
@@ -1291,6 +1472,42 @@
     {
       "speaker": "听力原声",
       "actor": "",
+      "text": "22. What did the boy Jude Sparks think he had discovered?",
+      "translation": "第 22 题：男孩Jude Sparks认为他发现了什么?",
+      "start": 1340.2,
+      "end": 1345.394,
+      "questionNumber": 22
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "23. What are the researchers at New Mexico State University doing with the boy's discovery?",
+      "translation": "第 23 题：New Mexico State University的研究人员正在对这个男孩的发现做什么?",
+      "start": 1358.71,
+      "end": 1366.794,
+      "questionNumber": 23
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "24. What did Professor Peter Houde say when interviewed by ABC News?",
+      "translation": "第 24 题：Peter Houde教授在接受ABC News采访时说了什么?",
+      "start": 1380.06,
+      "end": 1387.716,
+      "questionNumber": 24
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "25. What do the researchers plan to do?",
+      "translation": "第 25 题：研究人员计划做什么?",
+      "start": 1400.75,
+      "end": 1405.441,
+      "questionNumber": 25
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
       "text": "This is the end of listening comprehension.",
       "translation": "听觉理解的结束",
       "start": 1418.57,
@@ -1300,5 +1517,6 @@
   "translation_sources": [
     "https://english-exam.lazynote.cn/cet4/sections/listening/2019-12-2/",
     "Sams200/opus-mt-en-zh (unmatched sentences only)"
-  ]
+  ],
+  "question_verification": "All 25 published question prompts located in original audio; numbers and prompts share one replay unit."
 }

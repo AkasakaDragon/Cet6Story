@@ -93,18 +93,20 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Why did the six residents have to find another place to stay?",
-      "translation": "为什么这六个居民要另找地方住?",
+      "text": "1. Why did the six residents have to find another place to stay?",
+      "translation": "第 1 题：为什么六名居民不得不另寻住处?",
       "start": 117.99,
-      "end": 122.15
+      "end": 122.414,
+      "questionNumber": 1
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 2 What does the news reports say the Norwalk Fire Marshal is doing?",
-      "translation": "问题2 新闻报道说诺沃克消防队长在做什么?",
+      "text": "2. What does the news report say the Norwalk Fire Marshal is doing?",
+      "translation": "第 2 题：新闻报道称Norwalk消防局长正在做什么?",
       "start": 137.47,
-      "end": 142.76
+      "end": 143.014,
+      "questionNumber": 2
     },
     {
       "speaker": "听力原声",
@@ -225,10 +227,20 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "and symptoms of depression.",
-      "translation": "和抑郁症症状。",
-      "start": 277.21,
-      "end": 278.55
+      "text": "3. What have a number of past studies found about season of birth?",
+      "translation": "第 3 题：过去的许多研究发现出生季节有什么影响?",
+      "start": 248.92,
+      "end": 254.648,
+      "questionNumber": 3
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "4. What did the new study find about the relationship between participants' month of birth and symptoms of depression?",
+      "translation": "第 4 题：这项新研究发现参与者的出生月份与抑郁症状之间存在什么关系?",
+      "start": 269.2,
+      "end": 279.073,
+      "questionNumber": 4
     },
     {
       "speaker": "听力原声",
@@ -331,18 +343,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 7.",
-      "translation": "问题7",
-      "start": 408.14,
-      "end": 409.14
+      "text": "5. What do the researchers' tests show about the cloned dog?",
+      "translation": "第 5 题：研究人员的测试表明克隆犬有什么特点?",
+      "start": 368.57,
+      "end": 372.943,
+      "questionNumber": 5
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Why does the news report say the scientist's goal is not yet possible?",
-      "translation": "为什么新闻报道说科学家的目标还不可能?",
-      "start": 409.64,
-      "end": 414.1
+      "text": "6. What is the scientists' purpose in cloning police dogs?",
+      "translation": "第 6 题：科学家克隆警犬的目的是什么?",
+      "start": 387.66,
+      "end": 393.063,
+      "questionNumber": 6
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "7. Why does the news report say the scientists' goal is not yet possible?",
+      "translation": "第 7 题：为什么新闻报道称科学家的目标尚不可能实现?",
+      "start": 408.14,
+      "end": 414.344,
+      "questionNumber": 7
     },
     {
       "speaker": "听力原声",
@@ -600,50 +623,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "8.",
-      "translation": "8. 预 算",
+      "text": "8. How did the man get to know about the book The Three Body Problem?",
+      "translation": "第 8 题：这位男士是如何了解到《三体》这本书的?",
       "start": 563.56,
-      "end": 563.9
+      "end": 568.779,
+      "questionNumber": 8
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "How did the man get to know about the book, The Three-Body Problem?",
-      "translation": "这个人怎么会知道那本书 \"三重问题\"?",
-      "start": 564.86,
-      "end": 568.44
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 9.",
-      "translation": "问题9",
+      "text": "9. What does the woman say she can't remember about the book's author?",
+      "translation": "第 9 题：这位女士说她记不得这本书作者的什么?",
       "start": 584.1,
-      "end": 584.72
+      "end": 589.333,
+      "questionNumber": 9
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the woman say she can't remember about the book's author?",
-      "translation": "那女人怎么说她不记得这本书的作者了?",
-      "start": 585.25,
-      "end": 589.17
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 10 What does the man have to do to finish his thesis?",
-      "translation": "问题10 男人要写完论文要做什么?",
+      "text": "10. What does the man have to do to finish his thesis?",
+      "translation": "第 10 题：这位男士需要做什么来完成他的论文?",
       "start": 604.6,
-      "end": 609.12
+      "end": 609.511,
+      "questionNumber": 10
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 11 What will the man most probably do first after the conversation?",
-      "translation": "问题11 男人最有可能在谈话后先做什么?",
+      "text": "11. What will the man most probably do first after the conversation?",
+      "translation": "第 11 题：对话结束后这位男士最有可能先做什么?",
       "start": 624.66,
-      "end": 630.48
+      "end": 630.998,
+      "questionNumber": 11
     },
     {
       "speaker": "听力原声",
@@ -849,66 +860,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 12.",
-      "translation": "问题12。",
+      "text": "12. Why does the woman call the man?",
+      "translation": "第 12 题：女士为什么给男士打电话?",
       "start": 744.78,
-      "end": 745.76
+      "end": 748.573,
+      "questionNumber": 12
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Why does the woman call the man?",
-      "translation": "为什么女人叫男人?",
-      "start": 746.52,
-      "end": 748.34
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 13.",
-      "translation": "问题13。",
+      "text": "13. What is the man still looking for?",
+      "translation": "第 13 题：男士还在寻找什么?",
       "start": 763.97,
-      "end": 764.77
+      "end": 767.774,
+      "questionNumber": 13
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What is the man still looking for?",
-      "translation": "那人还在寻找什么?",
-      "start": 765.63,
-      "end": 767.59
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 14.",
-      "translation": "问题14。",
+      "text": "14. What does the man say they are getting close to?",
+      "translation": "第 14 题：男士说他们正在接近什么?",
       "start": 783.05,
-      "end": 783.91
+      "end": 787.787,
+      "questionNumber": 14
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the man say they are getting close to?",
-      "translation": "那男人说他们接近什么了?",
-      "start": 784.68,
-      "end": 787.6
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 15.",
-      "translation": "问题15。",
+      "text": "15. What does the man finally ask the woman to remember?",
+      "translation": "第 15 题：男士最后要求女士记住什么?",
       "start": 803.11,
-      "end": 803.89
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What does the man finally ask the woman to remember?",
-      "translation": "男人最后要求女人记住什么?",
-      "start": 804.71,
-      "end": 807.69
+      "end": 808.452,
+      "questionNumber": 15
     },
     {
       "speaker": "听力原声",
@@ -1039,8 +1022,35 @@
       "text": "They have been attracted by a patch of land this close to wilderness, and it is their responsibility to keep it that way.",
       "translation": "他们被这片如此接近荒野的土地所吸引，保持其原貌是他们的责任。",
       "start": 944.75,
-      "end": 1003.38,
+      "end": 958.41,
       "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "16. Why has wild camping become popular in the UK?",
+      "translation": "第 16 题：为什么野外露营在英国变得流行了？",
+      "start": 958.41,
+      "end": 963.367,
+      "questionNumber": 16
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "17. Why is camping banned for part of the summer in public parks?",
+      "translation": "第 17 题：为什么公共公园在夏季部分时间禁止露营？",
+      "start": 978.51,
+      "end": 984.238,
+      "questionNumber": 17
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "18. What does the speaker suggest campers do?",
+      "translation": "第 18 题：说话者建议露营者做什么？",
+      "start": 998.73,
+      "end": 1003.575,
+      "questionNumber": 18
     },
     {
       "speaker": "听力原声",
@@ -1153,18 +1163,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What is the unusual coloring of pink dolphins believed to originate in?",
-      "translation": "粉色海豚的颜色为何如此不同寻常?",
-      "start": 1151.28,
-      "end": 1156.54
+      "text": "19. What does the passage say about pink dolphins?",
+      "translation": "第 19 题：文章关于粉红海豚说了什么?",
+      "start": 1130.88,
+      "end": 1134.359,
+      "questionNumber": 19
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 21 What has become of the Amazon Wetland system since 2018?",
-      "translation": "问题21 自2018年以来亚马逊湿地系统的情况如何?",
+      "text": "20. What is the unusual coloring of pink dolphins believed to originate in?",
+      "translation": "第 20 题：粉红海豚不寻常的颜色被认为源于什么?",
+      "start": 1151.28,
+      "end": 1156.768,
+      "questionNumber": 20
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "21. What has become of the Amazon wetland system since 2018?",
+      "translation": "第 21 题：自2018年以来亚马逊湿地系统发生了什么变化?",
       "start": 1171.82,
-      "end": 1177.64
+      "end": 1177.916,
+      "questionNumber": 21
     },
     {
       "speaker": "听力原声",
@@ -1294,42 +1315,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Why did most young adults in the survey say financial support to children aged 25 to 34 is a bad thing?",
-      "translation": "为什么大多数青年成年人在调查中说,向25至34岁的儿童提供财政支助是坏事?",
+      "text": "22. What do we learn from a new survey by Merrill Lynch/Age Wave?",
+      "translation": "第 22 题：从美林证券/Age Wave 的一项新调查中我们了解到什么?",
+      "start": 1318.56,
+      "end": 1324.452,
+      "questionNumber": 22
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "23. Why did most young adults in the survey say financial support to children aged 25 to 34 is a bad thing?",
+      "translation": "第 23 题：为什么调查中大多数年轻成年人说对25至34岁子女的经济支持是件坏事?",
       "start": 1341.06,
-      "end": 1349.4
+      "end": 1349.653,
+      "questionNumber": 23
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "24.",
-      "translation": "24. 24个",
+      "text": "24. What did the respondents in the survey say regarding financial independence?",
+      "translation": "第 24 题：调查中的受访者对经济独立有何看法?",
       "start": 1364.88,
-      "end": 1365.62
+      "end": 1370.967,
+      "questionNumber": 24
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What did the respondents in the survey say regarding financial independence?",
-      "translation": "调查中的答复者对财务独立有何看法?",
-      "start": 1366.34,
-      "end": 1370.16
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 25.",
-      "translation": "问题25。",
+      "text": "25. What is one big reason young adults are struggling?",
+      "translation": "第 25 题：年轻成年人陷入困境的一个重要原因是什么?",
       "start": 1386.3,
-      "end": 1387.16
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What is one big reason young adults are struggling?",
-      "translation": "青年成年人挣扎的一个大原因是什么?",
-      "start": 1387.96,
-      "end": 1390.74
+      "end": 1391.178,
+      "questionNumber": 25
     },
     {
       "speaker": "听力原声",
@@ -1343,5 +1360,6 @@
   "translation_sources": [
     "https://english-exam.lazynote.cn/cet4/sections/listening/2024-06-1/",
     "Sams200/opus-mt-en-zh (unmatched sentences only)"
-  ]
+  ],
+  "question_verification": "All 25 published question prompts located in original audio; numbers and prompts share one replay unit."
 }

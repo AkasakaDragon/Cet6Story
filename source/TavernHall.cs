@@ -1,4 +1,4 @@
-using System;using System.Collections.Generic;using System.Linq;
+﻿using System;using System.Collections.Generic;using System.Linq;
 public class HallEmployee {
  public string name{get;set;}public int xp{get;set;}public int workXp{get;set;}public int listeningXp{get;set;}public int level{get;set;}public double fatigue{get;set;}public bool resting{get;set;}public int job{get;set;}public List<int> batch{get;set;}public double progress{get;set;}public string action{get;set;}
  public HallEmployee(){level=1;job=-1;batch=new List<int>();action="待命";}
@@ -10,7 +10,7 @@ public class HallEmployee {
 public class HallRecipe {public string id{get;set;}public int made{get;set;}public bool enabled{get;set;}public HallRecipe(){enabled=true;}public int Rank{get{return made>=24?2:made>=8?1:0;}}}
 public class HallListeningRecord {public int interruptedAttempts{get;set;}public int interruptedBest{get;set;}public int attempts{get;set;}public int independentBest{get;set;}public int assistedBest{get;set;}public int corrections{get;set;}public int lastDay{get;set;}public int dailyRewards{get;set;}public List<int> wrong{get;set;}public HallListeningRecord(){independentBest=-1;assistedBest=-1;interruptedBest=-1;wrong=new List<int>();}}
 public class HallStudy {
- public bool english{get;set;}public bool chinese{get;set;}public string exam{get;set;}public string group{get;set;}public bool intensive{get;set;}public bool assisted{get;set;}public bool interrupted{get;set;}public bool started{get;set;}public bool finished{get;set;}public bool played{get;set;}public int employee{get;set;}public int question{get;set;}public int sentence{get;set;}public long position{get;set;}public Dictionary<string,int> answers{get;set;}public HallStudy(){answers=new Dictionary<string,int>();}
+ public bool subtitlesHidden{get;set;}public bool english{get;set;}public bool chinese{get;set;}public string exam{get;set;}public string group{get;set;}public bool intensive{get;set;}public bool assisted{get;set;}public bool interrupted{get;set;}public bool started{get;set;}public bool finished{get;set;}public bool played{get;set;}public int employee{get;set;}public int question{get;set;}public int sentence{get;set;}public long position{get;set;}public Dictionary<string,int> answers{get;set;}public HallStudy(){answers=new Dictionary<string,int>();}
 }
 public class HallGuest {
  public bool drinkReserved{get;set;}public double departure{get;set;}public int id{get;set;}public int table{get;set;}public int stage{get;set;}public double progress{get;set;}public double wait{get;set;}public bool boosted{get;set;}public int recipe{get;set;}public int quality{get;set;}public bool regular{get;set;}

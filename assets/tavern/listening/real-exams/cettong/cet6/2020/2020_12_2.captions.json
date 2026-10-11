@@ -251,34 +251,20 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "1.",
-      "translation": "1. 国家",
+      "text": "1. What are the speakers mainly talking about?",
+      "translation": "第 1 题：说话者主要在谈论什么?",
       "start": 168.25,
-      "end": 168.63
+      "end": 171.867,
+      "questionNumber": 1
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What are the speakers mainly talking about?",
-      "translation": "发言者主要在谈论什么?",
-      "start": 169.09,
-      "end": 171.55
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 2.",
-      "translation": "问题2",
+      "text": "2. What does the man say about the driving simulator?",
+      "translation": "第 2 题：男士对驾驶模拟器有何评价?",
       "start": 185.06,
-      "end": 185.78
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What does the man say about the driving simulator?",
-      "translation": "他对驾驶模拟器怎么说?",
-      "start": 186.27,
-      "end": 189.13
+      "end": 189.618,
+      "questionNumber": 2
     },
     {
       "speaker": "听力原声",
@@ -291,26 +277,20 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the woman say she really appreciates?",
-      "translation": "那个女人说她真正欣赏什么?",
+      "text": "3. What does the woman say she really appreciates?",
+      "translation": "第 3 题：女士说她真正欣赏的是什么?",
       "start": 204.48,
-      "end": 207.06
+      "end": 207.203,
+      "questionNumber": 3
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question four.",
-      "translation": "问题4。",
-      "start": 220.31,
-      "end": 221.17
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "outcome does the woman expect from the driving simulator?",
-      "translation": "女性期望驾驶模拟器产生什么结果?",
-      "start": 221.97,
-      "end": 225.81
+      "text": "4. What outcome does the woman expect from the driving simulator?",
+      "translation": "第 4 题：女士期望从驾驶模拟器中获得什么结果?",
+      "start": 220.2,
+      "end": 226.089,
+      "questionNumber": 4
     },
     {
       "speaker": "听力原声",
@@ -515,8 +495,44 @@
       "text": "That's an area I do need to put some more effort into—building closer relationships with those who engage my services and skills.",
       "translation": "这方面我确实需要多下些功夫，也就是和那些聘用我的服务和技能的人建立更亲密的关系。",
       "start": 362.87,
-      "end": 435.8,
+      "end": 377.1,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2020-12-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "5. What does the man say about his life of being self-employed?",
+      "translation": "第 5 题：男士如何评价他自雇的生活?",
+      "start": 377.1,
+      "end": 382.045,
+      "questionNumber": 5
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "6. What does the man say about managers?",
+      "translation": "第 6 题：男士对管理者有何看法?",
+      "start": 394.64,
+      "end": 399.063,
+      "questionNumber": 6
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "7. What do both speakers value most about self-employment?",
+      "translation": "第 7 题：两位说话者最看重自雇的哪一点?",
+      "start": 412.6,
+      "end": 417.688,
+      "questionNumber": 7
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "8. On what point does the man agree with the woman?",
+      "translation": "第 8 题：男士在哪一点上赞同女士的观点?",
+      "start": 430.68,
+      "end": 435.797,
+      "questionNumber": 8
     },
     {
       "speaker": "听力原声",
@@ -755,50 +771,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "9.",
-      "translation": "9. 国家",
+      "text": "9. What do we learn about the findings of the new study?",
+      "translation": "第 9 题：关于这项新研究的发现,我们了解到什么?",
       "start": 590.68,
-      "end": 591.12
+      "end": 594.367,
+      "questionNumber": 9
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do we learn about the findings of the new study?",
-      "translation": "我们如何了解新研究的结果?",
-      "start": 591.52,
-      "end": 594.04
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "10.",
-      "translation": "10 个",
+      "text": "10. What does the passage say may increase the value of products for consumers?",
+      "translation": "第 10 题：文章指出什么可能会增加产品对消费者的价值?",
       "start": 607.89,
-      "end": 608.49
+      "end": 613.655,
+      "questionNumber": 10
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the passage say may increase the value of products for consumers?",
-      "translation": "段落中写到什么可以提高产品对消费者的价值?",
-      "start": 608.89,
-      "end": 613.27
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 11.",
-      "translation": "问题11。",
+      "text": "11. How can the findings of the new study benefit online sellers according to the researchers?",
+      "translation": "第 11 题：根据研究人员的说法,这项新研究的发现如何使在线销售商受益?",
       "start": 627.13,
-      "end": 627.73
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "How can the findings of the new study benefit online sellers according to the researchers?",
-      "translation": "研究人员认为,新研究的结果如何使网上销售者受益?",
-      "start": 628.93,
-      "end": 634.09
+      "end": 634.587,
+      "questionNumber": 11
     },
     {
       "speaker": "听力原声",
@@ -958,42 +953,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "and productivity.",
-      "translation": "生产力。",
-      "start": 793.89,
-      "end": 794.43
+      "text": "12. What is the accepted wisdom concerning the office environment?",
+      "translation": "第 12 题：关于办公环境，人们普遍接受的观点是什么?",
+      "start": 767.54,
+      "end": 773.31,
+      "questionNumber": 12
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 14.",
-      "translation": "问题14。",
+      "text": "13. What did researchers find from their review of all studies relating to air-conditioning and productivity?",
+      "translation": "第 13 题：研究人员从他们对所有与空调和生产力相关的研究的回顾中发现了什么?",
+      "start": 786.01,
+      "end": 795.024,
+      "questionNumber": 13
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "14. What do we learn about using a little less air-conditioning during hot weather?",
+      "translation": "第 14 题：关于在炎热天气少用一点空调,我们了解到什么?",
       "start": 808.49,
-      "end": 809.43
+      "end": 815.307,
+      "questionNumber": 14
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do we learn about using a little less air conditioning during hot weather?",
-      "translation": "热天时少放点空调 我们学到什么了?",
-      "start": 810.45,
-      "end": 815.11
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 15.",
-      "translation": "问题15。",
+      "text": "15. What happens when people are used to an air-conditioned environment?",
+      "translation": "第 15 题：当人们习惯了空调环境时会发生什么?",
       "start": 828.79,
-      "end": 829.69
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What happens when people are used to an air conditioned environment?",
-      "translation": "当人们习惯于空调环境时会怎样?",
-      "start": 830.37,
-      "end": 834.03
+      "end": 834.334,
+      "questionNumber": 15
     },
     {
       "speaker": "听力原声",
@@ -1317,42 +1308,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What is one of the criticisms directed at the early research on solitude?",
-      "translation": "对早期孤独研究的批评是什么?",
+      "text": "16. What is one of the criticisms directed at the early research on solitude?",
+      "translation": "第 16 题：针对早期独处研究的批评之一是什么?",
       "start": 1066.81,
-      "end": 1070.87
+      "end": 1071.388,
+      "questionNumber": 16
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 17.",
-      "translation": "问题17。",
+      "text": "17. What do we learn about the results of the new research?",
+      "translation": "第 17 题：关于新研究的结果我们了解到什么?",
       "start": 1084.6,
-      "end": 1085.44
+      "end": 1089.52,
+      "questionNumber": 17
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do we learn about the results of the new research?",
-      "translation": "我们从新研究成果中了解到什么?",
-      "start": 1086.34,
-      "end": 1089.16
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 18.",
-      "translation": "问题18。",
+      "text": "18. What did the second experiment in the new research find about solitude?",
+      "translation": "第 18 题：新研究中的第二项实验关于独处发现了什么?",
       "start": 1102.76,
-      "end": 1103.58
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What did the second experiment in the new research find about solitude?",
-      "translation": "新的研究中的第二个实验 发现孤独是什么?",
-      "start": 1104.2,
-      "end": 1108.5
+      "end": 1109.021,
+      "questionNumber": 18
     },
     {
       "speaker": "听力原声",
@@ -1554,6 +1532,33 @@
     {
       "speaker": "听力原声",
       "actor": "",
+      "text": "19. What do we learn about the brain when the body is at rest?",
+      "translation": "第 19 题：当身体处于休息状态时，我们对大脑有何了解?",
+      "start": 1291.52,
+      "end": 1296.228,
+      "questionNumber": 19
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "20. What does the speaker say about the consumption of the brain's energy?",
+      "translation": "第 20 题：说话者关于大脑能量消耗说了什么?",
+      "start": 1309.0,
+      "end": 1314.915,
+      "questionNumber": 20
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "21. What do we learn about the overall energy availability in the brain?",
+      "translation": "第 21 题：关于大脑的整体能量可用性，我们了解到什么?",
+      "start": 1327.54,
+      "end": 1333.84,
+      "questionNumber": 21
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
       "text": "Recording 3.",
       "translation": "记录3。",
       "start": 1346.92,
@@ -1746,42 +1751,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the speaker say about the job interview question?",
-      "translation": "发言人对面试问题有什么看法?",
+      "text": "22. What does the speaker say about the job interview question \"tell me about yourself\"?",
+      "translation": "第 22 题：说话者对于求职面试问题\"介绍一下你自己\"是怎么说的?",
       "start": 1517.74,
-      "end": 1521.18
+      "end": 1523.051,
+      "questionNumber": 22
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Tell me about yourself Question",
-      "translation": "跟我谈谈你自己的问题",
-      "start": 1521.64,
-      "end": 1523.96
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "23 What will most people do when they come to a job interview?",
-      "translation": "23 大多数人在面试时会做什么?",
+      "text": "23. What will most people do when they come to a job interview?",
+      "translation": "第 23 题：大多数人在参加求职面试时会做什么?",
       "start": 1536.38,
-      "end": 1540.88
+      "end": 1541.192,
+      "questionNumber": 23
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 24 Why should job seekers talk with partners friends and co-workers?",
-      "translation": "问题24:为什么求职者要与伙伴朋友和同事交谈?",
+      "text": "24. Why should job seekers talk with partners, friends and co-workers?",
+      "translation": "第 24 题：为什么求职者应该与伴侣、朋友和同事交谈?",
       "start": 1554.53,
-      "end": 1561.31
+      "end": 1561.677,
+      "questionNumber": 24
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 25 What other important preparations should job seekers make before an interview?",
-      "translation": "问题25 求职者在面试前应作出哪些其他重要准备?",
+      "text": "25. What other important preparations should job seekers make before an interview?",
+      "translation": "第 25 题：求职者在面试前还应做哪些重要准备?",
       "start": 1574.9,
-      "end": 1582.68
+      "end": 1582.968,
+      "questionNumber": 25
     },
     {
       "speaker": "听力原声",
@@ -1795,5 +1796,6 @@
   "translation_sources": [
     "https://english-exam.lazynote.cn/cet6/sections/listening/2020-12-2/",
     "Sams200/opus-mt-en-zh (unmatched sentences only)"
-  ]
+  ],
+  "question_verification": "All 25 published question prompts located in original audio; numbers and prompts share one replay unit."
 }

@@ -246,66 +246,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "1.",
-      "translation": "1. 国家",
+      "text": "1. What does the man say he never really understood?",
+      "translation": "第 1 题：男士说他从未真正理解什么？",
       "start": 172.13,
-      "end": 172.55
+      "end": 176.788,
+      "questionNumber": 1
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the man say he never really understood?",
-      "translation": "那个人怎么说他从不真正理解?",
-      "start": 172.99,
-      "end": 176.21
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "2.",
-      "translation": "2. 目标",
+      "text": "2. What prevented Audrey Hepburn from becoming a professional dancer?",
+      "translation": "第 2 题：是什么阻止了Audrey Hepburn成为一名职业舞蹈演员？",
       "start": 189.8,
-      "end": 190.48
+      "end": 195.209,
+      "questionNumber": 2
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What prevented Audrey Hepburn from becoming a professional dancer?",
-      "translation": "是什么阻止奥德丽·赫本成为职业舞者?",
-      "start": 190.78,
-      "end": 194.68
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 3.",
-      "translation": "问题3",
+      "text": "3. What do we learn about Audrey Hepburn in real life?",
+      "translation": "第 3 题：关于现实生活中的Audrey Hepburn我们了解到什么？",
       "start": 208.25,
-      "end": 209.01
+      "end": 213.149,
+      "questionNumber": 3
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do we learn about Audrey Hepburn in real life?",
-      "translation": "我们从现实生活中 了解奥黛丽·赫伯恩什么?",
-      "start": 209.41,
-      "end": 212.83
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 4.",
-      "translation": "问题4",
+      "text": "4. Why did Audrey Hepburn devote much of her life to charity after her acting career?",
+      "translation": "第 4 题：为什么Audrey Hepburn在演艺生涯结束后将大部分生命投入到慈善事业？",
       "start": 226.34,
-      "end": 227.12
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Why did Audrey Hepburn devote much of her life to charity after her acting career?",
-      "translation": "为什么奥德丽·赫伯恩在演戏生涯后 将她一生的大部分时间 献给慈善事业呢?",
-      "start": 227.66,
-      "end": 233.46
+      "end": 233.696,
+      "questionNumber": 4
     },
     {
       "speaker": "听力原声",
@@ -568,66 +540,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "5.",
-      "translation": "5 个",
+      "text": "5. What is the man going to do?",
+      "translation": "第 5 题：这位男士将要做什么?",
       "start": 370.95,
-      "end": 371.43
+      "end": 373.906,
+      "questionNumber": 5
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What is the man going to do?",
-      "translation": "那男人会怎么做?",
-      "start": 371.91,
-      "end": 373.61
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 6.",
-      "translation": "问题6",
+      "text": "6. What does the man say about the restructuring?",
+      "translation": "第 6 题：关于重组,这位男士说了什么?",
       "start": 386.99,
-      "end": 387.77
+      "end": 391.686,
+      "questionNumber": 6
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the man say about the restructuring?",
-      "translation": "这个人对重组怎么说?",
-      "start": 388.41,
-      "end": 390.81
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 7.",
-      "translation": "问题7",
+      "text": "7. What will the man explain first?",
+      "translation": "第 7 题：这位男士将首先解释什么?",
       "start": 404.66,
-      "end": 405.56
+      "end": 408.832,
+      "questionNumber": 7
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What will the man explain first?",
-      "translation": "这个人要先解释什么?",
-      "start": 406.04,
-      "end": 408.4
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 8.",
-      "translation": "问题8",
+      "text": "8. How can the staff learn more about the company's restructuring?",
+      "translation": "第 8 题：员工如何了解更多关于公司重组的信息?",
       "start": 421.54,
-      "end": 422.56
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "How can the staff learn more about the company's restructuring?",
-      "translation": "工作人员如何能更多地了解公司改组的情况?",
-      "start": 423.22,
-      "end": 426.8
+      "end": 427.386,
+      "questionNumber": 8
     },
     {
       "speaker": "听力原声",
@@ -810,25 +754,43 @@
       "text": "Their owner is already working on a new idea for a therapy animal—donkeys.",
       "translation": "它们的主人已经在筹划一种新的治疗动物：驴。",
       "start": 581.18,
-      "end": 635.4,
+      "end": 593.55,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-2/"
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "2.",
-      "translation": "2. 目标",
-      "start": 648.22,
-      "end": 648.4
+      "text": "9. What is special about the Cincinnati/Northern Kentucky international airport?",
+      "translation": "第 9 题：辛辛那提/北肯塔基国际机场有什么特别之处?",
+      "start": 593.55,
+      "end": 599.559,
+      "questionNumber": 9
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Hello viewers!",
+      "text": "10. What are the trained animals probably capable of doing in an airport?",
+      "translation": "第 10 题：受过训练的动物在机场可能具备什么能力?",
+      "start": 613.83,
+      "end": 618.655,
+      "questionNumber": 10
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "11. What do some passengers try to do?",
+      "translation": "第 11 题：一些乘客试图做什么?",
+      "start": 631.84,
+      "end": 635.307,
+      "questionNumber": 11
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "2. Hello viewers!",
       "translation": "各位观众，大家好。",
-      "start": 650.27,
-      "end": 651.03,
-      "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-2/"
+      "start": 648.22,
+      "end": 651.03
     },
     {
       "speaker": "听力原声",
@@ -965,26 +927,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What makes experts think the paintings were done by artists from Italy?",
-      "translation": "为什么专家认为画画是意大利艺术家画的?",
+      "text": "12. Where is the speaker standing?",
+      "translation": "第 12 题：说话者站在哪里?",
+      "start": 770.86,
+      "end": 774.291,
+      "questionNumber": 12
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "13. What do the thousands of fragments display when they are put back together?",
+      "translation": "第 13 题：成千上万的碎片重新拼合在一起时展现出什么?",
+      "start": 786.74,
+      "end": 793.741,
+      "questionNumber": 13
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "14. What makes experts think the paintings were done by artists from Italy?",
+      "translation": "第 14 题：是什么让专家认为这些画作是由来自意大利的艺术家完成的?",
       "start": 808.4,
-      "end": 813.26
+      "end": 813.618,
+      "questionNumber": 14
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 15.",
-      "translation": "问题15。",
+      "text": "15. What do we learn from the passage about the owner of the mansion?",
+      "translation": "第 15 题：从文章中我们了解到关于这座宅邸主人的什么信息?",
       "start": 826.69,
-      "end": 827.57
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What do we learn from the passage about the owner of the mansion?",
-      "translation": "我们从这段话中 学到什么 有关豪宅主人的事?",
-      "start": 828.39,
-      "end": 831.99
+      "end": 832.374,
+      "questionNumber": 15
     },
     {
       "speaker": "听力原声",
@@ -1368,50 +1342,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "16.",
-      "translation": "16岁。",
+      "text": "16. What do we learn about the research funding policies in the European Union?",
+      "translation": "第 16 题：关于欧盟的科研资助政策，我们了解到什么？",
       "start": 1104.65,
-      "end": 1105.13
+      "end": 1110.913,
+      "questionNumber": 16
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do we learn about the research funding policies in the European Union?",
-      "translation": "关于欧洲联盟的研究供资政策,我们学到什么?",
-      "start": 1106.06,
-      "end": 1110.64
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 17.",
-      "translation": "问题17。",
+      "text": "17. Why do researchers today favor international collaboration?",
+      "translation": "第 17 题：为什么当今的研究人员青睐国际合作？",
       "start": 1123.83,
-      "end": 1124.79
+      "end": 1130.132,
+      "questionNumber": 17
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Why do researchers today favor international collaboration?",
-      "translation": "为什么今天的研究人员偏爱国际合作?",
-      "start": 1125.9,
-      "end": 1129.5
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "18.",
-      "translation": "18岁",
+      "text": "18. What do we learn about the field of mathematics?",
+      "translation": "第 18 题：关于数学领域，我们了解到什么？",
       "start": 1143.38,
-      "end": 1143.78
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What do we learn about the field of mathematics?",
-      "translation": "我们从数学领域学到什么?",
-      "start": 1144.95,
-      "end": 1147.21
+      "end": 1147.906,
+      "questionNumber": 18
     },
     {
       "speaker": "听力原声",
@@ -1601,50 +1554,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "19.",
-      "translation": "19. 经济",
+      "text": "19. What do we learn from the Life magazine article?",
+      "translation": "第 19 题：我们从《生活》杂志的文章中了解到什么?",
       "start": 1357.94,
-      "end": 1358.62
+      "end": 1363.114,
+      "questionNumber": 19
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do we learn from the Life magazine article?",
-      "translation": "我们从《生命》杂志的文章中学到什么?",
-      "start": 1359.72,
-      "end": 1362.64
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 20.",
-      "translation": "问题20。",
+      "text": "20. What are scientists' findings about Venus?",
+      "translation": "第 20 题：科学家关于金星有哪些发现?",
       "start": 1376.17,
-      "end": 1377.05
+      "end": 1381.558,
+      "questionNumber": 20
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What are scientists' findings about Venus?",
-      "translation": "科学家对金星有什么发现?",
-      "start": 1377.85,
-      "end": 1380.97
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 21.",
-      "translation": "问题21",
+      "text": "21. What information did Russian and American space probes provide about Venus?",
+      "translation": "第 21 题：俄罗斯和美国的太空探测器提供了关于金星的哪些信息?",
       "start": 1394.73,
-      "end": 1395.87
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What information did Russian and American space probes provide about Venus?",
-      "translation": "俄罗斯和美国的太空探测器提供了什么关于金星的资料?",
-      "start": 1396.9,
-      "end": 1402.52
+      "end": 1403.024,
+      "questionNumber": 21
     },
     {
       "speaker": "听力原声",
@@ -1847,16 +1779,44 @@
       "text": "I'm attracted to it because culture isn't something that only shapes the way our minds operate; it shapes the way our bodies operate too, and sleep is at the intersection of those.",
       "translation": "我之所以对它感兴趣，是因为文化并不只是塑造我们的思维运作方式；它也塑造我们的身体运作方式，而睡眠正处于这两者的交汇处。",
       "start": 1575.76,
-      "end": 1636.6,
+      "end": 1596.66,
       "translation_source": "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-2/"
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the speaker say about research on sleep?",
-      "translation": "发言人对睡眠研究怎么说?",
+      "text": "22. What does the speaker mainly study?",
+      "translation": "第 22 题：说话者主要研究什么?",
+      "start": 1596.66,
+      "end": 1600.565,
+      "questionNumber": 22
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "23. What does the speaker say about North Americans?",
+      "translation": "第 23 题：说话者对北美人有何评价?",
+      "start": 1613.96,
+      "end": 1618.646,
+      "questionNumber": 23
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "24. How did the speaker conduct the sleep study?",
+      "translation": "第 24 题：说话者如何开展睡眠研究?",
+      "start": 1631.15,
+      "end": 1636.576,
+      "questionNumber": 24
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "25. What does the speaker say about research on sleep?",
+      "translation": "第 25 题：说话者对睡眠研究有何评价?",
       "start": 1651.28,
-      "end": 1654.38
+      "end": 1654.675,
+      "questionNumber": 25
     },
     {
       "speaker": "听力原声",
@@ -1870,5 +1830,6 @@
   "translation_sources": [
     "https://english-exam.lazynote.cn/cet6/sections/listening/2019-06-2/",
     "Sams200/opus-mt-en-zh (unmatched sentences only)"
-  ]
+  ],
+  "question_verification": "All 25 published question prompts located in original audio; numbers and prompts share one replay unit."
 }

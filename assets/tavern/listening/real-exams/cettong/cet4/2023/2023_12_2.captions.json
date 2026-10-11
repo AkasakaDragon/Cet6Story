@@ -86,6 +86,24 @@
     {
       "speaker": "听力原声",
       "actor": "",
+      "text": "1. Why did the police officer stop the SUV car?",
+      "translation": "第 1 题：警察为什么拦停那辆SUV?",
+      "start": 103.57,
+      "end": 107.831,
+      "questionNumber": 1
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "2. What did the boy tell the police officers he was planning to do?",
+      "translation": "第 2 题：男孩告诉警察他打算做什么?",
+      "start": 122.55,
+      "end": 128.621,
+      "questionNumber": 2
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
       "text": "Mobile phones have changed the way we live, how we read,",
       "translation": "手机改变了我们的生活方式, 改变了我们阅读的方式,",
       "start": 146.12,
@@ -157,10 +175,20 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What happens to the skin when rubbed or pressed constantly?",
-      "translation": "当不断擦伤或按压皮肤时,皮肤会怎么样?",
+      "text": "3. What does the report say we have not yet understood about mobile phones?",
+      "translation": "第 3 题：报告称我们尚未了解手机的哪个方面？",
+      "start": 220.36,
+      "end": 225.179,
+      "questionNumber": 3
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "4. What happens to the skin when rubbed or pressed constantly?",
+      "translation": "第 4 题：当皮肤持续受到摩擦或按压时会发生什么？",
       "start": 241.88,
-      "end": 246.06
+      "end": 246.367,
+      "questionNumber": 4
     },
     {
       "speaker": "听力原声",
@@ -271,50 +299,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 5.",
-      "translation": "问题5",
+      "text": "5. What does the report say the village is going to do for the cat Wilbur?",
+      "translation": "第 5 题：报道中说村子将为猫Wilbur做什么?",
       "start": 346.98,
-      "end": 347.86
+      "end": 353.148,
+      "questionNumber": 5
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the report say the village is going to do for the cat Wilbur?",
-      "translation": "报告上说村子会为猫威伯做什么?",
-      "start": 348.54,
-      "end": 352.86
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 6.",
-      "translation": "问题6",
+      "text": "6. What do we learn from the report about the cat?",
+      "translation": "第 6 题：从报道中我们了解到关于这只猫的什么信息?",
       "start": 368.48,
-      "end": 369.18
+      "end": 372.906,
+      "questionNumber": 6
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do we learn from the report about the cat?",
-      "translation": "我们从报告里了解到猫的事吗?",
-      "start": 369.92,
-      "end": 372.54
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 7.",
-      "translation": "问题7",
+      "text": "7. What does the pub owner, Lesley Harper, say about the cat?",
+      "translation": "第 7 题：酒吧老板Lesley Harper关于这只猫说了什么?",
       "start": 388.22,
-      "end": 389.06
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What does the pub owner Leslie Harper say about the cat?",
-      "translation": "酒吧老板莱斯利·哈珀怎么说猫?",
-      "start": 389.54,
-      "end": 393.44
+      "end": 393.771,
+      "questionNumber": 7
     },
     {
       "speaker": "听力原声",
@@ -697,66 +704,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "8.",
-      "translation": "8. 预 算",
+      "text": "8. What are the speakers talking about in this conversation?",
+      "translation": "第 8 题：说话者在这段对话中谈论什么?",
       "start": 532.56,
-      "end": 532.94
+      "end": 537.319,
+      "questionNumber": 8
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What are the speakers talking about in this conversation?",
-      "translation": "在这次谈话中,发言者在谈论什么?",
-      "start": 533.68,
-      "end": 536.92
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 9.",
-      "translation": "问题9",
+      "text": "9. Where did the speakers see Brigette Clark, the famous movie star?",
+      "translation": "第 9 题：说话者在哪里看到著名电影明星Brigette Clark?",
       "start": 552.57,
-      "end": 553.23
+      "end": 557.712,
+      "questionNumber": 9
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Where did the speakers see Bridget Clark the famous movie star?",
-      "translation": "发言者在哪里看到著名的电影明星布里奇特·克拉克?",
-      "start": 553.69,
-      "end": 557.51
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 10.",
-      "translation": "问题10。",
+      "text": "10. Why does the woman say she needs to get back by 2:30?",
+      "translation": "第 10 题：女士为什么说她需要在2点半之前回去?",
       "start": 573.14,
-      "end": 573.96
+      "end": 578.457,
+      "questionNumber": 10
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Why does the woman say she needs to get back by 230?",
-      "translation": "为什么这个女人说她需要在230之前回来?",
-      "start": 574.46,
-      "end": 577.78
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 11.",
-      "translation": "问题11。",
+      "text": "11. Why does the woman say Jeremy should throw his soup in the bin?",
+      "translation": "第 11 题：女士为什么说Jeremy应该把他的汤扔进垃圾桶?",
       "start": 593.82,
-      "end": 594.62
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Why does the woman say Jeremy should throw his soup in the bin?",
-      "translation": "为什么那个女人说Jeremy应该把他的汤扔进垃圾桶?",
-      "start": 595.24,
-      "end": 599.06
+      "end": 599.313,
+      "questionNumber": 11
     },
     {
       "speaker": "听力原声",
@@ -1013,66 +992,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 12.",
-      "translation": "问题12。",
+      "text": "12. Who is the man talking to in the conversation?",
+      "translation": "第 12 题：对话中男士在和谁说话?",
       "start": 718.84,
-      "end": 719.6
+      "end": 723.563,
+      "questionNumber": 12
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Who is the man talking to in the conversation?",
-      "translation": "在谈话中和谁说话?",
-      "start": 720.44,
-      "end": 723.08
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "13.",
-      "translation": "13 号",
+      "text": "13. What do we learn about the man's father-in-law from the conversation?",
+      "translation": "第 13 题：从对话中我们了解到男士的岳父有什么情况?",
       "start": 739.12,
-      "end": 739.78
+      "end": 744.789,
+      "questionNumber": 13
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do we learn about the man's father-in-law from the conversation?",
-      "translation": "我们从谈话中 了解到什么男人的岳父?",
-      "start": 740.59,
-      "end": 744.37
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 14.",
-      "translation": "问题14。",
+      "text": "14. Why does the man say they will explore all the options available?",
+      "translation": "第 14 题：男士为什么说他们会探索所有可行的选择?",
       "start": 759.76,
-      "end": 760.8
+      "end": 765.716,
+      "questionNumber": 14
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Why does the man say they will explore all the options available?",
-      "translation": "为什么男人说他们会探索所有的选择?",
-      "start": 761.68,
-      "end": 765.3
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "15.",
-      "translation": "15. 15个",
+      "text": "15. What does the woman suggest the man and his family do close to the end of the conversation?",
+      "translation": "第 15 题：在对话接近尾声时,女士建议男士和他的家人做什么?",
       "start": 781.29,
-      "end": 781.89
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What does the woman suggest the man and his family do close to the end of the conversation?",
-      "translation": "女人认为男人和家人在谈话结束后 还能做什么?",
-      "start": 782.45,
-      "end": 787.55
+      "end": 787.893,
+      "questionNumber": 15
     },
     {
       "speaker": "听力原声",
@@ -1251,18 +1202,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the new study want to find out about using an artificial intelligence agent?",
-      "translation": "新的研究对使用人工智能特工有什么兴趣?",
-      "start": 971.58,
-      "end": 976.82
+      "text": "16. What does the passage say about artificial intelligence agents?",
+      "translation": "第 16 题：文章关于人工智能代理说了什么?",
+      "start": 949.05,
+      "end": 954.945,
+      "questionNumber": 16
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 18 What did participants tend to do when assigned an AI agent to negotiate on their behalf?",
-      "translation": "问题18. 当指派一名AI代理代表他们谈判时,与会者倾向于做些什么?",
+      "text": "17. What does the new study want to find out about using an artificial intelligence agent?",
+      "translation": "第 17 题：这项新研究想要了解关于使用人工智能代理的什么问题?",
+      "start": 971.58,
+      "end": 977.12,
+      "questionNumber": 17
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "18. What did participants tend to do when assigned an AI agent to negotiate on their behalf?",
+      "translation": "第 18 题：当被分配一个人工智能代理代表他们进行谈判时,参与者倾向于做什么?",
       "start": 992.29,
-      "end": 999.79
+      "end": 1000.025,
+      "questionNumber": 18
     },
     {
       "speaker": "听力原声",
@@ -1441,34 +1403,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 19.",
-      "translation": "问题19。",
+      "text": "19. What do we learn about the benefits the participants gained from the healthy cooking course?",
+      "translation": "第 19 题：关于参与者从健康烹饪课程中获得的益处，我们了解到什么？",
       "start": 1137.69,
-      "end": 1138.53
+      "end": 1144.861,
+      "questionNumber": 19
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do we learn about the benefits the participants gained from the healthy cooking course?",
-      "translation": "我们从健康烹饪课程中了解到参与者获得的惠益是什么?",
-      "start": 1139.31,
-      "end": 1144.51
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 20 What do the new research findings suggest about mental health benefits?",
-      "translation": "问题20 新的研究结果对心理健康福利有何建议?",
+      "text": "20. What do the new research findings suggest about mental health benefits?",
+      "translation": "第 20 题：关于心理健康益处，新的研究发现表明了什么？",
       "start": 1160.04,
-      "end": 1165.86
+      "end": 1166.329,
+      "questionNumber": 20
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 21 What plays a role in determining who benefits most from learning to cook?",
-      "translation": "问题21:在确定谁从学习烹饪中受益最大方面,什么作用?",
+      "text": "21. What plays a role in determining who benefits most from learning to cook?",
+      "translation": "第 21 题：什么因素在决定谁从学习烹饪中获益最多方面发挥作用？",
       "start": 1181.57,
-      "end": 1187.77
+      "end": 1188.005,
+      "questionNumber": 21
     },
     {
       "speaker": "听力原声",
@@ -1660,34 +1617,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does research show about our personal space?",
-      "translation": "研究显示我们的个人空间是什么?",
+      "text": "22. What does research show about our personal space?",
+      "translation": "第 22 题：研究表明我们的个人空间有什么特点?",
       "start": 1332.71,
-      "end": 1335.79
+      "end": 1336.138,
+      "questionNumber": 22
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What happens if a mere acquaintance enters our intimate space?",
-      "translation": "如果一个熟人进入我们的私密空间怎么办?",
+      "text": "23. What happens if a mere acquaintance enters our intimate space?",
+      "translation": "第 23 题：如果一个泛泛之交进入我们的亲密空间会发生什么?",
       "start": 1351.44,
-      "end": 1357.0
+      "end": 1357.314,
+      "questionNumber": 23
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Where do people feel comfortable interacting with new acquaintances or strangers?",
-      "translation": "与新朋友或陌生人交流时,",
+      "text": "24. Where do people feel comfortable interacting with new acquaintances or strangers?",
+      "translation": "第 24 题：人们在哪里与新相识者或陌生人互动时感到舒适?",
       "start": 1373.9,
-      "end": 1378.8
+      "end": 1379.24,
+      "questionNumber": 24
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "When are the sizes of our bubbles fixed?",
-      "translation": "我们的气泡大小什么时候修好了?",
+      "text": "25. When are the sizes of our bubbles fixed?",
+      "translation": "第 25 题：我们的气泡大小在什么时候固定下来?",
       "start": 1395.81,
-      "end": 1398.09
+      "end": 1398.47,
+      "questionNumber": 25
     },
     {
       "speaker": "听力原声",
@@ -1701,5 +1662,6 @@
   "translation_sources": [
     "https://english-exam.lazynote.cn/cet4/sections/listening/2023-12-2/",
     "Sams200/opus-mt-en-zh (unmatched sentences only)"
-  ]
+  ],
+  "question_verification": "All 25 published question prompts located in original audio; numbers and prompts share one replay unit."
 }

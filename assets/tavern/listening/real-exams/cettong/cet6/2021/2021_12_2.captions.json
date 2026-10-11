@@ -236,66 +236,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 1.",
-      "translation": "问题1",
+      "text": "1. What do we learn about the woman's new book?",
+      "translation": "第 1 题：关于这位女士的新书我们了解到什么?",
       "start": 173.89,
-      "end": 174.63
+      "end": 177.763,
+      "questionNumber": 1
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do we learn about the woman's new book?",
-      "translation": "我们该如何了解这女人的新书?",
-      "start": 175.05,
-      "end": 177.51
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 2.",
-      "translation": "问题2",
+      "text": "2. What do some critics say about the author of the book?",
+      "translation": "第 2 题：一些批评者对这本书的作者有何评价?",
       "start": 191.02,
-      "end": 191.82
+      "end": 196.055,
+      "questionNumber": 2
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do some critics say about the author of the book?",
-      "translation": "一些批评者对这本书作者有何看法?",
-      "start": 192.26,
-      "end": 195.8
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 3.",
-      "translation": "问题3",
+      "text": "3. What does the woman claim about the diet changes she suggested?",
+      "translation": "第 3 题：这位女士对她建议的饮食改变有何主张?",
       "start": 209.29,
-      "end": 209.93
+      "end": 214.849,
+      "questionNumber": 3
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the woman claim about the diet changes she suggested?",
-      "translation": "女性对饮食改变有何看法?",
-      "start": 210.29,
-      "end": 214.29
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 4.",
-      "translation": "问题4",
+      "text": "4. What does the woman say about her suggested tax increase?",
+      "translation": "第 4 题：这位女士对她建议的增税有何看法?",
       "start": 228.03,
-      "end": 228.87
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What does the woman say about her suggested tax increase?",
-      "translation": "她建议加税时,",
-      "start": 229.21,
-      "end": 233.11
+      "end": 233.603,
+      "questionNumber": 4
     },
     {
       "speaker": "听力原声",
@@ -547,66 +519,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "5.",
-      "translation": "5 个",
+      "text": "5. What has the woman revealed in her book?",
+      "translation": "第 5 题：这位女士在她的书中揭示了什么?",
       "start": 381.94,
-      "end": 382.34
+      "end": 385.382,
+      "questionNumber": 5
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What has the woman revealed in her book?",
-      "translation": "那女的书里透露了什么?",
-      "start": 383.0,
-      "end": 385.1
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 6.",
-      "translation": "问题6",
+      "text": "6. What do successful people attribute their achievements to?",
+      "translation": "第 6 题：成功人士将他们的成就归功于什么?",
       "start": 398.55,
-      "end": 399.17
+      "end": 403.69,
+      "questionNumber": 6
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do successful people attribute their achievements to?",
-      "translation": "成功的人将其成就归功于什么?",
-      "start": 399.64,
-      "end": 403.42
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 7.",
-      "translation": "问题7",
+      "text": "7. What do successful people do when faced with difficulties?",
+      "translation": "第 7 题：成功人士在面对困难时会做什么?",
       "start": 416.83,
-      "end": 417.77
+      "end": 422.417,
+      "questionNumber": 7
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "do successful people do when faced with difficulties?",
-      "translation": "成功的人在面临困难时会这样做吗?",
-      "start": 418.41,
-      "end": 421.83
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 8.",
-      "translation": "问题8",
+      "text": "8. What is one prerequisite for passion at work according to the woman?",
+      "translation": "第 8 题：根据这位女士的说法,工作中拥有热情的一个先决条件是什么?",
       "start": 435.51,
-      "end": 436.13
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What is one prerequisite for passionate work according to the woman?",
-      "translation": "妇女认为什么是激情工作的先决条件?",
-      "start": 436.61,
-      "end": 440.71
+      "end": 440.938,
+      "questionNumber": 8
     },
     {
       "speaker": "听力原声",
@@ -802,50 +746,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "9.",
-      "translation": "9. 国家",
+      "text": "9. What do we learn about mega bats?",
+      "translation": "第 9 题：关于大型蝙蝠我们了解到什么？",
       "start": 601.52,
-      "end": 602.12
+      "end": 605.023,
+      "questionNumber": 9
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do we learn about mega bats?",
-      "translation": "我们从巨型蝙蝠中学到什么?",
-      "start": 602.7,
-      "end": 604.54
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 10.",
-      "translation": "问题10。",
+      "text": "10. How do micro bats find their way and identify food?",
+      "translation": "第 10 题：小型蝙蝠如何找到方向并识别食物？",
       "start": 618.41,
-      "end": 619.07
+      "end": 624.227,
+      "questionNumber": 10
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "How do microbats find their way and identify food?",
-      "translation": "微小巴如何找到自己的路,",
-      "start": 619.73,
-      "end": 623.93
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 11.",
-      "translation": "问题11。",
+      "text": "11. Why do some species of bats use their sense of hearing more than their eyes?",
+      "translation": "第 11 题：为什么某些种类的蝙蝠使用听觉多于使用眼睛？",
       "start": 637.26,
-      "end": 638.32
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Why do some species of bats use their sense of hearing more than their eyes?",
-      "translation": "为什么某些蝙蝠的听觉比眼睛更灵敏呢?",
-      "start": 639.0,
-      "end": 644.4
+      "end": 644.733,
+      "questionNumber": 11
     },
     {
       "speaker": "听力原声",
@@ -1012,26 +935,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the passage suggest parents do?",
-      "translation": "这段话暗示父母做什么?",
+      "text": "12. What does the passage say about children watching educational programs?",
+      "translation": "第 12 题：文章关于儿童观看教育节目说了什么？",
+      "start": 775.8,
+      "end": 782.279,
+      "questionNumber": 12
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "13. Why can't preschool children get the moral conveyed in the TV programs?",
+      "translation": "第 13 题：为什么学龄前儿童无法理解电视节目中传达的道德寓意？",
+      "start": 794.78,
+      "end": 802.522,
+      "questionNumber": 13
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "14. What does the passage suggest parents do?",
+      "translation": "第 14 题：文章建议家长做什么？",
       "start": 817.5,
-      "end": 820.16
+      "end": 820.51,
+      "questionNumber": 14
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "15.",
-      "translation": "15. 15个",
+      "text": "15. What should parents do right after watching the TV program?",
+      "translation": "第 15 题：家长在观看完电视节目后应该立即做什么？",
       "start": 834.05,
-      "end": 834.91
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What should parents do right after watching the TV program?",
-      "translation": "家长在看电视节目后应该做什么?",
-      "start": 835.73,
-      "end": 839.03
+      "end": 839.397,
+      "questionNumber": 15
     },
     {
       "speaker": "听力原声",
@@ -1282,34 +1217,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 16.",
-      "translation": "问题16。",
+      "text": "16. Why don't many Westerners take off shoes before entering a house?",
+      "translation": "第 16 题：为什么许多西方人在进屋前不脱鞋?",
       "start": 1038.71,
-      "end": 1039.51
+      "end": 1044.544,
+      "questionNumber": 16
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Why don't many Westerners take off shoes before entering a house?",
-      "translation": "为什么很多西方人在进屋前不脱鞋?",
-      "start": 1040.14,
-      "end": 1044.22
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 17 What is the finding of one study by researchers at an American university?",
-      "translation": "问题17 美国大学研究人员一项研究的结果是什么?",
+      "text": "17. What is the finding of one study by researchers at an American university?",
+      "translation": "第 17 题：美国一所大学的研究人员进行的一项研究有什么发现?",
       "start": 1057.83,
-      "end": 1064.29
+      "end": 1064.815,
+      "questionNumber": 17
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 18 What is the final reason to speak at gifts for removing shoes before entering a house?",
-      "translation": "问题18 进入房屋前在赠送脱鞋礼物时发言的最后理由是什么?",
+      "text": "18. What is the final reason the speaker gives for removing shoes before entering a house?",
+      "translation": "第 18 题：说话者给出的进屋前脱鞋的最后一个理由是什么?",
       "start": 1078.15,
-      "end": 1084.89
+      "end": 1085.03,
+      "questionNumber": 18
     },
     {
       "speaker": "听力原声",
@@ -1519,50 +1449,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 19.",
-      "translation": "问题19。",
+      "text": "19. What does the speaker say about hiding one's emotions?",
+      "translation": "第 19 题：说话者关于隐藏情绪说了什么?",
       "start": 1273.45,
-      "end": 1274.49
+      "end": 1279.497,
+      "questionNumber": 19
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the speakers say about hiding one's emotions?",
-      "translation": "发言人对隐藏自己的情绪有什么看法?",
-      "start": 1275.35,
-      "end": 1279.03
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 20.",
-      "translation": "问题20。",
+      "text": "20. What should we do first in dealing with emotions?",
+      "translation": "第 20 题：在处理情绪时我们首先应该做什么?",
       "start": 1292.54,
-      "end": 1293.44
+      "end": 1297.332,
+      "questionNumber": 20
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What should we do first in dealing with emotions?",
-      "translation": "我们首先应该如何处理情绪问题?",
-      "start": 1293.96,
-      "end": 1296.68
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 21.",
-      "translation": "问题21",
+      "text": "21. What are we advised to do when emotions arise?",
+      "translation": "第 21 题：当情绪出现时,我们被建议做什么?",
       "start": 1310.35,
-      "end": 1311.47
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What are we advised to do when emotions arise?",
-      "translation": "当情绪出现时,我们建议做什么?",
-      "start": 1312.17,
-      "end": 1315.33
+      "end": 1315.91,
+      "questionNumber": 21
     },
     {
       "speaker": "听力原声",
@@ -1827,42 +1736,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Where should most of the money be invested to feed the ever-growing population?",
-      "translation": "应将大部分资金投资到哪里去养活不断增长的人口?",
+      "text": "22. What is an urgent need for feeding the world's population in 2050, according to the speaker?",
+      "translation": "第 22 题：根据说话者所说,到2050年养活世界人口的迫切需求是什么?",
+      "start": 1534.2,
+      "end": 1540.189,
+      "questionNumber": 22
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "23. Where should most of the money be invested to feed the ever-growing population?",
+      "translation": "第 23 题：为了养活不断增长的人口,大部分资金应该投资在哪里?",
       "start": 1554.77,
-      "end": 1559.57
+      "end": 1560.022,
+      "questionNumber": 23
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 24.",
-      "translation": "问题24。",
+      "text": "24. Why does the speaker give credit to the world's agricultural scientists?",
+      "translation": "第 24 题：说话者为什么称赞世界各国的农业科学家?",
       "start": 1573.31,
-      "end": 1574.17
+      "end": 1580.081,
+      "questionNumber": 24
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Why does the speaker give credit to the world's agricultural scientists?",
-      "translation": "为什么发言者要赞扬世界上的农业科学家?",
-      "start": 1575.01,
-      "end": 1579.53
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 25.",
-      "translation": "问题25。",
+      "text": "25. What makes China exceptional in comparison with the rest of the world?",
+      "translation": "第 25 题：与世界其他地区相比,是什么使中国与众不同?",
       "start": 1593.24,
-      "end": 1594.44
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What makes China exceptional in comparison with the rest of the world?",
-      "translation": "为何中国比起世界其他国家 成为例外?",
-      "start": 1594.9,
-      "end": 1599.28
+      "end": 1599.535,
+      "questionNumber": 25
     },
     {
       "speaker": "听力原声",
@@ -1876,5 +1781,6 @@
   "translation_sources": [
     "https://english-exam.lazynote.cn/cet6/sections/listening/2021-12-2/",
     "Sams200/opus-mt-en-zh (unmatched sentences only)"
-  ]
+  ],
+  "question_verification": "All 25 published question prompts located in original audio; numbers and prompts share one replay unit."
 }

@@ -12,7 +12,7 @@
       "id": "lazynote-1",
       "title": "Section A · 第 1 篇 · 1–2 题",
       "start": 41.3,
-      "end": 133.566,
+      "end": 133.679,
       "first": 1,
       "last": 2,
       "material": "The World Pipe Band Championships will take place in Glasgow on Saturday.\nOver 120 of the world's best pipe bands will compete at the championships. Over 4,000 pipers and drummers are expected to descend on the city for the annual event.\nIt will take place at the St. James Playing Fields in Glasgow on Saturday, 18 May from 10:00 am until 7:00 pm. The event is free. Also, a free shuttle bus will run between the event car parks and the competition site. Shuttle buses will run every 15 minutes from 8:00 am until 8:00 pm.\nGlasgow City Council says it is estimated to bring £300,000 to the local economy.\nThe first World Pipe Band Championships were held in Edinburgh in 1947. The event first took place in Glasgow in 1948. It has been held regularly in Glasgow since 1986."
@@ -30,7 +30,7 @@
       "id": "lazynote-3",
       "title": "Section A · 第 3 篇 · 5–7 题",
       "start": 278.933,
-      "end": 408.566,
+      "end": 408.574,
       "first": 5,
       "last": 7,
       "material": "Bundles containing thousands of pounds in cash keep turning up on the streets of Blackhall Colliery in northern England, according to police. Residents of the village have been coming across bundles of £20 notes—usually worth £2,000—in the former mining village in County Durham.\nThe latest discovery was on Monday, meaning four of these cash bundles have been handed in this year and 13 since 2014.\nThe bundles are usually left in plain sight and have been scattered across the small coastal village. The owner has two weeks to collect the cash, which is then returned to the finder if not claimed, according to Peterlee Police.\nA Durham Police spokesperson said the money has been returned to the lucky finders in all cases except yesterday.\nPoliceman John Forster said in a statement: \"The circumstances remain a mystery so we would welcome any information that will help us get to the bottom of these random incidents.\"\nHe told The Northern Echo: \"It isn't an affluent part of the world, so for them to find cash of that amount and instantly think about taking it to the police stations shows the community spirit there is.\""
@@ -66,7 +66,7 @@
       "id": "lazynote-7",
       "title": "Section C · 第 2 篇 · 19–21 题",
       "start": 1015.966,
-      "end": 1160.266,
+      "end": 1160.29,
       "first": 19,
       "last": 21,
       "material": "Colour is now spreading through our homes, up staircases, across wood frames and ceilings, filling in neutral spaces.\nAccording to one interior designer, when people return home, they want to see colours that cheer them up and give them a hug. Pure white walls simply don't do that. They don't look after you.\nAnother interior designer commented that certain combinations can key into something on a deeper level, transporting you to a different moment in time. That's the power of colour.\nIf you are thinking to try colour on some of your neutral walls, the advice is refreshingly simple: Choose a colour you actually like.\nDon't go for a colour because it's in fashion, or you've seen it in a magazine.\nIf you're weary of full colour, test your tolerance with smaller spaces, such as the inside of a cupboard or a bright window frame. If it gives you joy every time you open the cupboard, you can start to take it further.\nOne can also paint the wooden frameworks the same colour as the walls, helping the rooms look bigger. In the kitchen, painting the overhead cupboards and the walls in the same colour can make it feel more spacious.\nWhile painting the kitchen counters, a bold colour can make everything feel more open and lighter. Additionally, a painted ceiling is a magical thing without being too obvious and can affect how the space feels as well."
@@ -94,8 +94,10 @@
       "answer": 3,
       "explanation": "【题目】 What event will take place in Glasgow? \n\n 【翻译】 什么活动将在格拉斯哥举行? \n A)  一场免费车展。 \n B)  一场年度音乐会。 \n C)  一场体育比赛。 \n D)  一场风笛乐队比赛。 \n\n 【答案】 D （细节题） A pipe band contest. \n 【定位】 P1 The World Pipe Band Championships will take place in Glasgow on Saturday. \n 「世界风笛乐队锦标赛」将于周六在格拉斯哥举行。 \n\n 【信号】 开篇点题句 。新闻首句 The World Pipe Band Championships will take place in Glasgow on Saturday. 与题干 What event will take place in Glasgow? 在结构上几乎一一对应(will take place in Glasgow 完全相同)，这就是新闻「导语 = 答案」的强信号。 \n\n 【替换】 The World Pipe Band Championships ↔ A pipe band contest championships 同义替换为 contest \n\n 【排除】 A) 原词陷阱 录音通篇没出现任何 car show、汽车相关表述，A free car show. 属凭空想象。它唯一沾边的是 free 这个词——录音里 The event is free. 确实说了 free，于是把「免费」错按到「车展」上，是典型的把原词嫁接到错对象。  借用原文：The event is free. \n\n B) 原词陷阱 录音说的是 the annual event，annual 与选项里的 yearly 同义，但核心活动是 pipe band championships，不是 concert(音乐会)。yearly 这个原义被偷出来盖到一个录音从未提到的 concert 上。  借用原文：the annual event \n\n C) 偷换概念 A sports competition. 中 competition 与 D 项的 contest 几乎同义——录音里的 Championships 翻译成 competition 也讲得通，但风笛比赛属于音乐文化赛事，不是体育(sports)赛事。把 sports 这一定语换成 pipe band 才对。  借用原文：Over 120 of the world's best pipe bands will compete at the championships.",
       "group_id": "lazynote-1",
-      "start": 41.3,
-      "end": 133.566
+      "start": 109.01,
+      "end": 113.097,
+      "spoken_text": "What event will take place in Glasgow?",
+      "audio_match_score": 1.0
     },
     {
       "number": 2,
@@ -109,8 +111,10 @@
       "answer": 2,
       "explanation": "【题目】 What does Glasgow City Council say the event will do? \n\n 【翻译】 格拉斯哥市议会说这个活动将会做什么? \n A)  改善格拉斯哥市的形象。 \n B)  丰富格拉斯哥的当地文化。 \n C)  为当地经济做出很大贡献。 \n D)  娱乐当地社区的人们。 \n\n 【答案】 C （细节题） Contribute a lot to the local economy. \n 【定位】 P4 Glasgow City Council says it is estimated to bring £300,000 to the local economy. \n 格拉斯哥市议会表示，预计本次活动将为当地经济带来 30 万英镑的收入。 \n\n 【信号】 题干主语 + 金额词同时命中 。原文 Glasgow City Council says it is estimated to bring £300,000 to the local economy. 与题干 What does Glasgow City Council say the event will do? 在「Glasgow City Council says」上几乎逐字对接，再叠加金额 £300,000，是双重答案信号。 \n\n 【替换】 bring £300,000 to the local economy ↔ Contribute a lot to the local economy. bring 金额 = contribute a lot \n\n 【排除】 A) 未提及 录音通篇无 image / reputation 等谈论城市形象的字眼。它和 C 在「为城市好」的方向上同方向，容易让考生「感觉对」，但题目问的是 Council 实际说了什么，没说就是没说。 \n B) 张冠李戴 录音里 The first World Pipe Band Championships were held in Edinburgh in 1947. 等句确实交代了赛事历史，乍听有文化色彩，但「丰富格拉斯哥本地文化」 (Enrich the local culture of Glasgow.) 这一定性并不是 Glasgow City Council 给的，更不是题干所问。  借用原文：It has been held regularly in Glasgow since 1986. \n\n D) 过度推断 录音里 Over 4,000 pipers and drummers are expected to descend on the city for the annual event. 说的是有 4000 名风笛手鼓手前来参赛，并未提及「娱乐当地社区居民」。选项把「热闹场面」这一表象误读成「让 local communities 开心」，方向偏。  借用原文：Over 4,000 pipers and drummers are expected to descend on the city for the annual event.",
       "group_id": "lazynote-1",
-      "start": 41.3,
-      "end": 133.566
+      "start": 127.79,
+      "end": 133.579,
+      "spoken_text": "What does Glasgow City Council say the event will do?",
+      "audio_match_score": 1.0
     },
     {
       "number": 3,
@@ -124,8 +128,10 @@
       "answer": 1,
       "explanation": "【题目】 What is scientists' warning in the news report? \n\n 【翻译】 新闻报道中科学家们发出了什么警告? \n A)  全球海平面出人意料地上升。 \n B)  格陵兰岛危险的冰层融化。 \n C)  夏季天气模式的变化。 \n D)  格陵兰岛冰盖创纪录的增长。 \n\n 【答案】 B （主旨题） Dangerous ice melts in Greenland. \n 【定位】 P1 Summer doesn't begin for two more days, but scientists are already sounding the alarm about dangerous ice melts going on right now in Greenland. \n 夏天还有两天才开始，但科学家们已经在为格陵兰岛正在发生的危险融冰拉响警报。 \n\n 【信号】 导语 + 转折 but + sounding the alarm 。答案信号有三层叠加：第一，这是新闻第一句（导语，新闻惯例第一句点题）；第二，句中 but 是强转折，新闻里 but 之后才是真正要说的事；第三，紧跟 sounding the alarm（拉响警报）正是题干 warning 的同义信号，三者合在一起把答案句钉死在这一句。 \n\n 【替换】 sounding the alarm ↔ scientists' warning 拉响警报等于发出警告 \n dangerous ice melts going on right now in Greenland ↔ Dangerous ice melts in Greenland. 几乎是原句压缩 \n\n 【排除】 A) 原词陷阱 A 借用原文第 2 段 raise global sea levels by six meters 里的 sea levels 做诱饵，但原文那句只是『如果冰盖融化，可能抬升海平面 6 米』，是一个假设性的后果，且 surprising rise in global sea levels 并未在录音中实际宣布，把『潜在后果』当成『已经发生的警告』，属偷换概念。  借用原文：which if melted can raise global sea levels by six meters \n\n C) 未提及 C 盗用原文里 Summer 与第 3、4 段反复出现的『季节、夏季』语境，把话题悄悄从『冰融』扩大到『夏季天气模式的变化』。整则新闻没有讨论 weather patterns（如降雨、风暴等气象格局），范围被无故放大。  借用原文：Summer doesn't begin for two more days \n\n D) 与原文相反 D 把录音里 ice melts、ice sheet 这些原词搬过来，但把动作整个反过来说成 record growth of Greenland's ice sheets（『创纪录地增长』），与原文 its ice has melted faster than ever before 方向相反，是典型的『反向』诱饵。  借用原文：its ice has melted faster than ever before",
       "group_id": "lazynote-2",
-      "start": 150.9,
-      "end": 262.066
+      "start": 236.87,
+      "end": 241.472,
+      "spoken_text": "What is Scientists's Warning in the News Report?",
+      "audio_match_score": 0.987
     },
     {
       "number": 4,
@@ -139,8 +145,10 @@
       "answer": 2,
       "explanation": "【题目】 What do we learn about this year's ice melting? \n\n 【翻译】 关于今年的冰层融化我们了解到什么? \n A)  它始于五月下旬。 \n B)  它持续了三个月。 \n C)  它比往常提前一个月开始。 \n D)  它比以前提前一个月结束。 \n\n 【答案】 C （细节题） It started a month earlier than usual. \n 【定位】 P3 But this year, the melting season began in early May. That's a month earlier than normal and something that's happened only once before in the historical record in 2016. \n 但今年，融冰季在 5 月初就开始了。这比往年提前了一个月，是历史上仅在 2016 年出现过一次的情况。 \n\n 【信号】 转折 But this year 加时间反常 。信号有两层：第一，But this year 是强转折，前面在讲『通常的融冰周期』，But 一拐就来到『今年反常』的落点；第二，紧跟出现的 a month earlier than normal 与题干 this year 严丝合缝，正是答案承载句。 \n\n 【替换】 the melting season began in early May ↔ It started a month earlier than usual. began 对应 started \n a month earlier than normal ↔ a month earlier than usual than normal 等于 than usual \n\n 【排除】 A) 原词陷阱 A 借用原文 began in early May 里的 May 做诱饵，但把 early May（5 月初）偷换成 late May（5 月底）；只要听清 early 与 late 这一字之差，就能识破。  借用原文：the melting season began in early May \n\n B) 未提及 B 项 It lasted three months. 在录音中完全没有出现『三个月』或任何与 three months 对应的时长表述，是利用考生听到 Longer melt seasons 就想去补一个具体时长的心理凭空捏造的数字。 \n D) 与原文相反 D 与正确项 C 只差一个动词：started 变 ended。原文清清楚楚说的是融冰季『开始』提前一个月（began in early May），而非『结束』提前一个月；D 把动作整个反向，是典型的『开始或结束』互换陷阱。  借用原文：the melting season began in early May",
       "group_id": "lazynote-2",
-      "start": 150.9,
-      "end": 262.066
+      "start": 256.45,
+      "end": 261.89,
+      "spoken_text": "What do we learn about this year's ice melting",
+      "audio_match_score": 1.0
     },
     {
       "number": 5,
@@ -154,8 +162,10 @@
       "answer": 0,
       "explanation": "【题目】 What happened on the streets of Blackhall Colliery? \n\n 【翻译】 Blackhall Colliery 的街道上发生了什么？ \n A)  成捆的20英镑纸币不断出现。 \n B)  一位村民正在寻找他丢失的现金。 \n C)  当地警察偶然发现了成捆的20英镑纸币。 \n D)  一捆装有数千英镑的现金被盗。 \n\n 【答案】 A （细节题） Bundles of £20 notes kept turning up. \n 【定位】 P1 Bundles containing thousands of pounds in cash keep turning up on the streets of Blackhall Colliery in northern England, according to police. \n 据警方称，装有数千英镑现金的成捆钞票不断出现在英格兰北部布莱克霍尔矿区的街道上。 \n\n 【信号】 新闻导语首句即落点 。答案信号是\"导语首句\"：Bundles containing thousands of pounds in cash keep turning up on the streets 正是全篇第一句，新闻把核心事件放在开头，无需转折、就是它。 \n\n 【替换】 keep turning up on the streets ↔ kept turning up 时态变体的同一短语 \n Bundles containing thousands of pounds in cash ↔ Bundles of £20 notes 概括与具体互指同物 \n\n 【排除】 B) B 说 A villager was searching for his lost cash.（一名村民在找他丢失的现金），但录音是钱不断\"出现\"、村民是\"捡到\"，从无谁在\"找丢失的钱\"，方向与原文相反。 \n C) 原词陷阱 C 盗用了录音原词 came across 与 policemen 拼成 Local policemen came across bundles of £20 notes.，但原文是 Residents of the village have been coming across bundles of £20 notes——\"撞见\"现金的是村民居民，不是警察，把发现者张冠李戴了。  借用原文：Residents of the village have been coming across bundles of £20 notes \n\n D) 原词陷阱 D 说 A bundle containing thousands of pounds got stolen.（一捆数千英镑被偷），盗用了原文 Bundles containing thousands of pounds 的措辞，却把\"出现并被上交\"歪曲成\"被偷\"，与全篇\"现金被发现、还给失主\"的事实相反。  借用原文：Bundles containing thousands of pounds in cash",
       "group_id": "lazynote-3",
-      "start": 278.933,
-      "end": 408.566
+      "start": 361.92,
+      "end": 366.009,
+      "spoken_text": "What happened on the streets of black hall collaring?",
+      "audio_match_score": 0.9195
     },
     {
       "number": 6,
@@ -169,8 +179,10 @@
       "answer": 1,
       "explanation": "【题目】 What do the local police do with the money if not claimed in two weeks? \n\n 【翻译】 如果两周内无人认领，当地警方会如何处理这笔钱？ \n A)  他们将其捐给慈善机构。 \n B)  他们将其归还给拾得者。 \n C)  他们将其移交给当地政府。 \n D)  他们在 The Northern Echo 上刊登启事。 \n\n 【答案】 B （细节题） They return it to the finder. \n 【定位】 P3 The owner has two weeks to collect the cash, which is then returned to the finder if not claimed, according to Peterlee Police. \n 据彼得利警方称，失主有两周时间来领取现金，如果无人认领，这笔钱随后会归还给发现者。 \n\n 【信号】 条件状语后的处置动词 。答案信号是条件 + 处置动词：which is then returned to the finder if not claimed 里 if not claimed（若无人认领）正对题干 not claimed in two weeks，紧跟的动词 returned to the finder 就是处置结果。 \n\n 【替换】 returned to the finder ↔ return it to the finder 被动转主动的同一动作 \n\n 【排除】 A) A 说 They give it to charity.（捐给慈善），录音通篇没出现 charity 或捐赠的说法，是凭\"无主之财常做公益\"的常识硬填，属未提及。 \n C) C 说 hand it over to the local government（上交当地政府），录音里出现的是 Peterlee Police、Durham Police 这些警方，从未说交给 local government（地方政府），把接收对象张冠李戴了。 \n D) 原词陷阱 D 说 place a notice in The Northern Echo（在《北方回声报》登启事），盗用了录音原词 The Northern Echo，但那是警察 John Forster 后文受访的报纸，与\"无人认领后怎么处置钱\"毫无关系，答非所问。  借用原文：He told The Northern Echo",
       "group_id": "lazynote-3",
-      "start": 278.933,
-      "end": 408.566
+      "start": 380.79,
+      "end": 387.741,
+      "spoken_text": "What do the local police do with the money, if not claimed, in two weeks?",
+      "audio_match_score": 1.0
     },
     {
       "number": 7,
@@ -184,8 +196,10 @@
       "answer": 3,
       "explanation": "【题目】 What did the policeman John Forster say about the villagers? \n\n 【翻译】 警察 John Forster 对村民们说了什么？ \n A)  他们与警方配合良好。 \n B)  他们过着相当富裕的生活。 \n C)  他们对这个谜团感到困惑。 \n D)  他们有很强的社区精神。 \n\n 【答案】 D （态度观点题） They had a strong community spirit. \n 【定位】 P6 It isn't an affluent part of the world, so for them to find cash of that amount and instantly think about taking it to the police stations shows the community spirit there is. \n 这里并不是个富裕的地方，所以他们能捡到那么多现金、还立刻想到把钱送去警局，这显示出了当地的社区精神。 \n\n 【信号】 so…shows 引出结论评价 。答案信号是\"因果连词 so + 总结动词 shows\"：so for them to find cash…instantly think about taking it to the police stations shows the community spirit，so 后是 Forster 对村民的总结性定性，shows 后面那个词就是他真正想说的评价。 \n\n 【替换】 shows the community spirit there is ↔ They had a strong community spirit. 结论原词直接对应 \n instantly think about taking it to the police stations ↔ strong community spirit 行为佐证情感程度 \n\n 【排除】 A) A 说 They cooperated well with the police.（他们与警方配合良好），录音里村民确有\"把钱送去警局\"的行为，但 Forster 并未据此评价他们\"配合警方\"，而是上升为社区精神——A 是对行为的过度推断。 \n B) B 说 They enjoyed a fairly affluent life.（过着相当富裕的生活），盗用了录音原词 affluent，但原文是 It isn't an affluent part of the world——明明说\"不富裕\"，B 把否定去掉、反了极性。  借用原文：It isn't an affluent part of the world \n\n C) 原词陷阱 C 说 They were puzzled by the mystery.（他们被这谜团困惑），盗用了录音原词 The circumstances remain a mystery 的 mystery，但感到费解的是警方（Forster 说 remain a mystery、想 get to the bottom），不是村民，把困惑者张冠李戴了。  借用原文：The circumstances remain a mystery",
       "group_id": "lazynote-3",
-      "start": 278.933,
-      "end": 408.566
+      "start": 404.22,
+      "end": 408.474,
+      "spoken_text": "What did the policeman John Forster say about the villagers?",
+      "audio_match_score": 1.0
     },
     {
       "number": 8,
@@ -199,8 +213,10 @@
       "answer": 3,
       "explanation": "【题目】 How does the man often feel on his birthday? \n\n 【翻译】 这位男士在生日时常常有什么感觉? \n A)  兴奋的。 \n B)  高兴的。 \n C)  无所谓的。 \n D)  奇怪的。 \n\n 【答案】 D （态度观点题） Strange. \n 【定位】 P2 I often feel strange on my birthday. It's like my brain decides to have a crisis. \n 我过生日时常常觉得怪怪的。就好像我的大脑决定要闹一场危机似的。 \n\n 【信号】 被问者的直接应答 + 原话情绪词 。女士先问\"生日有什么打算\"，男士开口就答 I often feel strange on my birthday，这是被问者的直接应答，且 often feel strange 几乎是直接给出心情词，正是答案句的强信号。 \n\n 【替换】 I often feel strange on my birthday ↔ Strange. 原词直接对应 \n\n 【排除】 A) 未提及 Excited. 是大家默认\"过生日该有\"的情绪，靠常识容易误选，但录音男士从头到尾没说兴奋，反而说怪怪的、像要闹危机，与 A 相反。 \n B) 未提及 Delighted.(高兴)同样是想当然的\"生日心情\"，录音并未表达欢喜，男士说的是 strange，故排除。 \n C) 偷换概念 Indifferent.(无所谓)看似贴近\"不太在乎生日\"，但录音说的是 feel strange、brain has a crisis，是\"心绪不宁\"而非\"无所谓\"，态度强度对不上。",
       "group_id": "lazynote-4",
-      "start": 454.066,
-      "end": 624.166
+      "start": 558.04,
+      "end": 561.981,
+      "spoken_text": "How does the man often feel on his birthday?",
+      "audio_match_score": 1.0
     },
     {
       "number": 9,
@@ -214,8 +230,10 @@
       "answer": 0,
       "explanation": "【题目】 What does the woman say many people tend to do on their birthday? \n\n 【翻译】 这位女士说许多人在生日时往往会做什么? \n A)  寻找他们人生的意义。 \n B)  回顾他们在校的岁月。 \n C)  拜访他们的亲戚和朋友。 \n D)  与朋友谈论未来的计划。 \n\n 【答案】 A （细节题） Search for the meaning of their life. \n 【定位】 P3 Many begin to search for the meaning of their existence, leading to behaviors such as ending or starting a relationship, or plans, like starting a vigorous diet or fitness program. \n 许多人开始寻找自己存在的意义，由此引发一些行为，比如结束或开始一段感情，或是制订计划，比如开始严格的节食或健身方案。 \n\n 【信号】 Many begin to… 的群体行为陈述 。女士说 Many begin to search for the meaning of their existence，主语 Many 正对题干的 many people，begin to + 动作 直接给出\"多数人会做的事\"，是答案句的明确信号。 \n\n 【替换】 search for the meaning of their existence ↔ Search for the meaning of their life. 近义词 existence=life \n\n 【排除】 B) 原词陷阱 录音确实提到 their achievements in life in the past decade 里的\"过去十年/过去一年\"，让人联想到\"回顾在校岁月\"，但原文说的是回顾\"成就\"、并未提 school 或\"回顾学生时代\"，Look back on their years at school. 把\"回顾过往成就\"偷换成了\"回顾学校岁月\"。  借用原文：their achievements in life in the past decade, or their accomplishments of the past year \n\n C) 未提及 Call on their relatives and friends.(拜访亲友)是大家想象中\"过生日\"的常见举动，但录音列举的群体行为是\"找人生意义、结束/开始感情、节食健身\"，从未提走访亲友，属常识脑补、无原文支撑。 \n D) 原词陷阱 录音里有 or plans, like starting a vigorous diet or fitness program，出现了 plans 一词，Talk about future plans with friends. 顺手盗用 plans 设套；但原文的 plans 指\"制订节食/健身计划\"这类行动，并非\"和朋友谈未来打算\"，对象与方式都被改了。  借用原文：or plans, like starting a vigorous diet or fitness program",
       "group_id": "lazynote-4",
-      "start": 454.066,
-      "end": 624.166
+      "start": 577.06,
+      "end": 582.155,
+      "spoken_text": "What does the woman say many people tend to do on their birthday?",
+      "audio_match_score": 1.0
     },
     {
       "number": 10,
@@ -229,8 +247,10 @@
       "answer": 2,
       "explanation": "【题目】 What does the man say about birthday celebrations? \n\n 【翻译】 这位男士对生日庆祝有什么看法? \n A)  他更喜欢把它们展示在社交媒体上。 \n B)  他喜欢生日庆祝但不想大张旗鼓。 \n C)  他喜欢庆祝别人的生日而不是自己的。 \n D)  他期待收到亲密朋友送的礼物。 \n\n 【答案】 C （细节题） He enjoys celebrating others' birthdays rather than his own. \n 【定位】 P4 I have wonderful friends and I love celebrating their birthdays. But I don't like being the center of attention, receiving gifts and having a fuss made. \n 我有很棒的朋友，我很喜欢为他们庆祝生日。但我不喜欢成为众人焦点、收礼物、被大张旗鼓地庆祝。 \n\n 【信号】 转折 But 切出真意 。前半 I love celebrating their birthdays 说爱给别人过，转折词 But I don't like being the center of attention 之后才是落点——爱别人的、却不愿自己被庆祝，But 后才是答案信号。 \n\n 【替换】 I love celebrating their birthdays ↔ He enjoys celebrating others' birthdays love=enjoy、their=others' \n I don't like being the center of attention ↔ rather than his own 否定句概括成 rather than \n\n 【排除】 A) 与原文相反 录音确有 social media too can intensify things as birthdays now play out more publicly，但男士是说社交媒体让生日更公开、加重了他的不安，He prefers to have them shown on social media. 却说他\"偏爱在社交媒体上展示\"，与原文态度正相反。  借用原文：social media too can intensify things as birthdays now play out more publicly \n\n B) 原词陷阱 He loves them but does not want to make a fuss. 用了录音原词 fuss(见 having a fuss made)且\"喜欢但不想张扬\"也部分贴合男士的话，极具迷惑性；但 B 漏掉了关键对比\"喜欢的是别人的生日、不喜欢的是自己的\"，泛指 them 反而把\"自己 vs 别人\"这层最核心的区分抹掉了，不如 C 精准。  借用原文：But I don't like being the center of attention, receiving gifts and having a fuss made \n\n D) 与原文相反 录音里 receiving gifts 是男士\"不喜欢\"的事，He looks forward to receiving presents from his close friends. 却把它说成\"盼着收礼物\"，gifts/presents 同义但态度被彻底反转。  借用原文：I don't like being the center of attention, receiving gifts",
       "group_id": "lazynote-4",
-      "start": 454.066,
-      "end": 624.166
+      "start": 597.1,
+      "end": 601.504,
+      "spoken_text": "What does the man say about birthday celebrations?",
+      "audio_match_score": 1.0
     },
     {
       "number": 11,
@@ -244,8 +264,10 @@
       "answer": 1,
       "explanation": "【题目】 What does the woman suggest the man do about his birthday celebration at the end of the conversation? \n\n 【翻译】 在对话结束时,这位女士建议这位男士如何处理他的生日庆祝? \n A)  以适度的规模举办以消除生日焦虑。 \n B)  把它看作人们社交和娱乐的机会。 \n C)  向他最信任的人发出邀请。 \n D)  把它作为募集捐款的场合。 \n\n 【答案】 B （细节题） View it as a chance for people to socialize and have fun. \n 【定位】 P7 Exactly. Or even simply see your birthday as an opportunity to bring people together for them to have fun. \n 正是如此。或者干脆把你的生日看作一个把大家聚到一起、让他们开心玩乐的机会。 \n\n 【信号】 结尾处女士的建议句 。题干限定 at the end，而这正是对话最后一句女士的话 see your birthday as an opportunity to bring people together for them to have fun，see…as an opportunity to 是明显的建议口吻，落在末尾，正是答案信号。 \n\n 【替换】 bring people together for them to have fun ↔ View it as a chance for people to socialize and have fun. 聚人=socialize、机会=chance \n\n 【排除】 A) 答非所问 对话前段女士确实围绕生日焦虑(birthday blues)给过\"别孤立自己、逐步面对\"的话，Hold it on a modest scale to remove birthday anxieties. 借\"消除焦虑\"设套；但\"小规模操办以消焦虑\"并非女士结尾(at the end)所说，且原文没说\"小规模\"，定位错位。  借用原文：to deal with the birthday blues, you should not isolate yourself \n\n C) 原词陷阱 录音 gradually face your birthday with people you trust 出现了 trust，Extend invitation to those he trusts most. 盗用 trust 设套；但那是女士在对话中段说的，且原文是\"和你信任的人一起逐步面对\"，不是\"只邀请最信任的人\"，既非结尾建议、内容也被改了。  借用原文：It's best to gradually face your birthday with people you trust \n\n D) 张冠李戴 录音里 asking people to make a donation instead of buying a gift 提到捐款，Make it an occasion to collect donations. 盗用 donation；但这是\"男士\"自己提出的想法，题干问的是\"女士\"在结尾的建议，张冠李戴了。  借用原文：asking people to make a donation instead of buying a gift",
       "group_id": "lazynote-4",
-      "start": 454.066,
-      "end": 624.166
+      "start": 616.38,
+      "end": 624.041,
+      "spoken_text": "What does the woman suggest the man do about his birthday celebration at the end of the conversation?",
+      "audio_match_score": 1.0
     },
     {
       "number": 12,
@@ -259,8 +281,10 @@
       "answer": 0,
       "explanation": "【题目】 What does the woman say about her subway ride? \n\n 【翻译】 女士对她乘坐地铁的经历有何评价? \n A)  绝对令人精疲力竭。 \n B)  有一股难闻的气味。 \n C)  延误时间太长了。 \n D)  她在错误的站下车了。 \n\n 【答案】 A （细节题） It was absolutely exhausting. \n 【定位】 P3 No, but the train was so packed that I could barely move, and it was difficult to breathe too... Once I did get out, I was totally exhausted. \n 不是(晚点)，但车厢太挤了，我几乎动不了，连呼吸都困难……等我终于挤出来，已经累得精疲力竭了。 \n\n 【信号】 先否定再描述，落点在收尾 。她先用 No否掉\"晚点\"，再细数挤、喘不上气，最后用 I was totally exhausted收束——\"totally(完全)\"的加重语气正是答案信号，整段抱怨归到\"累\"上。 \n\n 【替换】 I was totally exhausted ↔ It was absolutely exhausting. 同义词+主被动改写 \n\n 【排除】 C) 原词陷阱 男方问 was there a delay?，女方明确回 No。选项 There was too long a delay.正是盗用了录音里反复出现的 delay 一词，但\"晚点\"恰恰是她否认的，属听到原词就想选的陷阱。  借用原文：No, but the train was so packed \n\n B) 未提及 录音说 it was difficult to breathe too，原因是太挤、不是有味道。There was a terrible smell.借\"呼吸\"联想出\"异味\"，是无中生有的过度引申，原文并未提到任何 smell。 \n D) 偷换概念 录音只说她 could hardly get out(挤得几乎下不了车)，是\"难下车\"不是\"下错站\"。She got off at the wrong station.把\"下车困难\"偷换成\"下错站\"，原文无此意。  借用原文：When I got to my station, I could hardly get out",
       "group_id": "lazynote-5",
-      "start": 641.466,
-      "end": 809.666
+      "start": 747.58,
+      "end": 751.426,
+      "spoken_text": "What does the woman say about her subway ride?",
+      "audio_match_score": 1.0
     },
     {
       "number": 13,
@@ -274,8 +298,10 @@
       "answer": 0,
       "explanation": "【题目】 Why hasn't the woman got her own car? \n\n 【翻译】 女士为什么没有自己的汽车? \n A)  她还没有攒够钱。 \n B)  她担心交通堵塞。 \n C)  她还没有通过驾驶考试。 \n D)  她习惯了乘坐公共交通工具。 \n\n 【答案】 A （细节题） She hasn't saved enough money. \n 【定位】 P7 I've got a driver's license, but that's all. I'm saving up to buy something reasonably small and cute, but it's still a bit expensive for me, and it'll take a while before I have enough money. \n 我有驾照，但也就这样了。我正在攒钱想买辆小巧可爱点的车，但对我来说还是有点贵，得过一阵子才能攒够钱。 \n\n 【信号】 转折 but 后才是真原因 。她先说 I've got a driver's license(有驾照)，紧接 but it's still a bit expensive for me——转折 but 之后的\"贵、还没攒够钱\"才是真正没车的原因，前半句\"有驾照\"是用来排除C的。 \n\n 【替换】 it'll take a while before I have enough money ↔ She hasn't saved enough money. 肯否转换+概括 \n\n 【排除】 C) 与原文相反 选项 She hasn't passed the driving test yet.借\"driving\"语境制造混淆，但录音开口就是 I've got a driver's license(已有驾照)，正好与\"还没考过\"相反——没车的卡点在钱，不在证。  借用原文：I've got a driver's license \n\n B) 张冠李戴 She is worried about traffic jams.里的\"拥挤/慢\"其实对应她吐槽地铁公交 The bus takes twice as long and it's just as crowded.，与\"为什么没车\"无关，把别处的抱怨安到这题上。  借用原文：it's just as crowded \n\n D) 与原文相反 She is used to taking public transport.与原文相反：她一开口就在抱怨地铁、还在 saving up to buy车，分明想摆脱公共交通，并非\"习惯并满足于\"它。  借用原文：I'm saving up to buy something",
       "group_id": "lazynote-5",
-      "start": 641.466,
-      "end": 809.666
+      "start": 766.58,
+      "end": 770.674,
+      "spoken_text": "Why hasn't the woman got her own car?",
+      "audio_match_score": 1.0
     },
     {
       "number": 14,
@@ -289,8 +315,10 @@
       "answer": 1,
       "explanation": "【题目】 What does the woman say about electric motorbikes? \n\n 【翻译】 女士对电动摩托车有何评价? \n A)  它们很受欢迎。 \n B)  它们很危险。 \n C)  对她来说它们有点贵。 \n D)  它们环保。 \n\n 【答案】 B （态度观点题） They are dangerous. \n 【定位】 P9 I consider that for maybe a minute. But honestly, I've just seen too many horrible accidents involving those dangerous monsters. \n 我也就考虑了大概一分钟。但说实话，我见过太多那些\"危险怪物\"造成的可怕事故了。 \n\n 【信号】 But honestly 后的强烈贬词 。她先敷衍\"考虑了一分钟\"，转折 But honestly后甩出 horrible accidents与 dangerous monsters——\"honestly\"加重、\"dangerous/horrible\"是强烈负面评价，态度信号集中在此。 \n\n 【替换】 those dangerous monsters ↔ They are dangerous. 原词点评直接对应 \n\n 【排除】 A) 张冠李戴 They are popular.盗用了男方下一句 those popular shared bikes里的 popular，但那是评价\"共享单车\"、且出自男方之口，并非女方对电摩的看法，张冠李戴。  借用原文：those popular shared bikes \n\n C) 张冠李戴 They are a bit expensive for her.盗用了她在买车时说的 it's still a bit expensive for me，但\"贵\"评价的是要买的小车，对电动摩托车她说的是危险、从未说贵。  借用原文：it's still a bit expensive for me \n\n D) 未提及 They are environmentally friendly.听起来很符合\"电动\"的常识联想，但全篇没有任何一句说电摩环保，属凭电动二字脑补出来的未提及项。",
       "group_id": "lazynote-5",
-      "start": 641.466,
-      "end": 809.666
+      "start": 785.74,
+      "end": 790.421,
+      "spoken_text": "What does the woman say about electric motorbikes?",
+      "audio_match_score": 1.0
     },
     {
       "number": 15,
@@ -304,8 +332,10 @@
       "answer": 3,
       "explanation": "【题目】 How was the woman going to get to work? \n\n 【翻译】 女士打算如何去上班? \n A)  乘公交车。 \n B)  慢跑。 \n C)  租一辆自行车。 \n D)  拼车。 \n\n 【答案】 D （细节题） By sharing a ride. \n 【定位】 P17 M: Not if you use a ride sharing app. W: Good idea. I'll download one immediately. Thank you. \n 男：用拼车app就不贵了。女：好主意。我这就下载一个。谢谢。 \n\n 【信号】 结尾\"Good idea+这就去做\"的拍板 。前面公交、单车、慢跑、出租都被她一一否掉或挑刺，直到男方提 a ride sharing app，她答 Good idea. I'll download one immediately——\"Good idea\"+立刻行动是明确的最终拍板信号。 \n\n 【替换】 use a ride sharing app ↔ By sharing a ride. 动名词概括+去掉app \n Good idea. I'll download one immediately ↔ By sharing a ride. 认可信号坐实最终选择 \n\n 【排除】 A) 原词陷阱 By bus.盗用对话里讨论过的 bus，但她明确说 The bus takes twice as long and it's just as crowded.——又慢又挤，早被否掉，属\"提过即否\"的陷阱。  借用原文：The bus takes twice as long and it's just as crowded. \n\n C) 原词陷阱 By renting a bike.对应 those popular shared bikes，她回 that's a possibility——只是\"一种可能\"，并未像拼车那样\"Good idea+这就去做\"，停在备选阶段。  借用原文：that's a possibility \n\n B) 原词陷阱 By jogging.盗用她自己提的 jog to work，但她紧接着说 the air pollution is a real problem，因污染把慢跑否了，并非最终选择。  借用原文：the air pollution is a real problem",
       "group_id": "lazynote-5",
-      "start": 641.466,
-      "end": 809.666
+      "start": 805.59,
+      "end": 809.452,
+      "spoken_text": "How is the woman going to get to work?",
+      "audio_match_score": 0.9492
     },
     {
       "number": 16,
@@ -319,8 +349,10 @@
       "answer": 1,
       "explanation": "【题目】 What do we learn about Steve Miller? \n\n 【翻译】 关于Steve Miller我们了解到什么? \n A)  他是一名手语翻译员。 \n B)  他是一名在IT行业工作的聋人。 \n C)  他不喜欢在会议上发言。 \n D)  他不使用电子邮件或短信。 \n\n 【答案】 B （细节题） He is a deaf person working in IT. \n 【定位】 P1 Steve Miller began his career in IT back in the late 1980s. Being a deaf person in tech required a huge amount of effort in organization. \n 史蒂夫·米勒在上世纪80年代末开始了他在 IT 行业的职业生涯。作为科技行业里的一名聋人，这需要在组织安排上付出巨大的努力。 \n\n 【信号】 开篇直接交代身份 。篇章开头第一句就点出他的处境——Being a deaf person in tech，介绍人物的篇章往往一开口就交代身份，这句即是答案句。 \n\n 【替换】 a deaf person in tech ↔ a deaf person working in IT tech 与 IT 同义、in 改 working in \n began his career in IT ↔ working in IT '开启IT生涯'='在IT工作' \n\n 【排除】 A) 张冠李戴 原文确实念到 He needed a sign language interpreter for every meeting，但那是说他'需要'一名手语翻译，不是说他'是'手语翻译；选项 He is a sign language interpreter. 把'他需要的人'安到他自己头上。  借用原文：He needed a sign language interpreter for every meeting \n\n C) 偷换概念 原文说 Communicating in meetings was very difficult.(开会沟通'很困难')，这是客观障碍；选项 He doesn't like speaking at meetings. 偷换成'他不喜欢在会上发言'的主观好恶，文中从未提他喜不喜欢。  借用原文：Communicating in meetings was very difficult. \n\n D) 与原文相反 原文是 there was no email or text message service——当年(80年代末)根本'没有'这种服务，是时代背景；选项 He doesn't use email or text messages. 偷换成'他(现在)不用'电邮短信，把'当时不存在'歪曲为'他个人不用'。  借用原文：there was no email or text message service",
       "group_id": "lazynote-6",
-      "start": 855.7,
-      "end": 998.9
+      "start": 951.9,
+      "end": 956.635,
+      "spoken_text": "What do we learn about Steve Miller?",
+      "audio_match_score": 1.0
     },
     {
       "number": 17,
@@ -334,8 +366,10 @@
       "answer": 1,
       "explanation": "【题目】 What does Miller say is making things better for people like him? \n\n 【翻译】 Miller说什么正在改善像他这样的人的处境? \n A)  沟通技能的提升。 \n B)  语音识别技术。 \n C)  手语的巨大进步。 \n D)  IT行业的变革。 \n\n 【答案】 B （细节题） Speech recognition technology. \n 【定位】 P2 Big advances in speech recognition technology have enabled communication tools to turn live speech into text in real time on your smartphone or laptop, and sign language into text as well. \n 语音识别技术的巨大进步，使得沟通工具能够在智能手机或笔记本电脑上实时把现场语音转成文字，也能把手语转成文字。 \n\n 【信号】 因果信号 enabled 点出真正推动者 。句子主语 Big advances in speech recognition technology 后接 have enabled(使……得以)，enabled 是因果信号，前面那个名词正是'带来改善'的诱因，即答案句。 \n\n 【替换】 Big advances in speech recognition technology ↔ Speech recognition technology 选项是原文核心名词的浓缩 \n\n 【排除】 A) 原词陷阱 原文反复出现 communication(如 communication tools)，选项 Improved communication skills. 借这个熟词造干扰，但原文说变好的是'沟通工具'靠技术运转，不是'沟通技能'提高了，文中也没说他技能改善。  借用原文：communication tools \n\n C) 原词陷阱 原文确实念到 sign language into text as well，选项 Big advances in sign language. 借 sign language 造干扰，但原文的'大进步(advances)'是修饰 speech recognition technology 的，并非'手语本身的大进步'。  借用原文：sign language into text as well \n\n D) 过度推断 原文话题虽在 IT 行业，但带来改善的是一项具体技术；选项 Transformation in the IT industry. 借 IT 一词把'语音识别技术'夸大成'整个 IT 行业的变革'，范围被无限放大，原文没说行业整体变革。  借用原文：a good time to be a deaf person in tech",
       "group_id": "lazynote-6",
-      "start": 855.7,
-      "end": 998.9
+      "start": 971.73,
+      "end": 977.358,
+      "spoken_text": "What does Miller say is making things better for people like him?",
+      "audio_match_score": 1.0
     },
     {
       "number": 18,
@@ -349,8 +383,10 @@
       "answer": 2,
       "explanation": "【题目】 In what way can Miller benefit from attending meetings via video? \n\n 【翻译】 Miller通过视频参加会议能在哪方面受益? \n A)  他可以避免被误解。 \n B)  他可以当场做笔记。 \n C)  他可以轻松理解。 \n D)  他可以看到发言者的影像。 \n\n 【答案】 C （细节题） He can understand with ease. \n 【定位】 P3 He can employ lip-reading and have meetings via video instead of on the phone. These things have made a huge difference. He no longer has to worry about whether or not he can understand. \n 他可以借助唇读，并通过视频而非电话开会。这些做法带来了巨大的改变。他再也不必担心自己能否听懂了。 \n\n 【信号】 结果句 no longer has to worry 点出好处 。在 have meetings via video 之后，原文用 These things have made a huge difference 收束，再接 He no longer has to worry about whether or not he can understand——'不再担心能否听懂'正是视频开会带来的好处，即答案句。 \n\n 【替换】 He no longer has to worry about whether or not he can understand ↔ He can understand with ease '不再担心能否听懂'=肯否转换为'能轻松听懂' \n\n 【排除】 A) 未提及 选项 He can avoid being mistaken. 说'能避免被误解'，原文谈的是他能否'听懂'，从未提到'被误解'这回事，属凭空添加。 \n B) 未提及 选项 He can take notes on the spot. 说'能当场记笔记'，原文虽提到技术能把语音转成 text(文字)，但从没说他'记笔记'，是把'转文字'歪联想成'记笔记'。 \n D) 原词陷阱 题干和原文都念到 have meetings via video，选项 He can see the speakers' images. 借 video 字面推出'能看到说话人画面'，但原文说视频开会的好处是'不再担心能否听懂'，而非'看到画面'本身；越和 video 字面像，越是诱人下钩的原词陷阱。  借用原文：have meetings via video",
       "group_id": "lazynote-6",
-      "start": 855.7,
-      "end": 998.9
+      "start": 992.42,
+      "end": 998.776,
+      "spoken_text": "In what way can Miller benefit from attending meetings via video?",
+      "audio_match_score": 1.0
     },
     {
       "number": 19,
@@ -364,8 +400,10 @@
       "answer": 3,
       "explanation": "【题目】 What do people want upon returning home according to the passage? \n\n 【翻译】 根据文章,人们回到家后想要什么? \n A)  发现纯白色的墙壁闪闪发光。 \n B)  进入一个照料良好的房子。 \n C)  得到家人的拥抱。 \n D)  看到周围都是令人愉快的色彩。 \n\n 【答案】 D （细节题） To see cheerful colours all around. \n 【定位】 P2 When people return home, they want to see colours that cheer them up and give them a hug. \n 人们回家时，想看到能让自己振奋、给自己一个拥抱的色彩。 \n\n 【信号】 want 直陈诉求 。录音用 they want to see colours that cheer them up 直接点出回家想要什么，want to 后面就是答题落点；紧接着 Pure white walls simply don't do that. 又用否定把白墙排除，进一步确认想要的是彩色而非白墙。 \n\n 【替换】 colours that cheer them up ↔ cheerful colours 动词转形容词 \n see colours ↔ see cheerful colours all around 动作原词保留 \n\n 【排除】 A) 原词陷阱 To find pure white walls shining. 盗用了原文里 Pure white walls 这个原词，但原文紧接着说 Pure white walls simply don't do that.，白墙恰恰是被否定的、不能给人拥抱的东西，听到 white walls 就选正好掉坑。  借用原文：Pure white walls simply don't do that. \n\n B) 偷换概念 To enter a house well looked after. 借用了原文 They don't look after you. 里的 look after，但原文说的是色彩照顾人（you），不是人想进入一座被照看好的房子，主语和对象都被偷换了。  借用原文：They don't look after you. \n\n C) 未提及 To get a hug from family members. 用了原文的 hug，但原文是 give them a hug——给拥抱的是色彩，根本没提 family members，把拥抱的来源安给了原文没说的家人。  借用原文：give them a hug",
       "group_id": "lazynote-7",
-      "start": 1015.966,
-      "end": 1160.266
+      "start": 1113.28,
+      "end": 1119.045,
+      "spoken_text": "what do people want upon returning home according to the passage?",
+      "audio_match_score": 1.0
     },
     {
       "number": 20,
@@ -379,8 +417,10 @@
       "answer": 0,
       "explanation": "【题目】 What does the passage say people should avoid doing in home decoration? \n\n 【翻译】 文章说人们在家居装饰中应该避免做什么? \n A)  因为流行而选择一种颜色。 \n B)  粉刷橱柜的内部。 \n C)  自己完成所有粉刷工作。 \n D)  把所有窗框设计成同样的样式。 \n\n 【答案】 A （细节题） Choosing a colour because it is fashionable. \n 【定位】 P5 Don't go for a colour because it's in fashion, or you've seen it in a magazine. \n 不要因为某种颜色正流行、或你在杂志上见过它，就去选它。 \n\n 【信号】 Don't 否定建议 。录音用祈使否定句 Don't go for a colour because it's in fashion 直接给出劝阻——别因为时髦而选色，Don't 就是该避免做法的信号词，这句即答案句。 \n\n 【替换】 because it's in fashion ↔ because it is fashionable 名词短语转形容词 \n go for a colour ↔ Choosing a colour 动词同义替换 \n\n 【排除】 B) 与原文相反 Painting the interior of their cupboards. 盗用了原文 the inside of a cupboard，但原文把刷柜子内部当作试色的好办法来推荐，而非要避免的事，态度正好相反。  借用原文：test your tolerance with smaller spaces, such as the inside of a cupboard \n\n C) 未提及 Doing the painting job all by themselves. 里 all by themselves（亲力亲为）原文从未提及，录音只谈选什么色、刷哪里，没说该不该自己动手。 \n D) 原词陷阱 Designing all window frames the same way. 借了原文出现过的 window frame（a bright window frame），但原文说的是把窗框作为试色的小空间，没说所有窗框要设计成同一款式，更没说要避免。  借用原文：a bright window frame",
       "group_id": "lazynote-7",
-      "start": 1015.966,
-      "end": 1160.266
+      "start": 1134.0,
+      "end": 1140.316,
+      "spoken_text": "What does the passage say people should avoid doing in home decoration?",
+      "audio_match_score": 1.0
     },
     {
       "number": 21,
@@ -394,8 +434,10 @@
       "answer": 3,
       "explanation": "【题目】 What can one do to make a room look bigger? \n\n 【翻译】 怎样做可以让房间看起来更大? \n A)  把大部分橱柜嵌入墙内。 \n B)  在四周悬挂风景画。 \n C)  使房间的天花板与所有家具颜色相配。 \n D)  把木制框架和墙壁刷成同一颜色。 \n\n 【答案】 D （细节题） Paint the wooden frameworks and walls the same colour. \n 【定位】 P7 One can also paint the wooden frameworks the same colour as the walls, helping the rooms look bigger. \n 也可以把木质框架刷成与墙壁相同的颜色，这有助于让房间显得更大。 \n\n 【信号】 helping…look bigger 因果 。录音里 paint the wooden frameworks the same colour as the walls 后面紧跟 helping the rooms look bigger，用 helping 把做法和显大的效果直接连起来，正对应题干 look bigger，这句即答案句。 \n\n 【替换】 paint the wooden frameworks the same colour as the walls ↔ Paint the wooden frameworks and walls the same colour 近乎原句改写 \n helping the rooms look bigger ↔ Paint the wooden frameworks and walls the same colour 效果直接对上题干 \n\n 【排除】 A) 原词陷阱 Fit most of the cupboards into walls. 借了原文反复出现的 cupboards，但原文谈柜子是说把柜子和墙刷同色（painting the overhead cupboards and the walls in the same colour），没说把柜子嵌进墙里，做法被改造成原文没说的内容。  借用原文：painting the overhead cupboards and the walls in the same colour \n\n B) 未提及 Hang landscape paintings all around. 里挂风景画原文完全没说，录音只谈刷颜色，没有任何挂画的内容。 \n C) 张冠李戴 Match the room's ceiling with all the furniture in colour. 借用了原文出现过的 ceiling（a painted ceiling）和同色概念，但原文让显大的同色是框架与墙，天花板只是另说能影响空间感，没说要与家具同色，把同色的双方张冠李戴。  借用原文：a painted ceiling is a magical thing without being too obvious",
       "group_id": "lazynote-7",
-      "start": 1015.966,
-      "end": 1160.266
+      "start": 1155.49,
+      "end": 1160.19,
+      "spoken_text": "What can one do to make a room look bigger?",
+      "audio_match_score": 1.0
     },
     {
       "number": 22,
@@ -409,8 +451,10 @@
       "answer": 2,
       "explanation": "【题目】 What does the passage say parents increasingly understand? \n\n 【翻译】 文章指出父母越来越理解什么? \n A)  孩子必须每周至少阅读3次。 \n B)  阅读是每个孩子都能养成的习惯。 \n C)  给孩子读书很重要。 \n D)  孩子应该在3岁开始阅读。 \n\n 【答案】 C （细节题） Reading to their children is important. \n 【定位】 P1 Parents often hear that reading to their children is critical for supporting development, and the message is getting through to them. \n 父母常听到『给孩子读书对支持其发展至关重要』这一说法，而且这个信息正在被他们接收（理解）。 \n\n 【信号】 开篇点题句 + getting through 表领悟 。答案信号是开篇直接点题：reading to their children is critical for supporting development，紧跟 the message is getting through to them，getting through 正对应题干的 understand，是承载答案的那一句。 \n\n 【替换】 reading to their children is critical for supporting development ↔ Reading to their children is important. critical=important 同义替换 \n\n 【排除】 A) 原词陷阱 选项 Children must read at least 3 times a week. 把原文 three or more times per week 的频次盗来，但原文说的是『父母给孩子读』的统计数据，不是『孩子自己必须每周读3次』的要求，答非所问。  借用原文：three or more times per week \n\n B) 未提及 选项 Reading is a habit every child can develop. 听起来很正确很顺耳，但全文只谈父母给孩子读书的好处与选书，从未说『阅读是每个孩子都能养成的习惯』，属凭常识脑补、原文无据。 \n D) 原词陷阱 选项 Children should start reading at age 3. 借用原文 between the ages of three and five 里的 three，但那是统计样本的年龄段，不是『孩子应3岁开始读书』的建议，数字真听到了、意思全拧了。  借用原文：between the ages of three and five",
       "group_id": "lazynote-8",
-      "start": 1177.5,
-      "end": 1346.5
+      "start": 1279.69,
+      "end": 1284.855,
+      "spoken_text": "What does the passage say parents increasingly understand?",
+      "audio_match_score": 1.0
     },
     {
       "number": 23,
@@ -424,8 +468,10 @@
       "answer": 2,
       "explanation": "【题目】 What can predict children's reading skills according to recent research? \n\n 【翻译】 根据近期研究,什么可以预测孩子的阅读能力? \n A)  他们在四岁前读过的书籍数量。 \n B)  他们婴儿期大脑发育的速度。 \n C)  父母在婴儿期给他们读的书籍的数量和质量。 \n D)  父母与他们玩耍所花费时间的质量和数量。 \n\n 【答案】 C （细节题） The number and quality of books parents read to them in infancy. \n 【定位】 P2 In fact, recent research has found that both the quality and quantity of shared book reading in infancy predicted later childhood vocabulary and reading skills. \n 事实上，最近的研究发现，婴儿期共同读书的质量和数量都预测了孩子日后的词汇和阅读能力。 \n\n 【信号】 研究发现信号 recent research has found + predicted 。答案信号是表研究结论的 recent research has found 和动词 predicted，predicted 直接对应题干 predict，其前面的主语 the quality and quantity of shared book reading in infancy 就是被点名的预测因素。 \n\n 【替换】 the quality and quantity of shared book reading in infancy ↔ The number and quality of books parents read to them in infancy. quantity=number、shared book reading=books parents read \n\n 【排除】 A) 原词陷阱 选项 The number of books they have read by age four. 借用原文 four-year-old children 的 four，但原文 four 是说『四岁孩子身上的发展益处』，从没说『到四岁读了多少本书』能预测能力，数字听到了、意思编造了。  借用原文：four-year-old children \n\n B) 原词陷阱 选项 The speed of their brain development in infancy. 借了原文 brain development，但原文是说『读书有助于语言和大脑发育』，大脑发育是『结果/益处』，不是『预测阅读能力的原因』，把因果位置弄反了。  借用原文：reading to young children helps their language and brain development \n\n D) 偷换概念 选项 The quality and quantity of time parents spend playing with them. 几乎照抄原文的 quality and quantity 结构，却把核心动作从『读书』换成 playing（玩），原文谈的始终是 reading，不是陪玩，偷换了概念。  借用原文：the quality and quantity of shared book reading in infancy",
       "group_id": "lazynote-8",
-      "start": 1177.5,
-      "end": 1346.5
+      "start": 1300.02,
+      "end": 1305.623,
+      "spoken_text": "What can predict children's reading skills according to recent research?",
+      "audio_match_score": 1.0
     },
     {
       "number": 24,
@@ -439,8 +485,10 @@
       "answer": 0,
       "explanation": "【题目】 What kind of books are said to help babies learn more? \n\n 【翻译】 什么样的书据说能帮助婴儿学到更多? \n A)  带有明确标注图像的书。 \n B)  带有玩偶和玩具图片的书。 \n C)  描述动物生活的书。 \n D)  讲述非常有趣故事的书。 \n\n 【答案】 A （细节题） Books with specifically labeled images. \n 【定位】 P3 It followed infants across the second six months of life and found that when parents showed babies books that had faces or objects with specific labels, they learned more. \n 研究跟踪了出生后第二个半年的婴儿，发现当父母给婴儿看『带有具体标签的面孔或物体』的书时，他们学得更多。 \n\n 【信号】 因果/条件句 when…they learned more 。答案信号是条件结果句 when parents showed babies books that had faces or objects with specific labels, they learned more，learned more 正对应题干 learn more，其条件部分点名的书就是答案；后文 This is in contrast to 进一步用对比反衬，强化了这一类。 \n\n 【替换】 books that had faces or objects with specific labels ↔ Books with specifically labeled images. faces or objects=images、specific labels=specifically labeled \n\n 【排除】 B) 过度推断 选项 Books with pictures of dolls and toys. 把原文 objects（物体）具体化为『玩偶和玩具』，原文从未指明是玩偶玩具，是凭常识把抽象的 objects 想象成具体玩具，属脑补。  借用原文：faces or objects with specific labels \n\n C) 未提及 选项 Books describing the lives of animals. 看似贴近『讲动物』，但原文 P3 全程没提 animals，更没说『描写动物生活的书』有用，纯属无中生有。 \n D) 偷换概念 选项 Books telling very interesting stories. 把『有用的书』偷换成『很有趣的故事书』，原文判定标准是『有没有具体标签』，不是『故事有不有趣』，换了一套评价维度。  借用原文：books that had faces or objects with specific labels",
       "group_id": "lazynote-8",
-      "start": 1177.5,
-      "end": 1346.5
+      "start": 1320.74,
+      "end": 1325.578,
+      "spoken_text": "What kind of books are said to help babies learn more?",
+      "audio_match_score": 1.0
     },
     {
       "number": 25,
@@ -454,8 +502,10 @@
       "answer": 1,
       "explanation": "【题目】 What are parents advised to do at the end of the passage? \n\n 【翻译】 文章结尾建议父母做什么? \n A)  尽可能多地给孩子读书。 \n B)  仔细选择给孩子读什么。 \n C)  与其他父母分享经验。 \n D)  为孩子创作图画书。 \n\n 【答案】 B （细节题） Choose carefully what to read to their children. \n 【定位】 P3 Not all books are created equal, so parents need to choose the books they share with their children with great care. \n 并非所有书都一样（有价值），所以父母需要非常用心地挑选要和孩子共读的书。 \n\n 【信号】 结尾因果建议句 so parents need to… 。答案信号是篇章结尾的因果建议句 so parents need to choose the books they share with their children with great care，so 引出结论、need to 是直接建议，正是题干要的『结尾建议』。 \n\n 【替换】 choose the books they share with their children with great care ↔ Choose carefully what to read to their children. with great care=carefully、share=read to \n\n 【排除】 A) 与原文相反 选项 Read as many books as possible to their children. 主张『尽量多读』，但结尾恰恰强调 Not all books are created equal『书有好坏之分』、要『用心选』，方向与原文相反——原文要的是质而非量。  借用原文：Not all books are created equal \n\n C) 原词陷阱 选项 Share experience with other parents. 借了一个似曾相识的 share，但原文的 share 是 the books they share with their children（与孩子共读书），从没说『与其他父母分享经验』，对象被换且原文无此建议。  借用原文：the books they share with their children \n\n D) 未提及 选项 Create picture books for their children. 借了原文反复出现的 books 和图像概念，但原文建议父母『挑选』书，从没说『为孩子创作绘本』，create 是无中生有的动作。  借用原文：parents need to choose the books they share with their children",
       "group_id": "lazynote-8",
-      "start": 1177.5,
-      "end": 1346.5
+      "start": 1341.02,
+      "end": 1346.371,
+      "spoken_text": "What are parents advised to do at the end of the passage?",
+      "audio_match_score": 1.0
     }
   ],
   "source_sentences": [],
@@ -464,5 +514,6 @@
     "original_bytes": 16375371,
     "sha256": "4d7e29e2c570459ed5c65647571da6654768bb852c4e3f8b8e7f9df9caf9d183",
     "playback_encoding": "MP3 48 kbps mono 24 kHz; unchanged content and timing"
-  }
+  },
+  "question_timing_source": "original_audio_transcript_verified"
 }

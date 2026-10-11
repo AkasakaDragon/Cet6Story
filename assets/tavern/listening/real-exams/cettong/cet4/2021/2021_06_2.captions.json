@@ -77,6 +77,24 @@
     {
       "speaker": "听力原声",
       "actor": "",
+      "text": "1. What did the old age pensioner plan to do?",
+      "translation": "第 1 题：这位领取养老金的老人计划做什么?",
+      "start": 120.99,
+      "end": 123.66,
+      "questionNumber": 1
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "2. What finally happened to the old man?",
+      "translation": "第 2 题：这位老人最后怎么样了?",
+      "start": 138.82,
+      "end": 142.925,
+      "questionNumber": 2
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
       "text": "News Report 2.",
       "translation": "《第二次新闻报告》。",
       "start": 158.2,
@@ -131,6 +149,24 @@
       "translation": "现在,我们需要投资于 改变格拉斯哥经济其余部分的技术和方案 并且让我们比其他人 更接近于零。”",
       "start": 220.61,
       "end": 231.17
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "3. What do we learn from the news report?",
+      "translation": "第 3 题：我们从新闻报道中了解到什么?",
+      "start": 238.08,
+      "end": 241.559,
+      "questionNumber": 3
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "4. What did ScottishPower's chief executive say ahead of the All Energy Conference?",
+      "translation": "第 4 题：ScottishPower的首席执行官在All Energy Conference之前说了什么?",
+      "start": 256.85,
+      "end": 264.054,
+      "questionNumber": 4
     },
     {
       "speaker": "听力原声",
@@ -240,6 +276,33 @@
       "start": 359.64,
       "end": 363.34,
       "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2021-06-2/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "5. What do we learn from the news report about the Japanese IT firm?",
+      "translation": "第 5 题：从新闻报道中我们了解到这家日本IT公司的什么情况?",
+      "start": 369.35,
+      "end": 374.387,
+      "questionNumber": 5
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "6. What does Fukuda encourage his employees to do?",
+      "translation": "第 6 题：Fukuda鼓励他的员工做什么?",
+      "start": 388.97,
+      "end": 393.475,
+      "questionNumber": 6
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "7. What does the news report say about the firm's policy?",
+      "translation": "第 7 题：新闻报道对该公司政策有何评价?",
+      "start": 408.43,
+      "end": 413.247,
+      "questionNumber": 7
     },
     {
       "speaker": "听力原声",
@@ -517,6 +580,42 @@
     {
       "speaker": "听力原声",
       "actor": "",
+      "text": "8. What does the man want to do?",
+      "translation": "第 8 题：这位男士想做什么?",
+      "start": 563.65,
+      "end": 565.363,
+      "questionNumber": 8
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "9. What do we learn about the man who came to see the woman yesterday?",
+      "translation": "第 9 题：关于昨天来看这位女士的男士,我们了解到什么?",
+      "start": 580.14,
+      "end": 585.523,
+      "questionNumber": 9
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "10. What did Jimmy say happened to him one day?",
+      "translation": "第 10 题：Jimmy说有一天他发生了什么事?",
+      "start": 600.78,
+      "end": 604.912,
+      "questionNumber": 10
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "11. Why did Jimmy borrow money according to the man?",
+      "translation": "第 11 题：根据这位男士所说,Jimmy为什么借钱?",
+      "start": 620.34,
+      "end": 624.811,
+      "questionNumber": 11
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
       "text": "Conversation 2.",
       "translation": "对话2。",
       "start": 639.9,
@@ -761,6 +860,42 @@
     {
       "speaker": "听力原声",
       "actor": "",
+      "text": "12. What did the woman want to ask Max about?",
+      "translation": "第 12 题：女士想问Max什么事情?",
+      "start": 745.46,
+      "end": 749.451,
+      "questionNumber": 12
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "13. What does the man think is a problem with shopping in supermarkets?",
+      "translation": "第 13 题：男士认为在超市购物有什么问题?",
+      "start": 764.16,
+      "end": 770.103,
+      "questionNumber": 13
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "14. What is the woman's concern about shopping online?",
+      "translation": "第 14 题：女士对网上购物有什么顾虑?",
+      "start": 784.6,
+      "end": 790.118,
+      "questionNumber": 14
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "15. What does the man find about shopping online?",
+      "translation": "第 15 题：男士发现网上购物有什么特点?",
+      "start": 804.78,
+      "end": 809.743,
+      "questionNumber": 15
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
       "text": "directions.",
       "translation": "方向。",
       "start": 826.1,
@@ -934,6 +1069,33 @@
     {
       "speaker": "听力原声",
       "actor": "",
+      "text": "16. What did a recent study find about some British children?",
+      "translation": "第 16 题：最近一项研究发现了英国儿童的什么情况?",
+      "start": 973.37,
+      "end": 978.441,
+      "questionNumber": 16
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "17. What is the widespread misunderstanding about math anxiety?",
+      "translation": "第 17 题：关于数学焦虑的普遍误解是什么?",
+      "start": 993.65,
+      "end": 998.935,
+      "questionNumber": 17
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "18. What does the passage say about British students with math anxiety?",
+      "translation": "第 18 题：文章关于有数学焦虑的英国学生说了什么?",
+      "start": 1013.31,
+      "end": 1019.975,
+      "questionNumber": 18
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
       "text": "People spend a lot of time using phones and computers.",
       "translation": "人们花费大量时间使用手机和电脑。",
       "start": 1036.68,
@@ -1087,6 +1249,33 @@
     {
       "speaker": "听力原声",
       "actor": "",
+      "text": "19. What conclusion has the World Health Organization come to recently?",
+      "translation": "第 19 题：世界卫生组织最近得出了什么结论?",
+      "start": 1152.26,
+      "end": 1158.048,
+      "questionNumber": 19
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "20. What is said of people with addictive behavior?",
+      "translation": "第 20 题：关于有成瘾行为的人,有什么说法?",
+      "start": 1173.52,
+      "end": 1178.467,
+      "questionNumber": 20
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "21. What do some behavior experts think of addiction to computer games?",
+      "translation": "第 21 题：一些行为专家如何看待电脑游戏成瘾?",
+      "start": 1193.93,
+      "end": 1200.023,
+      "questionNumber": 21
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
       "text": "Passage 3 Maybe you carry the most powerful passport in the world or perhaps the rarest passport Whatever the case your passport will likely",
       "translation": "3号通行证 或许你携带着世界上最强大的护照 或者最珍贵的护照",
       "start": 1215.37,
@@ -1225,6 +1414,42 @@
     {
       "speaker": "听力原声",
       "actor": "",
+      "text": "22. What do we learn about most European passports?",
+      "translation": "第 22 题：关于大多数欧洲护照我们了解到什么?",
+      "start": 1335.85,
+      "end": 1340.362,
+      "questionNumber": 22
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "23. What does the passage say about the design of passports?",
+      "translation": "第 23 题：文章关于护照的设计说了什么?",
+      "start": 1357.51,
+      "end": 1361.183,
+      "questionNumber": 23
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "24. Why are dark colors chosen for passport covers?",
+      "translation": "第 24 题：为什么护照封面选择深色?",
+      "start": 1377.38,
+      "end": 1382.879,
+      "questionNumber": 24
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "25. What is one special function of the images inside many passports?",
+      "translation": "第 25 题：许多护照内部的图像有什么特殊功能?",
+      "start": 1398.45,
+      "end": 1404.924,
+      "questionNumber": 25
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
       "text": "That's the end of listening comprehension.",
       "translation": "听觉理解到此结束",
       "start": 1420.42,
@@ -1234,5 +1459,6 @@
   "translation_sources": [
     "https://english-exam.lazynote.cn/cet4/sections/listening/2021-06-2/",
     "Sams200/opus-mt-en-zh (unmatched sentences only)"
-  ]
+  ],
+  "question_verification": "All 25 published question prompts located in original audio; numbers and prompts share one replay unit."
 }

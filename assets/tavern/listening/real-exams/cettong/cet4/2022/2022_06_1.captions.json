@@ -158,34 +158,20 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 1.",
-      "translation": "问题1",
+      "text": "1. What do we learn about the new study from the news report?",
+      "translation": "第 1 题：从新闻报道中我们对这项新研究了解到什么?",
       "start": 141.61,
-      "end": 142.59
+      "end": 147.146,
+      "questionNumber": 1
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do we learn about the new study from the news report?",
-      "translation": "我们从新闻报道中了解到什么新研究?",
-      "start": 143.39,
-      "end": 146.79
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 2.",
-      "translation": "问题2",
+      "text": "2. What is the scientists' recommendation?",
+      "translation": "第 2 题：科学家们的建议是什么?",
       "start": 160.66,
-      "end": 161.4
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What is the scientists' recommendation?",
-      "translation": "科学家们有什么建议?",
-      "start": 162.25,
-      "end": 163.99
+      "end": 164.634,
+      "questionNumber": 2
     },
     {
       "speaker": "听力原声",
@@ -279,26 +265,20 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What did German police say about a 64-year-old man?",
-      "translation": "德国警方怎么说一个64岁的男人?",
+      "text": "3. What did German police say about a 64-year-old man?",
+      "translation": "第 3 题：德国警方关于一名64岁男子说了什么?",
       "start": 254.25,
-      "end": 258.47
+      "end": 258.762,
+      "questionNumber": 3
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 4.",
-      "translation": "问题4",
+      "text": "4. What is the art expert's conclusion about the two framed paintings?",
+      "translation": "第 4 题：艺术专家对这两幅装裱画作得出了什么结论?",
       "start": 272.42,
-      "end": 273.26
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "is the art expert's conclusion about the two framed paintings?",
-      "translation": "艺术专家关于那两幅画的结论吗?",
-      "start": 274.64,
-      "end": 278.66
+      "end": 279.054,
+      "questionNumber": 4
     },
     {
       "speaker": "听力原声",
@@ -424,50 +404,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 5.",
-      "translation": "问题5",
+      "text": "5. What did the four-year-old girl attempt to do?",
+      "translation": "第 5 题：这个四岁女孩试图做什么？",
       "start": 391.83,
-      "end": 392.49
+      "end": 396.662,
+      "questionNumber": 5
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What did the 4-year-old girl attempt to do?",
-      "translation": "那个4岁女孩想干什么?",
-      "start": 393.51,
-      "end": 396.47
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 6.",
-      "translation": "问题6",
+      "text": "6. What do we learn from the news report about the girl's mother?",
+      "translation": "第 6 题：从新闻报道中我们了解到关于这个女孩母亲的什么信息？",
       "start": 410.17,
-      "end": 411.03
+      "end": 415.98,
+      "questionNumber": 6
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do we learn from the news report about the girl's mother?",
-      "translation": "我们从关于女孩母亲的新闻报道中了解到什么?",
-      "start": 412.02,
-      "end": 415.76
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 7.",
-      "translation": "问题7",
+      "text": "7. What happened to the little girl according to the news report?",
+      "translation": "第 7 题：根据新闻报道，这个小女孩发生了什么事？",
       "start": 429.55,
-      "end": 430.37
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What happened to the little girl according to the news report?",
-      "translation": "新闻报道里说那个小女孩怎么了?",
-      "start": 430.98,
-      "end": 435.0
+      "end": 435.364,
+      "questionNumber": 7
     },
     {
       "speaker": "听力原声",
@@ -816,10 +775,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the woman say about rugby in South Africa?",
-      "translation": "在南非橄榄球方面,她怎么说?",
+      "text": "8. What does the woman say about her new friend Susan?",
+      "translation": "第 8 题：女士对她的新朋友Susan有何评价?",
+      "start": 606.75,
+      "end": 611.856,
+      "questionNumber": 8
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "9. What does the woman say about Table Mountain?",
+      "translation": "第 9 题：女士对桌山有何评价?",
+      "start": 625.66,
+      "end": 630.868,
+      "questionNumber": 9
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "10. What do we learn from the conversation about the woman's friend Susan?",
+      "translation": "第 10 题：从对话中我们对女士的朋友Susan有何了解?",
+      "start": 643.81,
+      "end": 651.382,
+      "questionNumber": 10
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "11. What does the woman say about rugby in South Africa?",
+      "translation": "第 11 题：女士对南非的橄榄球运动有何评价?",
       "start": 666.6,
-      "end": 670.66
+      "end": 670.847,
+      "questionNumber": 11
     },
     {
       "speaker": "听力原声",
@@ -1073,66 +1060,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 12.",
-      "translation": "问题12。",
+      "text": "12. What does the woman advise the man to do?",
+      "translation": "第 12 题：女士建议男士做什么?",
       "start": 825.92,
-      "end": 826.78
+      "end": 830.371,
+      "questionNumber": 12
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the woman advise the man do?",
-      "translation": "女人建议男人做什么?",
-      "start": 828.01,
-      "end": 830.05
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 13.",
-      "translation": "问题13。",
+      "text": "13. What is the biggest problem the man has with his studies?",
+      "translation": "第 13 题：男士在学习上遇到的最大问题是什么?",
       "start": 844.06,
-      "end": 845.24
+      "end": 851.03,
+      "questionNumber": 13
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What is the biggest problem the man has with his studies?",
-      "translation": "男人学习的最大问题是什么?",
-      "start": 846.09,
-      "end": 850.61
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 14.",
-      "translation": "问题14。",
+      "text": "14. What kind of learner does the woman say she is?",
+      "translation": "第 14 题：女士说她是什么类型的学习者?",
       "start": 864.68,
-      "end": 865.86
+      "end": 870.892,
+      "questionNumber": 14
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What kind of learner does the woman say she is?",
-      "translation": "那个女人说自己是什么样的学生?",
-      "start": 866.51,
-      "end": 870.57
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 15.",
-      "translation": "问题15。",
+      "text": "15. What does the woman think the man can do with his notes?",
+      "translation": "第 15 题：女士认为男士可以如何处理他的笔记?",
       "start": 884.56,
-      "end": 885.62
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What does the woman think the man can do with his notes?",
-      "translation": "女人认为男人能拿他的笔记做什么?",
-      "start": 886.63,
-      "end": 890.81
+      "end": 891.211,
+      "questionNumber": 15
     },
     {
       "speaker": "听力原声",
@@ -1299,50 +1258,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "16.",
-      "translation": "16岁。",
+      "text": "16. What do we learn from the passage about the golden rule?",
+      "translation": "第 16 题：从文章中我们了解到关于黄金法则的什么信息?",
       "start": 1056.1,
-      "end": 1056.74
+      "end": 1061.5,
+      "questionNumber": 16
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do we learn from the passage about the Golden Rule?",
-      "translation": "我们从黄金法则的段落中 学到什么?",
-      "start": 1057.92,
-      "end": 1061.16
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 17.",
-      "translation": "问题17。",
+      "text": "17. What is a notable criticism of the golden rule?",
+      "translation": "第 17 题：对黄金法则的一个显著批评是什么?",
       "start": 1075.16,
-      "end": 1076.2
+      "end": 1081.452,
+      "questionNumber": 17
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What is a notable criticism of the Golden Rule?",
-      "translation": "对黄金规则有什么值得注意的批评?",
-      "start": 1077.48,
-      "end": 1081.16
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 18.",
-      "translation": "问题18。",
+      "text": "18. What does the example of someone breaking the law serve to show?",
+      "translation": "第 18 题：某人违法的例子用来说明什么?",
       "start": 1095.14,
-      "end": 1096.06
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What does the example of someone breaking the law serve to show?",
-      "translation": "违法者的例子能显示什么?",
-      "start": 1097.28,
-      "end": 1102.22
+      "end": 1102.496,
+      "questionNumber": 18
     },
     {
       "speaker": "听力原声",
@@ -1484,65 +1422,36 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "19.",
-      "translation": "19. 经济",
+      "text": "19. What do we learn from the current statistics about diversity in large corporations?",
+      "translation": "第 19 题：从目前关于大型企业多样性的统计数据中我们可以了解到什么？",
       "start": 1253.8,
-      "end": 1254.3
+      "end": 1261.834,
+      "questionNumber": 19
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "do we learn from the current statistics about diversity in large corporations?",
-      "translation": "我们是否从目前有关大公司多样性的统计数字中吸取经验教训?",
-      "start": 1255.79,
-      "end": 1261.15
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "20.",
-      "translation": "20. 20个",
+      "text": "20. What is the newly published study focused on?",
+      "translation": "第 20 题：这项新发表的研究重点关注什么？",
       "start": 1275.77,
-      "end": 1276.35
+      "end": 1280.789,
+      "questionNumber": 20
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What is the newly published study focused on?",
-      "translation": "新出版的研究报告的重点是什么?",
-      "start": 1277.07,
-      "end": 1280.61
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 21.",
-      "translation": "问题21",
+      "text": "21. What do the findings of the new study show?",
+      "translation": "第 21 题：这项新研究的发现表明了什么？",
       "start": 1294.34,
-      "end": 1295.46
+      "end": 1299.605,
+      "questionNumber": 21
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do the findings of the new study show?",
-      "translation": "新研究的结果显示什么?",
-      "start": 1296.36,
-      "end": 1299.36
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "3.",
-      "translation": "3 个",
-      "start": 1313.39,
-      "end": 1314.03
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Communication can essentially be divided into two categories.",
+      "text": "3. Communication can essentially be divided into two categories.",
       "translation": "通信基本上可以分为两类。",
-      "start": 1315.58,
+      "start": 1313.39,
       "end": 1320.06
     },
     {
@@ -1647,42 +1556,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What is a major key to success in international business according to the passage?",
-      "translation": "根据这一段,国际商务成功的关键是什么?",
+      "text": "22. What is a major key to success in international business according to the passage?",
+      "translation": "第 22 题：根据文章，国际商务成功的一个主要关键是什么?",
       "start": 1451.02,
-      "end": 1457.78
+      "end": 1458.156,
+      "questionNumber": 22
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 23 What does the passage say about spoken word agreements in some Middle East countries?",
-      "translation": "问题23:该段落对一些中东国家的口头口头协议作了什么说明?",
+      "text": "23. What does the passage say about spoken word agreements in some Middle East countries?",
+      "translation": "第 23 题：关于一些中东国家的口头协议,文章说了什么?",
       "start": 1471.79,
-      "end": 1480.21
+      "end": 1480.658,
+      "questionNumber": 23
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 24 What do we learn about the Western working culture?",
-      "translation": "问题24:我们如何了解西方的工作文化?",
+      "text": "24. What do we learn about the Western working culture?",
+      "translation": "第 24 题：关于西方工作文化,我们了解到什么?",
       "start": 1494.4,
-      "end": 1500.69
+      "end": 1500.91,
+      "questionNumber": 24
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 25 How does a Japanese firm",
-      "translation": "问题25 日本公司如何经营",
+      "text": "25. How does a Japanese firm tend to view a written contract?",
+      "translation": "第 25 题：日本公司倾向于如何看待书面合同?",
       "start": 1514.6,
-      "end": 1519.24
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "tend to view a written contract.",
-      "translation": "倾向于查看书面合同。",
-      "start": 1519.58,
-      "end": 1522.18
+      "end": 1522.515,
+      "questionNumber": 25
     },
     {
       "speaker": "听力原声",
@@ -1696,5 +1601,6 @@
   "translation_sources": [
     "https://english-exam.lazynote.cn/cet4/sections/listening/2022-06-1/",
     "Sams200/opus-mt-en-zh (unmatched sentences only)"
-  ]
+  ],
+  "question_verification": "All 25 published question prompts located in original audio; numbers and prompts share one replay unit."
 }

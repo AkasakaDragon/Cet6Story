@@ -105,34 +105,20 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 1.",
-      "translation": "问题1",
+      "text": "1. How did Tariq make corn taste better?",
+      "translation": "第 1 题：Tariq 是如何让玉米味道更好的?",
       "start": 122.85,
-      "end": 123.45
+      "end": 126.645,
+      "questionNumber": 1
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "How did Tariq make corn taste better?",
-      "translation": "塔里克怎么让玉米味道更好?",
-      "start": 123.89,
-      "end": 126.31
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 2.",
-      "translation": "问题2",
+      "text": "2. Why were Tariq and his family invited to South Dakota?",
+      "translation": "第 2 题：为什么 Tariq 和他的家人被邀请到 South Dakota?",
       "start": 140.99,
-      "end": 141.67
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Why were Tariq and his family invited to South Dakota?",
-      "translation": "为什么塔里克和他的家人 被邀请到南达科他州?",
-      "start": 142.22,
-      "end": 146.1
+      "end": 146.504,
+      "questionNumber": 2
     },
     {
       "speaker": "听力原声",
@@ -214,26 +200,20 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What did Jordan Jax and Tara Goodman do according to a news release?",
-      "translation": "乔丹·贾克斯和塔拉·古德曼在新闻发布时做了些什么?",
+      "text": "3. What did Jordan Jax and Tarod Goodman do according to a news release?",
+      "translation": "第 3 题：根据一则新闻稿，Jordan Jax 和 Tarod Goodman 做了什么?",
       "start": 231.35,
-      "end": 236.47
+      "end": 236.887,
+      "questionNumber": 3
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 4.",
-      "translation": "问题4",
-      "start": 251.39,
-      "end": 252.19
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "do Jordan Jax and Tara Goodman face?",
-      "translation": "乔丹·贾克斯和塔拉·古德曼有脸吗?",
-      "start": 252.95,
-      "end": 255.59
+      "text": "4. What do Jordan Jax and Tarod Goodman face?",
+      "translation": "第 4 题：Jordan Jax 和 Tarod Goodman 面临什么?",
+      "start": 250.62,
+      "end": 256.062,
+      "questionNumber": 4
     },
     {
       "speaker": "听力原声",
@@ -318,26 +298,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Why do the researchers put forth such policies as production tax?",
-      "translation": "为什么研究人员提出生产税等政策?",
+      "text": "5. Why has the clothing industry come under attack?",
+      "translation": "第 5 题：为什么服装行业受到抨击?",
+      "start": 370.88,
+      "end": 376.261,
+      "questionNumber": 5
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "6. Why did the researchers put forth such policies as production tax?",
+      "translation": "第 6 题：为什么研究人员提出诸如生产税之类的政策?",
       "start": 391.89,
-      "end": 395.93
+      "end": 396.295,
+      "questionNumber": 6
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 7.",
-      "translation": "问题7",
+      "text": "7. What should be done first to eliminate the harm caused by the clothing industry?",
+      "translation": "第 7 题：要消除服装行业造成的危害,首先应该做什么?",
       "start": 410.82,
-      "end": 411.68
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "should be done first to eliminate the harm caused by the clothing industry?",
-      "translation": "应当首先消除服装业造成的伤害?",
-      "start": 412.5,
-      "end": 416.66
+      "end": 417.2,
+      "questionNumber": 7
     },
     {
       "speaker": "听力原声",
@@ -701,6 +684,42 @@
     {
       "speaker": "听力原声",
       "actor": "",
+      "text": "8. Why is the woman complaining?",
+      "translation": "第 8 题：女士为什么在抱怨?",
+      "start": 575.09,
+      "end": 578.242,
+      "questionNumber": 8
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "9. What does the woman suggest doing?",
+      "translation": "第 9 题：女士建议做什么?",
+      "start": 592.95,
+      "end": 596.397,
+      "questionNumber": 9
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "10. What do we learn about the man from the conversation?",
+      "translation": "第 10 题：从对话中我们了解到男士的什么情况?",
+      "start": 610.41,
+      "end": 615.667,
+      "questionNumber": 10
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "11. What does the woman ask the man to do at the end of the conversation?",
+      "translation": "第 11 题：对话结束时女士要求男士做什么?",
+      "start": 629.79,
+      "end": 635.727,
+      "questionNumber": 11
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
       "text": "Conversation two.",
       "translation": "对话二",
       "start": 649.93,
@@ -1059,50 +1078,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 12.",
-      "translation": "问题12。",
-      "start": 757.55,
-      "end": 758.19
+      "text": "12. What does the man say about Johnny?",
+      "translation": "第 12 题：男士对Johnny说了什么?",
+      "start": 757.54,
+      "end": 761.106,
+      "questionNumber": 12
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "does the man say about Johnny?",
-      "translation": "这个人说约翰尼吗?",
-      "start": 759.24,
-      "end": 760.72
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 13.",
-      "translation": "问题13。",
+      "text": "13. What does the woman find puzzling?",
+      "translation": "第 13 题：女士觉得什么令人困惑?",
       "start": 775.46,
-      "end": 776.04
+      "end": 779.211,
+      "questionNumber": 13
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the woman find puzzling?",
-      "translation": "那女人觉得什么奇怪?",
-      "start": 776.75,
-      "end": 778.75
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "14 What did the man think of Johnny Scar?",
-      "translation": "14岁 这个人对强尼・斯卡有什么看法?",
+      "text": "14. What did the man think of Johnny's scar?",
+      "translation": "第 14 题：男士对Johnny的疤痕有何看法?",
       "start": 793.7,
-      "end": 797.11
+      "end": 797.463,
+      "questionNumber": 14
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 15 How could we describe the speaker's attitude towards Johnny's girlfriend?",
-      "translation": "问题15 我们如何描述发言者对强尼女友的态度?",
+      "text": "15. How could we describe the speakers' attitude towards Johnny's girlfriend?",
+      "translation": "第 15 题：我们可以如何描述说话者对Johnny女友的态度?",
       "start": 811.86,
-      "end": 817.49
+      "end": 817.902,
+      "questionNumber": 15
     },
     {
       "speaker": "听力原声",
@@ -1260,10 +1267,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "according to the more recent theory.",
-      "translation": "根据最新的理论",
-      "start": 1021.06,
-      "end": 1022.9
+      "text": "16. How did language come into being according to researchers?",
+      "translation": "第 16 题：根据研究人员的说法,语言是如何产生的?",
+      "start": 974.91,
+      "end": 980.41,
+      "questionNumber": 16
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "17. How did language start according to the first theory?",
+      "translation": "第 17 题：根据第一种理论,语言是如何起源的?",
+      "start": 994.89,
+      "end": 1000.525,
+      "questionNumber": 17
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "18. Why did people switch from gesturing to making sounds according to the more recent theory?",
+      "translation": "第 18 题：根据较新的理论,人们为什么从做手势转向发出声音?",
+      "start": 1015.15,
+      "end": 1023.143,
+      "questionNumber": 18
     },
     {
       "speaker": "听力原声",
@@ -1402,34 +1428,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 19.",
-      "translation": "问题19。",
+      "text": "19. How would people describe someone who shows off their social status according to new research?",
+      "translation": "第 19 题：根据新研究,人们会如何描述炫耀自己社会地位的人?",
       "start": 1150.68,
-      "end": 1151.36
+      "end": 1158.052,
+      "questionNumber": 19
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "How would people describe someone who shows off their social status according to new research?",
-      "translation": "人们会如何描述根据新研究 展示社会地位的人?",
-      "start": 1152.27,
-      "end": 1157.75
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 20 When were participants more likely to choose someone who signaled their wealth or status?",
-      "translation": "问题20 参与者何时更有可能选择表明其财富或地位的人?",
+      "text": "20. When were participants more likely to choose someone who signaled their wealth or status?",
+      "translation": "第 20 题：参与者在什么情况下更可能选择那些展示自己财富或地位的人?",
       "start": 1173.29,
-      "end": 1179.49
+      "end": 1179.954,
+      "questionNumber": 20
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 21 What should people do when sharing their wealth and status online?",
-      "translation": "问题21:人们在网上分享财富和地位时应该做些什么?",
+      "text": "21. What should people do when sharing their wealth and status online?",
+      "translation": "第 21 题：人们在网上分享自己的财富和地位时应该做什么?",
       "start": 1195.23,
-      "end": 1200.61
+      "end": 1201.012,
+      "questionNumber": 21
     },
     {
       "speaker": "听力原声",
@@ -1580,26 +1601,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do we learn about the first known collections of animals?",
-      "translation": "我们如何了解第一批已知的动物群?",
+      "text": "22. What can we see in the oldest cave paintings?",
+      "translation": "第 22 题：我们能在最古老的洞穴壁画中看到什么?",
+      "start": 1330.81,
+      "end": 1334.618,
+      "questionNumber": 22
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "23. What do we learn about the first-known collections of animals?",
+      "translation": "第 23 题：关于最早已知的动物收藏,我们了解到什么?",
       "start": 1351.39,
-      "end": 1354.97
+      "end": 1355.318,
+      "questionNumber": 23
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 24 What might be the reason the Egyptian queen created the zoo?",
-      "translation": "问题24 埃及女王创建动物园的原因何在?",
+      "text": "24. What might be the reason the Egyptian Queen created the zoo?",
+      "translation": "第 24 题：埃及女王创建动物园的原因可能是什么?",
       "start": 1370.65,
-      "end": 1375.77
+      "end": 1376.14,
+      "questionNumber": 24
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 25 What do we learn about King Henry the Firsts collection of animals in England?",
-      "translation": "问题25 英国第一代动物收藏的亨利国王 我们了解什么?",
+      "text": "25. What do we learn about King Henry I's collection of animals in England?",
+      "translation": "第 25 题：关于英格兰国王亨利一世的动物收藏,我们了解到什么?",
       "start": 1391.59,
-      "end": 1397.77
+      "end": 1398.161,
+      "questionNumber": 25
     },
     {
       "speaker": "听力原声",
@@ -1613,5 +1646,6 @@
   "translation_sources": [
     "https://english-exam.lazynote.cn/cet4/sections/listening/2025-06-1/",
     "Sams200/opus-mt-en-zh (unmatched sentences only)"
-  ]
+  ],
+  "question_verification": "All 25 published question prompts located in original audio; numbers and prompts share one replay unit."
 }

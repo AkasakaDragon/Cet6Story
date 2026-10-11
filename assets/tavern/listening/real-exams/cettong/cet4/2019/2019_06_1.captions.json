@@ -77,6 +77,24 @@
     {
       "speaker": "听力原声",
       "actor": "",
+      "text": "1. What did the boy from Central California do according to the report?",
+      "translation": "第 1 题：根据报道,这个来自加利福尼亚州中部的男孩做了什么?",
+      "start": 120.42,
+      "end": 125.699,
+      "questionNumber": 1
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "2. What did the father do to encourage his son?",
+      "translation": "第 2 题：父亲做了什么来鼓励他的儿子?",
+      "start": 139.35,
+      "end": 143.965,
+      "questionNumber": 2
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
       "text": "News report 2 On the 1st of January, new regulations will come into effect which eliminate an annual leave bonus for people who put off marrying until the age of 23 for women",
       "translation": "2 1月1日,新的条例将生效,取消了对推迟结婚直至妇女23岁者的年假奖金。",
       "start": 157.5,
@@ -142,8 +160,26 @@
       "text": "So people who are rushing to register for marriage can relax.",
       "translation": "因此急于登记结婚的人们可以放松。",
       "start": 239.03,
-      "end": 271.09,
+      "end": 250.14,
       "translation_source": "https://english-exam.lazynote.cn/cet4/sections/listening/2019-06-1/"
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "3. What was the purpose of the annual leave bonus in China?",
+      "translation": "第 3 题：中国年假奖金的目的是什么?",
+      "start": 250.14,
+      "end": 256.231,
+      "questionNumber": 3
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "4. What do we learn about the new regulations?",
+      "translation": "第 4 题：关于新规定我们了解到什么?",
+      "start": 271.44,
+      "end": 274.475,
+      "questionNumber": 4
     },
     {
       "speaker": "听力原声",
@@ -208,6 +244,33 @@
       "translation": "据报道,他们正在会见律师,以探讨如何最好地推动这一业务。",
       "start": 353.22,
       "end": 358.64
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "5. What is the news report mainly about?",
+      "translation": "第 5 题：这则新闻报道主要讲的是什么?",
+      "start": 366.4,
+      "end": 370.46,
+      "questionNumber": 5
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "6. What is a common problem with a house party?",
+      "translation": "第 6 题：家庭派对的常见问题是什么?",
+      "start": 383.58,
+      "end": 389.481,
+      "questionNumber": 6
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "7. What are Rebecca Foley and Catherine Ashurst planning to do?",
+      "translation": "第 7 题：Rebecca Foley和Catherine Ashurst计划做什么?",
+      "start": 403.36,
+      "end": 409.223,
+      "questionNumber": 7
     },
     {
       "speaker": "听力原声",
@@ -444,6 +507,42 @@
     {
       "speaker": "听力原声",
       "actor": "",
+      "text": "8. What did the man do yesterday?",
+      "translation": "第 8 题：这个男士昨天做了什么？",
+      "start": 567.55,
+      "end": 571.677,
+      "questionNumber": 8
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "9. Why did he fail the exam the first time?",
+      "translation": "第 9 题：他第一次为什么没通过考试？",
+      "start": 585.65,
+      "end": 590.114,
+      "questionNumber": 9
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "10. What does the man say about his driving lessons?",
+      "translation": "第 10 题：这个男士对他的驾驶课有何评价？",
+      "start": 603.91,
+      "end": 608.898,
+      "questionNumber": 10
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "11. What does the man hope to do next?",
+      "translation": "第 11 题：这个男士接下来希望做什么？",
+      "start": 622.82,
+      "end": 626.979,
+      "questionNumber": 11
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
       "text": "Conversation 2.",
       "translation": "对话2。",
       "start": 640.77,
@@ -641,6 +740,42 @@
     {
       "speaker": "听力原声",
       "actor": "",
+      "text": "12. What does the man want to know?",
+      "translation": "第 12 题：男士想知道什么？",
+      "start": 751.64,
+      "end": 755.145,
+      "questionNumber": 12
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "13. What is the man going to do?",
+      "translation": "第 13 题：男士打算做什么？",
+      "start": 769.1,
+      "end": 772.798,
+      "questionNumber": 13
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "14. What might qualify the man for a scholarship at Leeds University?",
+      "translation": "第 14 题：什么可能使男士有资格获得 Leeds University 的奖学金？",
+      "start": 786.79,
+      "end": 792.77,
+      "questionNumber": 14
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "15. What is the woman planning to do after graduation?",
+      "translation": "第 15 题：女士毕业后打算做什么？",
+      "start": 806.68,
+      "end": 812.019,
+      "questionNumber": 15
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
       "text": "Section C Directions In this section you will hear three passages.",
       "translation": "C节方向 在本节 你会听到三个段落。",
       "start": 825.84,
@@ -817,17 +952,36 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "2.",
-      "translation": "2. 目标",
-      "start": 1046.53,
-      "end": 1047.01
+      "text": "16. What does the passage say about ants?",
+      "translation": "第 16 题：这篇文章关于蚂蚁说了什么?",
+      "start": 989.37,
+      "end": 993.828,
+      "questionNumber": 16
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "My research focus is on what happens to our immune system as we age.",
+      "text": "17. What do we learn from the passage about carpenter ants?",
+      "translation": "第 17 题：我们从这篇文章中了解到关于木蚁的什么信息?",
+      "start": 1007.54,
+      "end": 1012.66,
+      "questionNumber": 17
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "18. What can we do to prevent ants from getting into our homes?",
+      "translation": "第 18 题：我们可以做些什么来防止蚂蚁进入我们的家中?",
+      "start": 1026.57,
+      "end": 1032.515,
+      "questionNumber": 18
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "2. My research focus is on what happens to our immune system as we age.",
       "translation": "我的研究重点是 我们的免疫系统会怎样 当我们衰老时",
-      "start": 1048.41,
+      "start": 1046.53,
       "end": 1053.15
     },
     {
@@ -933,6 +1087,33 @@
       "translation": "我们希望人们健康,即使他们老了。",
       "start": 1141.42,
       "end": 1145.54
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "19. What is the focus of the speaker's research?",
+      "translation": "第 19 题：说话者的研究重点是什么?",
+      "start": 1153.52,
+      "end": 1158.059,
+      "questionNumber": 19
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "20. What are the volunteers asked to do in the research?",
+      "translation": "第 20 题：研究中要求志愿者做什么?",
+      "start": 1171.03,
+      "end": 1177.242,
+      "questionNumber": 20
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "21. What does the speaker say will be the impact of his research?",
+      "translation": "第 21 题：说话者认为他的研究会产生什么影响?",
+      "start": 1190.33,
+      "end": 1198.012,
+      "questionNumber": 21
     },
     {
       "speaker": "听力原声",
@@ -1065,6 +1246,42 @@
     {
       "speaker": "听力原声",
       "actor": "",
+      "text": "22. What did Ted Komada notice one day after he started teaching at Killip Elementary?",
+      "translation": "第 22 题：Ted Komada 在 Killip 小学开始任教后的某一天注意到了什么？",
+      "start": 1323.68,
+      "end": 1331.129,
+      "questionNumber": 22
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "23. What are dozens of students from Komada's school going to do this week?",
+      "translation": "第 23 题：Komada 所在学校的数十名学生本周将做什么？",
+      "start": 1344.55,
+      "end": 1351.937,
+      "questionNumber": 23
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "24. What do we learn about the students of Killip Elementary?",
+      "translation": "第 24 题：关于 Killip 小学的学生们我们了解到什么？",
+      "start": 1365.83,
+      "end": 1371.181,
+      "questionNumber": 24
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "25. What have the students learned from Komada?",
+      "translation": "第 25 题：学生们从 Komada 那里学到了什么？",
+      "start": 1384.85,
+      "end": 1389.423,
+      "questionNumber": 25
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
       "text": "This is the end of listening comprehension.",
       "translation": "听觉理解的结束",
       "start": 1402.92,
@@ -1074,5 +1291,6 @@
   "translation_sources": [
     "https://english-exam.lazynote.cn/cet4/sections/listening/2019-06-1/",
     "Sams200/opus-mt-en-zh (unmatched sentences only)"
-  ]
+  ],
+  "question_verification": "All 25 published question prompts located in original audio; numbers and prompts share one replay unit."
 }

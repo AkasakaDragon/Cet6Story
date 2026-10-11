@@ -239,10 +239,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the woman suggest the man do first to avoid getting into debt?",
-      "translation": "女人建议男人首先做什么来避免负债?",
+      "text": "1. What does the man say about the weekly program?",
+      "translation": "第 1 题：男士对这个每周节目有何评价?",
+      "start": 169.25,
+      "end": 173.027,
+      "questionNumber": 1
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "2. What did the man read recently?",
+      "translation": "第 2 题：男士最近读到了什么?",
+      "start": 185.55,
+      "end": 189.428,
+      "questionNumber": 2
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "3. What does the woman suggest the man do first to avoid getting into debt?",
+      "translation": "第 3 题：女士建议男士首先做什么来避免负债?",
       "start": 203.96,
-      "end": 208.88
+      "end": 209.056,
+      "questionNumber": 3
     },
     {
       "speaker": "听力原声",
@@ -255,10 +274,11 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the woman say about online shopping?",
-      "translation": "女人对网上购物有什么看法?",
+      "text": "4. What does the woman say about online shopping?",
+      "translation": "第 4 题：女士对网上购物有何评价?",
       "start": 223.86,
-      "end": 226.42
+      "end": 226.698,
+      "questionNumber": 4
     },
     {
       "speaker": "听力原声",
@@ -524,74 +544,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "5.",
-      "translation": "5 个",
+      "text": "5. What does the woman say about the flat?",
+      "translation": "第 5 题：女士对这套公寓是怎么说的?",
       "start": 370.66,
-      "end": 371.22
+      "end": 374.146,
+      "questionNumber": 5
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the woman say about the flat?",
-      "translation": "那女的对公寓怎么说?",
-      "start": 371.82,
-      "end": 373.8
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 6.",
-      "translation": "问题6",
+      "text": "6. What is the man's chief consideration in looking for a flat?",
+      "translation": "第 6 题：男士在找公寓时首要考虑的是什么?",
       "start": 387.62,
-      "end": 388.36
+      "end": 393.076,
+      "questionNumber": 6
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What is the man's chief consideration?",
-      "translation": "男人的主要考虑是什么?",
-      "start": 388.98,
-      "end": 390.96
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "and looking for a flat.",
-      "translation": "寻找一个公寓。",
-      "start": 391.57,
-      "end": 392.73
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 7.",
-      "translation": "问题7",
+      "text": "7. What does the man have to do on signing the contract?",
+      "translation": "第 7 题：男士在签订合同时必须做什么?",
       "start": 406.39,
-      "end": 407.25
+      "end": 411.42,
+      "questionNumber": 7
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the man have to do on signing the contract?",
-      "translation": "签署合同时他有什么责任?",
-      "start": 407.99,
-      "end": 410.99
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 8.",
-      "translation": "问题8",
+      "text": "8. Why does the man say his wife will feel very excited if they move into the flat?",
+      "translation": "第 8 题：为什么男士说如果他们搬进这套公寓,他的妻子会非常兴奋?",
       "start": 424.71,
-      "end": 425.49
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Why does the man say his wife will feel very excited if they move into the flat?",
-      "translation": "为什么男人说,他的妻子会 感到非常兴奋 如果他们搬到公寓?",
-      "start": 426.21,
-      "end": 431.53
+      "end": 431.901,
+      "questionNumber": 8
     },
     {
       "speaker": "听力原声",
@@ -846,50 +830,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 9.",
-      "translation": "问题9",
+      "text": "9. What has the new study found about children watching television?",
+      "translation": "第 9 题：关于儿童看电视，新研究发现了什么？",
       "start": 605.23,
-      "end": 605.97
+      "end": 610.525,
+      "questionNumber": 9
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What has the new study found about children watching television?",
-      "translation": "有关儿童观看电视的新研究有何发现?",
-      "start": 606.65,
-      "end": 609.97
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 10.",
-      "translation": "问题10。",
+      "text": "10. What are parents advised to do to reduce the impact of TV commercials?",
+      "translation": "第 10 题：建议父母做什么来减少电视广告的影响？",
       "start": 623.8,
-      "end": 624.58
+      "end": 630.572,
+      "questionNumber": 10
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What our parents advise to do to reduce the impact of TV commercials?",
-      "translation": "我们的父母建议如何减少电视广告的影响?",
-      "start": 625.33,
-      "end": 629.97
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "11.",
-      "translation": "11. 十一号",
+      "text": "11. What makes children particularly vulnerable to TV commercials?",
+      "translation": "第 11 题：是什么使儿童特别容易受到电视广告的影响？",
       "start": 644.3,
-      "end": 644.92
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What makes children particularly vulnerable to TV commercials?",
-      "translation": "是什么使儿童特别易受电视广告的影响?",
-      "start": 645.64,
-      "end": 649.48
+      "end": 650.028,
+      "questionNumber": 11
     },
     {
       "speaker": "听力原声",
@@ -1107,66 +1070,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 12.",
-      "translation": "问题12。",
+      "text": "12. What baffling phenomenon is discussed in the passage?",
+      "translation": "第 12 题：文章讨论了什么令人困惑的现象?",
       "start": 791.44,
-      "end": 792.3
+      "end": 796.753,
+      "questionNumber": 12
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What baffling phenomenon is discussed in the passage.",
-      "translation": "文章中讨论了令人困惑的现象。",
-      "start": 793.1,
-      "end": 796.32
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 13.",
-      "translation": "问题13。",
+      "text": "13. How are we all judged according to the passage?",
+      "translation": "第 13 题：根据文章,我们所有人是如何被评判的?",
       "start": 810.25,
-      "end": 811.13
+      "end": 815.208,
+      "questionNumber": 13
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "How are we all judge according to the passage?",
-      "translation": "我们如何根据通过的方式来评判?",
-      "start": 811.71,
-      "end": 814.77
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 14.",
-      "translation": "问题14。",
+      "text": "14. What can a normal person do when faced with people who perform better?",
+      "translation": "第 14 题：当面对表现更好的人时,普通人能做什么?",
       "start": 828.53,
-      "end": 829.41
+      "end": 834.761,
+      "questionNumber": 14
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What can a normal person do when faced with people who perform better?",
-      "translation": "面对表现较好的人,一个正常人能做些什么?",
-      "start": 830.01,
-      "end": 834.49
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "15.",
-      "translation": "15. 15个",
+      "text": "15. What may discourage people from performing good deeds?",
+      "translation": "第 15 题：什么可能阻碍人们做好事?",
       "start": 849.0,
-      "end": 849.78
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What may discourage people from performing good deeds?",
-      "translation": "何以阻止人们行善呢?",
-      "start": 850.44,
-      "end": 853.66
+      "end": 854.203,
+      "questionNumber": 15
     },
     {
       "speaker": "听力原声",
@@ -1427,10 +1362,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do children do when they reach late adolescents?",
-      "translation": "当儿童接触晚年青少年时,他们做什么?",
+      "text": "16. What does the speaker say about most preteen children?",
+      "translation": "第 16 题：说话者关于大多数青春期前儿童说了什么？",
+      "start": 1083.93,
+      "end": 1088.303,
+      "questionNumber": 16
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "17. What do most males devote much of their energy to during adolescence?",
+      "translation": "第 17 题：大多数男性在青春期将大部分精力投入到什么上？",
+      "start": 1100.97,
+      "end": 1108.007,
+      "questionNumber": 17
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "18. What do children do when they reach late adolescence?",
+      "translation": "第 18 题：儿童在青春期后期会做什么？",
       "start": 1122.89,
-      "end": 1125.95
+      "end": 1126.659,
+      "questionNumber": 18
     },
     {
       "speaker": "听力原声",
@@ -1640,50 +1594,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "19.",
-      "translation": "19. 经济",
+      "text": "19. Why do disabled job applicants feel reluctant to disclose their disability information?",
+      "translation": "第 19 题：为什么残障求职者不愿意披露他们的残障信息?",
       "start": 1310.14,
-      "end": 1310.92
+      "end": 1318.146,
+      "questionNumber": 19
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Why do disabled job applicants feel reluctant to disclose their disability information?",
-      "translation": "残疾求职人员为何不愿披露残疾信息?",
-      "start": 1311.84,
-      "end": 1317.36
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "20.",
-      "translation": "20. 20个",
+      "text": "20. When does the speaker suggest applicants reveal their disability information?",
+      "translation": "第 20 题：说话者建议求职者何时披露他们的残障信息?",
       "start": 1331.63,
-      "end": 1332.43
+      "end": 1337.843,
+      "questionNumber": 20
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "When does the speaker suggest applicants reveal their disability information?",
-      "translation": "发言者建议申请人何时披露其残疾信息?",
-      "start": 1332.88,
-      "end": 1337.24
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 21.",
-      "translation": "问题21",
+      "text": "21. What are people advised to do when filling out their job application form?",
+      "translation": "第 21 题：建议人们在填写求职申请表时做什么?",
       "start": 1351.41,
-      "end": 1352.15
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What are people advised to do when filling out their job application form?",
-      "translation": "人们在填写工作申请表时,建议他们做些什么?",
-      "start": 1352.81,
-      "end": 1357.29
+      "end": 1357.623,
+      "questionNumber": 21
     },
     {
       "speaker": "听力原声",
@@ -1866,42 +1799,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 22 What did some American researchers find about students reading comprehension in the presence of background noise?",
-      "translation": "问题22 一些美国研究人员发现 学生在背景噪音面前阅读理解 有何发现?",
+      "text": "22. What did some American researchers find about students' reading comprehension in the presence of background noise?",
+      "translation": "第 22 题：一些美国研究人员发现,在有背景噪音的情况下,学生的阅读理解能力如何?",
       "start": 1542.54,
-      "end": 1551.58
+      "end": 1552.061,
+      "questionNumber": 22
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 23 What do we learn from the British researchers about the degree of interference from background noise?",
-      "translation": "问题23:我们从英国研究人员那里了解到什么是背景噪音的干扰程度?",
+      "text": "23. What do we learn from the British researchers about the degree of interference from background noise?",
+      "translation": "第 23 题：从英国研究人员的研究中,我们了解到背景噪音的干扰程度有什么特点?",
       "start": 1565.55,
-      "end": 1573.11
+      "end": 1573.479,
+      "questionNumber": 23
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 24 What is best for students to do when writing essays according to some research?",
-      "translation": "问题24:根据一些研究撰写论文,学生最好做些什么?",
+      "text": "24. What is best for students to do when writing essays according to some research?",
+      "translation": "第 24 题：根据一些研究,学生在写论文时最好做什么?",
       "start": 1586.93,
-      "end": 1594.17
+      "end": 1594.613,
+      "questionNumber": 24
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 25",
-      "translation": "问题25",
+      "text": "25. How do people of different personalities react to distractions according to other studies?",
+      "translation": "第 25 题：根据其他研究,不同性格的人对干扰有何反应?",
       "start": 1607.99,
-      "end": 1609.15
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "How do people of different personalities react to distractions according to other studies?",
-      "translation": "不同人格的人如何根据其他研究对分散注意力作出反应?",
-      "start": 1609.71,
-      "end": 1615.97
+      "end": 1616.199,
+      "questionNumber": 25
     },
     {
       "speaker": "听力原声",
@@ -1915,5 +1844,6 @@
   "translation_sources": [
     "https://english-exam.lazynote.cn/cet6/sections/listening/2022-09-1/",
     "Sams200/opus-mt-en-zh (unmatched sentences only)"
-  ]
+  ],
+  "question_verification": "All 25 published question prompts located in original audio; numbers and prompts share one replay unit."
 }

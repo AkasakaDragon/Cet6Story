@@ -301,66 +301,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "1.",
-      "translation": "1. 国家",
+      "text": "1. Where does the conversation most probably take place?",
+      "translation": "第 1 题：对话最可能发生在哪里?",
       "start": 151.72,
-      "end": 152.12
+      "end": 156.314,
+      "questionNumber": 1
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Where does the conversation most probably take place?",
-      "translation": "对话最可能在哪里进行?",
-      "start": 152.65,
-      "end": 155.87
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "2.",
-      "translation": "2. 目标",
+      "text": "2. What do we learn about the woman?",
+      "translation": "第 2 题：关于这位女士我们了解到什么?",
       "start": 169.79,
-      "end": 170.33
+      "end": 173.126,
+      "questionNumber": 2
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do we learn about the woman?",
-      "translation": "我们从那女人那里学到什么?",
-      "start": 171.02,
-      "end": 172.92
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 3.",
-      "translation": "问题3",
+      "text": "3. What would be a difficult thing to do according to the woman?",
+      "translation": "第 3 题：根据这位女士的说法,什么事情会比较难做到?",
       "start": 186.76,
-      "end": 187.54
+      "end": 191.53,
+      "questionNumber": 3
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What would be a difficult thing to do according to the woman?",
-      "translation": "女人说这有什么难的?",
-      "start": 187.96,
-      "end": 191.32
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 4.",
-      "translation": "问题4",
+      "text": "4. What does the woman say about her parents?",
+      "translation": "第 4 题：这位女士关于她父母说了什么?",
       "start": 204.93,
-      "end": 205.77
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What does the woman say about her parents?",
-      "translation": "她对父母怎么说?",
-      "start": 206.43,
-      "end": 208.67
+      "end": 209.055,
+      "questionNumber": 4
     },
     {
       "speaker": "听力原声",
@@ -624,66 +596,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 5.",
-      "translation": "问题5",
+      "text": "5. What was the manager's reason for giving little praise for the man's performance?",
+      "translation": "第 5 题：经理对这名男士的工作表现几乎不予赞扬的原因是什么?",
       "start": 355.41,
-      "end": 356.09
+      "end": 361.694,
+      "questionNumber": 5
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What was the manager's reason for giving little praise for the man's performance?",
-      "translation": "经理有什么理由不赞美他的表现?",
-      "start": 356.75,
-      "end": 360.95
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 6.",
-      "translation": "问题6",
+      "text": "6. What does the woman say about some managers?",
+      "translation": "第 6 题：女士对一些管理者有什么看法?",
       "start": 375.22,
-      "end": 375.92
+      "end": 379.348,
+      "questionNumber": 6
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the woman say about some managers?",
-      "translation": "女人对经理怎么说?",
-      "start": 376.49,
-      "end": 378.85
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 7.",
-      "translation": "问题7",
+      "text": "7. According to the woman, what do some managers think of honesty?",
+      "translation": "第 7 题：根据女士的说法,一些管理者如何看待诚实?",
       "start": 392.95,
-      "end": 393.85
+      "end": 398.473,
+      "questionNumber": 7
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "According to the woman, what do some managers think of honesty?",
-      "translation": "女性认为,一些管理人员对诚实有何看法?",
-      "start": 394.49,
-      "end": 397.99
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 8.",
-      "translation": "问题8",
+      "text": "8. What does the woman think is the priority of many managers?",
+      "translation": "第 8 题：女士认为许多管理者的首要任务是什么?",
       "start": 412.22,
-      "end": 412.86
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What does the woman think is the priority of many managers?",
-      "translation": "女性认为许多管理人员的优先考虑是什么?",
-      "start": 413.3,
-      "end": 416.44
+      "end": 416.935,
+      "questionNumber": 8
     },
     {
       "speaker": "听力原声",
@@ -880,50 +824,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "9.",
-      "translation": "9. 国家",
+      "text": "9. Why does the speaker say athletes are often viewed as heroes?",
+      "translation": "第 9 题：为什么说话者说运动员常被视为英雄？",
       "start": 577.18,
-      "end": 577.76
+      "end": 581.994,
+      "questionNumber": 9
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "does the speaker say athletes are often viewed as heroes?",
-      "translation": "发言人是否说运动员常常被视为英雄?",
-      "start": 578.62,
-      "end": 581.46
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "10.",
-      "translation": "10 个",
+      "text": "10. What does the speaker say many high-profile players do?",
+      "translation": "第 10 题：说话者说许多知名球员会做什么？",
       "start": 595.53,
-      "end": 595.97
+      "end": 600.076,
+      "questionNumber": 10
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the speaker say many high-profile players do?",
-      "translation": "发言者说许多高知名度的球员做什么?",
-      "start": 596.57,
-      "end": 599.81
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "11.",
-      "translation": "11. 十一号",
+      "text": "11. What does the speaker say can be difficult?",
+      "translation": "第 11 题：说话者说什么可能很困难？",
       "start": 613.61,
-      "end": 614.13
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What does the speaker say can be difficult?",
-      "translation": "发言者说什么会很困难?",
-      "start": 614.83,
-      "end": 616.81
+      "end": 617.215,
+      "questionNumber": 11
     },
     {
       "speaker": "听力原声",
@@ -1072,42 +995,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "say about weddings?",
-      "translation": "谈婚礼?",
-      "start": 745.38,
-      "end": 746.48
+      "text": "12. What does the speaker say about weddings?",
+      "translation": "第 12 题：说话者关于婚礼说了什么?",
+      "start": 743.28,
+      "end": 746.977,
+      "questionNumber": 12
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "question 13",
-      "translation": "问题13",
+      "text": "13. What do we learn about the wedding of the Canadian woman Susan?",
+      "translation": "第 13 题：关于加拿大女性Susan的婚礼,我们了解到什么?",
       "start": 760.37,
-      "end": 761.15
+      "end": 765.96,
+      "questionNumber": 13
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do we learn about the wedding of the Canadian woman Susan?",
-      "translation": "我们从加拿大女人苏珊的婚礼上 了解到什么?",
-      "start": 761.88,
-      "end": 765.46
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 14 What did Susan's maid of honor advise her to do?",
-      "translation": "问题14 Susan的伴娘建议她怎么做?",
+      "text": "14. What did Susan's maid of honor advise her to do?",
+      "translation": "第 14 题：Susan的伴娘建议她做什么?",
       "start": 779.47,
-      "end": 784.01
+      "end": 784.316,
+      "questionNumber": 14
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 15 How did Susan respond to her future husband's suggestion?",
-      "translation": "问题15:苏珊如何回应她未来丈夫的建议?",
+      "text": "15. How did Susan respond to her future husband's suggestion?",
+      "translation": "第 15 题：Susan如何回应她未婚夫的建议?",
       "start": 797.71,
-      "end": 802.72
+      "end": 803.282,
+      "questionNumber": 15
     },
     {
       "speaker": "听力原声",
@@ -1368,65 +1287,36 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "16.",
-      "translation": "16岁。",
+      "text": "16. What has a new study revealed about temperature?",
+      "translation": "第 16 题：一项新研究揭示了关于温度的什么信息?",
       "start": 1036.8,
-      "end": 1037.36
+      "end": 1041.161,
+      "questionNumber": 16
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What has a new study revealed about temperature?",
-      "translation": "一项新的研究揭示了温度的什么?",
-      "start": 1038.43,
-      "end": 1040.67
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "17.",
-      "translation": "17岁",
+      "text": "17. What does the speaker say about warmer climates?",
+      "translation": "第 17 题：说话者关于较温暖的气候说了什么?",
       "start": 1054.75,
-      "end": 1055.35
+      "end": 1059.052,
+      "questionNumber": 17
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the speaker say about warmer climates?",
-      "translation": "发言者对气候变暖有何看法?",
-      "start": 1056.24,
-      "end": 1058.54
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "18.",
-      "translation": "18岁",
+      "text": "18. What did the online personality tests suggest?",
+      "translation": "第 18 题：在线性格测试表明了什么?",
       "start": 1072.68,
-      "end": 1073.12
+      "end": 1077.09,
+      "questionNumber": 18
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do the online personality tests suggest?",
-      "translation": "网络人格测试有何建议?",
-      "start": 1073.84,
-      "end": 1076.7
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "2.",
-      "translation": "2. 目标",
-      "start": 1090.71,
-      "end": 1091.15
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Today, we're talking about loneliness.",
+      "text": "2. Today, we're talking about loneliness.",
       "translation": "今天,我们谈论的是孤独",
-      "start": 1092.27,
+      "start": 1090.71,
       "end": 1094.51
     },
     {
@@ -1657,10 +1547,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What is the key to solving the loneliness problem according to the speaker?",
-      "translation": "发言者认为,解决孤独问题的关键是什么?",
+      "text": "19. Why does the speaker say the finding of a new national poll reveals a serious problem?",
+      "translation": "第 19 题：为什么说话者说一项新的全国民意调查的发现揭示了一个严重的问题?",
+      "start": 1281.02,
+      "end": 1289.071,
+      "questionNumber": 19
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "20. What is the good news the speaker talks about?",
+      "translation": "第 20 题：说话者谈到的好消息是什么?",
+      "start": 1301.98,
+      "end": 1306.745,
+      "questionNumber": 20
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "21. What is the key to solving the loneliness problem according to the speaker?",
+      "translation": "第 21 题：根据说话者的说法,解决孤独问题的关键是什么?",
       "start": 1321.76,
-      "end": 1326.34
+      "end": 1326.645,
+      "questionNumber": 21
     },
     {
       "speaker": "听力原声",
@@ -1832,18 +1741,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 25.",
-      "translation": "问题25。",
-      "start": 1552.11,
-      "end": 1553.35
+      "text": "22. What do we learn about the speaker before she created the community We Are Travel Girls?",
+      "translation": "第 22 题：在创建 We Are Travel Girls 社区之前,我们对说话者有什么了解?",
+      "start": 1492.36,
+      "end": 1499.214,
+      "questionNumber": 22
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What is the speaker's advice on winning a loyal audience?",
-      "translation": "发言者对赢得忠实听众有何建议?",
-      "start": 1554.27,
-      "end": 1557.59
+      "text": "23. What did the speaker's friend suggest they do in 2015?",
+      "translation": "第 23 题：说话者的朋友在2015年建议她们做什么?",
+      "start": 1512.04,
+      "end": 1518.41,
+      "questionNumber": 23
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "24. What does the speaker advise people to do if they want to become travel writers?",
+      "translation": "第 24 题：如果人们想成为旅行作家,说话者建议他们做什么?",
+      "start": 1531.3,
+      "end": 1538.732,
+      "questionNumber": 24
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "25. What is the speaker's advice on winning a loyal audience?",
+      "translation": "第 25 题：关于赢得忠实受众,说话者的建议是什么?",
+      "start": 1552.11,
+      "end": 1557.963,
+      "questionNumber": 25
     },
     {
       "speaker": "听力原声",
@@ -1857,5 +1786,6 @@
   "translation_sources": [
     "https://english-exam.lazynote.cn/cet6/sections/listening/2023-03-1/",
     "Sams200/opus-mt-en-zh (unmatched sentences only)"
-  ]
+  ],
+  "question_verification": "All 25 published question prompts located in original audio; numbers and prompts share one replay unit."
 }

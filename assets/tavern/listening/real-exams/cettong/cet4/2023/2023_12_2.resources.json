@@ -12,7 +12,7 @@
       "id": "lazynote-1",
       "title": "Section A · 第 1 篇 · 1–2 题",
       "start": 43.666,
-      "end": 128.666,
+      "end": 128.721,
       "first": 1,
       "last": 2,
       "material": "A police officer in the U.S. stopped a large SUV car that was going very slowly and drifting across lanes on a highway. He expected to find a driver who was either very drunk or having a medical emergency. Instead, the officer discovered a five-year-old boy sat on the edge of the driver's seat. His feet could barely reach the brake, and his head was only just high enough to see out of the windows. The child had taken the keys to the family car while his teenage sister was napping. He then drove three kilometers across town before getting on the highway. The boy later told confused officers that he was planning to travel to California and buy a Lamborghini sports car. Although he only had three dollars in his wallet, at least he was driving in the right direction."
@@ -39,7 +39,7 @@
       "id": "lazynote-4",
       "title": "Section B · 第 1 篇 · 8–11 题",
       "start": 443.933,
-      "end": 599.4,
+      "end": 599.413,
       "first": 8,
       "last": 11,
       "material": "M: So, where do you want to go for lunch?\nW: I don't know. Do you have anything in mind?\nM: What about the Sandwich Place on Camden Street?\nW: Hmm… No, sorry. I don't feel like sandwiches today. It's a great place, but I think we go there too often.\nM: That's true. Remember that's where we saw Brigette Clark, the famous movie star.\nW: Of course. How could I ever forget? There were crowds of people around her asking for a photo with her.\nM: What about hamburgers, then? There's that American style diner on the way to the mall.\nW: I like that place. Their chips are great, but their service takes a long time. And I need to get back by 2:30 for a conference call. How about trying something new? We could try Mario's, the new Italian restaurant on the corner. It looks all right. Have you been there?\nM: No, I haven't, but I've noticed that it has great reviews on the Internet. It's supposed to be one of the best Italians in town. I think Jeremy has been there and said it was amazing. I'm up for that.\nW: Cool. Have you asked Jeremy if he would like to come with us?\nM: I already have. He says he can't. He has brought his own lunch today, so he will stay in. I think his wife made him soup.\nW: Poor Jeremy. His wife is a terrible cook. He should throw that soup in the bin and join us."
@@ -94,8 +94,10 @@
       "answer": 2,
       "explanation": "【题目】 Why did the police officer stop the SUV car? \n\n 【翻译】 警察为什么拦停那辆SUV? \n A)  他注意到驾驶员太年轻,不能开车。 \n B)  他发现驾驶座上没有人。 \n C)  他认为驾驶员一定出了什么问题。 \n D)  他看到驾驶员变换车道过于频繁。 \n\n 【答案】 C （细节题） He thought something must be wrong with the driver. \n 【定位】 P1 A police officer in the U.S. stopped a large SUV car that was going very slowly and drifting across lanes on a highway. He expected to find a driver who was either very drunk or having a medical emergency. \n 美国一名警察拦下了一辆在高速公路上行驶得非常缓慢、还在车道间飘忽乱晃的大型 SUV。他原以为会发现一个要么烂醉、要么突发疾病的司机。 \n\n 【信号】 开篇即点题、紧跟一句\"原以为\"的推断 。新闻把核心事件放在第一句：车 going very slowly and drifting across lanes（开得很慢、车道间乱飘）。紧接着 He expected to find a driver who was either very drunk or having a medical emergency 这句\"警察原以为\"，直接道出他判断\"司机一定出了问题\"——这正是拦车的真实理由。 \n\n 【替换】 a driver who was either very drunk or having a medical emergency ↔ something must be wrong with the driver 具体病况概括成\"司机有问题\" \n\n 【排除】 A) 原词陷阱 录音后面确实揭晓司机是 a five-year-old boy（五岁男孩），A 项 He noticed the driver was too young to drive.（发现司机太小不能开车）就盗用了这个\"年龄小\"的事实。但那是警察拦车\"之后\"才发现的真相，并非拦车的原因——拦车时他根本看不清开车的是谁。听到\"小孩\"就选 A，正中原词陷阱。  借用原文：a five-year-old boy sat on the edge of the driver's seat \n\n B) 与原文相反 B 项 He found there was no one sitting at the wheel.（发现没人坐在方向盘后）听起来很像那个离奇画面，但录音说的是男孩 sat on the edge of the driver's seat——其实有人坐在驾驶位，只是个小孩。而且\"座位上情况\"是拦车后才看清的，拦车当下警察只看到车乱晃。B 既与原文不符、又答非所问。  借用原文：a five-year-old boy sat on the edge of the driver's seat \n\n D) 偷换概念 D 项 He saw the driver changing lanes much too frequently.（看到司机频繁变道）盗用了原文 drifting across lanes 里的 lanes。但 drifting across lanes 是\"车失控地在车道间飘移乱晃\"（因为开车的是够不着踏板的小孩），不是司机主动、频繁地变换车道。D 把\"失控飘移\"偷换成\"频繁变道\"，看似沾边实则两回事。  借用原文：drifting across lanes on a highway",
       "group_id": "lazynote-1",
-      "start": 43.666,
-      "end": 128.666
+      "start": 103.57,
+      "end": 107.831,
+      "spoken_text": "Why did the police officer stop the SUV car?",
+      "audio_match_score": 1.0
     },
     {
       "number": 2,
@@ -109,8 +111,10 @@
       "answer": 0,
       "explanation": "【题目】 What did the boy tell the police officers he was planning to do? \n\n 【翻译】 男孩告诉警察他打算做什么? \n A)  买一辆跑车。 \n B)  开车穿过城镇。 \n C)  离开California。 \n D)  看望他的姐姐。 \n\n 【答案】 A （细节题） Buy a sports car. \n 【定位】 P1 The boy later told confused officers that he was planning to travel to California and buy a Lamborghini sports car. \n 男孩后来告诉一脸困惑的警察，他打算开去加利福尼亚，买一辆兰博基尼跑车。 \n\n 【信号】 planning to 直接引出打算做的事 。信号词 he was planning to travel to California and buy a Lamborghini sports car 里的 planning to 正是\"表打算\"的标志，其后跟着的两个动作（去加州、买跑车）就是男孩的计划，是题目要的答案落点。 \n\n 【替换】 buy a Lamborghini sports car ↔ Buy a sports car. 去掉品牌名后即同一动作 \n\n 【排除】 B) 原词陷阱 B 项 Drive across town.（开车穿过城镇）盗用了原文 drove three kilometers across town 里的 across town。但\"开车穿城\"是男孩已经做过的事（他已经开了三公里穿过城镇上高速），不是他\"打算\"做的事。题目问的是 planning to 之后的计划，B 把\"已发生\"偷换成\"打算做\"，答非所问。  借用原文：He then drove three kilometers across town before getting on the highway. \n\n C) 与原文相反 C 项 Leave California.（离开加州）盗用了地名 California，但录音说的是 travel to California（去往加州），方向恰好相反——是去、不是离开。地名一念到极易被耳朵抓住，但方向词（to / leave）被悄悄反转，最易让人误选。  借用原文：he was planning to travel to California \n\n D) 原词陷阱 D 项 Visit his sister.（看望他姐姐）盗用了原文出现的 sister。但 sister 在录音里只是\"趁姐姐午睡时拿了车钥匙\"的背景人物（while his teenage sister was napping），男孩的计划是去加州买跑车，从没说过要去看望姐姐。这是把一个出现过的人名硬塞进\"计划\"里。  借用原文：while his teenage sister was napping",
       "group_id": "lazynote-1",
-      "start": 43.666,
-      "end": 128.666
+      "start": 122.55,
+      "end": 128.621,
+      "spoken_text": "What did the boy tell the police officers he was planning to do?",
+      "audio_match_score": 1.0
     },
     {
       "number": 3,
@@ -124,8 +128,10 @@
       "answer": 1,
       "explanation": "【题目】 What does the report say we have not yet understood about mobile phones? \n\n 【翻译】 报告称我们尚未了解手机的哪个方面？ \n A)  手机如何改变我们的购物方式。 \n B)  手机如何改变人类骨骼。 \n C)  手机如何导致头痛增加。 \n D)  手机如何影响我们的沟通。 \n\n 【答案】 B （细节题） How they alter human skeletons. \n 【定位】 P1 What we have not yet understood is the way the tiny machines in front of us are changing our skeletons, possibly altering not just the way we behave but even the very shape of our bodies. \n 我们还没有理解的，是眼前这些小小的机器正在改变我们的骨骼这件事——它们或许不仅改变我们的行为方式，甚至会改变我们身体的形状。 \n\n 【信号】 题干原话 we have not yet understood 直接复现 。录音里 What we have not yet understood is the way the tiny machines in front of us are changing our skeletons 把题干的核心短语 \"we have not yet understood\" 原样念出，这种 \"题干关键词在原文出现\" 就是答案句的定位信号，紧跟其后的 changing our skeletons 即所求。 \n\n 【替换】 changing our skeletons ↔ How they alter human skeletons. changing 同义替换为 alter \n\n 【排除】 A) 原词陷阱 录音开头 how we read, work, communicate, and shop 确实念到 shop 购物，但紧接着说 But we already know this——购物属于 \"我们已经知道\" 的部分，而题目问的是 \"还没理解\" 的，正好相反，选它就掉进了原词陷阱。  借用原文：how we read, work, communicate, and shop \n\n C) 未提及 选项 How they cause increased headaches. 说手机导致头痛增多，但整段录音从未提到 headaches 头痛，是凭 \"手机看多了会头疼\" 的生活常识硬加的，属无中生有。 \n D) 原词陷阱 录音里 how we read, work, communicate, and shop 念到 communicate 沟通，How they affect our communication. 借此设套；但沟通和购物一样属于 But we already know this 已知的部分，不是题问的 \"还没理解\" 的，故错。  借用原文：how we read, work, communicate, and shop",
       "group_id": "lazynote-2",
-      "start": 146.4,
-      "end": 246.5
+      "start": 220.36,
+      "end": 225.179,
+      "spoken_text": "What does the report say we have not yet understood about mobile phones?",
+      "audio_match_score": 1.0
     },
     {
       "number": 4,
@@ -139,8 +145,10 @@
       "answer": 2,
       "explanation": "【题目】 What happens to the skin when rubbed or pressed constantly? \n\n 【翻译】 当皮肤持续受到摩擦或按压时会发生什么？ \n A)  它变松弛。 \n B)  它变亮。 \n C)  它变硬。 \n D)  它变软。 \n\n 【答案】 C （细节题） It hardens. \n 【定位】 P2 This process can be compared to the way the skin hardens in response to constant rubbing or pressure. \n 这个过程可以类比皮肤在持续摩擦或受压之下变硬的方式。 \n\n 【信号】 题干关键词 skin、rubbing、pressure 同句聚齐 。录音 the skin hardens in response to constant rubbing or pressure 把题干的 skin、rubbed / pressed（原文作 rubbing / pressure）几个词凑在同一句，关键词集中出现即答案句信号，紧跟的动词 hardens 就是结果。 \n\n 【替换】 the skin hardens ↔ It hardens. the skin 由 It 指代、hardens 原词承接 \n\n 【排除】 A) 未提及 It loosens. 说变松，但录音讲皮肤是 hardens 变硬，没有任何 \"变松\" 的说法，纯属无中生有。 \n B) 未提及 It brightens. 说变亮，录音谈的是皮肤受摩擦后 hardens 变硬的物理硬化，与 \"变亮\" 毫不相干，录音也未提及。 \n D) 与原文相反 It softens. 变软，恰与录音 the skin hardens 变硬相反。这是预读时就标好的反义诱选——一字方向之差，听不清硬 / 软就会反选。  借用原文：the skin hardens",
       "group_id": "lazynote-2",
-      "start": 146.4,
-      "end": 246.5
+      "start": 241.88,
+      "end": 246.367,
+      "spoken_text": "What happens to the skin when rubbed or pressed constantly?",
+      "audio_match_score": 1.0
     },
     {
       "number": 5,
@@ -154,8 +162,10 @@
       "answer": 3,
       "explanation": "【题目】 What does the report say the village is going to do for the cat Wilbur? \n\n 【翻译】 报道中说村子将为猫Wilbur做什么? \n A)  为它创建网页。 \n B)  请当地宠物店收养它。 \n C)  用它的名字命名一棵橙树。 \n D)  为它举办生日派对。 \n\n 【答案】 D （细节题） Hold a birthday party for him. \n 【定位】 P1 A village is going to throw a birthday party for an orange cat named Wilbur, who has become famous for making a regular appearance at local shops. \n 一座村庄即将为一只名叫 Wilbur 的橘猫举办生日派对，这只猫因为经常出现在当地店铺而声名鹊起。 \n\n 【信号】 开篇 going to 句式即新闻核心事件 。新闻第一句 A village is going to throw a birthday party for an orange cat named Wilbur 用 going to 直接给出整条新闻的核心事件，符合短篇新闻「开门见山报导何事」的体例，是本题的答案句无疑。 \n\n 【替换】 is going to throw a birthday party ↔ Hold a birthday party for him. throw=hold 的同义词替换 \n for an orange cat named Wilbur ↔ for him 具体名词到人称代词的概括 \n\n 【排除】 A) 原词陷阱 选项 Create Internet pages for him. 借用了第二段 Wilbur has his own Internet pages 这一原词，但原文说的是 Wilbur 已经拥有自己的网页（既成事实），而非村庄「将要为他创建」网页，且这件事不是「村庄为他做的事」，属于答非所问加时态错位的双重陷阱。  借用原文：Wilbur has his own Internet pages \n\n B) 未提及 选项 Ask a local pet shop to adopt him. 抓住了录音里反复出现的 local shops 这一概念，但录音从未提及 pet shop 或 adopt——Wilbur 是已经有人照看的明星猫，「让宠物店领养他」是凭借 cat/shops 自行联想的过度推断。 \n C) 原词陷阱 选项 Name an orange tree after him. 同时盗用了 an orange cat 中的 orange 和 named Wilbur 中的 name，制造「以橘猫之名命名橘树」的错觉，但原文里 orange 修饰的是 cat、name 是给猫命名，与「橘树」毫无关系。  借用原文：an orange cat named Wilbur",
       "group_id": "lazynote-3",
-      "start": 264.133,
-      "end": 393.9
+      "start": 346.98,
+      "end": 353.148,
+      "spoken_text": "What does the report say the village is going to do for the cat Wilbur?",
+      "audio_match_score": 1.0
     },
     {
       "number": 6,
@@ -169,8 +179,10 @@
       "answer": 1,
       "explanation": "【题目】 What do we learn from the report about the cat? \n\n 【翻译】 从报道中我们了解到关于这只猫的什么信息? \n A)  它是一只大胆好斗的宠物。 \n B)  它定期光顾村里的商店。 \n C)  它曾咬过一位医生的接待员。 \n D)  它喜欢坐在理发师的椅子上。 \n\n 【答案】 B （细节题） He pays regular visits to village shops. \n 【定位】 P2 He spends most of his time in shops and businesses around the village. He'll just take himself into any shop, anywhere. \n 他的大部分时间都泡在村里的店铺和商家里，他会自顾自地走进任何一家店，到处都是。 \n\n 【信号】 频次副词 most of his time 与范围词 any/anywhere 强调常态 。He spends most of his time in shops and businesses around the village 里的 most of his time 与紧接着的 He'll just take himself into any shop, anywhere 中的 any/anywhere，都是高强度的频次与范围信号，明确告诉考生「经常去店铺」是这只猫的常态行为——这正是 B 项 regular visits 的答案信号。 \n\n 【替换】 spends most of his time in shops and businesses around the village ↔ pays regular visits to village shops. 频次副词 most of his time 与 regular 等值 \n shops and businesses around the village ↔ village shops 村庄里的店铺这一对象一致 \n making a regular appearance at local shops ↔ pays regular visits to village shops. regular appearance 与 regular visits 直接对应 \n\n 【排除】 A) 与原文相反 选项 He is a bold and aggressive pet. 盗用了录音里 Wilbur is both bold and friendly 中的 bold，但把后半句的 friendly 偷偷换成了 aggressive。bold 在 friendly 与 aggressive 两种语境下意思走向完全相反，原文明确说他是 bold and friendly（大胆又友好），与 aggressive 截然相反。  借用原文：Wilbur is both bold and friendly \n\n C) 原词陷阱 选项 He once bit a doctor's receptionist. 借用了录音里 the doctor's receptionist came back and he was sitting on her chair 中 receptionist 这一原词，但原文说的是「前台回来时发现他坐在自己椅子上」，根本没有「咬人」这一情节。bite 是凭「猫与人接触」自行加戏的虚构事件。  借用原文：the doctor's receptionist came back and he was sitting on her chair \n\n D) 张冠李戴 选项 He likes to sit on the hairdresser's chair. 把「坐在椅子上」这一情节（原文里发生在 the doctor's receptionist came back and he was sitting on her chair 即医生前台的椅子上）安到了理发店的椅子上。原文只在 Among his favorite haunts are a local hairdresser 里提及理发店是他常去的地方之一，但并未说他喜欢坐理发店椅子。  借用原文：Among his favorite haunts are a local hairdresser",
       "group_id": "lazynote-3",
-      "start": 264.133,
-      "end": 393.9
+      "start": 368.48,
+      "end": 372.906,
+      "spoken_text": "What do we learn from the report about the cat?",
+      "audio_match_score": 1.0
     },
     {
       "number": 7,
@@ -184,8 +196,10 @@
       "answer": 0,
       "explanation": "【题目】 What does the pub owner, Lesley Harper, say about the cat? \n\n 【翻译】 酒吧老板Lesley Harper关于这只猫说了什么? \n A)  它喜欢高档猫粮。 \n B)  它喜欢待在村民家里。 \n C)  它认识村里的每个人。 \n D)  它经常在她的酒吧周围寻找食物。 \n\n 【答案】 A （细节题） He is fond of luxury cat food. \n 【定位】 P3 She also said he is a cat of expensive tastes who likes his high priced cat food. \n 她还说他是一只品味奢侈的猫，喜欢吃高价猫粮。 \n\n 【信号】 She also said 引出直接信息源加 expensive/high priced 同向强化 。She also said he is a cat of expensive tastes who likes his high priced cat food 用 She also said 直接把信息归到 Lesley Harper 名下，且 expensive tastes 与 high priced 在「奢侈高档」这一语义维度上同向强化，正是 A 项 luxury 的答案信号。 \n\n 【替换】 a cat of expensive tastes ↔ He is fond of luxury cat food. expensive tastes 与 fond of luxury 同义概括 \n likes his high priced cat food ↔ fond of luxury cat food high priced=luxury 的近义替换 \n\n 【排除】 B) 偷换概念 选项 He likes to stay in villagers' houses. 借了录音中 happy for customers and villagers young and old to come in and say hello 里的 villagers 一词，但原文说的是「乐于让村民和顾客进店打招呼」——他待的是酒馆，村民是进店打招呼的人，「待在村民家里」这一情节子虚乌有。  借用原文：happy for customers and villagers young and old to come in and say hello \n\n C) 过度推断 选项 He knows everybody in the village. 把录音里 happy for customers and villagers young and old to come in and say hello 这种「乐于和顾客与村民打招呼」的描述夸大成「认识村里每个人」。原文从未说他「认识」任何人，更没说 everybody，是典型的范围极大化推断。  借用原文：happy for customers and villagers young and old to come in and say hello \n\n D) 原词陷阱 选项 He often seeks food around her pub. 借了酒馆这一场景设定，但 Lesley Harper 从未说他「在酒馆附近觅食」。原文里关于「食物」的唯一说法是 high priced cat food，重点在「高档」而非「在酒馆附近找」。seeks food around her pub 是把场景与食物两个真实元素硬拼出的虚构动作。  借用原文：high priced cat food",
       "group_id": "lazynote-3",
-      "start": 264.133,
-      "end": 393.9
+      "start": 388.22,
+      "end": 393.771,
+      "spoken_text": "What does the pub owner Leslie Harper say about the cat?",
+      "audio_match_score": 0.9778
     },
     {
       "number": 8,
@@ -199,8 +213,10 @@
       "answer": 3,
       "explanation": "【题目】 What are the speakers talking about in this conversation? \n\n 【翻译】 说话者在这段对话中谈论什么? \n A)  由谁来订餐。 \n B)  是否吃三明治。 \n C)  何时去用餐。 \n D)  在哪里吃午餐。 \n\n 【答案】 D （主旨题） Where to have their lunch. \n 【定位】 P1 M: So, where do you want to go for lunch? \n 男：那你想去哪儿吃午饭？ \n\n 【信号】 开门见山的话题问句 。where do you want to go for lunch? 是对话的第一句，用 So 起头直接抛话题，正是听力主旨题最常用的开头点题信号。后续整段所有讨论（三明治店、汉堡店、意大利餐厅）都是围绕这句话在选地方吃午饭。 \n\n 【替换】 where do you want to go for lunch? ↔ Where to have their lunch. where to go 与 where to have 同义 \n\n 【排除】 A) 未提及 全篇对话围绕选餐厅展开，从头到尾没有任何一句提到由谁来点食物，纯属 Who to order the food. 制造的无中生有。 \n B) 录音里 What about the Sandwich Place on Camden Street? 与 I don't feel like sandwiches today. 确实念到了 sandwiches，Whether to have sandwiches. 就盗用了这个原词，让「听到原词就想选」的考生中招。但实际上三明治只是男方第一个提议的备选之一，被否决后整段对话又讨论了汉堡、意大利餐厅，三明治远不足以代表主旨。  借用原文：I don't feel like sandwiches today. \n\n C) 录音里 I need to get back by 2:30 for a conference call. 出现了具体时间，但那是女方解释自己时间紧、不要选服务慢的店的附带理由，整段对话从未围绕「几点去吃」展开讨论，When to go for their meal. 把次要约束当主线。  借用原文：I need to get back by 2:30 for a conference call.",
       "group_id": "lazynote-4",
-      "start": 443.933,
-      "end": 599.4
+      "start": 532.56,
+      "end": 537.319,
+      "spoken_text": "What are the speakers talking about in this conversation?",
+      "audio_match_score": 1.0
     },
     {
       "number": 9,
@@ -214,8 +230,10 @@
       "answer": 2,
       "explanation": "【题目】 Where did the speakers see Brigette Clark, the famous movie star? \n\n 【翻译】 说话者在哪里看到著名电影明星Brigette Clark? \n A)  在附近的购物中心。 \n B)  在昂贵的意大利风格餐厅。 \n C)  在Camden Street的三明治店。 \n D)  在他们常去的美式餐厅。 \n\n 【答案】 C （细节题） At the Sandwich Place on Camden Street. \n 【定位】 P5 M: That's true. Remember that's where we saw Brigette Clark, the famous movie star. \n 男：确实。记得吗？我们就是在那儿见过 Brigette Clark，那个有名的电影明星。 \n\n 【信号】 that's where + 回指 。that's where we saw Brigette Clark 用 that's where 把「那个地方」指回上一句男声提到的 the Sandwich Place on Camden Street，回指词 that 是细节定位的关键信号——它不是新地点，而是回指刚出现过的那个地点。 \n\n 【替换】 the Sandwich Place on Camden Street ↔ At the Sandwich Place on Camden Street. 原句锁回指对象 \n that's where we saw Brigette Clark, the famous movie star ↔ At the Sandwich Place on Camden Street. 回指 that = 三明治店 \n\n 【排除】 A) 录音里只在第 7 段提到 on the way to the mall（去商场路上）作为美式餐厅的位置描述，但商场本身从未作为见明星的地点出现，In the shopping center nearby. 属于无中生有。  借用原文：on the way to the mall \n\n B) 原词陷阱 录音里 We could try Mario's, the new Italian restaurant on the corner. 与 I haven't, but I've noticed that it has great reviews 都明确说 Mario's 是他们还没去过的新意餐厅，与「在那儿见过明星」在逻辑上完全冲突，In the expensive Italian style diner. 盗用了 Italian 这个原词制造干扰。  借用原文：Mario's, the new Italian restaurant on the corner \n\n D) 录音里 There's that American style diner on the way to the mall. 出现了 American 这个原词，At the American restaurant they frequent. 就盗用它制造干扰；但原文从未说他们常去那家美式餐厅，而且这家餐厅是男方拿来作为今天午饭的备选，与见明星这件已发生事毫无关联。  借用原文：There's that American style diner on the way to the mall.",
       "group_id": "lazynote-4",
-      "start": 443.933,
-      "end": 599.4
+      "start": 552.57,
+      "end": 557.712,
+      "spoken_text": "Where did the speakers see Bridget Clark the famous movie star?",
+      "audio_match_score": 0.9714
     },
     {
       "number": 10,
@@ -229,8 +247,10 @@
       "answer": 0,
       "explanation": "【题目】 Why does the woman say she needs to get back by 2:30? \n\n 【翻译】 女士为什么说她需要在2点半之前回去? \n A)  将有一个电话会议。 \n B)  她那时必须与老板会面。 \n C)  将有许多人等着她。 \n D)  她将与Brigette Clark合影。 \n\n 【答案】 A （细节题） There is to be a conference call. \n 【定位】 P8 W: I like that place. Their chips are great, but their service takes a long time. And I need to get back by 2:30 for a conference call. \n 女：我喜欢那家。他们的薯条很棒，但上菜慢。而且我得在 2:30 之前赶回去开电话会议。 \n\n 【信号】 for + 原因短语 。I need to get back by 2:30 for a conference call. 中的 for 是原因介词，直接把 2:30 这个时间点和「开电话会议」这个理由焊死。Why 类题听到 for/because/so that 就要立刻锁定，理由就在它后面。 \n\n 【替换】 for a conference call ↔ There is to be a conference call. for + 名词转 there is to be \n\n 【排除】 B) 录音从头到尾没有任何 boss、manager、meet with 之类的词，She has to meet with her boss then. 完全是无中生有。 \n C) 原词陷阱 录音 There were crowds of people around her asking for a photo with her. 里确实出现了 crowds of people，There will be crowds of people waiting for her. 就盗用了这个原词；但原文里那群人围的是 Brigette Clark，不是女方，C 把围观对象张冠李戴到她身上，且时态从过去 were 偷换成将来 will be。  借用原文：There were crowds of people around her asking for a photo with her. \n\n D) 原词陷阱 录音 asking for a photo with her 出现 photo，Brigette Clark 出现人名，She will have a photo taken with Brigette Clark. 把这两个原词拼成「女方将与 Brigette Clark 合影」的新事件——这件事原文从未发生，是典型的原词拼接陷阱。  借用原文：asking for a photo with her",
       "group_id": "lazynote-4",
-      "start": 443.933,
-      "end": 599.4
+      "start": 573.14,
+      "end": 578.457,
+      "spoken_text": "Why does the woman say she needs to get back by 230?",
+      "audio_match_score": 1.0
     },
     {
       "number": 11,
@@ -244,8 +264,10 @@
       "answer": 1,
       "explanation": "【题目】 Why does the woman say Jeremy should throw his soup in the bin? \n\n 【翻译】 女士为什么说Jeremy应该把他的汤扔进垃圾桶? \n A)  她认为自制汤不好吃。 \n B)  她认为他妻子厨艺不好。 \n C)  她觉得Jeremy宁愿在外面吃饭。 \n D)  她发现这汤闻起来很难闻。 \n\n 【答案】 B （推断题） She doesn't think his wife cooks well. \n 【定位】 P12 W: Poor Jeremy. His wife is a terrible cook. He should throw that soup in the bin and join us. \n 女：可怜的 Jeremy。他妻子是个糟糕的厨师。他真该把那碗汤扔了，跟我们一起去。 \n\n 【信号】 终判式因果链 。His wife is a terrible cook. He should throw that soup in the bin 是一个语义上的因果链：先下评判 His wife is a terrible cook，再据此建议 He should throw…。前一句就是建议的真正原因，是答案句中最关键的承载句。 \n\n 【替换】 His wife is a terrible cook. ↔ She doesn't think his wife cooks well. 贬义形容词转含蓄否定 \n\n 【排除】 A) 偷换概念 录音里女方的批评对象是 His wife（人 - 妻子的厨艺），不是汤本身。She doesn't deem homemade soup tasty. 把矛头从「妻子厨艺差」偷换成「她觉得家常汤本身不好吃」，是范围偏移。她没有否定家常汤这个品类，只是否定他妻子做的这一碗。  借用原文：His wife is a terrible cook. \n\n C) 录音 He should throw that soup in the bin and join us. 出现了 join us，She feels Jeremy would rather dine out. 就据此过度推断成「她觉得 Jeremy 更愿意出去吃」。但女方建议他出来吃是她的提议，不是 Jeremy 自己的偏好；原文里 Jeremy 自己说的是 He has brought his own lunch today, so he will stay in.，恰恰是要留下不出去。C 把女方的建议错认成 Jeremy 的意愿，过度推断且方向反了。  借用原文：He should throw that soup in the bin and join us. \n\n D) 原词陷阱 录音里女方说的是 His wife is a terrible cook.——评价做菜人的水平，从未提到汤闻起来怎么样。She has found the soup smells terrible. 盗用了 terrible 这个原词，但把它从修饰 cook 偷换为修饰 smells，是经典的「原词换搭配」陷阱。  借用原文：His wife is a terrible cook.",
       "group_id": "lazynote-4",
-      "start": 443.933,
-      "end": 599.4
+      "start": 593.82,
+      "end": 599.313,
+      "spoken_text": "Why does the woman say Jeremy should throw his soup in the bin?",
+      "audio_match_score": 1.0
     },
     {
       "number": 12,
@@ -259,8 +281,10 @@
       "answer": 2,
       "explanation": "【题目】 Who is the man talking to in the conversation? \n\n 【翻译】 对话中男士在和谁说话? \n A)  女房东。 \n B)  女服务员。 \n C)  接待员。 \n D)  女销售员。 \n\n 【答案】 C （细节题） A receptionist. \n 【定位】 P1 Hi, there. How are you today? Do you have a reservation with us already? \n 你好，今天感觉如何？您已经在我们这里预订了吗？ \n\n 【信号】 开场专属话术 。Do you have a reservation with us already? 是酒店前台接待客人时最典型的开场询问——问『是否有预订』。这种『询问预订』的话术是接待员的专属标记，是定身份的信号句。 \n\n 【替换】 Do you have a reservation with us already? ↔ A receptionist. 话术 → 身份的同义替换 \n I can get you all checked in and show you to your rooms. ↔ A receptionist. 结尾办理入住二次确认 \n\n 【排除】 A) 未提及 A landlady. 是出租房屋的房东，话术应是 rent/deposit/lease，不会用 reservation 这类酒店术语；录音里也没有出现任何与租房相关的词。 \n B) 原词陷阱 A waitress. 是餐厅服务员。录音 has all kinds of food and cool little shops 确实提到了 food，但讲的是夜市，不是接待方提供餐饮服务，属于典型原词陷阱——听到 food 就误以为对方是 waitress。  借用原文：has all kinds of food and cool little shops selling souvenirs and local jewelry and clothing made by hand \n\n D) 原词陷阱 A saleswoman. 是售货员。录音 cool little shops selling souvenirs and local jewelry and clothing made by hand 确实提到了『卖纪念品和手工衣物的小店』，但卖东西的是夜市的小店，不是这位接待者，属于典型原词陷阱。  借用原文：cool little shops selling souvenirs and local jewelry and clothing made by hand",
       "group_id": "lazynote-5",
-      "start": 616.566,
-      "end": 788.066
+      "start": 718.84,
+      "end": 723.563,
+      "spoken_text": "Who is the man talking to in the conversation?",
+      "audio_match_score": 1.0
     },
     {
       "number": 13,
@@ -274,8 +298,10 @@
       "answer": 1,
       "explanation": "【题目】 What do we learn about the man's father-in-law from the conversation? \n\n 【翻译】 从对话中我们了解到男士的岳父有什么情况? \n A)  他去年四月遭遇了一场严重的车祸。 \n B)  他上下楼梯非常困难。 \n C)  他预计要接受膝关节手术。 \n D)  他更愿意住在孩子们隔壁。 \n\n 【答案】 B （细节题） He has much difficulty getting up and down stairs. \n 【定位】 P6 My father-in-law has had terrible problems getting up and down stairs since his knee operation last April. \n 我岳父自从去年四月做了膝关节手术以来，上下楼梯一直有很大困难。 \n\n 【信号】 现在完成时 + since 圈定当前状态 。has had terrible problems getting up and down stairs since his knee operation last April 中 has had 是现在完成时，配合 since…，明确这是『从手术之后一直延续到现在的状况』。手术（knee operation）是过去事件、上下楼梯困难（getting up and down stairs）才是当前状态——也就是题目要问的『现在我们了解到他怎么样』。 \n\n 【替换】 has had terrible problems getting up and down stairs ↔ He has much difficulty getting up and down stairs. terrible problems = much difficulty \n\n 【排除】 A) 原词陷阱 He was involved in a terrible car accident last April. 盗用了录音里的 terrible 与 last April 这两个高辨识度词，制造『我好像听见 terrible 和 last April』的错觉，但录音里 last April 修饰的是 knee operation（膝关节手术），不是 car accident（车祸）；车祸录音里根本没提。  借用原文：has had terrible problems getting up and down stairs since his knee operation last April \n\n C) 与原文相反 He is expected to undergo a knee operation. 用 is expected to undergo（将要做）描述膝关节手术，但录音里 since his knee operation last April 说的是『自从去年四月做了手术之后』——手术已经做完。时态从过去/完成偷换成将来，与原文相反。  借用原文：since his knee operation last April \n\n D) 张冠李戴 He prefers to stay next door to the children. 借用了录音 right next to each other on the ground floor 里 next to 的安排关系，但录音说的是『前台把两间房安排在彼此隔壁』，并不是岳父 prefers（更愿意）住孩子隔壁，主语与动机都被替换。  借用原文：right next to each other on the ground floor, since you mentioned in your message that they have trouble with stairs",
       "group_id": "lazynote-5",
-      "start": 616.566,
-      "end": 788.066
+      "start": 739.12,
+      "end": 744.789,
+      "spoken_text": "What do we learn about the man's father-in-law from the conversation?",
+      "audio_match_score": 1.0
     },
     {
       "number": 14,
@@ -289,8 +315,10 @@
       "answer": 3,
       "explanation": "【题目】 Why does the man say they will explore all the options available? \n\n 【翻译】 男士为什么说他们会探索所有可行的选择? \n A)  为了取悦他的岳父母。 \n B)  为了给他的孩子们找到最好的旅行。 \n C)  为了满足他的好奇心。 \n D)  为了比较价格。 \n\n 【答案】 D （细节题） To compare prices. \n 【定位】 P8 We were thinking of renting a car, but we will explore all the options available for sure. So, yes, that would be very helpful in comparing prices. \n 我们本来打算租辆车，但我们一定会把所有可选方案都看一遍。所以，是的，这对比价会很有帮助。 \n\n 【信号】 So + that would be very helpful in... 。So, yes, that would be very helpful in comparing prices. 中 So 是结果连词，紧跟前一句『会把所有方案都看一遍』，that would be very helpful in 直接说明这样做的好处/目的——comparing prices（比价）。这就是男方自报动机的关键句。 \n\n 【替换】 that would be very helpful in comparing prices ↔ To compare prices. be helpful in V-ing → To do \n\n 【排除】 A) 原词陷阱 To please his parents-in-law. 利用了录音 another double room for your parents-in-law 里 parents-in-law 这个原词，让人误以为『探索所有方案是为了照顾岳父母』，但录音里只说他们『住一楼』，从未把『探索方案』的动机归到讨好岳父母上。  借用原文：another double room for your parents-in-law \n\n B) 原词陷阱 To find the best trip for his kids. 利用了录音 The kids will love it 里出现的 kids 与 trip 两个原词，制造『是为了给孩子找最佳旅程』的错觉。但 The kids will love it 是女方推荐 boat trip 时说的，男方说『探索所有方案』的动机不是这件事。  借用原文：The kids will love it and there are so many islands nearby to explore \n\n C) 未提及 To satisfy his curiosity. 录音里完全没有出现 curiosity 或与好奇心相关的表达；选项是凭空加的目的，属于未提及型干扰。",
       "group_id": "lazynote-5",
-      "start": 616.566,
-      "end": 788.066
+      "start": 759.76,
+      "end": 765.716,
+      "spoken_text": "Why does the man say they will explore all the options available?",
+      "audio_match_score": 1.0
     },
     {
       "number": 15,
@@ -304,8 +332,10 @@
       "answer": 1,
       "explanation": "【题目】 What does the woman suggest the man and his family do close to the end of the conversation? \n\n 【翻译】 在对话接近尾声时,女士建议男士和他的家人做什么? \n A)  参观当地的美术馆。 \n B)  进行一次乘船游览。 \n C)  拍摄一些岛屿的照片。 \n D)  试穿她手工制作的衣服。 \n\n 【答案】 B （细节题） Go on a boat trip. \n 【定位】 P9 I would recommend getting out on a boat trip. The kids will love it and there are so many islands nearby to explore. \n 我会推荐你们去坐船出游一趟。孩子们会很喜欢，附近还有很多岛屿可以探索。 \n\n 【信号】 I would recommend... 建议句 。I would recommend getting out on a boat trip. 中 I would recommend 是最显性的建议信号词，紧跟的动作 getting out on a boat trip 就是被建议的事。 \n\n 【替换】 getting out on a boat trip ↔ Go on a boat trip. getting out on = Go on \n\n 【排除】 A) 未提及 Visit a local art gallery. 录音里完全没有提到 art gallery（艺术画廊）；女方推荐的是 boat trip 和 night market，画廊纯属选项添加的迷惑活动。 \n C) 原词陷阱 Take some photos of the islands. 利用了录音 there are so many islands nearby to explore 里出现的 islands 一词，让人以为『建议去拍岛屿照片』。但原文里 islands 是 boat trip 时『可以探索』的对象，女方从未建议『拍照』；take photos 这个动作录音里没有出现。  借用原文：there are so many islands nearby to explore \n\n D) 张冠李戴 Try her hand-made clothing. 利用了录音 clothing made by hand 这个原词组，但录音里 clothing made by hand 是『夜市小店在卖』的东西，不是『她』（前台接待员）自己手工做的，也不是被建议的核心动作；同时 try（试穿/尝试）这个动作录音里也没有。  借用原文：clothing made by hand",
       "group_id": "lazynote-5",
-      "start": 616.566,
-      "end": 788.066
+      "start": 781.29,
+      "end": 787.893,
+      "spoken_text": "What does the woman suggest the man and his family do close to the end of the conversation?",
+      "audio_match_score": 1.0
     },
     {
       "number": 16,
@@ -319,8 +349,10 @@
       "answer": 3,
       "explanation": "【题目】 What does the passage say about artificial intelligence agents? \n\n 【翻译】 文章关于人工智能代理说了什么? \n A)  它们比我们许多人更聪明。 \n B)  它们已经成为我们的新朋友。 \n C)  它们已经开始影响我们的社会行为。 \n D)  它们发挥着越来越重要的作用。 \n\n 【答案】 D （细节题） They play increasingly more important roles. \n 【定位】 P1 Artificial intelligence agents play ever more influential roles in our lives. \n 人工智能代理在我们的生活中扮演着越来越具有影响力的角色。 \n\n 【信号】 篇章首句即点题句 。答案句正是录音的第一句 Artificial intelligence agents play ever more influential roles in our lives.：篇章独白的开头第一句几乎一定是点题句，直接给出对象 + 总体评价，这是篇章听力定位最强的信号——比任何转折词都更稳。 \n\n 【替换】 play ever more influential roles ↔ play increasingly more important roles ever more 与 increasingly 同义改写 \n\n 【排除】 A) 原词陷阱 They are more intelligent than many of us. 利用了录音里 Artificial intelligence agents 中 intelligence 这个词，把 \"人工智能\" 偷换成 \"它们比我们许多人更聪明\"。录音从未把 AI 与人做智力比较，主体考生一听到 intelligence 就反射性挑 intelligent 是典型的原词陷阱。  借用原文：Artificial intelligence agents \n\n B) 与原文相反 They have already become our new friends. 利用了录音里 suggesting new friends（替我们推荐新朋友），把 \"推荐朋友\" 偷换成 \"它们自己已经成为我们的新朋友\"。这是 already + 完成时把功能性服务夸大为既成事实，方向已经反了。  借用原文：suggesting new friends \n\n C) 偷换概念 They have begun to affect our social behavior. 利用了录音里 play ever more influential roles in our lives（在生活中起越来越重要的作用），把宽泛的 \"生活\" 偷换成专指的 social behavior（社交行为）。录音从未提及 social behavior 这一具体范畴，属于把宽口径收窄到一个录音没说过的窄范畴。  借用原文：play ever more influential roles in our lives",
       "group_id": "lazynote-6",
-      "start": 836.5,
-      "end": 1000.333
+      "start": 949.05,
+      "end": 954.945,
+      "spoken_text": "What does the passage say about artificial intelligence agents?",
+      "audio_match_score": 1.0
     },
     {
       "number": 17,
@@ -334,8 +366,10 @@
       "answer": 0,
       "explanation": "【题目】 What does the new study want to find out about using an artificial intelligence agent? \n\n 【翻译】 这项新研究想要了解关于使用人工智能代理的什么问题? \n A)  它是否可能对我们谈判的方式产生影响。 \n B)  它是否可能实际上超越人类谈判者。 \n C)  它能否促进商业交易。 \n D)  它能否加快法律程序。 \n\n 【答案】 A （细节题） Whether it might have any effect on the way we negotiate. \n 【定位】 P1 So, it's important to know whether using an artificial intelligence agent might affect how we negotiate. \n 因此，弄清楚使用人工智能代理是否会影响我们谈判的方式，是很重要的。 \n\n 【信号】 So 引出结论 + know whether 引出研究问题 。答案句以 So, it's important to know whether using an artificial intelligence agent might affect how we negotiate. 出现：So 是结论信号，it's important to know whether… 是研究问题的固定起手式——这是篇章里 \"研究想搞清什么\" 最强的语言信号，几乎不会与别的句子搞混。 \n\n 【替换】 might affect how we negotiate ↔ might have any effect on the way we negotiate 动词 affect 与名词 effect 同根改写 \n it's important to know whether ↔ Whether it might have any effect on the way we negotiate. Whether 从句被独立保留 \n\n 【排除】 B) 过度推断 Whether it might actually outperform human negotiators. 把研究问题从 \"是否影响我们的谈判方式\" 强行升级为 \"是否真的胜过人类谈判者\"。录音里只问 affect，没有任何 outperform / beat / better than 的提法，是典型把 \"有影响\" 推到 \"胜过\" 的两步跳跃。 \n C) 原词陷阱 Whether it can facilitate business transactions. 直接搬用了录音里 commercial transactions（商业交易）这个场景词。录音只是把 commercial transactions 列为 AI 代理可能介入的应用场景之一，并没有把它定为研究问题；选项把 \"场景\" 偷换成 \"研究问题\"，是典型听到原词就想选的陷阱。  借用原文：commercial transactions \n\n D) 原词陷阱 Whether it can speed up legal procedures. 同样借用了录音里 legal disputes（法律纠纷）这个场景词，再把名词改成 legal procedures（法律程序）。录音没有提加快速度（speed up）这一研究目标，是 \"原词靠近 + 概念替换\" 的双重陷阱。  借用原文：legal disputes",
       "group_id": "lazynote-6",
-      "start": 836.5,
-      "end": 1000.333
+      "start": 971.58,
+      "end": 977.12,
+      "spoken_text": "What does the new study want to find out about using an artificial intelligence agent?",
+      "audio_match_score": 1.0
     },
     {
       "number": 18,
@@ -349,8 +383,10 @@
       "answer": 2,
       "explanation": "【题目】 What did participants tend to do when assigned an AI agent to negotiate on their behalf? \n\n 【翻译】 当被分配一个人工智能代理代表他们进行谈判时,参与者倾向于做什么? \n A)  选择表现强硬。 \n B)  同情他们的对手。 \n C)  使用欺骗性策略。 \n D)  表现得令人愉快。 \n\n 【答案】 C （细节题） Use deceptive strategies. \n 【定位】 P1 Participants were more willing to employ deceptive strategies when assigned an agent to negotiate on their behalf. \n 当被安排一个代理替自己谈判时，参与者更愿意采用欺骗性策略。 \n\n 【信号】 段末 were more willing to 是结论信号 。答案句出现在录音末尾 Participants were more willing to employ deceptive strategies when assigned an agent to negotiate on their behalf.：段末 + were more willing to 是研究类篇章给出实验结论最稳的双重信号——前面 tough / sympathy / anger / dissatisfaction 都是为它做铺垫的策略列举，真正的结论压到最后一句。 \n\n 【替换】 were more willing to employ deceptive strategies ↔ Use deceptive strategies. employ 与 Use 同义替换 \n\n 【排除】 A) 原词陷阱 Choose to be tough. 直接借用录音 participants could choose to be tough by making an opening demand far greater than what they'd be willing to accept 中 \"choose to be tough\" 几个原词。但这一句只是研究方法里 \"参与者可以做出哪些选择\" 的举例之一，不是研究结论里 \"被安排代理时实际倾向做\" 的事。听到 tough 就选是典型原词陷阱。  借用原文：participants could choose to be tough \n\n B) 原词陷阱 Sympathize with their opponent. 借用了录音 choose to express sympathy with their opponent to appear pleasant 里 sympathy with their opponent。这句同样是研究方法的举例选项之一，是受试者 \"可以选\" 的策略，不是结论性倾向；选项把 sympathy 改成 sympathize 听起来更顺耳，但只是原词陷阱。  借用原文：express sympathy with their opponent \n\n D) 原词陷阱 Appear to be pleasant. 借用了录音 to appear pleasant 的几个字。但 to appear pleasant 在录音里只是说明 \"表达同情\" 这种策略的目的（让自己看起来友好），仍属于研究方法的举例铺垫，并不是结论。把目的状语当作结论行为是典型 \"听到 pleasant 就选\" 的原词陷阱。  借用原文：to appear pleasant",
       "group_id": "lazynote-6",
-      "start": 836.5,
-      "end": 1000.333
+      "start": 992.29,
+      "end": 1000.025,
+      "spoken_text": "What did participants tend to do when assigned an AI agent to negotiate on their behalf?",
+      "audio_match_score": 1.0
     },
     {
       "number": 19,
@@ -364,8 +400,10 @@
       "answer": 1,
       "explanation": "【题目】 What do we learn about the benefits the participants gained from the healthy cooking course? \n\n 【翻译】 关于参与者从健康烹饪课程中获得的益处，我们了解到什么？ \n A)  它们被一些学者以不同方式看待。 \n B)  它们在课程结束六个月后仍然存在。 \n C)  它们在课程参与者之间差异很大。 \n D)  它们只能在七周内测量。 \n\n 【答案】 B （细节题） They still existed six months after the course ended. \n 【定位】 P2 These benefits remained six months after the completion of the course. \n 这些益处在课程结束六个月之后依然存在。 \n\n 【信号】 段落收束句 + 时间锚点 six months 。These benefits remained six months after the completion of the course. 是第二段最后一句，承担收束作用：前两句 Course participants saw significant improvements in general health. 与 They also reported improved mental health and subjective vitality immediately after the program. 先讲了课程结束后“立即”的好处，最后一句一个 remained + six months 把时间窗拉长——这正是预读时圈出的时间锚点。 \n\n 【替换】 These benefits remained six months after the completion of the course. ↔ They still existed six months after the course ended. remained = still existed；completion of the course = course ended \n\n 【排除】 A) 原词陷阱 选项里 perceived differently by some academics 听起来像在说“被某些学者看法不一”，它盗用了第一段里 Academics measured the program's effect on cooking confidence and self-perceived mental health. 出现过的 Academics 与 self-perceived，但录音从未说 academics 之间对这些好处有不同看法，是把原文里出现过的词重新拼装成一个新意思。  借用原文：Academics measured the program's effect on cooking confidence and self-perceived mental health. \n\n C) 与原文相反 选项 They varied greatly among the course participants. 说好处在参与者之间差异巨大，但第四段 Also, the mental health benefits were equal among participants who were overweight or obese and those in a healthy weight range. 反而说好处在不同体重人群之间是相等的，方向恰好与本选项相反。  借用原文：the mental health benefits were equal among participants who were overweight or obese and those in a healthy weight range \n\n D) 原词陷阱 选项 They were only measurable within seven weeks. 表面有 seven weeks 这个录音里念到的数字（a seven-week healthy cooking course），听起来像是“原话”。但 seven-week 在录音中只是课程的时长，不是好处的可测时间窗；而且加了 only 限定，与第二段的 six months 直接矛盾。  借用原文：a seven-week healthy cooking course",
       "group_id": "lazynote-7",
-      "start": 1017.266,
-      "end": 1188.133
+      "start": 1137.69,
+      "end": 1144.861,
+      "spoken_text": "What do we learn about the benefits the participants gained from the healthy cooking course?",
+      "audio_match_score": 1.0
     },
     {
       "number": 20,
@@ -379,8 +417,10 @@
       "answer": 2,
       "explanation": "【题目】 What do the new research findings suggest about mental health benefits? \n\n 【翻译】 关于心理健康益处，新的研究发现表明了什么？ \n A)  它们可以在体重处于健康范围的参与者中轻易观察到。 \n B)  它们应归因于参与者饮食行为的改变。 \n C)  它们与烹饪信心和烹饪满意度相关。 \n D)  它们实际上源于摄入更多水果和蔬菜。 \n\n 【答案】 C （细节题） They are linked to cooking confidence and cooking satisfaction. \n 【定位】 P4 This suggests a link between cooking confidence and satisfaction around cooking, and mental health benefits. \n 这一点表明，烹饪信心与对烹饪的满足感和心理健康益处之间存在关联。 \n\n 【信号】 转折 However 之后的 This suggests 结论句 。第四段首句 However, the study showed participants' mental health improved even if their reported diet did not change after completing the program. 用 however 翻盘——把第三段“也许是因为多吃果蔬”的猜测推翻；段尾 This suggests a link between cooking confidence and satisfaction around cooking, and mental health benefits. 用 This suggests 直接给出研究真正归因。这两个信号（however + This suggests）是听力定位结论句的金标准。 \n\n 【替换】 This suggests a link between cooking confidence and satisfaction around cooking, and mental health benefits. ↔ They are linked to cooking confidence and cooking satisfaction. a link between A and B = A are linked to B \n satisfaction around cooking ↔ cooking satisfaction of/around 短语 ↔ 复合名词 \n\n 【排除】 A) 原词陷阱 选项 They can be easily seen among participants in a healthy weight range. 把录音里 the mental health benefits were equal among participants who were overweight or obese and those in a healthy weight range 中的 healthy weight range 摘出来，但录音强调的是“无论超重还是健康体重，效果都相等”——选项却暗示“只在健康体重组里更容易看到”，把“相等”偷换成“在某一组更明显”。  借用原文：the mental health benefits were equal among participants who were overweight or obese and those in a healthy weight range \n\n B) 与原文相反 选项 They should be attributed to participants' change in diet behaviors. 把心理健康益处归给“饮食行为的改变”，但 participants' mental health improved even if their reported diet did not change after completing the program. 直接说“即便饮食没变，心理健康也改善了”——选项与原文方向恰好相反。  借用原文：participants' mental health improved even if their reported diet did not change after completing the program \n\n D) 原词陷阱 选项 They actually result from eating more fruits and vegetables. 几乎逐字盗用 Researchers have previously found a link between eating more fruits and vegetables, and improved longer term mental health.，听感非常“对”。但录音明确指出这只是“之前的研究”和“可能的解释”，被第四段 however 推翻；本研究真正的结论是烹饪信心与满足感，而不是多吃果蔬。  借用原文：Researchers have previously found a link between eating more fruits and vegetables, and improved longer term mental health.",
       "group_id": "lazynote-7",
-      "start": 1017.266,
-      "end": 1188.133
+      "start": 1160.04,
+      "end": 1166.329,
+      "spoken_text": "What do the new research findings suggest about mental health benefits?",
+      "audio_match_score": 1.0
     },
     {
       "number": 21,
@@ -394,8 +434,10 @@
       "answer": 0,
       "explanation": "【题目】 What plays a role in determining who benefits most from learning to cook? \n\n 【翻译】 什么因素在决定谁从学习烹饪中获益最多方面发挥作用？ \n A)  性别。 \n B)  信心。 \n C)  健康。 \n D)  实践。 \n\n 【答案】 A （细节题） Gender. \n 【定位】 P5 Who benefits most from learning to cook? Gender plays a part. \n 谁从学做饭中获益最多？性别在其中起了作用。 \n\n 【信号】 段首设问 + 直接应答 。Who benefits most from learning to cook? 是段首设问，几乎是把题干 What plays a role in determining who benefits most from learning to cook? 原样念了一遍——这种设问句之后的第一句 Gender plays a part. 就是答案句。设问+应答是篇章独白里最强的答案信号。 \n\n 【替换】 Gender plays a part. ↔ Gender. 原词直出，无需改写 \n\n 【排除】 B) 原词陷阱 选项 Confidence. 与录音 77 per cent of female participants were confident about cooking, but just 23 per cent of males were confident. 中反复出现的 confident/confidence 同根——录音确实在大量谈“信心”，但 confidence 是“差异表现的指标”而非“决定谁受益最多”的那个变量；真正决定的是性别（女生先有信心、男生后追上）。  借用原文：cooking confidence and skills were equal across both counterparts \n\n C) 原词陷阱 选项 Health. 利用了全文反复出现的 health/mental health/general health 主题词的熟悉感，但录音从未把 health 作为“决定谁受益最多”的变量；恰恰相反，the mental health benefits were equal among participants who were overweight or obese and those in a healthy weight range 还说健康状态不同的人受益是相等的。  借用原文：Course participants saw significant improvements in general health. \n\n D) 未提及 选项 Practice. 的 practice（练习/实践）在录音中没有任何对应：第五段讨论性别差异和家庭烹饪平衡，从未把“练习多少”列为决定受益的变量。",
       "group_id": "lazynote-7",
-      "start": 1017.266,
-      "end": 1188.133
+      "start": 1181.57,
+      "end": 1188.005,
+      "spoken_text": "What plays a role in determining who benefits most from learning to cook?",
+      "audio_match_score": 1.0
     },
     {
       "number": 22,
@@ -409,8 +451,10 @@
       "answer": 3,
       "explanation": "【题目】 What does research show about our personal space? \n\n 【翻译】 研究表明我们的个人空间有什么特点? \n A)  它使他人保持距离。 \n B)  它会引起不适。 \n C)  它保持可见。 \n D)  它的大小会变化。 \n\n 【答案】 D （细节题） It varies in size. \n 【定位】 P1 Research shows, however, that we actually have bubbles of different sizes. \n 然而，研究表明，我们实际上拥有不同大小的（个人空间）气泡。 \n\n 【信号】 Research shows + however 转折 。答案句一头连了两个强信号：Research shows 是题干 What does research show 的原句对应，however 是转折信号，转折之后才是真意——前半『以为是同一个气泡』被推翻，后半『其实大小不同』才是结论。 \n\n 【替换】 bubbles of different sizes ↔ It varies in size. bubbles of different sizes = varies in size \n\n 【排除】 A) 原词陷阱 选项 It keeps others away. 借用了原文 others can't enter 里的 others 来制造『听到 others 就想选』的诱惑；但原文说的是『别人进不来（指气泡的功能描述）』，并不是『研究发现』那条结论。研究发现的真意在转折 however 之后，不在转折之前。  借用原文：others can't enter \n\n B) 原词陷阱 选项 It causes discomfort. 抓住了原文 without causing discomfort 里的 discomfort 来制造原词陷阱；但原文是说『别人进入气泡会带来不适』，描述的是『进入气泡的后果』，不是研究本身的结论。这条信息在 23 题才用得上，放到 22 题就是张冠李戴。  借用原文：without causing discomfort \n\n C) 与原文相反 选项 It remains visible. 说气泡『一直可见』，而原文 an invisible bubble of space 明确说 invisible（看不见）。选项盗用了气泡这个话题，却把极性反过来了，是典型的极性反转陷阱。  借用原文：an invisible bubble of space",
       "group_id": "lazynote-8",
-      "start": 1205.2,
-      "end": 1398.7
+      "start": 1332.71,
+      "end": 1336.138,
+      "spoken_text": "What does research show about our personal space?",
+      "audio_match_score": 1.0
     },
     {
       "number": 23,
@@ -424,8 +468,10 @@
       "answer": 0,
       "explanation": "【题目】 What happens if a mere acquaintance enters our intimate space? \n\n 【翻译】 如果一个泛泛之交进入我们的亲密空间会发生什么? \n A)  它使我们感到不舒服。 \n B)  它使这个熟人变成陌生人。 \n C)  它使这个熟人与我们更亲近。 \n D)  它导致我们周围的气泡消失。 \n\n 【答案】 A （细节题） It makes us feel uncomfortable. \n 【定位】 P2 A mere acquaintance entering our intimate space makes us uncomfortable. \n 一个仅仅是熟人的人进入我们的亲密空间，会让我们感到不舒服。 \n\n 【信号】 题干定位词原句重现 。录音里 A mere acquaintance entering our intimate space 几乎是题干 a mere acquaintance enters our intimate space 的原句搬运，定位词全中；其后紧跟的 makes us uncomfortable 就是直白结果，是典型的『触发条件 + 紧跟结果』结构。 \n\n 【替换】 makes us uncomfortable ↔ It makes us feel uncomfortable. 几乎逐词对应 \n\n 【排除】 B) 过度推断 选项 It renders the acquaintance a stranger. 借用录音里反复出现的 acquaintance 和 strangers 来制造『听到原词就选』的诱惑；但原文从未说『熟人会变成陌生人』，只是分别为不同人群分配了不同空间。从『让人不适』推到『熟人变陌生人』属于过度推断。  借用原文：Friends and acquaintances can comfortably occupy this zone \n\n C) 与原文相反 选项 It brings the acquaintance closer to us. 说『把熟人拉近』，但原文 makes us uncomfortable 明确说会让我们不适，属于结果方向反了。同时它盗用了 acquaintance 这个原词来骗你选。  借用原文：makes us uncomfortable \n\n D) 未提及 选项 It causes the bubble around us to vanish. 借用整组核心词 bubble 来吸引点击，但录音从未说过『熟人进入亲密空间会让气泡消失』，只是说会让我们不舒服。bubble vanish 这一结果属于原文未提及。",
       "group_id": "lazynote-8",
-      "start": 1205.2,
-      "end": 1398.7
+      "start": 1351.44,
+      "end": 1357.314,
+      "spoken_text": "What happens if a mere acquaintance enters our intimate space?",
+      "audio_match_score": 1.0
     },
     {
       "number": 24,
@@ -439,8 +485,10 @@
       "answer": 1,
       "explanation": "【题目】 Where do people feel comfortable interacting with new acquaintances or strangers? \n\n 【翻译】 人们在哪里与新相识者或陌生人互动时感到舒适? \n A)  在个人空间。 \n B)  在社交空间。 \n C)  在18英寸距离内。 \n D)  在相互距离超过2英尺的地方。 \n\n 【答案】 B （细节题） In social space. \n 【定位】 P2 Extending from 4 to 12 feet away from us is \"social space\". Here people feel comfortable conducting routine social interactions with new acquaintances or total strangers. \n 从距离我们 4 到 12 英尺的范围被称为『社交空间』。在这里，人们与新熟人或完全陌生的人进行日常社交互动时感到舒适。 \n\n 【信号】 题干关键词原句重现 + 空间命名句 。录音里 new acquaintances or total strangers 几乎与题干 new acquaintances or strangers 一字不差对应；这句又紧跟在 \"social space\" 的定义之后，定位极其稳。 \n\n 【替换】 \"social space\" ↔ In social space. 专有概念名直接对应 \n routine social interactions with new acquaintances or total strangers ↔ interacting with new acquaintances or strangers 行为限定原句对应 \n\n 【排除】 A) 张冠李戴 选项 In personal space. 借用了原文中的 personal space 这个原词，但录音里 personal space 是给『朋友和熟人』用的（friends and acquaintances 在『informal conversations』里使用），并不是给陌生人用的。配的人群对不上。  借用原文：Friends and acquaintances can comfortably occupy this zone, especially during informal conversations, but strangers are forbidden. \n\n C) 原词陷阱 选项 Within a distance of 18 inches. 盗用了录音 18 inches 这个原词数字，但原文里 18 inches 是给 intimate space 的尺寸（只允许家人、宠物和最亲密的朋友进入），与题干问的『陌生人交往的距离』完全不是一回事。  借用原文：18 inches in every direction \n\n D) 原词陷阱 选项 Over 2 feet away from one another. 里的 2 feet 看起来很像录音里反复出现的几个距离数字，但录音里给陌生人/新熟人互动的距离是 4 to 12 feet，不是 2 feet。选项偷偷把数字换小了，是典型的数字偷换。  借用原文：Extending from 4 to 12 feet away from us is \"social space\"",
       "group_id": "lazynote-8",
-      "start": 1205.2,
-      "end": 1398.7
+      "start": 1373.9,
+      "end": 1379.24,
+      "spoken_text": "Where do people feel comfortable interacting with new acquaintances or strangers?",
+      "audio_match_score": 1.0
     },
     {
       "number": 25,
@@ -454,8 +502,10 @@
       "answer": 3,
       "explanation": "【题目】 When are the sizes of our bubbles fixed? \n\n 【翻译】 我们的气泡大小在什么时候固定下来? \n A)  当我们开始感到恐惧时。 \n B)  当我们形成空间意识时。 \n C)  当我们3岁或4岁时。 \n D)  当我们进入青少年时期时。 \n\n 【答案】 D （细节题） When we enter our teens. \n 【定位】 P3 The sizes of our bubbles are fixed by our teens. \n 我们（个人空间）气泡的大小在我们进入青少年时期时就被定型了。 \n\n 【信号】 题干原句重现 + 关键介词 by 。录音 The sizes of our bubbles are fixed by our teens 几乎逐词复述题干 the sizes of our bubbles fixed，再加上时间介词 by our teens，定位与时间一并锁定。这是题干原句重现 + 时间限定词紧跟的双信号。 \n\n 【替换】 by our teens ↔ When we enter our teens. 介词短语 ↔ 时间状语从句 \n are fixed ↔ fixed 动作原词重现 \n\n 【排除】 A) 原词陷阱 选项 When we begin to feel fear. 盗用了录音 the brain region involved in fear 里的 fear 来吸引点击，但原文从未把 fear 当作一个时间节点，只是顺带提到大脑里负责恐惧的区域参与构建气泡。这是把『脑区话题』偷换成『时间节点』。  借用原文：These bubbles are constructed and monitored by the brain region involved in fear. \n\n B) 答非所问 选项 When we develop a sense of space. 盗用了录音 we begin to develop our individual sense of personal space 里的 develop 和 sense of space，但这一句对应的动作是 develop（开始发展），不是题干问的 fixed（被定型）。同一段里两个动作各配一个时间，选项把动作和时间故意错配。  借用原文：we begin to develop our individual sense of personal space around age 3 or 4 \n\n C) 张冠李戴 选项 When we are 3 or 4 years old. 直接盗用了录音里的数字 around age 3 or 4，但这个年龄绑的是『开始发展空间感』(develop)，不是『定型』(fixed)。题干问的是 fixed 的时间，故 3 or 4 岁是错配。  借用原文：around age 3 or 4",
       "group_id": "lazynote-8",
-      "start": 1205.2,
-      "end": 1398.7
+      "start": 1395.81,
+      "end": 1398.47,
+      "spoken_text": "When are the sizes of our bubbles fixed?",
+      "audio_match_score": 1.0
     }
   ],
   "source_sentences": [],
@@ -464,5 +514,6 @@
     "original_bytes": 17005758,
     "sha256": "cd86f83f97e672e51ee6dc5457da8a9f35ccc417a9ee5b0f373dce1012dabcbc",
     "playback_encoding": "MP3 48 kbps mono 24 kHz; unchanged content and timing"
-  }
+  },
+  "question_timing_source": "original_audio_transcript_verified"
 }

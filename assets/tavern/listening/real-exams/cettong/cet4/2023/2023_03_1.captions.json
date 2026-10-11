@@ -102,18 +102,20 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 2.",
-      "translation": "问题2",
-      "start": 134.86,
-      "end": 135.86
+      "text": "1. What is the news report mainly about?",
+      "translation": "第 1 题：这则新闻报道主要是关于什么的?",
+      "start": 116.47,
+      "end": 119.918,
+      "questionNumber": 1
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What benefit will a free trade deal bring to African economy?",
-      "translation": "自由贸易协议将给非洲经济带来什么好处?",
-      "start": 136.34,
-      "end": 140.34
+      "text": "2. What benefit will a free trade deal bring to African economy?",
+      "translation": "第 2 题：自由贸易协议将为非洲经济带来什么好处?",
+      "start": 134.86,
+      "end": 140.816,
+      "questionNumber": 2
     },
     {
       "speaker": "听力原声",
@@ -216,6 +218,24 @@
     {
       "speaker": "听力原声",
       "actor": "",
+      "text": "3. What new method has been developed to help fight climate change?",
+      "translation": "第 3 题：已经开发出什么新方法来帮助对抗气候变化？",
+      "start": 243.58,
+      "end": 248.569,
+      "questionNumber": 3
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "4. What is a potential difficulty in applying the new technique?",
+      "translation": "第 4 题：应用这项新技术的潜在困难是什么？",
+      "start": 263.26,
+      "end": 268.821,
+      "questionNumber": 4
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
       "text": "People in France are keeping away from the narrow French stick loaf in favour of healthier, cheaper options, a millers' association has said.",
       "translation": "法国一家磨坊协会表示,法国人正在远离细长的法式棍子面包,转而选择更健康、更便宜的食品。",
       "start": 286.366,
@@ -296,50 +316,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "5.",
-      "translation": "5 个",
+      "text": "5. What does the news report say about French people's bread consumption?",
+      "translation": "第 5 题：新闻报道关于法国人面包消费量说了什么?",
       "start": 377.03,
-      "end": 377.53
+      "end": 382.591,
+      "questionNumber": 5
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the news report say about French people's bread consumption?",
-      "translation": "新闻报道对法国人的面包消费有何看法?",
-      "start": 378.33,
-      "end": 381.95
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 6.",
-      "translation": "问题6",
+      "text": "6. What do we learn about French women from their port?",
+      "translation": "第 6 题：从报告中我们对法国女性了解到什么?",
       "start": 397.61,
-      "end": 398.65
+      "end": 402.47,
+      "questionNumber": 6
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What do we learn about French women from the report?",
-      "translation": "报告里我们从报告中了解到什么法国妇女?",
-      "start": 399.31,
-      "end": 402.05
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 7.",
-      "translation": "问题7",
+      "text": "7. What is said about lifestyle changes of the French people?",
+      "translation": "第 7 题：关于法国人的生活方式变化说了什么?",
       "start": 417.76,
-      "end": 418.62
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What is said about lifestyle changes of the French people?",
-      "translation": "法国人民生活方式的改变有何看法?",
-      "start": 419.24,
-      "end": 422.72
+      "end": 423.014,
+      "questionNumber": 7
     },
     {
       "speaker": "听力原声",
@@ -695,66 +694,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "8.",
-      "translation": "8. 预 算",
+      "text": "8. When would the man like to leave for London?",
+      "translation": "第 8 题：这位男士想什么时候出发去伦敦?",
       "start": 561.3,
-      "end": 561.64
+      "end": 564.818,
+      "questionNumber": 8
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "When would the man like to leave for London?",
-      "translation": "男人什么时候想离开伦敦?",
-      "start": 562.26,
-      "end": 564.36
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 9.",
-      "translation": "问题9",
+      "text": "9. What is the man's other request?",
+      "translation": "第 9 题：这位男士的另一个要求是什么?",
       "start": 580.16,
-      "end": 580.92
+      "end": 583.714,
+      "questionNumber": 9
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What is the man's other request?",
-      "translation": "他的另一个要求是什么?",
-      "start": 581.44,
-      "end": 583.18
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 10.",
-      "translation": "问题10。",
+      "text": "10. Where should the man wait for the train?",
+      "translation": "第 10 题：这位男士应该在哪里等火车?",
       "start": 598.96,
-      "end": 599.74
+      "end": 602.744,
+      "questionNumber": 10
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Where should the man wait for the train?",
-      "translation": "男人应该在哪里等火车?",
-      "start": 600.44,
-      "end": 602.36
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 11.",
-      "translation": "问题11。",
+      "text": "11. What should the man do to collect the bicycles?",
+      "translation": "第 11 题：这位男士应该做什么来取自行车?",
       "start": 617.88,
-      "end": 618.76
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What should the man do to collect the bicycles?",
-      "translation": "男人应该怎么做 收集自行车?",
-      "start": 619.42,
-      "end": 621.88
+      "end": 622.444,
+      "questionNumber": 11
     },
     {
       "speaker": "听力原声",
@@ -1043,66 +1014,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "12.",
-      "translation": "12. 十二、结 论",
-      "start": 745.9,
-      "end": 746.28
+      "text": "12. What do we learn about hat factories in Britain?",
+      "translation": "第 12 题：关于英国的帽子工厂，我们了解到什么？",
+      "start": 745.87,
+      "end": 749.718,
+      "questionNumber": 12
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "do we learn about hat factories in Britain?",
-      "translation": "我们学不学英国的帽子工厂?",
-      "start": 747.2,
-      "end": 749.4
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 13.",
-      "translation": "问题13。",
+      "text": "13. What is special about Cube Movie Theater?",
+      "translation": "第 13 题：Cube电影院有什么特别之处？",
       "start": 764.87,
-      "end": 765.77
+      "end": 769.632,
+      "questionNumber": 13
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What is special about cube movie theater?",
-      "translation": "立方体电影院有什么特别的?",
-      "start": 766.81,
-      "end": 769.37
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 14.",
-      "translation": "问题14。",
+      "text": "14. What does the man say about most people in London?",
+      "translation": "第 14 题：关于伦敦的大多数人，这位男士说了什么？",
       "start": 784.87,
-      "end": 785.71
+      "end": 789.614,
+      "questionNumber": 14
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What does the man say about most people in London?",
-      "translation": "伦敦大多数人怎么说?",
-      "start": 786.58,
-      "end": 789.28
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 15.",
-      "translation": "问题15。",
+      "text": "15. What does the woman say about foreign movies shown in London?",
+      "translation": "第 15 题：关于在伦敦放映的外国电影，这位女士说了什么？",
       "start": 805.05,
-      "end": 805.89
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What does the woman say about foreign movies shown in London?",
-      "translation": "女人对在伦敦放映的外国电影怎么说?",
-      "start": 806.63,
-      "end": 810.25
+      "end": 810.523,
+      "questionNumber": 15
     },
     {
       "speaker": "听力原声",
@@ -1301,58 +1244,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 16.",
-      "translation": "问题16。",
+      "text": "16. What do we learn about Astrid Natley, a secondary school math teacher?",
+      "translation": "第 16 题：关于中学数学教师Astrid Natley，我们了解到什么？",
       "start": 955.89,
-      "end": 956.67
+      "end": 961.587,
+      "questionNumber": 16
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "do we learn about Astrid Natalie, a secondary school math teacher?",
-      "translation": "中学数学老师阿斯特丽德·娜塔莉的事 我们了解吗?",
-      "start": 957.69,
-      "end": 961.33
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "17.",
-      "translation": "17岁",
+      "text": "17. Why does Helen Lockhart, a registered nurse, support a complete ban on smartphone use in the classroom?",
+      "translation": "第 17 题：注册护士Helen Lockhart为什么支持在课堂上完全禁止使用智能手机？",
       "start": 977.16,
-      "end": 977.82
+      "end": 985.723,
+      "questionNumber": 17
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Why does Helen Lockhart, a registered nurse,",
-      "translation": "为什么海伦洛克哈特 注册护士",
-      "start": 978.78,
-      "end": 981.46
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "support a complete ban on smartphone use in the classroom?",
-      "translation": "支持在课堂上完全禁止使用智能手机?",
-      "start": 982.12,
-      "end": 985.36
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 18.",
-      "translation": "问题18。",
+      "text": "18. What should students do in the classroom according to Richard Stone, an English teacher?",
+      "translation": "第 18 题：根据英语教师Richard Stone的说法，学生在课堂上应该做什么？",
       "start": 1000.74,
-      "end": 1001.72
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What should students do in the classroom according to Richard Stone, an English teacher?",
-      "translation": "英国老师Richard Stone在课堂上应该怎么做?",
-      "start": 1002.5,
-      "end": 1007.84
+      "end": 1007.979,
+      "questionNumber": 18
     },
     {
       "speaker": "听力原声",
@@ -1481,10 +1395,29 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What did Kate's family do after the packages arrived?",
-      "translation": "Kate的家人在包裹到来后做了些什么?",
+      "text": "19. How did Kate earn the reward from her mother?",
+      "translation": "第 19 题：Kate 是如何从她母亲那里获得奖励的?",
+      "start": 1121.45,
+      "end": 1125.707,
+      "questionNumber": 19
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "20. What did Kate do after her mother left the room?",
+      "translation": "第 20 题：Kate 的母亲离开房间后她做了什么?",
+      "start": 1140.61,
+      "end": 1145.561,
+      "questionNumber": 20
+    },
+    {
+      "speaker": "听力原声",
+      "actor": "",
+      "text": "21. What did Kate's family do after the packages arrived?",
+      "translation": "第 21 题：包裹到达后 Kate 一家做了什么?",
       "start": 1162.41,
-      "end": 1165.83
+      "end": 1166.255,
+      "questionNumber": 21
     },
     {
       "speaker": "听力原声",
@@ -1640,74 +1573,38 @@
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Question 22.",
-      "translation": "问题22。",
+      "text": "22. According to recent research conducted in Australia, what has a lasting impact on one's life?",
+      "translation": "第 22 题：根据最近在澳大利亚进行的研究,什么对一个人的一生有持久影响?",
       "start": 1300.32,
-      "end": 1301.14
+      "end": 1308.029,
+      "questionNumber": 22
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "According to recent research conducted in what has a lasting impact on one's life?",
-      "translation": "根据最近对什么对一个人的生活有持久影响所进行的研究?",
-      "start": 1301.98,
-      "end": 1307.86
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 23.",
-      "translation": "问题23。",
+      "text": "23. What was the purpose of the Australian research?",
+      "translation": "第 23 题：澳大利亚这项研究的目的是什么?",
       "start": 1323.3,
-      "end": 1324.1
+      "end": 1328.165,
+      "questionNumber": 23
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "What was the purpose of the Australian research?",
-      "translation": "澳大利亚研究的目的是什么?",
-      "start": 1325.2,
-      "end": 1327.66
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 24.",
-      "translation": "问题24。",
+      "text": "24. Who were the participants in the researchers' first study?",
+      "translation": "第 24 题：研究人员第一项研究的参与者是谁?",
       "start": 1343.37,
-      "end": 1344.21
+      "end": 1348.464,
+      "questionNumber": 24
     },
     {
       "speaker": "听力原声",
       "actor": "",
-      "text": "Who were the participants in the researcher's first study?",
-      "translation": "谁是该研究人员第一次研究的参与者?",
-      "start": 1345.09,
-      "end": 1348.25
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "Question 25.",
-      "translation": "问题25。",
+      "text": "25. According to the researchers, what is one characteristic of successful people?",
+      "translation": "第 25 题：根据研究人员的说法,成功人士的一个特征是什么?",
       "start": 1363.87,
-      "end": 1364.91
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "According to the researchers,",
-      "translation": "研究人员说",
-      "start": 1365.89,
-      "end": 1367.15
-    },
-    {
-      "speaker": "听力原声",
-      "actor": "",
-      "text": "What is one characteristic of successful people?",
-      "translation": "成功者的一个特征是什么?",
-      "start": 1367.84,
-      "end": 1370.8
+      "end": 1370.962,
+      "questionNumber": 25
     },
     {
       "speaker": "听力原声",
@@ -1721,5 +1618,6 @@
   "translation_sources": [
     "https://english-exam.lazynote.cn/cet4/sections/listening/2023-03-1/",
     "Sams200/opus-mt-en-zh (unmatched sentences only)"
-  ]
+  ],
+  "question_verification": "All 25 published question prompts located in original audio; numbers and prompts share one replay unit."
 }
