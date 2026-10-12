@@ -6,13 +6,14 @@ class WordMeaningChecks {
   string root=args[0];var lex=Lexicon.Load(Path.Combine(root,"assets/dictionary.tsv.gz"));
   foreach(var sample in new[]{new[]{"weeks","周"},new[]{"ideas","想法"},new[]{"cars","汽车"},new[]{"pets","宠物"},new[]{"gets","得到"},new[]{"minutes","分钟"},new[]{"seconds","秒"},new[]{"gdp","国内生产总值"},new[]{"affordable","负担得起"},new[]{"faring","进展"}}){var entry=lex.Find(sample[0]);Check(entry!=null&&entry.Corrected&&entry.Meaning.Contains(sample[1]),sample[0]+" resolves its common meaning");}
   Check(lex.Find("WEEKS").Meaning==lex.Find("weeks").Meaning,"case-insensitive corrected lookup");
+  foreach(string word in new[]{"scramble","scrambled","scrambling","scrambles"})Check(lex.Find(word).Corrected&&lex.Find(word).Meaning.Contains("炒"),word+" retains cooking sense");
   Check(lex.Find("wilson").Meaning.Contains("威尔逊")&&!lex.Find("wilson").Corrected,"real proper names retain their meanings");
   using(var game=new Game()){
    game.Show();Application.DoEvents();var flags=BindingFlags.Instance|BindingFlags.NonPublic;var save=(Save)typeof(Game).GetField("save",flags).GetValue(game);save.words.Add(new Word{text="weeks",meaning="n. 威克斯（姓氏）",example="two weeks"});
    typeof(Game).GetMethod("HallWord",flags).Invoke(game,new object[]{"weeks","two weeks"});Application.DoEvents();
    var popup=Application.OpenForms.Cast<Form>().First(f=>f!=game&&f.Text.StartsWith("单词释义"));
    Check(All(popup).Any(c=>c.Text.StartsWith("n. 周、星期")),"saved stale surname meaning cannot obscure corrected lookup");
-   popup.Close();game.Close();
+   popup.Close();save.words.Add(new Word{text="scrambled",meaning="n. 密码形式；扰频",example="What I always go for is their scrambled eggs."});typeof(Game).GetMethod("HallWord",flags).Invoke(game,new object[]{"scrambled","What I always go for is their scrambled eggs."});Application.DoEvents();popup=Application.OpenForms.Cast<Form>().First(f=>f!=game&&f.Text.StartsWith("单词释义"));Check(All(popup).Any(c=>c.Text.Contains("炒制的（鸡蛋）")),"old favorite cannot override cooking sense");popup.Close();game.Close();
   }
   Console.WriteLine("PASS: common plural/verb meanings, time units, GDP, genuine names, case-insensitive lookup and old-favorite popup.");
  }catch(Exception e){Console.WriteLine(e);Environment.Exit(1);}}

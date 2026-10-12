@@ -78,7 +78,7 @@ public partial class Game {
    }
    if(String.IsNullOrWhiteSpace(zh)&&entry.example.StartsWith("Practice the word"))zh="继续之前，请练习单词“"+entry.word+"”。";
   }
-  string feedback=r.feedback??"";
+  string feedback=r.feedback??"";string phonetic=WordPhonetic(entry.word);if(phonetic.Length>0)feedback=feedback.Replace(entry.word+" ·",entry.word+" "+phonetic+" ·");
   if(r.cardBattle!=null&&!String.IsNullOrEmpty(r.cardBattle.log))feedback=feedback.Replace("\n"+r.cardBattle.log,"");
   var lines=feedback.Replace("\r","").Split('\n').ToList();
   if(r.cardBattle!=null&&lines.Count>0&&!lines[0].Contains("护盾抵挡")){

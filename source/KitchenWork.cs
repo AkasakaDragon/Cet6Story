@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Drawing;
@@ -46,7 +46,7 @@ public partial class Game {
    var favorite=new RogueIcon{Kind="star",Size=new Size(32,32),AccessibleName="收藏单词",BackColor=body.BackColor};upper.Controls.Add(favorite);
    var status=new OutlinedLabel{ForeColor=GuildChrome.Gold,Font=GameTheme.Body(11)};upper.Controls.Add(status);
    var input=new TextBox{Font=GameTheme.Latin(18),BackColor=Color.FromArgb(34,68,65),ForeColor=GuildChrome.Ivory,BorderStyle=BorderStyle.FixedSingle,ImeMode=ImeMode.Disable,MaxLength=100,AccessibleName="输入英文拼写"};upper.Controls.Add(input);
-   var definition=new OutlinedLabel{Font=GameTheme.Body(14),ForeColor=GuildChrome.Ivory,Visible=false};upper.Controls.Add(definition);
+   var definition=new HallPagedText{Font=GameTheme.Body(14),BackColor=body.BackColor,Visible=false};upper.Controls.Add(definition);
    var scene=new KitchenProcessView(root,kind,state);body.Controls.Add(scene);
    bool busy=false;bool feedback=false;int ticks=0;RogueQuestion question=null;var animation=new Timer{Interval=35};var choices=new List<VNButton>();VNButton submit=null;Action layout=null;Action refresh=null;Action<int> answer=null;
    hear.Click+=(sender,e)=>{if(!busy&&question!=null&&question.kind>=0&&(feedback||question.kind!=1))SpeakWord(question.entry.word);};
@@ -56,9 +56,9 @@ public partial class Game {
     if(step<3&&question==null){question=ExpeditionVocabulary.Next(save.rogue,KitchenBank(),DateTime.Today);state.SetQuestion(kind,question);state.Words(kind)[step]=question.entry;Persist();}
     feedback=question!=null&&question.answered;bool word=question!=null&&question.kind>=0;
     prompt.Font=word&&(feedback||question.kind==0)?GameTheme.Latin(18):GameTheme.Body(16);
-    prompt.Text=step==3?"处理成功 · 胡萝卜":!word?"今日词汇练习完成":feedback||question.kind==0?question.entry.word:ExpeditionVocabulary.Meaning(question.entry);
+    prompt.Text=step==3?"处理成功 · 胡萝卜":!word?"今日词汇练习完成":feedback||question.kind==0?question.entry.word:StudyPromptMeaning(question.entry);
     status.Text=step==3?"本次加工完成 · 可拿取食材":"第 "+(step+1)+" / 3 题 · "+(!word?"继续加工":question.kind==0?"选择中文释义":question.kind==1?"选择英文单词":"拼写英文单词")+" · "+KitchenWords.Stages(kind)[step]+(word?"\n"+ExpeditionVocabulary.Status(save.rogue,question,DateTime.Today):"");
-    if(feedback)status.Text=(state.Correct(kind)?"回答正确 · ":"回答错误 · ")+state.Feedback(kind)+"\n"+(state.Correct(kind)?"确认单词后，点击继续完成当前加工。":"记住正确单词，点击继续换下一题。");definition.Visible=feedback&&word;definition.Text=word?ExpeditionVocabulary.Meaning(question.entry):"";
+    if(feedback)status.Text=(state.Correct(kind)?"回答正确 · ":"回答错误 · ")+state.Feedback(kind)+"\n"+(state.Correct(kind)?"确认单词后，点击继续完成当前加工。":"记住正确单词，点击继续换下一题。");definition.Visible=feedback&&word;definition.Content=word?VocabularySettlementText(question.entry):"";
     hear.Visible=word&&(feedback||question.kind!=1);favorite.Visible=word;hear.Enabled=favorite.Enabled=!busy;
     if(word){favorite.Selected=save.words.Any(w=>w.text.Equals(question.entry.word,StringComparison.OrdinalIgnoreCase));favorite.Invalidate();tips.SetToolTip(favorite,favorite.Selected?"已收藏 · 再次点击取消":"收藏到生词本");}
     input.Visible=!feedback&&word&&question.kind==3;submit.Visible=feedback||step==3||!word||question.kind==3;submit.Text=feedback?(state.Correct(kind)?"继续加工（Enter）":"下一单词（Enter）"):step==3?"拿取处理好的胡萝卜":!word?"继续加工":"确认拼写（Enter）";
