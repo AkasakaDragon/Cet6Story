@@ -10,9 +10,9 @@ public static class SectionRules {
   if(TavernStory.Is(chapter))return true;if(WaystationChapterOne.Is(chapter)){int n=WaystationChapterOne.Number(chapter);return save.completed.Contains(n==0?TavernStory.Id:WaystationChapterOne.Ids[n-1]);}
   if(!chapter.inlineQuestions)return Engine.Level(save.xp)>=Math.Max(1,chapter.unlockLevel);
   StoryRoutes.Normalize(save);
-  if(chapter.id=="neon-01-A")return save.storyFlags.Contains("clinic-discovered")&&save.sectionStars.ContainsKey("neon-01-01")&&save.sectionStars["neon-01-01"]>=2;
+  if(chapter.id=="neon-01-A")return save.storyFlags.Contains("clinic-discovered")&&StoryQuizRules.Passed(save,"neon-01-01");
   var list=chapters.Where(c=>c.inlineQuestions&&!WaystationChapterOne.Dialogue(c)&&!StoryRoutes.Hidden(c.id)).ToList();int i=list.IndexOf(chapter);
-  return i<=0||(save.sectionStars.ContainsKey(list[i-1].id)&&save.sectionStars[list[i-1].id]>=2);
+  return i<=0||StoryQuizRules.Passed(save,list[i-1].id);
 
  }
 }
@@ -31,7 +31,7 @@ public partial class Game {
  string TimingText(){var a=Attempt();return "整节用时 "+TimeSpan.FromSeconds(SectionSeconds()).ToString(@"mm\:ss")+" / "+TimeSpan.FromSeconds(SectionLimit()).ToString(@"mm\:ss")+" · "+SubtitleStarRule;}
  void BeginSectionTiming(){if(!current.inlineQuestions||Attempt().review)return;var a=Attempt();if(a.started==0){a.started=DateTime.UtcNow.Ticks;a.elapsedTicks=0;Persist();}ResumeSectionTiming();}
  string HeardKey(int i){return current.id+"/line/"+i;}
- QuizQuestion SegmentQuestion(){return current.inlineQuestions?current.questions.OrderBy(q=>q.afterLine).FirstOrDefault(q=>q.afterLine>=index):null;}
+ QuizQuestion SegmentQuestion(){return StoryQuestionsEnabled&&current.inlineQuestions?current.questions.OrderBy(q=>q.afterLine).FirstOrDefault(q=>q.afterLine>=index):null;}
  int SegmentFirst(QuizQuestion q){var prev=current.questions.Where(x=>x.afterLine<q.afterLine).OrderByDescending(x=>x.afterLine).FirstOrDefault();return prev==null?0:prev.afterLine+1;}
  bool SegmentHeard(QuizQuestion q){return Enumerable.Range(SegmentFirst(q),q.afterLine-SegmentFirst(q)+1).All(i=>save.heardLines.Contains(HeardKey(i)));}
  bool SubtitleAllowed(){return true;}

@@ -1,4 +1,4 @@
-using System;using System.Drawing;using System.Drawing.Drawing2D;using System.IO;using System.Collections.Generic;
+﻿using System;using System.Drawing;using System.Drawing.Drawing2D;using System.IO;using System.Collections.Generic;
 public enum HallWalkDirection {UpperLeft=0,UpperRight=1,LowerLeft=2,LowerRight=3}
 public static class HallWalking {
  public static HallWalkDirection Direction(float dx,float dy){return dy<0?(dx<0?HallWalkDirection.UpperLeft:HallWalkDirection.UpperRight):(dx<0?HallWalkDirection.LowerLeft:HallWalkDirection.LowerRight);}
@@ -12,6 +12,7 @@ public sealed class HallWalkSheet {
  public readonly Image Art;readonly HallDiningSheet frames;
  public HallWalkSheet(Image art){frames=new HallDiningSheet(art,4);Art=frames.Art;}
  public HallWalkSheet(string file){frames=new HallDiningSheet(file,4);Art=frames.Art;}
+ public void DrawWork(Graphics g,PointF feet,float height,int row,int frame){var source=frames.Frames[row,frame%4];float scale=height/source.Height;var saved=g.Save();g.TranslateTransform(feet.X,feet.Y);HallSpriteTransform.KeepAspect(g);g.DrawImage(Art,new RectangleF(-source.Width*scale/2,-height,source.Width*scale,height),source,GraphicsUnit.Pixel);g.Restore(saved);}
  public void Draw(Graphics g,PointF feet,float height,HallWalkDirection direction,int frame){
   bool back=(int)direction<2,right=direction==HallWalkDirection.UpperRight||direction==HallWalkDirection.LowerRight;
   var source=frames.Frames[back?0:2,new[]{0,1,2,1}[frame%4]];float scale=height/source.Height,width=source.Width*scale;
@@ -27,9 +28,9 @@ public sealed class HallWalkPose {
 }
 public sealed partial class TavernHallCanvas {
  Dictionary<string,HallWalkSheet> sheets=new Dictionary<string,HallWalkSheet>();Dictionary<string,HallWalkPose> poses=new Dictionary<string,HallWalkPose>();
- public void LoadWalking(string folder){LoadActions(folder);foreach(var key in new[]{"aelia","lyse","luchuan","townsperson"}){string file=Path.Combine(folder,"walking",key+"-walk.png");if(File.Exists(file))sheets[key]=new HallWalkSheet(file);}}
- HallWalkPose Pose(string id,PointF desired,bool smooth){HallWalkPose pose;if(!poses.TryGetValue(id,out pose)){pose=new HallWalkPose{Floor=id=="server"};poses[id]=pose;}if(id=="server")pose.Speed=State.server.resting?0:150*(1+State.server.Efficiency*.018+State.upgrade*.18)*(State.server.fatigue>State.server.Stamina*.75?.8:1);pose.Update(desired,Animation,smooth);return pose;}
- void Walker(Graphics g,string key,Image fallback,PointF feet,float height,string action,string id,bool smooth){var pose=Pose(id,feet,smooth);HallWalkSheet sheet;if(key=="aelia"&&pose.moving&&action.Contains("送餐")&&DeliveryWalk(g,pose,height))return;if(sheets.TryGetValue(key,out sheet)&&pose.moving){sheet.Draw(g,pose.position,height,pose.direction,pose.moving?pose.Frame:1);}else if(key=="aelia"||key=="lyse"){if(!EmployeeAction(g,key,pose.position,height,action))Sprite(g,fallback,pose.position,height,action);}else Sprite(g,fallback,pose.position,height,action);}
+ public void LoadWalking(string folder){LoadActions(folder);foreach(var key in new[]{"aelia","lyse","luchuan","townsperson","helper-chef-v1","helper-server-v1"}){string file=Path.Combine(folder,"walking",key.StartsWith("helper-")?key+".png":key+"-walk.png");if(File.Exists(file))sheets[key]=new HallWalkSheet(file);}}
+ HallWalkPose Pose(string id,PointF desired,bool smooth){HallWalkPose pose;if(!poses.TryGetValue(id,out pose)){pose=new HallWalkPose{Floor=id=="server"||id.StartsWith("helper")};poses[id]=pose;}if(id=="server")pose.Speed=State.server.resting?0:150*(1+State.server.Efficiency*.018+State.upgrade*.18)*(State.server.fatigue>State.server.Stamina*.75?.8:1);pose.Update(desired,Animation,smooth);return pose;}
+ void Walker(Graphics g,string key,Image fallback,PointF feet,float height,string action,string id,bool smooth){var pose=Pose(id,feet,smooth);HallWalkSheet sheet;if(key=="aelia"&&pose.moving&&action.Contains("送餐")&&DeliveryWalk(g,pose,height))return;if(sheets.TryGetValue(key,out sheet)&&pose.moving){sheet.Draw(g,pose.position,height,pose.direction,pose.moving?pose.Frame:1);}else if(key=="aelia"||key=="lyse"){if(!EmployeeAction(g,key,pose.position,height,action))Sprite(g,fallback,pose.position,height,action);}else if(key.StartsWith("helper-")&&sheets.TryGetValue(key,out sheet)){int row=action=="待命"||action.Contains("休息")||action=="收桌"?3:1;sheet.DrawWork(g,pose.position,height,row,(int)(Animation*3)%4);}else Sprite(g,fallback,pose.position,height,action);}
  protected override void Dispose(bool disposing){if(disposing){if(chairWoodArt!=null){chairWoodArt.Dispose();chairWoodArt=null;}if(cameraTimer!=null){cameraTimer.Stop();cameraTimer.Dispose();}foreach(var s in sheets.Values)s.Art.Dispose();sheets.Clear();foreach(var a in actions.Values)a.Dispose();actions.Clear();if(dining!=null){dining.Dispose();dining=null;}if(diningFront!=null){diningFront.Dispose();diningFront=null;}}base.Dispose(disposing);}
 }
 

@@ -1,10 +1,10 @@
-using System;using System.Drawing;using System.IO;using System.Windows.Forms;
+﻿using System;using System.Drawing;using System.IO;using System.Windows.Forms;
 public partial class Game {
  void ConfirmTavernPreparation(){
   if(TavernTime.State(save).phase!=StoryTime.Night){GameMessage.Show(this,"酒馆只在晚上开放。","酒馆营业");return;}
   using(var dialog=new GuildWordDialog{Text="营业准备",Width=Math.Min(620,ClientSize.Width-40),Height=300}){
    dialog.Location=new Point(Left+(Width-dialog.Width)/2,Top+(Height-dialog.Height)/2);
-   var text=new OutlinedLabel{Dock=DockStyle.Fill,Text="是否立刻进行营业准备？\n\n营业结束后，时间将跳至第二天早上。",Font=GameTheme.Body(15),ForeColor=GuildChrome.Ivory,Padding=new Padding(22)};dialog.Controls.Add(text);
+   var text=new OutlinedLabel{Dock=DockStyle.Fill,Text="是否立刻进行营业准备？\n\n营业结束后可以继续背词和听力研修。\n由你决定何时开始下一天。",Font=GameTheme.Body(15),ForeColor=GuildChrome.Ivory,Padding=new Padding(22)};dialog.Controls.Add(text);
    var row=new FlowLayoutPanel{Dock=DockStyle.Bottom,Height=68,FlowDirection=FlowDirection.RightToLeft,Padding=new Padding(14,8,14,8)};dialog.Controls.Add(row);
    var wait=PartyButton("再等等",()=>{dialog.DialogResult=DialogResult.Cancel;dialog.Close();},150,44);var proceed=PartyButton("继续",()=>{dialog.DialogResult=DialogResult.OK;dialog.Close();},150,44);row.Controls.Add(wait);row.Controls.Add(proceed);dialog.KeyPreview=true;dialog.KeyDown+=(s,e)=>{if(e.KeyCode==Keys.Escape){dialog.DialogResult=DialogResult.Cancel;dialog.Close();}};
    if(dialog.ShowDialog(this)!=DialogResult.OK)return;

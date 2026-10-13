@@ -1,7 +1,7 @@
 using System;using System.Drawing;using System.Linq;using System.Windows.Forms;
 public partial class Game {
  const string SubtitleStarRule="全答对：★；全答对且未开中文：★★；全答对且未开中英：★★★。未全答对无星。";
- bool ChooseSectionSubtitles(){
+ bool ChooseSectionSubtitles(){if(!StoryQuestionsEnabled)return true;
   var attempt=Attempt();if(attempt.review)return true;if(attempt.subtitlesChosen){if(attempt.chineseSubtitles.HasValue)save.chinese=translating=attempt.chineseSubtitles.Value;if(attempt.englishSubtitles.HasValue)save.english=englishVisible=attempt.englishSubtitles.Value;return true;}
   using(var dialog=new GuildWordDialog{QuestStyle=true,BackColor=Color.FromArgb(6,29,29),Padding=new Padding(30,58,30,30),Text="本节字幕与挑战模式",Width=700,Height=450}){
    dialog.Location=new Point(Left+(Width-dialog.Width)/2,Top+(Height-dialog.Height)/2);

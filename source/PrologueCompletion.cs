@@ -1,4 +1,4 @@
-﻿using System;using System.Drawing;using System.Drawing.Drawing2D;using System.Linq;using System.Windows.Forms;
+using System;using System.Drawing;using System.Drawing.Drawing2D;using System.Linq;using System.Windows.Forms;
 public class PrologueCompletion:Control {
  public Image BackgroundArt;public Chapter Chapter;public Save Save;public int Correct,Stars;public bool FirstCompletion;
  public string CompletionTitle="序幕完成 · 第一盏灯",CompletionText="驿站基础修复完成。陆川与艾莉娅一起迎来天亮，\n经营基地已解锁。第一章第一节已开放。";
@@ -15,11 +15,12 @@ public class PrologueCompletion:Control {
   using(var pen=new Pen(gold,2))g.DrawLine(pen,530,210,1142,210);
   DrawText(g,CompletionTitle,new RectangleF(220,113,1232,92),44,gold,true,true);
   DrawText(g,CompletionText,new RectangleF(250,218,1172,84),21,ivory,false,true);
-  Panel(g,new Rectangle(428,303,802,73));DrawText(g,"听力  "+Correct+" / "+Chapter.questions.Count,new RectangleF(464,320,220,40),27,gold,true);
-  DrawText(g,new string('★',Stars)+new string('☆',3-Stars),new RectangleF(742,316,170,48),32,gold,true);
+  Panel(g,new Rectangle(428,303,802,73));DrawText(g,(Save.storyQuizEnabled??true)?"听力  "+Correct+" / "+Chapter.questions.Count:"剧情模式",new RectangleF(464,320,220,40),27,gold,true);
+  DrawText(g,(Save.storyQuizEnabled??true)?new string('★',Stars)+new string('☆',3-Stars):"不评听力星级",new RectangleF(742,316,170,48),32,gold,true);
   DrawText(g,FirstCompletion?"首次完成  +60 XP":"完成奖励已领取",new RectangleF(935,320,270,40),25,gold,true);
+  if(!(Save.storyQuizEnabled??true))DrawText(g,"本节剧情已完成，听力选择题已跳过。",new RectangleF(428,430,802,90),24,ivory,false,true);
   int count=Math.Max(1,Chapter.questions.Count);
-  for(int i=0;i<Chapter.questions.Count;i++){
+  for(int i=0;(Save.storyQuizEnabled??true)&&i<Chapter.questions.Count;i++){
    var q=Chapter.questions[i];var card=QuestionBounds(i,count);int left=card.Left,top=card.Top;Panel(g,card);
    using(var pen=new Pen(gold,2))g.DrawPolygon(pen,new[]{new Point(left+40,top+17),new Point(left+63,top+40),new Point(left+40,top+63),new Point(left+17,top+40)});
    DrawText(g,(i+1).ToString(),new RectangleF(left+22,top+21,36,37),25,gold,true,true);
