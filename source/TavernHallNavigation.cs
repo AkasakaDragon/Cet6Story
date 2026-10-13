@@ -3,8 +3,8 @@ using System;using System.Drawing;using System.Collections.Generic;using System.
 public static class HallNavigation {
  public static readonly PointF Entry=new PointF(487,462),Counter=new PointF(720,550);
  public static PointF CounterFor(int layout){return layout==0?Counter:new PointF(925,635);}
- public static readonly PointF[] Seats={HallFurniture.SeatedFeet(0),HallFurniture.SeatedFeet(1),HallFurniture.SeatedFeet(2),HallFurniture.SeatedFeet(3)};
- public static readonly PointF[] Approaches={new PointF(465,590),new PointF(413,710),new PointF(700,690),new PointF(670,835)};
+ public static readonly PointF[] Seats=Enumerable.Range(0,HallSeats.Count).Select(i=>new PointF(HallSeats.Hip(i,false).X,HallSeats.Hip(i,false).Y+27)).ToArray();
+ public static readonly PointF[] Approaches=Enumerable.Range(0,HallSeats.Count).Select(HallSeats.Approach).ToArray();
  static readonly PointF[] floor={new PointF(463,440),new PointF(1050,630),new PointF(960,803),new PointF(817,918),new PointF(655,918),new PointF(240,735),new PointF(420,550)};
  static readonly PointF[] tables={new PointF(578,580),new PointF(529,714),new PointF(816,694),new PointF(784,838)};
  static readonly Dictionary<string,List<PointF>> cache=new Dictionary<string,List<PointF>>();
@@ -13,7 +13,23 @@ public static class HallNavigation {
  static int Key(int u,int v){return (u+70)*141+v+70;}static PointF World(int key){return World(key/141-70,key%141-70);}
  static double Distance(PointF a,PointF b){return Math.Sqrt(Math.Pow(a.X-b.X,2)+Math.Pow(a.Y-b.Y,2));}
  static int Nearest(PointF p){int best=-1;double d=Double.MaxValue;for(int u=-65;u<=65;u++)for(int v=-65;v<=65;v++){var w=World(u,v);double n=Distance(p,w);if(n<d&&Clear(w)){d=n;best=Key(u,v);}}return best;}
- public static List<PointF> Path(PointF from,PointF to){string name=from.X+","+from.Y+":"+to.X+","+to.Y;List<PointF> result;if(cache.TryGetValue(name,out result))return result;int start=Nearest(from),end=Nearest(to);var open=new List<int>{start};var closed=new HashSet<int>();var costs=new Dictionary<int,double>{{start,0}};var previous=new Dictionary<int,int>();while(open.Count>0){int node=open.OrderBy(n=>costs[n]+Distance(World(n),World(end))).First();open.Remove(node);if(node==end)break;closed.Add(node);int u=node/141-70,v=node%141-70;foreach(var next in new[]{Key(u+1,v),Key(u-1,v),Key(u,v+1),Key(u,v-1)}){if(next<0||next>=141*141||closed.Contains(next)||!Clear(World(next))||!Clear(new PointF((World(next).X+World(node).X)/2,(World(next).Y+World(node).Y)/2)))continue;double cost=costs[node]+Distance(World(node),World(next));if(!costs.ContainsKey(next)||cost<costs[next]){costs[next]=cost;previous[next]=node;if(!open.Contains(next))open.Add(next);}}}result=new List<PointF>();if(start==end||previous.ContainsKey(end)){for(int n=end;;n=previous[n]){result.Insert(0,World(n));if(n==start)break;}}else result.Add(World(start));cache[name]=result;return result;}
+ public static List<PointF> Path(PointF from,PointF to){
+  string name=from.X+","+from.Y+":"+to.X+","+to.Y;List<PointF> result;if(cache.TryGetValue(name,out result))return result;
+  int start=Nearest(from),end=Nearest(to);if(start<0||end<0)return new List<PointF>{from};
+  // Heading is part of the search state: equal-distance zigzags are more expensive.
+  int first=start*5+4,finish=-1;var open=new List<int>{first};var closed=new HashSet<int>();var costs=new Dictionary<int,double>{{first,0}};var previous=new Dictionary<int,int>();
+  int[] du={1,-1,0,0},dv={0,0,1,-1};
+  while(open.Count>0){int state=open.OrderBy(n=>costs[n]+Distance(World(n/5),World(end))).ThenBy(n=>n).First();open.Remove(state);int node=state/5,heading=state%5;if(node==end){finish=state;break;}closed.Add(state);int u=node/141-70,v=node%141-70;
+   for(int direction=0;direction<4;direction++){int nu=u+du[direction],nv=v+dv[direction];if(nu<-65||nu>65||nv<-65||nv>65)continue;int nextNode=Key(nu,nv),next=nextNode*5+direction;
+    if(closed.Contains(next)||!Clear(World(nextNode))||!Clear(new PointF((World(nextNode).X+World(node).X)/2,(World(nextNode).Y+World(node).Y)/2)))continue;
+    double cost=costs[state]+Distance(World(node),World(nextNode))+(heading!=4&&heading!=direction?65:0);
+    if(!costs.ContainsKey(next)||cost<costs[next]){costs[next]=cost;previous[next]=state;if(!open.Contains(next))open.Add(next);}
+   }
+  }
+  result=new List<PointF>();if(finish>=0){for(int n=finish;;n=previous[n]){result.Insert(0,World(n/5));if(n==first)break;}
+   for(int i=result.Count-2;i>0;i--){var a=result[i-1];var b=result[i];var c=result[i+1];if(Math.Abs((b.X-a.X)*(c.Y-b.Y)-(b.Y-a.Y)*(c.X-b.X))<.01)result.RemoveAt(i);}
+  }else result.Add(World(start));cache[name]=result;return result;
+ }
  public static PointF At(List<PointF> path,double t){if(path.Count==0)return Entry;if(path.Count==1)return path[0];double total=0;for(int i=1;i<path.Count;i++)total+=Distance(path[i-1],path[i]);double left=Math.Max(0,Math.Min(1,t))*total;for(int i=1;i<path.Count;i++){double d=Distance(path[i-1],path[i]);if(left<=d)return new PointF(path[i-1].X+(path[i].X-path[i-1].X)*(float)(left/d),path[i-1].Y+(path[i].Y-path[i-1].Y)*(float)(left/d));left-=d;}return path[path.Count-1];}
  public static PointF Route(PointF from,PointF to,double t){return At(Path(from,to),t);}
 }

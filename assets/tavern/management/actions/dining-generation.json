@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-13",
+  "tool": "image_gen.imagegen",
+  "output": "guest-dining-ne.png",
+  "references": [
+    "assets/tavern/management/actions/guest-actions.png",
+    "assets/tavern/management/customer-townsperson-v2.png",
+    "assets/art-style/references/reference-2.png"
+  ],
+  "direction": "three-quarter back, upper right toward table",
+  "rows": ["seated waiting", "spoon reach, raise, mouth, return", "mug hold, raise, drink, return"],
+  "columns": 4,
+  "preserve": ["existing character identity", "cream shirt", "forest green waistcoat", "brown trousers and boots", "detailed square pixel painting", "transparent alpha"],
+  "iterations": ["Generate seated upper-right actions", "Remove outside glow and improve grid registration"],
+  "source": "C:/Users/33370/.codex/generated_images/01a132b0-33fa-7072-976c-9d63c9ad5a39/exec-b8e3f24c-af71-4349-a4e8-3f15cb6f0ba4.png",
+  "runtime_registration": "Actual alpha silhouettes are read without modifying the generated PNG; fixed pelvis placement and timed held poses are applied by HallDiningSheet and HallDiningMotion."
+}

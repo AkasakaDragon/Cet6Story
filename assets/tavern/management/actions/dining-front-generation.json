@@ -1,0 +1,15 @@
+{
+  "asset": "guest-dining-sw.png",
+  "references": [
+    "guest-dining-ne.png",
+    "../../../../art-style/references/reference-2.png"
+  ],
+  "direction": "southwest/front three-quarter seated",
+  "rows": [
+    "waiting",
+    "spoon meal",
+    "drinking"
+  ],
+  "frames": 4,
+  "transparent": true
+}

@@ -9,8 +9,16 @@ public static class HallWalking {
  static PointF Lerp(PointF a,PointF b,double t){return new PointF(a.X+(b.X-a.X)*(float)t,a.Y+(b.Y-a.Y)*(float)t);}
 }
 public sealed class HallWalkSheet {
- public readonly Image Art;public HallWalkSheet(Image art){Art=art;}
- public void Draw(Graphics g,PointF feet,float height,HallWalkDirection direction,int frame){int cw=Art.Width/4,ch=Art.Height/4;bool back=(int)direction<2,right=direction==HallWalkDirection.UpperRight||direction==HallWalkDirection.LowerRight;int row=back?0:2;var source=new Rectangle(new[]{0,1,2,1}[frame%4]*cw,row*ch,cw,ch);float width=height*cw/ch;var saved=g.Save();g.TranslateTransform(feet.X,feet.Y);if(right)g.ScaleTransform(-1,1);g.DrawImage(Art,new RectangleF(-width/2,-height,width,height),source,GraphicsUnit.Pixel);g.Restore(saved);}
+ public readonly Image Art;readonly HallDiningSheet frames;
+ public HallWalkSheet(Image art){frames=new HallDiningSheet(art,4);Art=frames.Art;}
+ public HallWalkSheet(string file){frames=new HallDiningSheet(file,4);Art=frames.Art;}
+ public void Draw(Graphics g,PointF feet,float height,HallWalkDirection direction,int frame){
+  bool back=(int)direction<2,right=direction==HallWalkDirection.UpperRight||direction==HallWalkDirection.LowerRight;
+  var source=frames.Frames[back?0:2,new[]{0,1,2,1}[frame%4]];float scale=height/source.Height,width=source.Width*scale;
+  var saved=g.Save();g.TranslateTransform(feet.X,feet.Y);HallSpriteTransform.KeepAspect(g);if(right)g.ScaleTransform(-1,1);
+  g.DrawImage(Art,new RectangleF(-width/2,-height,width,height),source,GraphicsUnit.Pixel);g.Restore(saved);
+ }
+
 }
 public sealed class HallWalkPose {
  public PointF position;public HallWalkDirection direction=HallWalkDirection.LowerLeft;public bool moving;public double time=-1,phase;public PointF goal;PointF start,corner;double length,travel;public bool Floor;public double Speed=150;List<PointF> path;
@@ -19,9 +27,9 @@ public sealed class HallWalkPose {
 }
 public sealed partial class TavernHallCanvas {
  Dictionary<string,HallWalkSheet> sheets=new Dictionary<string,HallWalkSheet>();Dictionary<string,HallWalkPose> poses=new Dictionary<string,HallWalkPose>();
- public void LoadWalking(string folder){LoadActions(folder);foreach(var key in new[]{"aelia","lyse","luchuan","townsperson"}){string file=Path.Combine(folder,"walking",key+"-walk.png");if(File.Exists(file))sheets[key]=new HallWalkSheet(Image.FromFile(file));}}
+ public void LoadWalking(string folder){LoadActions(folder);foreach(var key in new[]{"aelia","lyse","luchuan","townsperson"}){string file=Path.Combine(folder,"walking",key+"-walk.png");if(File.Exists(file))sheets[key]=new HallWalkSheet(file);}}
  HallWalkPose Pose(string id,PointF desired,bool smooth){HallWalkPose pose;if(!poses.TryGetValue(id,out pose)){pose=new HallWalkPose{Floor=id=="server"};poses[id]=pose;}if(id=="server")pose.Speed=State.server.resting?0:150*(1+State.server.Efficiency*.018+State.upgrade*.18)*(State.server.fatigue>State.server.Stamina*.75?.8:1);pose.Update(desired,Animation,smooth);return pose;}
  void Walker(Graphics g,string key,Image fallback,PointF feet,float height,string action,string id,bool smooth){var pose=Pose(id,feet,smooth);HallWalkSheet sheet;if(key=="aelia"&&pose.moving&&action.Contains("送餐")&&DeliveryWalk(g,pose,height))return;if(sheets.TryGetValue(key,out sheet)&&pose.moving){sheet.Draw(g,pose.position,height,pose.direction,pose.moving?pose.Frame:1);}else if(key=="aelia"||key=="lyse"){if(!EmployeeAction(g,key,pose.position,height,action))Sprite(g,fallback,pose.position,height,action);}else Sprite(g,fallback,pose.position,height,action);}
- protected override void Dispose(bool disposing){if(disposing){if(cameraTimer!=null){cameraTimer.Stop();cameraTimer.Dispose();}foreach(var s in sheets.Values)s.Art.Dispose();sheets.Clear();foreach(var a in actions.Values)a.Dispose();actions.Clear();}base.Dispose(disposing);}
+ protected override void Dispose(bool disposing){if(disposing){if(chairWoodArt!=null){chairWoodArt.Dispose();chairWoodArt=null;}if(cameraTimer!=null){cameraTimer.Stop();cameraTimer.Dispose();}foreach(var s in sheets.Values)s.Art.Dispose();sheets.Clear();foreach(var a in actions.Values)a.Dispose();actions.Clear();if(dining!=null){dining.Dispose();dining=null;}if(diningFront!=null){diningFront.Dispose();diningFront=null;}}base.Dispose(disposing);}
 }
 
