@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Drawing;
 using System.Drawing.Imaging;
 using System.Linq;
@@ -10,6 +10,7 @@ public partial class Game {
   foreach(var a in stage.Actors){bool visible=WaystationChapterOne.Second(current)?(a.Id!="lyse"||(index>=6&&index<34)):WaystationChapterOne.Is(current)?(a.Id!="aelia"||index<28):index>=12&&(a.Id!="aelia"||index>=17),mirror=a.Id=="aelia"||a.Id=="lyse";float scale=a.Id=="luchuan"?1.1f:1f;
    if(TavernStory.Is(current)){visible=index<12?(a.Id=="luchuan"||a.Id=="iserya"):a.Id!="iserya"&&(a.Id!="aelia"||index>=17);}
    if(WaystationChapterOne.Number(current)>=2)visible=true;
+   if(PrologueV2.Is(current)){visible=PrologueV2.Visible(current.lines[index],a.Id);mirror=a.Id=="aelia";scale=1f;}
    if(current.lines[index].hidePortraits)visible=false;
    if(a.Visible!=visible||a.Mirror!=mirror||a.Scale!=scale)changed=true;
    a.Visible=visible;a.Mirror=mirror;a.Scale=scale;

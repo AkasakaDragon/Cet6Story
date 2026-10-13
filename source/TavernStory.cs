@@ -25,15 +25,7 @@ public static class TavernStory {
  }
  public static void Migrate(Save s){
   if(s==null||s.storyFlags==null)return;
-  if(s.storyFlags.Contains(ScriptFlag)){MigrateWaystation(s);return;}
-  if(s.positions.ContainsKey(Id))s.positions[Id]=Math.Max(0,s.positions[Id]-8);
-  string prefix=Id+"/line/";
-  var heard=s.heardLines.Where(k=>k.StartsWith(prefix)).ToList();s.heardLines.RemoveAll(k=>k.StartsWith(prefix));
-  foreach(var k in heard){int old;if(int.TryParse(k.Substring(prefix.Length),out old)&&old>=8)s.heardLines.Add(prefix+(old-8));}
-  Shift(s.quizAnswers);Shift(s.answerStarted);Shift(s.answerTimely);
-  SectionAttempt attempt;if(s.sectionAttempts.TryGetValue(Id,out attempt)&&attempt.replayAfterLine>=0)attempt.replayAfterLine=attempt.replayAfterLine>=8?attempt.replayAfterLine-8:-1;
-  s.storyFlags.Add(ScriptFlag);
-  MigrateWaystation(s);
+  PrologueV2.MigrateFireside(s);PrologueV2.Migrate(s);
  }
  static void Shift<T>(Dictionary<string,T> values){
   string prefix=Id+"/q/";var old=values.Where(k=>k.Key.StartsWith(prefix)).ToList();
@@ -88,7 +80,7 @@ public partial class Game {
    var reveal=new WhiteSceneReveal{Dock=DockStyle.Fill,DurationMs=line==40?500:300,FadeColor=Color.Black};reveal.CaptureScene(destination);content.Controls.Add(reveal);reveal.BringToFront();reveal.Start();
   }));
  }
- bool TryTavernTransition(){return TryTavernTransfer();}
+ bool TryTavernTransition(){return PrologueV2.Is(current)?TryNewPrologueCg():TryTavernTransfer();}
  bool TryKnightEntrance(){if(!TavernStory.Is(current)||index!=TavernStory.EntranceLine||save.storyFlags.Contains(TavernStory.EntranceFlag))return false;ShowKnightEntrance();return true;}
  void ShowKnightEntrance(){
   ClearPage();page="knight-entrance";save.positions[current.id]=index;Persist();bool finished=false;
@@ -107,6 +99,7 @@ public partial class Game {
   }catch(Exception ex){GameMessage.Show(this,"传送 CG 未能播放："+ex.Message,"播放提示");finish();}
  }
  void ShowTavernOpening(){
+  if(PrologueV2.Is(current)){ShowNewPrologueCg("cg01",0);return;}
   ClearPage();page="tavern-opening";
   bool finished=false;
   Action finish=()=>{if(finished||page!="tavern-opening")return;finished=true;StoryRoutes.Flag(save,TavernStory.OpeningFlag);index=0;save.positions[current.id]=index;save.lastChapter=current.id;Persist();RevealOpeningConversation();};
@@ -122,13 +115,14 @@ public partial class Game {
   TavernStory.Migrate(save);
   var chapter=chapters.FirstOrDefault(TavernStory.Is);if(chapter==null){GameMessage.Show(this,"新序幕资源尚未加载，请保留完整 chapters 文件夹。","封印酒馆");return;}
   current=chapter;index=save.positions.ContainsKey(chapter.id)?Math.Max(0,Math.Min(chapter.lines.Count-1,save.positions[chapter.id])):0;
-  if(index==TavernStory.BattleLine&&save.storyFlags.Contains(TavernStory.BattleFlag)&&chapter.lines.Count>TavernStory.BattleLine+1)index=TavernStory.BattleLine+1;
+  if(!PrologueV2.Is(chapter)&&index==TavernStory.BattleLine&&save.storyFlags.Contains(TavernStory.BattleFlag)&&chapter.lines.Count>TavernStory.BattleLine+1)index=TavernStory.BattleLine+1;
   if(!save.positions.ContainsKey(chapter.id)){englishVisible=save.english=true;translating=save.chinese=true;}
   save.hasGame=true;save.lastChapter=chapter.id;save.positions[chapter.id]=index;save.openingCgPending=false;Persist();
-  if(save.tavernBattle!=null&&!save.storyFlags.Contains(TavernStory.BattleFlag)){ShowTavernBattle();return;}
+  if(!PrologueV2.Is(chapter)&&save.tavernBattle!=null&&!save.storyFlags.Contains(TavernStory.BattleFlag)){ShowTavernBattle();return;}
   ShowStory();BeginInvoke((Action)(()=>{if(page=="story"&&TavernStory.Is(current))PlayCurrent();}));
  }
  bool TryTavernBattle(){
+  if(PrologueV2.Is(current))return false;
   if(TryMineStoryBattle())return true;
   if(!TavernStory.Is(current)||index!=TavernStory.BattleLine||save.storyFlags.Contains(TavernStory.BattleFlag))return false;
   if(menuLoading!=null&&!menuLoading.IsDisposed)return true;
@@ -156,6 +150,7 @@ public partial class Game {
   else if(r.state=="feedback"){TavernStory.NextTurn(r);ShowTavernBattle();}
  }
  void CompleteTavern(){
+  if(PrologueV2.Is(current)){CompleteNewPrologue();return;}
   StoryRoutes.Flag(save,"waystation-basic-repair-complete");
   if(Attempt().finished==0)FinishSectionTiming();int correct=current.questions.Count(q=>save.quizAnswers.ContainsKey(InlineKey(q))&&save.quizAnswers[InlineKey(q)]==q.answer);
   int stars=SectionStars(correct,current.questions.Count);save.sectionStars[current.id]=Math.Max(stars,save.sectionStars.ContainsKey(current.id)?save.sectionStars[current.id]:0);

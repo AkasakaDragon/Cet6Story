@@ -1,11 +1,11 @@
-using System;
+﻿using System;
 using System.Linq;
 using System.Collections.Generic;
 using System.Windows.Forms;
 
 public static class SectionRules {
  public const int AnswerSeconds=30;
- public static int Stars(int correct,int total,bool usedChinese,bool usedEnglish){return total>0&&correct==total?(usedChinese?1:usedEnglish?2:3):0;}
+ public static int Stars(int correct,int total,bool usedChinese,bool usedEnglish){return total>0&&correct==total?3:0;}
  public static bool Unlocked(Chapter chapter,IList<Chapter> chapters,Save save){
   if(TavernStory.Is(chapter))return true;if(WaystationChapterOne.Is(chapter)){int n=WaystationChapterOne.Number(chapter);return save.completed.Contains(n==0?TavernStory.Id:WaystationChapterOne.Ids[n-1]);}
   if(!chapter.inlineQuestions)return Engine.Level(save.xp)>=Math.Max(1,chapter.unlockLevel);

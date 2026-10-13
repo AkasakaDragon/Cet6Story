@@ -1,4 +1,4 @@
-﻿using System;using System.Diagnostics;using System.Drawing;using System.Drawing.Drawing2D;using System.IO;using System.Media;using System.Windows.Forms;
+using System;using System.Diagnostics;using System.Drawing;using System.Drawing.Drawing2D;using System.IO;using System.Media;using System.Windows.Forms;
 
 public sealed class PrologueCurtain:Control {
  readonly Timer timer=new Timer{Interval=20};readonly Stopwatch clock=new Stopwatch();
@@ -19,6 +19,7 @@ public sealed class PrologueCurtain:Control {
 }
 public partial class Game {
  void ShowTavernCurtain(){
+  if(PrologueV2.Is(current)){CompleteNewPrologue();return;}
   if(page=="tavern-curtain")return;
   var curtain=new PrologueCurtain{Dock=DockStyle.Fill,Morning=CachedImage(Path.Combine(root,"chapters","art","tavern","waystation-repair-morning.png")),Chinese=translating&&ChineseAllowed(),English=englishVisible&&SubtitleAllowed(),Volume=EffectSoundVolume()};
   content.PerformLayout();curtain.CaptureScene(content);PauseSectionTiming();page="tavern-curtain";content.Controls.Add(curtain);curtain.BringToFront();curtain.Completed=()=>{if(page!="tavern-curtain"||IsDisposed)return;CompleteTavern();var reveal=new WhiteSceneReveal{Dock=DockStyle.Fill,FadeColor=Color.Black,DurationMs=650};content.PerformLayout();reveal.CaptureScene(content);content.Controls.Add(reveal);reveal.BringToFront();reveal.Start();};curtain.Start();

@@ -4,7 +4,7 @@ public static class StoryQuizRules {
  public static void MarkRead(Save save,string chapter){if(save.storyReadCompleted==null)save.storyReadCompleted=new List<string>();if(!save.storyReadCompleted.Contains(chapter))save.storyReadCompleted.Add(chapter);}
 }
 public partial class Game {
- bool StoryQuestionsEnabled{get{return IsSpellPractice()||(save.storyQuizEnabled??true);}}
+ bool StoryQuestionsEnabled{get{return IsSpellPractice()||(!PrologueV2.Is(current)&&(save.storyQuizEnabled??true));}}
  void CompleteReadOnlyStory(){
   if(Attempt().finished==0)FinishSectionTiming();StoryQuizRules.MarkRead(save,current.id);
   bool fresh=!save.completed.Contains(current.id);if(fresh){save.completed.Add(current.id);save.xp+=60;}Persist();UpdateStats();

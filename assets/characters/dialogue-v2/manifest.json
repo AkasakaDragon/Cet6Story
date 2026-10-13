@@ -1,0 +1,632 @@
+[
+  {
+    "actor": "dagger",
+    "expression": "neutral",
+    "grid": [
+      500,
+      500
+    ],
+    "subjectBounds": [
+      134,
+      0,
+      366,
+      500
+    ],
+    "source": "D:\\WORK\\Cet6Story\\assets\\characters\\expressions-v1\\inputs\\01-dagger-original.png"
+  },
+  {
+    "actor": "dagger",
+    "expression": "angry",
+    "grid": [
+      500,
+      500
+    ],
+    "subjectBounds": [
+      134,
+      0,
+      366,
+      500
+    ],
+    "source": "D:\\WORK\\Cet6Story\\assets\\characters\\expressions-v1\\01-dagger\\01-愤怒.png"
+  },
+  {
+    "actor": "dagger",
+    "expression": "confused",
+    "grid": [
+      500,
+      500
+    ],
+    "subjectBounds": [
+      134,
+      0,
+      366,
+      500
+    ],
+    "source": "D:\\WORK\\Cet6Story\\assets\\characters\\expressions-v1\\01-dagger\\02-疑惑.png"
+  },
+  {
+    "actor": "dagger",
+    "expression": "surprised",
+    "grid": [
+      500,
+      500
+    ],
+    "subjectBounds": [
+      134,
+      0,
+      366,
+      500
+    ],
+    "source": "D:\\WORK\\Cet6Story\\assets\\characters\\expressions-v1\\01-dagger\\03-惊讶.png"
+  },
+  {
+    "actor": "dagger",
+    "expression": "sad",
+    "grid": [
+      500,
+      500
+    ],
+    "subjectBounds": [
+      134,
+      0,
+      366,
+      500
+    ],
+    "source": "D:\\WORK\\Cet6Story\\assets\\characters\\expressions-v1\\01-dagger\\04-伤心.png"
+  },
+  {
+    "actor": "dagger",
+    "expression": "serious",
+    "grid": [
+      500,
+      500
+    ],
+    "subjectBounds": [
+      134,
+      0,
+      366,
+      500
+    ],
+    "source": "D:\\WORK\\Cet6Story\\assets\\characters\\expressions-v1\\01-dagger\\05-认真.png"
+  },
+  {
+    "actor": "dagger",
+    "expression": "happy",
+    "grid": [
+      500,
+      500
+    ],
+    "subjectBounds": [
+      134,
+      0,
+      366,
+      500
+    ],
+    "source": "D:\\WORK\\Cet6Story\\assets\\characters\\expressions-v1\\01-dagger\\06-高兴.png"
+  },
+  {
+    "actor": "noya",
+    "expression": "neutral",
+    "grid": [
+      500,
+      500
+    ],
+    "subjectBounds": [
+      97,
+      0,
+      402,
+      500
+    ],
+    "source": "D:\\WORK\\Cet6Story\\assets\\characters\\expressions-v1\\inputs\\02-noya-original.png"
+  },
+  {
+    "actor": "noya",
+    "expression": "angry",
+    "grid": [
+      500,
+      500
+    ],
+    "subjectBounds": [
+      97,
+      0,
+      402,
+      500
+    ],
+    "source": "D:\\WORK\\Cet6Story\\assets\\characters\\expressions-v1\\02-noya\\01-愤怒.png"
+  },
+  {
+    "actor": "noya",
+    "expression": "confused",
+    "grid": [
+      500,
+      500
+    ],
+    "subjectBounds": [
+      97,
+      0,
+      402,
+      500
+    ],
+    "source": "D:\\WORK\\Cet6Story\\assets\\characters\\expressions-v1\\02-noya\\02-疑惑.png"
+  },
+  {
+    "actor": "noya",
+    "expression": "surprised",
+    "grid": [
+      500,
+      500
+    ],
+    "subjectBounds": [
+      97,
+      0,
+      402,
+      500
+    ],
+    "source": "D:\\WORK\\Cet6Story\\assets\\characters\\expressions-v1\\02-noya\\03-惊讶.png"
+  },
+  {
+    "actor": "noya",
+    "expression": "sad",
+    "grid": [
+      500,
+      500
+    ],
+    "subjectBounds": [
+      97,
+      0,
+      402,
+      500
+    ],
+    "source": "D:\\WORK\\Cet6Story\\assets\\characters\\expressions-v1\\02-noya\\04-伤心.png"
+  },
+  {
+    "actor": "noya",
+    "expression": "serious",
+    "grid": [
+      500,
+      500
+    ],
+    "subjectBounds": [
+      97,
+      0,
+      402,
+      500
+    ],
+    "source": "D:\\WORK\\Cet6Story\\assets\\characters\\expressions-v1\\02-noya\\05-认真.png"
+  },
+  {
+    "actor": "noya",
+    "expression": "happy",
+    "grid": [
+      500,
+      500
+    ],
+    "subjectBounds": [
+      97,
+      0,
+      402,
+      500
+    ],
+    "source": "D:\\WORK\\Cet6Story\\assets\\characters\\expressions-v1\\02-noya\\06-高兴.png"
+  },
+  {
+    "actor": "lyse",
+    "expression": "neutral",
+    "grid": [
+      500,
+      500
+    ],
+    "subjectBounds": [
+      67,
+      0,
+      433,
+      500
+    ],
+    "source": "D:\\WORK\\Cet6Story\\assets\\characters\\expressions-v1\\inputs\\03-lyse-original.png"
+  },
+  {
+    "actor": "lyse",
+    "expression": "angry",
+    "grid": [
+      500,
+      500
+    ],
+    "subjectBounds": [
+      67,
+      0,
+      433,
+      500
+    ],
+    "source": "D:\\WORK\\Cet6Story\\assets\\characters\\expressions-v1\\03-lyse\\01-愤怒.png"
+  },
+  {
+    "actor": "lyse",
+    "expression": "confused",
+    "grid": [
+      500,
+      500
+    ],
+    "subjectBounds": [
+      67,
+      0,
+      433,
+      500
+    ],
+    "source": "D:\\WORK\\Cet6Story\\assets\\characters\\expressions-v1\\03-lyse\\02-疑惑.png"
+  },
+  {
+    "actor": "lyse",
+    "expression": "surprised",
+    "grid": [
+      500,
+      500
+    ],
+    "subjectBounds": [
+      67,
+      0,
+      433,
+      500
+    ],
+    "source": "D:\\WORK\\Cet6Story\\assets\\characters\\expressions-v1\\03-lyse\\03-惊讶.png"
+  },
+  {
+    "actor": "lyse",
+    "expression": "sad",
+    "grid": [
+      500,
+      500
+    ],
+    "subjectBounds": [
+      67,
+      0,
+      433,
+      500
+    ],
+    "source": "D:\\WORK\\Cet6Story\\assets\\characters\\expressions-v1\\03-lyse\\04-伤心.png"
+  },
+  {
+    "actor": "lyse",
+    "expression": "serious",
+    "grid": [
+      500,
+      500
+    ],
+    "subjectBounds": [
+      67,
+      0,
+      433,
+      500
+    ],
+    "source": "D:\\WORK\\Cet6Story\\assets\\characters\\expressions-v1\\03-lyse\\05-认真.png"
+  },
+  {
+    "actor": "lyse",
+    "expression": "happy",
+    "grid": [
+      500,
+      500
+    ],
+    "subjectBounds": [
+      67,
+      0,
+      433,
+      500
+    ],
+    "source": "D:\\WORK\\Cet6Story\\assets\\characters\\expressions-v1\\03-lyse\\06-高兴.png"
+  },
+  {
+    "actor": "mila",
+    "expression": "neutral",
+    "grid": [
+      500,
+      500
+    ],
+    "subjectBounds": [
+      84,
+      0,
+      416,
+      500
+    ],
+    "source": "D:\\WORK\\Cet6Story\\assets\\characters\\expressions-v1\\inputs\\04-mila-original.png"
+  },
+  {
+    "actor": "mila",
+    "expression": "angry",
+    "grid": [
+      500,
+      500
+    ],
+    "subjectBounds": [
+      84,
+      0,
+      416,
+      500
+    ],
+    "source": "D:\\WORK\\Cet6Story\\assets\\characters\\expressions-v1\\04-mila\\01-愤怒.png"
+  },
+  {
+    "actor": "mila",
+    "expression": "confused",
+    "grid": [
+      500,
+      500
+    ],
+    "subjectBounds": [
+      84,
+      0,
+      416,
+      500
+    ],
+    "source": "D:\\WORK\\Cet6Story\\assets\\characters\\expressions-v1\\04-mila\\02-疑惑.png"
+  },
+  {
+    "actor": "mila",
+    "expression": "surprised",
+    "grid": [
+      500,
+      500
+    ],
+    "subjectBounds": [
+      84,
+      0,
+      416,
+      500
+    ],
+    "source": "D:\\WORK\\Cet6Story\\assets\\characters\\expressions-v1\\04-mila\\03-惊讶.png"
+  },
+  {
+    "actor": "mila",
+    "expression": "sad",
+    "grid": [
+      500,
+      500
+    ],
+    "subjectBounds": [
+      84,
+      0,
+      416,
+      500
+    ],
+    "source": "D:\\WORK\\Cet6Story\\assets\\characters\\expressions-v1\\04-mila\\04-伤心.png"
+  },
+  {
+    "actor": "mila",
+    "expression": "serious",
+    "grid": [
+      500,
+      500
+    ],
+    "subjectBounds": [
+      84,
+      0,
+      416,
+      500
+    ],
+    "source": "D:\\WORK\\Cet6Story\\assets\\characters\\expressions-v1\\04-mila\\05-认真.png"
+  },
+  {
+    "actor": "mila",
+    "expression": "happy",
+    "grid": [
+      500,
+      500
+    ],
+    "subjectBounds": [
+      84,
+      0,
+      416,
+      500
+    ],
+    "source": "D:\\WORK\\Cet6Story\\assets\\characters\\expressions-v1\\04-mila\\06-高兴.png"
+  },
+  {
+    "actor": "aelia",
+    "expression": "neutral",
+    "grid": [
+      500,
+      500
+    ],
+    "subjectBounds": [
+      69,
+      0,
+      430,
+      500
+    ],
+    "source": "D:\\WORK\\Cet6Story\\assets\\characters\\expressions-v1\\inputs\\05-aelia-original.png"
+  },
+  {
+    "actor": "aelia",
+    "expression": "angry",
+    "grid": [
+      500,
+      500
+    ],
+    "subjectBounds": [
+      69,
+      0,
+      430,
+      500
+    ],
+    "source": "D:\\WORK\\Cet6Story\\assets\\characters\\expressions-v1\\05-aelia\\01-愤怒.png"
+  },
+  {
+    "actor": "aelia",
+    "expression": "confused",
+    "grid": [
+      500,
+      500
+    ],
+    "subjectBounds": [
+      69,
+      0,
+      430,
+      500
+    ],
+    "source": "D:\\WORK\\Cet6Story\\assets\\characters\\expressions-v1\\05-aelia\\02-疑惑.png"
+  },
+  {
+    "actor": "aelia",
+    "expression": "surprised",
+    "grid": [
+      500,
+      500
+    ],
+    "subjectBounds": [
+      69,
+      0,
+      430,
+      500
+    ],
+    "source": "D:\\WORK\\Cet6Story\\assets\\characters\\expressions-v1\\05-aelia\\03-惊讶.png"
+  },
+  {
+    "actor": "aelia",
+    "expression": "sad",
+    "grid": [
+      500,
+      500
+    ],
+    "subjectBounds": [
+      69,
+      0,
+      430,
+      500
+    ],
+    "source": "D:\\WORK\\Cet6Story\\assets\\characters\\expressions-v1\\05-aelia\\04-伤心.png"
+  },
+  {
+    "actor": "aelia",
+    "expression": "serious",
+    "grid": [
+      500,
+      500
+    ],
+    "subjectBounds": [
+      69,
+      0,
+      430,
+      500
+    ],
+    "source": "D:\\WORK\\Cet6Story\\assets\\characters\\expressions-v1\\05-aelia\\05-认真.png"
+  },
+  {
+    "actor": "aelia",
+    "expression": "happy",
+    "grid": [
+      500,
+      500
+    ],
+    "subjectBounds": [
+      69,
+      0,
+      430,
+      500
+    ],
+    "source": "D:\\WORK\\Cet6Story\\assets\\characters\\expressions-v1\\05-aelia\\06-高兴.png"
+  },
+  {
+    "actor": "luchuan",
+    "expression": "neutral",
+    "grid": [
+      500,
+      500
+    ],
+    "subjectBounds": [
+      92,
+      0,
+      407,
+      500
+    ],
+    "source": "D:\\WORK\\Cet6Story\\assets\\characters\\expressions-v1\\inputs\\06-luchuan-original.png"
+  },
+  {
+    "actor": "luchuan",
+    "expression": "angry",
+    "grid": [
+      500,
+      500
+    ],
+    "subjectBounds": [
+      92,
+      0,
+      407,
+      500
+    ],
+    "source": "D:\\WORK\\Cet6Story\\assets\\characters\\expressions-v1\\06-luchuan\\01-愤怒.png"
+  },
+  {
+    "actor": "luchuan",
+    "expression": "confused",
+    "grid": [
+      500,
+      500
+    ],
+    "subjectBounds": [
+      92,
+      0,
+      407,
+      500
+    ],
+    "source": "D:\\WORK\\Cet6Story\\assets\\characters\\expressions-v1\\06-luchuan\\02-疑惑.png"
+  },
+  {
+    "actor": "luchuan",
+    "expression": "surprised",
+    "grid": [
+      500,
+      500
+    ],
+    "subjectBounds": [
+      92,
+      0,
+      407,
+      500
+    ],
+    "source": "D:\\WORK\\Cet6Story\\assets\\characters\\expressions-v1\\06-luchuan\\03-惊讶.png"
+  },
+  {
+    "actor": "luchuan",
+    "expression": "sad",
+    "grid": [
+      500,
+      500
+    ],
+    "subjectBounds": [
+      92,
+      0,
+      407,
+      500
+    ],
+    "source": "D:\\WORK\\Cet6Story\\assets\\characters\\expressions-v1\\06-luchuan\\04-伤心.png"
+  },
+  {
+    "actor": "luchuan",
+    "expression": "serious",
+    "grid": [
+      500,
+      500
+    ],
+    "subjectBounds": [
+      92,
+      0,
+      407,
+      500
+    ],
+    "source": "D:\\WORK\\Cet6Story\\assets\\characters\\expressions-v1\\06-luchuan\\05-认真.png"
+  },
+  {
+    "actor": "luchuan",
+    "expression": "happy",
+    "grid": [
+      500,
+      500
+    ],
+    "subjectBounds": [
+      92,
+      0,
+      407,
+      500
+    ],
+    "source": "D:\\WORK\\Cet6Story\\assets\\characters\\expressions-v1\\06-luchuan\\06-高兴.png"
+  }
+]

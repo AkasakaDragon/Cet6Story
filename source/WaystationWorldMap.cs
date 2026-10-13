@@ -1,15 +1,15 @@
-﻿using System;using System.Drawing;using System.Drawing.Drawing2D;using System.IO;using System.Windows.Forms;
+using System;using System.Linq;using System.Drawing;using System.Drawing.Drawing2D;using System.IO;using System.Windows.Forms;
 public partial class Game {
  void ShowWaystationWorldMap(){
   ClearPage();page="waystation-map";
   var map=new WaystationWorldMap(CachedImage(Path.Combine(root,"assets","world-map","waystation-map.png")),CachedImage(Path.Combine(root,"assets","world-map","waystation-map-wide.png")));
   map.ChapterOneOpen=save.completed.Contains(TavernStory.Id);map.ChapterOneCompleted=save.completed.Contains(WaystationChapterOne.Ids[5]);map.Dock=DockStyle.Fill;map.Return=ShowTavernHub;
-  map.SelectChapter=i=>{if(i==0)NavigateMenu(EnterTavern,"序幕 · 第一盏灯",false,true);else if(i==1&&map.ChapterOneOpen)ShowTavernMainQuest();else GameMessage.Show(this,"本章尚未开放，请先在驿站准备下一段旅程。",WaystationWorldMap.ChapterNames[i]);};
+  map.SelectChapter=i=>{if(i==0)NavigateMenu(()=>{if(save.completed.Contains(TavernStory.Id)&&chapters.Any(PrologueV2.Is))ReplayNewPrologue();else EnterTavern();},"序章 · 雨里的一盏灯",false,true);else if(i==1&&map.ChapterOneOpen)ShowTavernMainQuest();else GameMessage.Show(this,"本章尚未开放，请先在驿站准备下一段旅程。",WaystationWorldMap.ChapterNames[i]);};
   content.Controls.Add(map);map.Focus();
  }
 }
 public sealed class WaystationWorldMap:Control {
- public static readonly string[] ChapterNames={"序幕 · 第一盏灯","第一章 · 今天开始营业","第二章 · 住在楼上的炼金师","第三章 · 王冠之下","第四章 · 失去名字的守护者","第五章 · 最后一次开门营业","终章 · 归灯之夜"};
+ public static readonly string[] ChapterNames={"序章 · 雨里的一盏灯","第一章 · 今天开始营业","第二章 · 住在楼上的炼金师","第三章 · 王冠之下","第四章 · 失去名字的守护者","第五章 · 最后一次开门营业","终章 · 归灯之夜"};
  public bool ChapterOneOpen{get;set;}public bool ChapterOneCompleted{get;set;}
  readonly Image art,backdrop;public Action Return;public Action<int> SelectChapter;public bool ChaptersVisible{get;private set;}
  RectangleF view;Rectangle toggle,returnButton,panel;float uiScale;int hover=-1;

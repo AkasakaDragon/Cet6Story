@@ -24,11 +24,13 @@ public partial class Game {
 
 // Stream a bounded pair of raw frame buffers. No external player window or codec install.
 public class OpeningCgCanvas:Control {
- const int FrameWidth=960,FrameHeight=540,FrameBytes=FrameWidth*FrameHeight*3;
- readonly string ffmpeg,movie,audio;readonly double duration;readonly byte[] pending=new byte[FrameBytes];readonly object gate=new object();readonly ManualResetEvent started=new ManualResetEvent(false);readonly Stopwatch clock=new Stopwatch();
+ readonly int FrameWidth,FrameHeight,FrameBytes;
+ readonly string ffmpeg,movie,audio;readonly double duration;readonly byte[] pending;readonly object gate=new object();readonly ManualResetEvent started=new ManualResetEvent(false);readonly Stopwatch clock=new Stopwatch();
  Process decoder;Thread worker;System.Windows.Forms.Timer timer;Bitmap picture;bool fresh,audioStarted,notified;volatile bool closed;volatile string failure;string decoderError="";
  public Action Completed;public Action<string> Failed;public int FramesShown{get;private set;}public bool AudioStarted{get{return audioStarted;}}
  public bool FillFrame{get;set;}
+ // Continue restarts the clock for the visual fade; media time must remain ended.
+ public double PlaybackSeconds{get{return notified?duration:clock.Elapsed.TotalSeconds;}}
  public string SceneCaption{get;set;}public double SceneCaptionFromSeconds{get;set;}
  public bool WaitForContinue{get;set;}public bool AwaitingContinue{get;private set;}bool continued,transitioning;public double EndFadeHoldSeconds{get;set;}
  void PlaybackEnded(){notified=true;if(timer!=null)timer.Stop();clock.Stop();if(audioStarted)mciSendString("stop openingaudio",null,0,IntPtr.Zero);if(WaitForContinue){AwaitingContinue=true;Cursor=Cursors.Hand;Focus();Invalidate();}else ContinueAfterPlayback();}
@@ -38,10 +40,10 @@ public class OpeningCgCanvas:Control {
  bool paused;
  public void SetPaused(bool value){if(closed||notified||paused==value)return;paused=value;if(value){if(timer!=null)timer.Stop();clock.Stop();if(audioStarted)mciSendString("pause openingaudio",null,0,IntPtr.Zero);}else{if(audioStarted){mciSendString("resume openingaudio",null,0,IntPtr.Zero);clock.Start();}if(timer!=null)timer.Start();}}
  [DllImport("winmm.dll",CharSet=CharSet.Auto)] static extern int mciSendString(string command,StringBuilder result,int length,IntPtr callback);
- public OpeningCgCanvas(string decoderPath,string moviePath,string audioPath,double seconds=67){ffmpeg=decoderPath;movie=moviePath;audio=audioPath;duration=seconds;WaitForContinue=true;EndFadeHoldSeconds=.65;BackColor=Color.Black;DoubleBuffered=true;ResizeRedraw=true;AccessibleName="中英双语开场 CG";TabStop=true;}
+ public OpeningCgCanvas(string decoderPath,string moviePath,string audioPath,double seconds=67,int frameWidth=960,int frameHeight=540){FrameWidth=frameWidth;FrameHeight=frameHeight;FrameBytes=FrameWidth*FrameHeight*3;pending=new byte[FrameBytes];ffmpeg=decoderPath;movie=moviePath;audio=audioPath;duration=seconds;WaitForContinue=true;EndFadeHoldSeconds=.65;BackColor=Color.Black;DoubleBuffered=true;ResizeRedraw=true;AccessibleName="中英双语开场 CG";TabStop=true;}
  public void Start(){
   if(worker!=null)return;if(!File.Exists(ffmpeg)||!File.Exists(movie)||!File.Exists(audio))throw new FileNotFoundException("缺少开场 CG 或播放资源。");
-  decoder=new Process{StartInfo=new ProcessStartInfo{FileName=ffmpeg,Arguments="-nostdin -loglevel error -i \""+movie+"\" -an -vf scale=960:540:flags=neighbor,fps=24 -f rawvideo -pix_fmt bgr24 pipe:1",UseShellExecute=false,CreateNoWindow=true,RedirectStandardOutput=true,RedirectStandardError=true}};
+  decoder=new Process{StartInfo=new ProcessStartInfo{FileName=ffmpeg,Arguments="-nostdin -loglevel error -i \""+movie+"\" -an -vf scale="+FrameWidth+":"+FrameHeight+":flags=neighbor,fps=24 -f rawvideo -pix_fmt bgr24 pipe:1",UseShellExecute=false,CreateNoWindow=true,RedirectStandardOutput=true,RedirectStandardError=true}};
   decoder.ErrorDataReceived+=(s,e)=>{if(!String.IsNullOrEmpty(e.Data))decoderError=e.Data;};decoder.Start();decoder.BeginErrorReadLine();
   picture=new Bitmap(FrameWidth,FrameHeight,PixelFormat.Format24bppRgb);timer=new System.Windows.Forms.Timer{Interval=20};timer.Tick+=(s,e)=>TickPlayback();timer.Start();worker=new Thread(Decode){IsBackground=true,Name="Opening CG decoder"};worker.Start();
  }

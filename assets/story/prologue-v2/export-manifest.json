@@ -1,0 +1,102 @@
+{
+  "cg01": {
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1305b-7c1e-7420-ba38-494aaf4de506\\exec-5e90035c-87a1-4c0a-bde9-b2dde3301d53.png",
+    "width": 800,
+    "height": 800
+  },
+  "cg02": {
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1305b-7c1e-7420-ba38-494aaf4de506\\exec-3ae14dc8-62dc-44fd-8ac3-e31f14a8b127.png",
+    "width": 800,
+    "height": 800
+  },
+  "cg03": {
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1305b-7c1e-7420-ba38-494aaf4de506\\exec-bef67200-49f2-4870-90db-c177f1f114d6.png",
+    "width": 800,
+    "height": 800
+  },
+  "cg04": {
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1305b-7c1e-7420-ba38-494aaf4de506\\exec-c99002f3-e0b4-4e2a-9fcb-f0b3852e8aea.png",
+    "width": 800,
+    "height": 800
+  },
+  "cg05": {
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1305b-7c1e-7420-ba38-494aaf4de506\\exec-4be207f4-5391-42db-919c-87673b99bdd8.png",
+    "width": 800,
+    "height": 800
+  },
+  "dorm": {
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1305b-7c1e-7420-ba38-494aaf4de506\\exec-f383f03b-b4f3-4a3c-a714-298f9692f688.png",
+    "width": 1610,
+    "height": 977
+  },
+  "boundary": {
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1305b-7c1e-7420-ba38-494aaf4de506\\exec-da40ab07-66ff-4aa4-99bb-f5ffece765bf.png",
+    "width": 1610,
+    "height": 977
+  },
+  "outside": {
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1305b-7c1e-7420-ba38-494aaf4de506\\exec-74efe17e-9b4f-4d3d-bf54-a2f9f7254402.png",
+    "width": 1610,
+    "height": 977
+  },
+  "ruined": {
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1305b-7c1e-7420-ba38-494aaf4de506\\exec-41297213-42e8-4072-a362-2aa63dcd1c9c.png",
+    "width": 1610,
+    "height": 977
+  },
+  "patched": {
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1305b-7c1e-7420-ba38-494aaf4de506\\exec-d578e42c-2ffa-43ec-a8cd-af6201557b16.png",
+    "width": 1610,
+    "height": 977
+  },
+  "morning": {
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1305b-7c1e-7420-ba38-494aaf4de506\\exec-bbb412ec-84a7-4c4e-b3d0-942cb62879dc.png",
+    "width": 1610,
+    "height": 977
+  },
+  "luchuan": {
+    "source": "D:\\WORK\\Cet6Story\\assets\\characters\\expressions-v1\\inputs\\06-luchuan-original.png",
+    "canvas": [
+      500,
+      500
+    ],
+    "subjectBounds": [
+      92,
+      0,
+      407,
+      500
+    ],
+    "nativeGrid": true,
+    "proportionsPreserved": true
+  },
+  "aelia": {
+    "source": "D:\\WORK\\Cet6Story\\assets\\characters\\expressions-v1\\inputs\\05-aelia-original.png",
+    "canvas": [
+      500,
+      500
+    ],
+    "subjectBounds": [
+      69,
+      0,
+      430,
+      500
+    ],
+    "nativeGrid": true,
+    "proportionsPreserved": true
+  },
+  "iserya": {
+    "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a1305b-7c1e-7420-ba38-494aaf4de506\\exec-3e492c2e-a9b8-4cbe-86e7-f7250afa4417.png",
+    "canvas": [
+      500,
+      500
+    ],
+    "subjectBounds": [
+      86,
+      0,
+      413,
+      500
+    ],
+    "nativeGrid": true,
+    "proportionsPreserved": true
+  }
+}

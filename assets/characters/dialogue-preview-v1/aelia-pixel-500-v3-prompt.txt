@@ -1,0 +1,1 @@
+Built-in image_gen; transparent background. 女主艾莉娅，全身对话立绘，500×500像素画布；以女主原立绘保持红发、银色骑士甲、米白与酒红衣料和双手剑身份，以男主luchuan-pixel-500-v3.png统一像素尺度和细节程度，reference-2.png提供项目像素质感依据。双手自然搭在竖立双手剑剑柄，冷静严肃表情，完整头发、靴子及剑尖入画；清晰方形像素簇和阶梯轮廓，克制局部色阶，无场景、文字、UI及光滑滤镜。生成后以nearest-neighbor导出500×500透明PNG。
