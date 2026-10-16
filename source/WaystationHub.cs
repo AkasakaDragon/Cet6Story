@@ -8,13 +8,13 @@ public partial class Game {
   var entries=new[]{
    ShowcaseButton("支线远征",ShowToxicWoodlandEntry,190,74),
    ShowcaseButton("酒馆经营",ConfirmTavernPreparation,190,74),
-   ShowcaseButton("前往城镇",ShowWaystationWorldMap,190,74),
+   ShowcaseButton("出门",ShowWaystationWorldMap,190,74),
    ShowcaseButton("返回主界面",ShowMain,220,70),
    ShowcaseButton("伙伴房间",()=>GameMessage.Show(this,"伙伴房间尚未开放。","伙伴房间"),190,74)
   };
   var locations=new[]{new Rectangle(465,420,190,74),new Rectangle(1010,495,190,74),new Rectangle(716,510,190,74),new Rectangle(42,34,220,70),new Rectangle(1310,190,190,74)};
   foreach(var entry in entries){entry.GuildStyle=true;entry.LibraryStyle=true;AddWoodMenuHover(entry);scene.Controls.Add(entry);}
-  tips.SetToolTip(entries[0],"公告板 · 剧毒林地：十节点路线远征");tips.SetToolTip(entries[1],"吧台 · 进入营业准备");tips.SetToolTip(entries[2],"大门 · 世界地图与主线篇章");tips.SetToolTip(entries[4],"楼上客房 · 伙伴房间（尚未开放）");
+  tips.SetToolTip(entries[0],"公告板 · 剧毒林地：十节点路线远征");tips.SetToolTip(entries[1],"吧台 · 进入营业准备");tips.SetToolTip(entries[2],"大门 · 出门查看艾瑟兰大陆地图");tips.SetToolTip(entries[4],"楼上客房 · 伙伴房间（尚未开放）");
   Action layout=()=>{float scale=Math.Max(scene.Width/(float)scene.Art.Width,scene.Height/(float)scene.Art.Height);int ox=(int)Math.Round((scene.Width-scene.Art.Width*scale)/2),oy=(int)Math.Round((scene.Height-scene.Art.Height*scale)/2);for(int i=0;i<entries.Length;i++){var r=locations[i];PlaceShowcase(entries[i],scale,ox,oy,(int)(r.X*scene.Art.Width/1672f),(int)(r.Y*scene.Art.Height/941f),(int)(r.Width*scene.Art.Width/1672f),(int)(r.Height*scene.Art.Height/941f),18);}};
   Action clockLayout=()=>{int side=Math.Max(100,Math.Min(190,Math.Min(scene.Width/5,scene.Height/4)));clock.Size=new Size(side+40,side+42);clock.Location=new Point(scene.Width-clock.Width-18,scene.Height-clock.Height-14);clock.BringToFront();};
   scene.Resize+=(s,e)=>{layout();clockLayout();};layout();clockLayout();scene.Focus();
@@ -24,7 +24,7 @@ public partial class Game {
    dialog.Location=new Point(Left+(Width-dialog.Width)/2,Top+(Height-dialog.Height)/2);
    var body=new Panel{Dock=DockStyle.Fill,BackColor=dialog.BackColor};dialog.Controls.Add(body);Action next=null;var cards=new System.Collections.Generic.List<MainQuestCard>();
    var heading=new OutlinedLabel{Text="第一章 · 今天开始营业",Font=GameTheme.Body(25,FontStyle.Bold),ForeColor=GameTheme.Gold,BackColor=Color.Transparent};body.Controls.Add(heading);
-   var back=PartyButton("返回世界地图",()=>dialog.Close(),180,40);body.Controls.Add(back);
+   var back=PartyButton(page=="maixi-village"?"返回麦溪村":"返回世界地图",()=>dialog.Close(),180,40);body.Controls.Add(back);
    bool marked=false;
    for(int i=0;i<WaystationChapterOne.Ids.Length;i++){
     string id=WaystationChapterOne.Ids[i];var chapter=chapters.Find(c=>c.id==id);bool unlocked=chapter!=null&&SectionRules.Unlocked(chapter,chapters,save);bool done=save.completed.Contains(id);bool active=unlocked&&!done&&!marked;if(active)marked=true;
